@@ -48,8 +48,32 @@ def _star_astrocyte(canvas: np.ndarray, cy: int, cx: int,
                 )
 
 
-def make_demo_image(path: PathLike, size: int = 640, seed: int = 7) -> np.ndarray:
-    """Crée et écrit une image DAB synthétique. Retourne le tableau RGB."""
+def _diffuse_neuropile(size: int, rng: np.random.Generator,
+                       level: float) -> np.ndarray:
+    """Fond de neuropile diffus, basse fréquence + texture fibreuse fine.
+
+    `level` module l'intensité globale du marquage de fond. Cas `heavy` : le
+    neuropile est fortement et inégalement marqué (comme sur une lame réelle),
+    ce qui piège un simple seuillage global.
+    """
+    from scipy.ndimage import gaussian_filter
+    # composante basse fréquence (patches de neuropile)
+    low = gaussian_filter(rng.random((size, size)).astype(np.float32), sigma=size * 0.06)
+    low = (low - low.min()) / (np.ptp(low) + 1e-6)
+    # texture fibreuse fine
+    fine = gaussian_filter(rng.random((size, size)).astype(np.float32), sigma=1.5)
+    fine = (fine - fine.min()) / (np.ptp(fine) + 1e-6)
+    neuropile = level * (0.7 * low + 0.3 * fine)
+    return neuropile.astype(np.float32)
+
+
+def make_demo_image(path: PathLike, size: int = 640, seed: int = 7,
+                    heavy: bool = False) -> np.ndarray:
+    """Crée et écrit une image DAB synthétique. Retourne le tableau RGB.
+
+    `heavy=True` ajoute un neuropile de fond fortement marqué (lame dense) pour
+    valider la soustraction de fond local.
+    """
     rng = np.random.default_rng(seed)
     density = np.zeros((size, size), dtype=np.float32)
 
@@ -63,9 +87,12 @@ def make_demo_image(path: PathLike, size: int = 640, seed: int = 7) -> np.ndarra
         )
 
     # bruit de fond diffus (neuropile) : doit être éliminé par le calibrage
-    neuropile = rng.gamma(1.2, 0.03, size=(size, size)).astype(np.float32)
-    neuropile += 0.05 * rng.random((size, size)).astype(np.float32)
-    density += neuropile
+    if heavy:
+        density += _diffuse_neuropile(size, rng, level=0.55)
+    else:
+        neuropile = rng.gamma(1.2, 0.03, size=(size, size)).astype(np.float32)
+        neuropile += 0.05 * rng.random((size, size)).astype(np.float32)
+        density += neuropile
 
     # fragments épars (débris) : doivent être supprimés (taille min)
     for _ in range(60):
