@@ -27,6 +27,15 @@ deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
   Une soustraction de halo diffus (`--background-sigma`) reste disponible en
   option si le fond est extrêmement marqué.
 
+- **Ancrage sur SOMA (astrocyte = corps cellulaire + branches).** Sur une lame
+  dense, le fond est lui-même rempli de fibres fines : « est-ce filamenteux ? »
+  ne suffit plus. Mais ces fibres n'ont pas de **soma**. On détecte donc les
+  corps cellulaires (ouverture morphologique par un disque = ne répond qu'aux
+  blobs compacts ; maxima locaux adaptatifs pour un bon rappel) et on ne conserve
+  que les structures **connectées à un soma**, dans un rayon plausible. Les fibres
+  de fond sans corps cellulaire sont éliminées. Désactivable par
+  `--no-soma-anchor` si les somas sont trop peu marqués.
+
 - **Seuil sélectif à 3 classes (multi-Otsu).** Astrocytes et maillage de
   neuropile ont la même *finesse* — seule leur **densité** les sépare. On modélise
   donc par image trois populations (fond / neuropile faible / astrocyte sombre) et
@@ -117,6 +126,9 @@ auto par défaut, dérivés de l'échelle de l'image).
    `--sensitivity` (ex. `0.7`).
 3. **Halo diffus très marqué encore présent dans le panneau 2** → activer la
    soustraction de fond avec `--background-sigma 30` (puis `20`, `15`…).
+4. **Des astrocytes entiers manquent (somas peu marqués)** → `--no-soma-anchor`
+   pour garder toute la structure filamenteuse sans exiger de corps cellulaire.
+   Le panneau 4 du QC entoure les somas détectés en bleu (contrôle de l'ancrage).
 
 Le panneau 2 du QC (« Structure / tubeness ») montre exactement ce qui est
 seuillé : son fond doit être **noir**, seuls les astrocytes et leurs branchements
@@ -144,9 +156,9 @@ calibration_log.json / .csv    valeurs auto-estimées par image (append)
 
 ```
 bruit_de_fond_dab/
-  structure.py     détection de forme (tubeness/neuriteness multi-échelle)
+  structure.py     détection de forme (tubeness + détection de somas)
   calibration.py   auto-calibrage par image (point blanc, structure, seuils)
-  segmentation.py  masque FIDÈLE (base commune, sans embellissement)
+  segmentation.py  masque FIDÈLE (structure + ancrage soma, sans embellissement)
   rendering.py     MODE FIGURE (fermeture, feathering alpha, contraste local)
   qc.py            panneau QC 8 vignettes
   pipeline.py      orchestration + journalisation

@@ -155,25 +155,33 @@ def _branching_tree(canvas: np.ndarray, cy: float, cx: float,
 
 
 def make_realistic_image(path: PathLike, size: int = 900, seed: int = 5,
-                         n_astro: int = 14) -> np.ndarray:
+                         n_astro: int = 14, fibrous_bg: bool = False) -> np.ndarray:
     """Lame réaliste : arbres astrocytaires ramifiés sur HALO diffus + fibres
     floues (hors-plan). Le halo n'est ni tubulaire ni compact -> doit être
-    rejeté par la détection de structure. Retourne le tableau RGB."""
+    rejeté par la détection de structure.
+
+    `fibrous_bg=True` : cas difficile — le FOND est lui aussi rempli de fibres
+    fines (comme sur une lame dense). Seul l'ancrage sur SOMA distingue alors les
+    astrocytes des fibres de fond (les fibres n'ont pas de corps cellulaire).
+    Retourne le tableau RGB."""
     rng = np.random.default_rng(seed)
     density = np.zeros((size, size), dtype=np.float32)
+    from scipy.ndimage import gaussian_filter
 
     # halo diffus (basse fréquence, fort) — bruit de fond à supprimer
     density += _diffuse_neuropile(size, rng, level=0.45)
     # fibres floues hors-plan (faibles, larges) — artefacts à gommer
-    from scipy.ndimage import gaussian_filter
     density += gaussian_filter(_faint_mesh(size, rng, 120, 0.10), sigma=2.5)
+    # cas difficile : fond FIBREUX net et envahissant, SANS soma (à rejeter)
+    if fibrous_bg:
+        density += _faint_mesh(size, rng, n_fibres=500, amp=0.40)
 
     # astrocytes ramifiés, denses (à GARDER, avec leurs branchements)
     for _ in range(n_astro):
         cy = rng.uniform(0.08, 0.92) * size
         cx = rng.uniform(0.08, 0.92) * size
         _branching_tree(density, cy, cx, rng, n_branches=rng.integers(5, 8),
-                        reach=rng.uniform(40, 70), amp=rng.uniform(0.5, 0.8))
+                        reach=rng.uniform(40, 70), amp=rng.uniform(0.6, 0.9))
 
     density = np.clip(density, 0, 1.6)
     od = density[..., None] * (-np.log(np.clip(DAB_BROWN, 1e-3, 1)))[None, None, :]

@@ -118,12 +118,12 @@ def calibrate_image(
     rgb: np.ndarray,
     background_sigma: Optional[float] = None,
     sensitivity: float = 1.0,
-) -> tuple[CalibrationResult, np.ndarray]:
+) -> tuple[CalibrationResult, np.ndarray, np.ndarray]:
     """Estime toutes les valeurs de calibrage d'une image.
 
-    Retourne (CalibrationResult, carte_de_prominence). La carte de prominence
-    (densité DAB à fond local soustrait) est celle qui sera seuillée par la
-    segmentation ; elle est réutilisée pour éviter de la recalculer.
+    Retourne (CalibrationResult, carte_de_structure, densité_DAB). La carte de
+    structure (tubeness) est celle qui sera seuillée ; la densité DAB est
+    réutilisée par la segmentation pour ancrer les astrocytes sur leurs somas.
     """
     h, w = rgb.shape[:2]
 
@@ -221,4 +221,4 @@ def calibrate_image(
         sensitivity=float(sensitivity),
         min_object_size=min_size,
     )
-    return result, signal
+    return result, signal, dab

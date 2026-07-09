@@ -36,6 +36,9 @@ def build_parser() -> argparse.ArgumentParser:
                    help="sigma du fond local soustrait, en px (défaut: auto, "
                         "dérivé de la taille de l'image). Diminuer si les "
                         "astrocytes sont petits ; augmenter s'ils sont grands.")
+    p.add_argument("--no-soma-anchor", action="store_true",
+                   help="ne pas exiger de soma : garde toute la structure "
+                        "filamenteuse (utile si les somas sont peu marqués).")
     p.add_argument("--sensitivity", type=float, default=1.0,
                    help="sélectivité du seuil (défaut: 1.0). AUGMENTER (ex. 1.5, "
                         "2.0) si le maillage de neuropile est capturé et que les "
@@ -57,6 +60,7 @@ def main(argv=None) -> int:
         close_radius=args.close_radius,
         background_sigma=args.background_sigma,
         sensitivity=args.sensitivity,
+        soma_anchor=not args.no_soma_anchor,
     )
 
     if args.demo:

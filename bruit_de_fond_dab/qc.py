@@ -61,6 +61,15 @@ def _overlay_boundary(rgb: np.ndarray, mask: np.ndarray,
     return out
 
 
+def _overlay_soma(rgb: np.ndarray, soma_mask: np.ndarray) -> np.ndarray:
+    """Marque en bleu les somas détectés (ancrage)."""
+    out = rgb.copy()
+    if soma_mask is not None and soma_mask.any():
+        b = find_boundaries(soma_mask, mode="outer")
+        out[b] = np.array([0.10, 0.45, 1.0], dtype=np.float32)
+    return out
+
+
 def _checkerboard(h: int, w: int, size: int = 12) -> np.ndarray:
     yy, xx = np.mgrid[0:h, 0:w]
     check = ((yy // size) + (xx // size)) % 2
@@ -99,8 +108,9 @@ def build_qc_panel(
          _heat(sig_norm)),
         (f"3. Hysteresis [{calib.threshold_source}] {calib.threshold_low:.3f}->{calib.threshold:.3f}",
          thr_view),
-        (f"4. Masque ANALYSE fidele (n={seg.n_objects})",
-         _overlay_boundary(rgb, seg.analysis_mask, (0.10, 0.85, 0.20))),
+        (f"4. Masque ANALYSE (n={seg.n_objects}, somas ancres)",
+         _overlay_soma(_overlay_boundary(rgb, seg.analysis_mask,
+                                         (0.10, 0.85, 0.20)), seg.soma_mask)),
         ("5. Masque FIGURE embelli",
          _overlay_boundary(rgb, fig.figure_mask, (1.0, 0.55, 0.0))),
         ("6. FIGURE fond blanc", fig.rgb_white),

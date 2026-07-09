@@ -33,8 +33,8 @@ def test_calibration_is_per_image():
     a = make_demo_image(Path("/tmp/_a.png"), size=256, seed=1)
     b = np.clip(a * 0.6 + 0.2, 0, 1).astype(np.float32)  # image plus claire
 
-    ca, _ = calibrate_image(a)
-    cb, _ = calibrate_image(b)
+    ca, _, _ = calibrate_image(a)
+    cb, _, _ = calibrate_image(b)
 
     assert ca.to_log_dict().keys() == cb.to_log_dict().keys()
     assert ca.threshold != cb.threshold  # valeurs adaptées à chaque image
@@ -46,8 +46,8 @@ def test_heavy_neuropile_is_suppressed():
     doit quand même isoler les astrocytes sur un fond propre (pas de sortie
     quasi vide, pas de fond saturé)."""
     rgb = make_demo_image(Path("/tmp/_heavy.png"), size=512, seed=7, heavy=True)
-    calib, signal = calibrate_image(rgb)
-    seg = segment_astrocytes(signal, calib)
+    calib, signal, dab = calibrate_image(rgb)
+    seg = segment_astrocytes(signal, calib, dab=dab)
 
     # les astrocytes sont retrouvés (pas la sortie quasi vide du bug initial)
     assert seg.n_objects >= 3
@@ -63,8 +63,8 @@ def test_structure_rejects_diffuse_haze():
     rejette le halo brun diffus (fort en intensité mais sans structure)."""
     from bruit_de_fond_dab.synthetic import make_realistic_image
     rgb = make_realistic_image(Path("/tmp/_real.png"), size=700, seed=5, n_astro=12)
-    calib, signal = calibrate_image(rgb)
-    seg = segment_astrocytes(signal, calib)
+    calib, signal, dab = calibrate_image(rgb)
+    seg = segment_astrocytes(signal, calib, dab=dab)
 
     # des astrocytes sont trouvés
     assert seg.n_objects >= 6
@@ -74,11 +74,29 @@ def test_structure_rejects_diffuse_haze():
     assert (signal < 0.05).mean() > 0.7
 
 
+def test_soma_anchor_rejects_fibrous_background():
+    """Sur fond FIBREUX (fibres sans corps cellulaire), l'ancrage sur soma
+    réduit la couverture en supprimant les fibres sans soma, tout en gardant
+    des astrocytes (à soma)."""
+    from bruit_de_fond_dab.synthetic import make_realistic_image
+    rgb = make_realistic_image(Path("/tmp/_fib.png"), size=700, seed=5,
+                               n_astro=12, fibrous_bg=True)
+    calib, signal, dab = calibrate_image(rgb)
+    on = segment_astrocytes(signal, calib, dab=dab, soma_anchor=True)
+    off = segment_astrocytes(signal, calib, dab=dab, soma_anchor=False)
+
+    # l'ancrage ne peut que retirer de la structure (fibres sans soma)
+    assert on.analysis_mask.sum() <= off.analysis_mask.sum()
+    # des astrocytes subsistent (ancrés sur des somas détectés)
+    assert on.n_objects >= 3
+    assert on.soma_mask.any()
+
+
 def test_figure_and_analysis_diverge():
     """Le mode figure embellit (>= surface) ; le mode analyse reste fidèle."""
     rgb = make_demo_image(Path("/tmp/_c.png"), size=320, seed=3)
-    calib, dab = calibrate_image(rgb)
-    seg = segment_astrocytes(dab, calib)
+    calib, signal, dab = calibrate_image(rgb)
+    seg = segment_astrocytes(signal, calib, dab=dab)
     fig = render_figure(rgb, seg.analysis_mask, calib)
 
     # la fermeture ne peut qu'ajouter de la surface, jamais amputer le fidèle
