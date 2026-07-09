@@ -24,13 +24,22 @@ deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
   compacts et les prolongements fins survivent. C'est cette carte, à fond aplati,
   qui est seuillée — d'où « zéro résidu de neuropile ».
 
-- **Seuillage par hystérésis.** Un seuil unique force un mauvais compromis (trop
-  haut = prolongements amputés ; trop bas = neuropile qui fuit). On utilise donc
-  deux niveaux auto-estimés : un seuil **haut** (germes = astrocyte certain) et un
-  seuil **bas** ; seules les structures **connectées** à un germe sont conservées.
-  Résultat : prolongements fins **complets** et neuropile faible isolé rejeté. Ce
-  seuillage reste FIDÈLE (aucune morphologie cosmétique) et convient au mode
-  analyse.
+- **Seuil sélectif à 3 classes (multi-Otsu).** Astrocytes et maillage de
+  neuropile ont la même *finesse* — seule leur **densité** les sépare. On modélise
+  donc par image trois populations (fond / neuropile faible / astrocyte sombre) et
+  on ne retient que la classe la plus dense. Un simple Otsu à 2 classes place le
+  seuil trop bas et capture tout le maillage (masque envahissant, astrocytes non
+  définis) ; le seuil haut du multi-Otsu isole les astrocytes.
+
+- **Seuillage par hystérésis.** Deux niveaux auto-estimés : un seuil **haut**
+  (germes = astrocyte certain) et un seuil **bas** (entre neuropile et astrocyte) ;
+  seules les structures **connectées** à un germe sont conservées. Résultat :
+  prolongements fins **complets** et neuropile faible isolé rejeté. Reste FIDÈLE
+  (aucune morphologie cosmétique) — convient au mode analyse.
+
+- **Réglage `--sensitivity`.** Facteur global sur les seuils (défaut 1.0, auto).
+  L'AUGMENTER (1.5, 2.0) rend le rendu plus sélectif (astrocytes plus nets, moins
+  de maillage) ; le DIMINUER (0.7) récupère des prolongements plus faibles.
 
 - **Objectif visuel.** Astrocytes nets et **complets** sur fond parfaitement propre
   (blanc pur **ou** transparent), zéro résidu de neuropile, zéro fragment épars.
@@ -94,15 +103,20 @@ python -m bruit_de_fond_dab.cli dossier_lames/ -o resultats/
 python -m bruit_de_fond_dab.cli --demo -o resultats/
 ```
 
-Options : `--no-qc`, `--no-local-contrast`, `--feather-sigma <px>`,
-`--close-radius <px>`, `--background-sigma <px>` (tous en auto par défaut,
-dérivés de l'échelle de l'image).
+Options : `--sensitivity <f>`, `--no-qc`, `--no-local-contrast`,
+`--feather-sigma <px>`, `--close-radius <px>`, `--background-sigma <px>` (tous en
+auto par défaut, dérivés de l'échelle de l'image).
 
-**Réglage sur lames denses.** Si le neuropile reste visible dans le rendu,
-_diminuer_ `--background-sigma` (fond local plus fin, plus agressif) ; si des
-prolongements ou de gros somas sont amputés, _augmenter_ `--background-sigma`.
+**Réglage sur lames denses.**
+1. **Maillage de neuropile capturé, astrocytes non définis (masque envahissant)**
+   → _augmenter_ `--sensitivity` (ex. `--sensitivity 1.5`, puis `2.0`).
+2. **Prolongements manquants / astrocytes trop maigres** → _diminuer_
+   `--sensitivity` (ex. `0.7`).
+3. **Fond diffus large encore présent dans le panneau 2** → _diminuer_
+   `--background-sigma`.
+
 Le panneau 2 du QC (« Prominence DAB ») montre exactement ce qui est seuillé :
-son fond doit être noir et seuls les astrocytes lumineux.
+son fond doit être **noir**, seuls les astrocytes lumineux.
 
 ### API Python
 

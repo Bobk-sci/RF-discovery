@@ -25,7 +25,7 @@ from typing import Dict, Optional
 import numpy as np
 from scipy.ndimage import gaussian_filter
 from skimage.color import rgb2hed
-from skimage.filters import threshold_otsu
+from skimage.filters import threshold_otsu, threshold_multiotsu
 
 # Paramètres de la LOGIQUE (identiques pour toutes les images ; non réglés
 # image par image). Seules les VALEURS estimées ci-dessous s'adaptent.
@@ -64,7 +64,8 @@ class CalibrationResult:
     threshold_mad: float
     threshold: float               # seuil HAUT (germes = astrocyte certain)
     threshold_low: float           # seuil BAS (croissance par hystérésis)
-    threshold_source: str          # "otsu", "mad" (celui qui domine)
+    threshold_source: str          # "multiotsu" (3 classes) ou "otsu" (repli)
+    sensitivity: float             # facteur utilisateur appliqué aux seuils
     # nettoyage
     min_object_size: int
 
@@ -112,6 +113,7 @@ def _auto_background_sigma(h: int, w: int) -> float:
 def calibrate_image(
     rgb: np.ndarray,
     background_sigma: Optional[float] = None,
+    sensitivity: float = 1.0,
 ) -> tuple[CalibrationResult, np.ndarray]:
     """Estime toutes les valeurs de calibrage d'une image.
 
@@ -142,32 +144,47 @@ def calibrate_image(
     sig_scale = float(np.percentile(signal, SCALE_PERCENTILE)) + EPS
 
     # --- Seuils candidats -----------------------------------------------------
-    # Otsu, calculé sur les pixels non nuls : la prominence est majoritairement
-    # nulle (fond aplati) ; inclure ce pic de zéros écrase Otsu vers 0. On
-    # cherche donc la vallée signal/fond parmi les pixels porteurs de structure.
+    # On seuille sur les pixels non nuls : la prominence est majoritairement
+    # nulle (fond aplati) ; inclure ce pic de zéros écrase les seuils vers 0.
     positive = signal[signal > EPS]
-    try:
-        if positive.size >= 64 and np.ptp(positive) > EPS:
-            t_otsu = float(threshold_otsu(positive))
-        else:
-            t_otsu = sig_median + MAD_K * 1.4826 * sig_mad
-    except (ValueError, RuntimeError):
-        t_otsu = sig_median + MAD_K * 1.4826 * sig_mad
     # Plancher robuste : le fond (prominence ~0) est modélisé par (médiane, MAD).
     t_mad = sig_median + MAD_K * 1.4826 * sig_mad
+    t_otsu = t_mad  # valeur de repli
 
-    # Seuil HAUT retenu : le plus exigeant des deux -> germes fiables.
-    if t_otsu >= t_mad:
-        threshold, source = t_otsu, "otsu"
-    else:
-        threshold, source = t_mad, "mad"
+    # Seuillage SÉLECTIF à 3 classes (multi-Otsu) : fond / neuropile faible /
+    # astrocyte sombre. On retient la borne HAUTE (t2) -> ne garde que la classe
+    # la plus dense (astrocytes), en rejetant le maillage de neuropile. C'est le
+    # discriminant clé : astrocytes et neuropile ont la même finesse mais des
+    # DENSITÉS différentes. Repli sur Otsu 2 classes si multi-Otsu échoue.
+    source = "multiotsu"
+    t2 = t1 = None
+    if positive.size >= 256 and np.ptp(positive) > EPS:
+        try:
+            ts = threshold_multiotsu(positive, classes=3)
+            t1, t2 = float(ts[0]), float(ts[1])
+        except (ValueError, RuntimeError):
+            t1 = t2 = None
+    if t2 is None:  # repli Otsu 2 classes
+        try:
+            t2 = float(threshold_otsu(positive)) if positive.size >= 64 else t_mad
+        except (ValueError, RuntimeError):
+            t2 = t_mad
+        t1 = 0.5 * t2
+        source = "otsu"
+    t_otsu = t2
 
-    # Seuil BAS (hystérésis) : croissance des germes vers les prolongements
-    # fins, sans descendre sous le plancher de bruit. Les structures faibles
-    # NON reliées à un germe (neuropile isolé) sont rejetées.
-    t_low = max(t_mad, 0.5 * threshold)
-    if t_low >= threshold:          # cas dégénéré -> seuil unique
-        t_low = threshold
+    # Seuil HAUT = borne astrocyte, jamais sous le plancher de bruit.
+    threshold = max(t2, t_mad)
+    # Seuil BAS (hystérésis) : croissance des germes vers les prolongements fins,
+    # entre le neuropile (t1) et l'astrocyte (t2) -> complète les astrocytes sans
+    # envahir le maillage faible.
+    t_low = max(t_mad, 0.5 * (t1 + t2))
+    t_low = min(t_low, threshold)
+
+    # Sensibilité (auto=1.0). >1 : plus sélectif (astrocytes plus nets, moins de
+    # maillage) ; <1 : plus permissif. Règle utilisateur, appliquée aux 2 seuils.
+    threshold *= sensitivity
+    t_low = min(t_low * sensitivity, threshold)
 
     # --- Taille minimale d'objet (dérivée de l'aire) --------------------------
     min_size = max(MIN_SIZE_FLOOR, int(round(MIN_SIZE_AREA_FRAC * h * w)))
@@ -187,6 +204,7 @@ def calibrate_image(
         threshold=threshold,
         threshold_low=t_low,
         threshold_source=source,
+        sensitivity=float(sensitivity),
         min_object_size=min_size,
     )
     return result, signal

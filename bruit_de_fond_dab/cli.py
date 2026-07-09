@@ -36,6 +36,11 @@ def build_parser() -> argparse.ArgumentParser:
                    help="sigma du fond local soustrait, en px (défaut: auto, "
                         "dérivé de la taille de l'image). Diminuer si les "
                         "astrocytes sont petits ; augmenter s'ils sont grands.")
+    p.add_argument("--sensitivity", type=float, default=1.0,
+                   help="sélectivité du seuil (défaut: 1.0). AUGMENTER (ex. 1.5, "
+                        "2.0) si le maillage de neuropile est capturé et que les "
+                        "astrocytes ne sont pas nets ; DIMINUER (ex. 0.7) si des "
+                        "prolongements manquent.")
     p.add_argument("--demo", action="store_true",
                    help="générer et traiter une image DAB synthétique de test")
     return p
@@ -51,6 +56,7 @@ def main(argv=None) -> int:
         feather_sigma=args.feather_sigma,
         close_radius=args.close_radius,
         background_sigma=args.background_sigma,
+        sensitivity=args.sensitivity,
     )
 
     if args.demo:

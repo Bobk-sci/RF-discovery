@@ -67,6 +67,60 @@ def _diffuse_neuropile(size: int, rng: np.random.Generator,
     return neuropile.astype(np.float32)
 
 
+def _faint_mesh(size: int, rng: np.random.Generator, n_fibres: int,
+                amp: float) -> np.ndarray:
+    """Maillage fibreux FAIBLE (neuropile hors-plan) à rejeter.
+
+    Mêmes structures fines que les astrocytes mais nettement moins DENSES
+    (amplitude basse) : seul un seuillage sélectif par l'intensité les écarte.
+    """
+    density = np.zeros((size, size), dtype=np.float32)
+    for _ in range(n_fibres):
+        y, x = rng.uniform(0, size), rng.uniform(0, size)
+        ang = rng.uniform(0, 2 * np.pi)
+        steps = int(rng.uniform(20, 60))
+        width = rng.uniform(0.8, 1.4)
+        for _ in range(steps):
+            ang += rng.normal(0, 0.25)
+            y += np.sin(ang); x += np.cos(ang)
+            iy, ix = int(round(y)), int(round(x))
+            if 0 <= iy < size and 0 <= ix < size:
+                density[iy, ix] += amp * rng.uniform(0.5, 1.0)
+    from scipy.ndimage import gaussian_filter
+    return gaussian_filter(density, sigma=width).astype(np.float32)
+
+
+def make_dense_mesh_image(path: PathLike, size: int = 900, seed: int = 3,
+                          n_astro: int = 28) -> np.ndarray:
+    """Image type lame réelle : nombreux astrocytes SOMBRES sur maillage FAIBLE.
+
+    Reproduit le cas où un seuil trop permissif capture tout le maillage (mask
+    envahissant, astrocytes non définis). Retourne le tableau RGB.
+    """
+    rng = np.random.default_rng(seed)
+    density = np.zeros((size, size), dtype=np.float32)
+
+    # maillage faible envahissant (à REJETER)
+    density += _faint_mesh(size, rng, n_fibres=140, amp=0.16)
+
+    # astrocytes sombres, denses, bien contrastés (à GARDER)
+    for _ in range(n_astro):
+        cy = int(rng.uniform(0.05, 0.95) * size)
+        cx = int(rng.uniform(0.05, 0.95) * size)
+        _star_astrocyte(
+            density, cy, cx, rng,
+            soma_r=rng.uniform(4, 7), n_proc=rng.integers(6, 10),
+            reach=rng.uniform(30, 55),
+        )
+
+    density = np.clip(density, 0, 1.5)
+    od = density[..., None] * (-np.log(np.clip(DAB_BROWN, 1e-3, 1)))[None, None, :]
+    rgb = BG_WHITE[None, None, :] * np.exp(-od)
+    rgb = np.clip(rgb, 0, 1).astype(np.float32)
+    write_rgb(path, rgb)
+    return rgb
+
+
 def make_demo_image(path: PathLike, size: int = 640, seed: int = 7,
                     heavy: bool = False) -> np.ndarray:
     """Crée et écrit une image DAB synthétique. Retourne le tableau RGB.
