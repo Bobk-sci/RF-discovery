@@ -84,15 +84,21 @@ def build_qc_panel(
     fig: FigureRender,
 ) -> Image.Image:
     """Assemble le montage QC (retourne une image PIL RGB)."""
-    dab_norm = np.clip(seg.dab_map / max(calib.dab_scale, 1e-6), 0, 1)
+    sig_norm = np.clip(seg.signal_map / max(calib.signal_scale, 1e-6), 0, 1)
 
-    thr_mask = seg.dab_map >= calib.threshold
-    thr_view = _overlay_boundary(_heat(dab_norm), thr_mask, (1.0, 1.0, 1.0))
+    # aperçu du seuillage par hystérésis : contour du masque d'analyse (bas
+    # relié aux germes) + germes hauts en surbrillance
+    seeds = seg.signal_map >= calib.threshold
+    thr_view = _heat(sig_norm)
+    thr_view = _overlay_boundary(thr_view, seg.analysis_mask, (1.0, 1.0, 1.0))
+    thr_view[seeds] = np.array([1.0, 0.3, 0.3], dtype=np.float32)
 
     panels: List[Tuple[str, np.ndarray]] = [
         ("1. Originale", rgb),
-        (f"2. Densite DAB (echelle={calib.dab_scale:.3f})", _heat(dab_norm)),
-        (f"3. Seuil auto [{calib.threshold_source}]={calib.threshold:.3f}", thr_view),
+        (f"2. Prominence DAB (fond-s={calib.background_sigma:.0f}px)",
+         _heat(sig_norm)),
+        (f"3. Hysteresis [{calib.threshold_source}] {calib.threshold_low:.3f}->{calib.threshold:.3f}",
+         thr_view),
         (f"4. Masque ANALYSE fidele (n={seg.n_objects})",
          _overlay_boundary(rgb, seg.analysis_mask, (0.10, 0.85, 0.20))),
         ("5. Masque FIGURE embelli",

@@ -32,6 +32,10 @@ def build_parser() -> argparse.ArgumentParser:
                    help="flou du canal alpha en px (défaut: 1.0)")
     p.add_argument("--close-radius", type=int, default=None,
                    help="rayon de fermeture figure (défaut: auto)")
+    p.add_argument("--background-sigma", type=float, default=None,
+                   help="sigma du fond local soustrait, en px (défaut: auto, "
+                        "dérivé de la taille de l'image). Diminuer si les "
+                        "astrocytes sont petits ; augmenter s'ils sont grands.")
     p.add_argument("--demo", action="store_true",
                    help="générer et traiter une image DAB synthétique de test")
     return p
@@ -46,6 +50,7 @@ def main(argv=None) -> int:
         local_contrast=not args.no_local_contrast,
         feather_sigma=args.feather_sigma,
         close_radius=args.close_radius,
+        background_sigma=args.background_sigma,
     )
 
     if args.demo:

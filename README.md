@@ -8,11 +8,29 @@ deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
 
 - **Auto-calibrage PAR IMAGE.** Chaque image estime, à partir de ses propres
   statistiques, son point blanc (percentile haut de luminosité = illumination de
-  fond), son échelle d'OD et ses seuils (Otsu sur la densité DAB + plancher
-  robuste médiane + *k*·MAD). La **logique** de décision est identique d'une image
-  à l'autre ; seules les **valeurs numériques** s'adaptent. Aucun réglage manuel
-  image par image. Toutes les valeurs auto-estimées sont **journalisées**
+  fond), son échelle d'OD et ses seuils (Otsu + plancher robuste médiane +
+  *k*·MAD). La **logique** de décision est identique d'une image à l'autre ;
+  seules les **valeurs numériques** s'adaptent. Aucun réglage manuel image par
+  image. Toutes les valeurs auto-estimées sont **journalisées**
   (`calibration_log.json` / `.csv`) pour la traçabilité et la reproductibilité.
+
+- **Soustraction du fond local (neuropile diffus).** Sur une lame réelle, le
+  neuropile est lui-même marqué au DAB : un seuillage global échoue (soit il
+  capture tout le neuropile, soit son plancher robuste explose et ne capture
+  plus rien). Les astrocytes se distinguent par une densité **localement**
+  supérieure. On calcule donc une carte de **prominence** = densité DAB moins son
+  fond local (passe-haut gaussien, `sigma` auto-dérivé de la taille de l'image) :
+  le neuropile diffus (basse fréquence) est ramené à ~0, tandis que les somas
+  compacts et les prolongements fins survivent. C'est cette carte, à fond aplati,
+  qui est seuillée — d'où « zéro résidu de neuropile ».
+
+- **Seuillage par hystérésis.** Un seuil unique force un mauvais compromis (trop
+  haut = prolongements amputés ; trop bas = neuropile qui fuit). On utilise donc
+  deux niveaux auto-estimés : un seuil **haut** (germes = astrocyte certain) et un
+  seuil **bas** ; seules les structures **connectées** à un germe sont conservées.
+  Résultat : prolongements fins **complets** et neuropile faible isolé rejeté. Ce
+  seuillage reste FIDÈLE (aucune morphologie cosmétique) et convient au mode
+  analyse.
 
 - **Objectif visuel.** Astrocytes nets et **complets** sur fond parfaitement propre
   (blanc pur **ou** transparent), zéro résidu de neuropile, zéro fragment épars.
@@ -48,8 +66,10 @@ final diffère.
 
 ## Contrôle qualité (QC)
 
-Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) densité DAB (OD)
-à l'échelle auto-estimée, (3) seuil auto, (4) **masque analyse fidèle**,
+Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) **prominence
+DAB** (densité à fond local soustrait — ce qui est réellement seuillé),
+(3) seuillage par hystérésis (germes hauts + croissance), (4) **masque analyse
+fidèle**,
 (5) masque figure embelli, **(6) rendu figure fond blanc**, **(7) rendu figure
 transparent sur damier** (pour visualiser l'alpha), (8) carte d'alpha. Les
 panneaux (6) et (7) sont côte à côte avec le masque fidèle (4) pour vérifier que
@@ -75,7 +95,14 @@ python -m bruit_de_fond_dab.cli --demo -o resultats/
 ```
 
 Options : `--no-qc`, `--no-local-contrast`, `--feather-sigma <px>`,
-`--close-radius <px>` (défaut : auto, dérivé de l'échelle de l'image).
+`--close-radius <px>`, `--background-sigma <px>` (tous en auto par défaut,
+dérivés de l'échelle de l'image).
+
+**Réglage sur lames denses.** Si le neuropile reste visible dans le rendu,
+_diminuer_ `--background-sigma` (fond local plus fin, plus agressif) ; si des
+prolongements ou de gros somas sont amputés, _augmenter_ `--background-sigma`.
+Le panneau 2 du QC (« Prominence DAB ») montre exactement ce qui est seuillé :
+son fond doit être noir et seuls les astrocytes lumineux.
 
 ### API Python
 
@@ -99,7 +126,7 @@ calibration_log.json / .csv    valeurs auto-estimées par image (append)
 
 ```
 bruit_de_fond_dab/
-  calibration.py   auto-calibrage par image (point blanc, OD, seuils Otsu/MAD)
+  calibration.py   auto-calibrage par image (point blanc, prominence, seuils)
   segmentation.py  masque FIDÈLE (base commune, sans embellissement)
   rendering.py     MODE FIGURE (fermeture, feathering alpha, contraste local)
   qc.py            panneau QC 8 vignettes

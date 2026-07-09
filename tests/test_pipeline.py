@@ -41,6 +41,23 @@ def test_calibration_is_per_image():
     assert ca.white_luminance != cb.white_luminance
 
 
+def test_heavy_neuropile_is_suppressed():
+    """Sur fond de neuropile FORTEMENT marqué, la soustraction de fond local
+    doit quand même isoler les astrocytes sur un fond propre (pas de sortie
+    quasi vide, pas de fond saturé)."""
+    rgb = make_demo_image(Path("/tmp/_heavy.png"), size=512, seed=7, heavy=True)
+    calib, signal = calibrate_image(rgb)
+    seg = segment_astrocytes(signal, calib)
+
+    # les astrocytes sont retrouvés (pas la sortie quasi vide du bug initial)
+    assert seg.n_objects >= 3
+    # le fond reste propre : la couverture du masque est faible (pas tout le champ)
+    coverage = seg.analysis_mask.mean()
+    assert 0.001 < coverage < 0.10
+    # le seuil est fini et strictement positif
+    assert calib.threshold > 0
+
+
 def test_figure_and_analysis_diverge():
     """Le mode figure embellit (>= surface) ; le mode analyse reste fidèle."""
     rgb = make_demo_image(Path("/tmp/_c.png"), size=320, seed=3)

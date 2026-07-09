@@ -48,6 +48,7 @@ def process_image(
     local_contrast: bool = True,
     feather_sigma: float = 1.0,
     close_radius: Optional[int] = None,
+    background_sigma: Optional[float] = None,
 ) -> ProcessOutput:
     """Traite une image et écrit toutes ses sorties."""
     image_path = Path(image_path)
@@ -58,10 +59,10 @@ def process_image(
     rgb = read_rgb(image_path)
 
     # 1) Auto-calibrage PAR IMAGE
-    calib, dab_map = calibrate_image(rgb)
+    calib, signal_map = calibrate_image(rgb, background_sigma=background_sigma)
 
     # 2) Segmentation -> masque FIDÈLE (base commune)
-    seg = segment_astrocytes(dab_map, calib)
+    seg = segment_astrocytes(signal_map, calib)
 
     # 3) MODE FIGURE (embellissement séparé)
     fig = render_figure(

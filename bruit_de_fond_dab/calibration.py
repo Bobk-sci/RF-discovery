@@ -4,29 +4,42 @@ Chaque image estime, à partir de ses propres statistiques :
     - son point blanc I0 (percentile haut de luminosité = illumination de fond) ;
     - une carte de densité DAB (déconvolution de couleur sur image normalisée
       au point blanc, c.-à-d. en densité optique) ;
-    - une échelle d'OD robuste (percentile haut de la carte DAB) ;
-    - ses seuils (Otsu sur la carte DAB + plancher robuste médiane + k·MAD) ;
+    - une carte de PROMINENCE = densité DAB moins son fond local (passe-haut
+      gaussien). Le neuropile diffus est basse fréquence -> soustrait ~0 ; les
+      somas compacts et les prolongements fins survivent. C'est cette carte, à
+      fond aplati, qui est seuillée -> le seuillage reste robuste même quand le
+      neuropile est lui-même fortement marqué ;
+    - une échelle d'affichage robuste (percentile haut de la prominence) ;
+    - ses seuils (Otsu sur la prominence + plancher robuste médiane + k·MAD) ;
     - une taille minimale d'objet dérivée de l'aire de l'image.
 
 La LOGIQUE est identique d'une image à l'autre — seules les valeurs numériques
-s'adaptent. Toutes les valeurs sont retournées pour être journalisées.
+s'adaptent (le sigma du fond local est dérivé de la taille de l'image). Toutes
+les valeurs sont retournées pour être journalisées.
 """
 from __future__ import annotations
 
-from dataclasses import dataclass, asdict, field
-from typing import Dict
+from dataclasses import dataclass, asdict
+from typing import Dict, Optional
 
 import numpy as np
+from scipy.ndimage import gaussian_filter
 from skimage.color import rgb2hed
 from skimage.filters import threshold_otsu
 
 # Paramètres de la LOGIQUE (identiques pour toutes les images ; non réglés
 # image par image). Seules les VALEURS estimées ci-dessous s'adaptent.
 WHITE_PERCENTILE = 99.0        # point blanc = percentile haut de luminosité
-DAB_SCALE_PERCENTILE = 99.5    # échelle d'OD = percentile haut de la carte DAB
+SCALE_PERCENTILE = 99.5        # échelle d'affichage = percentile haut prominence
 MAD_K = 3.0                    # plancher robuste : médiane + k·MAD (fond)
 MIN_SIZE_AREA_FRAC = 6e-5      # taille min d'objet = frac. de l'aire image
 MIN_SIZE_FLOOR = 24            # taille min d'objet, plancher absolu (px)
+# Fond local : sigma du passe-haut, dérivé de la taille de l'image.
+# Doit être >> largeur des prolongements et >~ taille des somas, mais assez
+# petit pour capturer le neuropile diffus comme "fond local".
+BG_SIGMA_FRAC = 0.025
+BG_SIGMA_MIN = 12.0
+BG_SIGMA_MAX = 40.0
 EPS = 1e-6
 
 
@@ -39,15 +52,18 @@ class CalibrationResult:
     # point blanc par canal + luminance
     white_point_rgb: tuple
     white_luminance: float
-    # densité DAB
-    dab_scale: float               # échelle d'OD (normalisation d'affichage)
-    dab_median: float
-    dab_mad: float
-    dab_p99: float
+    # fond local (soustraction du neuropile diffus)
+    background_sigma: float
+    # statistiques de la carte de prominence (signal seuillé)
+    signal_scale: float            # échelle d'affichage (normalisation)
+    signal_median: float
+    signal_mad: float
+    signal_p99: float
     # seuils candidats et seuil retenu
     threshold_otsu: float
     threshold_mad: float
-    threshold: float
+    threshold: float               # seuil HAUT (germes = astrocyte certain)
+    threshold_low: float           # seuil BAS (croissance par hystérésis)
     threshold_source: str          # "otsu", "mad" (celui qui domine)
     # nettoyage
     min_object_size: int
@@ -78,11 +94,30 @@ def dab_density_map(rgb: np.ndarray, white_point_rgb: np.ndarray) -> np.ndarray:
     return dab.astype(np.float32)
 
 
-def calibrate_image(rgb: np.ndarray) -> tuple[CalibrationResult, np.ndarray]:
+def local_prominence(dab: np.ndarray, sigma: float) -> np.ndarray:
+    """Densité DAB moins son fond local (passe-haut gaussien), rectifiée >= 0.
+
+    Supprime le neuropile diffus (basse fréquence) tout en conservant les
+    structures compactes (somas) et fines (prolongements) des astrocytes.
+    """
+    background = gaussian_filter(dab, sigma=sigma, mode="reflect")
+    prom = np.clip(dab - background, 0.0, None)
+    return prom.astype(np.float32)
+
+
+def _auto_background_sigma(h: int, w: int) -> float:
+    return float(np.clip(BG_SIGMA_FRAC * min(h, w), BG_SIGMA_MIN, BG_SIGMA_MAX))
+
+
+def calibrate_image(
+    rgb: np.ndarray,
+    background_sigma: Optional[float] = None,
+) -> tuple[CalibrationResult, np.ndarray]:
     """Estime toutes les valeurs de calibrage d'une image.
 
-    Retourne (CalibrationResult, carte_DAB). La carte DAB est réutilisée par la
-    segmentation pour éviter de la recalculer.
+    Retourne (CalibrationResult, carte_de_prominence). La carte de prominence
+    (densité DAB à fond local soustrait) est celle qui sera seuillée par la
+    segmentation ; elle est réutilisée pour éviter de la recalculer.
     """
     h, w = rgb.shape[:2]
 
@@ -94,30 +129,45 @@ def calibrate_image(rgb: np.ndarray) -> tuple[CalibrationResult, np.ndarray]:
     lum = rgb @ np.array([0.2126, 0.7152, 0.0722], dtype=np.float32)
     white_lum = float(np.percentile(lum, WHITE_PERCENTILE))
 
-    # --- Carte de densité DAB (en OD, normalisée au point blanc) --------------
+    # --- Densité DAB (OD) puis PROMINENCE (fond diffus soustrait) -------------
     dab = dab_density_map(rgb, white_rgb)
+    if background_sigma is None:
+        background_sigma = _auto_background_sigma(h, w)
+    signal = local_prominence(dab, background_sigma)
 
-    # --- Statistiques robustes de la carte DAB --------------------------------
-    dab_median = float(np.median(dab))
-    dab_mad = float(np.median(np.abs(dab - dab_median))) + EPS
-    dab_p99 = float(np.percentile(dab, 99.0))
-    dab_scale = float(np.percentile(dab, DAB_SCALE_PERCENTILE)) + EPS
+    # --- Statistiques robustes de la carte de prominence ----------------------
+    sig_median = float(np.median(signal))
+    sig_mad = float(np.median(np.abs(signal - sig_median))) + EPS
+    sig_p99 = float(np.percentile(signal, 99.0))
+    sig_scale = float(np.percentile(signal, SCALE_PERCENTILE)) + EPS
 
     # --- Seuils candidats -----------------------------------------------------
-    # Otsu sur la carte DAB (sépare signal / fond sur cette image)
+    # Otsu, calculé sur les pixels non nuls : la prominence est majoritairement
+    # nulle (fond aplati) ; inclure ce pic de zéros écrase Otsu vers 0. On
+    # cherche donc la vallée signal/fond parmi les pixels porteurs de structure.
+    positive = signal[signal > EPS]
     try:
-        t_otsu = float(threshold_otsu(dab))
+        if positive.size >= 64 and np.ptp(positive) > EPS:
+            t_otsu = float(threshold_otsu(positive))
+        else:
+            t_otsu = sig_median + MAD_K * 1.4826 * sig_mad
     except (ValueError, RuntimeError):
-        t_otsu = dab_median + MAD_K * dab_mad
-    # Plancher robuste : le fond est modélisé par (médiane, MAD)
-    t_mad = dab_median + MAD_K * 1.4826 * dab_mad
+        t_otsu = sig_median + MAD_K * 1.4826 * sig_mad
+    # Plancher robuste : le fond (prominence ~0) est modélisé par (médiane, MAD).
+    t_mad = sig_median + MAD_K * 1.4826 * sig_mad
 
-    # Le seuil retenu ne descend jamais sous le plancher de bruit robuste :
-    # on garde le plus exigeant des deux -> zéro résidu de neuropile.
+    # Seuil HAUT retenu : le plus exigeant des deux -> germes fiables.
     if t_otsu >= t_mad:
         threshold, source = t_otsu, "otsu"
     else:
         threshold, source = t_mad, "mad"
+
+    # Seuil BAS (hystérésis) : croissance des germes vers les prolongements
+    # fins, sans descendre sous le plancher de bruit. Les structures faibles
+    # NON reliées à un germe (neuropile isolé) sont rejetées.
+    t_low = max(t_mad, 0.5 * threshold)
+    if t_low >= threshold:          # cas dégénéré -> seuil unique
+        t_low = threshold
 
     # --- Taille minimale d'objet (dérivée de l'aire) --------------------------
     min_size = max(MIN_SIZE_FLOOR, int(round(MIN_SIZE_AREA_FRAC * h * w)))
@@ -127,14 +177,16 @@ def calibrate_image(rgb: np.ndarray) -> tuple[CalibrationResult, np.ndarray]:
         width=w,
         white_point_rgb=tuple(float(v) for v in white_rgb),
         white_luminance=white_lum,
-        dab_scale=dab_scale,
-        dab_median=dab_median,
-        dab_mad=dab_mad,
-        dab_p99=dab_p99,
+        background_sigma=float(background_sigma),
+        signal_scale=sig_scale,
+        signal_median=sig_median,
+        signal_mad=sig_mad,
+        signal_p99=sig_p99,
         threshold_otsu=t_otsu,
         threshold_mad=t_mad,
         threshold=threshold,
+        threshold_low=t_low,
         threshold_source=source,
         min_object_size=min_size,
     )
-    return result, dab
+    return result, signal
