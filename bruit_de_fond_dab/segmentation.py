@@ -14,6 +14,7 @@ from dataclasses import dataclass
 
 import numpy as np
 from skimage.measure import label
+from skimage.filters import apply_hysteresis_threshold
 
 from .calibration import CalibrationResult
 from .morph_compat import remove_small_objects, remove_small_holes
@@ -34,8 +35,17 @@ def segment_astrocytes(
     calib: CalibrationResult,
 ) -> SegmentationResult:
     """Construit le masque d'analyse fidèle à partir de la carte calibrée."""
-    # Seuillage au seuil auto-estimé (le plus exigeant Otsu / MAD).
-    raw = signal_map >= calib.threshold
+    # Seuillage par HYSTÉRÉSIS : les germes (>= seuil haut) sont des astrocytes
+    # certains ; on les fait croître dans les pixels >= seuil bas UNIQUEMENT
+    # s'ils y sont connectés. -> prolongements fins complets, et neuropile faible
+    # isolé (sans germe) rejeté = fond propre. Reste FIDÈLE (aucune morphologie
+    # cosmétique) : préserve les gaps authentiques pour le Sholl.
+    if calib.threshold_low < calib.threshold:
+        raw = apply_hysteresis_threshold(
+            signal_map, calib.threshold_low, calib.threshold
+        )
+    else:  # cas dégénéré -> seuil unique
+        raw = signal_map >= calib.threshold
 
     # Nettoyage MINIMAL : uniquement les micro-débris épars sous la taille
     # minimale dérivée de l'aire. Pas de fermeture, pas de dilatation.

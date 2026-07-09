@@ -24,6 +24,14 @@ deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
   compacts et les prolongements fins survivent. C'est cette carte, à fond aplati,
   qui est seuillée — d'où « zéro résidu de neuropile ».
 
+- **Seuillage par hystérésis.** Un seuil unique force un mauvais compromis (trop
+  haut = prolongements amputés ; trop bas = neuropile qui fuit). On utilise donc
+  deux niveaux auto-estimés : un seuil **haut** (germes = astrocyte certain) et un
+  seuil **bas** ; seules les structures **connectées** à un germe sont conservées.
+  Résultat : prolongements fins **complets** et neuropile faible isolé rejeté. Ce
+  seuillage reste FIDÈLE (aucune morphologie cosmétique) et convient au mode
+  analyse.
+
 - **Objectif visuel.** Astrocytes nets et **complets** sur fond parfaitement propre
   (blanc pur **ou** transparent), zéro résidu de neuropile, zéro fragment épars.
   La sortie n'est **pas** un masque binaire : le masque final est appliqué sur
@@ -60,7 +68,8 @@ final diffère.
 
 Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) **prominence
 DAB** (densité à fond local soustrait — ce qui est réellement seuillé),
-(3) seuil auto, (4) **masque analyse fidèle**,
+(3) seuillage par hystérésis (germes hauts + croissance), (4) **masque analyse
+fidèle**,
 (5) masque figure embelli, **(6) rendu figure fond blanc**, **(7) rendu figure
 transparent sur damier** (pour visualiser l'alpha), (8) carte d'alpha. Les
 panneaux (6) et (7) sont côte à côte avec le masque fidèle (4) pour vérifier que

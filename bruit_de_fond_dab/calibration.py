@@ -62,7 +62,8 @@ class CalibrationResult:
     # seuils candidats et seuil retenu
     threshold_otsu: float
     threshold_mad: float
-    threshold: float
+    threshold: float               # seuil HAUT (germes = astrocyte certain)
+    threshold_low: float           # seuil BAS (croissance par hystérésis)
     threshold_source: str          # "otsu", "mad" (celui qui domine)
     # nettoyage
     min_object_size: int
@@ -155,11 +156,18 @@ def calibrate_image(
     # Plancher robuste : le fond (prominence ~0) est modélisé par (médiane, MAD).
     t_mad = sig_median + MAD_K * 1.4826 * sig_mad
 
-    # Seuil retenu : le plus exigeant des deux -> zéro résidu de neuropile.
+    # Seuil HAUT retenu : le plus exigeant des deux -> germes fiables.
     if t_otsu >= t_mad:
         threshold, source = t_otsu, "otsu"
     else:
         threshold, source = t_mad, "mad"
+
+    # Seuil BAS (hystérésis) : croissance des germes vers les prolongements
+    # fins, sans descendre sous le plancher de bruit. Les structures faibles
+    # NON reliées à un germe (neuropile isolé) sont rejetées.
+    t_low = max(t_mad, 0.5 * threshold)
+    if t_low >= threshold:          # cas dégénéré -> seuil unique
+        t_low = threshold
 
     # --- Taille minimale d'objet (dérivée de l'aire) --------------------------
     min_size = max(MIN_SIZE_FLOOR, int(round(MIN_SIZE_AREA_FRAC * h * w)))
@@ -177,6 +185,7 @@ def calibrate_image(
         threshold_otsu=t_otsu,
         threshold_mad=t_mad,
         threshold=threshold,
+        threshold_low=t_low,
         threshold_source=source,
         min_object_size=min_size,
     )
