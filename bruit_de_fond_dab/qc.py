@@ -95,7 +95,7 @@ def build_qc_panel(
 
     panels: List[Tuple[str, np.ndarray]] = [
         ("1. Originale", rgb),
-        (f"2. Prominence DAB (fond-s={calib.background_sigma:.0f}px)",
+        (f"2. Structure/tubeness (echelles<={calib.ridge_scale_max:.0f}px)",
          _heat(sig_norm)),
         (f"3. Hysteresis [{calib.threshold_source}] {calib.threshold_low:.3f}->{calib.threshold:.3f}",
          thr_view),

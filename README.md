@@ -14,15 +14,18 @@ deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
   image. Toutes les valeurs auto-estimées sont **journalisées**
   (`calibration_log.json` / `.csv`) pour la traçabilité et la reproductibilité.
 
-- **Soustraction du fond local (neuropile diffus).** Sur une lame réelle, le
-  neuropile est lui-même marqué au DAB : un seuillage global échoue (soit il
-  capture tout le neuropile, soit son plancher robuste explose et ne capture
-  plus rien). Les astrocytes se distinguent par une densité **localement**
-  supérieure. On calcule donc une carte de **prominence** = densité DAB moins son
-  fond local (passe-haut gaussien, `sigma` auto-dérivé de la taille de l'image) :
-  le neuropile diffus (basse fréquence) est ramené à ~0, tandis que les somas
-  compacts et les prolongements fins survivent. C'est cette carte, à fond aplati,
-  qui est seuillée — d'où « zéro résidu de neuropile ».
+- **Détection par la STRUCTURE, pas l'intensité.** Un seuil de contraste ne
+  distingue jamais un astrocyte d'un halo brun diffus. Ce qui définit un
+  astrocyte, c'est sa **forme** : un soma d'où rayonnent des prolongements fins,
+  allongés et ramifiés. On applique donc un **filtre de Hessienne multi-échelle
+  (Sato / « tubeness », famille des filtres de traçage de neurites)** sur la
+  densité DAB : il répond fortement aux structures **tubulaires fines** et
+  **rejette par construction** les zones diffuses (neuropile, halo, flou
+  hors-plan), quelle que soit leur intensité. C'est cette carte de STRUCTURE
+  (indépendante de l'intensité absolue) qui est ensuite seuillée. Résultat :
+  seuls les astrocytes et leurs branchements ressortent, sur fond propre.
+  Une soustraction de halo diffus (`--background-sigma`) reste disponible en
+  option si le fond est extrêmement marqué.
 
 - **Seuil sélectif à 3 classes (multi-Otsu).** Astrocytes et maillage de
   neuropile ont la même *finesse* — seule leur **densité** les sépare. On modélise
@@ -75,10 +78,10 @@ final diffère.
 
 ## Contrôle qualité (QC)
 
-Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) **prominence
-DAB** (densité à fond local soustrait — ce qui est réellement seuillé),
-(3) seuillage par hystérésis (germes hauts + croissance), (4) **masque analyse
-fidèle**,
+Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) **carte de
+structure / tubeness** (réponse de forme — ce qui est réellement seuillé ; son
+fond doit être noir), (3) seuillage par hystérésis (germes hauts + croissance),
+(4) **masque analyse fidèle**,
 (5) masque figure embelli, **(6) rendu figure fond blanc**, **(7) rendu figure
 transparent sur damier** (pour visualiser l'alpha), (8) carte d'alpha. Les
 panneaux (6) et (7) sont côte à côte avec le masque fidèle (4) pour vérifier que
@@ -112,11 +115,12 @@ auto par défaut, dérivés de l'échelle de l'image).
    → _augmenter_ `--sensitivity` (ex. `--sensitivity 1.5`, puis `2.0`).
 2. **Prolongements manquants / astrocytes trop maigres** → _diminuer_
    `--sensitivity` (ex. `0.7`).
-3. **Fond diffus large encore présent dans le panneau 2** → _diminuer_
-   `--background-sigma`.
+3. **Halo diffus très marqué encore présent dans le panneau 2** → activer la
+   soustraction de fond avec `--background-sigma 30` (puis `20`, `15`…).
 
-Le panneau 2 du QC (« Prominence DAB ») montre exactement ce qui est seuillé :
-son fond doit être **noir**, seuls les astrocytes lumineux.
+Le panneau 2 du QC (« Structure / tubeness ») montre exactement ce qui est
+seuillé : son fond doit être **noir**, seuls les astrocytes et leurs branchements
+lumineux.
 
 ### API Python
 
@@ -140,7 +144,8 @@ calibration_log.json / .csv    valeurs auto-estimées par image (append)
 
 ```
 bruit_de_fond_dab/
-  calibration.py   auto-calibrage par image (point blanc, prominence, seuils)
+  structure.py     détection de forme (tubeness/neuriteness multi-échelle)
+  calibration.py   auto-calibrage par image (point blanc, structure, seuils)
   segmentation.py  masque FIDÈLE (base commune, sans embellissement)
   rendering.py     MODE FIGURE (fermeture, feathering alpha, contraste local)
   qc.py            panneau QC 8 vignettes

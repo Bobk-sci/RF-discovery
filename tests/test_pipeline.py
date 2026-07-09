@@ -58,6 +58,22 @@ def test_heavy_neuropile_is_suppressed():
     assert calib.threshold > 0
 
 
+def test_structure_rejects_diffuse_haze():
+    """La détection de STRUCTURE (tubeness) garde les astrocytes ramifiés et
+    rejette le halo brun diffus (fort en intensité mais sans structure)."""
+    from bruit_de_fond_dab.synthetic import make_realistic_image
+    rgb = make_realistic_image(Path("/tmp/_real.png"), size=700, seed=5, n_astro=12)
+    calib, signal = calibrate_image(rgb)
+    seg = segment_astrocytes(signal, calib)
+
+    # des astrocytes sont trouvés
+    assert seg.n_objects >= 6
+    # le fond reste propre malgré un halo diffus fort (pas d'envahissement)
+    assert seg.analysis_mask.mean() < 0.12
+    # le signal de structure est quasi nul sur le fond (majorité de pixels ~0)
+    assert (signal < 0.05).mean() > 0.7
+
+
 def test_figure_and_analysis_diverge():
     """Le mode figure embellit (>= surface) ; le mode analyse reste fidèle."""
     rgb = make_demo_image(Path("/tmp/_c.png"), size=320, seed=3)

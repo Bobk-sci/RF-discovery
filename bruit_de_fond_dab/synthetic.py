@@ -121,6 +121,67 @@ def make_dense_mesh_image(path: PathLike, size: int = 900, seed: int = 3,
     return rgb
 
 
+def _branching_tree(canvas: np.ndarray, cy: float, cx: float,
+                    rng: np.random.Generator, n_branches: int, reach: float,
+                    amp: float) -> None:
+    """Astrocyte réaliste : soma + prolongements qui SE RAMIFIENT (récursif)."""
+    h, w = canvas.shape
+    canvas[int(cy) % h, int(cx) % w] += amp
+    d2 = None
+
+    def draw_branch(y, x, ang, length, width, level):
+        steps = int(length)
+        for s in range(steps):
+            ang += rng.normal(0, 0.2)
+            y += np.sin(ang); x += np.cos(ang)
+            iy, ix = int(round(y)), int(round(x))
+            if 0 <= iy < h and 0 <= ix < w:
+                rr = max(1, int(np.ceil(width)))
+                y0, y1 = max(0, iy - rr), min(h, iy + rr + 1)
+                x0, x1 = max(0, ix - rr), min(w, ix + rr + 1)
+                ly, lx = np.mgrid[y0:y1, x0:x1]
+                canvas[y0:y1, x0:x1] += amp * np.exp(
+                    -((ly - iy) ** 2 + (lx - ix) ** 2) / (2 * width ** 2))
+            # bifurcation aléatoire
+            if level < 3 and s > steps // 3 and rng.random() < 0.06:
+                draw_branch(y, x, ang + rng.uniform(0.4, 1.0),
+                            length * 0.6, width * 0.8, level + 1)
+    # soma
+    yy, xx = np.mgrid[0:h, 0:w]
+    canvas += 0.9 * amp * np.exp(-((yy - cy) ** 2 + (xx - cx) ** 2) / (2 * 5.0 ** 2))
+    for _ in range(n_branches):
+        draw_branch(cy, cx, rng.uniform(0, 2 * np.pi),
+                    reach * rng.uniform(0.6, 1.0), rng.uniform(1.2, 2.0), 0)
+
+
+def make_realistic_image(path: PathLike, size: int = 900, seed: int = 5,
+                         n_astro: int = 14) -> np.ndarray:
+    """Lame réaliste : arbres astrocytaires ramifiés sur HALO diffus + fibres
+    floues (hors-plan). Le halo n'est ni tubulaire ni compact -> doit être
+    rejeté par la détection de structure. Retourne le tableau RGB."""
+    rng = np.random.default_rng(seed)
+    density = np.zeros((size, size), dtype=np.float32)
+
+    # halo diffus (basse fréquence, fort) — bruit de fond à supprimer
+    density += _diffuse_neuropile(size, rng, level=0.45)
+    # fibres floues hors-plan (faibles, larges) — artefacts à gommer
+    from scipy.ndimage import gaussian_filter
+    density += gaussian_filter(_faint_mesh(size, rng, 120, 0.10), sigma=2.5)
+
+    # astrocytes ramifiés, denses (à GARDER, avec leurs branchements)
+    for _ in range(n_astro):
+        cy = rng.uniform(0.08, 0.92) * size
+        cx = rng.uniform(0.08, 0.92) * size
+        _branching_tree(density, cy, cx, rng, n_branches=rng.integers(5, 8),
+                        reach=rng.uniform(40, 70), amp=rng.uniform(0.5, 0.8))
+
+    density = np.clip(density, 0, 1.6)
+    od = density[..., None] * (-np.log(np.clip(DAB_BROWN, 1e-3, 1)))[None, None, :]
+    rgb = np.clip(BG_WHITE[None, None, :] * np.exp(-od), 0, 1).astype(np.float32)
+    write_rgb(path, rgb)
+    return rgb
+
+
 def make_demo_image(path: PathLike, size: int = 640, seed: int = 7,
                     heavy: bool = False) -> np.ndarray:
     """Crée et écrit une image DAB synthétique. Retourne le tableau RGB.
