@@ -39,9 +39,14 @@ class FigureRender:
 
 
 def _auto_close_radius(calib: CalibrationResult) -> int:
-    """Rayon de fermeture doux, dérivé de l'échelle de l'image."""
+    """Rayon de fermeture doux, dérivé de l'échelle de l'image.
+
+    Volontairement PETIT (cap à 2 px) : sur un champ dense d'astrocytes, une
+    fermeture trop large fusionne les prolongements voisins en pâtés et détruit
+    la définition des cellules. On ne fait que combler les micro-coupures.
+    """
     scale = 0.5 * (calib.height + calib.width)
-    return int(np.clip(round(0.0015 * scale), 1, 4))
+    return int(np.clip(round(0.0008 * scale), 1, 2))
 
 
 def render_figure(
