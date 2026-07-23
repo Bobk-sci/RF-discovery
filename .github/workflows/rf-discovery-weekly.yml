@@ -12,6 +12,7 @@ permissions:
 defaults:
   run:
     working-directory: rf-discovery
+    shell: bash -eo pipefail {0}   # pipefail : un crash Python dans un `| tee` fait échouer le step
 
 concurrency:
   group: rf-discovery-weekly
@@ -39,6 +40,13 @@ jobs:
       - name: Install dependencies
         run: uv pip install --system -e .
 
+      - name: Ensure issue labels exist
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT || github.token }}
+        run: |
+          gh label create weekly-digest  --color 1f883d --description "Digest hebdomadaire" || true
+          gh label create pipeline-failure --color d1242f --description "Échec de run" || true
+
       - name: Harvest literature (Europe PMC + PubTator)
         id: harvest
         env:
@@ -62,7 +70,8 @@ jobs:
         run: |
           git config user.name  "rf-discovery-bot"
           git config user.email "${{ secrets.CONTACT_EMAIL || 'bot@example.com' }}"
-          git add data/graph.duckdb reports/ logs/ || true
+          # -f : le digest/log sont gitignorés (bruit local) mais sont le livrable en CI.
+          git add -f data/graph.duckdb reports/ logs/ || true
           git commit -m "Run hebdomadaire $(date -u +%F)" || echo "rien à committer"
           git push
 
