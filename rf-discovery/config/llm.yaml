@@ -1,0 +1,29 @@
+# Ordre de bascule des fournisseurs LLM (§8).
+# Aucun code métier ne connaît le fournisseur : src/llm/client.py lit cet ordre et
+# bascule au premier fournisseur dont la clé est présente et qui répond.
+# Interdit explicite (§2) : pas de dépendance à GitHub Models (retiré le 2026-07-30).
+#
+# Les clés API sont lues dans les variables d'environnement nommées ci-dessous,
+# jamais codées en dur. Un provider sans clé disponible est ignoré.
+
+max_calls_per_run: 40
+batch_size: 10            # regrouper les résumés par lots de 10 par requête
+timeout_s: 60
+temperature: 0.0         # déterminisme
+
+providers:
+  - name: groq
+    api_key_env: GROQ_API_KEY
+    base_url: "https://api.groq.com/openai/v1/chat/completions"
+    model: "llama-3.3-70b-versatile"
+  - name: cerebras
+    api_key_env: CEREBRAS_API_KEY
+    base_url: "https://api.cerebras.ai/v1/chat/completions"
+    model: "llama-3.3-70b"
+  - name: openrouter
+    api_key_env: OPENROUTER_API_KEY
+    base_url: "https://openrouter.ai/api/v1/chat/completions"
+    model: "meta-llama/llama-3.3-70b-instruct:free"
+
+# Si aucun fournisseur n'est disponible, le pipeline se dégrade proprement :
+# le digest tombe en tableau brut, le run n'échoue pas (§8).

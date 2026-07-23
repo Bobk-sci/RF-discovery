@@ -1,0 +1,71 @@
+# Mapping des types sémantiques UMLS (abréviations SemMedDB) vers les types de nœuds du
+# métagraphe (§6). Un type sémantique absent de cette table est ignoré : la prédication
+# correspondante n'entre pas dans le graphe (filtrage par construction du bruit SemMedDB).
+#
+# Référence : UMLS Semantic Types & Groups (abréviations à 4 lettres, ex. « gngm »).
+
+semtype_map:
+  # --- Gene / protéine ---
+  gngm: Gene        # Gene or Genome
+  aapp: Gene        # Amino Acid, Peptide, or Protein
+  enzy: Gene        # Enzyme
+  rcpt: Gene        # Receptor
+  imft: Gene        # Immunologic Factor
+  nusq: Gene        # Nucleotide Sequence
+  gene: Gene
+
+  # --- Chimique / substance ---
+  phsu: Chemical    # Pharmacologic Substance
+  orch: Chemical    # Organic Chemical
+  inch: Chemical    # Inorganic Chemical
+  nnon: Chemical    # Nucleic Acid, Nucleoside, or Nucleotide
+  opco: Chemical    # Organophosphorus Compound
+  hops: Chemical    # Hazardous or Poisonous Substance
+  bacs: Chemical    # Biologically Active Substance
+  chvf: Chemical    # Chemical Viewed Functionally
+  chvs: Chemical    # Chemical Viewed Structurally
+  elii: Chemical    # Element, Ion, or Isotope
+  strd: Chemical    # Steroid
+  lipd: Chemical    # Lipid
+  carb: Chemical    # Carbohydrate
+  vita: Chemical    # Vitamin
+  antb: Chemical    # Antibiotic
+  horm: Chemical    # Hormone
+  nsba: Chemical    # Neuroreactive Substance or Biogenic Amine
+
+  # --- Maladie / dysfonction ---
+  dsyn: Disease     # Disease or Syndrome
+  neop: Disease     # Neoplastic Process
+  mobd: Disease     # Mental or Behavioral Dysfunction
+  cgab: Disease     # Congenital Abnormality
+  acab: Disease     # Acquired Abnormality
+  inpo: Disease     # Injury or Poisoning
+  patf: Disease     # Pathologic Function
+  comd: Disease     # Cell or Molecular Dysfunction
+
+  # --- Phénotype / fonction / signe ---
+  sosy: Phenotype   # Sign or Symptom
+  fndg: Phenotype   # Finding
+  menp: Phenotype   # Mental Process
+  biof: Phenotype   # Biologic Function
+  orgf: Phenotype   # Organ or Tissue Function
+  phpr: Phenotype   # Phenomenon or Process
+
+  # --- Voie / fonction moléculaire ---
+  moft: Pathway     # Molecular Function
+  celf: Pathway     # Cell Function
+  genf: Pathway     # Genetic Function
+
+  # --- Type cellulaire ---
+  cell: CellType    # Cell
+  celc: CellType    # Cell Component
+
+  # --- Région / structure anatomique (approx. région cérébrale) ---
+  bpoc: BrainRegion # Body Part, Organ, or Organ Component
+  tisu: BrainRegion # Tissue
+  ffas: BrainRegion # Fully Formed Anatomical Structure
+
+# CUI forcés au type Exposure (aucun type sémantique UMLS ne couvre l'« exposition »).
+# À enrichir avec les entités CEM-RF pertinentes (RF, GSM, Wi-Fi, SAR…) une fois
+# identifiées dans le corpus. Prend le pas sur semtype_map.
+exposure_cuis: []

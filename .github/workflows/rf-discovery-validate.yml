@@ -1,0 +1,35 @@
+name: rf-discovery-validate
+
+on:
+  schedule:
+    - cron: '0 7 1 * *'      # 1er du mois 07:00 UTC — revalidation du time-slice
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'rf-discovery/**'
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    working-directory: rf-discovery
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: astral-sh/setup-uv@v3
+      - name: Install
+        run: uv pip install --system -e ".[dev]"
+      - name: Lint
+        run: ruff check src tests
+      - name: Tests
+        run: pytest -q
+      - name: Time-slice gate (démo synthétique)
+        run: |
+          python -m run --synthetic --permutations 100 --db /tmp/gate.duckdb

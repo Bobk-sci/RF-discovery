@@ -1,0 +1,78 @@
+# Métagraphe et contraintes d'énumération des métachemins (§7.1).
+#
+# node_types : types de nœuds admis dans le graphe.
+# predicates : prédicats SemMedDB retenus (les trop génériques sont exclus).
+# metaedges  : arêtes typées du métagraphe -> [source_type, predicate, target_type].
+#              Chaque métaedge a un inverse implicite (suffixe _rev) pour l'énumération.
+# source_types / target_types : extrémités admissibles d'un métachemin.
+# empty_hub_nodes : entités SemMedDB vides de sens à exclure comme nœud intermédiaire (§7.1).
+# min_len / max_len : longueur en nombre de métaedges.
+
+node_types:
+  - Gene
+  - Chemical
+  - Disease
+  - Pathway
+  - CellType
+  - BrainRegion
+  - Exposure
+  - Phenotype
+
+# Prédicats SemMedDB conservés (les prédicats trop génériques sont volontairement absents).
+predicates:
+  - AFFECTS
+  - AUGMENTS
+  - CAUSES
+  - DISRUPTS
+  - INHIBITS
+  - STIMULATES
+  - INTERACTS_WITH
+  - PART_OF
+  - PARTICIPATES_IN
+  - ASSOCIATED_WITH
+  - PRODUCES
+  - PREDISPOSES
+
+metaedges:
+  - [Exposure, AFFECTS, Gene]
+  - [Exposure, CAUSES, Phenotype]
+  - [Exposure, AUGMENTS, Chemical]
+  - [Exposure, DISRUPTS, Pathway]
+  - [Chemical, AFFECTS, Gene]
+  - [Chemical, INTERACTS_WITH, Gene]
+  - [Chemical, CAUSES, Disease]
+  - [Chemical, INHIBITS, Gene]
+  - [Chemical, STIMULATES, Gene]
+  - [Gene, PARTICIPATES_IN, Pathway]
+  - [Gene, PART_OF, Pathway]
+  - [Gene, ASSOCIATED_WITH, Disease]
+  - [Gene, INTERACTS_WITH, Gene]
+  - [Pathway, ASSOCIATED_WITH, Phenotype]
+  - [Pathway, ASSOCIATED_WITH, Disease]
+  - [Pathway, PARTICIPATES_IN, CellType]
+  - [CellType, PART_OF, BrainRegion]
+  - [CellType, ASSOCIATED_WITH, Disease]
+  - [BrainRegion, ASSOCIATED_WITH, Phenotype]
+  - [Disease, ASSOCIATED_WITH, Phenotype]
+  - [Disease, PREDISPOSES, Phenotype]
+
+source_types: [Exposure, Chemical]
+target_types: [Phenotype, Disease]
+
+# Nœuds SemMedDB « vides » (hubs sémantiques) exclus comme intermédiaires.
+empty_hub_nodes:
+  - "C0030705"   # Patients
+  - "C0012634"   # Disease (générique)
+  - "C0007634"   # Cells
+  - "C0087111"   # Therapeutic procedure
+  - "C0243095"   # Findings
+  - "C1522240"   # Mus (organism)
+  - "C0035168"   # Research
+
+min_len: 2
+max_len: 4
+
+# Poids de pénalisation des degrés dans le DWPC (§7.2).
+dwpc_damping: 0.4
+# Nombre de permutations XSwap pour le modèle nul (§7.3).
+n_permutations: 200

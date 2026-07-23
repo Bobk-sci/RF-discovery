@@ -1,0 +1,47 @@
+name: rf-discovery-pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'rf-discovery/data/graph.duckdb'
+      - 'rf-discovery/src/report/**'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rf-discovery-pages
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: rf-discovery
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: astral-sh/setup-uv@v3
+      - name: Install
+        run: uv pip install --system -e .
+      - name: Build dashboard
+        # Rendu statique depuis la base committée (graphe navigable + historique des verdicts).
+        run: python -m report.dashboard --db data/graph.duckdb --out _site/index.html
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: rf-discovery/_site
+      - name: Deploy
+        id: deploy
+        uses: actions/deploy-pages@v4
