@@ -55,7 +55,7 @@ jobs:
         # Le runner GitHub Actions a un réseau ouvert : le pipeline interroge lui-même
         # les API (aucun PDF à fournir). Le cache dans data/cache/ évite de re-solliciter.
         run: |
-          python -m harvest --db data/graph.duckdb | tee harvest.json
+          python -m harvest --db data/graph.duckdb --max-results 2000 | tee harvest.json
 
       - name: Score, validate gate, report
         id: pipeline
