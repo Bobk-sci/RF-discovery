@@ -72,6 +72,24 @@ def test_harvest_rerun_is_idempotent(tmp_path):
     assert second.n_papers == 0
 
 
+def test_harvest_survives_pubtator_error_and_skips_non_numeric(tmp_path):
+    # Europe PMC renvoie aussi un ID preprint non numérique (PPR/PMC) ; PubTator plante.
+    def epmc(_url, _params):
+        return {"resultList": {"result": [
+            {"pmid": "100", "title": "ok", "pubYear": "2016"},
+            {"id": "PMC999", "title": "preprint sans PMID", "pubYear": "2020"}]}}
+
+    def failing_pubtator(_url, params):
+        assert "PMC999" not in params["pmids"], "les non-numériques ne doivent pas être envoyés"
+        raise RuntimeError("400 Bad Request")
+
+    res = harvest(tmp_path / "g.duckdb", domains_path=DOMAINS, seen_path=tmp_path / "s.json",
+                  epmc_fetcher=epmc, pubtator_fetcher=failing_pubtator,
+                  cache_dir=str(tmp_path / "c"))
+    # le run ne plante pas : articles collectés, graphe vide car PubTator a échoué
+    assert res.n_papers == 2 and res.n_nodes == 0 and res.n_edges == 0
+
+
 def test_run_real_mode_on_harvested_graph(tmp_path):
     # Le mode réel (synthetic=False) charge le graphe collecté et score sans planter,
     # même si ce petit graphe de fixture ne produit aucune paire candidate.

@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import logging
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -43,11 +44,17 @@ def _load_domains(path: str | Path) -> tuple[list[dict], list[str]]:
 
 
 def _fetch_pubtator(pmids, fetcher, cache_dir) -> tuple[list[Annotation], list[Relation]]:
+    """PubTator3 n'accepte que des PMID numériques ; un lot en échec est ignoré, pas fatal."""
+    numeric = [p for p in pmids if p.isdigit()]
     anns: list[Annotation] = []
     rels: list[Relation] = []
-    for i in range(0, len(pmids), _PUBTATOR_BATCH):
-        batch = pmids[i:i + _PUBTATOR_BATCH]
-        a, r = pubtator.fetch_annotations(batch, fetcher=fetcher, cache_dir=cache_dir)
+    for i in range(0, len(numeric), _PUBTATOR_BATCH):
+        batch = numeric[i:i + _PUBTATOR_BATCH]
+        try:
+            a, r = pubtator.fetch_annotations(batch, fetcher=fetcher, cache_dir=cache_dir)
+        except Exception as exc:  # un lot problématique ne doit pas tuer la collecte
+            logging.warning("lot PubTator ignoré (%d PMIDs) : %s", len(batch), exc)
+            continue
         anns.extend(a)
         rels.extend(r)
     return anns, rels
@@ -73,10 +80,16 @@ def harvest(
     year_map: dict[str, int] = {}
     per_domain: dict[str, int] = {}
     for dom in domains:
-        query = europepmc.build_query(dom["query"], rf_terms, dom.get("rf_terms_allowed", False))
-        papers = europepmc.search(query, domain=dom["name"], page_size=page_size,
-                                  fetcher=epmc_fetcher, cache_dir=cache_dir)
-        fresh, seen = dedupe(papers, seen)
+        try:
+            query = europepmc.build_query(dom["query"], rf_terms,
+                                          dom.get("rf_terms_allowed", False))
+            papers = europepmc.search(query, domain=dom["name"], page_size=page_size,
+                                      fetcher=epmc_fetcher, cache_dir=cache_dir)
+            fresh, seen = dedupe(papers, seen)
+        except Exception as exc:  # un domaine en échec n'annule pas les autres
+            logging.warning("domaine %s ignoré : %s", dom["name"], exc)
+            per_domain[dom["name"]] = 0
+            continue
         per_domain[dom["name"]] = len(fresh)
         pmids = [p.pmid for p in fresh if p.pmid]
         for p in fresh:
