@@ -35,13 +35,15 @@ def candidate_pairs(nodes, mg: MetaGraph, limit: int = 400) -> list[tuple[str, s
 
 def persist(con, nodes, edges, candidates, run_row: dict) -> None:
     con.execute("DELETE FROM nodes")
-    con.executemany("INSERT INTO nodes (node_id, node_type, degree) VALUES (?, ?, 0)",
-                    [(n.node_id, n.node_type) for n in nodes])
+    if nodes:
+        con.executemany("INSERT INTO nodes (node_id, node_type, degree) VALUES (?, ?, 0)",
+                        [(n.node_id, n.node_type) for n in nodes])
     con.execute("DELETE FROM edges")
-    con.executemany(
-        "INSERT INTO edges (source_id, target_id, predicate, first_year, n_papers) "
-        "VALUES (?, ?, ?, ?, 1)",
-        [(e.source_id, e.target_id, e.predicate, e.first_year) for e in edges])
+    if edges:
+        con.executemany(
+            "INSERT INTO edges (source_id, target_id, predicate, first_year, n_papers) "
+            "VALUES (?, ?, ?, ?, 1)",
+            [(e.source_id, e.target_id, e.predicate, e.first_year) for e in edges])
     _persist_candidates(con, run_row["run_date"], candidates)
     con.execute(
         "INSERT OR REPLACE INTO runs (run_date, n_new_papers, n_new_edges, n_candidates, "
@@ -53,6 +55,8 @@ def persist(con, nodes, edges, candidates, run_row: dict) -> None:
 def _persist_candidates(con, run_date, candidates) -> None:
     """Ajoute les candidats du run (jamais de suppression, §12 — historique d'entraînement)."""
     con.execute("DELETE FROM candidates WHERE run_date = ?", (run_date,))  # rerun idempotent
+    if not candidates:
+        return
     con.executemany(
         "INSERT INTO candidates (run_date, a_id, c_id, metapath, dwpc, z_score, p_value, "
         "embed_score, novelty_z, burst_score, composite_rank, llm_explanation, human_verdict)"

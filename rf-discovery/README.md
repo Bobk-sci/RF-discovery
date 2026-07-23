@@ -34,6 +34,30 @@ python -m run --synthetic      # démo bout-en-bout : scoring + gate + digest
 chaîne complète hors-ligne, gate compris. Le mode réel réutilise les mêmes étages de
 scoring sur les données collectées via `src/collect/` (Europe PMC, PubTator3, …).
 
+## Collecte (harvester) — le pipeline va chercher les données lui-même
+
+`src/harvest.py` est le chef d'orchestre de la collecte : pour chaque domaine de
+`config/domains.yaml`, il interroge **Europe PMC** (PMIDs + résumés) puis **PubTator3**
+(entités + relations pré-annotées, par lots), déduplique via `data/seen.json`, et écrit
+articles + nœuds + arêtes dans DuckDB.
+
+```bash
+python -m harvest --db data/graph.duckdb      # collecte tous les domaines
+python -m run     --db data/graph.duckdb --permutations 200   # score + gate + digest
+```
+
+**Aucun PDF à fournir.** Le pipeline consomme des résumés et des entités/relations déjà
+extraites — pas du texte intégral. La collecte a besoin d'un **réseau ouvert** : elle tourne
+sur **GitHub Actions** (`weekly.yml`, runner avec Internet) ou sur votre machine, pas dans un
+environnement à politique réseau restreinte. Les réponses brutes sont mises en cache dans
+`data/cache/` (un rerun ne re-sollicite pas les API) et respectent les rate limits (backoff
+exponentiel, `User-Agent` avec email de contact). La couche réseau est injectable : les tests
+utilisent des fixtures enregistrées, jamais le réseau.
+
+PubTator3 étant ouvert (sans licence), le harvester amorce un graphe réel **sans** SemMedDB.
+Pour un substrat plus riche, on ajoute SemMedDB par-dessus (section suivante) — les deux
+sources normalisent vers les mêmes nœuds/arêtes (`normalize/records.py`), d'où la jointure.
+
 ## Ingestion SemMedDB (substrat du graphe)
 
 SemMedDB fournit les triplets sujet-prédicat-objet sur tout MEDLINE — le substrat du

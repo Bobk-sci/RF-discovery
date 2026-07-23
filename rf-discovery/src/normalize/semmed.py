@@ -9,13 +9,15 @@ maximiser la jointure avec les nœuds PubTator (qui utilisent l'Entrez).
 from __future__ import annotations
 
 from collections.abc import Iterable, Mapping
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 
 import yaml
 
 from collect.semmeddb import Predication
-from graph.build import Edge, Node
+from normalize.records import AggEdge, AggNode
+
+__all__ = ["AggEdge", "AggNode", "SemMedConfig", "build_nodes_edges", "normalize_cui"]
 
 
 @dataclass
@@ -35,31 +37,6 @@ class SemMedConfig:
             predicates=set(mp.get("predicates", [])),
             empty_hubs=set(mp.get("empty_hub_nodes", [])),
         )
-
-
-@dataclass
-class AggNode:
-    node_id: str
-    node_type: str
-    name: str
-    first_year: int
-
-    def to_graph_node(self) -> Node:
-        return Node(node_id=self.node_id, node_type=self.node_type)
-
-
-@dataclass
-class AggEdge:
-    source_id: str
-    target_id: str
-    predicate: str
-    n_papers: int
-    first_year: int
-    last_year: int
-    pmids: list[str] = field(default_factory=list)
-
-    def to_graph_edge(self) -> Edge:
-        return Edge(self.source_id, self.target_id, self.predicate, self.first_year)
 
 
 def _node_type(cui_token0: str, semtype: str, cfg: SemMedConfig) -> str | None:

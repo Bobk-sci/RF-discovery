@@ -6,24 +6,41 @@ d'acceptation M2 (distribution en loi de puissance).
 from __future__ import annotations
 
 from collections.abc import Sequence
+from datetime import UTC
 
 import numpy as np
 
 from graph.build import Edge, Node
-from normalize.semmed import AggEdge, AggNode
+from normalize.records import AggEdge, AggNode
+
+
+def insert_papers(con, papers) -> None:
+    """Insère/replace les articles collectés (table papers, §6)."""
+    from datetime import datetime
+
+    now = datetime.now(UTC)
+    rows = [(p.pmid, p.doi, p.title, p.abstract, p.year, p.journal, p.domain, p.source,
+             p.oa_status, now) for p in papers if p.pmid]
+    if rows:
+        con.executemany(
+            "INSERT OR REPLACE INTO papers (pmid, doi, title, abstract, year, journal, "
+            "domain, source, oa_status, retrieved_at, triage_score) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NULL)", rows)
 
 
 def upsert(con, nodes: Sequence[AggNode], edges: Sequence[AggEdge]) -> None:
     """Insère/replace nœuds et arêtes puis recalcule les degrés."""
-    con.executemany(
-        "INSERT OR REPLACE INTO nodes (node_id, node_type, name, synonyms, first_year, "
-        "degree) VALUES (?, ?, ?, [], ?, 0)",
-        [(n.node_id, n.node_type, n.name, n.first_year) for n in nodes])
-    con.executemany(
-        "INSERT OR REPLACE INTO edges (source_id, target_id, predicate, n_papers, "
-        "first_year, last_year, pmids, confidence) VALUES (?, ?, ?, ?, ?, ?, ?, 1.0)",
-        [(e.source_id, e.target_id, e.predicate, e.n_papers, e.first_year, e.last_year,
-          e.pmids) for e in edges])
+    if nodes:
+        con.executemany(
+            "INSERT OR REPLACE INTO nodes (node_id, node_type, name, synonyms, first_year, "
+            "degree) VALUES (?, ?, ?, [], ?, 0)",
+            [(n.node_id, n.node_type, n.name, n.first_year) for n in nodes])
+    if edges:
+        con.executemany(
+            "INSERT OR REPLACE INTO edges (source_id, target_id, predicate, n_papers, "
+            "first_year, last_year, pmids, confidence) VALUES (?, ?, ?, ?, ?, ?, ?, 1.0)",
+            [(e.source_id, e.target_id, e.predicate, e.n_papers, e.first_year, e.last_year,
+              e.pmids) for e in edges])
     recompute_degrees(con)
 
 

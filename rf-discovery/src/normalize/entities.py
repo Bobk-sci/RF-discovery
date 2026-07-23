@@ -5,10 +5,11 @@ vers l'ensemble SemMedDB retenu. Agrège les arêtes multi-articles (n_papers, f
 """
 from __future__ import annotations
 
-from collections.abc import Iterable, Sequence
+from collections.abc import Iterable, Mapping, Sequence
 
 from collect.pubtator import Annotation, Relation
 from graph.build import Edge, Node
+from normalize.records import AggEdge, AggNode
 
 # PubTator/SemMedDB -> types de nœuds du métagraphe.
 _TYPE_MAP = {
@@ -64,3 +65,52 @@ def edges_from_relations(rels: Sequence[Relation], known_nodes: Iterable[str]) -
         first = min(positive) if positive else 0
         edges.append(Edge(source_id=s, target_id=o, predicate=pred, first_year=first))
     return edges
+
+
+def agg_nodes_from_annotations(
+    anns: Iterable[Annotation], year_map: Mapping[str, int] | None = None
+) -> list[AggNode]:
+    """Nœuds agrégés (nom, première année) à partir des annotations PubTator."""
+    year_map = year_map or {}
+    nodes: dict[str, AggNode] = {}
+    for a in anns:
+        ntype = map_type(a.entity_type)
+        if ntype is None:
+            continue
+        year = int(year_map.get(a.pmid, a.year) or 0)
+        existing = nodes.get(a.concept_id)
+        if existing is None:
+            nodes[a.concept_id] = AggNode(a.concept_id, ntype, a.text, year)
+        elif year and (existing.first_year == 0 or year < existing.first_year):
+            existing.first_year = year
+    return list(nodes.values())
+
+
+def agg_edges_from_relations(
+    rels: Sequence[Relation], valid_ids: Iterable[str],
+    year_map: Mapping[str, int] | None = None,
+) -> list[AggEdge]:
+    """Arêtes agrégées PubTator (n_papers, first/last year, pmids), prédicats mappés."""
+    year_map = year_map or {}
+    valid = set(valid_ids)
+    edges: dict[tuple[str, str, str], AggEdge] = {}
+    for r in rels:
+        pred = map_predicate(r.predicate)
+        if pred is None or r.subject_id not in valid or r.object_id not in valid:
+            continue
+        if r.subject_id == r.object_id:
+            continue
+        year = int(year_map.get(r.pmid, r.year) or 0)
+        key = (r.subject_id, pred, r.object_id)
+        e = edges.get(key)
+        if e is None:
+            edges[key] = AggEdge(r.subject_id, r.object_id, pred, 1, year, year,
+                                 [r.pmid] if r.pmid else [])
+            continue
+        e.n_papers += 1
+        if r.pmid and r.pmid not in e.pmids:
+            e.pmids.append(r.pmid)
+        if year:
+            e.first_year = year if e.first_year == 0 else min(e.first_year, year)
+            e.last_year = max(e.last_year, year)
+    return list(edges.values())
