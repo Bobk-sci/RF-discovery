@@ -1,162 +1,29 @@
-# Bruit-de-fond-DAB
+# RF-Discovery
 
-Détourage d'**astrocytes marqués DAB** avec **auto-calibrage par image**, produisant
-deux sorties distinctes : un **masque d'analyse fidèle** (Sholl / YOLO) et un
-**rendu figure esthétique** (publication).
+Ce dépôt héberge **RF-Discovery**, un pipeline autonome de découverte inter-domaines
+reliant l'exposition aux champs électromagnétiques radiofréquences (CEM-RF) à des processus
+neurodéveloppementaux et neurotoxiques. Le moteur de scoring est **déterministe et fondé sur
+un graphe hétérogène** ; le LLM est strictement périphérique.
 
-## Principe
+➡️ **Tout le projet est dans [`rf-discovery/`](rf-discovery/)** — voir son
+[README](rf-discovery/README.md) pour l'architecture, le démarrage et l'automatisation.
 
-- **Auto-calibrage PAR IMAGE.** Chaque image estime, à partir de ses propres
-  statistiques, son point blanc (percentile haut de luminosité = illumination de
-  fond), son échelle d'OD et ses seuils (Otsu + plancher robuste médiane +
-  *k*·MAD). La **logique** de décision est identique d'une image à l'autre ;
-  seules les **valeurs numériques** s'adaptent. Aucun réglage manuel image par
-  image. Toutes les valeurs auto-estimées sont **journalisées**
-  (`calibration_log.json` / `.csv`) pour la traçabilité et la reproductibilité.
-
-- **Détection par la STRUCTURE, pas l'intensité.** Un seuil de contraste ne
-  distingue jamais un astrocyte d'un halo brun diffus. Ce qui définit un
-  astrocyte, c'est sa **forme** : un soma d'où rayonnent des prolongements fins,
-  allongés et ramifiés. On applique donc un **filtre de Hessienne multi-échelle
-  (Sato / « tubeness », famille des filtres de traçage de neurites)** sur la
-  densité DAB : il répond fortement aux structures **tubulaires fines** et
-  **rejette par construction** les zones diffuses (neuropile, halo, flou
-  hors-plan), quelle que soit leur intensité. C'est cette carte de STRUCTURE
-  (indépendante de l'intensité absolue) qui est ensuite seuillée. Résultat :
-  seuls les astrocytes et leurs branchements ressortent, sur fond propre.
-  Une soustraction de halo diffus (`--background-sigma`) reste disponible en
-  option si le fond est extrêmement marqué.
-
-- **Seuil sélectif à 3 classes (multi-Otsu).** Astrocytes et maillage de
-  neuropile ont la même *finesse* — seule leur **densité** les sépare. On modélise
-  donc par image trois populations (fond / neuropile faible / astrocyte sombre) et
-  on ne retient que la classe la plus dense. Un simple Otsu à 2 classes place le
-  seuil trop bas et capture tout le maillage (masque envahissant, astrocytes non
-  définis) ; le seuil haut du multi-Otsu isole les astrocytes.
-
-- **Seuillage par hystérésis.** Deux niveaux auto-estimés : un seuil **haut**
-  (germes = astrocyte certain) et un seuil **bas** (entre neuropile et astrocyte) ;
-  seules les structures **connectées** à un germe sont conservées. Résultat :
-  prolongements fins **complets** et neuropile faible isolé rejeté. Reste FIDÈLE
-  (aucune morphologie cosmétique) — convient au mode analyse.
-
-- **Réglage `--sensitivity`.** Facteur global sur les seuils (défaut 1.0, auto).
-  L'AUGMENTER (1.5, 2.0) rend le rendu plus sélectif (astrocytes plus nets, moins
-  de maillage) ; le DIMINUER (0.7) récupère des prolongements plus faibles.
-
-- **Objectif visuel.** Astrocytes nets et **complets** sur fond parfaitement propre
-  (blanc pur **ou** transparent), zéro résidu de neuropile, zéro fragment épars.
-  La sortie n'est **pas** un masque binaire : le masque final est appliqué sur
-  l'image **originale** pour conserver le brun DAB et la texture interne.
-
-## Deux modes de sortie
-
-L'embellissement altère la morphologie, donc les deux sorties sont séparées —
-mais elles partent du **même** masque de segmentation ; seule l'étape de rendu
-final diffère.
-
-| Mode | Fichier | Usage | Traitement |
-|------|---------|-------|------------|
-| **ANALYSE** | `*_analysis_mask.png` | Sholl / YOLO en aval | masque **fidèle** : seuillage + retrait des micro-débris. **Aucune** fermeture ni lissage cosmétique. |
-| **FIGURE** (transparent) | `*_figure_transparent.png` | illustration / publication | fermeture douce (reconnecte les gaps), retrait des débris, **feathering du canal ALPHA uniquement**, rehaussement de contraste **local** sur le signal. |
-| **FIGURE** (fond blanc) | `*_figure_white.png` | idem, fond blanc pur | idem, composé sur blanc pur. |
-
-> ⚠️ **Ne jamais mesurer le Sholl sur le mode figure.** L'embellissement (fermeture,
-> feathering) modifie la morphologie. Le mode figure est un **sur-ensemble** du
-> masque fidèle : il reconnecte et lisse, mais ne peut jamais amputer de structure.
-
-## Rendu figure
-
-- Composition sur fond **RGBA transparent** (PNG) **et** variante **fond blanc pur**.
-- **Bords adoucis** : anti-aliasing / feathering du **canal ALPHA seul** (léger flou
-  ~1 px sur l'alpha, jamais sur les pixels du signal).
-- **Fermeture morphologique douce** pour reconnecter les prolongements fragmentés,
-  puis **retrait des spurs / micro-débris** par filtre de taille (sans éroder les
-  prolongements fins).
-- **Rehaussement de contraste LOCAL** (CLAHE) appliqué **uniquement** au signal
-  conservé — jamais au fond.
-
-## Contrôle qualité (QC)
-
-Le panneau `*_qc.png` réunit d'un coup d'œil : (1) originale, (2) **carte de
-structure / tubeness** (réponse de forme — ce qui est réellement seuillé ; son
-fond doit être noir), (3) seuillage par hystérésis (germes hauts + croissance),
-(4) **masque analyse fidèle**,
-(5) masque figure embelli, **(6) rendu figure fond blanc**, **(7) rendu figure
-transparent sur damier** (pour visualiser l'alpha), (8) carte d'alpha. Les
-panneaux (6) et (7) sont côte à côte avec le masque fidèle (4) pour vérifier que
-l'embellissement n'a ni amputé ni inventé de structure.
-
-## Installation
+## Démarrage rapide
 
 ```bash
-pip install -r requirements.txt
+cd rf-discovery
+uv venv --python 3.11 .venv && . .venv/bin/activate
+uv pip install -e ".[dev]"
+pytest -q                    # suite déterministe (fixtures, aucun réseau)
+python -m run --synthetic    # démo bout-en-bout : scoring + gate + digest + dashboard
 ```
 
-## Utilisation
+## Automatisation (GitHub Actions)
 
-```bash
-# Une image
-python -m bruit_de_fond_dab.cli lame.tif -o resultats/
+Les workflows sont à la racine (`.github/workflows/rf-discovery-*.yml`) car GitHub Actions
+n'exécute que les workflows situés à la racine du dépôt :
 
-# Un dossier entier (auto-calibrage indépendant par image)
-python -m bruit_de_fond_dab.cli dossier_lames/ -o resultats/
-
-# Démonstration sur image DAB synthétique (aucune lame requise)
-python -m bruit_de_fond_dab.cli --demo -o resultats/
-```
-
-Options : `--sensitivity <f>`, `--no-qc`, `--no-local-contrast`,
-`--feather-sigma <px>`, `--close-radius <px>`, `--background-sigma <px>` (tous en
-auto par défaut, dérivés de l'échelle de l'image).
-
-**Réglage sur lames denses.**
-1. **Maillage de neuropile capturé, astrocytes non définis (masque envahissant)**
-   → _augmenter_ `--sensitivity` (ex. `--sensitivity 1.5`, puis `2.0`).
-2. **Prolongements manquants / astrocytes trop maigres** → _diminuer_
-   `--sensitivity` (ex. `0.7`).
-3. **Halo diffus très marqué encore présent dans le panneau 2** → activer la
-   soustraction de fond avec `--background-sigma 30` (puis `20`, `15`…).
-
-Le panneau 2 du QC (« Structure / tubeness ») montre exactement ce qui est
-seuillé : son fond doit être **noir**, seuls les astrocytes et leurs branchements
-lumineux.
-
-### API Python
-
-```python
-from bruit_de_fond_dab import process_image
-out = process_image("lame.tif", "resultats/")
-print(out.calibration.threshold, out.segmentation.n_objects)
-```
-
-## Sorties écrites par image
-
-```
-<stem>_analysis_mask.png       masque fidèle (MODE ANALYSE)
-<stem>_figure_transparent.png  rendu esthétique, fond transparent
-<stem>_figure_white.png        rendu esthétique, fond blanc pur
-<stem>_qc.png                  panneau QC (8 vignettes)
-calibration_log.json / .csv    valeurs auto-estimées par image (append)
-```
-
-## Structure du code
-
-```
-bruit_de_fond_dab/
-  structure.py     détection de forme (tubeness/neuriteness multi-échelle)
-  calibration.py   auto-calibrage par image (point blanc, structure, seuils)
-  segmentation.py  masque FIDÈLE (base commune, sans embellissement)
-  rendering.py     MODE FIGURE (fermeture, feathering alpha, contraste local)
-  qc.py            panneau QC 8 vignettes
-  pipeline.py      orchestration + journalisation
-  synthetic.py     image DAB synthétique de test
-  cli.py           interface ligne de commande
-tests/             tests de fumée bout en bout
-```
-
-## Tests
-
-```bash
-python -m pytest tests/
-```
+- `rf-discovery-weekly` — collecte (Europe PMC + PubTator) → graphe → scoring → gate →
+  digest → Issue `weekly-digest`.
+- `rf-discovery-validate` — lint + tests + gate à chaque PR touchant `rf-discovery/**`.
+- `rf-discovery-pages` — publie le dashboard sur GitHub Pages.
