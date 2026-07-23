@@ -1,0 +1,38 @@
+# Endpoints des sources de données (toutes gratuites, §4).
+# Vérifier chaque endpoint au moment du build ; les API évoluent.
+# L'email de contact est lu dans la variable d'environnement CONTACT_EMAIL
+# (User-Agent + mailto=), jamais codé en dur.
+
+contact_email_env: CONTACT_EMAIL
+
+http:
+  timeout_s: 30
+  max_retries: 4
+  backoff_base_s: 2.0     # backoff exponentiel 2,4,8,16
+  user_agent: "rf-discovery/0.1 (mailto:{email})"
+  cache_dir: data/cache   # les réponses brutes sont mises en cache ; un rerun ne re-sollicite pas
+
+sources:
+  europepmc:
+    base_url: "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
+    page_size: 100
+    rate_limit_per_s: 8
+  ncbi:
+    base_url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+    api_key_env: NCBI_API_KEY   # clé gratuite -> 10 req/s
+    rate_limit_per_s: 3
+  pubtator:
+    base_url: "https://www.ncbi.nlm.nih.gov/research/pubtator3-api"
+    rate_limit_per_s: 3
+  openalex:
+    base_url: "https://api.openalex.org"
+    rate_limit_per_s: 8
+  biorxiv:
+    base_url: "https://api.biorxiv.org/details"
+    rate_limit_per_s: 2
+  arxiv:
+    base_url: "http://export.arxiv.org/api/query"
+    rate_limit_per_s: 1
+  unpaywall:
+    base_url: "https://api.unpaywall.org/v2"
+    email_env: CONTACT_EMAIL

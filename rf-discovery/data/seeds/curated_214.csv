@@ -1,0 +1,5 @@
+pmid,title,abstract,label,domain
+EXAMPLE-0001,Placeholder positive on RF exposure and oxidative stress in developing brain,"STUB — remplacer par le corpus curé réel de 214 articles. Ligne d'exemple positive.",1,rf_in_vivo
+EXAMPLE-0002,Placeholder positive on SAR dosimetry and sham exposure design,"STUB — ligne d'exemple positive (dosimétrie).",1,rf_dosimetry
+EXAMPLE-0003,Placeholder negative unrelated clinical oncology trial,"STUB — ligne d'exemple négative, hors périmètre.",0,neurotoxicity
+EXAMPLE-0004,Placeholder negative on general economics of telecom,"STUB — ligne d'exemple négative, hors domaine.",0,rf_in_vitro

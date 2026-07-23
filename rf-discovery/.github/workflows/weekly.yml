@@ -1,0 +1,78 @@
+name: rf-discovery-weekly
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'      # lundi 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+defaults:
+  run:
+    working-directory: rf-discovery
+
+concurrency:
+  group: rf-discovery-weekly
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # PAT dédié : les commits du bot github-actions ne réarment pas toujours
+          # le compteur d'inactivité de 60 jours qui désactive les crons (§10).
+          token: ${{ secrets.PIPELINE_PAT || github.token }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv pip install --system -e .
+
+      - name: Run pipeline
+        id: pipeline
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python -m run --synthetic --permutations 200 --db data/graph.duckdb | tee run.json
+
+      - name: Commit graph and reports
+        run: |
+          git config user.name  "rf-discovery-bot"
+          git config user.email "${{ secrets.CONTACT_EMAIL || 'bot@example.com' }}"
+          git add data/graph.duckdb reports/ logs/ || true
+          git commit -m "Run hebdomadaire $(date -u +%F)" || echo "rien à committer"
+          git push
+
+      - name: Open weekly digest issue
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT || github.token }}
+        run: |
+          latest=$(ls -1 reports/digest-*.md | tail -n1)
+          gh issue create --title "Digest hebdomadaire RF-Discovery $(date -u +%F)" \
+            --label weekly-digest --body-file "$latest" || echo "création d'issue ignorée"
+
+      - name: Open failure issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT || github.token }}
+        run: |
+          gh issue create --title "Échec du pipeline $(date -u +%F)" \
+            --label pipeline-failure \
+            --body "Le run hebdomadaire a échoué. Voir les logs du workflow." \
+            || echo "création d'issue d'échec ignorée"

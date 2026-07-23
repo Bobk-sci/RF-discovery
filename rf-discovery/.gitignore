@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+data/cache/
+*.duckdb.wal
+# artefacts datés générés par les runs de démo/tests (les runs CI committent les leurs)
+reports/digest-*.md
+logs/run-*.json
