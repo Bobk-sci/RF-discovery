@@ -55,6 +55,9 @@ def test_render_html_is_self_contained(tmp_path):
     assert "src=" not in html and "cdn" not in html.lower()
     # jetons tous remplacés
     assert "__GRAPH_JSON__" not in html and "__CANDS_ROWS__" not in html
+    assert "__GRAPH_SVG__" not in html and "__LEGEND__" not in html
+    # graphe rendu en SVG statique (visible sans JavaScript)
+    assert "<circle" in html and "<line" in html
     # contenus attendus
     assert "EXP0" in html and "PHEN0" in html and "plausible" in html
     assert "2025-01-06" in html

@@ -62,8 +62,8 @@ TEMPLATE = r"""<!doctype html>
   <section>
     <h2>Graphe des candidats (top 30)</h2>
     <div class="graphwrap">
-      <svg id="graph" viewBox="0 0 900 560" preserveAspectRatio="xMidYMid meet"></svg>
-      <div class="legend" id="legend"></div>
+      <svg id="graph" viewBox="0 0 900 560" preserveAspectRatio="xMidYMid meet">__GRAPH_SVG__</svg>
+      <div class="legend" id="legend">__LEGEND__</div>
       <div class="controls">
         <label><input type="checkbox" id="toggle-known" checked> arêtes connues (contexte)</label>
         <span>— liens candidats en <b style="color:#e4572e">rouge pointillé</b> (proposés, sans arête directe)</span>
@@ -102,6 +102,7 @@ const DATA = __GRAPH_JSON__;
 (function(){
   const W=900,H=560,ns="http://www.w3.org/2000/svg";
   const svg=document.getElementById("graph");
+  while(svg.firstChild)svg.removeChild(svg.firstChild);  // remplace le SVG statique (fallback sans JS)
   const colors=DATA.colors||{};
   const n=DATA.nodes.length||1;
   const nodes=DATA.nodes.map((d,i)=>({...d,x:W/2+240*Math.cos(2*Math.PI*i/n),y:H/2+240*Math.sin(2*Math.PI*i/n),vx:0,vy:0}));
