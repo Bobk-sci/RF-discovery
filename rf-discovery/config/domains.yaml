@@ -34,7 +34,12 @@ domains:
 
   # --- Domaines-cible et ponts (SANS termes RF) ---
   - name: neurodevelopment
-    query: "neurodevelopment AND (cortex OR neurogenesis OR migration)"
+    query: >-
+      (neurodevelopment OR "brain development" OR "neural development"
+      OR neurogenesis OR synaptogenesis OR "cortical development"
+      OR "neuronal migration" OR "brain maturation" OR "neuronal differentiation"
+      OR "cognitive development" OR autism OR "autism spectrum" OR ADHD
+      OR "neurodevelopmental disorder")
     sources: [europepmc, pubtator]
     rf_terms_allowed: false
     weight: 1.0

@@ -55,7 +55,7 @@ jobs:
         # Le runner GitHub Actions a un réseau ouvert : le pipeline interroge lui-même
         # les API (aucun PDF à fournir). Le cache dans data/cache/ évite de re-solliciter.
         run: |
-          python -m harvest --db data/graph.duckdb | tee harvest.json
+          python -m harvest --db data/graph.duckdb --max-results 2000 | tee harvest.json
 
       - name: Score, validate gate, report
         id: pipeline
@@ -70,8 +70,10 @@ jobs:
         run: |
           git config user.name  "rf-discovery-bot"
           git config user.email "${{ secrets.CONTACT_EMAIL || 'bot@example.com' }}"
+          # data/seen.json : mémoire de déduplication -> run incrémental (ne re-collecte
+          # que les NOUVEAUX articles la semaine suivante). Le graphe s'accumule.
           # -f : le digest/log sont gitignorés (bruit local) mais sont le livrable en CI.
-          git add -f data/graph.duckdb reports/ logs/ || true
+          git add -f data/graph.duckdb data/seen.json reports/ logs/ || true
           git commit -m "Run hebdomadaire $(date -u +%F)" || echo "rien à committer"
           git push
 
