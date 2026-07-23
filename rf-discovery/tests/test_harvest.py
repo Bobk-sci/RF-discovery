@@ -51,14 +51,18 @@ def test_harvest_builds_graph_from_fixtures(tmp_path):
                   cache_dir=str(tmp_path / "cache"))
     assert res.n_papers == 4
     assert res.per_domain == {"rf_in_vitro_test": 2, "neurodevelopment_test": 2}
-    assert res.n_nodes == 8 and res.n_edges == 4
+    # 8 entités + le nœud Exposure RF_EMF ; 4 arêtes PubTator + 4 arêtes RF_EMF->entité RF
+    assert res.n_nodes == 9 and res.n_edges == 8
     con = connect(db)
     assert con.execute("SELECT count(*) FROM papers").fetchone()[0] == 4
+    # le nœud Exposure existe et pointe vers un gène RF via AFFECTS
+    exp = con.execute("SELECT node_type FROM nodes WHERE node_id = 'RF_EMF'").fetchone()
+    pred = con.execute("SELECT predicate FROM edges WHERE source_id = 'RF_EMF' "
+                       "AND target_id = '627'").fetchone()
     # arête Gene->Disease, année héritée d'Europe PMC (2016 pour pmid 100)
     fy = con.execute("SELECT first_year FROM edges WHERE source_id = '627'").fetchone()[0]
-    deg = con.execute("SELECT degree FROM nodes WHERE node_id = '627'").fetchone()[0]
     con.close()
-    assert fy == 2016 and deg == 1
+    assert exp[0] == "Exposure" and pred[0] == "AFFECTS" and fy == 2016
 
 
 def test_harvest_rerun_is_idempotent(tmp_path):

@@ -56,13 +56,24 @@ def search(
     query: str,
     *,
     domain: str = "",
-    page_size: int = 100,
+    page_size: int = 1000,
+    max_results: int = 1000,
     fetcher: Fetcher | None = None,
     cache_dir: str = "data/cache",
 ) -> list[Paper]:
-    """Recherche Europe PMC ; renvoie une liste de ``Paper`` normalisés."""
+    """Recherche Europe PMC avec pagination par ``cursorMark`` jusqu'à ``max_results``."""
     fetch = fetcher or (lambda u, p: get_json(u, p, cache_dir=cache_dir))
-    params = {"query": query, "format": "json", "pageSize": page_size, "resultType": "core"}
-    data = fetch(_BASE, params)
-    results = (data or {}).get("resultList", {}).get("result", [])
-    return [_to_paper(r, domain) for r in results if (r.get("pmid") or r.get("id"))]
+    papers: list[Paper] = []
+    cursor, seen = "*", set()
+    while len(papers) < max_results:
+        params = {"query": query, "format": "json", "pageSize": min(page_size, 1000),
+                  "resultType": "core", "cursorMark": cursor}
+        data = fetch(_BASE, params) or {}
+        results = data.get("resultList", {}).get("result", [])
+        papers.extend(_to_paper(r, domain) for r in results if (r.get("pmid") or r.get("id")))
+        nxt = data.get("nextCursorMark")
+        if not results or not nxt or nxt == cursor or nxt in seen:
+            break
+        seen.add(cursor)
+        cursor = nxt
+    return papers[:max_results]

@@ -22,6 +22,23 @@ def test_search_parses_fixture():
     assert papers[0].oa_status == "open"
 
 
+def test_search_paginates_with_cursormark():
+    pages = {
+        "*": {"resultList": {"result": [{"pmid": "1", "pubYear": "2020"}]},
+              "nextCursorMark": "C1"},
+        "C1": {"resultList": {"result": [{"pmid": "2", "pubYear": "2021"}]},
+               "nextCursorMark": "C1"},  # curseur identique -> arrêt
+    }
+    papers = search("q", fetcher=lambda _u, p: pages[p["cursorMark"]], max_results=100)
+    assert [p.pmid for p in papers] == ["1", "2"]
+
+
+def test_search_respects_max_results():
+    page = {"resultList": {"result": [{"pmid": "1"}, {"pmid": "2"}, {"pmid": "3"}]}}
+    papers = search("q", fetcher=lambda _u, _p: page, max_results=2)
+    assert len(papers) == 2
+
+
 def test_build_query_bridge_never_has_rf_terms():
     q = build_query("neurodevelopment", ["GSM", "SAR"], rf_terms_allowed=False)
     assert "GSM" not in q and q == "neurodevelopment"

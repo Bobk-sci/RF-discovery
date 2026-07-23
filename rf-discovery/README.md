@@ -46,6 +46,13 @@ python -m harvest --db data/graph.duckdb      # collecte tous les domaines
 python -m run     --db data/graph.duckdb --permutations 200   # score + gate + digest
 ```
 
+La collecte est **paginée** (`cursorMark` Europe PMC, `--max-results` par domaine) pour
+densifier le graphe. Modèle de découverte (Swanson) : les articles-source (interrogés AVEC
+termes RF) définissent le voisinage de l'exposition — le harvester injecte un nœud
+`Exposure` (`RF_EMF`) relié aux entités co-mentionnées dans ces articles, ce qui ouvre les
+métachemins `Exposure → Gene/Chemical → … → Phénotype/Maladie` que le DWPC exploite (les
+entités RF elles-mêmes ne sont pas annotées par PubTator).
+
 **Aucun PDF à fournir.** Le pipeline consomme des résumés et des entités/relations déjà
 extraites — pas du texte intégral. La collecte a besoin d'un **réseau ouvert** : elle tourne
 sur **GitHub Actions** (`weekly.yml`, runner avec Internet) ou sur votre machine, pas dans un
