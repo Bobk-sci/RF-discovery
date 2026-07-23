@@ -66,8 +66,9 @@ def _persist_candidates(con, run_date, candidates) -> None:
 
 
 def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
-        top: int = 20) -> dict:
+        top: int = 20, out_dir: str | Path | None = None) -> dict:
     t0 = time.time()
+    out = Path(out_dir) if out_dir else ROOT   # tests écrivent dans un tmp, pas dans le dépôt
     cfg = ROOT / "config" / "metapaths.yaml"
     mg = MetaGraph.from_config(cfg)
     metapaths = enumerate_metapaths(mg)
@@ -82,12 +83,12 @@ def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
     candidates = rank_candidates(graph, metapaths, pairs, null=null, seed=seed)
     gate = run_timeslice(nodes, edges, cfg, seed=seed)
     digest = build_digest(candidates, run_date=date.today(), top=top, gate=gate)
-    _write_reports(digest, candidates, gate)
+    _write_reports(digest, candidates, gate, out)
     con = connect(db_path)
     persist(con, nodes, edges, candidates, {
         "run_date": date.today(), "n_candidates": len(candidates),
         "status": "ok", "duration_s": time.time() - t0})
-    dashboard_html = build_dashboard(con, out_path=ROOT / "docs" / "index.html")
+    dashboard_html = build_dashboard(con, out_path=out / "docs" / "index.html")
     con.close()
     return {"n_candidates": len(candidates), "gate": gate,
             "digest_len": len(digest), "dashboard_len": len(dashboard_html)}
@@ -102,15 +103,15 @@ def _load_from_db(db_path: str) -> tuple[list[Node], list[Edge]]:  # pragma: no 
     return nodes, edges
 
 
-def _write_reports(digest: str, candidates, gate: dict) -> None:
-    (ROOT / "reports").mkdir(exist_ok=True)
-    (ROOT / "logs").mkdir(exist_ok=True)
+def _write_reports(digest: str, candidates, gate: dict, out: Path) -> None:
+    (out / "reports").mkdir(parents=True, exist_ok=True)
+    (out / "logs").mkdir(parents=True, exist_ok=True)
     stamp = date.today().isoformat()
-    (ROOT / "reports" / f"digest-{stamp}.md").write_text(digest, encoding="utf-8")
+    (out / "reports" / f"digest-{stamp}.md").write_text(digest, encoding="utf-8")
     log = {"run_date": stamp, "utc": datetime.now(UTC).isoformat(),
            "n_candidates": len(candidates), "gate": gate}
-    (ROOT / "logs" / f"run-{stamp}.json").write_text(json.dumps(log, default=str),
-                                                     encoding="utf-8")
+    (out / "logs" / f"run-{stamp}.json").write_text(json.dumps(log, default=str),
+                                                    encoding="utf-8")
 
 
 def main() -> None:

@@ -103,5 +103,5 @@ def test_run_real_mode_on_harvested_graph(tmp_path):
     harvest(db, domains_path=DOMAINS, seen_path=tmp_path / "seen.json",
             epmc_fetcher=_epmc_fetcher, pubtator_fetcher=_pubtator_fetcher,
             cache_dir=str(tmp_path / "cache"))
-    result = run(str(db), synthetic=False, seed=0, n_perm=5, top=5)
+    result = run(str(db), synthetic=False, seed=0, n_perm=5, top=5, out_dir=tmp_path)
     assert "gate" in result and "n_candidates" in result

@@ -16,7 +16,7 @@ def test_schema_creates_tables(tmp_path):
 
 def test_run_synthetic_end_to_end(tmp_path):
     db = tmp_path / "graph.duckdb"
-    result = run(str(db), synthetic=True, seed=0, n_perm=15, top=10)
+    result = run(str(db), synthetic=True, seed=0, n_perm=15, top=10, out_dir=tmp_path)
     assert result["n_candidates"] > 0
     assert result["gate"]["passes_gate"] is True
     con = connect(db)
