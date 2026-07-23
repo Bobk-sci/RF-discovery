@@ -17,6 +17,7 @@ from graph.build import Edge, Node, build_graph
 from graph.metapaths import MetaGraph, enumerate_metapaths
 from graph.permute import dwpc_null
 from graph.schema import connect
+from report.dashboard import build_dashboard
 from report.digest import build_digest
 from score.rank import rank_candidates
 from synthetic import generate
@@ -32,7 +33,7 @@ def candidate_pairs(nodes, mg: MetaGraph, limit: int = 400) -> list[tuple[str, s
     return pairs[:limit]
 
 
-def persist(con, nodes, edges, run_row: dict) -> None:
+def persist(con, nodes, edges, candidates, run_row: dict) -> None:
     con.execute("DELETE FROM nodes")
     con.executemany("INSERT INTO nodes (node_id, node_type, degree) VALUES (?, ?, 0)",
                     [(n.node_id, n.node_type) for n in nodes])
@@ -41,11 +42,23 @@ def persist(con, nodes, edges, run_row: dict) -> None:
         "INSERT INTO edges (source_id, target_id, predicate, first_year, n_papers) "
         "VALUES (?, ?, ?, ?, 1)",
         [(e.source_id, e.target_id, e.predicate, e.first_year) for e in edges])
+    _persist_candidates(con, run_row["run_date"], candidates)
     con.execute(
         "INSERT OR REPLACE INTO runs (run_date, n_new_papers, n_new_edges, n_candidates, "
         "status, error, duration_s) VALUES (?, ?, ?, ?, ?, ?, ?)",
         (run_row["run_date"], 0, len(edges), run_row["n_candidates"],
          run_row["status"], run_row.get("error"), run_row["duration_s"]))
+
+
+def _persist_candidates(con, run_date, candidates) -> None:
+    """Ajoute les candidats du run (jamais de suppression, §12 — historique d'entraînement)."""
+    con.execute("DELETE FROM candidates WHERE run_date = ?", (run_date,))  # rerun idempotent
+    con.executemany(
+        "INSERT INTO candidates (run_date, a_id, c_id, metapath, dwpc, z_score, p_value, "
+        "embed_score, novelty_z, burst_score, composite_rank, llm_explanation, human_verdict)"
+        " VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NULL, NULL)",
+        [(run_date, c.a_id, c.c_id, c.metapath, c.dwpc, c.z_score, c.p_value,
+          c.embed_score, c.novelty_z, c.burst_score, c.composite_rank) for c in candidates])
 
 
 def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
@@ -67,11 +80,13 @@ def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
     digest = build_digest(candidates, run_date=date.today(), top=top, gate=gate)
     _write_reports(digest, candidates, gate)
     con = connect(db_path)
-    persist(con, nodes, edges, {
+    persist(con, nodes, edges, candidates, {
         "run_date": date.today(), "n_candidates": len(candidates),
         "status": "ok", "duration_s": time.time() - t0})
+    dashboard_html = build_dashboard(con, out_path=ROOT / "docs" / "index.html")
     con.close()
-    return {"n_candidates": len(candidates), "gate": gate, "digest_len": len(digest)}
+    return {"n_candidates": len(candidates), "gate": gate,
+            "digest_len": len(digest), "dashboard_len": len(dashboard_html)}
 
 
 def _load_from_db(db_path: str) -> tuple[list[Node], list[Edge]]:  # pragma: no cover

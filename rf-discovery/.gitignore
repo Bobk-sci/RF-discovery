@@ -10,3 +10,6 @@ data/cache/
 # artefacts datés générés par les runs de démo/tests (les runs CI committent les leurs)
 reports/digest-*.md
 logs/run-*.json
+# dashboard généré localement (le workflow Pages le reconstruit et le déploie)
+docs/index.html
+_site/

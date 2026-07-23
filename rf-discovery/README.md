@@ -70,6 +70,24 @@ recalcule les degrés. Le résumé reporte la pente log-log de la distribution d
 | `src/validate/` | **time-slicing (gate)** et métriques |
 | `src/report/` | digest markdown + corps d'Issues |
 
+## Dashboard GitHub Pages (M10)
+
+`src/report/dashboard.py` génère un **site statique autonome** (HTML/CSS/JS en ligne,
+aucune dépendance externe, coût nul) depuis la base DuckDB : historique des runs, table
+des candidats du dernier run, **historique des verdicts humains** (`human_verdict`), et un
+**graphe de force navigable** en JavaScript pur reliant les extrémités des meilleurs
+candidats (liens proposés en pointillé rouge) à leur voisinage connu.
+
+```bash
+python -m report.dashboard --db data/graph.duckdb --out _site/index.html
+```
+
+Le dashboard est aussi régénéré à chaque `python -m run` (dans `docs/index.html`) et
+déployé par `.github/workflows/pages.yml` via `actions/deploy-pages`. Les candidats sont
+archivés à chaque run dans la table `candidates` (jamais supprimés, §12) : la colonne
+`human_verdict`, annotée à la main, devient le jeu d'entraînement de la version suivante et
+alimente l'historique des verdicts du dashboard.
+
 ## Automatisation
 
 `.github/workflows/weekly.yml` (lundi 06:00 UTC) collecte, met à jour le graphe, score,
