@@ -24,7 +24,11 @@ from collect.pubtator import Annotation, Relation
 from graph.schema import connect
 from graph.store import insert_papers, upsert
 from normalize.dedupe import dedupe, load_seen, save_seen
-from normalize.entities import agg_edges_from_relations, agg_nodes_from_annotations
+from normalize.entities import (
+    agg_edges_from_relations,
+    agg_nodes_from_annotations,
+    cooccurrence_edges,
+)
 from normalize.records import AggEdge, AggNode
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -136,13 +140,17 @@ def harvest(
     save_seen(seen_path, seen)
     nodes = agg_nodes_from_annotations(all_anns, year_map)
     edges = agg_edges_from_relations(all_rels, {n.node_id for n in nodes}, year_map)
+    # PubTator donne peu de relations explicites -> on reconstruit les maillons manquants
+    # par co-occurrence d'entités dans un même article (modèle Swanson).
+    edges += cooccurrence_edges(all_anns, year_map)
     exp_nodes, exp_edges = _inject_exposure(nodes, rf_years)
     con = connect(db_path)
     insert_papers(con, all_papers)
     upsert(con, nodes + exp_nodes, edges + exp_edges)
+    n_nodes = (con.execute("SELECT count(*) FROM nodes").fetchone() or (0,))[0]  # dédupliqué
+    n_edges = (con.execute("SELECT count(*) FROM edges").fetchone() or (0,))[0]
     con.close()
-    return HarvestResult(len(all_papers), len(nodes) + len(exp_nodes),
-                         len(edges) + len(exp_edges), per_domain)
+    return HarvestResult(len(all_papers), int(n_nodes), int(n_edges), per_domain)
 
 
 def main() -> None:

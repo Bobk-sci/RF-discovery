@@ -114,3 +114,63 @@ def agg_edges_from_relations(
             e.first_year = year if e.first_year == 0 else min(e.first_year, year)
             e.last_year = max(e.last_year, year)
     return list(edges.values())
+
+
+# Prédicat d'une arête de co-occurrence selon la paire de types (direction canonique),
+# aligné sur les métaedges §7.1. PubTator n'annote que Gene/Chemical/Disease/CellType.
+_COOC_PRED = {
+    ("Chemical", "Gene"): "AFFECTS", ("Chemical", "Disease"): "CAUSES",
+    ("Gene", "Disease"): "ASSOCIATED_WITH", ("CellType", "Disease"): "ASSOCIATED_WITH",
+}
+
+
+def _cooc_direction(ta: str, ia: str, tb: str, ib: str) -> tuple[str, str, str] | None:
+    if (ta, tb) in _COOC_PRED:
+        return _COOC_PRED[(ta, tb)], ia, ib
+    if (tb, ta) in _COOC_PRED:
+        return _COOC_PRED[(tb, ta)], ib, ia
+    return None
+
+
+def cooccurrence_edges(
+    anns: Iterable[Annotation], year_map: Mapping[str, int] | None = None,
+    max_entities: int = 30,
+) -> list[AggEdge]:
+    """Arêtes de co-occurrence (modèle Swanson) : entités co-citées dans un même article.
+
+    Reconstruit les maillons que PubTator ne fournit pas explicitement. Les articles à plus
+    de ``max_entities`` entités sont ignorés (bruit/explosion combinatoire).
+    """
+    year_map = year_map or {}
+    by_pmid: dict[str, dict[str, str]] = {}
+    for a in anns:
+        nt = map_type(a.entity_type)
+        if nt is not None:
+            by_pmid.setdefault(a.pmid, {})[a.concept_id] = nt
+    edges: dict[tuple[str, str, str], AggEdge] = {}
+    for pmid, ents in by_pmid.items():
+        if len(ents) > max_entities:
+            continue
+        year = int(year_map.get(pmid, 0) or 0)
+        items = list(ents.items())
+        for i in range(len(items)):
+            for j in range(i + 1, len(items)):
+                direction = _cooc_direction(items[i][1], items[i][0],
+                                            items[j][1], items[j][0])
+                if direction is None:
+                    continue
+                _accumulate(edges, direction, pmid, year)
+    return list(edges.values())
+
+
+def _accumulate(edges: dict, direction: tuple[str, str, str], pmid: str, year: int) -> None:
+    pred, s, o = direction
+    key = (s, pred, o)
+    e = edges.get(key)
+    if e is None:
+        edges[key] = AggEdge(s, o, pred, 1, year, year, [pmid] if pmid else [])
+        return
+    e.n_papers += 1
+    if year:
+        e.first_year = year if e.first_year == 0 else min(e.first_year, year)
+        e.last_year = max(e.last_year, year)
