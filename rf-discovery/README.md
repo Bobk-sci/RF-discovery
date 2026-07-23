@@ -34,6 +34,28 @@ python -m run --synthetic      # démo bout-en-bout : scoring + gate + digest
 chaîne complète hors-ligne, gate compris. Le mode réel réutilise les mêmes étages de
 scoring sur les données collectées via `src/collect/` (Europe PMC, PubTator3, …).
 
+## Ingestion SemMedDB (substrat du graphe)
+
+SemMedDB fournit les triplets sujet-prédicat-objet sur tout MEDLINE — le substrat du
+graphe (§4). Les dumps s'obtiennent gratuitement auprès de la NLM sous licence UMLS
+([SemRep/SemMedDB](https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html)). Aucun
+réseau : on lit les fichiers locaux (`.sql`, `.sql.gz` ou `.tsv`) **en flux**, sans MySQL.
+
+```bash
+python -m ingest \
+  --predications semmedVER43_R_PREDICATION.sql.gz \
+  --citations   semmedVER43_R_CITATIONS.sql.gz \
+  --db data/graph.duckdb --max 2000000
+```
+
+L'ingestion mappe les types sémantiques UMLS vers les types de nœuds
+(`config/umls_semtypes.yaml`), filtre les prédicats hors de l'ensemble retenu, rejette les
+prédications négatives (`NEG_*`) et les hubs sémantiques vides (`config/metapaths.yaml`),
+hérite l'année de publication depuis `CITATIONS`, agrège les arêtes multi-articles, puis
+recalcule les degrés. Le résumé reporte la pente log-log de la distribution des degrés
+(loi de puissance attendue, critère M2). Le corpus complet étant volumineux, `--max`
+échantillonne ; un pré-filtrage par CUI/domaine en amont est recommandé pour un run ciblé.
+
 ## Structure
 
 | Répertoire | Rôle |

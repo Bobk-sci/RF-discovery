@@ -75,12 +75,10 @@ def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
 
 
 def _load_from_db(db_path: str) -> tuple[list[Node], list[Edge]]:  # pragma: no cover
+    from graph.store import load_graph
+
     con = connect(db_path)
-    node_rows = con.execute("SELECT node_id, node_type FROM nodes").fetchall()
-    edge_rows = con.execute(
-        "SELECT source_id, target_id, predicate, first_year FROM edges").fetchall()
-    nodes = [Node(r[0], r[1]) for r in node_rows]
-    edges = [Edge(r[0], r[1], r[2], r[3] or 0) for r in edge_rows]
+    nodes, edges = load_graph(con)
     con.close()
     return nodes, edges
 

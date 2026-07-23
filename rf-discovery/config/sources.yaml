@@ -36,3 +36,9 @@ sources:
   unpaywall:
     base_url: "https://api.unpaywall.org/v2"
     email_env: CONTACT_EMAIL
+  semmeddb:
+    # Dumps locaux (licence UMLS gratuite) — pas de réseau. Voir src/ingest.py.
+    kind: local_dump
+    predications_env: SEMMEDDB_PREDICATION   # chemin du dump PREDICATION (.sql/.sql.gz/.tsv)
+    citations_env: SEMMEDDB_CITATIONS        # chemin du dump CITATIONS (années)
+    docs: "https://lhncbc.nlm.nih.gov/ii/tools/SemRep_SemMedDB_SKR.html"
