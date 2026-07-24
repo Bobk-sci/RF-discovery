@@ -49,6 +49,10 @@ jobs:
       - name: Install dependencies
         run: uv pip install --system -e .
 
+      - name: Restore graph
+        # Le graphe est stocké compressé (gzip) pour rester sous la limite GitHub de 100 Mo.
+        run: 'if [ -f data/graph.duckdb.gz ]; then gunzip -kf data/graph.duckdb.gz; fi'
+
       - name: Ensure issue labels exist
         env:
           GH_TOKEN: ${{ secrets.PIPELINE_PAT || github.token }}
@@ -79,10 +83,12 @@ jobs:
         run: |
           git config user.name  "rf-discovery-bot"
           git config user.email "${{ secrets.CONTACT_EMAIL || 'bot@example.com' }}"
+          # Le graphe brut (>100 Mo) est refusé par GitHub -> on committe sa version gzip.
+          gzip -9kf data/graph.duckdb
           # data/seen.json : mémoire de déduplication -> run incrémental (ne re-collecte
           # que les NOUVEAUX articles la semaine suivante). Le graphe s'accumule.
-          # -f : le digest/log sont gitignorés (bruit local) mais sont le livrable en CI.
-          git add -f data/graph.duckdb data/seen.json reports/ logs/ || true
+          # -f : le digest/log/graphe sont gitignorés (bruit local) mais livrables en CI.
+          git add -f data/graph.duckdb.gz data/seen.json reports/ logs/ || true
           git commit -m "Run hebdomadaire $(date -u +%F)" || echo "rien à committer"
           git push
 
