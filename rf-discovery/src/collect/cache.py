@@ -41,8 +41,8 @@ def get_json(
     *,
     cache_dir: str | Path = "data/cache",
     user_agent: str = "rf-discovery/0.1",
-    max_retries: int = 4,
-    backoff_base_s: float = 2.0,
+    max_retries: int = 3,
+    backoff_base_s: float = 1.0,
     sleep=time.sleep,
 ) -> Any:  # pragma: no cover - couche réseau, exercée via fixtures ailleurs
     """GET JSON avec cache et backoff exponentiel. Import de requests tardif."""
