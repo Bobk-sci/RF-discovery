@@ -7,6 +7,7 @@ __pycache__/
 .ruff_cache/
 data/cache/
 *.duckdb.wal
+data/graph.duckdb          # trop gros pour git : on committe data/graph.duckdb.gz
 # artefacts datés générés par les runs de démo/tests (les runs CI committent les leurs)
 reports/digest-*.md
 logs/run-*.json

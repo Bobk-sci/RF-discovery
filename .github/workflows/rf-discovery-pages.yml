@@ -37,7 +37,9 @@ jobs:
         run: uv pip install --system -e .
       - name: Build dashboard
         # Rendu statique depuis la base committée (graphe navigable + historique des verdicts).
-        run: python -m report.dashboard --db data/graph.duckdb --out _site/index.html
+        run: |
+          if [ -f data/graph.duckdb.gz ]; then gunzip -kf data/graph.duckdb.gz; fi
+          python -m report.dashboard --db data/graph.duckdb --out _site/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
