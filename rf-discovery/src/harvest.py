@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -54,12 +55,18 @@ def _load_domains(path: str | Path) -> tuple[list[dict], list[str]]:
 
 
 def _fetch_pubtator(pmids, fetcher, cache_dir) -> tuple[list[Annotation], list[Relation]]:
-    """PubTator3 n'accepte que des PMID numériques ; un lot en échec est ignoré, pas fatal."""
+    """PubTator3 n'accepte que des PMID numériques ; un lot en échec est ignoré, pas fatal.
+
+    Espace les requêtes réseau (~2.5 req/s) pour rester sous la limite de débit de PubTator
+    et éviter les 429 (qui déclenchaient de longs backoffs et faisaient abandonner les lots).
+    """
     numeric = [p for p in pmids if p.isdigit()]
     anns: list[Annotation] = []
     rels: list[Relation] = []
     for i in range(0, len(numeric), _PUBTATOR_BATCH):
         batch = numeric[i:i + _PUBTATOR_BATCH]
+        if fetcher is None:          # vrai réseau : politesse (pas de pause en tests/fixtures)
+            time.sleep(0.4)
         try:
             a, r = pubtator.fetch_annotations(batch, fetcher=fetcher, cache_dir=cache_dir)
         except Exception as exc:  # un lot problématique ne doit pas tuer la collecte
