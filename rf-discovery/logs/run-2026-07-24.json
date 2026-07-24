@@ -1,1 +1,1 @@
-{"run_date": "2026-07-24", "utc": "2026-07-24T12:12:34.307662+00:00", "n_candidates": 391, "gate": {"auroc": 0.5, "auprc": 0.09090909090909091, "n": 803, "n_positive": 73, "precision_at_50": 0.0, "passes_gate": false, "meets_target": false, "n_metapaths": 222}}
+{"run_date": "2026-07-24", "utc": "2026-07-24T14:28:03.135693+00:00", "n_candidates": 236, "gate": {"auroc": 0.504482508061873, "auprc": 0.10506018531647791, "n": 95745, "n_positive": 9517, "precision_at_50": 0.56, "passes_gate": false, "meets_target": false, "n_metapaths": 222}}
