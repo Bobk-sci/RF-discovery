@@ -1,4 +1,6 @@
 name: rf-discovery-weekly
+# Reconstruction complète du graphe (état incrémental réinitialisé pour appliquer
+# la co-occurrence à TOUS les articles, pas seulement aux nouveaux).
 
 on:
   schedule:
