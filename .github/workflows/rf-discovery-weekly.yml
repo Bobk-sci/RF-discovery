@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 6 * * 1'      # lundi 06:00 UTC
   workflow_dispatch:
+  push:
+    branches: [main]
+    # Se lance tout seul quand du CODE change (merge de PR) — plus besoin de cliquer.
+    # Les chemins data/reports/logs sont EXCLUS pour que le commit de résultats du run
+    # ne redéclenche pas un run (pas de boucle infinie).
+    paths:
+      - 'rf-discovery/src/**'
+      - 'rf-discovery/config/**'
+      - '.github/workflows/rf-discovery-weekly.yml'
 
 permissions:
   contents: write
