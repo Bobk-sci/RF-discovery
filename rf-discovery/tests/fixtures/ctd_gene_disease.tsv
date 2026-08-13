@@ -1,0 +1,8 @@
+# CTD gene-disease
+#
+# Fields:
+#
+# GeneSymbol	GeneID	DiseaseName	DiseaseID	DirectEvidence	InferenceChemicalName	InferenceScore	OmimIDs	PubMedIDs
+#
+BDNF	627	Autism	MESH:D001321	marker/mechanism				31000000
+BDNF	627	InferredOnly	MESH:D999999		somechem	12.3		22000000

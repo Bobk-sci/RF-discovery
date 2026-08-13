@@ -72,6 +72,12 @@ jobs:
         run: |
           python -m harvest --db data/graph.duckdb --max-results 500 | tee harvest.json
 
+      - name: Enrich graph with CTD (curated, dated relations)
+        # CTD apporte les relations curées chimique/gène/maladie ET le maillon
+        # gène->voie que PubTator ne fournit pas. Téléchargement direct, cache local.
+        run: |
+          python -m ingest_ctd --db data/graph.duckdb | tee ctd.json
+
       - name: Score, validate gate, report
         id: pipeline
         env:

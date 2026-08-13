@@ -18,28 +18,62 @@ from graph.dwpc import dwpc_features
 from graph.metapaths import Metapath
 
 
+def _in_sorted(sorted_keys: np.ndarray, values: np.ndarray) -> np.ndarray:
+    """Appartenance vectorisée à un tableau trié (``searchsorted``)."""
+    if len(sorted_keys) == 0:
+        return np.zeros(len(values), dtype=bool)
+    idx = np.clip(np.searchsorted(sorted_keys, values), 0, len(sorted_keys) - 1)
+    return sorted_keys[idx] == values
+
+
+def _valid_swaps(rows, cols, i, j, n, m) -> np.ndarray:
+    """Masque des échanges licites : pas de boucle, pas d'arête dupliquée, un lot cohérent."""
+    a, b, c, d = rows[i], cols[i], rows[j], cols[j]
+    ok = (i != j) & (a != c) & (b != d) & (a != d) & (c != b)
+    new1, new2 = a * n + d, c * n + b
+    existing = np.sort(rows * n + cols)
+    ok &= ~_in_sorted(existing, new1) & ~_in_sorted(existing, new2)
+    # chaque arête ne doit être touchée qu'une fois dans le lot
+    touched = np.zeros(m, dtype=np.int64)
+    np.add.at(touched, i[ok], 1)
+    np.add.at(touched, j[ok], 1)
+    ok &= (touched[i] == 1) & (touched[j] == 1)
+    # les nouvelles arêtes du lot doivent être distinctes entre elles
+    both = np.concatenate([new1[ok], new2[ok]])
+    _, inv, counts = np.unique(both, return_inverse=True, return_counts=True)
+    unique_ok = counts[inv] == 1
+    half = len(both) // 2
+    keep = unique_ok[:half] & unique_ok[half:]
+    sel = np.flatnonzero(ok)
+    final = np.zeros(len(i), dtype=bool)
+    final[sel[keep]] = True
+    return final
+
+
+def _xswap_columns(rows: np.ndarray, cols: np.ndarray, n: int,
+                   rng: np.random.Generator, rounds: int) -> np.ndarray:
+    """XSwap vectorisé par lots : les degrés sortants/entrants sont préservés exactement."""
+    m = len(rows)
+    for _ in range(rounds):
+        i = rng.integers(m, size=m)
+        j = rng.integers(m, size=m)
+        ok = _valid_swaps(rows, cols, i, j, n, m)
+        ii, jj = i[ok], j[ok]
+        cols[ii], cols[jj] = cols[jj].copy(), cols[ii].copy()
+    return cols
+
+
 def permute_graph(graph: Graph, rng: np.random.Generator, swaps_per_edge: int = 10) -> Graph:
     """Une réalisation du graphe nul (XSwap, degrés préservés par métaedge)."""
     new_adj: dict = {}
+    n = graph.n_nodes
     for key, mat in graph.adj.items():
         coo = mat.tocoo()
-        rows, cols = coo.row.copy(), coo.col.copy()
-        edges = set(zip(rows.tolist(), cols.tolist(), strict=False))
+        rows = coo.row.astype(np.int64)
+        cols = coo.col.astype(np.int64).copy()
         m = len(rows)
-        for _ in range(swaps_per_edge * m):
-            i, j = int(rng.integers(m)), int(rng.integers(m))
-            if i == j:
-                continue
-            a, b, c, d = int(rows[i]), int(cols[i]), int(rows[j]), int(cols[j])
-            if a == d or c == b or b == d or a == c:
-                continue
-            if (a, d) in edges or (c, b) in edges:
-                continue
-            edges.discard((a, b))
-            edges.discard((c, d))
-            edges.add((a, d))
-            edges.add((c, b))
-            cols[i], cols[j] = d, b
+        if m >= 2:
+            cols = _xswap_columns(rows, cols, n, rng, swaps_per_edge)
         new_adj[key] = csr_matrix((np.ones(m), (rows, cols)), shape=mat.shape)
     return Graph(
         graph.node_ids, graph.node_type, graph.index, new_adj, graph.degree.copy()

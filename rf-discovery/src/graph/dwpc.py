@@ -53,19 +53,37 @@ def dwpc_pair_matrix(
     return src_rows, tgt_cols, dense
 
 
+def _row_position_lookup(graph: Graph, node_type: str) -> np.ndarray:
+    """Tableau ``n_nœuds`` → position de la ligne dans la matrice source (-1 si absent)."""
+    lookup = np.full(graph.n_nodes, -1, dtype=np.int64)
+    rows = graph.rows_of_type(node_type)
+    lookup[rows] = np.arange(len(rows), dtype=np.int64)
+    return lookup
+
+
 def dwpc_features(
     graph: Graph,
     metapaths: Sequence[Metapath],
     pairs: Sequence[tuple[str, str]],
     w: float = 0.4,
 ) -> np.ndarray:
-    """Matrice de features ``n_paires × n_métachemins`` (DWPC par métachemin)."""
+    """Matrice de features ``n_paires × n_métachemins`` (DWPC par métachemin).
+
+    Extraction vectorisée : une seule indexation groupée par métachemin (et non un accès
+    creux par paire), ce qui rend le calcul viable sur un graphe dense recalculé à chaque
+    permutation du modèle nul.
+    """
     feats = np.zeros((len(pairs), len(metapaths)), dtype=np.float64)
-    pair_idx = [(graph.index.get(a, -1), graph.index.get(c, -1)) for a, c in pairs]
+    a_idx = np.array([graph.index.get(a, -1) for a, _ in pairs], dtype=np.int64)
+    c_idx = np.array([graph.index.get(c, -1) for _, c in pairs], dtype=np.int64)
+    lookups: dict[str, np.ndarray] = {}
     for j, mp in enumerate(metapaths):
+        if mp.source_type not in lookups:
+            lookups[mp.source_type] = _row_position_lookup(graph, mp.source_type)
+        pos = np.where(a_idx >= 0, lookups[mp.source_type][a_idx], -1)
+        valid = (pos >= 0) & (c_idx >= 0)
+        if not valid.any():
+            continue
         state = dwpc_source_matrix(graph, mp, w)
-        row_pos = {int(r): i for i, r in enumerate(graph.rows_of_type(mp.source_type))}
-        for i, (a, c) in enumerate(pair_idx):
-            if a in row_pos and c >= 0:
-                feats[i, j] = state[row_pos[a], c]
+        feats[valid, j] = np.asarray(state[pos[valid], c_idx[valid]]).ravel()
     return feats

@@ -60,7 +60,7 @@ def _degree_matched_negatives(
 
 def build_dataset(
     nodes: Sequence[Node], edges: Sequence[Edge], metapaths_path: str | Path,
-    *, cutoff: int, end: int, neg_ratio: int = 10, seed: int = 0,
+    *, cutoff: int, end: int, neg_ratio: int = 10, seed: int = 0, buffer_years: int = 0,
 ) -> tuple[Graph, list[Metapath], list[tuple[str, str]], np.ndarray]:
     mg, hubs = _load_meta(metapaths_path)
     metapaths = enumerate_metapaths(mg)
@@ -74,7 +74,7 @@ def build_dataset(
     pos_idx: list[tuple[int, int]] = []
     seen: set[tuple[int, int]] = set()
     for e in edges:
-        if not (cutoff < e.first_year <= end):
+        if not (cutoff + buffer_years < e.first_year <= end):
             continue
         if ntype.get(e.source_id) not in src_t or ntype.get(e.target_id) not in tgt_t:
             continue
@@ -98,11 +98,17 @@ def build_dataset(
 def run_timeslice(
     nodes: Sequence[Node], edges: Sequence[Edge], metapaths_path: str | Path,
     *, cutoff: int = 2018, end: int = 2025, neg_ratio: int = 10, seed: int = 0,
-    w: float = 0.4, n_splits: int = 5,
+    w: float = 0.4, n_splits: int = 5, buffer_years: int = 0,
 ) -> dict:
-    """Exécute la validation et renvoie métriques + statut du gate."""
+    """Exécute la validation et renvoie métriques + statut du gate.
+
+    ``buffer_years`` laisse une zone morte entre la fin de l'entraînement et le début de la
+    fenêtre de test : indispensable quand les années proviennent d'une estimation (PMID),
+    pour qu'une erreur d'un an ne fasse pas basculer une arête du mauvais côté.
+    """
     graph, metapaths, pairs, labels = build_dataset(
-        nodes, edges, metapaths_path, cutoff=cutoff, end=end, neg_ratio=neg_ratio, seed=seed
+        nodes, edges, metapaths_path, cutoff=cutoff, end=end, neg_ratio=neg_ratio, seed=seed,
+        buffer_years=buffer_years,
     )
     if labels.sum() == 0 or labels.sum() == len(labels):
         return {"error": "classes dégénérées", "n_positive": int(labels.sum()),
