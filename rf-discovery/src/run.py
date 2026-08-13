@@ -81,7 +81,9 @@ def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
     pairs = candidate_pairs(nodes, mg)
     null = dwpc_null(graph, metapaths, pairs, n_permutations=n_perm, seed=seed)
     candidates = rank_candidates(graph, metapaths, pairs, null=null, seed=seed)
-    gate = run_timeslice(nodes, edges, cfg, seed=seed)
+    # buffer_years=1 : les années CTD viennent d'une estimation PMID (±1 an), on laisse
+    # une zone morte pour ne pas classer une arête du mauvais côté du découpage (§9).
+    gate = run_timeslice(nodes, edges, cfg, seed=seed, buffer_years=1)
     digest = build_digest(candidates, run_date=date.today(), top=top, gate=gate)
     _write_reports(digest, candidates, gate, out)
     con = connect(db_path)

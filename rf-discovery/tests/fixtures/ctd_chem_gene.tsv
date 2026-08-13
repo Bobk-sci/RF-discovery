@@ -1,0 +1,9 @@
+# CTD chem-gene (extrait synthétique)
+#
+# Fields:
+#
+# ChemicalName	ChemicalID	CasRN	GeneSymbol	GeneID	GeneForms	Organism	OrganismID	Interaction	InteractionActions	PubMedIDs
+#
+Bisphenol A	C006780	80-05-7	BDNF	627	protein	Homo sapiens	9606	BPA increases BDNF	increases^expression	22000000|28500000
+Lead	D007854	7439-92-1	BDNF	627	mRNA	Homo sapiens	9606	Lead decreases BDNF	decreases^expression	30800000
+Other	C999999	0	XYZ	999999	protein	Danio rerio	7955	nope	affects^binding	22000000

@@ -1,0 +1,7 @@
+# CTD gene-pathway
+#
+# Fields:
+#
+# GeneSymbol	GeneID	PathwayName	PathwayID
+#
+BDNF	627	Neurotrophin signaling	KEGG:hsa04722

@@ -65,6 +65,30 @@ PubTator3 étant ouvert (sans licence), le harvester amorce un graphe réel **sa
 Pour un substrat plus riche, on ajoute SemMedDB par-dessus (section suivante) — les deux
 sources normalisent vers les mêmes nœuds/arêtes (`normalize/records.py`), d'où la jointure.
 
+## Enrichissement CTD (relations curées et datées — automatique)
+
+PubTator donne des entités mais très peu de relations mécanistiques : les métachemins
+restent cassés (aucun maillon `gène → voie`). **CTD** (Comparative Toxicogenomics Database)
+comble ce trou, gratuitement et sans licence pour l'usage académique :
+
+```bash
+python -m ingest_ctd --db data/graph.duckdb      # téléchargement direct + cache
+```
+
+Apports : chimique→gène (`STIMULATES`/`INHIBITS`/`AFFECTS`), gène→maladie et
+chimique→maladie **restreints aux preuves directes curées**, et surtout **gène→voie**
+(Reactome/KEGG) — la charpente qui referme les métachemins.
+
+Deux points de conception :
+
+- **Restriction au voisinage** (modèle ABC de Swanson) : CTD complet ferait des millions
+  d'arêtes. On ne garde que l'expansion d'un cran autour des entités déjà liées à
+  l'exposition RF — le graphe reste focalisé et calculable.
+- **Datation par PMID** : CTD référence ses relations par PubMed ID sans donner l'année.
+  On l'estime par interpolation (les PMID sont quasi chronologiques), à ±1 an près. Le gate
+  compense avec une **année tampon** (`buffer_years=1`) entre entraînement et test, pour
+  qu'une erreur d'un an ne fasse pas basculer une arête du mauvais côté du découpage.
+
 ## Ingestion SemMedDB (substrat du graphe)
 
 SemMedDB fournit les triplets sujet-prédicat-objet sur tout MEDLINE — le substrat du
