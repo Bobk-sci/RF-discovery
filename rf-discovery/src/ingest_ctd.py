@@ -51,32 +51,50 @@ def _ident(field: str, value: str) -> str:
     return value.strip() if field == "GeneID" else mesh(value)
 
 
+def _already_ingested(con) -> bool:
+    """CTD est déjà dans le graphe si la charpente gène→voie est présente."""
+    row = con.execute(
+        "SELECT count(*) FROM edges WHERE predicate = 'PARTICIPATES_IN'").fetchone()
+    return bool(row and row[0] > 0)
+
+
 def ingest_ctd(
     db_path: str | Path,
     *,
     cache_dir: str = "data/cache/ctd",
     max_rows: int | None = None,
     offline_files: dict[str, str] | None = None,
+    force: bool = False,
 ) -> dict:
-    """Télécharge (ou lit) les dumps CTD et enrichit le graphe autour des entités connues."""
+    """Télécharge (ou lit) les dumps CTD et enrichit le graphe autour des entités connues.
+
+    Les données CTD évoluent au plus mensuellement : si la charpente est déjà présente,
+    on saute l'étape (elle coûte des heures de lecture) sauf ``force=True``.
+    """
     con = connect(db_path)
     seeds = _existing_ids(con)
     if not seeds:
         con.close()
         return {"error": "graphe vide : lancer d'abord la collecte PubTator", "n_edges": 0}
+    if _already_ingested(con) and not force:
+        con.close()
+        return {"skipped": "CTD déjà ingéré (relancer avec --force pour rafraîchir)"}
 
-    def rows_for(name: str):
+    def rows_for(name: str, prefilter=None):
         path = (offline_files or {}).get(name) or ctd.download(name, cache_dir=cache_dir)
-        return ctd.iter_rows(path, limit=max_rows)
+        return ctd.iter_rows(path, limit=max_rows, prefilter=prefilter)
 
+    direct = ctd.has_direct_evidence   # écarte les inférences avant de construire le dict
     acc = Accumulator()
     counts: dict[str, int] = {}
     counts["chem_gene"] = add_chem_gene(
         acc, _touching(rows_for("chem_gene"), seeds, ("ChemicalID", "GeneID"), _ident))
     counts["gene_disease"] = add_gene_disease(
-        acc, _touching(rows_for("gene_disease"), seeds, ("GeneID", "DiseaseID"), _ident))
+        acc, _touching(rows_for("gene_disease", direct), seeds,
+                       ("GeneID", "DiseaseID"), _ident))
     counts["chem_disease"] = add_chem_disease(
-        acc, _touching(rows_for("chem_disease"), seeds, ("ChemicalID", "DiseaseID"), _ident))
+        acc, _touching(rows_for("chem_disease", direct), seeds,
+                       ("ChemicalID", "DiseaseID"), _ident))
     genes = {nid for nid, n in acc.nodes.items() if n.node_type == "Gene"} | seeds
     counts["gene_pathway"] = add_gene_pathway(
         acc, _touching(rows_for("gene_pathway"), genes, ("GeneID",), _ident))
@@ -96,9 +114,11 @@ def main() -> None:
     ap.add_argument("--cache-dir", default="data/cache/ctd")
     ap.add_argument("--max-rows", type=int, default=None,
                     help="borne le nombre de lignes lues par fichier (tests/démo)")
+    ap.add_argument("--force", action="store_true",
+                    help="réingère CTD même si la charpente est déjà présente")
     args = ap.parse_args()
-    print(json.dumps(ingest_ctd(args.db, cache_dir=args.cache_dir,
-                                max_rows=args.max_rows), indent=2, ensure_ascii=False))
+    print(json.dumps(ingest_ctd(args.db, cache_dir=args.cache_dir, max_rows=args.max_rows,
+                                force=args.force), indent=2, ensure_ascii=False))
 
 
 if __name__ == "__main__":

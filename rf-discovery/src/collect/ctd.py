@@ -14,7 +14,7 @@ séparés par des tabulations ; puis les lignes de données.
 from __future__ import annotations
 
 import gzip
-from collections.abc import Iterator
+from collections.abc import Callable, Iterator
 from pathlib import Path
 from typing import IO
 
@@ -57,8 +57,14 @@ def _open(path: str | Path) -> IO[str]:
     return open(p, encoding="utf-8", errors="replace")
 
 
-def iter_rows(path: str | Path, limit: int | None = None) -> Iterator[dict[str, str]]:
-    """Rend chaque ligne de données en dict {colonne: valeur} (lecture en flux)."""
+def iter_rows(path: str | Path, limit: int | None = None,
+              prefilter: Callable[[str], bool] | None = None) -> Iterator[dict[str, str]]:
+    """Rend chaque ligne de données en dict {colonne: valeur} (lecture en flux).
+
+    ``prefilter`` s'applique à la **ligne brute** : les fichiers CTD comptent des dizaines
+    de millions de lignes dont la grande majorité sera écartée (associations inférées).
+    Filtrer avant de construire le dict évite des millions d'allocations inutiles.
+    """
     header: list[str] = []
     yielded = 0
     with _open(path) as fh:
@@ -71,6 +77,8 @@ def iter_rows(path: str | Path, limit: int | None = None) -> Iterator[dict[str, 
                 continue
             if not line or not header:
                 continue
+            if prefilter is not None and not prefilter(line):
+                continue
             values = line.split("\t")
             if len(values) < len(header):
                 values += [""] * (len(header) - len(values))
@@ -78,3 +86,8 @@ def iter_rows(path: str | Path, limit: int | None = None) -> Iterator[dict[str, 
             yielded += 1
             if limit is not None and yielded >= limit:
                 return
+
+
+def has_direct_evidence(line: str) -> bool:
+    """Pré-filtre : ne garder que les lignes portant une preuve directe curée."""
+    return "marker/mechanism" in line or "therapeutic" in line
