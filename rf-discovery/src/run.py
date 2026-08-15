@@ -17,6 +17,7 @@ from graph.build import Edge, Node, build_graph
 from graph.metapaths import MetaGraph, enumerate_metapaths
 from graph.permute import dwpc_null
 from graph.schema import connect
+from graph.store import recompute_degrees
 from report.dashboard import build_dashboard
 from report.digest import build_digest
 from score.rank import rank_candidates
@@ -33,17 +34,22 @@ def candidate_pairs(nodes, mg: MetaGraph, limit: int = 400) -> list[tuple[str, s
     return pairs[:limit]
 
 
-def persist(con, nodes, edges, candidates, run_row: dict) -> None:
-    con.execute("DELETE FROM nodes")
-    if nodes:
-        con.executemany("INSERT INTO nodes (node_id, node_type, degree) VALUES (?, ?, 0)",
-                        [(n.node_id, n.node_type) for n in nodes])
-    con.execute("DELETE FROM edges")
-    if edges:
-        con.executemany(
-            "INSERT INTO edges (source_id, target_id, predicate, first_year, n_papers) "
-            "VALUES (?, ?, ?, ?, 1)",
-            [(e.source_id, e.target_id, e.predicate, e.first_year) for e in edges])
+def persist(con, nodes, edges, candidates, run_row: dict, *, write_graph: bool = True) -> None:
+    """Persiste le run. ``write_graph=False`` en mode réel : le graphe **vient** de la base,
+    le réécrire effacerait les noms, degrés et compteurs posés par la collecte et CTD."""
+    if write_graph:
+        con.execute("DELETE FROM nodes")
+        if nodes:
+            con.executemany(
+                "INSERT INTO nodes (node_id, node_type, degree) VALUES (?, ?, 0)",
+                [(n.node_id, n.node_type) for n in nodes])
+        con.execute("DELETE FROM edges")
+        if edges:
+            con.executemany(
+                "INSERT INTO edges (source_id, target_id, predicate, first_year, n_papers) "
+                "VALUES (?, ?, ?, ?, 1)",
+                [(e.source_id, e.target_id, e.predicate, e.first_year) for e in edges])
+        recompute_degrees(con)
     _persist_candidates(con, run_row["run_date"], candidates)
     con.execute(
         "INSERT OR REPLACE INTO runs (run_date, n_new_papers, n_new_edges, n_candidates, "
@@ -89,7 +95,8 @@ def run(db_path: str, *, synthetic: bool, seed: int = 0, n_perm: int = 50,
     con = connect(db_path)
     persist(con, nodes, edges, candidates, {
         "run_date": date.today(), "n_candidates": len(candidates),
-        "status": "ok", "duration_s": time.time() - t0})
+        "status": "ok", "duration_s": time.time() - t0},
+        write_graph=synthetic)
     dashboard_html = build_dashboard(con, out_path=out / "docs" / "index.html")
     con.close()
     return {"n_candidates": len(candidates), "gate": gate,

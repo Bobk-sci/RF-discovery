@@ -94,6 +94,22 @@ def test_ingest_expands_around_existing_entities(tmp_path):
     assert deg >= 3                      # le gène amorce est bien connecté
 
 
+def test_prefilter_skips_inferred_rows():
+    from collect.ctd import has_direct_evidence
+
+    rows = list(iter_rows(FILES["gene_disease"], prefilter=has_direct_evidence))
+    assert len(rows) == 1 and rows[0]["DirectEvidence"] == "marker/mechanism"
+
+
+def test_second_ingest_is_skipped_unless_forced(tmp_path):
+    db = _seed_db(tmp_path)
+    first = ingest_ctd(db, offline_files=FILES)
+    assert first["ctd_edges"] > 0
+    # la charpente gène→voie est là : on ne relit pas des heures de fichiers
+    assert "skipped" in ingest_ctd(db, offline_files=FILES)
+    assert "skipped" not in ingest_ctd(db, offline_files=FILES, force=True)
+
+
 def test_ingest_refuses_empty_graph(tmp_path):
     db = tmp_path / "empty.duckdb"
     connect(db).close()
