@@ -52,9 +52,15 @@ def _ident(field: str, value: str) -> str:
 
 
 def _already_ingested(con) -> bool:
-    """CTD est déjà dans le graphe si la charpente gène→voie est présente."""
+    """CTD est déjà exploitable si la charpente gène→voie existe **avec ses libellés**.
+
+    Les nœuds Pathway ne viennent que de CTD : s'ils sont présents mais sans nom, c'est
+    que les métadonnées ont été perdues et il faut réingérer (sinon le dashboard reste
+    illisible et un simple relancement ne réparerait rien).
+    """
     row = con.execute(
-        "SELECT count(*) FROM edges WHERE predicate = 'PARTICIPATES_IN'").fetchone()
+        "SELECT count(*) FROM nodes WHERE node_type = 'Pathway' "
+        "AND name IS NOT NULL AND name <> ''").fetchone()
     return bool(row and row[0] > 0)
 
 
