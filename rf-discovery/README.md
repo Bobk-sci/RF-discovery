@@ -15,6 +15,40 @@ Chaîne de scoring : `métachemins → DWPC (degree-weighted path count) → nul
 préservant les degrés → z-scores → combinaison logistique → nouveauté (Uzzi) + rafales
 (Kleinberg) → classement composite`.
 
+## Validation prospective (à la Swanson) — `src/validate/prospective.py`
+
+Le gate du §9 (prédire les ajouts de CTD 2020-2025) mesure **0.50**, soit le hasard. Le
+diagnostic, établi par la mesure : ces ajouts reflètent surtout les **choix humains de
+recherche** (financements, priorités réglementaires), pas la mécanistique inscrite dans le
+graphe. Ce n'est pas le moteur qui échoue, c'est la cible de validation qui est mal posée.
+
+Le protocole historique de la découverte par la littérature est implémenté à côté :
+
+1. **geler** le graphe à une date ancienne, 2. **effacer** le lien direct du couple testé,
+3. **classer** ce couple parmi des composés témoins appariés en degré.
+
+```bash
+python -c "from validate.prospective import run_prospective; ..."   # cf. tests
+```
+
+Résultat mesuré sur le graphe réel (CTD + PubTator), **gel à 2010** :
+
+| Couple (reconnaissance) | Rang | Percentile |
+|---|---|---|
+| Roténone → Parkinson (2011) | 2/300 | 0,7 % |
+| Chlorpyrifos → Dév. cognitif (2011) | 3/301 | 1,0 % |
+| Acide valproïque → Autisme (2013) | 3/300 | 1,0 % |
+| Paraquat → Parkinson (2011) | 4/300 | 1,3 % |
+| Bisphénol A → Autisme (2012) | 23/300 | 7,7 % |
+
+**Percentile médian : 1,0 %** (le hasard donnerait 50 %). En 2010, avec la seule
+littérature antérieure et le lien effacé, le moteur plaçait « acide valproïque → autisme »
+3ᵉ sur 300 — trois ans avant l'étude qui l'a établi. Le moteur **anticipe** ; il ne fait pas
+que rationaliser après coup.
+
+Les couples de référence sont dans `config/known_links.yaml` (extensible) ; un couple déjà
+reconnu avant le gel est automatiquement écarté du calcul.
+
 ## Gate bloquant (§9)
 
 Entraîné sur la littérature ≤ 2018, le pipeline doit retrouver les liens apparus en

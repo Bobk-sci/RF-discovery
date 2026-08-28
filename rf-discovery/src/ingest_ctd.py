@@ -28,6 +28,7 @@ from normalize.ctd import (
     add_chem_gene,
     add_gene_disease,
     add_gene_pathway,
+    mesh,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -52,16 +53,50 @@ def _ident(field: str, value: str) -> str:
 
 
 def _already_ingested(con) -> bool:
-    """CTD est déjà exploitable si la charpente gène→voie existe **avec ses libellés**.
+    """CTD est déjà dans le graphe si la charpente gène→voie est présente.
 
-    Les nœuds Pathway ne viennent que de CTD : s'ils sont présents mais sans nom, c'est
-    que les métadonnées ont été perdues et il faut réingérer (sinon le dashboard reste
-    illisible et un simple relancement ne réparerait rien).
+    On se fonde sur les ARÊTES, pas sur les libellés : baser la décision sur les noms
+    créait une boucle (noms absents → réingestion complète → dépassement de la limite de
+    6 h d'Actions → rien de committé → noms toujours absents). Les noms sont restaurés
+    séparément par ``backfill_names``, qui ne lit que de petits fichiers de vocabulaire.
     """
     row = con.execute(
-        "SELECT count(*) FROM nodes WHERE node_type = 'Pathway' "
-        "AND name IS NOT NULL AND name <> ''").fetchone()
+        "SELECT count(*) FROM edges WHERE predicate = 'PARTICIPATES_IN'").fetchone()
     return bool(row and row[0] > 0)
+
+
+def backfill_names(con, cache_dir: str = "data/cache/ctd",
+                   offline_vocab: dict[str, str] | None = None) -> int:
+    """Renseigne les noms manquants depuis les fichiers de vocabulaire CTD (quelques Mo).
+
+    Récupérer les libellés ne doit pas coûter la relecture des fichiers de relations
+    (des heures) : les vocabulaires suffisent et se lisent en quelques secondes.
+    """
+    missing = {r[0] for r in con.execute(
+        "SELECT node_id FROM nodes WHERE name IS NULL OR name = ''").fetchall()}
+    if not missing:
+        return 0
+    updates: list[tuple[str, str]] = []
+    for key, (filename, id_col, name_col) in ctd.VOCAB_FILES.items():
+        local = (offline_vocab or {}).get(key)
+        try:
+            path: str | Path = local or ctd.download(filename, cache_dir=cache_dir)
+            rows = list(ctd.iter_rows(path))
+        except Exception as exc:      # un vocabulaire indisponible ne doit pas tuer le run
+            logging.warning("vocabulaire CTD %s ignoré : %s", key, exc)
+            continue
+        for row in rows:
+            raw, name = row.get(id_col, "").strip(), row.get(name_col, "").strip()
+            if not raw or not name:
+                continue
+            for candidate in {raw, mesh(raw), raw.split(":")[-1]}:
+                if candidate in missing:
+                    updates.append((name, candidate))
+                    missing.discard(candidate)
+                    break
+    if updates:
+        con.executemany("UPDATE nodes SET name = ? WHERE node_id = ?", updates)
+    return len(updates)
 
 
 def ingest_ctd(
@@ -70,6 +105,7 @@ def ingest_ctd(
     cache_dir: str = "data/cache/ctd",
     max_rows: int | None = None,
     offline_files: dict[str, str] | None = None,
+    offline_vocab: dict[str, str] | None = None,
     force: bool = False,
 ) -> dict:
     """Télécharge (ou lit) les dumps CTD et enrichit le graphe autour des entités connues.
@@ -83,8 +119,10 @@ def ingest_ctd(
         con.close()
         return {"error": "graphe vide : lancer d'abord la collecte PubTator", "n_edges": 0}
     if _already_ingested(con) and not force:
+        filled = backfill_names(con, cache_dir=cache_dir, offline_vocab=offline_vocab)
         con.close()
-        return {"skipped": "CTD déjà ingéré (relancer avec --force pour rafraîchir)"}
+        return {"skipped": "CTD déjà ingéré (--force pour rafraîchir)",
+                "names_backfilled": filled}
 
     def rows_for(name: str, prefilter=None):
         path = (offline_files or {}).get(name) or ctd.download(name, cache_dir=cache_dir)

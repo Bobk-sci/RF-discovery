@@ -1,0 +1,7 @@
+# CTD diseases vocabulary
+#
+# Fields:
+#
+# DiseaseName	DiseaseID	AltDiseaseIDs	Definition
+#
+Autistic Disorder	MESH:D001321		une definition

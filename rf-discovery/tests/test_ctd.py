@@ -101,13 +101,49 @@ def test_prefilter_skips_inferred_rows():
     assert len(rows) == 1 and rows[0]["DirectEvidence"] == "marker/mechanism"
 
 
+VOCAB = {
+    "chemicals": str(FIX / "ctd_vocab_chemicals.tsv"),
+    "diseases": str(FIX / "ctd_vocab_diseases.tsv"),
+    "genes": str(FIX / "ctd_vocab_genes.tsv"),
+    "pathways": str(FIX / "ctd_vocab_pathways.tsv"),
+}
+
+
 def test_second_ingest_is_skipped_unless_forced(tmp_path):
     db = _seed_db(tmp_path)
     first = ingest_ctd(db, offline_files=FILES)
     assert first["ctd_edges"] > 0
     # la charpente gène→voie est là : on ne relit pas des heures de fichiers
-    assert "skipped" in ingest_ctd(db, offline_files=FILES)
+    assert "skipped" in ingest_ctd(db, offline_files=FILES, offline_vocab=VOCAB)
     assert "skipped" not in ingest_ctd(db, offline_files=FILES, force=True)
+
+
+def test_names_are_backfilled_from_small_vocabulary_files(tmp_path):
+    """Récupérer les libellés ne doit PAS coûter la relecture des fichiers de relations."""
+    from ingest_ctd import backfill_names
+
+    db = _seed_db(tmp_path)
+    ingest_ctd(db, offline_files=FILES)
+    con = connect(db)
+    con.execute("UPDATE nodes SET name = NULL")          # simule la perte des métadonnées
+    filled = backfill_names(con, offline_vocab=VOCAB)
+    names = dict(con.execute(
+        "SELECT node_id, name FROM nodes WHERE name IS NOT NULL").fetchall())
+    con.close()
+    assert filled >= 3
+    assert names.get("627") == "brain derived neurotrophic factor"
+    assert names.get("MESH:D001321") == "Autistic Disorder"
+    assert names.get("KEGG:hsa04722") == "Neurotrophin signaling pathway"
+
+
+def test_skip_path_backfills_names_without_reparsing(tmp_path):
+    db = _seed_db(tmp_path)
+    ingest_ctd(db, offline_files=FILES)
+    con = connect(db)
+    con.execute("UPDATE nodes SET name = NULL")
+    con.close()
+    out = ingest_ctd(db, offline_files=FILES, offline_vocab=VOCAB)
+    assert "skipped" in out and out["names_backfilled"] >= 3
 
 
 def test_ingest_refuses_empty_graph(tmp_path):
