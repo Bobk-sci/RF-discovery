@@ -1,0 +1,7 @@
+# CTD chemicals vocabulary
+#
+# Fields:
+#
+# ChemicalName	ChemicalID	CasRN	Definition
+#
+Bisphenol A	MESH:C006780	80-05-7	une definition

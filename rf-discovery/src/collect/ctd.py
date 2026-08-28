@@ -29,6 +29,15 @@ FILES = {
     "gene_pathway": "CTD_genes_pathways.tsv.gz",
 }
 
+# Fichiers de VOCABULAIRE : quelques Mo seulement, ils donnent le nom de chaque entité.
+# Les relire coûte des secondes, là où relire les fichiers de relations coûte des heures.
+VOCAB_FILES = {
+    "chemicals": ("CTD_chemicals.tsv.gz", "ChemicalID", "ChemicalName"),
+    "diseases": ("CTD_diseases.tsv.gz", "DiseaseID", "DiseaseName"),
+    "genes": ("CTD_genes.tsv.gz", "GeneID", "GeneName"),
+    "pathways": ("CTD_pathways.tsv.gz", "PathwayID", "PathwayName"),
+}
+
 
 def download(name: str, cache_dir: str | Path = "data/cache/ctd",
              base_url: str = BASE_URL, chunk: int = 1 << 20) -> Path:

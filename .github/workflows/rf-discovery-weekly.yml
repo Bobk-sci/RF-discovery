@@ -32,6 +32,9 @@ concurrency:
 jobs:
   weekly:
     runs-on: ubuntu-latest
+    # Borne explicite : sans elle, un run trop long est annulé à 6 h (limite Actions)
+    # sans rien committer ni ouvrir d'Issue -- panne silencieuse.
+    timeout-minutes: 120
     steps:
       - name: Checkout
         uses: actions/checkout@v4
