@@ -1,0 +1,1 @@
+{"run_date": "2026-09-14", "utc": "2026-09-14T12:15:22.663082+00:00", "n_candidates": 400, "gate": {"auroc": 0.5157764434392651, "auprc": 0.10011891276713022, "n": 160163, "n_positive": 14743, "precision_at_50": 0.52, "passes_gate": false, "meets_target": false, "n_metapaths": 222}}
