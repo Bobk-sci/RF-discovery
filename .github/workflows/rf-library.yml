@@ -6,6 +6,19 @@ name: rf-library
 on:
   schedule:
     - cron: '0 5 * * 1'      # lundi 05:00 UTC
+  push:
+    # Tant que ce fichier n'est pas sur `main`, le bouton « Run workflow » de l'onglet
+    # Actions ne l'affiche pas : GitHub n'enregistre les `workflow_dispatch` que depuis
+    # la branche par défaut. Un déclencheur `push` sur la branche de travail, lui,
+    # fonctionne tout de suite. `articles/` est exclu pour éviter la boucle (le run
+    # committe ses propres résultats).
+    branches: [claude/rf-discovery-pipeline-035bd2]
+    paths:
+      - 'rf-discovery/config/taxonomy.yaml'
+      - 'rf-discovery/src/library/**'
+      - 'rf-discovery/src/collect_library.py'
+      - 'rf-discovery/src/collect/**'
+      - '.github/workflows/rf-library.yml'
   workflow_dispatch:
     inputs:
       max_results:
