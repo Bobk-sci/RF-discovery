@@ -32,6 +32,7 @@ modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
 - dosimetrie_modelisation
+- ingenierie_materiel
 modele_indices:
 - animals
 - rats

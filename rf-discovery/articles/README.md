@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1173 articles** rangés le 2026-09-18 (publications 1960–2026).
+**1172 articles** rangés le 2026-09-18 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,34 +8,36 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| dosimetrie_modelisation | dosimetrie_exposition | 86 |
-| non_classe | general | 75 |
 | in_vivo | stress_oxydatif | 69 |
+| non_classe | general | 60 |
+| dosimetrie_modelisation | dosimetrie_exposition | 59 |
 | epidemiologie | neuro_comportement_cognition | 58 |
 | epidemiologie | neurodeveloppement | 57 |
 | epidemiologie | general | 56 |
 | in_vivo | neuro_comportement_cognition | 55 |
 | in_vivo | neurodeveloppement | 46 |
 | in_vivo | general | 33 |
-| non_classe | neuro_comportement_cognition | 31 |
+| ingenierie_materiel | dosimetrie_exposition | 30 |
+| non_classe | neuro_comportement_cognition | 29 |
 | epidemiologie | eeg_sommeil | 27 |
 | in_vitro | apoptose_mitochondrie | 27 |
 | in_vivo | reproduction | 27 |
 | in_vitro | stress_oxydatif | 26 |
-| dosimetrie_modelisation | general | 25 |
 | non_classe | neurodeveloppement | 25 |
+| dosimetrie_modelisation | general | 24 |
 | epidemiologie | cancer | 23 |
-| revue | general | 23 |
 | in_vivo | apoptose_mitochondrie | 22 |
+| revue | general | 22 |
 | in_vivo | thermique | 19 |
 | revue | reproduction | 19 |
 | in_vivo | genotoxicite_epigenetique | 17 |
+| ingenierie_materiel | general | 17 |
 | revue | neuro_comportement_cognition | 17 |
 | dosimetrie_modelisation | neurodeveloppement | 16 |
-| dosimetrie_modelisation | thermique | 15 |
 | humain_experimental | eeg_sommeil | 15 |
 | in_vitro | genotoxicite_epigenetique | 15 |
 | in_vitro | cancer | 13 |
+| dosimetrie_modelisation | thermique | 12 |
 | in_vitro | general | 12 |
 | non_classe | stress_oxydatif | 11 |
 | non_classe | thermique | 11 |
@@ -47,28 +49,29 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | epidemiologie | dosimetrie_exposition | 8 |
 | non_classe | eeg_sommeil | 8 |
 | revue | thermique | 8 |
-| in_vivo | dosimetrie_exposition | 7 |
 | revue | genotoxicite_epigenetique | 7 |
-| dosimetrie_modelisation | neuro_comportement_cognition | 6 |
 | in_vitro | reproduction | 6 |
+| in_vivo | dosimetrie_exposition | 6 |
 | epidemiologie | reproduction | 5 |
 | humain_experimental | general | 5 |
 | humain_experimental | neuro_comportement_cognition | 5 |
 | in_vivo | cancer | 5 |
 | in_vivo | plasticite_synaptique | 5 |
-| dosimetrie_modelisation | cancer | 4 |
 | dosimetrie_modelisation | genotoxicite_epigenetique | 4 |
+| dosimetrie_modelisation | neuro_comportement_cognition | 4 |
 | dosimetrie_modelisation | stress_oxydatif | 4 |
 | in_vitro | thermique | 4 |
 | in_vivo | eeg_sommeil | 4 |
+| ingenierie_materiel | neuro_comportement_cognition | 4 |
 | non_classe | cancer | 4 |
-| non_classe | dosimetrie_exposition | 4 |
 | non_classe | genotoxicite_epigenetique | 4 |
 | revue | dosimetrie_exposition | 4 |
 | revue | eeg_sommeil | 4 |
 | dosimetrie_modelisation | apoptose_mitochondrie | 3 |
+| dosimetrie_modelisation | cancer | 3 |
 | in_vitro | barriere_hemato_encephalique | 3 |
 | in_vitro | neuroinflammation | 3 |
+| ingenierie_materiel | thermique | 3 |
 | non_classe | apoptose_mitochondrie | 3 |
 | non_classe | reproduction | 3 |
 | revue | apoptose_mitochondrie | 3 |
@@ -76,6 +79,7 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | humain_experimental | dosimetrie_exposition | 2 |
 | in_vitro | dosimetrie_exposition | 2 |
 | in_vitro | neuro_comportement_cognition | 2 |
+| non_classe | dosimetrie_exposition | 2 |
 | dosimetrie_modelisation | barriere_hemato_encephalique | 1 |
 | dosimetrie_modelisation | eeg_sommeil | 1 |
 | dosimetrie_modelisation | reproduction | 1 |

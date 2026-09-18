@@ -28,7 +28,8 @@ mots_cles:
 - twin fetuses
 modele: in_vivo
 modele_score: 1.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - gestation
 theme: neurodeveloppement

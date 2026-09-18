@@ -31,7 +31,8 @@ mots_cles:
 - Antenna Sensor
 modele: in_vivo
 modele_score: 4.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - animals
 - mice

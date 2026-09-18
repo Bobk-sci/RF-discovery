@@ -29,7 +29,8 @@ mots_cles:
 - Effective Field Size
 modele: dosimetrie_modelisation
 modele_score: 3.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - SAR
 - specific absorption rate

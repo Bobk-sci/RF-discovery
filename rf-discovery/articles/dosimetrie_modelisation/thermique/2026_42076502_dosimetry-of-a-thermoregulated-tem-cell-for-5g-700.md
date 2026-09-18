@@ -21,7 +21,8 @@ mots_cles:
 - Transverse Electromagnetic (Tem) Cell
 modele: dosimetrie_modelisation
 modele_score: 7.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - dosimetry
 - SAR

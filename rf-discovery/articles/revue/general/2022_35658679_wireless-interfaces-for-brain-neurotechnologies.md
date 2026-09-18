@@ -22,7 +22,8 @@ mots_cles:
 - wireless power transfer
 modele: revue
 modele_score: 1003.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - Review (descripteur décisif)
 - review

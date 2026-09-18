@@ -140,6 +140,8 @@ recherche:
     # Micro-ondes thérapeutiques ou chirurgicales : l'onde est l'outil, pas l'exposition.
     - "microwave ablation"
     - "radiofrequency ablation"
+    - "tumor ablation"
+    - "thermal therapy"
     - "surgical device"
     - "skin laxity"
     - "osmidrosis"
@@ -314,6 +316,34 @@ axes:
           - "comet assay"
           - "MTT assay"
           - "flow cytometry"
+
+      # Conception de matériel radio : ces articles citent le SAR pour prouver la
+      # conformité d'une antenne, pas pour étudier un effet biologique. Ils ont leur
+      # tiroir plutôt que d'être jetés : ils documentent les sources d'exposition.
+      - name: ingenierie_materiel
+        decisifs:
+          - "antenna design"
+          - "implantable antenna"
+          - "wearable antenna"
+          - "textile antenna"
+          - "patch antenna"
+          - "MIMO antenna"
+          - "capsule endoscopy"
+          - "rectenna"
+          - "power divider"
+          - "wireless power transfer"
+          - "intra-body communication"
+        keywords:
+          # Pas « antenna » seul : les dispositifs d'exposition in vivo en ont aussi.
+          - "MIMO"
+          - "resonator"
+          - "bandwidth"
+          - "return loss"
+          - "impedance matching"
+          - "circularly polarized"
+          - "communication link"
+          - "dual-band"
+          - "wideband"
 
       - name: dosimetrie_modelisation
         keywords:

@@ -35,6 +35,7 @@ modele: in_vitro
 modele_score: 1005.5
 modele_secondaires:
 - in_vivo
+- ingenierie_materiel
 modele_indices:
 - In Vitro Techniques (descripteur décisif)
 - in vitro techniques

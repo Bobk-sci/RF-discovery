@@ -21,7 +21,8 @@ types:
 mots_cles: []
 modele: dosimetrie_modelisation
 modele_score: 3.5
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - phantom
 - waveguide

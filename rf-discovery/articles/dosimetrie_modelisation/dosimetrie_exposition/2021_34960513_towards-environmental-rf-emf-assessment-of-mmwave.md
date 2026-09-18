@@ -27,7 +27,8 @@ mots_cles:
 - radiofrequency electromagnetic fields (RF-EMF)
 modele: dosimetrie_modelisation
 modele_score: 2.0
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - exposure assessment
 - exposure levels

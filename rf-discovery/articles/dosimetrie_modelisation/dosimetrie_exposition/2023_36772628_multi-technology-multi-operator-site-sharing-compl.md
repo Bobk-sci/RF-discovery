@@ -21,7 +21,8 @@ mots_cles:
 - total exposure ratio
 modele: dosimetrie_modelisation
 modele_score: 6.5
-modele_secondaires: []
+modele_secondaires:
+- ingenierie_materiel
 modele_indices:
 - power density
 - exposure levels
