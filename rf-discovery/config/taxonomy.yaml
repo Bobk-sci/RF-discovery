@@ -129,6 +129,36 @@ recherche:
     - "telemedicine"
     - "screening intervention"
     - "wireless body area network"
+    # L'écran plutôt que l'onde : études d'usage, de sommeil-écran, de distraction.
+    - "screen time"
+    - "bedtime phone use"
+    - "phone distraction"
+    - "distracted driving"
+    - "driving"
+    - "sleep hygiene"
+    - "mobile usage"
+    # Micro-ondes thérapeutiques ou chirurgicales : l'onde est l'outil, pas l'exposition.
+    - "microwave ablation"
+    - "radiofrequency ablation"
+    - "surgical device"
+    - "skin laxity"
+    - "osmidrosis"
+    - "hyperhidrosis"
+    - "hyperthermia treatment"
+    # Micro-ondes comme instrument de mesure ou de fabrication.
+    - "microwave imaging"
+    - "microwave sensor"
+    - "microwave drying"
+    - "microwave extraction"
+    - "microwave-assisted extraction"
+    - "biosensor"
+    - "sensor array"
+    - "wireless sensor network"
+    - "4G/5G"            # le polymorphisme génétique 4G/5G n'est pas une bande radio
+    - "vacuum drying"
+    - "accelerometer"
+    - "cloud computing"
+    - "digital health"
   # …sauf si la notice porte une vraie marque d'étude d'exposition : une étude de
   # provocation qui mesure l'effet d'un téléphone par IRM doit rester dans le corpus.
   annulations:
@@ -202,6 +232,9 @@ axes:
         keywords:
           - "healthy volunteers"
           - "human volunteers"
+          - "volunteers"
+          - "experimentally induced"
+          - "exposure session"
           - "double-blind"
           - "provocation study"
           - "sham-controlled"
@@ -313,6 +346,9 @@ axes:
           - "compliance distance"
           - "ICNIRP"
           - "reference level"
+          - "exposure guidelines"
+          - "exposure limits"
+          - "safety standards"
           - "emission"
           - "emissions"
 

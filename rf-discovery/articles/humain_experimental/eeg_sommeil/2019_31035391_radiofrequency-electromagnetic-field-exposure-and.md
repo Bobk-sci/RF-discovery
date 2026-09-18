@@ -35,10 +35,12 @@ mots_cles:
 - mobile phones
 - radiofrequency electromagnetic fields
 modele: humain_experimental
-modele_score: 5.5
+modele_score: 6.5
 modele_secondaires:
+- dosimetrie_modelisation
 - epidemiologie
 modele_indices:
+- exposure session
 - double-blind
 - provocation study
 - resting EEG

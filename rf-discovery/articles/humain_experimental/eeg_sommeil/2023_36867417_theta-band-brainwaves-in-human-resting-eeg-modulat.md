@@ -25,11 +25,12 @@ mots_cles:
 - radiofrequency
 - resting-state
 modele: humain_experimental
-modele_score: 3.5
+modele_score: 4.5
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - healthy volunteers
+- volunteers
 - resting EEG
 theme: eeg_sommeil
 theme_score: 3.5

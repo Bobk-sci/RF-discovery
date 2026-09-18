@@ -24,6 +24,7 @@ modele_score: 2.0
 modele_secondaires:
 - in_vivo
 - in_vitro
+- dosimetrie_modelisation
 modele_indices:
 - case-control
 - case control

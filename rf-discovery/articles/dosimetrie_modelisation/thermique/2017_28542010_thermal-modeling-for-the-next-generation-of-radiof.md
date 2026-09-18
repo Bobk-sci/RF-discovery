@@ -31,11 +31,13 @@ types:
 - Research Support, Non-U.S. Gov't
 mots_cles: []
 modele: dosimetrie_modelisation
-modele_score: 2.0
+modele_score: 5.5
 modele_secondaires: []
 modele_indices:
 - specific absorption rate
 - power density
+- exposure limits
+- safety standards
 theme: thermique
 theme_score: 2.0
 theme_secondaires:

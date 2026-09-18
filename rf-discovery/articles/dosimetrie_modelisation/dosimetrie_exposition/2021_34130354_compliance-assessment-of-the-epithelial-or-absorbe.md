@@ -23,12 +23,14 @@ mots_cles:
 - millimeter wave frequencies
 - specific absorption rate
 modele: dosimetrie_modelisation
-modele_score: 7.0
+modele_score: 9.0
 modele_secondaires: []
 modele_indices:
 - SAR
 - specific absorption rate
 - power density
+- exposure guidelines
+- safety standards
 theme: dosimetrie_exposition
 theme_score: 7.0
 theme_secondaires: []

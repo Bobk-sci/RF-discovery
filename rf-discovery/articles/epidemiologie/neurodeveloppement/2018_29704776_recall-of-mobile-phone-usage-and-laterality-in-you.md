@@ -31,7 +31,8 @@ mots_cles:
 - Validation study
 modele: epidemiologie
 modele_score: 2.0
-modele_secondaires: []
+modele_secondaires:
+- humain_experimental
 modele_indices:
 - participants
 - self-reported

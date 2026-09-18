@@ -26,12 +26,13 @@ mots_cles:
 - non-ionizing electromagnetic radiation
 - power density
 modele: dosimetrie_modelisation
-modele_score: 7.5
+modele_score: 8.5
 modele_secondaires: []
 modele_indices:
 - power density
 - field strength
 - ICNIRP
+- exposure guidelines
 - emissions
 theme: dosimetrie_exposition
 theme_score: 7.0

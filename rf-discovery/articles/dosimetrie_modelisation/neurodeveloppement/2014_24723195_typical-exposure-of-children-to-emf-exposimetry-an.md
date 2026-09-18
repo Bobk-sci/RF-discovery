@@ -26,7 +26,8 @@ types:
 mots_cles: []
 modele: dosimetrie_modelisation
 modele_score: 5.5
-modele_secondaires: []
+modele_secondaires:
+- humain_experimental
 modele_indices:
 - dosimetry
 - SAR

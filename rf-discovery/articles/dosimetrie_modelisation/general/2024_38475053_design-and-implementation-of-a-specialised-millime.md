@@ -19,11 +19,12 @@ mots_cles:
 - non-ionising radiation
 - radiation protection
 modele: dosimetrie_modelisation
-modele_score: 3.5
+modele_score: 4.5
 modele_secondaires: []
 modele_indices:
 - dosimetry
 - exposure system
+- exposure limits
 theme: general
 theme_score: 0.0
 theme_secondaires: []

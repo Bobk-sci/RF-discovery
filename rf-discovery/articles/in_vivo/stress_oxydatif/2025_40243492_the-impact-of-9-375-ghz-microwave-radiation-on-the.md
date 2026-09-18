@@ -34,7 +34,8 @@ mots_cles:
 - oxidative stress
 modele: in_vivo
 modele_score: 4.5
-modele_secondaires: []
+modele_secondaires:
+- dosimetrie_modelisation
 modele_indices:
 - animals
 - mice

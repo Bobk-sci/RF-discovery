@@ -30,7 +30,8 @@ types:
 mots_cles: []
 modele: in_vivo
 modele_score: 7.5
-modele_secondaires: []
+modele_secondaires:
+- dosimetrie_modelisation
 modele_indices:
 - animals
 - rats

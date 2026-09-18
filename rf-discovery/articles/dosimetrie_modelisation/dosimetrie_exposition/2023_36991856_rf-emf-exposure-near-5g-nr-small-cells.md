@@ -24,11 +24,12 @@ mots_cles:
 - radiofrequency electromagnetic fields
 - small cell
 modele: dosimetrie_modelisation
-modele_score: 3.0
+modele_score: 5.0
 modele_secondaires: []
 modele_indices:
 - exposure assessment
 - ICNIRP
+- exposure limits
 theme: dosimetrie_exposition
 theme_score: 2.0
 theme_secondaires: []

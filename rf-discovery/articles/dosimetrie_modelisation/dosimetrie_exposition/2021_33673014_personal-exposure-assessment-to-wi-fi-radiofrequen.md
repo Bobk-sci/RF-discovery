@@ -31,6 +31,7 @@ modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires:
 - epidemiologie
+- humain_experimental
 modele_indices:
 - exposure assessment
 - ICNIRP

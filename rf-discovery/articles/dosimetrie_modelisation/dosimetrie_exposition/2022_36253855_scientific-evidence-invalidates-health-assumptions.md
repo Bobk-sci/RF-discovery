@@ -37,7 +37,7 @@ mots_cles:
 - Reactive oxygen species (ROS)
 - Scientific integrity
 modele: dosimetrie_modelisation
-modele_score: 6.5
+modele_score: 8.5
 modele_secondaires:
 - in_vivo
 - humain_experimental
@@ -46,6 +46,7 @@ modele_indices:
 - specific absorption rate
 - exposure assessment
 - ICNIRP
+- exposure limits
 theme: dosimetrie_exposition
 theme_score: 6.0
 theme_secondaires:

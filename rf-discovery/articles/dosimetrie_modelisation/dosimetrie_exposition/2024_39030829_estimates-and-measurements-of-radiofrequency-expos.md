@@ -23,11 +23,12 @@ mots_cles:
 - predictive software
 - public exposure limits
 modele: dosimetrie_modelisation
-modele_score: 2.0
+modele_score: 4.0
 modele_secondaires: []
 modele_indices:
 - exposure level
 - ICNIRP
+- exposure limits
 theme: dosimetrie_exposition
 theme_score: 2.0
 theme_secondaires: []

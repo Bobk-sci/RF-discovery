@@ -27,11 +27,12 @@ mots_cles:
 - RF-EMF personal exposure
 - Reference levels
 modele: dosimetrie_modelisation
-modele_score: 2.0
+modele_score: 3.0
 modele_secondaires: []
 modele_indices:
 - ICNIRP
 - reference level
+- exposure limits
 theme: dosimetrie_exposition
 theme_score: 1.0
 theme_secondaires: []

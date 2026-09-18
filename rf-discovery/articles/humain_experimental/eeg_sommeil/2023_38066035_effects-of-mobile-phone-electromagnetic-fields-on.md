@@ -20,12 +20,13 @@ types:
 - Journal Article
 mots_cles: []
 modele: humain_experimental
-modele_score: 2.5
+modele_score: 5.0
 modele_secondaires:
 - epidemiologie
 - dosimetrie_modelisation
 modele_indices:
 - healthy volunteers
+- volunteers
 theme: eeg_sommeil
 theme_score: 2.0
 theme_secondaires:

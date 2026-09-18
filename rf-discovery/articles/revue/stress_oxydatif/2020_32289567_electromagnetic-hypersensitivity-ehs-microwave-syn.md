@@ -42,6 +42,7 @@ modele: revue
 modele_score: 1002.5
 modele_secondaires:
 - humain_experimental
+- dosimetrie_modelisation
 modele_indices:
 - Review (descripteur décisif)
 - review

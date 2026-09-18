@@ -21,12 +21,13 @@ mots_cles:
 - radiofrequency sensor
 - specific energy absorption rate (SAR)
 modele: dosimetrie_modelisation
-modele_score: 6.0
+modele_score: 7.0
 modele_secondaires: []
 modele_indices:
 - SAR
 - specific absorption rate
 - ICNIRP
+- exposure limits
 - emission
 - emissions
 theme: dosimetrie_exposition

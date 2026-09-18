@@ -20,12 +20,13 @@ mots_cles:
 - power density
 - total exposure ratio
 modele: dosimetrie_modelisation
-modele_score: 5.5
+modele_score: 6.5
 modele_secondaires: []
 modele_indices:
 - power density
 - exposure levels
 - compliance distance
+- exposure limits
 theme: dosimetrie_exposition
 theme_score: 4.5
 theme_secondaires: []
