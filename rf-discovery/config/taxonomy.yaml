@@ -1,0 +1,463 @@
+# Taxonomie de la bibliothèque RF — classement déterministe par mots-clés.
+#
+# Deux axes -> deux niveaux de dossiers : articles/<modele>/<theme>/
+#   axe 1 "modele" : comment l'étude a été faite (in vivo, in vitro, épidémio, revue...)
+#   axe 2 "theme"  : sur quoi elle porte (neuro, développement, stress oxydatif...)
+#
+# Aucun LLM, aucune clé d'API : le classement est un comptage de mots-clés pondéré,
+# donc reproductible, vérifiable et modifiable ici sans toucher au code.
+# Une occurrence dans le TITRE compte `title_boost` fois plus que dans le résumé.
+# Sous `min_score`, l'article tombe dans la catégorie `default` de l'axe.
+
+recherche:
+  # Corpus : tout ce qui touche aux radiofréquences. Sert de requête Europe PMC.
+  rf_terms:
+    - "radiofrequency electromagnetic field"
+    - "radiofrequency radiation"
+    - "mobile phone radiation"
+    - "cell phone radiation"
+    - "wireless radiation"
+    - "Wi-Fi exposure"
+    - "GSM exposure"
+    - "UMTS exposure"
+    - "LTE exposure"
+    - "5G exposure"
+    - "millimeter wave exposure"
+    - "specific absorption rate"
+    - "900 MHz"
+    - "1800 MHz"
+    - "2.45 GHz"
+  # Filtres Europe PMC ajoutés à la requête (résumé obligatoire : sans lui, pas de classement).
+  filtres: "HAS_ABSTRACT:Y"
+  annee_min: 1990
+  # Garde-fou : une notice doit contenir au moins un de ces termes, sinon elle est
+  # écartée. Constaté sur des notices réelles : sans ce filtre, « GSM » ramène des
+  # articles sur la *géosmine* (traitement de l'eau) et « Wi-Fi » des capteurs d'humidité
+  # des sols. Plus large que rf_terms, qui sert à interroger les bases.
+  pertinence:
+    - "radiofrequency"
+    - "radio frequency"
+    - "radiofrequencies"
+    - "electromagnetic field"
+    - "electromagnetic fields"
+    - "electromagnetic radiation"
+    - "microwave"
+    - "microwaves"
+    - "mobile phone"
+    - "cell phone"
+    - "cellular phone"
+    - "base station"
+    - "Wi-Fi exposure"
+    - "WiFi exposure"
+    - "Wi-Fi radiation"          # « Wi-Fi » seul ramènerait des capteurs d'humidité du sol
+    - "WiFi radiation"
+    - "Wi-Fi router"
+    - "wireless exposure"
+    - "millimeter wave"
+    - "specific absorption rate"
+    - "GSM exposure"
+    - "UMTS"
+    - "5G"
+    # Bandes citées telles quelles dans les titres de cette littérature.
+    - "900 MHz"
+    - "1800 MHz"
+    - "2100 MHz"
+    - "2450 MHz"
+    - "1.8 GHz"
+    - "2.45 GHz"
+    - "3.5 GHz"
+  # Écartés du corpus (recherche sur le TITRE, les MeSH et le type de publication).
+  # « specific absorption rate » ramène beaucoup de méthodologie IRM, sans rapport avec
+  # l'exposition environnementale : mieux vaut exclure que classer de force.
+  exclusions:
+    - "pulse sequence"
+    - "radiofrequency coil"
+    - "RF coil"
+    - "transmit coil"
+    - "parallel transmission"
+    - "image reconstruction"
+    - "magnetic resonance angiography"
+    - "arterial spin labeling"
+    - "magnetic resonance spectroscopy"
+    - "Magnetic Resonance Imaging"   # descripteur MeSH des articles de méthode IRM
+    # Micro-ondes industrielles : même physique, autre sujet que l'exposition humaine.
+    - "wastewater"
+    - "phytotreatment"
+    - "soil moisture"
+    - "food processing"
+  # …sauf si la notice porte une vraie marque d'étude d'exposition : une étude de
+  # provocation qui mesure l'effet d'un téléphone par IRM doit rester dans le corpus.
+  annulations:
+    - "sham"
+    - "sham exposure"
+    - "mobile phone"
+    - "cell phone"
+    - "base station"
+    - "occupational exposure"
+    - "environmental exposure"
+    - "exposure system"
+    - "whole-body exposure"
+    - "head exposure"
+    - "ICNIRP"
+
+classement:
+  title_boost: 2.5      # un mot-clé dans le titre pèse 2.5 fois celui du résumé
+  meta_boost: 2.0       # un mot-clé dans les MeSH / type de publication : 2 fois
+  min_score: 1.0        # en dessous : catégorie par défaut de l'axe
+  max_secondaires: 3    # thèmes annexes notés dans l'en-tête et l'index
+
+axes:
+  # --------------------------------------------------------------------------
+  - name: modele
+    default: non_classe
+    # L'ordre départage les ex æquo : une revue reste une revue même si elle
+    # décrit des protocoles in vivo.
+    categories:
+      - name: revue
+        # Types de publication attribués par PubMed : ils tranchent à eux seuls.
+        decisifs:
+          - "Review"
+          - "Systematic Review"
+          - "Meta-Analysis"
+        keywords:
+          - "review"
+          - "systematic review"
+          - "meta-analysis"
+          - "meta analysis"
+          - "scoping review"
+          - "narrative review"
+          - "state of the art"
+          - "literature review"
+          - "umbrella review"
+
+      - name: epidemiologie
+        decisifs:                    # descripteurs MeSH de plan d'étude
+          - "Cohort Studies"
+          - "Case-Control Studies"
+          - "Cross-Sectional Studies"
+          - "Prospective Studies"
+        keywords:
+          - "cohort"
+          - "case-control"
+          - "case control"
+          - "cross-sectional"
+          - "epidemiological"
+          - "epidemiology"
+          - "questionnaire"
+          - "odds ratio"
+          - "hazard ratio"
+          - "confidence interval"
+          - "participants"
+          - "population-based"
+          - "INTERPHONE"
+          - "MOBI-Kids"
+          - "COSMOS"
+          - "self-reported"
+
+      - name: humain_experimental
+        keywords:
+          - "healthy volunteers"
+          - "human volunteers"
+          - "double-blind"
+          - "provocation study"
+          - "sham-controlled"
+          - "crossover design"
+          - "electrohypersensitivity"
+          - "electromagnetic hypersensitivity"
+          - "resting EEG"
+          - "cognitive task"
+          - "psychomotor vigilance"
+
+      - name: in_vivo
+        # « in vivo » dans le titre : les auteurs tranchent eux-mêmes (une tumeur greffée
+        # chez le rat porte pourtant le descripteur MeSH « Cell Line, Tumor »).
+        decisifs:
+          - "in vivo"
+        keywords:
+          - "animals"                # descripteur MeSH
+          - "rats"
+          - "rat"
+          - "mice"
+          - "mouse"
+          - "in vivo"
+          - "Wistar"
+          - "Sprague-Dawley"
+          - "C57BL"
+          - "zebrafish"
+          - "Drosophila"
+          - "rabbit"
+          - "animal model"
+          - "whole-body exposure"
+          - "gestation"
+          - "prenatal exposure"
+          - "offspring"
+          - "hippocampus"
+          - "behavioral test"
+          - "Morris water maze"
+          - "open field test"
+
+      - name: in_vitro
+        # Descripteurs MeSH de lignée cellulaire : ils tranchent, car PubMed attribue
+        # aussi « Animals »/« Mice » à une étude sur cellules issues de souris (NIH 3T3).
+        # Liste explicite plutôt que « * Cells » : « Pyramidal Cells », « Hair Cells »
+        # apparaissent dans de vraies études in vivo.
+        decisifs:
+          - "Cells, Cultured"
+          - "Cell Line"
+          - "Cell Line, Tumor"
+          - "Cell Culture Techniques"
+          - "Primary Cell Culture"
+          - "In Vitro Techniques"
+          - "NIH 3T3 Cells"
+          - "3T3 Cells"
+          - "HL-60 Cells"
+          - "HeLa Cells"
+          - "PC12 Cells"
+          - "Jurkat Cells"
+          - "K562 Cells"
+          - "CHO Cells"
+          - "HEK293 Cells"
+        keywords:
+          - "in vitro techniques"    # descripteur MeSH
+          - "cells, cultured"        # descripteur MeSH
+          - "in vitro"
+          - "cell culture"
+          - "cell line"
+          - "cultured cells"
+          - "SH-SY5Y"
+          - "PC12"
+          - "HEK293"
+          - "HeLa"
+          - "fibroblasts"
+          - "lymphocytes"
+          - "primary neurons"
+          - "neuronal culture"
+          - "organoid"
+          - "spheroid"
+          - "comet assay"
+          - "MTT assay"
+          - "flow cytometry"
+
+      - name: dosimetrie_modelisation
+        keywords:
+          - "dosimetry"
+          - "SAR"
+          - "specific absorption rate"
+          - "SAR distribution"
+          - "numerical simulation"
+          - "finite-difference time-domain"
+          - "FDTD"
+          - "anatomical model"
+          - "phantom"
+          - "exposure system"
+          - "computational model"
+          - "electromagnetic simulation"
+          - "waveguide"
+          - "transverse electromagnetic cell"
+          - "TEM cell"
+          - "reverberation chamber"
+          - "exposure assessment"
+          - "personal exposimeter"
+
+  # --------------------------------------------------------------------------
+  - name: theme
+    default: general
+    categories:
+      - name: neurodeveloppement
+        keywords:
+          - "neurodevelopment"
+          - "neurodevelopmental"
+          - "brain development"
+          - "neurogenesis"
+          - "synaptogenesis"
+          - "neuronal migration"
+          - "cortical development"
+          - "prenatal"
+          - "perinatal"
+          - "in utero"
+          - "pregnancy"
+          - "fetal"
+          - "foetal"
+          - "embryo"
+          - "neonatal"
+          - "offspring behavior"
+          - "autism"
+          - "ADHD"
+          - "attention deficit"
+          - "developmental delay"
+          - "child"
+          - "children"
+          - "adolescent"
+
+      - name: neuro_comportement_cognition
+        keywords:
+          - "cognition"
+          - "cognitive"
+          - "memory"
+          - "learning"
+          - "anxiety"
+          - "depression"
+          - "behavior"
+          - "behaviour"
+          - "locomotor activity"
+          - "spatial memory"
+          - "attention"
+          - "reaction time"
+          - "neurobehavioral"
+
+      - name: eeg_sommeil
+        keywords:
+          - "EEG"
+          - "electroencephalogram"
+          - "sleep"
+          - "alpha band"
+          - "spindle"
+          - "slow wave"
+          - "event-related potential"
+          - "brain oscillation"
+          - "polysomnography"
+          - "melatonin"
+          - "circadian"
+
+      - name: plasticite_synaptique
+        keywords:
+          - "synaptic plasticity"
+          - "long-term potentiation"
+          - "long term potentiation"
+          - "LTP"
+          - "dendritic spine"
+          - "synapse"
+          - "neurotransmitter"
+          - "glutamate"
+          - "GABA"
+          - "NMDA"
+          - "BDNF"
+          - "excitability"
+
+      - name: stress_oxydatif
+        keywords:
+          - "oxidative stress"
+          - "reactive oxygen species"
+          - "ROS"
+          - "malondialdehyde"
+          - "superoxide dismutase"
+          - "catalase"
+          - "glutathione"
+          - "lipid peroxidation"
+          - "antioxidant"
+          - "Nrf2"
+          - "nitric oxide"
+          - "redox"
+
+      - name: neuroinflammation
+        keywords:
+          - "neuroinflammation"
+          - "microglia"
+          - "astrocyte"
+          - "glial"
+          - "cytokine"
+          - "interleukin"
+          - "TNF-alpha"
+          - "GFAP"
+          - "inflammatory response"
+          - "NF-kB"
+
+      - name: barriere_hemato_encephalique
+        keywords:
+          - "blood-brain barrier"
+          - "blood brain barrier"
+          - "BBB permeability"
+          - "albumin extravasation"
+          - "tight junction"
+          - "claudin"
+          - "occludin"
+          - "vascular permeability"
+
+      - name: genotoxicite_epigenetique
+        keywords:
+          - "DNA damage"
+          - "genotoxicity"
+          - "micronucleus"
+          - "chromosomal aberration"
+          - "DNA strand break"
+          - "8-OHdG"
+          - "DNA methylation"
+          - "epigenetic"
+          - "microRNA"
+          - "gene expression"
+          - "transcriptome"
+          - "heat shock protein"
+
+      - name: apoptose_mitochondrie
+        keywords:
+          - "apoptosis"
+          - "caspase"
+          - "Bcl-2"
+          - "cell viability"
+          - "mitochondrial"
+          - "mitochondria"
+          - "ATP production"
+          - "membrane potential"
+          - "autophagy"
+          - "cell death"
+
+      - name: calcium_canaux_ioniques
+        keywords:
+          - "calcium influx"
+          - "intracellular calcium"
+          - "voltage-gated calcium channel"
+          - "VGCC"
+          - "TRP channel"
+          - "ion channel"
+          - "membrane current"
+          - "patch clamp"
+          - "calcium signaling"
+
+      - name: cancer
+        keywords:
+          - "carcinogenic"
+          - "carcinogenesis"
+          - "tumor"
+          - "tumour"
+          - "glioma"
+          - "acoustic neuroma"
+          - "schwannoma"
+          - "meningioma"
+          - "leukemia"
+          - "cancer risk"
+          - "IARC"
+
+      - name: reproduction
+        keywords:
+          - "sperm"
+          - "spermatozoa"
+          - "testis"
+          - "testicular"
+          - "fertility"
+          - "ovary"
+          - "reproductive"
+          - "semen quality"
+
+      - name: thermique
+        keywords:
+          - "temperature rise"
+          - "thermal effect"
+          - "hyperthermia"
+          - "heating"
+          - "thermoregulation"
+          - "non-thermal"
+          - "athermal"
+          - "body temperature"
+
+      - name: dosimetrie_exposition
+        keywords:
+          - "specific absorption rate"
+          - "SAR value"
+          - "power density"
+          - "electric field strength"
+          - "exposure limit"
+          - "ICNIRP"
+          - "compliance"
+          - "base station"
+          - "measurement campaign"
+          - "incident field"

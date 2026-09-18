@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "identifiers": {"pmid": "40000001", "doi": "10.1000/fixture.import.01"},
+      "title": "FIXTURE: Chronic 900 MHz exposure and cortical development",
+      "abstract": "Radiofrequency exposure was applied during gestation; offspring assessed.",
+      "journal": {"title": "Fixture Journal of Imports"},
+      "publication_date": {"year": "2022", "month": "05"},
+      "mesh_terms": ["Animals", "Rats", "Brain", "Pregnancy"],
+      "article_types": ["Journal Article"],
+      "keywords": ["neurodevelopment"]
+    },
+    {
+      "identifiers": {"pmid": "40000002"},
+      "title": "FIXTURE: Radiofrequency coil design for 7T imaging",
+      "abstract": "A transmit coil was simulated to control the specific absorption rate.",
+      "journal": {"title": "Fixture Journal of Imaging"},
+      "publication_date": {"year": "2021"},
+      "mesh_terms": ["Magnetic Resonance Imaging", "Equipment Design"],
+      "article_types": ["Journal Article"],
+      "keywords": ["RF coil"]
+    },
+    {
+      "title": "FIXTURE: notice sans identifiant ni contenu"
+    }
+  ]
+}

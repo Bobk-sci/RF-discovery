@@ -5,6 +5,54 @@ Pipeline autonome de **découverte inter-domaines** reliant l'exposition aux cha
 neurotoxiques. Le moteur de scoring est **déterministe et fondé sur un graphe hétérogène** ;
 le LLM est strictement périphérique (voir `CLAUDE.md`).
 
+## Bibliothèque RF — collecter et ranger les articles (`python -m collect_library`)
+
+Outil de **veille** indépendant du moteur de découverte : il interroge Europe PMC, PubMed
+et EMF-Portal, puis range chaque article dans `articles/<modèle>/<thème>/`.
+
+```bash
+python -m collect_library --max-results 400                 # Europe PMC + PubMed
+python -m collect_library --sources europepmc,pubmed,emfportal
+python -m collect_library --emfportal-file page.html        # page EMF-Portal enregistrée
+python -m collect_library --import-json export.json --import-source pubmed
+python -m collect_library --reclasser                       # relit taxonomy.yaml, sans réseau
+```
+
+Arborescence obtenue (un dossier par **modèle d'étude**, puis par **thème**) :
+
+```
+articles/in_vivo/neurodeveloppement/2015_26239913_deleterious-impacts-of-a-900-mhz….md
+articles/in_vitro/apoptose_mitochondrie/…      articles/revue/cancer/…
+articles/index.csv      # tout le corpus, une ligne par article
+articles/README.md      # nombre d'articles par catégorie, régénéré à chaque run
+```
+
+**Rien n'est inventé.** Chaque fiche correspond à une notice réellement renvoyée par une
+source : titre, résumé et métadonnées sont recopiés tels quels, un champ absent reste vide,
+et chaque fiche porte son PMID/DOI cliquable. Aucun LLM n'intervient.
+
+**Classement déterministe** (`config/taxonomy.yaml`, modifiable sans toucher au code) :
+comptage de mots-clés dans le titre (×2,5), les descripteurs MeSH / type de publication
+(×2) et le résumé (×1). Certains descripteurs **tranchent** (`decisifs`) : le type
+« Review » attribué par PubMed, ou « NIH 3T3 Cells » qui désigne une lignée cellulaire
+alors que PubMed pose aussi « Animals » sur ces études. Les mots-clés qui ont décidé du
+rangement sont écrits dans l'en-tête de chaque fiche (`modele_indices`), donc vérifiables.
+
+Deux garde-fous appris sur des notices réelles : `pertinence` exige un vrai terme
+d'exposition RF (sans quoi « GSM » ramène des articles sur la **géosmine** et « Wi-Fi » des
+capteurs d'humidité du sol) ; `exclusions` écarte la méthodologie IRM — sauf si la notice
+porte une marque d'étude d'exposition (`annulations`), pour ne pas perdre les études de
+provocation qui mesurent par IRM.
+
+EMF-Portal n'a pas d'API : on extrait de ses pages les seuls identifiants stables
+(PMID/DOI) et les métadonnées viennent de PubMed/Europe PMC. Si le portail change ou
+devient injoignable, l'étape rend **zéro** article plutôt qu'une notice approximative.
+
+Automatisation : `.github/workflows/rf-library.yml` (lundi 05:00 UTC, ou « Run workflow »
+depuis le téléphone) collecte, classe et commite `articles/`. La mémoire
+`data/seen_library.json` rend les runs incrémentaux ; `index.csv` et `README.md` sont
+reconstruits depuis le disque, donc toujours complets.
+
 ## Principe
 
 Le pipeline ne résume pas la littérature : il **prédit des liens non encore écrits**, les

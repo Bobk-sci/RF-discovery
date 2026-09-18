@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">31234567</PMID>
+      <Article>
+        <Journal>
+          <JournalIssue>
+            <PubDate><Year>2019</Year><Month>Mar</Month></PubDate>
+          </JournalIssue>
+          <Title>Journal of Fixture Neuroscience</Title>
+        </Journal>
+        <ArticleTitle>Prenatal 900 MHz exposure and hippocampal neurogenesis in rats</ArticleTitle>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Pregnant Wistar rats were exposed in vivo.</AbstractText>
+          <AbstractText Label="RESULTS">Oxidative stress markers increased in offspring.</AbstractText>
+        </Abstract>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1000/fixture.2019.01</ELocationID>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID Version="1">28000001</PMID>
+      <Article>
+        <Journal>
+          <JournalIssue>
+            <PubDate><MedlineDate>2017 Spring</MedlineDate></PubDate>
+          </JournalIssue>
+          <Title>Fixture Letters</Title>
+        </Journal>
+        <ArticleTitle>A note without abstract or DOI</ArticleTitle>
+      </Article>
+    </MedlineCitation>
+  </PubmedArticle>
+</PubmedArticleSet>
