@@ -29,6 +29,19 @@ class Category:
 
 
 @dataclass(frozen=True)
+class Exclusion:
+    """Terme qui écarte une notice, éventuellement annulé par une marque d'exposition.
+
+    L'annulation est attachée à l'exclusion, pas globale : « mobile phone » doit sauver
+    une étude de provocation mesurée par IRM, sans pour autant sauver un article sur
+    l'addiction au téléphone.
+    """
+
+    terme: str
+    sauf_si: tuple[str, ...] = ()
+
+
+@dataclass(frozen=True)
 class Axis:
     name: str
     default: str
@@ -45,8 +58,7 @@ class Taxonomy:
     meta_boost: float = 2.0
     min_score: float = 1.0
     max_secondaires: int = 3
-    exclusions: tuple[str, ...] = ()
-    annulations: tuple[str, ...] = ()
+    exclusions: tuple[Exclusion, ...] = ()
     pertinence: tuple[str, ...] = ()
 
 
@@ -59,6 +71,14 @@ class Assignment:
     score: float
     secondaires: list[str] = field(default_factory=list)
     matched: list[str] = field(default_factory=list)
+
+
+def _exclusion(entry: object) -> Exclusion:
+    """Accepte ``"terme"`` ou ``{terme: …, sauf_si: [...]}`` dans la taxonomie."""
+    if isinstance(entry, dict):
+        return Exclusion(str(entry.get("terme", "")),
+                         tuple(str(t) for t in entry.get("sauf_si", [])))
+    return Exclusion(str(entry))
 
 
 def load_taxonomy(path: str | Path) -> Taxonomy:
@@ -88,8 +108,7 @@ def load_taxonomy(path: str | Path) -> Taxonomy:
         meta_boost=float(clas.get("meta_boost", 2.0)),
         min_score=float(clas.get("min_score", 1.0)),
         max_secondaires=int(clas.get("max_secondaires", 3)),
-        exclusions=tuple(str(t) for t in rech.get("exclusions", [])),
-        annulations=tuple(str(t) for t in rech.get("annulations", [])),
+        exclusions=tuple(_exclusion(e) for e in rech.get("exclusions", [])),
         pertinence=tuple(str(t) for t in rech.get("pertinence", [])),
     )
 
@@ -195,12 +214,14 @@ def is_off_topic(paper, tax: Taxonomy) -> str:
     meta = meta_text(getattr(paper, "extra", {}))
     titre_meta = f"{paper.title} {meta}"
     corpus = f"{titre_meta} {paper.abstract}"
-    # Une étude d'exposition qui se sert de l'IRM comme outil de mesure n'est pas un
-    # article de méthodologie IRM : un terme d'annulation lui rend sa place.
-    protege = any(_pattern(t).search(corpus) for t in tax.annulations)
-    for term in tax.exclusions:
-        if _pattern(term).search(titre_meta) and not protege:
-            return term
+    for excl in tax.exclusions:
+        if not _pattern(excl.terme).search(titre_meta):
+            continue
+        # Une étude d'exposition qui se sert de l'IRM comme outil de mesure n'est pas un
+        # article de méthodologie IRM : ses marques propres annulent cette exclusion-là.
+        if any(_pattern(t).search(corpus) for t in excl.sauf_si):
+            continue
+        return excl.terme
     terms = tax.pertinence or tax.rf_terms
     if terms and not any(_pattern(t).search(corpus) for t in terms):
         return "aucun terme d'exposition RF"

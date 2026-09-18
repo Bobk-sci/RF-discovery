@@ -101,13 +101,23 @@ def file_papers(out: Path, papers: list[Paper], tax: Taxonomy) -> dict[str, int]
 
 
 def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
-    """Réapplique la taxonomie aux fiches déjà présentes (aucun accès réseau)."""
+    """Réapplique la taxonomie aux fiches déjà présentes (aucun accès réseau).
+
+    Resserrer `exclusions`/`pertinence` doit aussi **sortir** du corpus les fiches
+    devenues hors sujet : sinon la bibliothèque garderait une trace de réglages révolus.
+    """
     axes = tuple(ax.name for ax in tax.axes)
-    moved = 0
+    moved = removed = 0
     for path in sorted(out.rglob("*.md")):
         if path.name == "README.md":
             continue
         paper = read_article(path)
+        motif = is_off_topic(paper, tax)
+        if motif:
+            log.info("sorti du corpus (%s) : %s", motif, paper.title[:70])
+            path.unlink()
+            removed += 1
+            continue
         assignments = classify_paper(paper, tax)
         target = article_path(out, paper, assignments, axes)
         write_article(out, paper, assignments, axes)
@@ -115,7 +125,7 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
             path.unlink()
             moved += 1
     prune_empty_dirs(out)
-    return {"fiches_deplacees": moved}
+    return {"fiches_deplacees": moved, "fiches_sorties": removed}
 
 
 def _finalise(out: Path, tax: Taxonomy, query: str) -> int:

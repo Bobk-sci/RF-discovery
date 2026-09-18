@@ -28,7 +28,8 @@ mots_cles:
 - RF-EMF exposure
 modele: in_vivo
 modele_score: 2.0
-modele_secondaires: []
+modele_secondaires:
+- dosimetrie_modelisation
 modele_indices:
 - animals
 theme: neuro_comportement_cognition

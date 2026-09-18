@@ -33,6 +33,7 @@ modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
 - in_vitro
+- dosimetrie_modelisation
 modele_indices:
 - animals
 - rats

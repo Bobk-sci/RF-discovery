@@ -69,22 +69,66 @@ recherche:
   # Écartés du corpus (recherche sur le TITRE, les MeSH et le type de publication).
   # « specific absorption rate » ramène beaucoup de méthodologie IRM, sans rapport avec
   # l'exposition environnementale : mieux vaut exclure que classer de force.
+  # `sauf_si` annule UNE exclusion donnée : les marques propres aux études d'exposition
+  # sauvent une étude de provocation mesurée par IRM, sans sauver pour autant un article
+  # sur l'addiction au téléphone (une annulation globale ferait cette confusion).
+  marques_exposition: &marques_exposition
+    - "sham"
+    - "sham exposure"
+    - "sham-exposed"
+    - "exposure system"
+    - "whole-body exposure"
+    - "head exposure"
+    - "occupational exposure"
+    - "environmental exposure"
+    - "provocation"
+    - "ICNIRP"
+    # Marques d'étude épidémiologique : sans elles, une étude « schwannome vestibulaire
+    # et usage du téléphone » tombait dans l'exclusion IRM (le diagnostic passe par l'IRM).
+    - "mobile phone use"
+    - "cell phone use"
+    - "case-control"
+    - "cohort"
+    - "odds ratio"
+    - "epidemiological"
+    - "cumulative call time"
   exclusions:
-    - "pulse sequence"
-    - "radiofrequency coil"
-    - "RF coil"
-    - "transmit coil"
-    - "parallel transmission"
-    - "image reconstruction"
-    - "magnetic resonance angiography"
-    - "arterial spin labeling"
-    - "magnetic resonance spectroscopy"
-    - "Magnetic Resonance Imaging"   # descripteur MeSH des articles de méthode IRM
+    - terme: "pulse sequence"
+      sauf_si: *marques_exposition
+    - terme: "radiofrequency coil"
+      sauf_si: *marques_exposition
+    - terme: "RF coil"
+      sauf_si: *marques_exposition
+    - terme: "transmit coil"
+      sauf_si: *marques_exposition
+    - terme: "parallel transmission"
+      sauf_si: *marques_exposition
+    - terme: "image reconstruction"
+      sauf_si: *marques_exposition
+    - terme: "magnetic resonance angiography"
+      sauf_si: *marques_exposition
+    - terme: "arterial spin labeling"
+      sauf_si: *marques_exposition
+    - terme: "magnetic resonance spectroscopy"
+      sauf_si: *marques_exposition
+    - terme: "Magnetic Resonance Imaging"   # descripteur MeSH des articles de méthode IRM
+      sauf_si: *marques_exposition
     # Micro-ondes industrielles : même physique, autre sujet que l'exposition humaine.
     - "wastewater"
     - "phytotreatment"
     - "soil moisture"
     - "food processing"
+    - "microwave-assisted synthesis"
+    - "microwave synthesis"
+    # Le téléphone comme objet d'usage, pas comme source d'exposition.
+    - "phone addiction"
+    - "smartphone addiction"
+    - "problematic smartphone use"
+    - "mobile health"
+    - "mHealth"
+    - "telemedicine"
+    - "screening intervention"
+    - "wireless body area network"
   # …sauf si la notice porte une vraie marque d'étude d'exposition : une étude de
   # provocation qui mesure l'effet d'un téléphone par IRM doit rester dans le corpus.
   annulations:
@@ -258,6 +302,19 @@ axes:
           - "reverberation chamber"
           - "exposure assessment"
           - "personal exposimeter"
+          # Campagnes de mesure : de la dosimétrie aussi, pas seulement de la simulation.
+          - "exposimeter"
+          - "power density"
+          - "field strength"
+          - "exposure level"
+          - "exposure levels"
+          - "measured levels"
+          - "in situ measurement"
+          - "compliance distance"
+          - "ICNIRP"
+          - "reference level"
+          - "emission"
+          - "emissions"
 
   # --------------------------------------------------------------------------
   - name: theme
