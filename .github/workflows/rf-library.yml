@@ -1,0 +1,98 @@
+name: rf-library
+# Veille bibliographique RF : collecte Europe PMC + PubMed, classement en sous-dossiers,
+# commit de `rf-discovery/articles/`. Déclenchable à la main depuis le téléphone
+# (onglet Actions -> rf-library -> Run workflow).
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'      # lundi 05:00 UTC
+  push:
+    # Tant que ce fichier n'est pas sur `main`, le bouton « Run workflow » de l'onglet
+    # Actions ne l'affiche pas : GitHub n'enregistre les `workflow_dispatch` que depuis
+    # la branche par défaut. Un déclencheur `push` sur la branche de travail, lui,
+    # fonctionne tout de suite. `articles/` est exclu pour éviter la boucle (le run
+    # committe ses propres résultats).
+    branches: [claude/rf-discovery-pipeline-035bd2]
+    paths:
+      - 'rf-discovery/config/taxonomy.yaml'
+      - 'rf-discovery/src/library/**'
+      - 'rf-discovery/src/collect_library.py'
+      - 'rf-discovery/src/collect/**'
+      - '.github/workflows/rf-library.yml'
+  workflow_dispatch:
+    inputs:
+      max_results:
+        description: "Plafond d'articles par source"
+        default: '400'
+      sources:
+        description: 'Sources interrogées (europepmc,pubmed,emfportal)'
+        default: 'europepmc,pubmed'
+      tout:
+        description: 'Tout re-collecter en ignorant la mémoire de déduplication'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+defaults:
+  run:
+    working-directory: rf-discovery
+    shell: bash -eo pipefail {0}
+
+concurrency:
+  group: rf-library
+  cancel-in-progress: true
+
+jobs:
+  library:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PIPELINE_PAT || github.token }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install dependencies
+        run: uv pip install --system -e .
+
+      - name: Collect and file articles
+        env:
+          # Le courriel est demandé par les E-utilities du NCBI ; la clé API (facultative)
+          # relève seulement le quota. Tout passe par les secrets, jamais par le YAML.
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: |
+          python -m collect_library \
+            --sources "${{ inputs.sources || 'europepmc,pubmed' }}" \
+            --max-results "${{ inputs.max_results || '400' }}" \
+            ${{ inputs.tout == true && '--tout' || '' }} | tee library.json
+
+      - name: Commit library
+        run: |
+          git config user.name  "rf-library-bot"
+          git config user.email "${{ secrets.CONTACT_EMAIL || 'bot@example.com' }}"
+          git add articles data/seen_library.json
+          git commit -m "Veille RF $(date -u +%F)" || echo "rien de nouveau cette semaine"
+          git push
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "### Veille RF $(date -u +%F)"
+            echo ''
+            echo '```json'
+            cat library.json 2>/dev/null || echo '{}'
+            echo '```'
+            sed -n '1,25p' articles/README.md 2>/dev/null || true
+          } >> "$GITHUB_STEP_SUMMARY"

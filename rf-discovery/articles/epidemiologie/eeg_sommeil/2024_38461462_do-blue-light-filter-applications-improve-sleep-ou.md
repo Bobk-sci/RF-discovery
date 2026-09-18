@@ -1,0 +1,55 @@
+---
+pmid: '38461462'
+doi: 10.1080/15368378.2024.2327432
+annee: 2024
+journal: Electromagnetic biology and medicine
+titre: Do blue light filter applications improve sleep outcomes? A study of smartphone
+  users' sleep quality in an observational setting.
+url: https://pubmed.ncbi.nlm.nih.gov/38461462/
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-09-18'
+mesh:
+- Adult
+- Female
+- Humans
+- Male
+- Blue Light
+- Mobile Applications
+- Sleep
+- Sleep Quality
+- Smartphone
+- Surveys and Questionnaires
+types:
+- Journal Article
+- Observational Study
+mots_cles:
+- Mobile phone
+- blue light filter application
+- sleep quality
+- the circadian system
+modele: epidemiologie
+modele_score: 2.0
+modele_secondaires:
+- dosimetrie_modelisation
+modele_indices:
+- questionnaire
+- participants
+theme: eeg_sommeil
+theme_score: 5.5
+theme_secondaires: []
+theme_indices:
+- sleep
+- melatonin
+- circadian
+---
+
+# Do blue light filter applications improve sleep outcomes? A study of smartphone users' sleep quality in an observational setting.
+
+*Electromagnetic biology and medicine — 2024*
+
+## Résumé (texte d'origine)
+
+Exposure to blue light at bedtime, suppresses melatonin secretion, postponing the sleep onset and interrupting the sleep process. Some smartphone manufacturers have introduced night-mode functions, which have been claimed to aid in improving sleep quality. In this study, we evaluate the impact of blue light filter application on decreasing blue light emissions and improving sleep quality. Participants in this study recorded the pattern of using their mobile phones through a questionnaire. In order to evaluate sleep quality, we used a PSQI questionnaire. Blue light filters were used by 9.7% of respondents, 9.7% occasionally, and 80% never. The mean score of PSQI was more than 5 in 54.10% of the participants and less than 5 in 45.90%. ANOVA test was performed to assess the relationship between using blue light filter applications and sleep quality (p-value = 0.925). The findings of this study indicate a connection between the use of blue light filter apps and habitual sleep efficiency in the 31-40 age group. However, our results align only to some extent with prior research, as we did not observe sustained positive effects on all parameters of sleep quality from the long-term use of blue light filtering apps. Several studies have found that blue light exposure can suppress melatonin secretion, exacerbating sleep problems. Some studies have reported that physical blue light filters, such as lenses, can affect melatonin secretion and improve sleep quality. However, the impact of blue light filtering applications remains unclear and debatable.
+
+[Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38461462/)

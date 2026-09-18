@@ -39,6 +39,18 @@ def build_query(base_query: str, rf_terms: list[str], rf_terms_allowed: bool) ->
     return f"({base_query}) AND ({rf})"
 
 
+def _listed(rec: dict[str, Any], container: str, item: str, key: str) -> list[str]:
+    """Extrait une liste imbriquée Europe PMC (MeSH, types de publication, mots-clés)."""
+    node = rec.get(container) or {}
+    entries = node.get(item) or [] if isinstance(node, dict) else []
+    out = []
+    for entry in entries:
+        value = entry.get(key) if isinstance(entry, dict) else entry
+        if value:
+            out.append(str(value))
+    return out
+
+
 def _to_paper(rec: dict[str, Any], domain: str) -> Paper:
     return Paper(
         pmid=str(rec.get("pmid") or rec.get("id") or ""),
@@ -49,6 +61,12 @@ def _to_paper(rec: dict[str, Any], domain: str) -> Paper:
         journal=str(rec.get("journalTitle") or ""),
         domain=domain,
         oa_status="open" if rec.get("isOpenAccess") == "Y" else "",
+        extra={
+            # Descripteurs fournis par la source : ils servent au classement (§ classify).
+            "mesh": _listed(rec, "meshHeadingList", "meshHeading", "descriptorName"),
+            "types": _listed(rec, "pubTypeList", "pubType", ""),
+            "keywords": _listed(rec, "keywordList", "keyword", ""),
+        },
     )
 
 
