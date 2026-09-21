@@ -218,6 +218,18 @@ def test_requete_contient_les_termes_rf_et_les_filtres():
     assert "FIRST_PDATE" in query
 
 
+def test_la_requete_pubmed_parle_la_syntaxe_de_pubmed():
+    """Vérifié contre PubMed : HAS_ABSTRACT:Y et FIRST_PDATE y donnent ZÉRO résultat.
+
+    PubMed ne proteste pas — il traduit ce qu'il ne comprend pas en recherche plein
+    texte (« abstract » ET « Y »), et la source rend zéro notice sans rien signaler.
+    """
+    query = build_query(TAX, dialecte="pubmed")
+    assert "HAS_ABSTRACT" not in query and "FIRST_PDATE" not in query
+    assert "hasabstract" in query and '"[PDAT]' in query
+    assert '"specific absorption rate"' in query
+
+
 def test_les_mesh_orientent_le_classement():
     """Un résumé vague mais des MeSH « Animals/Rats » : l'article est bien in vivo."""
     vague = Paper(pmid="1", doi="", title="Exposure study", abstract="Effects were assessed.",

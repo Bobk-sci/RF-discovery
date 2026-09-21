@@ -61,15 +61,17 @@ def collect(tax: Taxonomy, sources: list[str], max_results: int, *,
             emfportal_url: str, emfportal_files: list[str],
             email: str, api_key: str) -> list[Paper]:
     """Interroge les sources demandées et rend la liste brute des articles trouvés."""
-    query = build_query(tax)
     papers: list[Paper] = []
     if "europepmc" in sources:
-        found = epmc_search(query, domain="rf", max_results=max_results,
+        found = epmc_search(build_query(tax), domain="rf", max_results=max_results,
                             cache_dir="data/cache/library")
         log.info("Europe PMC : %d notices", len(found))
         papers += found
     if "pubmed" in sources:
-        found = pubmed.search(query, max_results=max_results, domain="rf",
+        # Syntaxe PubMed, pas celle d'Europe PMC : sinon la requête part en plein texte
+        # et la source rend zéro notice sans le dire.
+        found = pubmed.search(build_query(tax, dialecte="pubmed"),
+                              max_results=max_results, domain="rf",
                               api_key=api_key, email=email)
         log.info("PubMed : %d notices", len(found))
         papers += found

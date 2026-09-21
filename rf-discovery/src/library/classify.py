@@ -236,14 +236,25 @@ def is_off_topic(paper, tax: Taxonomy) -> str:
     return ""
 
 
-def build_query(tax: Taxonomy, extra: str = "") -> str:
-    """Requête Europe PMC du corpus RF (termes de la taxonomie + filtres)."""
+def build_query(tax: Taxonomy, extra: str = "", dialecte: str = "europepmc") -> str:
+    """Requête du corpus RF, dans la syntaxe de la base interrogée.
+
+    Europe PMC et PubMed ne parlent pas la même langue, et PubMed ne proteste pas : il
+    traduit ce qu'il ne comprend pas en recherche plein texte et renvoie zéro résultat.
+    ``HAS_ABSTRACT:Y`` devient ainsi « abstract » ET « Y », et ``FIRST_PDATE:[…]``
+    devient « first » ET « PDATE ». Une requête muette ressemble à une base sans réponse.
+    """
     rf = " OR ".join(f'"{t}"' for t in tax.rf_terms)
     parts = [f"({rf})"]
-    if tax.annee_min:
-        parts.append(f"(FIRST_PDATE:[{tax.annee_min}-01-01 TO 3000-12-31])")
-    if tax.filtres:
-        parts.append(f"({tax.filtres})")
+    if dialecte == "pubmed":
+        if tax.annee_min:
+            parts.append(f'("{tax.annee_min}"[PDAT] : "3000"[PDAT])')
+        parts.append("hasabstract")
+    else:
+        if tax.annee_min:
+            parts.append(f"(FIRST_PDATE:[{tax.annee_min}-01-01 TO 3000-12-31])")
+        if tax.filtres:
+            parts.append(f"({tax.filtres})")
     if extra:
         parts.append(f"({extra})")
     return " AND ".join(parts)
