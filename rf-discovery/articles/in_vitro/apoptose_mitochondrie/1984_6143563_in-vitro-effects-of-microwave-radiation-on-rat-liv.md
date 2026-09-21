@@ -21,10 +21,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Dutton MS
+- Galvin MJ
+- McRee DI
 pmcid: ''
-volume: ''
-pages: ''
+volume: '5'
+pages: 39-45
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:

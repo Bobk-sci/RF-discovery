@@ -18,10 +18,13 @@ mots_cles:
 - electromagnetic fields exposure
 - mobile phone chips
 - mobile phone radiation
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Henz D
+- Schöllhorn WI
+- Poeggeler B
+pmcid: PMC5893900
+volume: '12'
+pages: '190'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

@@ -17,9 +17,17 @@ mots_cles:
 - multiband
 - multilayer tissues
 - novel interferometric microwave radiometer
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Sun G
+- Liu J
+- Ma J
+- Zhang K
+- Sun Z
+- Wu Q
+- Wang H
+- Liu Y
+pmcid: PMC8541249
+volume: '12'
 pages: ''
 modele: non_classe
 modele_score: 0.0

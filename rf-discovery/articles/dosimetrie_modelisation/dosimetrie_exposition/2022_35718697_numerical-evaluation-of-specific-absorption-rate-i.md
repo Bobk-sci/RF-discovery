@@ -18,10 +18,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ashraf MA
+- Mahmood A
+- Mahboob MA
 pmcid: ''
-volume: ''
-pages: ''
+volume: '198'
+pages: 491-502
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []

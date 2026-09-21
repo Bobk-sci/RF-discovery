@@ -28,10 +28,17 @@ mots_cles:
 - Mobile phone
 - Place preference
 - Radiofrequency electromagnetic radiation
-auteurs: []
+auteurs:
+- Narayanan SN
+- Mohapatra N
+- John P
+- K N
+- Kumar RS
+- Nayak SB
+- Bhat PG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '58'
+pages: 220-229
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

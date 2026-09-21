@@ -29,10 +29,16 @@ types:
 - Research Support, N.I.H., Extramural
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Vernier PT
+- Levine ZA
+- Ho MC
+- Xiao S
+- Semenov I
+- Pakhomov AG
+pmcid: PMC4565733
+volume: '248'
+pages: 837-47
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

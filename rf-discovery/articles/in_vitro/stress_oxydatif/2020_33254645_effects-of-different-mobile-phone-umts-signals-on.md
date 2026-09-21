@@ -27,10 +27,17 @@ mots_cles:
 - Radiofrequency radiation
 - Reactive oxygen species
 - TP53 mutations
-auteurs: []
+auteurs:
+- Gulati S
+- Kosik P
+- Durdik M
+- Skorvaga M
+- Jakl L
+- Markova E
+- Belyaev I
 pmcid: ''
-volume: ''
-pages: ''
+volume: '267'
+pages: '115632'
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires: []

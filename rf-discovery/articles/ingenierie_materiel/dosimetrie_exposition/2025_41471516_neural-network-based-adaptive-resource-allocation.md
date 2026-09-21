@@ -2,28 +2,29 @@
 pmid: '41471516'
 doi: 10.3390/s25247521
 annee: 2025
-journal: ''
+journal: Sensors (Basel, Switzerland)
 titre: Neural Network-Based Adaptive Resource Allocation for 5G Heterogeneous Ultra-Dense
   Networks.
 url: https://pubmed.ncbi.nlm.nih.gov/41471516/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Neural networks
-- Mobility
-- 6G
-- Software-defined Networking
+- 5G HUDNs
 - 5G-advanced
-- 5g Hudns
-- Adaptive Resource Allocation
-auteurs: []
-pmcid: ''
-volume: ''
+- 6G
+- adaptive resource allocation
+- mobility
+- neural networks
+- software-defined networking
+auteurs:
+- Alhazmi AS
+- Arafah MA
+pmcid: PMC12736711
+volume: '25'
 pages: ''
 modele: ingenierie_materiel
 modele_score: 1.0
@@ -39,7 +40,7 @@ theme_indices:
 
 # Neural Network-Based Adaptive Resource Allocation for 5G Heterogeneous Ultra-Dense Networks.
 
-*journal non renseigné — 2025*
+*Sensors (Basel, Switzerland) — 2025*
 
 ## Résumé (texte d'origine)
 

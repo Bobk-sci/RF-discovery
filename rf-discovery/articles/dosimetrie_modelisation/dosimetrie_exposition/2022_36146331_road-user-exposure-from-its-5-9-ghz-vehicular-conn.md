@@ -23,9 +23,16 @@ mots_cles:
 - V2X
 - road user
 - vehicular connectivity
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Benini M
+- Parazzini M
+- Bonato M
+- Gallucci S
+- Chiaramello E
+- Fiocchi S
+- Tognola G
+pmcid: PMC9500951
+volume: '22'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0

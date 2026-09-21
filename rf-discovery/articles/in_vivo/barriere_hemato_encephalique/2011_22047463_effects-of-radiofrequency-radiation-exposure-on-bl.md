@@ -26,10 +26,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Sirav B
+- Seyhan N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 253-60
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

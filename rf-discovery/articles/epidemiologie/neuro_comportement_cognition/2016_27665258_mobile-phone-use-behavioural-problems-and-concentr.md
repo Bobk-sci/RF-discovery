@@ -34,10 +34,13 @@ mots_cles:
 - Personal measurements
 - Radiofrequency electromagnetic fields
 - Switzerland
-auteurs: []
+auteurs:
+- Roser K
+- Schoeni A
+- Röösli M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '219'
+pages: 759-769
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []

@@ -24,10 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Shaw PB
+- Werren DM
+- Edwards RM
+- Hoberman AM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '50'
+pages: 275-93
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

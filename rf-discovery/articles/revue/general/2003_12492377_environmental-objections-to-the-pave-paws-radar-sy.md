@@ -19,10 +19,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Adair RK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '159'
+pages: 128-34
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

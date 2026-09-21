@@ -28,10 +28,17 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- De Roos AJ
+- Teschke K
+- Savitz DA
+- Poole C
+- Grufferman S
+- Pollock BH
+- Olshan AF
 pmcid: ''
-volume: ''
-pages: ''
+volume: '12'
+pages: 508-17
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:

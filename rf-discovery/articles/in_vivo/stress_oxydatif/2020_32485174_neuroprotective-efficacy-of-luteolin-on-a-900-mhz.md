@@ -29,10 +29,12 @@ mots_cles:
 - Luteolin
 - Rat
 - Superoxide dismutase
-auteurs: []
+auteurs:
+- Yahyazadeh A
+- Altunkaynak BZ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '1744'
+pages: '146919'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

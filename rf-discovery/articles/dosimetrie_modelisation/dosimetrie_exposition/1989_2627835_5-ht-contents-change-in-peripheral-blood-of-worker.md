@@ -24,10 +24,11 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Wang SG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '23'
+pages: 207-10
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

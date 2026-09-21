@@ -26,10 +26,12 @@ mots_cles:
 - depressive symptoms
 - friendships
 - mobile phone dependence
-auteurs: []
+auteurs:
+- Choe C
+- Yu S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '25'
+pages: 450-457
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -50,6 +52,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-This study examined reciprocal longitudinal effects between mobile phone dependence, friendships, and depressive symptoms using 3-year longitudinal data from the Korean Children and Youth Panel Survey. An autoregressive cross-lagged model was applied to a sample of 1,737 adolescents. Results suggested that unidirectional relationships exist between the three variables: friendships reduce mobile phone dependence ( = -0.068, = 0.058; = -0.118, < 0.001) and depressive symptoms increase mobile phone dependence ( = 0.082, = 0.001; = 0.128, < 0.001); however, mobile phone dependence does not affect friendships and depressive symptoms. In addition, this study provided evidence of the negative bidirectional relationship between friendships and depressive symptoms. We suggest that, to prevent or treat adolescents' mobile phone dependence, a practical approach regarding friendships and depressive symptoms is needed.
+This study examined reciprocal longitudinal effects between mobile phone dependence, friendships, and depressive symptoms using 3-year longitudinal data from the Korean Children and Youth Panel Survey. An autoregressive cross-lagged model was applied to a sample of 1,737 adolescents. Results suggested that unidirectional relationships exist between the three variables: friendships reduce mobile phone dependence (B = -0.068, p = 0.058; B = -0.118, p < 0.001) and depressive symptoms increase mobile phone dependence (B = 0.082, p = 0.001; B = 0.128, p < 0.001); however, mobile phone dependence does not affect friendships and depressive symptoms. In addition, this study provided evidence of the negative bidirectional relationship between friendships and depressive symptoms. We suggest that, to prevent or treat adolescents' mobile phone dependence, a practical approach regarding friendships and depressive symptoms is needed.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35613406/)

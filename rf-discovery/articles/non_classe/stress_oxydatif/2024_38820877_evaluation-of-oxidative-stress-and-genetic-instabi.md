@@ -33,10 +33,21 @@ mots_cles:
 - Low dose chronic exposure
 - Oxidative stress
 - Radiofrequency electromagnetic fields, RF-EMF
-auteurs: []
+auteurs:
+- Gulati S
+- Mosgoeller W
+- Moldan D
+- Kosik P
+- Durdik M
+- Jakl L
+- Skorvaga M
+- Markova E
+- Kochanova D
+- Vigasova K
+- Belyaev I
 pmcid: ''
-volume: ''
-pages: ''
+volume: '279'
+pages: '116486'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

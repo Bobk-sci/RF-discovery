@@ -24,10 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Jauchem JR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '70'
+pages: 9-21
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

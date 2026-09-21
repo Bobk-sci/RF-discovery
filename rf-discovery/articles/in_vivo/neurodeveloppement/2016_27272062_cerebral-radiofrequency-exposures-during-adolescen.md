@@ -34,10 +34,16 @@ mots_cles:
 - electromagnetic fields
 - inflammation
 - mobile phone
-auteurs: []
+auteurs:
+- Petitdant N
+- Lecomte A
+- Robidel F
+- Gamez C
+- Blazy K
+- Villégier AS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '37'
+pages: 338-50
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

@@ -31,10 +31,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Oral B
+- Guney M
+- Ozguner F
+- Karahan N
+- Mungan T
+- Comlekci S
+- Cesur G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '23'
+pages: 957-73
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

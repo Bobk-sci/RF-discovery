@@ -30,10 +30,15 @@ mots_cles:
 - infections, diseases, disorders, injuries
 - prevention strategies
 - public health
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Panigrahi SK
+- Pathak VK
+- Kumar MM
+- Raj U
+- Priya P K
+pmcid: PMC7204931
+volume: '5'
+pages: e002505
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -51,6 +56,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32399260/)

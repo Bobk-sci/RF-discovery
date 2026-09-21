@@ -23,10 +23,13 @@ mots_cles:
 - Electromagnetic fields
 - Mobile phone
 - Radiofrequency
-auteurs: []
+auteurs:
+- Mortazavi SAR
+- Mortazavi G
+- Mortazavi SMJ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '609'
+pages: '1'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

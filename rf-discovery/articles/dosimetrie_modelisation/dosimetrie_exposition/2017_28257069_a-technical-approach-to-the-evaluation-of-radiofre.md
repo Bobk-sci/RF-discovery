@@ -25,9 +25,18 @@ mots_cles:
 - mobile telephony base station antenna
 - non-ionizing electromagnetic radiation
 - power density
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Buckus R
+- Strukčinskienė B
+- Raistenskis J
+- Stukas R
+- Šidlauskienė A
+- Čerkauskienė R
+- Isopescu DN
+- Stabryla J
+- Cretescu I
+pmcid: PMC5369080
+volume: '14'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 8.5

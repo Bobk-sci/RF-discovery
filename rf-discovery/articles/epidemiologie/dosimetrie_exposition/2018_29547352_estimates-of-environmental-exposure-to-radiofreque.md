@@ -28,10 +28,25 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Satta G
+- Mascia N
+- Serra T
+- Salis A
+- Saba L
+- Sanna S
+- Zucca MG
+- Angelucci E
+- Gabbas A
+- Culurgioni F
+- Pili P
+- Mura E
+- Cappai M
+- Ennas MG
+- Cocco P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '189'
+pages: 541-547
 modele: epidemiologie
 modele_score: 1008.0
 modele_secondaires: []

@@ -27,10 +27,11 @@ mesh:
 types:
 - Letter
 mots_cles: []
-auteurs: []
+auteurs:
+- Kundi M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '187'
+pages: '108665'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

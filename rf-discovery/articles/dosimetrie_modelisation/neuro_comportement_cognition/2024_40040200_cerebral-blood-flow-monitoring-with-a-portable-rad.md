@@ -20,10 +20,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Anwar U
+- Arslan T
+- Lomax P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '2024'
+pages: 1-5
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

@@ -25,10 +25,15 @@ mots_cles:
 - neural regeneration
 - quinacrine
 - thermal effect
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Ding XF
+- Wu Y
+- Qu WR
+- Fan M
+- Zhao YQ
+pmcid: PMC5900507
+volume: '13'
+pages: 449-455
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires:
@@ -51,6 +56,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Quinacrine, widely used to treat parasitic diseases, binds to cell membranes. We previously found that quinacrine pretreatment reduced microwave radiation damage in rat hippocampal neurons, but the molecular mechanism remains poorly understood. Considering the thermal effects of microwave radiation and the protective effects of quinacrine on heat damage in cells, we hypothesized that quinacrine would prevent microwave radiation damage to cells in a mechanism associated with cell membrane stability. To test this, we used retinoic acid to induce PC12 cells to differentiate into neuron-like cells. We then pretreated the neurons with quinacrine (20 and 40 mM) and irradiated them with 50 mW/cmmicrowaves for 3 or 6 hours. Flow cytometry, atomic force microscopy and western blot assays revealed that irradiated cells pretreated with quinacrine showed markedly less apoptosis, necrosis, and membrane damage, and greater expression of heat shock protein 70, than cells exposed to microwave irradiation alone. These results suggest that quinacrine stabilizes the neuronal membrane structure by upregulating the expression of heat shock protein 70, thus reducing neuronal injury caused by microwave radiation.
+Quinacrine, widely used to treat parasitic diseases, binds to cell membranes. We previously found that quinacrine pretreatment reduced microwave radiation damage in rat hippocampal neurons, but the molecular mechanism remains poorly understood. Considering the thermal effects of microwave radiation and the protective effects of quinacrine on heat damage in cells, we hypothesized that quinacrine would prevent microwave radiation damage to cells in a mechanism associated with cell membrane stability. To test this, we used retinoic acid to induce PC12 cells to differentiate into neuron-like cells. We then pretreated the neurons with quinacrine (20 and 40 mM) and irradiated them with 50 mW/cm2 microwaves for 3 or 6 hours. Flow cytometry, atomic force microscopy and western blot assays revealed that irradiated cells pretreated with quinacrine showed markedly less apoptosis, necrosis, and membrane damage, and greater expression of heat shock protein 70, than cells exposed to microwave irradiation alone. These results suggest that quinacrine stabilizes the neuronal membrane structure by upregulating the expression of heat shock protein 70, thus reducing neuronal injury caused by microwave radiation.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/29623929/)

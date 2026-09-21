@@ -19,10 +19,14 @@ mots_cles:
 - sleep vulnerability
 - stress
 - youth
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Kater MJ
+- Werner A
+- Schlarb AA
+- Lohaus A
+pmcid: PMC10105585
+volume: '15'
+pages: 207-216
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -40,12 +44,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The individual vulnerability for stress-related sleep difficulties (eg, sleep reactivity) is known as a predisposing factor of insomnia in adults, yet relatively little is known about sleep reactivity in adolescence. The study goal is to determine factors related to sleep reactivity and to investigate whether sleep reactivity and related factors predict current and new incidents of insomnia in adolescents.
+PURPOSE: The individual vulnerability for stress-related sleep difficulties (eg, sleep reactivity) is known as a predisposing factor of insomnia in adults, yet relatively little is known about sleep reactivity in adolescence. The study goal is to determine factors related to sleep reactivity and to investigate whether sleep reactivity and related factors predict current and new incidents of insomnia in adolescents.
 
-At baseline, 11-to-17-year-olds (N = 185, M= 14.3 years, SD = 1.8, 54% female) answered an age-appropriate version of the Ford Insomnia Response to Stress Test, questionnaires about sleep, stress, psychological symptoms, and resources, filled out a sleep diary and used actigraphy. Insomnia diagnoses according to ISCD-3 criteria were assessed at baseline, after 9 months and after one and a half years.
+PATIENTS AND METHODS: At baseline, 11-to-17-year-olds (N = 185, Mage = 14.3 years, SD = 1.8, 54% female) answered an age-appropriate version of the Ford Insomnia Response to Stress Test, questionnaires about sleep, stress, psychological symptoms, and resources, filled out a sleep diary and used actigraphy. Insomnia diagnoses according to ISCD-3 criteria were assessed at baseline, after 9 months and after one and a half years.
 
-Adolescents with high compared to low sleep reactivity had increased pre-sleep arousal, negative sleep-related cognitions, pre-sleep mobile phone use, stress experience, stress vulnerability, internalizing and externalizing symptoms, less social resources, and a later midpoint of bedtime. High sleep reactivity increased the likelihood for currently having insomnia, but not for the development of insomnia at subsequent assessments.
+RESULTS: Adolescents with high compared to low sleep reactivity had increased pre-sleep arousal, negative sleep-related cognitions, pre-sleep mobile phone use, stress experience, stress vulnerability, internalizing and externalizing symptoms, less social resources, and a later midpoint of bedtime. High sleep reactivity increased the likelihood for currently having insomnia, but not for the development of insomnia at subsequent assessments.
 
-The findings suggest that high sleep reactivity is related to poor sleep health and mental health but cast doubt on sleep reactivity as a pivotal predisposing factor for the development of insomnia in adolescence.
+CONCLUSION: The findings suggest that high sleep reactivity is related to poor sleep health and mental health but cast doubt on sleep reactivity as a pivotal predisposing factor for the development of insomnia in adolescence.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/37069845/)

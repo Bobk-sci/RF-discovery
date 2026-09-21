@@ -17,10 +17,17 @@ mots_cles:
 - miRNA-30C-5p
 - miRNA-574-5p
 - radioiodine
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Hasbek Z
+- Taş A
+- Ertürk SA
+- Sarıakçalı B
+- Ulaş Babacan Ö
+- Duman G
+- Siliğ Y
+pmcid: PMC10899741
+volume: '33'
+pages: 19-27
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -42,12 +49,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-This study aimed to evaluate the relationship between mobile phone usage and miRNA-574-5p and miRNA-30C-5p levels in patients diagnosed with differentiated thyroid cancer (DTC).
+OBJECTIVES: This study aimed to evaluate the relationship between mobile phone usage and miRNA-574-5p and miRNA-30C-5p levels in patients diagnosed with differentiated thyroid cancer (DTC).
 
-Fifty patients diagnosed with DTC and 50 healthy volunteers were included in the study. miRNA-574-5p and miRNA-30C-5p gene expression levels in the blood of all subjects were analyzed by real time-polymerase chain reaction, and a questionnaire including various questions was administered to both groups.
+METHODS: Fifty patients diagnosed with DTC and 50 healthy volunteers were included in the study. miRNA-574-5p and miRNA-30C-5p gene expression levels in the blood of all subjects were analyzed by real time-polymerase chain reaction, and a questionnaire including various questions was administered to both groups.
 
-Although there was a 7.60-fold increase in miRNA-30C-5p gene expression levels in the patient group compared with the control group, it was not found to be statistically significant. Considering the miRNA-574-5p gene expression levels, although there was a 2.96-fold increase in the patient group compared with the control group, no significant relationship was found. In our study, 85% of our patients were using mobile phones with internet access, whereas 98% of our healthy volunteers were using mobile phones (p<0.05). While 53.5% of the patients had their mobile phones with them while they were sleeping, this rate was 83.7% in healthy volunteers (p<0.05). However, 93.9% of the healthy volunteers did not have a Wi-Fi device in their bedrooms, and this rate was 75% in the patient group (p<0.05).
+RESULTS: Although there was a 7.60-fold increase in miRNA-30C-5p gene expression levels in the patient group compared with the control group, it was not found to be statistically significant. Considering the miRNA-574-5p gene expression levels, although there was a 2.96-fold increase in the patient group compared with the control group, no significant relationship was found. In our study, 85% of our patients were using mobile phones with internet access, whereas 98% of our healthy volunteers were using mobile phones (p<0.05). While 53.5% of the patients had their mobile phones with them while they were sleeping, this rate was 83.7% in healthy volunteers (p<0.05). However, 93.9% of the healthy volunteers did not have a Wi-Fi device in their bedrooms, and this rate was 75% in the patient group (p<0.05).
 
-Although miRNA-30C-5p and miRNA-574-5p gene expression levels were higher in patients than in healthy volunteers, the differences were not statistically significant. Although there was no significant difference in miRNA levels, we believe that due to the higher rate of Wi-Fi device presence in bedrooms in patients compared with healthy volunteers, the effects of electromagnetic radiation on the thyroid can be reduced by paying attention to this simple change.
+CONCLUSION: Although miRNA-30C-5p and miRNA-574-5p gene expression levels were higher in patients than in healthy volunteers, the differences were not statistically significant. Although there was no significant difference in miRNA levels, we believe that due to the higher rate of Wi-Fi device presence in bedrooms in patients compared with healthy volunteers, the effects of electromagnetic radiation on the thyroid can be reduced by paying attention to this simple change.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38390734/)

@@ -26,10 +26,14 @@ mots_cles:
 - ear canal hair follicle cells
 - mobile phone
 - single strand break
-auteurs: []
+auteurs:
+- Akdag M
+- Dasdag S
+- Canturk F
+- Akdag MZ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '37'
+pages: 66-75
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -28,10 +28,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Mjøen G
+- Saetre DO
+- Lie RT
+- Tynes T
+- Blaasaas KG
+- Hannevik M
+- Irgens LM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '21'
+pages: 529-35
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires:
@@ -54,12 +61,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-During the last decades, public concern that radiofrequency radiation (RFR) may be related to adverse reproductive outcomes has been emerging. Our objective was to assess associations between paternal occupational exposure to RFR and adverse pregnancy outcomes including birth defects using population-based data from Norway.
+BACKGROUND: During the last decades, public concern that radiofrequency radiation (RFR) may be related to adverse reproductive outcomes has been emerging. Our objective was to assess associations between paternal occupational exposure to RFR and adverse pregnancy outcomes including birth defects using population-based data from Norway.
 
-Data on reproductive outcomes derived from the Medical Birth Registry of Norway were linked with data on paternal occupation derived from the general population censuses. An expert panel categorized occupations according to exposure. Using logistic regression, we analyzed 24 categories of birth defects as well as other adverse outcomes.
+METHODS: Data on reproductive outcomes derived from the Medical Birth Registry of Norway were linked with data on paternal occupation derived from the general population censuses. An expert panel categorized occupations according to exposure. Using logistic regression, we analyzed 24 categories of birth defects as well as other adverse outcomes.
 
-In the offspring of fathers most likely to have been exposed, increased risk was observed for preterm birth (odds ratio (OR): 1.08, 95% confidence interval (CI): 1.03, 1.15). In this group we also observed a decreased risk of cleft lip (OR: 0.63, 95% CI: 0.41, 0.97). In the medium exposed group, we observed increased risk for a category of "other defects" (OR: 2.40, 95% CI: 1.22, 4.70), and a decreased risk for a category of "other syndromes" (OR: 0.75, 95% CI: 0.56, 0.99) and upper gastrointestinal defects (OR: 0.61, 95% CI: 0.40, 0.93).
+RESULTS: In the offspring of fathers most likely to have been exposed, increased risk was observed for preterm birth (odds ratio (OR): 1.08, 95% confidence interval (CI): 1.03, 1.15). In this group we also observed a decreased risk of cleft lip (OR: 0.63, 95% CI: 0.41, 0.97). In the medium exposed group, we observed increased risk for a category of "other defects" (OR: 2.40, 95% CI: 1.22, 4.70), and a decreased risk for a category of "other syndromes" (OR: 0.75, 95% CI: 0.56, 0.99) and upper gastrointestinal defects (OR: 0.61, 95% CI: 0.40, 0.93).
 
-The study is partly reassuring for occupationally exposed fathers.
+CONCLUSION: The study is partly reassuring for occupationally exposed fathers.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/16858619/)

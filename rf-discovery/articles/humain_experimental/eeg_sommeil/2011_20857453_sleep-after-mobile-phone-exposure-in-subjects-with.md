@@ -26,10 +26,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Lowden A
+- Akerstedt T
+- Ingre M
+- Wiholm C
+- Hillert L
+- Kuster N
+- Nilsson JP
+- Arnetz B
 pmcid: ''
-volume: ''
-pages: ''
+volume: '32'
+pages: 4-14
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires:

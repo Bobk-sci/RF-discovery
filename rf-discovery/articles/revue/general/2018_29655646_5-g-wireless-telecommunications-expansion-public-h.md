@@ -23,10 +23,11 @@ mots_cles:
 - Public health
 - Radiofrequency radiation
 - Wireless technology
-auteurs: []
+auteurs:
+- Russell CL
 pmcid: ''
-volume: ''
-pages: ''
+volume: '165'
+pages: 484-495
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

@@ -2,31 +2,31 @@
 pmid: '33111595'
 doi: 10.1080/01480545.2020.1833905
 annee: 2022
-journal: ''
+journal: Drug and chemical toxicology
 titre: Cumulative effects of manganese nanoparticle and radiofrequency radiation in
   male Wistar rats.
 url: https://pubmed.ncbi.nlm.nih.gov/33111595/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
 - Animals
+- Cell Phone
+- Male
 - Mammals
+- Manganese
+- Nanoparticles
+- Radio Waves
 - Rats
 - Rats, Wistar
-- Manganese
-- Radio Waves
-- Male
-- Nanoparticles
-- Cell Phone
 types:
 - Journal Article
 mots_cles:
-- Liver function
+- Radio frequency radiation
+- kidney function
+- liver function
+- manganese nanoparticles
 - reproductive system
-- Kidney Function
-- Radio Frequency Radiation
-- Manganese Nanoparticles
 auteurs:
 - Pardhiya S
 - Gaharwar US
@@ -35,7 +35,7 @@ auteurs:
 - Nirala JP
 - Rajamani P
 pmcid: ''
-volume: ''
+volume: '45'
 pages: 1395-1407
 modele: in_vivo
 modele_score: 7.0
@@ -56,7 +56,7 @@ theme_indices:
 
 # Cumulative effects of manganese nanoparticle and radiofrequency radiation in male Wistar rats.
 
-*journal non renseigné — 2022*
+*Drug and chemical toxicology — 2022*
 
 ## Résumé (texte d'origine)
 

@@ -23,9 +23,16 @@ mots_cles:
 - exposure limits
 - radiofrequency electromagnetic fields
 - small cell
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Aerts S
+- Deprez K
+- Verloock L
+- Olsen RG
+- Martens L
+- Tran P
+- Joseph W
+pmcid: PMC10051828
+volume: '23'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0

@@ -25,10 +25,15 @@ mots_cles:
 - Protective effect
 - Radiofrequency
 - hsp70 levels
-auteurs: []
+auteurs:
+- Zeni O
+- Romeo S
+- Sannino A
+- Palumbo R
+- Scarfì MR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '196'
+pages: '110935'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires: []

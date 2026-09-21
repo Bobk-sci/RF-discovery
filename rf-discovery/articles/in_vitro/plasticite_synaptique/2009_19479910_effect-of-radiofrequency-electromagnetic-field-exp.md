@@ -23,10 +23,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Del Vecchio G
+- Giuliani A
+- Fernandez M
+- Mesirca P
+- Bersani F
+- Pinto R
+- Ardoino L
+- Lovisolo GA
+- Giardino L
+- Calzà L
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 564-72
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires:

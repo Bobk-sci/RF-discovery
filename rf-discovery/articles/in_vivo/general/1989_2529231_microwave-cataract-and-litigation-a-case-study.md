@@ -24,10 +24,11 @@ types:
 - Case Reports
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Joyner KH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '57'
+pages: 545-9
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

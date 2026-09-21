@@ -29,10 +29,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Lalić H
+- Lekić A
+- Radosević-Stasić B
 pmcid: ''
-volume: ''
-pages: ''
+volume: '55'
+pages: 117-27
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []

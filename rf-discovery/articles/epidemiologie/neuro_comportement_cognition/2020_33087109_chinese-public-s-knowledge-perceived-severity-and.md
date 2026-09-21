@@ -40,10 +40,16 @@ mots_cles:
 - Precautionary behaviour
 - Psychological health
 - Social participation
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Li JB
+- Yang A
+- Dou K
+- Wang LX
+- Zhang MC
+- Lin XQ
+pmcid: PMC7576982
+volume: '20'
+pages: '1589'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []
@@ -67,12 +73,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The outbreak of the coronavirus disease-19 (COVID-19) has caused enormous stress among the public in China. Intellectual input from various aspects is needed to fight against COVID-19, including understanding of the public's emotion and behaviour and their antecedents from the psychological perspectives. Drawing upon the cognitive appraisal theory, this study examined three cognitive appraisals (i.e., perceived severity, perceived controllability, and knowledge of COVID-19) and their associations with a wide range of emotional and behavioural outcomes among the Chinese public.
+BACKGROUND: The outbreak of the coronavirus disease-19 (COVID-19) has caused enormous stress among the public in China. Intellectual input from various aspects is needed to fight against COVID-19, including understanding of the public's emotion and behaviour and their antecedents from the psychological perspectives. Drawing upon the cognitive appraisal theory, this study examined three cognitive appraisals (i.e., perceived severity, perceived controllability, and knowledge of COVID-19) and their associations with a wide range of emotional and behavioural outcomes among the Chinese public.
 
-Participants were 4607 citizens (age range: 17-90 years, Mage = 23.71 years) from 31 provinces in China and they took part in a cross-sectional survey online.
+METHODS: Participants were 4607 citizens (age range: 17-90 years, Mage = 23.71 years) from 31 provinces in China and they took part in a cross-sectional survey online.
 
-The results showed that the public's emotional and behavioural reactions were slightly affected by the outbreak of COVID-19. Moreover, the public had limited participation in the events regarding COVID-19 but actively engaged in precautionary behaviour. In addition, results of structural equation model with latent variables revealed that the three appraisals were differentially related to the outcome variables (i.e., negative emotion, positive emotion, sleep problems, aggression, substance use, mobile phone use, social participation, and precautionary behaviour).
+RESULTS: The results showed that the public's emotional and behavioural reactions were slightly affected by the outbreak of COVID-19. Moreover, the public had limited participation in the events regarding COVID-19 but actively engaged in precautionary behaviour. In addition, results of structural equation model with latent variables revealed that the three appraisals were differentially related to the outcome variables (i.e., negative emotion, positive emotion, sleep problems, aggression, substance use, mobile phone use, social participation, and precautionary behaviour).
 
-The findings highlight the utility of cognitive appraisal, as a core process of coping stress, in explaining the public's emotion and behaviour in the encounter of public health concern. Practically, the findings facilitate the government and practitioners to design and deliver targeted intervention programs to the public.
+CONCLUSIONS: The findings highlight the utility of cognitive appraisal, as a core process of coping stress, in explaining the public's emotion and behaviour in the encounter of public health concern. Practically, the findings facilitate the government and practitioners to design and deliver targeted intervention programs to the public.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33087109/)

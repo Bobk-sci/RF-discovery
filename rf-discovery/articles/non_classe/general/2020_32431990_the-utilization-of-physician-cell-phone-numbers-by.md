@@ -17,10 +17,18 @@ mots_cles:
 - communication
 - orthopaedic surgery
 - technology
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Rogero RG
+- Bishop M
+- Erickson BJ
+- Seigerman D
+- Smith D
+- Sodha SC
+- Yeon H
+- Tsai J
+pmcid: PMC7233492
+volume: '12'
+pages: e7712
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

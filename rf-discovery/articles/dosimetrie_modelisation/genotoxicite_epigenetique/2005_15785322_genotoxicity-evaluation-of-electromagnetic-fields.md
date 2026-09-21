@@ -28,10 +28,21 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Chang SK
+- Choi JS
+- Gil HW
+- Yang JO
+- Lee EY
+- Jeon YS
+- Lee ZW
+- Lee M
+- Hong MY
+- Ho Son T
+- Hong SY
 pmcid: ''
-volume: ''
-pages: ''
+volume: '14'
+pages: 175-9
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:

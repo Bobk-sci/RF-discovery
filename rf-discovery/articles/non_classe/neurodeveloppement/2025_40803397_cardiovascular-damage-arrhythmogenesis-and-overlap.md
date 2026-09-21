@@ -35,10 +35,18 @@ mots_cles:
 - Electromagnetic fields
 - Heart and brain magnetic nanoparticles
 - Magnetic motion
-auteurs: []
+auteurs:
+- Calderón-Garcidueñas L
+- Cejudo-Ruiz FR
+- González-Maciel A
+- Reynoso-Robles R
+- Ramos-Morales A
+- Pérez-Guille BE
+- Soriano-Rosales RE
+- Torres-Jardón R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '285'
+pages: '122558'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

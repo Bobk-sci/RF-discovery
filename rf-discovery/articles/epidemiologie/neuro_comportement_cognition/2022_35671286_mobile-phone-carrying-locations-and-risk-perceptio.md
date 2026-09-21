@@ -22,10 +22,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Zeleke BM
+- Brzozek C
+- Bhatt CR
+- Abramson MJ
+- Freudenstein F
+- Croft RJ
+- Wiedemann PM
+- Benke G
+pmcid: PMC9173639
+volume: '17'
+pages: e0269457
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

@@ -41,10 +41,19 @@ mots_cles:
 - cognitive function
 - comet assay
 - microwave exposure
-auteurs: []
+auteurs:
+- Deshmukh PS
+- Nasare N
+- Megha K
+- Banerjee BD
+- Ahmed RS
+- Singh D
+- Abegaonkar MP
+- Tripathi AK
+- Mediratta PK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '34'
+pages: 284-90
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

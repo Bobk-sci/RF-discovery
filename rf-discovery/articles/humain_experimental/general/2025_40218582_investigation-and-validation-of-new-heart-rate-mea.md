@@ -30,9 +30,13 @@ mots_cles:
 - foot-wearables
 - heart rate
 - posterior tibial artery
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Matouq J
+- AlSaaideh I
+- Hatahet O
+- Pott PP
+pmcid: PMC11990973
+volume: '25'
 pages: ''
 modele: humain_experimental
 modele_score: 2.0

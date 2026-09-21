@@ -19,10 +19,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Frey AH
+pmcid: PMC1533043
+volume: '106'
+pages: 101-3
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

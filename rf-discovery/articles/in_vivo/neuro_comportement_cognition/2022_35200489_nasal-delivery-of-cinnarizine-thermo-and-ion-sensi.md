@@ -20,9 +20,18 @@ mots_cles:
 - microwave-induced brain injury (MIBI)
 - sulfobutyl-β-cyclodextrin
 - thermo- and ion-sensitive hydrogels
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Zhang Y
+- Li Q
+- Hu J
+- Wang C
+- Wan D
+- Li Q
+- Jiang Q
+- Du L
+- Jin Y
+pmcid: PMC8872061
+volume: '8'
 pages: ''
 modele: in_vivo
 modele_score: 1.0

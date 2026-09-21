@@ -28,10 +28,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Esmekaya MA
+- Ozer C
+- Seyhan N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 84-9
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

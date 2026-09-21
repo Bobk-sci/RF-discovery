@@ -30,10 +30,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Leng L
+- Zhang Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '26'
+pages: 195-9
 modele: epidemiologie
 modele_score: 1005.5
 modele_secondaires: []
@@ -58,12 +60,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Pituitary tumors are generally benign, but may be associated with some morbidities. The aim of this study was to identify the risk factors for pituitary tumors.
+AIM: Pituitary tumors are generally benign, but may be associated with some morbidities. The aim of this study was to identify the risk factors for pituitary tumors.
 
-A population-based case-control study on the potential risk factors of pituitary tumors was conducted in China. The personal interview technique was used to gather information on medical and reproductive history, taste, and cigarette smoking from 204 pituitary tumor cases and 246 controls aged between 6 and 82 years.
+MATERIAL AND METHODS: A population-based case-control study on the potential risk factors of pituitary tumors was conducted in China. The personal interview technique was used to gather information on medical and reproductive history, taste, and cigarette smoking from 204 pituitary tumor cases and 246 controls aged between 6 and 82 years.
 
-The risk of tumor was reduced when the interviewee was a worker. The risk was raised with spicy taste, mobile phone use, duration of use, characteristics, and taking vitamins. No significant association was observed with gender, age, education, marriage, speed of eating, fat intake, other tastes (salt, sour, sweet), medical and reproductive history, female sex hormones, cigarette smoking, tea drinking, wine drinking, menses, and oral contraceptive use, whether the interviewee was a farmer.
+RESULTS: The risk of tumor was reduced when the interviewee was a worker. The risk was raised with spicy taste, mobile phone use, duration of use, characteristics, and taking vitamins. No significant association was observed with gender, age, education, marriage, speed of eating, fat intake, other tastes (salt, sour, sweet), medical and reproductive history, female sex hormones, cigarette smoking, tea drinking, wine drinking, menses, and oral contraceptive use, whether the interviewee was a farmer.
 
-Increased risk for pituitary tumors is related with spicy taste, mobile phone use, duration of use, characteristics, taking vitamins and possibly a reduced risk is related with the interviewee being a worker. Further investigations are needed to clarify the causes of these associations.
+CONCLUSION: Increased risk for pituitary tumors is related with spicy taste, mobile phone use, duration of use, characteristics, taking vitamins and possibly a reduced risk is related with the interviewee being a worker. Further investigations are needed to clarify the causes of these associations.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/26956811/)

@@ -25,10 +25,13 @@ mots_cles:
 - Microwave microscope
 - Near-field probe
 - Skin abnormalities
-auteurs: []
+auteurs:
+- Kazemi F
+- Mohanna F
+- Ahmadi-Shokouh J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '41'
+pages: 881-890
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

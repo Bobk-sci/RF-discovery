@@ -29,10 +29,18 @@ mots_cles:
 - Nrf2/HO-1 pathway
 - Salvia miltiorrhiza polysaccharide
 - Structure
-auteurs: []
+auteurs:
+- Meng H
+- Wu J
+- Shen L
+- Chen G
+- Jin L
+- Yan M
+- Wan H
+- He Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '215'
+pages: 398-412
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

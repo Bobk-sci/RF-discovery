@@ -26,10 +26,12 @@ mots_cles:
 - Mobile phone radiation
 - Ontogenetic queen development
 - RF-EMF exposure
-auteurs: []
+auteurs:
+- Odemer R
+- Odemer F
 pmcid: ''
-volume: ''
-pages: ''
+volume: '661'
+pages: 553-562
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

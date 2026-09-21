@@ -26,10 +26,17 @@ mots_cles:
 - local heating
 - millimeter waves
 - thermal dosimetry
-auteurs: []
+auteurs:
+- Orlacchio R
+- Zhadobov M
+- Alekseev SI
+- Nikolayev D
+- Sauleau R
+- Le Page Y
+- Le Dréan Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '40'
+pages: 553-568
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:

@@ -34,10 +34,17 @@ mots_cles:
 - mobile phone
 - nitric oxide
 - oxidative stress
-auteurs: []
+auteurs:
+- Alkis ME
+- Bilgin HM
+- Akpolat V
+- Dasdag S
+- Yegin K
+- Yavas MC
+- Akdag MZ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 32-47
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

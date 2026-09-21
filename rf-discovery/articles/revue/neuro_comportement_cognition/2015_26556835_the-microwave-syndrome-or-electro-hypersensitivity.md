@@ -18,10 +18,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Carpenter DO
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 217-22
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

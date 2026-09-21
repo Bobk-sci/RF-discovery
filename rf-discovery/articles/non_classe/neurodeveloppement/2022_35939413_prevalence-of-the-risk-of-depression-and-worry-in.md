@@ -26,10 +26,18 @@ mots_cles:
 - COVID-19
 - mental health
 - depression
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Gaviria-Arbeláez SL
+- Uribe-Holguín A
+- Gil-Castaño LS
+- Uribe-Bravo SE
+- Serna-Galeano LE
+- Álvarez-Mesa C
+- Palacio-Moná R
+- Vélez-Cuervo SM
+pmcid: PMC9395201
+volume: '73'
+pages: 194-202
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -49,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To describe the prevalence of symptoms of depression and worry affecting pregnant women during the COVID-19 pandemic.
+OBJECTIVES: To describe the prevalence of symptoms of depression and worry affecting pregnant women during the COVID-19 pandemic.
 
-Descriptive crosssectional study that included pregnant women with access to a technological device (mobile phone, computer or tablet) and Internet connection, living in Antioquia, Colombia. Women with literary and technological illiteracy were excluded. An online survey was conducted to gather information about sociodemographic and baseline clinical conditions and the main concerns caused by the pandemic. Additionally, the Edinburg Depression Scale (EPDS) was applied in order to measure the risk of depression. The Jamovi software was used for data processing and statistical analysis.
+MATERIAL AND METHODS: Descriptive crosssectional study that included pregnant women with access to a technological device (mobile phone, computer or tablet) and Internet connection, living in Antioquia, Colombia. Women with literary and technological illiteracy were excluded. An online survey was conducted to gather information about sociodemographic and baseline clinical conditions and the main concerns caused by the pandemic. Additionally, the Edinburg Depression Scale (EPDS) was applied in order to measure the risk of depression. The Jamovi software was used for data processing and statistical analysis.
 
-Overall, 345 pregnant women between 15 and 44 years of age were surveyed, with the finding of a 30.4 % prevalence of the risk of depression. Domestic violence and absence of a support network were identified in 4.9 % and 8.4 % of cases. The major sources of worry were the fear of being separated from their babies on the day of birth, the possibility of having to be alone during childbirth, and the fear of contagion due to potential effects on the fetus or the newborn.
+RESULTS: Overall, 345 pregnant women between 15 and 44 years of age were surveyed, with the finding of a 30.4 % prevalence of the risk of depression. Domestic violence and absence of a support network were identified in 4.9 % and 8.4 % of cases. The major sources of worry were the fear of being separated from their babies on the day of birth, the possibility of having to be alone during childbirth, and the fear of contagion due to potential effects on the fetus or the newborn.
 
-Depression symptoms have been frequent among pregnant women during the COVID-19 pandemic. It is important to inquire about stress factors and depression symptoms during prenatal visits, childbirth and the postpartum period. Additional local studies are needed to assess other mental health disorders that may have increased during the COVID-19 pandemic.
+CONCLUSIONS: Depression symptoms have been frequent among pregnant women during the COVID-19 pandemic. It is important to inquire about stress factors and depression symptoms during prenatal visits, childbirth and the postpartum period. Additional local studies are needed to assess other mental health disorders that may have increased during the COVID-19 pandemic.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35939413/)

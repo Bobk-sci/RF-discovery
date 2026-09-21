@@ -27,9 +27,11 @@ mots_cles:
 - nonsyndromic basal cell carcinoma (BCC)
 - tissue-mimicking phantoms
 - tumor
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Boparai J
+- Popović M
+pmcid: PMC8931628
+volume: '22'
 pages: ''
 modele: non_classe
 modele_score: 0.0

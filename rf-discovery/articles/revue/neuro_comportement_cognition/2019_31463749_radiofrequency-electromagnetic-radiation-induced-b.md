@@ -34,10 +34,16 @@ mots_cles:
 - Locomotion
 - Mobile phone
 - Radiofrequency electromagnetic radiation
-auteurs: []
+auteurs:
+- Narayanan SN
+- Jetti R
+- Kesari KK
+- Kumar RS
+- Nayak SB
+- Bhat PG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '26'
+pages: 30693-30710
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

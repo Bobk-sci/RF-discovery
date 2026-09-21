@@ -29,9 +29,16 @@ mots_cles:
 - remote monitoring
 - skin hydration
 - time domain reflectometry
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Schiavoni R
+- Monti G
+- Piuzzi E
+- Tarricone L
+- Tedesco A
+- De Benedetto E
+- Cataldo A
+pmcid: PMC7284366
+volume: '20'
 pages: ''
 modele: revue
 modele_score: 1.0

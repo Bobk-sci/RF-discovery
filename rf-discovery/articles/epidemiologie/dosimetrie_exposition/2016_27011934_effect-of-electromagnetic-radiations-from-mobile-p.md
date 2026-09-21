@@ -18,10 +18,16 @@ mots_cles:
 - mobile phones
 - saliva
 - salivary glands
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Singh K
+- Nagaraj A
+- Yousuf A
+- Ganta S
+- Pareek S
+- Vishnani P
+pmcid: PMC4784065
+volume: '6'
+pages: 54-9
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -41,12 +47,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Cell phones use electromagnetic, nonionizing radiations in the microwave range, which some believe may be harmful to human health. The present study aimed to determine the effect of electromagnetic radiations (EMRs) on unstimulated/stimulated salivary flow rate and other health-related problems between the general populations residing in proximity to and far away from mobile phone base stations.
+OBJECTIVE: Cell phones use electromagnetic, nonionizing radiations in the microwave range, which some believe may be harmful to human health. The present study aimed to determine the effect of electromagnetic radiations (EMRs) on unstimulated/stimulated salivary flow rate and other health-related problems between the general populations residing in proximity to and far away from mobile phone base stations.
 
-A total of four mobile base stations were randomly selected from four zones of Jaipur, Rajasthan, India. Twenty individuals who were residing in proximity to the selected mobile phone towers were taken as the case group and the other 20 individuals (control group) who were living nearly 1 km away in the periphery were selected for salivary analysis. Questions related to sleep disturbances were measured using Pittsburgh Sleep Quality Index (PSQI) and other health problems were included in the questionnaire. Chi-square test was used for statistical analysis.
+MATERIALS AND METHODS: A total of four mobile base stations were randomly selected from four zones of Jaipur, Rajasthan, India. Twenty individuals who were residing in proximity to the selected mobile phone towers were taken as the case group and the other 20 individuals (control group) who were living nearly 1 km away in the periphery were selected for salivary analysis. Questions related to sleep disturbances were measured using Pittsburgh Sleep Quality Index (PSQI) and other health problems were included in the questionnaire. Chi-square test was used for statistical analysis.
 
-It was unveiled that a majority of the subjects who were residing near the mobile base station complained of sleep disturbances, headache, dizziness, irritability, concentration difficulties, and hypertension. A majority of the study subjects had significantly lesser stimulated salivary secretion (P < 0.01) as compared to the control subjects.
+RESULTS: It was unveiled that a majority of the subjects who were residing near the mobile base station complained of sleep disturbances, headache, dizziness, irritability, concentration difficulties, and hypertension. A majority of the study subjects had significantly lesser stimulated salivary secretion (P < 0.01) as compared to the control subjects.
 
-The effects of prolonged exposure to EMRs from mobile phone base stations on the health and well-being of the general population cannot be ruled out. Further studies are warranted to evaluate the effect of electromagnetic fields (EMFs) on general health and more specifically on oral health.
+CONCLUSIONS: The effects of prolonged exposure to EMRs from mobile phone base stations on the health and well-being of the general population cannot be ruled out. Further studies are warranted to evaluate the effect of electromagnetic fields (EMFs) on general health and more specifically on oral health.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/27011934/)

@@ -29,10 +29,18 @@ mots_cles:
 - Hippocampus
 - Male rat
 - Pyramidal neuron
-auteurs: []
+auteurs:
+- Şahin A
+- Aslan A
+- Baş O
+- İkinci A
+- Özyılmaz C
+- Fikret Sönmez O
+- Çolakoğlu S
+- Odacı E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '1624'
+pages: 232-238
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []

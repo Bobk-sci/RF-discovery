@@ -24,10 +24,17 @@ mots_cles:
 - functional ultrasound (fUS) imaging
 - in vivo exposure
 - mobile phones
-auteurs: []
+auteurs:
+- Orlacchio R
+- Percherancier Y
+- Poulletier De Gannes F
+- Hurtier A
+- Lagroye I
+- Leveque P
+- Arnaud-Cormos D
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 257-267
 modele: in_vivo
 modele_score: 1007.0
 modele_secondaires:

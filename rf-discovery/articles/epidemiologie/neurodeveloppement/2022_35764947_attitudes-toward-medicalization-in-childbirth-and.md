@@ -25,10 +25,16 @@ mots_cles:
 - Coping
 - Locus of control
 - Pregnancy
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Espinosa M
+- Artieta-Pinedo I
+- Paz-Pascual C
+- Bully-Garay P
+- García-Álvarez A
+- ema-Q. Group
+pmcid: PMC9241227
+volume: '22'
+pages: '529'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

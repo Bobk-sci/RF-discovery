@@ -35,9 +35,17 @@ mots_cles:
 - aged brain
 - neuroinflammation
 - oxidative stress
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Jeong YJ
+- Son Y
+- Han NK
+- Choi HD
+- Pack JK
+- Kim N
+- Lee YS
+- Lee HJ
+pmcid: PMC6073444
+volume: '19'
 pages: ''
 modele: in_vivo
 modele_score: 8.0

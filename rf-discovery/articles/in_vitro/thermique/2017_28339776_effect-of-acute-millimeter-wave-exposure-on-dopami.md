@@ -26,10 +26,16 @@ mots_cles:
 - dopamine turnover
 - in vitro
 - neuron-like model
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Haas AJ
+- Le Page Y
+- Zhadobov M
+- Sauleau R
+- Dréan YL
+- Saligaut C
+pmcid: PMC5569975
+volume: '58'
+pages: 439-445
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:

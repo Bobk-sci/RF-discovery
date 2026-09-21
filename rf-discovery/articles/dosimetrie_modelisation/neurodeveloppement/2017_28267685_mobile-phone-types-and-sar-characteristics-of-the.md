@@ -25,10 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Lee AK
+- Hong SE
+- Kwon JH
+- Choi HD
+- Cardis E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '62'
+pages: 2741-2761
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires:

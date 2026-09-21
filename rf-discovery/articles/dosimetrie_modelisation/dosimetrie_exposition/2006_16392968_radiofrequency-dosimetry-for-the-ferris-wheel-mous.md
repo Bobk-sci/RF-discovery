@@ -26,10 +26,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Faraone A
+- Luengas W
+- Chebrolu S
+- Ballen M
+- Bit-Babik G
+- Gessner AV
+- Kanda MY
+- Babij T
+- Swicord ML
+- Chou CK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '165'
+pages: 105-12
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:

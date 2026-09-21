@@ -30,10 +30,12 @@ mots_cles:
 - symptoms
 - wearable
 - wearables
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Scott SE
+- Thompson MJ
+pmcid: PMC11148520
+volume: '10'
+pages: e52577
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

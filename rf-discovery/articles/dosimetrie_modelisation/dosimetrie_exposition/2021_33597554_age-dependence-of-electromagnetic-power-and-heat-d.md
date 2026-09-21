@@ -14,10 +14,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Sacco G
+- Pisa S
+- Zhadobov M
+pmcid: PMC7889919
+volume: '11'
+pages: '3983'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

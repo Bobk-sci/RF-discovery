@@ -28,10 +28,13 @@ mots_cles:
 - electromagnetic radiation
 - mobile phone
 - reactive oxygen species
-auteurs: []
+auteurs:
+- Saka VP
+- V C
+- Narayanasamy D
 pmcid: ''
-volume: ''
-pages: ''
+volume: '37'
+pages: e23351
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires:

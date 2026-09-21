@@ -26,10 +26,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Alekseev SI
+- Ziskin MC
 pmcid: ''
-volume: ''
-pages: ''
+volume: '48'
+pages: 1013-9
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

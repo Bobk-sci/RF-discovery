@@ -32,10 +32,18 @@ mots_cles:
 - radiofrequency radiation
 - rat
 - testis
-auteurs: []
+auteurs:
+- Katirci E
+- Kirimlioglu E
+- Oflamaz AO
+- Hidisoglu E
+- Cernomorcenco A
+- Yargıcoğlu P
+- Ozen S
+- Demir N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '45'
+pages: 235-248
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

@@ -30,10 +30,16 @@ mots_cles:
 - reverberation chamber
 - thermal dosimetry
 - wireless exposure
-auteurs: []
+auteurs:
+- Gong Y
+- Capstick M
+- Tillmann T
+- Dasenbrock C
+- Samaras T
+- Kuster N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '37'
+pages: 49-61
 modele: in_vivo
 modele_score: 1008.5
 modele_secondaires:

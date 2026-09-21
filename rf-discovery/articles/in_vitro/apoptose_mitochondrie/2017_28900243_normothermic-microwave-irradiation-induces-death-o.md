@@ -14,10 +14,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Asano M
+- Tanaka S
+- Sakaguchi M
+- Matsumura H
+- Yamaguchi T
+- Fujita Y
+- Tabuse K
+pmcid: PMC5595850
+volume: '7'
+pages: '11406'
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires: []

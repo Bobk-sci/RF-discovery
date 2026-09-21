@@ -29,10 +29,14 @@ mots_cles:
 - melatonin
 - oxidative stress
 - testicular toxicity
-auteurs: []
+auteurs:
+- Shokri M
+- Shamsaei ME
+- Malekshah AK
+- Amiri FT
 pmcid: ''
-volume: ''
-pages: ''
+volume: '52'
+pages: e13834
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

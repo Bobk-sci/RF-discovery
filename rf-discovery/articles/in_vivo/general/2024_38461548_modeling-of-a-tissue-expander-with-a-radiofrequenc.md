@@ -26,10 +26,16 @@ mots_cles:
 - postmastectomy radiation therapy
 - radiofrequency identification
 - tissue expander
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Matsubayashi F
+- Takahashi T
+- Miyauchi H
+- Ito Y
+- Harada A
+- Yoshioka Y
+pmcid: PMC11115439
+volume: '65'
+pages: 360-368
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

@@ -27,10 +27,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Aydin B
+- Akar A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '42'
+pages: 261-7
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -57,12 +59,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The present study investigated the effects of a 900-MHz electromagnetic field (EMF) for 2 h/day for 45 days on lymphoid organs (spleen, thymus, bone marrow), polymorphonuclear leukocytes (PMNs) and plasma of rats, focusing on changes in the enzymatic and nonenzymatic antioxidant system. We determined whether there is any difference between immature and mature rats in terms of oxidative damage caused by EMF and tested recovery groups to determine whether EMF-induced damage is reversible in immature and mature rats.
+BACKGROUND AND AIMS: The present study investigated the effects of a 900-MHz electromagnetic field (EMF) for 2 h/day for 45 days on lymphoid organs (spleen, thymus, bone marrow), polymorphonuclear leukocytes (PMNs) and plasma of rats, focusing on changes in the enzymatic and nonenzymatic antioxidant system. We determined whether there is any difference between immature and mature rats in terms of oxidative damage caused by EMF and tested recovery groups to determine whether EMF-induced damage is reversible in immature and mature rats.
 
-Twenty four immature and 24 mature rats were divided randomly and equally into six groups as follows: two control groups, immature (2 weeks old) and mature (10 weeks old); two groups were exposed to 900 MHz (28.2 ± 2.1 V/m) EMF for 2 h/day for 45 days. Two recovery groups were kept for 15 days after EMF exposure.
+METHODS: Twenty four immature and 24 mature rats were divided randomly and equally into six groups as follows: two control groups, immature (2 weeks old) and mature (10 weeks old); two groups were exposed to 900 MHz (28.2 ± 2.1 V/m) EMF for 2 h/day for 45 days. Two recovery groups were kept for 15 days after EMF exposure.
 
-Substantial, deleterious biochemical changes were observed in oxidative stress metabolism after EMF exposure. Antioxidant enzyme activity, glutathione levels in lymphoid organs and the antioxidant capacity of the plasma decreased, but lipid peroxidation and nitric oxide levels in PMNs and plasma and also myeloperoxidase activity in PMNs increased. Oxidative damage was tissue specific and improvements seen after the recovery period were limited, especially in immature rats.
+RESULTS: Substantial, deleterious biochemical changes were observed in oxidative stress metabolism after EMF exposure. Antioxidant enzyme activity, glutathione levels in lymphoid organs and the antioxidant capacity of the plasma decreased, but lipid peroxidation and nitric oxide levels in PMNs and plasma and also myeloperoxidase activity in PMNs increased. Oxidative damage was tissue specific and improvements seen after the recovery period were limited, especially in immature rats.
 
-In the present study, much higher levels of irreversible oxidative damage were observed in the major lymphoid organs of immature rats than in mature rats.
+CONCLUSIONS: In the present study, much higher levels of irreversible oxidative damage were observed in the major lymphoid organs of immature rats than in mature rats.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/21820603/)

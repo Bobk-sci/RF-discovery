@@ -19,10 +19,15 @@ mots_cles:
 - mood
 - performance
 - sleep
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Schwarz J
+- Freidle M
+- van Leeuwen W
+- Åkerstedt T
+- Kecklund G
+pmcid: PMC10701737
+volume: '14'
+pages: '1264881'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

@@ -25,9 +25,15 @@ mots_cles:
 - fluid intelligence
 - mobile phone screen exposure
 - working memory
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Poujol MC
+- Pinar-Martí A
+- Persavento C
+- Delgado A
+- Lopez-Vicente M
+- Julvez J
+pmcid: PMC9566493
+volume: '19'
 pages: ''
 modele: epidemiologie
 modele_score: 1004.0

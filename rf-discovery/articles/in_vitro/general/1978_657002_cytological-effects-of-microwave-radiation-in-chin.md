@@ -18,10 +18,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Alam MT
+- Barthakur N
+- Lambert NG
+- Kasatiya SS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '20'
+pages: 23-30
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []

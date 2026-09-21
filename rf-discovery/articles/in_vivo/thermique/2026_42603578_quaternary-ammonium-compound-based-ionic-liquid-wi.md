@@ -18,7 +18,19 @@ mots_cles:
 - Ionic liquid
 - Microneedle
 - Microwave response
-auteurs: []
+auteurs:
+- Li Z
+- Liu L
+- Song Y
+- Zhou Z
+- Zhou L
+- Cai X
+- Duan L
+- Dong Y
+- Zhao J
+- Hao L
+- Wang J
+- Jiang R
 pmcid: ''
 volume: ''
 pages: ''

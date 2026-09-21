@@ -26,10 +26,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Frei MR
+- Jauchem JR
+- Padilla JM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '21'
+pages: 65-72
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:

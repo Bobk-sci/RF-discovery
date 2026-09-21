@@ -16,10 +16,12 @@ mots_cles:
 - cognitive behavioral therapy
 - homework compliance
 - mobile apps
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Tang W
+- Kreindler D
+pmcid: PMC5481663
+volume: '4'
+pages: e20
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

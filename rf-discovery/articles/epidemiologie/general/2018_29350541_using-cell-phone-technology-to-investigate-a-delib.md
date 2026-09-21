@@ -29,10 +29,16 @@ mots_cles:
 - Epidemiologic investigation
 - National security
 - Outbreak
-auteurs: []
+auteurs:
+- Eisenkraft A
+- Afriat A
+- Hubary Y
+- Lev R
+- Shaul H
+- Balicer RD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '16'
+pages: 22-29
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

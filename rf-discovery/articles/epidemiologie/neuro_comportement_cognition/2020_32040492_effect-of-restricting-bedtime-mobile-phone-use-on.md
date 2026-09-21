@@ -26,10 +26,15 @@ types:
 - Randomized Controlled Trial
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- He JW
+- Tu ZH
+- Xiao L
+- Su T
+- Tang YX
+pmcid: PMC7010281
+volume: '15'
+pages: e0228756
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -50,12 +55,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sleep arousal, mood, and working memory.
+BACKGROUND: This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sleep arousal, mood, and working memory.
 
-Thirty-eight participants were randomized to either an intervention group (n = 19), where members were instructed to avoid using their mobile phone 30 minutes before bedtime, or a control group (n = 19), where the participants were given no such instructions. Sleep habit, sleep quality, pre-sleep arousal and mood were measured using the sleep diary, the Pittsburgh sleep quality index, the Pre-sleep Arousal Scale and the Positive and Negative Affect Schedule respectively. Working memory was tested by using the 0-,1-,2-back task (n-back task).
+METHODS: Thirty-eight participants were randomized to either an intervention group (n = 19), where members were instructed to avoid using their mobile phone 30 minutes before bedtime, or a control group (n = 19), where the participants were given no such instructions. Sleep habit, sleep quality, pre-sleep arousal and mood were measured using the sleep diary, the Pittsburgh sleep quality index, the Pre-sleep Arousal Scale and the Positive and Negative Affect Schedule respectively. Working memory was tested by using the 0-,1-,2-back task (n-back task).
 
-Restricting mobile phone use before bedtime for four weeks was effective in reducing sleep latency, increasing sleep duration, improving sleep quality, reducing pre-sleep arousal, and improving positive affect and working memory.
+RESULTS: Restricting mobile phone use before bedtime for four weeks was effective in reducing sleep latency, increasing sleep duration, improving sleep quality, reducing pre-sleep arousal, and improving positive affect and working memory.
 
-Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep arousal and increased sleep duration and working memory. This simple change to moderate usage was recommended to individuals with sleep disturbances.
+CONCLUSIONS: Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep arousal and increased sleep duration and working memory. This simple change to moderate usage was recommended to individuals with sleep disturbances.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32040492/)

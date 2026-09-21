@@ -23,10 +23,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Bergamaschi A
+- Magrini A
+- Ales G
+- Coppeta L
+- Somma G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '17'
+pages: 31-6
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

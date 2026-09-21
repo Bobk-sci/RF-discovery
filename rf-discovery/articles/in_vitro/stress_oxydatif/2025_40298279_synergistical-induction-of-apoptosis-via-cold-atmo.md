@@ -35,10 +35,17 @@ mots_cles:
 - nanohydroxyapatite
 - oral squamous cell carcinoma
 - reactive oxygen species
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Qi W
+- Liu H
+- Liu H
+- Guo Y
+- Wu L
+- Bao C
+- Liu X
+pmcid: PMC12508692
+volume: '58'
+pages: e70041
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:
@@ -66,6 +73,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Surgical resection, radiotherapy and chemotherapy are the primary strategies of treating cancers globally. However, the current treatment methods bring new disease burdens to patients due to postoperative complications and multiple side effects, especially in surface tumours such as oral squamous cell carcinoma (OSCC). In this study, we developed a microwave cold atmospheric plasma (CAP) device in conjunction with tumour microenvironment-responsive nanohydroxyapatite (nHA) for the first time. The synergistic effects of CAP and nHA combined application on OSCC were evaluated in both in vitro and in vivo experiments. The synergistic effects of CAP and pH-responsive NH-nHA on the apoptosis, intracellular reactive oxygen species (ROS) and calcium ion concentration of OSCC cells were investigated in vitro. The synergistic induction of CAP with NH-nHA exhibited optimal tumour-specific inhibitory effects on OSCC. The results revealed that the combined application of CAP with NH-nHA induced apoptosis of tumour cells in vitro and killed 84.0% of tumours in vivo. Mechanistically, CAP enhances extracellular ROS production, while NH-nHA amplifies intracellular calcium ion (Ca) concentrations, synergistically increasing intracellular ROS levels to provoke oxidative stress in OSCC cells, ultimately triggering the mitochondrial apoptosis pathway. In conclusion, the combined utilisation of CAP and NH-nHA presents a promising avenue as a novel, selective, and non-invasive strategy in the management of OSCC.
+Surgical resection, radiotherapy and chemotherapy are the primary strategies of treating cancers globally. However, the current treatment methods bring new disease burdens to patients due to postoperative complications and multiple side effects, especially in surface tumours such as oral squamous cell carcinoma (OSCC). In this study, we developed a microwave cold atmospheric plasma (CAP) device in conjunction with tumour microenvironment-responsive nanohydroxyapatite (nHA) for the first time. The synergistic effects of CAP and nHA combined application on OSCC were evaluated in both in vitro and in vivo experiments. The synergistic effects of CAP and pH-responsive NH2-nHA on the apoptosis, intracellular reactive oxygen species (ROS) and calcium ion concentration of OSCC cells were investigated in vitro. The synergistic induction of CAP with NH2-nHA exhibited optimal tumour-specific inhibitory effects on OSCC. The results revealed that the combined application of CAP with NH2-nHA induced apoptosis of tumour cells in vitro and killed 84.0% of tumours in vivo. Mechanistically, CAP enhances extracellular ROS production, while NH2-nHA amplifies intracellular calcium ion (Ca2+) concentrations, synergistically increasing intracellular ROS levels to provoke oxidative stress in OSCC cells, ultimately triggering the mitochondrial apoptosis pathway. In conclusion, the combined utilisation of CAP and NH2-nHA presents a promising avenue as a novel, selective, and non-invasive strategy in the management of OSCC.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/40298279/)

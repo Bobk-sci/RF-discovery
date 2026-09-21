@@ -22,10 +22,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Hung CS
+- Anderson C
+- Horne JA
+- McEvoy P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '421'
+pages: 82-6
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

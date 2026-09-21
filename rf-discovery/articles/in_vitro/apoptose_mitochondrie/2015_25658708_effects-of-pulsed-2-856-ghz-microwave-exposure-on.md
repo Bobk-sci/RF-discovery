@@ -30,10 +30,21 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Wang C
+- Wang X
+- Zhou H
+- Dong G
+- Guan X
+- Wang L
+- Xu X
+- Wang S
+- Chen P
+- Peng R
+- Hu X
+pmcid: PMC4319787
+volume: '10'
+pages: e0117550
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires:

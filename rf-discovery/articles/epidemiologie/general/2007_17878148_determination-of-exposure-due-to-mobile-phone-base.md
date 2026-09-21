@@ -20,10 +20,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Neitzke HP
+- Osterhoff J
+- Peklo K
+- Voigt H
 pmcid: ''
-volume: ''
-pages: ''
+volume: '124'
+pages: 35-9
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:

@@ -18,9 +18,15 @@ mots_cles:
 - microwave
 - modified chitosan
 - nanoparticles
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Basit HM
+- Mohd Amin MCI
+- Ng SF
+- Katas H
+- Shah SU
+- Khan NR
+pmcid: PMC7694694
+volume: '12'
 pages: ''
 modele: in_vitro
 modele_score: 1.0
@@ -39,6 +45,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-Improved physicochemical properties of chitosan-curcumin nanoparticulate carriers using microwave technology for skin burn wound application are reported. The microwave modified low molecular weight chitosan variant was used for nanoparticle formulation by ionic gelation method nanoparticles analyzed for their physicochemical properties. The antimicrobial activity againstandcultures, cytotoxicity and cell migration using human dermal fibroblasts-an adult cell line-were studied. The microwave modified chitosan variant had significantly reduced molecular weight, increased degree of deacetylation and decreased specific viscosity. The nanoparticles were nano-sized with high positive charge and good dispersibility with entrapment efficiency and drug content in between 99% and 100%, demonstrating almost no drug loss. Drug release was found to be sustained following Fickian the diffusion mechanism for drug release with higher cumulative drug release observed for formulation (F)2. The microwave treatment does not render a destructive effect on the chitosan molecule with the drug embedded in the core of nanoparticles. The optimized formulation precluded selected bacterial strain colonization, exerted no cytotoxic effect, and promoted cell migration within 24 h post application in comparison to blank and/or control application. Microwave modified low molecular weight chitosan-curcumin nanoparticles hold potential in delivery of curcumin into the skin to effectively treat skin manifestations.
+Improved physicochemical properties of chitosan-curcumin nanoparticulate carriers using microwave technology for skin burn wound application are reported. The microwave modified low molecular weight chitosan variant was used for nanoparticle formulation by ionic gelation method nanoparticles analyzed for their physicochemical properties. The antimicrobial activity against Staphylococcus aureus and Pseudomonas aeruginosa cultures, cytotoxicity and cell migration using human dermal fibroblasts-an adult cell line-were studied. The microwave modified chitosan variant had significantly reduced molecular weight, increased degree of deacetylation and decreased specific viscosity. The nanoparticles were nano-sized with high positive charge and good dispersibility with entrapment efficiency and drug content in between 99% and 100%, demonstrating almost no drug loss. Drug release was found to be sustained following Fickian the diffusion mechanism for drug release with higher cumulative drug release observed for formulation (F)2. The microwave treatment does not render a destructive effect on the chitosan molecule with the drug embedded in the core of nanoparticles. The optimized formulation precluded selected bacterial strain colonization, exerted no cytotoxic effect, and promoted cell migration within 24 h post application in comparison to blank and/or control application. Microwave modified low molecular weight chitosan-curcumin nanoparticles hold potential in delivery of curcumin into the skin to effectively treat skin manifestations.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33171959/)

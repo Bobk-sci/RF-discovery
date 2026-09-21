@@ -17,10 +17,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Mild KH
+- Andersen JB
+- Pedersen GF
 pmcid: ''
-volume: ''
-pages: ''
+volume: '31'
+pages: 52-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

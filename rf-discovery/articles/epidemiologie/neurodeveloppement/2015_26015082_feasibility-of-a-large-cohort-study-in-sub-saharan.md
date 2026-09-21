@@ -43,10 +43,26 @@ mots_cles:
 - chronic disease
 - injury
 - non-communicable
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Dalal S
+- Holmes MD
+- Laurence C
+- Bajunirwe F
+- Guwatudde D
+- Njelekela M
+- Adebamowo C
+- Nankya-Mutyoba J
+- Chiwanga FS
+- Volmink J
+- Ajayi I
+- Kalyesubula R
+- Reid TG
+- Dockery D
+- Hemenway D
+- Adami HO
+pmcid: PMC4444761
+volume: '8'
+pages: '27422'
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -69,14 +85,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Large prospective epidemiologic studies are vital in determining disease etiology and forming national health policy. Yet, such studies do not exist in sub-Saharan Africa (SSA) notwithstanding the growing burden of chronic diseases.
+BACKGROUND: Large prospective epidemiologic studies are vital in determining disease etiology and forming national health policy. Yet, such studies do not exist in sub-Saharan Africa (SSA) notwithstanding the growing burden of chronic diseases.
 
-We explored the feasibility of establishing a large-scale multicountry prospective study at five sites in four sub-Saharan countries.
+OBJECTIVE: We explored the feasibility of establishing a large-scale multicountry prospective study at five sites in four sub-Saharan countries.
 
-Based on country-specific considerations of feasibility, Nigeria enrolled health care professionals, South Africa and Tanzania enrolled teachers, and Uganda enrolled village residents at one rural and one periurban site each. All sites used a 6-month follow-up period but different approaches for data collection, namely standardized questionnaires filled out by participants or face-to-face interviews.
+DESIGN: Based on country-specific considerations of feasibility, Nigeria enrolled health care professionals, South Africa and Tanzania enrolled teachers, and Uganda enrolled village residents at one rural and one periurban site each. All sites used a 6-month follow-up period but different approaches for data collection, namely standardized questionnaires filled out by participants or face-to-face interviews.
 
-We enrolled 1415 participants from five sites (range 200-489) with a median age of 41 years. Approximately half had access to clean-burning cooking fuel and 70% to piped drinking water, yet 92% had access to a mobile phone. The prevalence of chronic diseases was 49% among 45- to 54-year-olds and was dominated by hypertension (21.7% overall) - ranging from 4.5 to 31.2% across sites - and a serious injury in the past 12 months (12.4% overall). About 80% of participants indicated willingness to provide blood samples. At 6-month follow-up, 68% completed a questionnaire (45 to 96% across sites) with evidence that mobile phones were particularly useful.
+RESULTS: We enrolled 1415 participants from five sites (range 200-489) with a median age of 41 years. Approximately half had access to clean-burning cooking fuel and 70% to piped drinking water, yet 92% had access to a mobile phone. The prevalence of chronic diseases was 49% among 45- to 54-year-olds and was dominated by hypertension (21.7% overall) - ranging from 4.5 to 31.2% across sites - and a serious injury in the past 12 months (12.4% overall). About 80% of participants indicated willingness to provide blood samples. At 6-month follow-up, 68% completed a questionnaire (45 to 96% across sites) with evidence that mobile phones were particularly useful.
 
-Our pilot study indicates that a large-scale prospective study in SSA is feasible, and the burden of chronic disease in SSA may already be substantial necessitating urgent etiologic research and primary prevention.
+CONCLUSIONS: Our pilot study indicates that a large-scale prospective study in SSA is feasible, and the burden of chronic disease in SSA may already be substantial necessitating urgent etiologic research and primary prevention.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/26015082/)

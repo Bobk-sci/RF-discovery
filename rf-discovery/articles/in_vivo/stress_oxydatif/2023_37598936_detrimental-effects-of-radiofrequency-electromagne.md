@@ -29,10 +29,19 @@ mots_cles:
 - Radiofrequency
 - Reactive oxygen species
 - Time-laps monitoring
-auteurs: []
+auteurs:
+- Koohestanidehaghi Y
+- Khalili MA
+- Fesahat F
+- Seify M
+- Mangoli E
+- Kalantar SM
+- Annarita Nottola S
+- Macchiarelli G
+- Grazia Palmerini M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '336'
+pages: '122411'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -59,6 +68,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Due to the increasing use of smart mobile phones, the impact of radiofrequency electromagnetic radiation (RF-EMR) on reproductive health has become a serious concern. This study investigated the effect of mobile phone RF-EMR with frequency 900-1800 MHZ on the mouse embryo morphokinetics and genotoxic effect in laboratory conditions. After ovarian stimulation in mice, the MII oocytes were collected and underwent by in vitro fertilization (IVF) method. The generated zygotes were divided into control and exposed groups. Then, the zygotes with 30 min of exposure to mobile phone RF-EMR, and the control zygotes without exposure, were incubated in the time-lapse for 5 days. The intracellular reactive oxygen species (ROS) level, morphokinetic, embryo viability rate, and Gene expression were evaluated. Exposure of zygotes to RF-EMR by inducing ROS caused a significant decrease in blastocyst viability (87.85 ± 2.86 versus 94.23 ± 2.44), delay in cleavage development (t-t) and also increased the time (in hours) to reach the blastocyst stage (97.44 ± 5.21 versus 92.56 ± 6.7) compared to the control group. A significant increase observed in mRNA levels of Hsp70 in exposed animals; while Sod gene expression showed a significant down-regulation in this group compared to the controls, respectively. However, there was no significant change in the transcript level of proapoptotic and antiapoptotic genes in embryos of the exposed group compared to the controls. RF-EMR emitted by mobile phone with a frequency of 900-1800 MHZ, through inducing the production of ROS and oxidative stress, could negatively affect the growth and development as well as the transcript levels of oxidative stress associated genes in the preimplantation embryos of mice.
+Due to the increasing use of smart mobile phones, the impact of radiofrequency electromagnetic radiation (RF-EMR) on reproductive health has become a serious concern. This study investigated the effect of mobile phone RF-EMR with frequency 900-1800 MHZ on the mouse embryo morphokinetics and genotoxic effect in laboratory conditions. After ovarian stimulation in mice, the MII oocytes were collected and underwent by in vitro fertilization (IVF) method. The generated zygotes were divided into control and exposed groups. Then, the zygotes with 30 min of exposure to mobile phone RF-EMR, and the control zygotes without exposure, were incubated in the time-lapse for 5 days. The intracellular reactive oxygen species (ROS) level, morphokinetic, embryo viability rate, and Gene expression were evaluated. Exposure of zygotes to RF-EMR by inducing ROS caused a significant decrease in blastocyst viability (87.85 ± 2.86 versus 94.23 ± 2.44), delay in cleavage development (t3-t12) and also increased the time (in hours) to reach the blastocyst stage (97.44 ± 5.21 versus 92.56 ± 6.7) compared to the control group. A significant increase observed in mRNA levels of Hsp70 in exposed animals; while Sod gene expression showed a significant down-regulation in this group compared to the controls, respectively. However, there was no significant change in the transcript level of proapoptotic and antiapoptotic genes in embryos of the exposed group compared to the controls. RF-EMR emitted by mobile phone with a frequency of 900-1800 MHZ, through inducing the production of ROS and oxidative stress, could negatively affect the growth and development as well as the transcript levels of oxidative stress associated genes in the preimplantation embryos of mice.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/37598936/)

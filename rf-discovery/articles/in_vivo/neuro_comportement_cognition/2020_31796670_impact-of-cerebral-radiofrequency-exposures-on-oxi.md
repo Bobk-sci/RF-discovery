@@ -33,10 +33,15 @@ mots_cles:
 - mobile phone
 - oxidative stress
 - radiofrequency
-auteurs: []
+auteurs:
+- Bouji M
+- Lecomte A
+- Gamez C
+- Blazy K
+- Villégier AS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '73'
+pages: 467-476
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -60,14 +65,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Alzheimer's disease (AD) is the most common type of neurodegenerative disease leading to dementia. Several studies suggested that mobile phone radiofrequency electromagnetic field (RF-EMF) exposures modified AD memory deficits in rodent models.
+BACKGROUND: Alzheimer's disease (AD) is the most common type of neurodegenerative disease leading to dementia. Several studies suggested that mobile phone radiofrequency electromagnetic field (RF-EMF) exposures modified AD memory deficits in rodent models.
 
-Here we aimed to test the hypothesis that RF-EMF exposure may modify memory through corticosterone and oxidative stress in the Samaritan rat model of AD.
+OBJECTIVE: Here we aimed to test the hypothesis that RF-EMF exposure may modify memory through corticosterone and oxidative stress in the Samaritan rat model of AD.
 
-Long-Evans male rats received intracerebroventricular infusion with ferrous sulphate, amyloid-beta 1-42 peptide, and buthionine-sufloximine (AD rats) or with vehicle (control rats). To mimic cell phone use, RF-EMF were exposed to the head for 1 month (5 days/week, in restraint). To look for hazard thresholds, high brain averaged specific absorption rates (BASAR) were tested: 1.5 W/Kg (15 min), 6 W/Kg (15 min), and 6 W/Kg (45 min). The sham group was in restraint for 45 min. Endpoints were spatial memory in the radial maze, plasmatic corticosterone, heme oxygenase-1 (HO1), and amyloid plaques.
+METHODS: Long-Evans male rats received intracerebroventricular infusion with ferrous sulphate, amyloid-beta 1-42 peptide, and buthionine-sufloximine (AD rats) or with vehicle (control rats). To mimic cell phone use, RF-EMF were exposed to the head for 1 month (5 days/week, in restraint). To look for hazard thresholds, high brain averaged specific absorption rates (BASAR) were tested: 1.5 W/Kg (15 min), 6 W/Kg (15 min), and 6 W/Kg (45 min). The sham group was in restraint for 45 min. Endpoints were spatial memory in the radial maze, plasmatic corticosterone, heme oxygenase-1 (HO1), and amyloid plaques.
 
-Results indicated similar corticosterone levels but impaired memory performances and increased cerebral staining of thioflavine and of HO1 in the sham AD rats compared to the controls. A correlative increase of cortical HO1 staining was the only effect of RF-EMF in control rats. In AD rats, RF-EMF exposures induced a correlative increase of hippocampal HO1 staining and reduced corticosterone.
+RESULTS: Results indicated similar corticosterone levels but impaired memory performances and increased cerebral staining of thioflavine and of HO1 in the sham AD rats compared to the controls. A correlative increase of cortical HO1 staining was the only effect of RF-EMF in control rats. In AD rats, RF-EMF exposures induced a correlative increase of hippocampal HO1 staining and reduced corticosterone.
 
-According to our data, neither AD nor control rats showed modified memory after RF-EMF exposures. Unlike control rats, AD rats showed higher hippocampal oxidative stress and reduced corticosterone with the higher BASAR. This data suggests more fragility related to neurodegenerative disease toward RF-EMF exposures.
+DISCUSSION: According to our data, neither AD nor control rats showed modified memory after RF-EMF exposures. Unlike control rats, AD rats showed higher hippocampal oxidative stress and reduced corticosterone with the higher BASAR. This data suggests more fragility related to neurodegenerative disease toward RF-EMF exposures.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/31796670/)

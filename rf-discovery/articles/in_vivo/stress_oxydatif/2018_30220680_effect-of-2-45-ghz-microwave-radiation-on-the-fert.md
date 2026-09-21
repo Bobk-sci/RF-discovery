@@ -21,10 +21,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Jonwal C
+- Sisodia R
+- Saxena VK
+- Kesari KK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '37'
+pages: 453-460
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

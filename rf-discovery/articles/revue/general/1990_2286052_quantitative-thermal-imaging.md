@@ -24,10 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Ring EF
 pmcid: ''
-volume: ''
-pages: ''
+volume: 11 Suppl A
+pages: 87-95
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

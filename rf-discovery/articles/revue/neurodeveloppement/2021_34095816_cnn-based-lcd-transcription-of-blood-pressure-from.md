@@ -18,10 +18,15 @@ mots_cles:
 - hypertension
 - optical character recognition
 - preeclampsia
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Kulkarni SS
+- Katebi N
+- Valderrama CE
+- Rohloff P
+- Clifford GD
+pmcid: PMC8177819
+volume: '4'
+pages: '543176'
 modele: revue
 modele_score: 1.0
 modele_secondaires:

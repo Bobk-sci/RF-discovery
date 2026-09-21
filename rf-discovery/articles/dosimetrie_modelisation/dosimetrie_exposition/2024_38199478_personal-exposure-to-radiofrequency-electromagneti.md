@@ -26,10 +26,14 @@ mots_cles:
 - National
 - RF-EMF personal exposure
 - Reference levels
-auteurs: []
+auteurs:
+- Ramirez-Vazquez R
+- Escobar I
+- Vandenbosch GAE
+- Arribas E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '246'
+pages: '118124'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

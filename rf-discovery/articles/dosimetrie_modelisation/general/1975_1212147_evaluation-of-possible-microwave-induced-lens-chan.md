@@ -20,10 +20,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Shacklett DE
+- Tredici TJ
+- Epstein DL
 pmcid: ''
-volume: ''
-pages: ''
+volume: '46'
+pages: 1403-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

@@ -34,10 +34,13 @@ mots_cles:
 - bacterial growth
 - cell phone
 - skin microbiota
-auteurs: []
+auteurs:
+- Crabtree DPE
+- Herrera BJ
+- Kang S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '55'
+pages: 809-815
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

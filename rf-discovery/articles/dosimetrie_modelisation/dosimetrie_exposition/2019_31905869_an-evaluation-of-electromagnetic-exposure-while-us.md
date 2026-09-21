@@ -20,9 +20,13 @@ mots_cles:
 - public health
 - radiofrequency sensor
 - specific energy absorption rate (SAR)
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Zradziński P
+- Karpowicz J
+- Gryz K
+- Ramos V
+pmcid: PMC6982864
+volume: '20'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.0

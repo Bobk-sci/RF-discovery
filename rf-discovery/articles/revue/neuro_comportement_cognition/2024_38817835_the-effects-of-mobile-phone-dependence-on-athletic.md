@@ -18,10 +18,15 @@ mots_cles:
 - neurobiological mechanism
 - sports performance
 - theoretical model
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Mei Z
+- Zhang Y
+- Fan Q
+- Luo S
+- Luo S
+pmcid: PMC11138105
+volume: '15'
+pages: '1391258'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

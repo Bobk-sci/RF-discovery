@@ -31,10 +31,15 @@ mots_cles:
 - cytotoxicity
 - microwave irradiation
 - one-pot synthesis
-auteurs: []
+auteurs:
+- Tantak MP
+- Mukherjee DD
+- Kumar A
+- Chakrabarti G
+- Kumar D
 pmcid: ''
-volume: ''
-pages: ''
+volume: '17'
+pages: 442-455
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires: []
@@ -62,10 +67,10 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The clinical success of the chemotherapeutic drugs is restricted by the nonspecific toxicity-related adverse side effects. The diverse implication of indoles and thiazoles in medicinal chemistry prompted us to develop a new series of novel 2-aryl-amino-4-(3'-indolyl)thiazoles as more effective and less toxic anti-cancer compounds.
+BACKGROUND AND OBJECTIVE: The clinical success of the chemotherapeutic drugs is restricted by the nonspecific toxicity-related adverse side effects. The diverse implication of indoles and thiazoles in medicinal chemistry prompted us to develop a new series of novel 2-aryl-amino-4-(3'-indolyl)thiazoles as more effective and less toxic anti-cancer compounds.
 
-One-pot microwave-assisted rapid and high yielding synthesis of 2-arylamino-4-(3'- indolyl)thiazoles involved the reaction of easily available α-tosyloxy-ketones with N-arylthioureas in polyethylene glycol-400 (PEG-400). In vitro cytotoxicity study of 2-arylamino-4-(3'-indolyl)thiazoles against a panel of human cancer cell lines by MTT assay revealed IC50 values in the low micromolar range. Of the fifteen synthesized arylaminothiazoles, compounds 17b, 17d, 17g and 17il showed significant anti-proliferative activity against the selected cancer cell lines with IC50 < 10 μM. The compound 17b was identified as the most potent ligand of the series, which exhibited good cytotoxic activity against MCF-7 breast cancer cells with an IC50 value of 1.86 μM but minimal toxicity on normal human cells. Investigation of the underlying mechanism by flow cytometry indicated that 17b induced ROS-mediated apoptosis in MCF-7 cells in a dose-dependent manner as supported by upregulation of Bax and caspase-3 and down-regulation of Bcl-2 (by Western blot).
+METHOD AND RESULTS: One-pot microwave-assisted rapid and high yielding synthesis of 2-arylamino-4-(3'- indolyl)thiazoles involved the reaction of easily available α-tosyloxy-ketones with N-arylthioureas in polyethylene glycol-400 (PEG-400). In vitro cytotoxicity study of 2-arylamino-4-(3'-indolyl)thiazoles against a panel of human cancer cell lines by MTT assay revealed IC50 values in the low micromolar range. Of the fifteen synthesized arylaminothiazoles, compounds 17b, 17d, 17g and 17il showed significant anti-proliferative activity against the selected cancer cell lines with IC50 < 10 μM. The compound 17b was identified as the most potent ligand of the series, which exhibited good cytotoxic activity against MCF-7 breast cancer cells with an IC50 value of 1.86 μM but minimal toxicity on normal human cells. Investigation of the underlying mechanism by flow cytometry indicated that 17b induced ROS-mediated apoptosis in MCF-7 cells in a dose-dependent manner as supported by upregulation of Bax and caspase-3 and down-regulation of Bcl-2 (by Western blot).
 
-Developed an efficient and eco-friendly synthesis for 2-arylamino-4-(3'-indolyl)thiazoles, and their in vitro cytotoxicity studies demonstrate that compound 17b exhibits significant anti-proliferative activity against MCF-7 (breast cancer) cells by activating ROS-mediated apoptosis through the mitochondrial apoptosis pathway.
+CONCLUSION: Developed an efficient and eco-friendly synthesis for 2-arylamino-4-(3'-indolyl)thiazoles, and their in vitro cytotoxicity studies demonstrate that compound 17b exhibits significant anti-proliferative activity against MCF-7 (breast cancer) cells by activating ROS-mediated apoptosis through the mitochondrial apoptosis pathway.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/27338299/)

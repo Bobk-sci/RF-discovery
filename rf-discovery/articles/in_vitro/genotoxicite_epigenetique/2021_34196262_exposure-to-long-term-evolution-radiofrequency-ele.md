@@ -29,10 +29,19 @@ mots_cles:
 - cell proliferation
 - mTOR
 - pRb
-auteurs: []
+auteurs:
+- Kim JH
+- Jeon S
+- Choi HD
+- Lee JH
+- Bae JS
+- Kim N
+- Kim HG
+- Kim KB
+- Kim HR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '84'
+pages: 846-857
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires:

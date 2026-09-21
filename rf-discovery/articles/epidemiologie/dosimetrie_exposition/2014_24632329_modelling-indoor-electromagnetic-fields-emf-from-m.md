@@ -27,10 +27,19 @@ mots_cles:
 - Indoor
 - Modelling
 - Radio wave propagation
-auteurs: []
+auteurs:
+- Beekhuizen J
+- Vermeulen R
+- van Eijsden M
+- van Strien R
+- Bürgi A
+- Loomans E
+- Guxens M
+- Kromhout H
+- Huss A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '67'
+pages: 22-6
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:

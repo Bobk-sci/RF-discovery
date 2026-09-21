@@ -26,10 +26,19 @@ mots_cles:
 - headache
 - prediction
 - random forest
-auteurs: []
+auteurs:
+- Stubberud A
+- Ingvaldsen SH
+- Brenner E
+- Winnberg I
+- Olsen A
+- Gravdahl GB
+- Matharu MS
+- Nachev P
+- Tronvik E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: '3331024231169244'
 modele: epidemiologie
 modele_score: 1000.0
 modele_secondaires: []
@@ -48,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Triggers, premonitory symptoms and physiological changes occur in the preictal migraine phase and may be used in models for forecasting attacks. Machine learning is a promising option for such predictive analytics. The objective of this study was to explore the utility of machine learning to forecast migraine attacks based on preictal headache diary entries and simple physiological measurements.
+INTRODUCTION: Triggers, premonitory symptoms and physiological changes occur in the preictal migraine phase and may be used in models for forecasting attacks. Machine learning is a promising option for such predictive analytics. The objective of this study was to explore the utility of machine learning to forecast migraine attacks based on preictal headache diary entries and simple physiological measurements.
 
-In a prospective development and usability study 18 patients with migraine completed 388 headache diary entries and self-administered app-based biofeedback sessions wirelessly measuring heart rate, peripheral skin temperature and muscle tension. Several standard machine learning architectures were constructed to forecast headache the subsequent day. Models were scored with area under the receiver operating characteristics curve.
+METHODS: In a prospective development and usability study 18 patients with migraine completed 388 headache diary entries and self-administered app-based biofeedback sessions wirelessly measuring heart rate, peripheral skin temperature and muscle tension. Several standard machine learning architectures were constructed to forecast headache the subsequent day. Models were scored with area under the receiver operating characteristics curve.
 
-Two-hundred-and-ninety-five days were included in the predictive modelling. The top performing model, based on random forest classification, achieved an area under the receiver operating characteristics curve of 0.62 in a hold-out partition of the dataset.
+RESULTS: Two-hundred-and-ninety-five days were included in the predictive modelling. The top performing model, based on random forest classification, achieved an area under the receiver operating characteristics curve of 0.62 in a hold-out partition of the dataset.
 
-In this study we demonstrate the utility of using mobile health apps and wearables combined with machine learning to forecast headache. We argue that high-dimensional modelling may greatly improve forecasting and discuss important considerations for future design of forecasting models using machine learning and mobile health data.
+DISCUSSION: In this study we demonstrate the utility of using mobile health apps and wearables combined with machine learning to forecast headache. We argue that high-dimensional modelling may greatly improve forecasting and discuss important considerations for future design of forecasting models using machine learning and mobile health data.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/37096352/)

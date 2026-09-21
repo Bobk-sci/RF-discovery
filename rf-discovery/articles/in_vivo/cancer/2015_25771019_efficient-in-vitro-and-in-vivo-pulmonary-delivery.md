@@ -40,10 +40,18 @@ mots_cles:
 - In vivo delivery
 - Polyethyleneimine
 - RNA interference
-auteurs: []
+auteurs:
+- Pierrat P
+- Wang R
+- Kereselidze D
+- Lux M
+- Didier P
+- Kichler A
+- Pons F
+- Lebeau L
 pmcid: ''
-volume: ''
-pages: ''
+volume: '51'
+pages: 290-302
 modele: in_vivo
 modele_score: 1006.5
 modele_secondaires:

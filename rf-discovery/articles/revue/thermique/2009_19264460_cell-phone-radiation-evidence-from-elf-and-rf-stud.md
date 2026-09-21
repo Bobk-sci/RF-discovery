@@ -14,10 +14,11 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Blackman C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '16'
+pages: 205-16
 modele: revue
 modele_score: 1.0
 modele_secondaires:

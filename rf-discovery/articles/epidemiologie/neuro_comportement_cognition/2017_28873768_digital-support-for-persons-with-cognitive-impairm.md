@@ -26,10 +26,14 @@ mots_cles:
 - feedback mechanisms
 - mobile technology
 - text message
-auteurs: []
+auteurs:
+- Andreassen M
+- Boman IL
+- Danielsson H
+- Hemmingsson H
 pmcid: ''
-volume: ''
-pages: ''
+volume: '242'
+pages: 5-8
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

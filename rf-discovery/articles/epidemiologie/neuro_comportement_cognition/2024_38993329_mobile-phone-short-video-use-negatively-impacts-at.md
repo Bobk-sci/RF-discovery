@@ -18,10 +18,15 @@ mots_cles:
 - attention network
 - executive control
 - mobile phone short-form video
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Yan T
+- Su C
+- Xue W
+- Hu Y
+- Zhou H
+pmcid: PMC11236742
+volume: '18'
+pages: '1383913'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -43,6 +48,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The pervasive nature of short-form video platforms has seamlessly integrated into daily routines, yet it is important to recognize their potential adverse effects on both physical and mental health. Prior research has identified a detrimental impact of excessive short-form video consumption on attentional behavior, but the underlying neural mechanisms remain unexplored. In the current study, we aimed to investigate the effect of short-form video use on attentional functions, measured through the attention network test (ANT). A total of 48 participants, consisting of 35 females and 13 males, with a mean age of 21.8 years, were recruited. The mobile phone short video addiction tendency questionnaire (MPSVATQ) and self-control scale (SCS) were conducted to assess the short video usage behavior and self-control ability. Electroencephalogram (EEG) data were recorded during the completion of the ANT task. The correlation analysis showed a significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region (= -0.395,= 0.007), this result was not observed by using theta power index of the resting-state EEG data. Furthermore, a significant negative correlation was identified between MPSVATQ and SCS outcomes (= -0.320,= 0.026). These results suggest that an increased tendency toward mobile phone short video addiction could negatively impact self-control and diminish executive control within the realm of attentional functions. This study sheds light on the adverse consequences stemming from short video consumption and underscores the importance of developing interventions to mitigate short video addiction.
+The pervasive nature of short-form video platforms has seamlessly integrated into daily routines, yet it is important to recognize their potential adverse effects on both physical and mental health. Prior research has identified a detrimental impact of excessive short-form video consumption on attentional behavior, but the underlying neural mechanisms remain unexplored. In the current study, we aimed to investigate the effect of short-form video use on attentional functions, measured through the attention network test (ANT). A total of 48 participants, consisting of 35 females and 13 males, with a mean age of 21.8 years, were recruited. The mobile phone short video addiction tendency questionnaire (MPSVATQ) and self-control scale (SCS) were conducted to assess the short video usage behavior and self-control ability. Electroencephalogram (EEG) data were recorded during the completion of the ANT task. The correlation analysis showed a significant negative relationship between MPSVATQ and theta power index reflecting the executive control in the prefrontal region (r = -0.395, p = 0.007), this result was not observed by using theta power index of the resting-state EEG data. Furthermore, a significant negative correlation was identified between MPSVATQ and SCS outcomes (r = -0.320, p = 0.026). These results suggest that an increased tendency toward mobile phone short video addiction could negatively impact self-control and diminish executive control within the realm of attentional functions. This study sheds light on the adverse consequences stemming from short video consumption and underscores the importance of developing interventions to mitigate short video addiction.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38993329/)

@@ -26,10 +26,21 @@ mots_cles:
 - machine learning
 - mobile imaging
 - thyroid
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Assaad S
+- Dov D
+- Davis R
+- Kovalsky S
+- Lee WT
+- Kahmke R
+- Rocke D
+- Cohen J
+- Henao R
+- Carin L
+- Range DE
+pmcid: PMC10293075
+volume: '36'
+pages: '100129'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

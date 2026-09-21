@@ -24,10 +24,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Fukui Y
+- Hoshino K
+- Inouye M
+- Kameyama Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '33'
+pages: 1-10
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

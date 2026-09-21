@@ -26,10 +26,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Leite L
+- Buresh M
+- Rios N
+- Conley A
+- Flys T
+- Page KR
+pmcid: PMC3681917
+volume: '16'
+pages: 661-9
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

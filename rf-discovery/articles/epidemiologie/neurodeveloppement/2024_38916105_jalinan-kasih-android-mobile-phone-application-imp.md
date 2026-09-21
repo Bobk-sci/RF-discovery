@@ -30,10 +30,15 @@ mots_cles:
 - knowledge
 - marriage age
 - practice
-auteurs: []
+auteurs:
+- Andriani L
+- Simbolon D
+- Riastuti F
+- Villia A
+- Muslim Z
 pmcid: ''
-volume: ''
-pages: ''
+volume: '28'
+pages: 47-54
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

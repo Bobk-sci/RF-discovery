@@ -29,10 +29,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Kalns J
+- Ryan KL
+- Mason PA
+- Bruno JG
+- Gooden R
+- Kiel JL
 pmcid: ''
-volume: ''
-pages: ''
+volume: '13'
+pages: 52-9
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

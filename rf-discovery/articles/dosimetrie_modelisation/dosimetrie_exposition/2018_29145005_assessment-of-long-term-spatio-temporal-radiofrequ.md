@@ -26,10 +26,14 @@ mots_cles:
 - Radiofrequency electromagnetic fields
 - Spatio-temporal exposure assessment
 - Telecommunications
-auteurs: []
+auteurs:
+- Aerts S
+- Wiart J
+- Martens L
+- Joseph W
 pmcid: ''
-volume: ''
-pages: ''
+volume: '161'
+pages: 136-143
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

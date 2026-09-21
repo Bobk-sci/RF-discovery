@@ -2,33 +2,36 @@
 pmid: '39472595'
 doi: 10.1038/s41598-024-74685-x
 annee: 2024
-journal: ''
+journal: Scientific reports
 titre: Miniaturized circularly polarized wearable array antenna for medical device
   applications.
 url: https://pubmed.ncbi.nlm.nih.gov/39472595/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Equipment Design
-- Miniaturization
-- Wireless Technology
 - Wearable Electronic Devices
+- Miniaturization
+- Equipment Design
+- Wireless Technology
+- Humans
 types:
-- research-article
 - Journal Article
 mots_cles:
+- Array antenna
+- Circular polarization
+- ISM band
 - Medical application
-- Circular Polarization
-- Patch Antenna
-- Ism Band
-- Array Antenna
-- Sequential-phase Feed Network
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- Patch antenna
+- Sequential-phase feed network
+auteurs:
+- Omran M
+- Ghobadi C
+- Nourinia J
+- Shokri M
+pmcid: PMC11522514
+volume: '14'
+pages: '26036'
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:
@@ -47,7 +50,7 @@ theme_indices:
 
 # Miniaturized circularly polarized wearable array antenna for medical device applications.
 
-*journal non renseigné — 2024*
+*Scientific reports — 2024*
 
 ## Résumé (texte d'origine)
 

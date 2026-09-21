@@ -13,10 +13,12 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Kundi M
+- Hutter HP
 pmcid: ''
-volume: ''
-pages: ''
+volume: '16'
+pages: 123-35
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

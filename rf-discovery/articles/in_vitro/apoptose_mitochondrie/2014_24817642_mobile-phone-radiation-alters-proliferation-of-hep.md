@@ -22,10 +22,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ozgur E
+- Guler G
+- Kismali G
+- Seyhan N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '70'
+pages: 983-91
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:

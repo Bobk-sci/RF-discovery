@@ -21,10 +21,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Israel M
+- Zaryabova V
+- Ivanova M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '32'
+pages: 145-54
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

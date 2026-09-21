@@ -13,10 +13,11 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Goldsmith JR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '1'
+pages: 47-57
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

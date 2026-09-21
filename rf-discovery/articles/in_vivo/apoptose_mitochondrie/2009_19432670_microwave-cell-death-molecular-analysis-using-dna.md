@@ -27,10 +27,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Mori I
+- Ozaki T
+- Tabuse K
+- Utsunomiya H
+- Taniguchi E
+- Kakudo K
 pmcid: ''
-volume: ''
-pages: ''
+volume: '59'
+pages: 294-9
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

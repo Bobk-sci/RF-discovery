@@ -31,10 +31,18 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Parker JE
+- Beason CW
+- Sturgeon SP
+- Voorhees WB
+- Johnson SS
+- Nelson KS
+- Johnson LR
+- Whitmore JN
 pmcid: ''
-volume: ''
-pages: ''
+volume: '119'
+pages: 206-215
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

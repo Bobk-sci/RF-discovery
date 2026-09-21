@@ -26,10 +26,12 @@ mots_cles:
 - mobile phone
 - reproductive health
 - sperm
-auteurs: []
+auteurs:
+- Negi P
+- Singh R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '40'
+pages: 92-102
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

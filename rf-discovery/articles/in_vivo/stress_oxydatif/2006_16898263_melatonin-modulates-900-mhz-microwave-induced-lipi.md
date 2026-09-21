@@ -23,10 +23,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Köylü H
+- Mollaoglu H
+- Ozguner F
+- Naziroglu M
+- Delibas N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '22'
+pages: 211-6
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []

@@ -24,10 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Erwin DN
 pmcid: ''
-volume: ''
-pages: ''
+volume: '59'
+pages: A21-31
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

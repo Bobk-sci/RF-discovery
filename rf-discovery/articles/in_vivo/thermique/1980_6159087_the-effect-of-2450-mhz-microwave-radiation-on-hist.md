@@ -21,10 +21,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ortner MJ
+- Galvin MJ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '2'
+pages: 127-38
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

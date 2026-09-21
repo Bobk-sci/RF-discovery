@@ -27,10 +27,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Morrissey JJ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '123'
+pages: 490-7
 modele: epidemiologie
 modele_score: 5.5
 modele_secondaires:

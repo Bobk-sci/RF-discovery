@@ -26,10 +26,17 @@ mots_cles:
 - magnetic resonance imaging
 - reconstruction
 - twin fetuses
-auteurs: []
+auteurs:
+- Zhang C
+- Li C
+- Yang L
+- Hou W
+- Du M
+- Wu T
+- Chen W
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 160-173
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

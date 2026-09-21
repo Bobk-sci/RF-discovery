@@ -25,10 +25,30 @@ mots_cles:
 - Non-ionizing radiation
 - Radiofrequency electromagnetic fields (RF-EMF)
 - Spatio-temporal exposure measurements
-auteurs: []
+auteurs:
+- Van Bladel H
+- Veludo AF
+- Loizeau N
+- Röösli M
+- Maule M
+- Vecsei Z
+- Molnár O
+- Vrijkotte T
+- Polanska K
+- Politański P
+- Mamrot P
+- Wang S
+- Wiart J
+- Grellier J
+- Kovalenko A
+- Hulls PM
+- De Vocht F
+- Vaupotiĉ N
+- Guxens M
+- Joseph W
 pmcid: ''
-volume: ''
-pages: ''
+volume: '1047'
+pages: '182037'
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

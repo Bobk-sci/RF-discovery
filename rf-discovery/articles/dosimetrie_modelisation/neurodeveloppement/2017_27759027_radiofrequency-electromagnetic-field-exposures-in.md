@@ -2,27 +2,32 @@
 pmid: '27759027'
 doi: 10.1038/jes.2016.55
 annee: 2017
-journal: ''
+journal: Journal of exposure science & environmental epidemiology
 titre: Radiofrequency-electromagnetic field exposures in kindergarten children.
 url: https://pubmed.ncbi.nlm.nih.gov/27759027/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Environmental Exposure
+- Child, Preschool
 - Electromagnetic Fields
+- Environmental Exposure
+- Humans
 - Radio Waves
 - Schools
-- Child, Preschool
 - Victoria
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Bhatt CR
+- Redmayne M
+- Billah B
+- Abramson MJ
+- Benke G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '27'
+pages: 497-504
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -39,7 +44,7 @@ theme_indices:
 
 # Radiofrequency-electromagnetic field exposures in kindergarten children.
 
-*journal non renseigné — 2017*
+*Journal of exposure science & environmental epidemiology — 2017*
 
 ## Résumé (texte d'origine)
 

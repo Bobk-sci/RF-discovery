@@ -28,10 +28,17 @@ mots_cles:
 - DNA oxidative damage
 - Lipid peroxidation
 - Mobile phone radiation
-auteurs: []
+auteurs:
+- Sahin D
+- Ozgur E
+- Guler G
+- Tomruk A
+- Unlu I
+- Sepici-Dinçel A
+- Seyhan N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '75'
+pages: 94-8
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

@@ -15,10 +15,13 @@ types:
 mots_cles:
 - Noise-induced hearing loss
 - Radiofrequency radiation
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Meriç F
+- Daşdağ S
+- Vergili K
+pmcid: PMC2723273
+volume: '3'
+pages: 55-8
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

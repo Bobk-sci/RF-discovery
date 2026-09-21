@@ -25,10 +25,13 @@ mots_cles:
 - gender
 - mobile phones
 - self-efficacy
-auteurs: []
+auteurs:
+- Krishnan A
+- Khurana P
+- Yang F
 pmcid: ''
-volume: ''
-pages: ''
+volume: '25'
+pages: 471-475
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

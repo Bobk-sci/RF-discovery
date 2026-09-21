@@ -28,10 +28,12 @@ mots_cles:
 - gene expression
 - morphology
 - viability
-auteurs: []
+auteurs:
+- Manna D
+- Ghosh R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '35'
+pages: 265-301
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

@@ -29,10 +29,11 @@ mots_cles:
 - genotoxicity
 - mutagenicity
 - nanomaterials
-auteurs: []
+auteurs:
+- Elespuru RK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '65'
+pages: 301-314
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

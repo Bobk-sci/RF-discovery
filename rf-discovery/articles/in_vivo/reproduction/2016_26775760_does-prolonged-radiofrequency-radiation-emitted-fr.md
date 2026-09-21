@@ -29,10 +29,16 @@ mots_cles:
 - Comet assay
 - DNA damage
 - Wi-Fi
-auteurs: []
+auteurs:
+- Akdag MZ
+- Dasdag S
+- Canturk F
+- Karabulut D
+- Caner Y
+- Adalier N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '75'
+pages: 116-22
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

@@ -18,9 +18,23 @@ mots_cles:
 - colorectal cancer
 - hyperthermia
 - radiofrequency
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Wust P
+- Veltsista PD
+- Oberacker E
+- Yavvari P
+- Walther W
+- Bengtsson O
+- Sterner-Kock A
+- Weinhart M
+- Heyd F
+- Grabowski P
+- Stintzing S
+- Heinrich W
+- Stein U
+- Ghadjar P
+pmcid: PMC9655505
+volume: '14'
 pages: ''
 modele: in_vivo
 modele_score: 1.0

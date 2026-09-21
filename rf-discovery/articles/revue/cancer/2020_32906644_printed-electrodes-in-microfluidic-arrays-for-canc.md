@@ -31,9 +31,13 @@ mots_cles:
 - inkjet-printed electrodes
 - protein
 - screen-printed electrodes
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Dhanapala L
+- Krause CE
+- Jones AL
+- Rusling JF
+pmcid: PMC7559629
+volume: '10'
 pages: ''
 modele: revue
 modele_score: 1002.0

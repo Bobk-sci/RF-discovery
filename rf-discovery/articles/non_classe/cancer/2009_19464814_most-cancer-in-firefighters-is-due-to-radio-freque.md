@@ -20,10 +20,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Milham S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '73'
+pages: 788-9
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

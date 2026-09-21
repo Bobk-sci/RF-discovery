@@ -25,10 +25,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Mohler E
+- Frei P
+- Braun-Fahrländer C
+- Fröhlich J
+- Neubauer G
+- Röösli M
+- Qualifex Team
 pmcid: ''
-volume: ''
-pages: ''
+volume: '174'
+pages: 347-56
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

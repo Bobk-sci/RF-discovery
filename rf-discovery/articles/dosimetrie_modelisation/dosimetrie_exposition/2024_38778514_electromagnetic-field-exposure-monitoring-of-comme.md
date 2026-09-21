@@ -2,35 +2,40 @@
 pmid: '38778514'
 doi: 10.1002/bem.22505
 annee: 2024
-journal: ''
+journal: Bioelectromagnetics
 titre: Electromagnetic field exposure monitoring of commercial 28-GHz band 5G base
   stations in Tokyo, Japan.
 url: https://pubmed.ncbi.nlm.nih.gov/38778514/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Radiation Monitoring
-- Environmental Exposure
 - Electromagnetic Fields
-- Radio Waves
-- Japan
 - Tokyo
 - Wireless Technology
+- Radiation Monitoring
+- Radio Waves
+- Environmental Exposure
 - Smartphone
+- Humans
+- Japan
 types:
 - Journal Article
 mots_cles:
-- Exposure Monitoring
-- Mobile Phone Base Station
-- Fifth Generation
-- Quasi‐millimeter/millimeter Wave
-- Radio Frequency‐electromagnetic Field
-auteurs: []
+- exposure monitoring
+- fifth generation
+- mobile phone base station
+- quasi‐millimeter/millimeter wave
+- radio frequency‐electromagnetic field
+auteurs:
+- Liu S
+- Tobita K
+- Onishi T
+- Taki M
+- Watanabe S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '45'
+pages: 281-292
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -45,7 +50,7 @@ theme_indices:
 
 # Electromagnetic field exposure monitoring of commercial 28-GHz band 5G base stations in Tokyo, Japan.
 
-*journal non renseigné — 2024*
+*Bioelectromagnetics — 2024*
 
 ## Résumé (texte d'origine)
 

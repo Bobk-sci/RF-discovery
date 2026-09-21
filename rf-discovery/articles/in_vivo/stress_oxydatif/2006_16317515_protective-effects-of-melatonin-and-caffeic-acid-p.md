@@ -33,10 +33,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ozguner F
+- Bardak Y
+- Comlekci S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '282'
+pages: 83-8
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

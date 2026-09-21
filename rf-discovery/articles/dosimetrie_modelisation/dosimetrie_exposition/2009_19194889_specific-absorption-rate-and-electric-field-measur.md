@@ -21,10 +21,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Toivonen T
+- Toivo T
+- Puranen L
+- Jokela K
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 307-12
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:

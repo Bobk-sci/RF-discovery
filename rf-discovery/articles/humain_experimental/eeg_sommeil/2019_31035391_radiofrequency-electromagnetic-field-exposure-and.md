@@ -34,9 +34,17 @@ mots_cles:
 - exposure limits
 - mobile phones
 - radiofrequency electromagnetic fields
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Loughran SP
+- Verrender A
+- Dalecki A
+- Burdon CA
+- Tagami K
+- Park J
+- Taylor NAS
+- Croft RJ
+pmcid: PMC6539668
+volume: '16'
 pages: ''
 modele: humain_experimental
 modele_score: 6.5

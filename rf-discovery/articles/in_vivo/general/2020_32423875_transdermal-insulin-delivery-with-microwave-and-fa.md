@@ -34,10 +34,13 @@ mots_cles:
 - Microwave
 - Oleic acid
 - Transdermal
-auteurs: []
+auteurs:
+- Harjoh N
+- Wong TW
+- Caramella C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '584'
+pages: '119416'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

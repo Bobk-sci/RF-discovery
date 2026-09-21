@@ -24,10 +24,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Elmoslemany AM
+- Ghamry HI
+- Awad AA
+- El-Kholy RI
+- Almami ISM
+- Alyamani NM
+- Zedan AMG
+pmcid: PMC10020533
+volume: '13'
+pages: '4406'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

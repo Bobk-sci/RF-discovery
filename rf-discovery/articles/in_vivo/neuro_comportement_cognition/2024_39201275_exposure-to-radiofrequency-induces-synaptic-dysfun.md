@@ -35,9 +35,15 @@ mots_cles:
 - radiofrequency electromagnetic fields
 - spatial learning and memory
 - synapse
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Kim JH
+- Seok JY
+- Kim YH
+- Kim HJ
+- Lee JK
+- Kim HR
+pmcid: PMC11355025
+volume: '25'
 pages: ''
 modele: in_vivo
 modele_score: 5.5

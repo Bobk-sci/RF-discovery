@@ -26,10 +26,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Hazra A
+- Khan ME
+- Mondal SK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '23'
+pages: 542-549
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

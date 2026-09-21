@@ -26,10 +26,26 @@ types:
 - Research Support, N.I.H., Extramural
 - Systematic Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Farge D
+- Frere C
+- Connors JM
+- Ay C
+- Khorana AA
+- Munoz A
+- Brenner B
+- Kakkar A
+- Rafii H
+- Solymoss S
+- Brilhante D
+- Monreal M
+- Bounameaux H
+- Pabinger I
+- Douketis J
+- International Initiative on Thrombosis and Cancer (ITAC) advisory panel
 pmcid: ''
-volume: ''
-pages: ''
+volume: '20'
+pages: e566-e581
 modele: revue
 modele_score: 1004.0
 modele_secondaires: []

@@ -26,10 +26,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Brightwell WS
+- Shaw PB
+- Werren D
+- Edwards RM
+- Lary JM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 621-34
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

@@ -19,9 +19,16 @@ mots_cles:
 - glioblastoma multiforme
 - protective factor
 - risk factor
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Grochans S
+- Cybulska AM
+- Simińska D
+- Korbecki J
+- Kojder K
+- Chlubek D
+- Baranowska-Bosiacka I
+pmcid: PMC9139611
+volume: '14'
 pages: ''
 modele: revue
 modele_score: 1002.5

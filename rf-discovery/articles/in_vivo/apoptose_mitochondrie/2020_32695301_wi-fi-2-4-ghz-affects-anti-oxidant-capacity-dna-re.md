@@ -18,10 +18,17 @@ mots_cles:
 - DNA repair
 - Placenta
 - Radiation exposure
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Vafaei H
+- Kavari G
+- Izadi HR
+- Zare Dorahi Z
+- Dianatpour M
+- Daneshparvar A
+- Jamhiri I
+pmcid: PMC7351435
+volume: '23'
+pages: 833-840
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -46,12 +53,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The placenta provides nutrients and oxygen to embryo and removes waste products from embryo's blood. As far as we know, the effects of exposure to Wi-Fi (2.4 GHz) signals on placenta have not been evaluated. Hence, we examined the effect of prenatal exposure to Wi-Fi signals on anti-oxidant capacity, expressions of CDKNA1, and GADD45a as well as apoptosis in placenta and pregnancy outcome.
+OBJECTIVES: The placenta provides nutrients and oxygen to embryo and removes waste products from embryo's blood. As far as we know, the effects of exposure to Wi-Fi (2.4 GHz) signals on placenta have not been evaluated. Hence, we examined the effect of prenatal exposure to Wi-Fi signals on anti-oxidant capacity, expressions of CDKNA1, and GADD45a as well as apoptosis in placenta and pregnancy outcome.
 
-Pregnant mice were exposed to Wi-Fi signal (2.4 GHz) for 2 and 4 hr. Placenta tissues were examined to measure the MDA and SOD levels. To measure SOD, CDKNA1, GADD45a, Bax, and Bcl-2 expressions were compared by real-time PCR analysis. TUNEL assay was used to assess apoptosis in placenta tissues. The results were analyzed by one-way analysis of variance (ANOVA) using Prism version 6.0 software.
+MATERIALS AND METHODS: Pregnant mice were exposed to Wi-Fi signal (2.4 GHz) for 2 and 4 hr. Placenta tissues were examined to measure the MDA and SOD levels. To measure SOD, CDKNA1, GADD45a, Bax, and Bcl-2 expressions were compared by real-time PCR analysis. TUNEL assay was used to assess apoptosis in placenta tissues. The results were analyzed by one-way analysis of variance (ANOVA) using Prism version 6.0 software.
 
-MDA and SOD levels had significantly increased in exposed Wi-Fi signal groups (-value< 0.05). Also, quantitative PCR experiment showed that SOD mRNA expression significantly increased in Wi-Fi signal groups. The data showed that CDKN1A and GADD45a genes were increased in Wi-Fi groups (-value<0.05). The quantitative PCR and the TUNEL assay showed that apoptosis increased in Wi-Fi groups (-value<0.05).
+RESULTS: MDA and SOD levels had significantly increased in exposed Wi-Fi signal groups (P-value< 0.05). Also, quantitative PCR experiment showed that SOD mRNA expression significantly increased in Wi-Fi signal groups. The data showed that CDKN1A and GADD45a genes were increased in Wi-Fi groups (P-value<0.05). The quantitative PCR and the TUNEL assay showed that apoptosis increased in Wi-Fi groups (P-value<0.05).
 
-Our results provide evidence that Wi-Fi signals increase lipid peroxidation, SOD activity (oxidative stres), apoptosis and CDKN1A and GADD45a overexpression in mice placenta tissue. However, further experimental studies are warranted to investigate other genes and aspects of pregnancy to determine the role of Wi-Fi radiation on fertility and pregnancy.
+CONCLUSION: Our results provide evidence that Wi-Fi signals increase lipid peroxidation, SOD activity (oxidative stres), apoptosis and CDKN1A and GADD45a overexpression in mice placenta tissue. However, further experimental studies are warranted to investigate other genes and aspects of pregnancy to determine the role of Wi-Fi radiation on fertility and pregnancy.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32695301/)

@@ -21,10 +21,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Roggeveen S
+- van Os J
+- Viechtbauer W
+- Lousberg R
+pmcid: PMC4459698
+volume: '10'
+pages: e0129496
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires: []

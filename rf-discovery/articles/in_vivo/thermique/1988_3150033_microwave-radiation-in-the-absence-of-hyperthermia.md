@@ -23,10 +23,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Browning MD
+- Haycock JW
 pmcid: ''
-volume: ''
-pages: ''
+volume: '10'
+pages: 461-4
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

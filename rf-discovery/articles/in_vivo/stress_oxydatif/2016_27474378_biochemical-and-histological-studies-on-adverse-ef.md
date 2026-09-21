@@ -32,10 +32,13 @@ mots_cles:
 - Mobile phone
 - Oxidative stress
 - Radiofrequency radiation
-auteurs: []
+auteurs:
+- Hussein S
+- El-Saba AA
+- Galal MK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '78'
+pages: 10-19
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

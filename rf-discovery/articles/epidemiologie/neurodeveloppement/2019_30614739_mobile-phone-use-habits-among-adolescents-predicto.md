@@ -24,10 +24,18 @@ mots_cles:
 - children
 - extensive use
 - mobile phone
-auteurs: []
+auteurs:
+- Hirsh-Yechezkel G
+- Mandelzweig L
+- Novikov I
+- Bar-Yosef N
+- Livneh I
+- Oren M
+- Waysberg R
+- Sadetzki S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '22'
+pages: 212-219
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:

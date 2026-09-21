@@ -17,10 +17,12 @@ mots_cles:
 - Brain Cancer
 - Mobile Phones
 - Radiofrequency fields
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Vijayalaxmi
+- Prihoda TJ
+pmcid: PMC4146338
+volume: '12'
+pages: 509-14
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

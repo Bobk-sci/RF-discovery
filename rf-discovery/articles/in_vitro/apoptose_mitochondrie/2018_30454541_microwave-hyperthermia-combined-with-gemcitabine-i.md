@@ -31,10 +31,14 @@ mots_cles:
 - Lung squamous cell carcinoma
 - Microwave hyperthermia
 - Proliferation
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Yang Y
+- Zhao Y
+- Ma S
+- Yang D
+pmcid: PMC6247007
+volume: '21'
+pages: 805-814
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires: []
@@ -63,12 +67,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Lung cancer is one of the highest morbidity and mortality in the world and it is very important to find an effective anti-tumor method. Microwave hyperthermia, a new treatment technology, has been getting more and more attention. This study was designed to investigate the effects of microwave hyperthermia combined with gemcitabine on the proliferation and apoptosis of human lung squamous cell carcinoma (NCI-H1703 and NCI-H2170) in vitro.
+BACKGROUND: Lung cancer is one of the highest morbidity and mortality in the world and it is very important to find an effective anti-tumor method. Microwave hyperthermia, a new treatment technology, has been getting more and more attention. This study was designed to investigate the effects of microwave hyperthermia combined with gemcitabine on the proliferation and apoptosis of human lung squamous cell carcinoma (NCI-H1703 and NCI-H2170) in vitro.
 
-The proliferation of cells treated with microwave hyperthermia, the effect of gemcitabine on cell proliferation and the proliferation of cells treated with different methods of microwave hyperthermia and gemcitabine were detected by CCK-8 assay. Colony formation assay was used to measure the colony formation of human lung squamous cell carcinoma cells. Flow cytometry assay was used to detect the total apoptosis rates of the treated cells. Caspase-3, Caspase-8 activity assay was used to detect the activity of Caspase-3, Caspase-8 enzyme in each group of cells. CCK-8 assay was used to detect the effect of control group, AC-DEVD (Caspase-3 inhibitor) group, thermalization combined group, and thermal AC-DEVD combined group on cell proliferation. The levels of p53, Caspase-3, Cleaved-Caspase-3, PARP, Bax and BCL-2 protein expression were detected using Western blot assay.
+METHODS: The proliferation of cells treated with microwave hyperthermia, the effect of gemcitabine on cell proliferation and the proliferation of cells treated with different methods of microwave hyperthermia and gemcitabine were detected by CCK-8 assay. Colony formation assay was used to measure the colony formation of human lung squamous cell carcinoma cells. Flow cytometry assay was used to detect the total apoptosis rates of the treated cells. Caspase-3, Caspase-8 activity assay was used to detect the activity of Caspase-3, Caspase-8 enzyme in each group of cells. CCK-8 assay was used to detect the effect of control group, AC-DEVD (Caspase-3 inhibitor) group, thermalization combined group, and thermal AC-DEVD combined group on cell proliferation. The levels of p53, Caspase-3, Cleaved-Caspase-3, PARP, Bax and BCL-2 protein expression were detected using Western blot assay.
 
-Our results demonstrated that microwave hyperthermia inhibited the proliferation of lung squamous cell carcinoma. The IC₅₀ values of gemcitabine for the two cells were 8.89 μmol/L and 44.18 μmol/L, respectively. The first chemotherapy after microwave hyperthermia has synergistic effect on the two lung squamous cell carcinoma cells and can significantly inhibit the cell clone formation (P<0.001), promote cell apoptosis (P<0.001) and increase Caspase-3 enzyme activity (P<0.001). However, it has no effect on Caspase-8 enzyme activity (P>0.05). Furthermore, Western blot analysis showed that microwave hyperthermia combined with gemcitabine could up-regulate the p53, Caspase-3, Cleaved-Caspase-3, Cleaved-PARP and Bax protein expression.
+RESULTS: Our results demonstrated that microwave hyperthermia inhibited the proliferation of lung squamous cell carcinoma. The IC₅₀ values of gemcitabine for the two cells were 8.89 μmol/L and 44.18 μmol/L, respectively. The first chemotherapy after microwave hyperthermia has synergistic effect on the two lung squamous cell carcinoma cells and can significantly inhibit the cell clone formation (P<0.001), promote cell apoptosis (P<0.001) and increase Caspase-3 enzyme activity (P<0.001). However, it has no effect on Caspase-8 enzyme activity (P>0.05). Furthermore, Western blot analysis showed that microwave hyperthermia combined with gemcitabine could up-regulate the p53, Caspase-3, Cleaved-Caspase-3, Cleaved-PARP and Bax protein expression.
 
-Microwave hyperthermia combined with gemcitabine remarkably inhibit the proliferation and induce apoptosis of human lung squamous cell carcinoma in vitro. This effect may be associated with the activation of p53, cleavage of PARP protein, and induced the Caspase-3 dependent apoptosis.
+CONCLUSIONS: Microwave hyperthermia combined with gemcitabine remarkably inhibit the proliferation and induce apoptosis of human lung squamous cell carcinoma in vitro. This effect may be associated with the activation of p53, cleavage of PARP protein, and induced the Caspase-3 dependent apoptosis.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/30454541/)

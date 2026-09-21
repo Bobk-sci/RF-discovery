@@ -30,10 +30,18 @@ mots_cles:
 - Male fertility
 - PI3K
 - Sperm parameters
-auteurs: []
+auteurs:
+- Keskin I
+- Karabulut S
+- Kaplan AA
+- Alagöz M
+- Akdeniz M
+- Tüfekci KK
+- Davis DL
+- Kaplan S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '130'
+pages: '108744'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

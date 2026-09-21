@@ -21,10 +21,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Bonato M
+- Dossi L
+- Chiaramello E
+- Benini M
+- Gallucci S
+- Fiocchi S
+- Tognola G
+- Parazzini M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '2021'
+pages: 595-599
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires: []

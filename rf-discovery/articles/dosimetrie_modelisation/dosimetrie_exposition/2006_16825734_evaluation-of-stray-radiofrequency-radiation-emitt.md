@@ -24,10 +24,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- De Marco M
+- Maggi S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '51'
+pages: 3347-58
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

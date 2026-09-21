@@ -32,10 +32,15 @@ mots_cles:
 - biocompatibility
 - free radical scavenging
 - modulatory effect
-auteurs: []
+auteurs:
+- Pardhiya S
+- Gaharwar US
+- Parambil AM
+- Nirala JP
+- Rajamani P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '58'
+pages: 194-216
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

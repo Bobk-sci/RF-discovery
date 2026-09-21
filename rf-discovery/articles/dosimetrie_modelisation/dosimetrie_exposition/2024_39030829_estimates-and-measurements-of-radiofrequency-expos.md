@@ -22,10 +22,13 @@ mots_cles:
 - multiple IoT devices
 - predictive software
 - public exposure limits
-auteurs: []
+auteurs:
+- Joyner K
+- Milligan M
+- Knipe P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '45'
+pages: 329-337
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

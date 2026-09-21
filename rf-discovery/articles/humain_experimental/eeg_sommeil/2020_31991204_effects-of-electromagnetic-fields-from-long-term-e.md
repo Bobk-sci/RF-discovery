@@ -26,10 +26,15 @@ mots_cles:
 - LTE
 - Power spectrum
 - mobile phone
-auteurs: []
+auteurs:
+- Nakatani-Enomoto S
+- Yamazaki M
+- Nishiura K
+- Enomoto H
+- Ugawa Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '156'
+pages: 102-107
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

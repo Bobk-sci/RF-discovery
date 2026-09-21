@@ -23,10 +23,15 @@ mots_cles:
 - phone
 - radiation
 - seizure
-auteurs: []
+auteurs:
+- Asadi-Pooya AA
+- Mirzaei Damabi N
+- Rostaminejad M
+- Shahisavandi M
+- Asadi-Pooya A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '144'
+pages: 355-365
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

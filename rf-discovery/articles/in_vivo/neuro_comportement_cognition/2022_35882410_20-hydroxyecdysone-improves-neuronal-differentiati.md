@@ -28,10 +28,17 @@ mots_cles:
 - High power microwave
 - Hippocampus
 - Learning and memory
-auteurs: []
+auteurs:
+- Liu JJ
+- Zhang HY
+- Chen X
+- Zhang GB
+- Lin JK
+- Feng H
+- Chu WH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '35'
+pages: 504-517
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires:
@@ -59,12 +66,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The hippocampus is thought to be a vulnerable target of microwave exposure. The aim of the present study was to investigate whether 20-hydroxyecdysone (20E) acted as a fate regulator of adult rat hippocampal neural stem cells (NSCs). Furthermore, we investigated if 20E attenuated high power microwave (HMP) radiation-induced learning and memory deficits.
+OBJECTIVE: The hippocampus is thought to be a vulnerable target of microwave exposure. The aim of the present study was to investigate whether 20-hydroxyecdysone (20E) acted as a fate regulator of adult rat hippocampal neural stem cells (NSCs). Furthermore, we investigated if 20E attenuated high power microwave (HMP) radiation-induced learning and memory deficits.
 
-Sixty male Sprague-Dawley rats were randomly divided into three groups: normal controls, radiation treated, and radiation+20E treated. Rats in the radiation and radiation+20E treatment groups were exposed to HPM radiation from a microwave emission system. The learning and memory abilities of the rats were assessed using the Morris water maze test. Primary adult rat hippocampal NSCs were isolatedand cultured to evaluate their proliferation and differentiation. In addition, hematoxylin & eosin staining, western blotting, and immunofluorescence were used to detect changes in the rat brain and the proliferation and differentiation of the adult rat hippocampal NSCs after HPM radiation exposure.
+METHODS: Sixty male Sprague-Dawley rats were randomly divided into three groups: normal controls, radiation treated, and radiation+20E treated. Rats in the radiation and radiation+20E treatment groups were exposed to HPM radiation from a microwave emission system. The learning and memory abilities of the rats were assessed using the Morris water maze test. Primary adult rat hippocampal NSCs were isolated in vitro and cultured to evaluate their proliferation and differentiation. In addition, hematoxylin & eosin staining, western blotting, and immunofluorescence were used to detect changes in the rat brain and the proliferation and differentiation of the adult rat hippocampal NSCs after HPM radiation exposure.
 
-The results showed that 20E induced neuronal differentiation of adult hippocampal NSCs from HPM radiation-exposed ratsthe Wnt3a/β-catenin signaling pathway. Furthermore, 20E facilitated neurogenesis in the subgranular zone of the rat brain following HPM radiation exposure. Administration of 20E attenuated learning and memory deficits in HPM radiation-exposed rats and frizzled-related protein (FRZB) reduced the 20E-induced nuclear translocation of β-catenin, while FRZB treatment also reversed 20E-induced neuronal differentiation of NSCs.
+RESULTS: The results showed that 20E induced neuronal differentiation of adult hippocampal NSCs from HPM radiation-exposed rats via the Wnt3a/β-catenin signaling pathway in vitro. Furthermore, 20E facilitated neurogenesis in the subgranular zone of the rat brain following HPM radiation exposure. Administration of 20E attenuated learning and memory deficits in HPM radiation-exposed rats and frizzled-related protein (FRZB) reduced the 20E-induced nuclear translocation of β-catenin, while FRZB treatment also reversed 20E-induced neuronal differentiation of NSCs in vitro.
 
-These results suggested that 20E was a fate regulator of adult rat hippocampal NSCs, where it played a role in attenuating HPM radiation-induced learning and memory deficits.
+CONCLUSION: These results suggested that 20E was a fate regulator of adult rat hippocampal NSCs, where it played a role in attenuating HPM radiation-induced learning and memory deficits.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35882410/)

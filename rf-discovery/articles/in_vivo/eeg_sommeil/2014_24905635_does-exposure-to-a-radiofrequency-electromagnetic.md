@@ -24,10 +24,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Pelletier A
+- Delanaud S
+- de Seze R
+- Bach V
+- Libert JP
+- Loos N
+pmcid: PMC4048227
+volume: '9'
+pages: e99007
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

@@ -27,10 +27,13 @@ mots_cles:
 - microwave
 - pathophysiology
 - rats
-auteurs: []
+auteurs:
+- Sharma A
+- Shrivastava S
+- Shukla S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '68'
+pages: 1092-1100
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -56,14 +59,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-In the era of globalization, too much dependency on mobile phones is a cause of concern.
+INTRODUCTION: In the era of globalization, too much dependency on mobile phones is a cause of concern.
 
-The present study was designed to evaluate the risk assessment of microwave radiation (MWR) at 1800 MHz frequency and specific absorption rate 0.433 (W/kg) on male Wistar rats.
+OBJECTIVE: The present study was designed to evaluate the risk assessment of microwave radiation (MWR) at 1800 MHz frequency and specific absorption rate 0.433 (W/kg) on male Wistar rats.
 
-Animals were divided into two groups: the first group is the control group, and the second group was exposed to 1800 MHz radiation for 90 days at 4 h/5 days/week in a month.
+METHODOLOGY: Animals were divided into two groups: the first group is the control group, and the second group was exposed to 1800 MHz radiation for 90 days at 4 h/5 days/week in a month.
 
-Chronic exposure of MWR may alter GSH homeostasis due to alteration in various GSH cycle regulating enzymes such as GR, GPx, GST, and G6PDH which showed an imbalance in GSH content and causes an increase in the oxidative stress and release of inflammatory cytokines. A remarkable increase in the DNA damage was seen due to disorganization and pyknosis of neurons in exposed animal's brain when compared with the control group (P ≤ 0.05). There was also a significant decline in AChE level.
+RESULTS: Chronic exposure of MWR may alter GSH homeostasis due to alteration in various GSH cycle regulating enzymes such as GR, GPx, GST, and G6PDH which showed an imbalance in GSH content and causes an increase in the oxidative stress and release of inflammatory cytokines. A remarkable increase in the DNA damage was seen due to disorganization and pyknosis of neurons in exposed animal's brain when compared with the control group (P ≤ 0.05). There was also a significant decline in AChE level.
 
-The study concludes that MWR may cause neurochemical and pathophysiological damage by initiating the inflammatory process in various brain regions, especially in hippocampus and cerebral cortex. These effects are further associated with a remarkable elevation in the genotoxicity of neurons with reference to the control group.
+CONCLUSION: The study concludes that MWR may cause neurochemical and pathophysiological damage by initiating the inflammatory process in various brain regions, especially in hippocampus and cerebral cortex. These effects are further associated with a remarkable elevation in the genotoxicity of neurons with reference to the control group.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33109858/)

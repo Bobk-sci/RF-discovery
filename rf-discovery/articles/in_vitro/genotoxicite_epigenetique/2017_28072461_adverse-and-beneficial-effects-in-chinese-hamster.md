@@ -29,10 +29,15 @@ mots_cles:
 - genotoxic effect
 - micronuclei
 - radiofrequency
-auteurs: []
+auteurs:
+- Sannino A
+- Zeni O
+- Romeo S
+- Massa R
+- Scarfi MR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 245-254
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:

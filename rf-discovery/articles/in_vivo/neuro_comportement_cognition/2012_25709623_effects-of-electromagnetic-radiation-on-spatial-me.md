@@ -22,10 +22,15 @@ mots_cles:
 - quantitative analysis
 - synapse
 - ultrastructure
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Li Y
+- Shi C
+- Lu G
+- Xu Q
+- Liu S
+pmcid: PMC4336960
+volume: '7'
+pages: 1248-55
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

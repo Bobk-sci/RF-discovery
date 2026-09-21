@@ -29,10 +29,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Lee JY
+- Hwang JY
 pmcid: ''
-volume: ''
-pages: ''
+volume: '62'
+pages: 324-8
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:

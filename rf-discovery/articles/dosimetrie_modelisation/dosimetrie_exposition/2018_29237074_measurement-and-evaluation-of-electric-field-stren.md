@@ -21,10 +21,13 @@ types:
 - Evaluation Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Kurnaz C
+- Korunur Engiz B
+- Bozkurt MC
 pmcid: ''
-volume: ''
-pages: ''
+volume: '179'
+pages: 282-290
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []

@@ -31,10 +31,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Krieg EF
+- Snyder DL
+- Edwards RM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '18'
+pages: 349-59
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

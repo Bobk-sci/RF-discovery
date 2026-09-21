@@ -18,9 +18,19 @@ mots_cles:
 - electromagnetic fields
 - exposure assessment
 - measurement equipment
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Deprez K
+- Colussi L
+- Korkmaz E
+- Aerts S
+- Land D
+- Littel S
+- Verloock L
+- Plets D
+- Joseph W
+- Bolte J
+pmcid: PMC10056984
+volume: '23'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0

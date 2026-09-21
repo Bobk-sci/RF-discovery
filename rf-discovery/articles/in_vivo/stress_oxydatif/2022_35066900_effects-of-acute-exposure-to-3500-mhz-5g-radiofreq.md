@@ -29,10 +29,17 @@ mots_cles:
 - auditory cortex
 - oxidative stress
 - radiofrequency electromagnetic radiation
-auteurs: []
+auteurs:
+- Yang H
+- Zhang Y
+- Wu X
+- Gan P
+- Luo X
+- Zhong S
+- Zuo W
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 106-118
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

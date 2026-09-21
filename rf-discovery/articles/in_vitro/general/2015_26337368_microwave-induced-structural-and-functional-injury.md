@@ -30,10 +30,22 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Wang LF
+- Wei L
+- Qiao SM
+- Gao XN
+- Gao YB
+- Wang SM
+- Zhao L
+- Dong J
+- Xu XP
+- Zhou HM
+- Hu XJ
+- Peng RY
 pmcid: ''
-volume: ''
-pages: ''
+volume: '82'
+pages: 181-94
 modele: in_vitro
 modele_score: 1002.5
 modele_secondaires:

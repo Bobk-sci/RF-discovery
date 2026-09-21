@@ -29,10 +29,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Kolmodin-Hedman B
+- Hansson Mild K
+- Hagberg M
+- Jönsson E
+- Andersson MC
+- Eriksson A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '60'
+pages: 243-7
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

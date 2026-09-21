@@ -23,10 +23,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Lin JC
 pmcid: ''
-volume: ''
-pages: ''
+volume: '25'
+pages: 146-59
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

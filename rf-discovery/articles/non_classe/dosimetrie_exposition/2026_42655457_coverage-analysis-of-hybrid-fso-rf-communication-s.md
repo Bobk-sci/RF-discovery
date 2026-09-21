@@ -2,27 +2,32 @@
 pmid: '42655457'
 doi: 10.3390/s26165149
 annee: 2026
-journal: ''
+journal: Sensors (Basel, Switzerland)
 titre: Coverage Analysis of Hybrid FSO/RF Communication Systems with Selection Combining
   in High-Speed Railway Scenarios.
 url: https://pubmed.ncbi.nlm.nih.gov/42655457/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Coverage Analysis
-- Selection Combining
-- Edge Coverage Probability
-- High-speed Railway Communications
-- Percentage Of Cell Coverage Area
-- Hybrid Fso/rf System
-auteurs: []
-pmcid: ''
-volume: ''
+- coverage analysis
+- edge coverage probability
+- high-speed railway communications
+- hybrid FSO/RF system
+- percentage of cell coverage area
+- selection combining
+auteurs:
+- Zhang X
+- Dong S
+- Yan XR
+- Li Z
+- Li YY
+- Wang JY
+pmcid: PMC13517919
+volume: '26'
 pages: ''
 modele: non_classe
 modele_score: 0.0
@@ -37,7 +42,7 @@ theme_indices:
 
 # Coverage Analysis of Hybrid FSO/RF Communication Systems with Selection Combining in High-Speed Railway Scenarios.
 
-*journal non renseigné — 2026*
+*Sensors (Basel, Switzerland) — 2026*
 
 ## Résumé (texte d'origine)
 

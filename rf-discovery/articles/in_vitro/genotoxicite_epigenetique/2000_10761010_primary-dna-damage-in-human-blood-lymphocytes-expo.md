@@ -21,10 +21,15 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Vijayalaxmi
+- Leal BZ
+- Szilagyi M
+- Prihoda TJ
+- Meltz ML
 pmcid: ''
-volume: ''
-pages: ''
+volume: '153'
+pages: 479-86
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires:

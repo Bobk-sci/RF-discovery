@@ -20,10 +20,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Aledavood T
+- Kivimäki I
+- Lehmann S
+- Saramäki J
+pmcid: PMC8975853
+volume: '12'
+pages: '5544'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

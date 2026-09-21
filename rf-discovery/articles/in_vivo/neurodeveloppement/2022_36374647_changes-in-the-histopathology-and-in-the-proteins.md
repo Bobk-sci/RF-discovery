@@ -31,10 +31,16 @@ mots_cles:
 - ERK1/2
 - MAPK
 - Pre and postnatal exposure
-auteurs: []
+auteurs:
+- Tan B
+- Canturk Tan F
+- Yalcin B
+- Dasdag S
+- Yegin K
+- Yay AH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '126'
+pages: '102187'
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

@@ -19,10 +19,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Olsen RG
+- Griner TA
 pmcid: ''
-volume: ''
-pages: ''
+volume: '64'
+pages: 633-7
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

@@ -24,10 +24,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ayinmode BO
+- Farai IP
 pmcid: ''
-volume: ''
-pages: ''
+volume: '156'
+pages: 424-8
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

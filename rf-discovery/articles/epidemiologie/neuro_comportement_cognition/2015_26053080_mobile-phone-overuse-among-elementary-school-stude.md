@@ -25,10 +25,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Kim R
+- Lee KJ
+- Choi YJ
 pmcid: ''
-volume: ''
-pages: ''
+volume: '26'
+pages: 81-5
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

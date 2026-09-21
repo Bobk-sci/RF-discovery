@@ -2,26 +2,26 @@
 pmid: '32683815'
 doi: 10.3345/cep.2019.01494
 annee: 2020
-journal: ''
+journal: Clinical and experimental pediatrics
 titre: Health effects of electromagnetic fields on children.
 url: https://pubmed.ncbi.nlm.nih.gov/32683815/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- review-article
 - Journal Article
 mots_cles:
 - Child
 - Electromagnetic field
+- Extremely low frequency
 - Radiofrequency
-- Extremely Low Frequency
-- Smart Device
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- Smart device
+auteurs:
+- Moon JH
+pmcid: PMC7642138
+volume: '63'
+pages: 422-428
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -37,7 +37,7 @@ theme_indices:
 
 # Health effects of electromagnetic fields on children.
 
-*journal non renseigné — 2020*
+*Clinical and experimental pediatrics — 2020*
 
 ## Résumé (texte d'origine)
 

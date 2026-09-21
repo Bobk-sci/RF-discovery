@@ -26,9 +26,13 @@ mots_cles:
 - depression
 - insomnia
 - mobile phone
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Tamura H
+- Nishida T
+- Tsuji A
+- Sakakibara H
+pmcid: PMC5551139
+volume: '14'
 pages: ''
 modele: epidemiologie
 modele_score: 1002.0

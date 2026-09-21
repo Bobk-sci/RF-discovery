@@ -24,10 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ward TR
+- Svensgaard DJ
+- Spiegel RJ
+- Puckett ET
+- Long MD
+- Kinn JB
 pmcid: ''
-volume: ''
-pages: ''
+volume: '7'
+pages: 243-58
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

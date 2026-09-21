@@ -20,10 +20,12 @@ mots_cles:
 - neurotechnology
 - wireless communication
 - wireless power transfer
-auteurs: []
+auteurs:
+- Kim HJ
+- Ho JS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '380'
+pages: '20210020'
 modele: revue
 modele_score: 1003.0
 modele_secondaires:

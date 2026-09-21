@@ -23,10 +23,17 @@ mots_cles:
 - Hydrogen peroxide
 - Non-thermal
 - Stress-marker genes
-auteurs: []
+auteurs:
+- Porcher A
+- Girard S
+- Bonnet P
+- Rouveure R
+- Guérin V
+- Paladian F
+- Vian A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '286'
+pages: '153999'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -49,6 +56,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Numerous studies report different types of responses following exposure of plants to high frequency electromagnetic fields (HF-EMF). While this phenomenon is related to tissue heating in animals, the situation is much less straightforward in plants where metabolic changes seem to occur without tissue temperature increase. We have set up an exposure system allowing reliable measurements of tissue heating (using a reflectometric probe and thermal imaging) after a long exposure (30 min) to an electromagnetic field of 2.45 GHz transmitted through a horn antenna (about 100 V mat the plant level). We did not observe any heating of the tissues, but we detected rapid increases (60 min) in the accumulation of transcripts of stress-related genes (TCH1 and ZAT12 transcription factor) or involved in ROS metabolism (RBOHF and APX1). At the same time, the amounts of hydrogen peroxide and dehydroascorbic acid increased while glutathione (reduced and oxidized forms), ascorbic acid, and lipid peroxidation remained stable. Therefore, our results unambiguously show that molecular and biochemical responses occur rapidly (within 60min) in plants after exposure to an electromagnetic field, in absence of tissue heating.
+Numerous studies report different types of responses following exposure of plants to high frequency electromagnetic fields (HF-EMF). While this phenomenon is related to tissue heating in animals, the situation is much less straightforward in plants where metabolic changes seem to occur without tissue temperature increase. We have set up an exposure system allowing reliable measurements of tissue heating (using a reflectometric probe and thermal imaging) after a long exposure (30 min) to an electromagnetic field of 2.45 GHz transmitted through a horn antenna (about 100 V m-1 at the plant level). We did not observe any heating of the tissues, but we detected rapid increases (60 min) in the accumulation of transcripts of stress-related genes (TCH1 and ZAT12 transcription factor) or involved in ROS metabolism (RBOHF and APX1). At the same time, the amounts of hydrogen peroxide and dehydroascorbic acid increased while glutathione (reduced and oxidized forms), ascorbic acid, and lipid peroxidation remained stable. Therefore, our results unambiguously show that molecular and biochemical responses occur rapidly (within 60min) in plants after exposure to an electromagnetic field, in absence of tissue heating.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/37210775/)

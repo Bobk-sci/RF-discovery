@@ -31,10 +31,21 @@ mots_cles:
 - g-ratio
 - mobile phone
 - oxidative stress
-auteurs: []
+auteurs:
+- Özdemir E
+- Çömelekoğlu Ü
+- Degirmenci E
+- Bayrak G
+- Yildirim M
+- Ergenoglu T
+- Coşkun Yılmaz B
+- Korunur Engiz B
+- Yalin S
+- Koyuncu DD
+- Ozbay E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '40'
+pages: 198-206
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -58,12 +69,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Rapid development in mobile phone technologies increase the average mobile phone usage duration. This increase also triggers exposure to radiofrequency radiation (RF), which is a risk factor for the health. In this study, it was aimed to investigate the effect of mobile phone working with LTE-Advanced Pro (4.5 G) mobile network on the optic nerve, which is responsible for the transmission of visual information.
+PURPOSE: Rapid development in mobile phone technologies increase the average mobile phone usage duration. This increase also triggers exposure to radiofrequency radiation (RF), which is a risk factor for the health. In this study, it was aimed to investigate the effect of mobile phone working with LTE-Advanced Pro (4.5 G) mobile network on the optic nerve, which is responsible for the transmission of visual information.
 
-Thirty-two rats divided into two groups as control (no RF, sham exposure) and experimental (RF exposure using a mobile phone with LTE-Advanced Pro network; 2 hours/day, 6 weeks). The visual evoked potential (VEP) was recorded and determined amplitudes and latencies of VEP waves. Optic nerve malondialdehyde level, catalase and superoxide dismutase activities were determined. Furthermore, ultrastructural and morphometric changes of optic nerve were evaluated.
+MATERIAL AND METHODS: Thirty-two rats divided into two groups as control (no RF, sham exposure) and experimental (RF exposure using a mobile phone with LTE-Advanced Pro network; 2 hours/day, 6 weeks). The visual evoked potential (VEP) was recorded and determined amplitudes and latencies of VEP waves. Optic nerve malondialdehyde level, catalase and superoxide dismutase activities were determined. Furthermore, ultrastructural and morphometric changes of optic nerve were evaluated.
 
-In VEP recordings, the mean VEP amplitudes of experimental group were significantly lower than control group. In ultrastructural evaluation, myelinated nerve fibres and glial cells were observed in normal histologic appearance both in sham and experimental group. However, by performing morphometric analysis, in the experimental group, axonal diameter and myelin thickness were shown to be lower and the G-ratio was higher than in the sham group. In the experimental group, malondialdehyde level was significantly higher and superoxide dismutase and catalase activities were significantly lower than sham group. There was a high correlation between VEP wave amplitudes and oxidative stress markers.
+RESULTS: In VEP recordings, the mean VEP amplitudes of experimental group were significantly lower than control group. In ultrastructural evaluation, myelinated nerve fibres and glial cells were observed in normal histologic appearance both in sham and experimental group. However, by performing morphometric analysis, in the experimental group, axonal diameter and myelin thickness were shown to be lower and the G-ratio was higher than in the sham group. In the experimental group, malondialdehyde level was significantly higher and superoxide dismutase and catalase activities were significantly lower than sham group. There was a high correlation between VEP wave amplitudes and oxidative stress markers.
 
-Findings obtained in this study support optic nerve damage. These results point out an important risk that may decrease the quality of life.
+CONCLUSION: Findings obtained in this study support optic nerve damage. These results point out an important risk that may decrease the quality of life.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33653184/)

@@ -33,10 +33,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Baste V
+- Riise T
+- Moen BE
 pmcid: ''
-volume: ''
-pages: ''
+volume: '23'
+pages: 369-77
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:

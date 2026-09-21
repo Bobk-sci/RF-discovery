@@ -24,10 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ozguner F
+- Aydin G
+- Mollaoglu H
+- Gökalp O
+- Koyu A
+- Cesur G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '20'
+pages: 133-9
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

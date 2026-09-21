@@ -33,10 +33,18 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Pellegrini A
+- Soldani P
+- Paparelli A
+- Breschi MC
+- Scatizzi R
+- Nieri P
+- Campagni A
+- Del Bianchi S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '76'
+pages: 165-75
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

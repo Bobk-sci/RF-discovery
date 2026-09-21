@@ -24,10 +24,13 @@ mots_cles:
 - Sleep apps
 - Sleep diaries
 - Snore detection
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Khan MN
+- Nock R
+- Gooneratne NS
+pmcid: PMC5363971
+volume: '1'
+pages: 226-231
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

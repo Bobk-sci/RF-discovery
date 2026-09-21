@@ -19,9 +19,12 @@ mots_cles:
 - massive MIMO
 - power density
 - total exposure ratio
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Elbasheir MS
+- Saeed RA
+- Edam S
+pmcid: PMC9919820
+volume: '23'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.5

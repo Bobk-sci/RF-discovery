@@ -25,10 +25,15 @@ mots_cles:
 - Microalgae
 - Microwave
 - Oxidative stress
-auteurs: []
+auteurs:
+- Sivaramakrishnan R
+- Suresh S
+- Pugazhendhi A
+- Mercy Nisha Pauline J
+- Incharoensakdi A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '312'
+pages: '123562'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

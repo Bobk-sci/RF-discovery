@@ -28,10 +28,18 @@ mots_cles:
 - Cutis laxa
 - Minigene assay
 - Splicing variant
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Zhang Y
+- Sun M
+- Li N
+- Zhao Y
+- Zhang F
+- Shu J
+- Liu Y
+- Cai C
+pmcid: '2986595'
+volume: '51'
+pages: '498'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -50,12 +58,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Cutis laxa is a connective tissue disease caused by abnormal synthesis or secretion of skin elastic fibers, leading to skin flabby and saggy in various body parts. It can be divided into congenital cutis laxa and acquired cutis laxa, and inherited cutis laxa syndromes is more common in clinic.
+BACKGROUND: Cutis laxa is a connective tissue disease caused by abnormal synthesis or secretion of skin elastic fibers, leading to skin flabby and saggy in various body parts. It can be divided into congenital cutis laxa and acquired cutis laxa, and inherited cutis laxa syndromes is more common in clinic.
 
-In this study, we reported a case of a Han-Chinese male newborn with ATP6V0A2 gene variant leading to cutis laxa. The proband was identified by whole-exome sequencing to determine the novel variant, and their parents were verified by Sanger sequencing. Bioinformatics analysis and minigene assay were used to verify the effect of this variant on splicing function.
+METHODS: In this study, we reported a case of a Han-Chinese male newborn with ATP6V0A2 gene variant leading to cutis laxa. The proband was identified by whole-exome sequencing to determine the novel variant, and their parents were verified by Sanger sequencing. Bioinformatics analysis and minigene assay were used to verify the effect of this variant on splicing function.
 
-The main manifestations of the proband are skin laxity, abnormal facial features, and enlargement of the anterior fontanelle. Whole-exome sequencing showed that the newborn carried a non-canonical splicing-site variant c.117 + 5G > T, p. (?) in ATP6V0A2 gene. Sanger sequencing showed that both parents of the proband carried the heterozygous variant. The results of bioinformatics analysis and minigene assay displayed that the variant site affected the splicing function of pre-mRNA of the ATP6V0A2 gene.
+RESULTS: The main manifestations of the proband are skin laxity, abnormal facial features, and enlargement of the anterior fontanelle. Whole-exome sequencing showed that the newborn carried a non-canonical splicing-site variant c.117 + 5G > T, p. (?) in ATP6V0A2 gene. Sanger sequencing showed that both parents of the proband carried the heterozygous variant. The results of bioinformatics analysis and minigene assay displayed that the variant site affected the splicing function of pre-mRNA of the ATP6V0A2 gene.
 
-In this study, it was identified that ATP6V0A2 gene c. 117 + 5G > T may be the cause of the disease. The non-canonical splicing variants of ATP6V0A2 gene were rarely reported in the past, and this variant expanded the variants spectrum of the gene. The functional study of minigene assay plays a certain role in improving the level of evidence for the pathogenicity of splicing variants, which lays a foundation for prenatal counseling and follow-up gene therapy.
+CONCLUSIONS: In this study, it was identified that ATP6V0A2 gene c. 117 + 5G > T may be the cause of the disease. The non-canonical splicing variants of ATP6V0A2 gene were rarely reported in the past, and this variant expanded the variants spectrum of the gene. The functional study of minigene assay plays a certain role in improving the level of evidence for the pathogenicity of splicing variants, which lays a foundation for prenatal counseling and follow-up gene therapy.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38598037/)

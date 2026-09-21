@@ -25,10 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Marjanovic Cermak AM
+- Pavicic I
+- Tariba Lovakovic B
+- Pizent A
+- Trosic I
 pmcid: ''
-volume: ''
-pages: ''
+volume: '36'
+pages: 407-414
 modele: in_vitro
 modele_score: 1007.5
 modele_secondaires:

@@ -17,10 +17,14 @@ mots_cles:
 - Mobile Phones
 - Radiofrequency
 - Sleep Quality
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Slezáková Z
+- Baláž J
+- Wimmerová S
+- Valachovičová M
+pmcid: PMC12536906
+volume: '15'
+pages: 491-496
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

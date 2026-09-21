@@ -29,10 +29,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Schoeni A
+- Roser K
+- Röösli M
+pmcid: PMC4519186
+volume: '10'
+pages: e0133528
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []

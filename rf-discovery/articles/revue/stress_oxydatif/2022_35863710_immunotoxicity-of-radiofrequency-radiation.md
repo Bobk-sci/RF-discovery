@@ -28,10 +28,13 @@ mots_cles:
 - Non-ionizing radiation
 - Radiofrequency radiation
 - Reactive oxygen species
-auteurs: []
+auteurs:
+- Yadav H
+- Sharma RS
+- Singh R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '309'
+pages: '119793'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

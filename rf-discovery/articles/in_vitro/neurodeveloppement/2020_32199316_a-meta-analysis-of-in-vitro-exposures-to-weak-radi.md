@@ -2,49 +2,52 @@
 pmid: '32199316'
 doi: 10.1016/j.envres.2020.109227
 annee: 2020
-journal: ''
+journal: Environmental research
 titre: A meta-analysis of in vitro exposures to weak radiofrequency radiation exposure
   from mobile phones (1990-2015).
 url: https://pubmed.ncbi.nlm.nih.gov/32199316/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Cell Line
-- Animals
-- Swine
-- Rabbits
-- Humans
-- Mice
-- Rats
-- Embryonic Development
-- Electromagnetic Fields
-- Radio Waves
 - Adolescent
+- Animals
+- Cell Line
+- Cell Phone
 - Child
 - Child, Preschool
+- Electromagnetic Fields
+- Embryonic Development
+- Humans
 - Male
+- Mice
+- Rabbits
 - Radiation Exposure
-- Cell Phone
+- Radio Waves
+- Rats
+- Swine
 types:
-- Meta-Analysis
 - Journal Article
+- Meta-Analysis
 mots_cles:
 - Apoptosis
-- Expression
-- Protein
-- Proliferation
+- Base station
 - Cytogenetic
-- Gene Expression
-- Mobile Phones
-- Base Station
-- Radiofrequency Electromagnetic Fields
-- Specific Absorption Rate (Sar)
-- In Vitro Biological Experiments Non-ionizing Radiation
-auteurs: []
+- Expression
+- Gene expression
+- In vitro biological experiments non-ionizing radiation
+- Mobile phones
+- Proliferation
+- Protein
+- Radiofrequency electromagnetic fields
+- Specific absorption rate (SAR)
+auteurs:
+- Halgamuge MN
+- Skafidas E
+- Davis D
 pmcid: ''
-volume: ''
-pages: ''
+volume: '184'
+pages: '109227'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:
@@ -71,7 +74,7 @@ theme_indices:
 
 # A meta-analysis of in vitro exposures to weak radiofrequency radiation exposure from mobile phones (1990-2015).
 
-*journal non renseigné — 2020*
+*Environmental research — 2020*
 
 ## Résumé (texte d'origine)
 

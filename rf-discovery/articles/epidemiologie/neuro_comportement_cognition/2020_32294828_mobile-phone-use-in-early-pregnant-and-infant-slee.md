@@ -30,10 +30,15 @@ mots_cles:
 - Night waking
 - Pregnant woman
 - Sleeping
-auteurs: []
+auteurs:
+- Weng TT
+- Yan SQ
+- Gao GP
+- Wei C
+- Tao FB
 pmcid: ''
-volume: ''
-pages: ''
+volume: '41'
+pages: 320-325
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -58,6 +63,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To describe the epidemiological characteristics of mobile phone use in early pregnancy, and to explore the relationship between pregnancy mobile use and infant sleep-wake behavior.During February 2015 to August 2016, 2 212 subjects who had their first antenatal examination at Maanshan Maternity and Child Health Hospital were recruited in this cohort study and followed until postpartum for 6 months. Information of phone use was collected through questionnaire in the third trimester. There were 1 779 pregnant reported hours of mobile phone use in the questionnaire. A total of 1 951 parent reported the night-wake times. Data on night-wake behavior in infants was collected during the 6 months study. Questionnaires were completed by parents when taking the physical examination. More than 3 times per night was defined as the night-wake frequency. Unconditional multivariate logistic regression was applied to analyze the association of pregnancy time of mobile phone use and the infant night-wake frequencies.In this cohort study, the average age of 2 212 pregnant women was (26.95±3.82) years, with 1 983 of them were followed up to the time of delivery. The incidence of night-wake frequency was 28.3(553/1 951) among these 6-month-old infants. After adjusted for feeding factors in the first trimester, frequencies of using the phone as "3 to 4 hour per day" and "5 hour and above per day" were both positively associated with the frequencies of night-wake behavior in infants. The adjusted(95) were 1.49 (1.07-2.07) and 1.79 (1.31-2.46), respectively.The mobile phone use during pregnancy was associated with night-wake of infants. Mobile phone should be rationally used during pregnancy.
+Objective: To describe the epidemiological characteristics of mobile phone use in early pregnancy, and to explore the relationship between pregnancy mobile use and infant sleep-wake behavior. Methods: During February 2015 to August 2016, 2 212 subjects who had their first antenatal examination at Maanshan Maternity and Child Health Hospital were recruited in this cohort study and followed until postpartum for 6 months. Information of phone use was collected through questionnaire in the third trimester. There were 1 779 pregnant reported hours of mobile phone use in the questionnaire. A total of 1 951 parent reported the night-wake times. Data on night-wake behavior in infants was collected during the 6 months study. Questionnaires were completed by parents when taking the physical examination. More than 3 times per night was defined as the night-wake frequency. Unconditional multivariate logistic regression was applied to analyze the association of pregnancy time of mobile phone use and the infant night-wake frequencies. Results: In this cohort study, the average age of 2 212 pregnant women was (26.95±3.82) years, with 1 983 of them were followed up to the time of delivery. The incidence of night-wake frequency was 28.3% (553/1 951) among these 6-month-old infants. After adjusted for feeding factors in the first trimester, frequencies of using the phone as "3 to 4 hour per day" and "5 hour and above per day" were both positively associated with the frequencies of night-wake behavior in infants. The adjusted OR (95%CI) were 1.49 (1.07-2.07) and 1.79 (1.31-2.46), respectively. Conclusions: The mobile phone use during pregnancy was associated with night-wake of infants. Mobile phone should be rationally used during pregnancy.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32294828/)

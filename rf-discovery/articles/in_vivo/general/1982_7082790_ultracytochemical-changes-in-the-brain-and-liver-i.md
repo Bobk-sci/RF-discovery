@@ -23,10 +23,13 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Belokrinitskiĭ VS
+- Tomashevskaia LA
+- Konobeeva GI
 pmcid: ''
-volume: ''
-pages: ''
+volume: '93'
+pages: 112-6
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

@@ -26,9 +26,13 @@ mots_cles:
 - millimeter-wave
 - passive imaging
 - radiometry
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Owda AY
+- Salmon N
+- Shylo S
+- Owda M
+pmcid: PMC6651191
+volume: '19'
 pages: ''
 modele: in_vivo
 modele_score: 2.0

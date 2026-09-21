@@ -29,10 +29,20 @@ mots_cles:
 - lipid metabolites
 - lipidomics
 - microwave radiation
-auteurs: []
+auteurs:
+- Xia Z
+- Li M
+- Tian Y
+- Li Y
+- Li B
+- Zhang G
+- Lv J
+- Fu Q
+- Zhou H
+- Dong J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '12'
+pages: 2122-2132
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

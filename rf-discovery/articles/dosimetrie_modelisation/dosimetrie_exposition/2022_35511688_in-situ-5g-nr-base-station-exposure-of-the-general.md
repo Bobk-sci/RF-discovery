@@ -18,10 +18,20 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Deprez K
+- Verloock L
+- Colussi L
+- Aerts S
+- Van den Bossche M
+- Kamer J
+- Bolte J
+- Martens L
+- Plets D
+- Joseph W
 pmcid: ''
-volume: ''
-pages: ''
+volume: '198'
+pages: 358-369
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

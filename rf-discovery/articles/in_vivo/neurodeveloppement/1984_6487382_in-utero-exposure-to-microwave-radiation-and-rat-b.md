@@ -22,10 +22,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Merritt JH
+- Hardy KA
+- Chamness AF
 pmcid: ''
-volume: ''
-pages: ''
+volume: '5'
+pages: 315-22
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

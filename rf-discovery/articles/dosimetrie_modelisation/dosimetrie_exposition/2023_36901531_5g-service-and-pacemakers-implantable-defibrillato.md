@@ -21,9 +21,15 @@ mots_cles:
 - ICDs
 - exposure assessment
 - pacemakers
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Vivarelli C
+- Censi F
+- Calcagnini G
+- De Ruvo E
+- Calò L
+- Mattei E
+pmcid: PMC10001652
+volume: '20'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0

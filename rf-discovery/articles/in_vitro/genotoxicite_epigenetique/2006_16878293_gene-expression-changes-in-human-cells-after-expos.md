@@ -19,10 +19,29 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Remondini D
+- Nylund R
+- Reivinen J
+- Poulletier de Gannes F
+- Veyret B
+- Lagroye I
+- Haro E
+- Trillo MA
+- Capri M
+- Franceschi C
+- Schlatterer K
+- Gminski R
+- Fitzner R
+- Tauber R
+- Schuderer J
+- Kuster N
+- Leszczynski D
+- Bersani F
+- Maercker C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '6'
+pages: 4745-54
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

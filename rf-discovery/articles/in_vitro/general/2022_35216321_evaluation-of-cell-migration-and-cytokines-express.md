@@ -28,9 +28,16 @@ mots_cles:
 - cytokines
 - keratinocytes
 - wound healing
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Costantini E
+- Aielli L
+- Serra F
+- De Dominicis L
+- Falasca K
+- Di Giovanni P
+- Reale M
+pmcid: PMC8879593
+volume: '23'
 pages: ''
 modele: in_vitro
 modele_score: 1004.5

@@ -22,10 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- McRee DI
+- Davis HG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '46'
+pages: 315-20
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:

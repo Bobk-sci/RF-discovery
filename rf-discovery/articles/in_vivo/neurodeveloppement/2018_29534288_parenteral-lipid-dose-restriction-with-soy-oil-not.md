@@ -40,10 +40,21 @@ mots_cles:
 - pediatrics
 - soy oil
 - vision
-auteurs: []
+auteurs:
+- Lansing M
+- Sauvé Y
+- Dimopoulos I
+- Field CJ
+- Suh M
+- Wizzard P
+- Goruk S
+- Lim D
+- Muto M
+- Wales P
+- Turner J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '42'
+pages: 1177-1184
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -62,12 +73,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-A dietary supply of docosahexaenoic acid (DHA) and arachidonic acid (AA) is critical for neonatal retinal development. Both are absent/minimal in parenteral nutrition (PN) using soy-oil emulsions ([SO] Intralipid®) traditionally used for neonatal intestinal failure. In contrast, fish-oil emulsions ([FO] Omegaven®) are enriched in DHA/AA. The aim of this study was to compare retinal function and fatty acid content in neonatal piglets fed PN with SO or FO.
+BACKGROUND: A dietary supply of docosahexaenoic acid (DHA) and arachidonic acid (AA) is critical for neonatal retinal development. Both are absent/minimal in parenteral nutrition (PN) using soy-oil emulsions ([SO] Intralipid®) traditionally used for neonatal intestinal failure. In contrast, fish-oil emulsions ([FO] Omegaven®) are enriched in DHA/AA. The aim of this study was to compare retinal function and fatty acid content in neonatal piglets fed PN with SO or FO.
 
-Two-5-day-old piglets were randomly allocated to SO (n = 4) or FO (n = 4), provided at equivalent doses (5g/kg/d). After 14 days of PN, retinal function was assessed by electroretinography and retinas were harvested for fatty acid content analysis. Sow-fed piglets served as a reference (REF).
+METHODS: Two-5-day-old piglets were randomly allocated to SO (n = 4) or FO (n = 4), provided at equivalent doses (5g/kg/d). After 14 days of PN, retinal function was assessed by electroretinography and retinas were harvested for fatty acid content analysis. Sow-fed piglets served as a reference (REF).
 
-Light flash-elicited stoppage of cone and rod dark-currents (a-waves) and the ensuing postsynaptic activation of cone and rod ON bipolar cells (b-waves) were comparable between SO and REF. Responses recorded from FO were subnormal (P <0.001) when compared with both SO and REF. Retinal DHA content was similar in both groups (FO, 14.59% vs SO, 12.22%; P = 0.32); while AA was lower in FO (FO, 6.01% vs SO, 8.21%; P = .001).
+RESULTS: Light flash-elicited stoppage of cone and rod dark-currents (a-waves) and the ensuing postsynaptic activation of cone and rod ON bipolar cells (b-waves) were comparable between SO and REF. Responses recorded from FO were subnormal (P <0.001) when compared with both SO and REF. Retinal DHA content was similar in both groups (FO, 14.59% vs SO, 12.22%; P = 0.32); while AA was lower in FO (FO, 6.01% vs SO, 8.21%; P = .001).
 
-Paradoxically, FO containing more DHA and AA did not preserve retinal function when compared with the same low dose of SO. This may be due to the reduced AA enrichment in the retina with FO treatment. Further investigation into the ideal amounts of DHA and AA for optimal neonatal retinal function is required.
+CONCLUSION: Paradoxically, FO containing more DHA and AA did not preserve retinal function when compared with the same low dose of SO. This may be due to the reduced AA enrichment in the retina with FO treatment. Further investigation into the ideal amounts of DHA and AA for optimal neonatal retinal function is required.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/29534288/)

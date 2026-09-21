@@ -27,10 +27,21 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Wang L
+- Peng R
+- Hu X
+- Gao Y
+- Wang S
+- Zhao L
+- Dong J
+- Su Z
+- Xu X
+- Gao R
+- Lei C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '63'
+pages: 1010-6
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

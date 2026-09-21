@@ -20,10 +20,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Albert EN
+- Sherif M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '257'
+pages: 135-51
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:

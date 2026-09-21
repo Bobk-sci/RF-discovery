@@ -20,10 +20,67 @@ mots_cles:
 - brain tumors
 - children
 - mobile phones
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Sadetzki S
+- Langer CE
+- Bruchim R
+- Kundi M
+- Merletti F
+- Vermeulen R
+- Kromhout H
+- Lee AK
+- Maslanyj M
+- Sim MR
+- Taki M
+- Wiart J
+- Armstrong B
+- Milne E
+- Benke G
+- Schattner R
+- Hutter HP
+- Woehrer A
+- Krewski D
+- Mohipp C
+- Momoli F
+- Ritvo P
+- Spinelli J
+- Lacour B
+- Delmas D
+- Remen T
+- Radon K
+- Weinmann T
+- Klostermann S
+- Heinrich S
+- Petridou E
+- Bouka E
+- Panagopoulou P
+- Dikshit R
+- Nagrani R
+- Even-Nir H
+- Chetrit A
+- Maule M
+- Migliore E
+- Filippini G
+- Miligi L
+- Mattioli S
+- Yamaguchi N
+- Kojimahara N
+- Ha M
+- Choi KH
+- Mannetje A'
+- Eng A
+- Woodward A
+- Carretero G
+- Alguacil J
+- Aragones N
+- Suare-Varela MM
+- Goedhart G
+- Schouten-van Meeteren AA
+- Reedijk AA
+- Cardis E
+pmcid: PMC4172002
+volume: '2'
+pages: '124'
 modele: epidemiologie
 modele_score: 6.5
 modele_secondaires: []

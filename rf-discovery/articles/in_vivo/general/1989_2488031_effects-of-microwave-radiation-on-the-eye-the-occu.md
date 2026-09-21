@@ -22,10 +22,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Cutz A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '6'
+pages: 379-86
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

@@ -2,29 +2,35 @@
 pmid: '40807716'
 doi: 10.3390/s25154549
 annee: 2025
-journal: ''
+journal: Sensors (Basel, Switzerland)
 titre: 'Sustainable THz SWIPT via RIS-Enabled Sensing and Adaptive Power Focusing:
   Toward Green 6G IoT.'
 url: https://pubmed.ncbi.nlm.nih.gov/40807716/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Nonlinear Energy Harvesting
-- Reconfigurable Intelligent Surface
-- Channel Sensing
-- 6G Iot
-- Adaptive Power Focusing
-- Green Wireless
-- Sar Constraint
-- Terahertz Swipt
-auteurs: []
-pmcid: ''
-volume: ''
+- 6G IoT
+- SAR constraint
+- adaptive power focusing
+- channel sensing
+- green wireless
+- nonlinear energy harvesting
+- reconfigurable intelligent surface
+- terahertz SWIPT
+auteurs:
+- Enahoro S
+- Ekpo SC
+- Uko M
+- Elias F
+- Unnikrishnan R
+- Alabi S
+- Olasunkanmi NK
+pmcid: PMC12349027
+volume: '25'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
@@ -43,7 +49,7 @@ theme_indices:
 
 # Sustainable THz SWIPT via RIS-Enabled Sensing and Adaptive Power Focusing: Toward Green 6G IoT.
 
-*journal non renseigné — 2025*
+*Sensors (Basel, Switzerland) — 2025*
 
 ## Résumé (texte d'origine)
 

@@ -23,10 +23,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Gajda GB
+- Lemay E
+- Paradis J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '117'
+pages: 254-266
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

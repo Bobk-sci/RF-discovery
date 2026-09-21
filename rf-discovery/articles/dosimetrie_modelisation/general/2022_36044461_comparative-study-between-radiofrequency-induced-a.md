@@ -19,10 +19,19 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Lemercier CE
+- Garenne A
+- Poulletier de Gannes F
+- El Khoueiry C
+- Arnaud-Cormos D
+- Levêque P
+- Lagroye I
+- Percherancier Y
+- Lewis N
+pmcid: PMC9432733
+volume: '17'
+pages: e0268605
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

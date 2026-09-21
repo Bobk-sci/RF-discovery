@@ -28,10 +28,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Nawaz A
+- Wong TW
 pmcid: ''
-volume: ''
-pages: ''
+volume: '138'
+pages: 2412-2422
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

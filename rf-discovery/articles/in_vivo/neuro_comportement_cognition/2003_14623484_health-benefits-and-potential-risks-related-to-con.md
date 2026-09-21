@@ -27,10 +27,11 @@ types:
 - Evaluation Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Sidhu KS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 336-44
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

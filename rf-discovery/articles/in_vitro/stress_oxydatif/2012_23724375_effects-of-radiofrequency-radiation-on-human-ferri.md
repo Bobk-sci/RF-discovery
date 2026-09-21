@@ -17,10 +17,15 @@ mots_cles:
 - immunoassay test
 - radiofrequency radiation
 - ruthenium complex
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Fattahi-Asl J
+- Baradaran-Ghahfarokhi M
+- Karbalae M
+- Baradaran-Ghahfarokhi M
+- Baradaran-Ghahfarokhi HR
+pmcid: PMC3662108
+volume: '2'
+pages: 235-40
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []

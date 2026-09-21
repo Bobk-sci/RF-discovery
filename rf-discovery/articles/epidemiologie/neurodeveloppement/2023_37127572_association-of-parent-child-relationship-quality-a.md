@@ -29,10 +29,16 @@ mots_cles:
 - Parent-child relationship
 - Problematic mobile phone use
 - Sex
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Xu H
+- Xiao W
+- Xie Y
+- Xu S
+- Wan Y
+- Tao F
+pmcid: PMC10152594
+volume: '23'
+pages: '304'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -53,12 +59,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Non-suicidal self-injury behavior (NSSI) is a common mental health threat among adolescents. Poor parent-child relationship (PCR) and problematic mobile phone use (PMPU) are risk factors for NSSI. We aimed to explore the impact of PCR quality, PMPU, and their interaction effects on NSSI among adolescents in China, as well as the sex difference.
+BACKGROUND: Non-suicidal self-injury behavior (NSSI) is a common mental health threat among adolescents. Poor parent-child relationship (PCR) and problematic mobile phone use (PMPU) are risk factors for NSSI. We aimed to explore the impact of PCR quality, PMPU, and their interaction effects on NSSI among adolescents in China, as well as the sex difference.
 
-A survey was conducted among school students in 4 provinces in China between 2017 and 2018. The study included 14,500 valid participants. The students' general demographic characteristics was collected, and further data on PCR quality, PMPU, and NSSI were obtained through self-rated questionnaire. Chi-square test, binomial logistic regression models, and the Andersson Excel were used for data analysis.
+METHOD: A survey was conducted among school students in 4 provinces in China between 2017 and 2018. The study included 14,500 valid participants. The students' general demographic characteristics was collected, and further data on PCR quality, PMPU, and NSSI were obtained through self-rated questionnaire. Chi-square test, binomial logistic regression models, and the Andersson Excel were used for data analysis.
 
-The 12-month prevalence of NSSI was 27.3%. Lower PCR quality and PMPU were significantly associated with NSSI, respectively. The low PCR + yes PMPU group had the greatest association with NSSI, followed by the high PCR + yes PMPU group, low PCR + no PMPU group. Moreover, in low father-child relationship + yes PMPU group, females had a higher risk of NSSI than males; in high mother-child relationship + yes PMPU group, females had a higher risk of NSSI than males. Additive interaction analysis indicated that mother-child relationship quality and PMPU were associated with increased risks of NSSI, in the subgroup of males.
+RESULTS: The 12-month prevalence of NSSI was 27.3%. Lower PCR quality and PMPU were significantly associated with NSSI, respectively. The low PCR + yes PMPU group had the greatest association with NSSI, followed by the high PCR + yes PMPU group, low PCR + no PMPU group. Moreover, in low father-child relationship + yes PMPU group, females had a higher risk of NSSI than males; in high mother-child relationship + yes PMPU group, females had a higher risk of NSSI than males. Additive interaction analysis indicated that mother-child relationship quality and PMPU were associated with increased risks of NSSI, in the subgroup of males.
 
-The findings underline the importance of simultaneously studying the quality of PCR and PMPU for a comprehensive understanding of NSSI behavior, and especially highlights the significance of maternal relationship quality.
+CONCLUSIONS: The findings underline the importance of simultaneously studying the quality of PCR and PMPU for a comprehensive understanding of NSSI behavior, and especially highlights the significance of maternal relationship quality.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/37127572/)

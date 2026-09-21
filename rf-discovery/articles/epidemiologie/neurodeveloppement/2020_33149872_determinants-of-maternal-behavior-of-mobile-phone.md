@@ -23,10 +23,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Li M
+- Wu X
+- Sun G
+- Peng M
+pmcid: PMC7603607
+volume: '2020'
+pages: '9465019'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

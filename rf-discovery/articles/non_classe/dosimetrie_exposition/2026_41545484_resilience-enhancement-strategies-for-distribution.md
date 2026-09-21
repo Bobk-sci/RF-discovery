@@ -2,26 +2,31 @@
 pmid: '41545484'
 doi: 10.1038/s41598-026-35188-z
 annee: 2026
-journal: ''
+journal: Scientific reports
 titre: Resilience enhancement strategies for distribution networks considering the
   coordination of 5G base stations and multiple flexible resources.
 url: https://pubmed.ncbi.nlm.nih.gov/41545484/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- 5G Base Station Energy Storage
-- Distribution Network Resilience
-- Flexible Resource
-- Misocp
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- 5G Base station energy storage
+- Distribution network resilience
+- Flexible resource
+- MISOCP
+auteurs:
+- Wang H
+- Ge J
+- Zhao Y
+- Gu J
+- Li C
+- Liu C
+pmcid: PMC12886813
+volume: '16'
+pages: '5481'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,7 +40,7 @@ theme_indices:
 
 # Resilience enhancement strategies for distribution networks considering the coordination of 5G base stations and multiple flexible resources.
 
-*journal non renseigné — 2026*
+*Scientific reports — 2026*
 
 ## Résumé (texte d'origine)
 

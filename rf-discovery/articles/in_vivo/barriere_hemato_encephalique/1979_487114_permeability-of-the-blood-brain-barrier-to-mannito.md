@@ -26,10 +26,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Preston E
+- Vavasour EJ
+- Assenheim HM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '174'
+pages: 109-17
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

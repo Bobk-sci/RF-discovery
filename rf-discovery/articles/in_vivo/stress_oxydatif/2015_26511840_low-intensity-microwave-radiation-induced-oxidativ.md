@@ -29,10 +29,16 @@ mots_cles:
 - DNA damage
 - Microwave radiation
 - Oxidative stress
-auteurs: []
+auteurs:
+- Megha K
+- Deshmukh PS
+- Banerjee BD
+- Tripathi AK
+- Ahmed R
+- Abegaonkar MP
 pmcid: ''
-volume: ''
-pages: ''
+volume: '51'
+pages: 158-65
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

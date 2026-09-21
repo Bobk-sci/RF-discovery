@@ -32,10 +32,17 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Cheever KL
+- Swearengin TF
+- Edwards RM
+- Nelson BK
+- Werren DW
+- Conover DL
+- DeBord DG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '122'
+pages: 53-67
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

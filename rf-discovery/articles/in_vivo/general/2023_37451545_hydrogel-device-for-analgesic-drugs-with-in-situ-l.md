@@ -30,10 +30,21 @@ mots_cles:
 - Orthopaedics
 - PEG
 - PLA
-auteurs: []
+auteurs:
+- Grindy S
+- Gil D
+- Suhardi J
+- Fan Y
+- Moore K
+- Hugard S
+- Leape C
+- Randolph M
+- Asik MD
+- Muratoglu O
+- Oral E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '361'
+pages: 20-28
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

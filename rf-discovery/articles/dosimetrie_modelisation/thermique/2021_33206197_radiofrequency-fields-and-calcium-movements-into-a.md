@@ -18,10 +18,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Wood A
+- Karipidis K
 pmcid: ''
-volume: ''
-pages: ''
+volume: '195'
+pages: 101-113
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

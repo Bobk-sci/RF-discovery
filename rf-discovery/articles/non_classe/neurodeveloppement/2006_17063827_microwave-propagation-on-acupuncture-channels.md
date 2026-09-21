@@ -29,10 +29,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Krevsky MA
+- Zinina ES
+- Koshurinov Y
+- Ovechkin AM
+- Tkachenko YA
+- Han W
+- Lee SM
+- Yoon G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '31'
+pages: 1-12
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

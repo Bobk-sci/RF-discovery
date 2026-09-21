@@ -25,10 +25,17 @@ mots_cles:
 - Gestational Diabetes
 - Mobile applications
 - Smart phone
-auteurs: []
+auteurs:
+- Nikolopoulos M
+- Karampela I
+- Antonakos G
+- Tzortzis E
+- Stratigou T
+- Diomidous M
+- Dalamaga M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '262'
+pages: 39-42
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

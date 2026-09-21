@@ -26,10 +26,16 @@ mots_cles:
 - Mobile phones
 - Risk communication
 - Risk perception
-auteurs: []
+auteurs:
+- Freudenstein F
+- Boerner F
+- Croft RJ
+- Leung RWS
+- Loughran SP
+- Wiedemann PM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '223'
+pages: '115422'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

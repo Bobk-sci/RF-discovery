@@ -25,10 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Atlas A
+- Muru-Lanning M
+- Moyes S
+- Kerse N
+- Jatrana S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '12'
+pages: 35-40
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

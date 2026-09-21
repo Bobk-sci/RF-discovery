@@ -29,10 +29,17 @@ mots_cles:
 - molecular pathology
 - oral squamous cell carcinoma
 - polymerase chain reaction
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Dwivedi D
+- Kasetty S
+- Tijare MS
+- Kallianpur S
+- Prabhakar N
+- Ragavendra RT
+- Desai A
+pmcid: PMC6308768
+volume: '28'
+pages: 615-624
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -50,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Methods of diagnostic molecular biology are routinely applied on formalin-fixed, paraffin-embedded tissues processed via conventional method. Recently, there has been a growing interest to use microwave technology in histopathology laboratories to overcome the deficiencies of the conventional processing method. Thefore, this study was aimed to compare and analyze the quality and quantity of DNA obtained from tissues processed by conventional and microwave tissue processing techniques and to further ascertain the applicability of the latter for PCR (polymerase chain reaction based research).
+BACKGROUND: Methods of diagnostic molecular biology are routinely applied on formalin-fixed, paraffin-embedded tissues processed via conventional method. Recently, there has been a growing interest to use microwave technology in histopathology laboratories to overcome the deficiencies of the conventional processing method. Thefore, this study was aimed to compare and analyze the quality and quantity of DNA obtained from tissues processed by conventional and microwave tissue processing techniques and to further ascertain the applicability of the latter for PCR (polymerase chain reaction based research).
 
-Thirty fresh tissues of oral squamous cell carcinoma (OSCC) were included, and each sample was cut into two equivalent halves. One tissue half was processed by conventional manual method whereas the other half was processed using a domestic microwave oven. DNA was obtained from all the tissues which were then subjected to Polymerase chain reaction (PCR) to evaluate GAPDH (Glyceraldehyde-3-phosphate dehydrogenase) gene expression.
+METHODS: Thirty fresh tissues of oral squamous cell carcinoma (OSCC) were included, and each sample was cut into two equivalent halves. One tissue half was processed by conventional manual method whereas the other half was processed using a domestic microwave oven. DNA was obtained from all the tissues which were then subjected to Polymerase chain reaction (PCR) to evaluate GAPDH (Glyceraldehyde-3-phosphate dehydrogenase) gene expression.
 
-The results revealed better DNA yield from microwave processed tissue while the quality of the DNA was alike from both the techniques.
+RESULTS: The results revealed better DNA yield from microwave processed tissue while the quality of the DNA was alike from both the techniques.
 
-On the basis of the results obtained, it can be concluded that DNA produced by microwave processed tissues was similar to that obtained by conventional processing technique in terms of quantity and quality. Thus, microwave processed tissue samples can be successfully used for further molecular studies and researches.
+CONCLUSION: On the basis of the results obtained, it can be concluded that DNA produced by microwave processed tissues was similar to that obtained by conventional processing technique in terms of quantity and quality. Thus, microwave processed tissue samples can be successfully used for further molecular studies and researches.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/30607077/)

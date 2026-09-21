@@ -30,10 +30,16 @@ mots_cles:
 - Serotonin
 - Tryptophan hydroxylase
 - Tyrosine hydroxylase
-auteurs: []
+auteurs:
+- Megha K
+- Deshmukh PS
+- Ravi AK
+- Tripathi AK
+- Abegaonkar MP
+- Banerjee BD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '73'
+pages: 93-100
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

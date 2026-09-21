@@ -21,10 +21,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Smialowicz RJ
+- Weil CM
+- Kinn JB
+- Elder JA
 pmcid: ''
-volume: ''
-pages: ''
+volume: '17'
+pages: 211-21
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

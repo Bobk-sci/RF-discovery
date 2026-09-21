@@ -18,9 +18,14 @@ mots_cles:
 - mmWave
 - non-ionising radiation
 - radiation protection
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Foroughimehr N
+- Wood A
+- McKenzie R
+- Karipidis K
+- Yavari A
+pmcid: PMC10934416
+volume: '24'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5

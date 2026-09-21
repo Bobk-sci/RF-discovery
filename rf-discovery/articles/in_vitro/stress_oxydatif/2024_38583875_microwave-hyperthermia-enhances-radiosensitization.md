@@ -39,17 +39,32 @@ mots_cles:
 - ROS
 - prostate cancer
 - radiosensitization
-auteurs: []
+auteurs:
+- Wu Y
+- Liu P
+- Chen W
+- Bai S
+- Chen S
+- Chen J
+- Xu X
+- Xia J
+- Wu Y
+- Lai J
+- Sun C
+- Lao Z
+- Wan X
+- Wu Z
 pmcid: ''
-volume: ''
-pages: ''
+volume: '41'
+pages: '2335201'
 modele: in_vitro
-modele_score: 1005.0
+modele_score: 1006.0
 modele_secondaires:
 - in_vivo
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
+- in vitro
 - cell line
 - comet assay
 - cell proliferation
@@ -71,12 +86,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Radiotherapy (RT) is the primary treatment for prostate cancer (PCa); however, the emergence of castration-resistant prostate cancer (CRPC) often leads to treatment failure and cancer-related deaths. In this study, we aimed to explore the use of microwave hyperthermia (MW-HT) to sensitize PCa to RT and investigate the underlying molecular mechanisms.
+PURPOSE: Radiotherapy (RT) is the primary treatment for prostate cancer (PCa); however, the emergence of castration-resistant prostate cancer (CRPC) often leads to treatment failure and cancer-related deaths. In this study, we aimed to explore the use of microwave hyperthermia (MW-HT) to sensitize PCa to RT and investigate the underlying molecular mechanisms.
 
-We developed a dedicated MW-HT heating setup, created anandMW-HT + RT treatment model for CRPC. We evaluated PC3 cell proliferation using CCK-8, colony experiments, DAPI staining, comet assay and ROS detection method. We also monitored nude mouse models of PCa during treatment, measured tumor weight, and calculated the tumor inhibition rate. Western blotting was used to detect DNA damage repair protein expression in PC3 cells and transplanted tumors.
+METHODS: We developed a dedicated MW-HT heating setup, created an in vitro and in vivo MW-HT + RT treatment model for CRPC. We evaluated PC3 cell proliferation using CCK-8, colony experiments, DAPI staining, comet assay and ROS detection method. We also monitored nude mouse models of PCa during treatment, measured tumor weight, and calculated the tumor inhibition rate. Western blotting was used to detect DNA damage repair protein expression in PC3 cells and transplanted tumors.
 
-Compared to control, PC3 cell survival and clone formation rates decreased in RT + MW-HT group, demonstrating significant increase in apoptosis, ROS levels, and DNA damage. Lower tumor volumes and weights were observed in treatment groups. Ki-67 expression level was reduced in all treatment groups, with significant decrease in RT + MW-HT groups. The most significant apoptosis induction was confirmed in RT + MW-HT group by TUNEL staining. Protein expression levels of DNA-PKcs, ATM, ATR, and P53/P21 signaling pathways significantly decreased in RT + MW-HT groups.
+RESULTS: Compared to control, PC3 cell survival and clone formation rates decreased in RT + MW-HT group, demonstrating significant increase in apoptosis, ROS levels, and DNA damage. Lower tumor volumes and weights were observed in treatment groups. Ki-67 expression level was reduced in all treatment groups, with significant decrease in RT + MW-HT groups. The most significant apoptosis induction was confirmed in RT + MW-HT group by TUNEL staining. Protein expression levels of DNA-PKcs, ATM, ATR, and P53/P21 signaling pathways significantly decreased in RT + MW-HT groups.
 
-MW-HT + RT treatment significantly inhibited DNA damage repair by downregulating DNA-PKcs, ATM, ATR, and P53/P21 signaling pathways, leading to increased ROS levels, aggravate DNA damage, apoptosis, and necrosis in PC3 cells, a well-established model of CRPC.
+CONCLUSION: MW-HT + RT treatment significantly inhibited DNA damage repair by downregulating DNA-PKcs, ATM, ATR, and P53/P21 signaling pathways, leading to increased ROS levels, aggravate DNA damage, apoptosis, and necrosis in PC3 cells, a well-established model of CRPC.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38583875/)

@@ -26,10 +26,14 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Weyandt TB
+- Schrader SM
+- Turner TW
+- Simon SD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '10'
+pages: 521-8
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:

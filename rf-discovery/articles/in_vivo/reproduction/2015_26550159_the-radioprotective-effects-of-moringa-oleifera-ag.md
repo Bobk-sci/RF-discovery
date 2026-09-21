@@ -18,10 +18,12 @@ mots_cles:
 - PCNA
 - electromagnetic radiation (EMR)
 - sperm parameters.
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Bin-Meferij MM
+- El-Kott AF
+pmcid: PMC4612844
+volume: '8'
+pages: 12487-97
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

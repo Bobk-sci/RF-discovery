@@ -28,10 +28,12 @@ mots_cles:
 - sleep
 - sleep quality
 - sleep routines
-auteurs: []
+auteurs:
+- Akçay D
+- Akçay BD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '60'
+pages: 255-263
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

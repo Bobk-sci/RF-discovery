@@ -23,10 +23,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Frey AH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '20'
+pages: 53-5
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

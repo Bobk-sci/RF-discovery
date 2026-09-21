@@ -33,10 +33,20 @@ mots_cles:
 - Glioma
 - Meningioma
 - Primary central nervous system neoplasm
-auteurs: []
+auteurs:
+- Pouchieu C
+- Raherison C
+- Piel C
+- Migault L
+- Carles C
+- Fabbro-Perray P
+- Loiseau H
+- Guillamo JS
+- Lebailly P
+- Baldi I
 pmcid: ''
-volume: ''
-pages: ''
+volume: '138'
+pages: 271-281
 modele: epidemiologie
 modele_score: 1008.0
 modele_secondaires: []

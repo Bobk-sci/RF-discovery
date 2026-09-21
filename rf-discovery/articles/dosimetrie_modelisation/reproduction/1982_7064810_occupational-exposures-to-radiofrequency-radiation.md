@@ -18,10 +18,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Cox C
+- Murray WE
+- Foley EP
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 149-53
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

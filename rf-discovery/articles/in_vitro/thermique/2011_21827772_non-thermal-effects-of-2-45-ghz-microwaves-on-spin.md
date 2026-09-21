@@ -25,10 +25,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ballardin M
+- Tusa I
+- Fontana N
+- Monorchio A
+- Pelletti C
+- Rogovich A
+- Barale R
+- Scarpato R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '716'
+pages: 1-9
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

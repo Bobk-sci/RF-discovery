@@ -28,10 +28,13 @@ mots_cles:
 - children
 - epidemiology
 - standardized ownership ratio
-auteurs: []
+auteurs:
+- Sato Y
+- Kojimahara N
+- Yamaguchi N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 349-355
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires: []

@@ -25,9 +25,17 @@ mots_cles:
 - mmWave
 - propagation modeling
 - radiofrequency electromagnetic fields (RF-EMF)
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Celaya-Echarri M
+- Azpilicueta L
+- Rodríguez-Corbo FA
+- Lopez-Iturri P
+- Ramos V
+- Alibakhshikenari M
+- Shubair RM
+- Falcone F
+pmcid: PMC8709191
+volume: '21'
 pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0

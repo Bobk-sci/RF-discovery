@@ -2,31 +2,30 @@
 pmid: '35002399'
 doi: 10.1016/j.sjbs.2021.08.063
 annee: 2022
-journal: ''
+journal: Saudi journal of biological sciences
 titre: Effect of 2400 MHz mobile phone radiation exposure on the behavior and hippocampus
   morphology in Swiss mouse model.
 url: https://pubmed.ncbi.nlm.nih.gov/35002399/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Mice
-- Hippocampus
 - Behavior
-- Mobile phone
 - Electromagnetic fields
-- Pyramidal Neuron
+- Hippocampus
+- Mice
+- Mobile phone
+- Pyramidal neuron
 auteurs:
 - Hasan I
 - Rubayet Jahan M
 - Nabiul Islam M
 - Rafiqul Islam M
 pmcid: PMC8716897
-volume: ''
+volume: '29'
 pages: 102-110
 modele: in_vivo
 modele_score: 7.0
@@ -45,7 +44,7 @@ theme_indices:
 
 # Effect of 2400 MHz mobile phone radiation exposure on the behavior and hippocampus morphology in Swiss mouse model.
 
-*journal non renseigné — 2022*
+*Saudi journal of biological sciences — 2022*
 
 ## Résumé (texte d'origine)
 

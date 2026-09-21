@@ -29,10 +29,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Kesari KK
+- Kumar S
+- Behari J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 219-34
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

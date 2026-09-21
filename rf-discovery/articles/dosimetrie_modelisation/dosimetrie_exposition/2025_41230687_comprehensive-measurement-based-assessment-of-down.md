@@ -2,35 +2,43 @@
 pmid: '41230687'
 doi: 10.1002/bem.70033
 annee: 2025
-journal: ''
+journal: Bioelectromagnetics
 titre: 'Comprehensive Measurement-Based Assessment of Downlink RF-EMF Exposure in
   Urban Environments: Multi-Method Analysis and Intercomparison.'
 url: https://pubmed.ncbi.nlm.nih.gov/41230687/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Radiation Monitoring
-- Cities
-- Environmental Exposure
-- Electromagnetic Fields
 - Radio Waves
+- Cities
+- Electromagnetic Fields
+- Radiation Monitoring
+- Environmental Exposure
+- Humans
 types:
-- Comparative Study
-- research-article
 - Journal Article
+- Comparative Study
 mots_cles:
-- Kriging
-- Sensor Networks
-- Moving Average
-- Emf Exposure
-- Spot Measurements
-- Drive Test
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- EMF exposure
+- drive test
+- kriging
+- moving average
+- sensor networks
+- spot measurements
+auteurs:
+- Wang S
+- Zhang Y
+- Liu Y
+- Liu J
+- Conil E
+- Jawad O
+- Samaras T
+- Ourak L
+- Wiart J
+pmcid: PMC12613141
+volume: '46'
+pages: e70033
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -46,7 +54,7 @@ theme_indices:
 
 # Comprehensive Measurement-Based Assessment of Downlink RF-EMF Exposure in Urban Environments: Multi-Method Analysis and Intercomparison.
 
-*journal non renseigné — 2025*
+*Bioelectromagnetics — 2025*
 
 ## Résumé (texte d'origine)
 

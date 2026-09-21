@@ -28,10 +28,17 @@ mots_cles:
 - malignant lesions
 - permittivity
 - vascularization
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Owda AY
+- Salmon N
+- Harmer SW
+- Shylo S
+- Bowring NJ
+- Rezgui ND
+- Shah M
+pmcid: PMC5638105
+volume: '38'
+pages: 559-569
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

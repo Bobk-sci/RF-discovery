@@ -45,10 +45,17 @@ mots_cles:
 - randomized controlled trial
 - recruitment
 - text messaging
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Spoelstra SL
+- Sikorskii A
+- Given CW
+- Coursaris CK
+- Majumder A
+- Schueller M
+- Given BA
+pmcid: PMC5087987
+volume: '22'
+pages: 836-842
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -67,12 +74,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Text messaging (TMs) on cell phones is emerging as an effective means of delivering behavioral interventions. However, little is known about TM use in adult cancer patients. The present study aimed to extend knowledge on acceptability of a TM intervention in adult cancer patients; examine factors of those screened and enrolled; and compare recruitment at a large national specialty pharmacy versus community-based cancer clinics.
+INTRODUCTION: Text messaging (TMs) on cell phones is emerging as an effective means of delivering behavioral interventions. However, little is known about TM use in adult cancer patients. The present study aimed to extend knowledge on acceptability of a TM intervention in adult cancer patients; examine factors of those screened and enrolled; and compare recruitment at a large national specialty pharmacy versus community-based cancer clinics.
 
-Screening, enrollment, and baseline data collected in two randomized controlled trials examining the efficacy of TMs on medication adherence or symptom severity in adults prescribed oral anticancer agents were linked. Chi-square, Fisher's exact, t-tests, and generalized linear modeling were used to examine sociodemographics, cancer type and stage, depressive symptoms, self-efficacy, social support, and symptoms.
+MATERIALS AND METHODS: Screening, enrollment, and baseline data collected in two randomized controlled trials examining the efficacy of TMs on medication adherence or symptom severity in adults prescribed oral anticancer agents were linked. Chi-square, Fisher's exact, t-tests, and generalized linear modeling were used to examine sociodemographics, cancer type and stage, depressive symptoms, self-efficacy, social support, and symptoms.
 
-The cancer clinics screened 293 patients, 43% were eligible, and 56% consented. The specialty pharmacy screened 169 patients, 72% were eligible, and 74% consented. Mean age was 58 years and did not differ by recruitment setting. Later stage disease (p = 0.01) and higher number of symptoms (p < 0.01), and symptom severity (p = 0.02) and interference (p = 0.01) were observed among patients recruited at the specialty pharmacy. No group differences were found for depression, physical function, cognition, self-efficacy, or social support.
+RESULTS: The cancer clinics screened 293 patients, 43% were eligible, and 56% consented. The specialty pharmacy screened 169 patients, 72% were eligible, and 74% consented. Mean age was 58 years and did not differ by recruitment setting. Later stage disease (p = 0.01) and higher number of symptoms (p < 0.01), and symptom severity (p = 0.02) and interference (p = 0.01) were observed among patients recruited at the specialty pharmacy. No group differences were found for depression, physical function, cognition, self-efficacy, or social support.
 
-Adult cancer patients were likely to participate in a TM intervention trial. Recruiting through the specialty pharmacy reached a population with higher cell phone ownership and TM usage; with greater interest in a TM intervention compared to the cancer clinics.
+DISCUSSION: Adult cancer patients were likely to participate in a TM intervention trial. Recruiting through the specialty pharmacy reached a population with higher cell phone ownership and TM usage; with greater interest in a TM intervention compared to the cancer clinics.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/26982446/)

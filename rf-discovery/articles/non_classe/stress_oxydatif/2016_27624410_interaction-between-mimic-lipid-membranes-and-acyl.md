@@ -32,10 +32,13 @@ mots_cles:
 - antioxidants activity
 - human albumin
 - lipid membrane
-auteurs: []
+auteurs:
+- Strugała P
+- Dudra A
+- Gabrielska J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '64'
+pages: 7414-7422
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

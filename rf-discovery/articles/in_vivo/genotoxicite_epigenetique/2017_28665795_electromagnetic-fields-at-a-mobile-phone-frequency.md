@@ -27,10 +27,17 @@ mots_cles:
 - genotoxicity
 - immune defence
 - oxidative stress
-auteurs: []
+auteurs:
+- Bourdineaud JP
+- Šrut M
+- Štambuk A
+- Tkalec M
+- Brèthes D
+- Malarić K
+- Klobučar GIV
 pmcid: ''
-volume: ''
-pages: ''
+volume: '68'
+pages: 142-152
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

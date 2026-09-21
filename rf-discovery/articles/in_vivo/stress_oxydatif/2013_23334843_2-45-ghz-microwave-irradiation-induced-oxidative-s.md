@@ -34,10 +34,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Shahin S
+- Singh VP
+- Shukla RK
+- Dhawan A
+- Gangwar RK
+- Singh SP
+- Chaturvedi CM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '169'
+pages: 1727-51
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

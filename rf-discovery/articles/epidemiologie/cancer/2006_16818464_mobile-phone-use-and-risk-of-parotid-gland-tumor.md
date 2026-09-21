@@ -29,10 +29,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Lönn S
+- Ahlbom A
+- Christensen HC
+- Johansen C
+- Schüz J
+- Edström S
+- Henriksson G
+- Lundgren J
+- Wennerberg J
+- Feychting M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '164'
+pages: 637-43
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires: []

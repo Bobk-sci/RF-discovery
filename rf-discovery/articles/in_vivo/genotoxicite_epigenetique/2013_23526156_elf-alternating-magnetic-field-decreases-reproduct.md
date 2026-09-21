@@ -20,10 +20,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Panagopoulos DJ
+- Karabarbounis A
+- Lioliousis C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '67'
+pages: 703-16
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

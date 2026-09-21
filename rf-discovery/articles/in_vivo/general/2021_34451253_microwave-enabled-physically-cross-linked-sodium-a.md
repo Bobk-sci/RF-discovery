@@ -18,9 +18,18 @@ mots_cles:
 - microwave
 - nanoparticles-film combined application
 - polymeric film
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Basit HM
+- Ali M
+- Shah MM
+- Shah SU
+- Wahab A
+- Albarqi HA
+- Alqahtani AA
+- Walbi IA
+- Khan NR
+pmcid: PMC8399952
+volume: '13'
 pages: ''
 modele: in_vivo
 modele_score: 3.5

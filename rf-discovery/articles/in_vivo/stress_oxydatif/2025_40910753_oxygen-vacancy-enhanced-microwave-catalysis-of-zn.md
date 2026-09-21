@@ -29,17 +29,28 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Zhang J
+- Chen P
+- Hu J
+- Wu S
+- Lin Y
+- Lu Y
+- Xia J
+- Wang J
+- Li J
+- Liang Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '13'
+pages: 12557-12568
 modele: in_vivo
-modele_score: 5.0
+modele_score: 6.0
 modele_secondaires: []
 modele_indices:
 - animals
 - mice
 - mouse
+- in vivo
 theme: stress_oxydatif
 theme_score: 4.0
 theme_secondaires: []
@@ -55,6 +66,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Implant-related infections (IRIs) pose a major challenge in orthopedic applications due to the persistence of biofilms, which are highly resistant to conventional antibiotics. This study introduces oxygen vacancy-engineered Zn-Fe spinel nanoparticles as microwave-responsive antibacterial agents. The oxygen vacancies in the spinel structure enhance reactive oxygen species (ROS) generation under microwave irradiation, providing a dual-mode antibacterial mechanism of thermal and oxidative stress. Zn-Fe spinel nanoparticles were synthesized using a sol-gel method and evaluated for their antibacterial efficacy againstbiofilms. Under microwave irradiation, the Zn-Fe spinel demonstrated significant biofilm disruption and bacterial eradication. Mechanistic studies revealed that oxygen vacancies promoted ROS generation, leading to bacterial membrane damage.experiments using a mouse infection model confirmed the material's antibacterial efficacy and biocompatibility, with no observed toxicity. This study highlights the potential of oxygen vacancy-enhanced Zn-Fe spinel as a microwave-assisted, antibiotic-free strategy for treating deep-seated infections associated with orthopedic implants.
+Implant-related infections (IRIs) pose a major challenge in orthopedic applications due to the persistence of biofilms, which are highly resistant to conventional antibiotics. This study introduces oxygen vacancy-engineered Zn-Fe spinel nanoparticles as microwave-responsive antibacterial agents. The oxygen vacancies in the spinel structure enhance reactive oxygen species (ROS) generation under microwave irradiation, providing a dual-mode antibacterial mechanism of thermal and oxidative stress. Zn-Fe spinel nanoparticles were synthesized using a sol-gel method and evaluated for their antibacterial efficacy against Staphylococcus aureus biofilms. Under microwave irradiation, the Zn-Fe spinel demonstrated significant biofilm disruption and bacterial eradication. Mechanistic studies revealed that oxygen vacancies promoted ROS generation, leading to bacterial membrane damage. In vivo experiments using a mouse infection model confirmed the material's antibacterial efficacy and biocompatibility, with no observed toxicity. This study highlights the potential of oxygen vacancy-enhanced Zn-Fe spinel as a microwave-assisted, antibiotic-free strategy for treating deep-seated infections associated with orthopedic implants.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/40910753/)

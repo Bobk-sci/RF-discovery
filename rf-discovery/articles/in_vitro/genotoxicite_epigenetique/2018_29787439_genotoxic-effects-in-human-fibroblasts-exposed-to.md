@@ -25,10 +25,28 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Franchini V
+- Regalbuto E
+- De Amicis A
+- De Sanctis S
+- Di Cristofaro S
+- Coluzzi E
+- Marinaccio J
+- Sgura A
+- Ceccuzzi S
+- Doria A
+- Gallerano GP
+- Giovenale E
+- Ravera GL
+- Bei R
+- Benvenuto M
+- Modesti A
+- Masuelli L
+- Lista F
 pmcid: ''
-volume: ''
-pages: ''
+volume: '115'
+pages: 126-139
 modele: in_vitro
 modele_score: 1007.5
 modele_secondaires: []

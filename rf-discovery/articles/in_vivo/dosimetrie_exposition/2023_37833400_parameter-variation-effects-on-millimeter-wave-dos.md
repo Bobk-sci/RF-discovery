@@ -23,10 +23,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Li K
+- Hikage T
+- Masuda H
+- Ijima E
+- Nagai A
+- Taguchi K
+pmcid: PMC10575911
+volume: '13'
+pages: '17397'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

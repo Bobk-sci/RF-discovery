@@ -23,10 +23,17 @@ mots_cles:
 - graphene
 - hydrogels
 - microwave-responsive
-auteurs: []
+auteurs:
+- Leganés Bayón J
+- Sánchez-Migallón A
+- Díaz-Ortiz Á
+- Castillo CA
+- Ballesteros-Yáñez I
+- Merino S
+- Vázquez E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '26'
+pages: 17069-17080
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

@@ -32,10 +32,16 @@ mots_cles:
 - Emulsions
 - Essential oils
 - Skin
-auteurs: []
+auteurs:
+- Ferreira A
+- Vecino X
+- Ferreira D
+- Cruz JM
+- Moldes AB
+- Rodrigues LR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '155'
+pages: 522-529
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

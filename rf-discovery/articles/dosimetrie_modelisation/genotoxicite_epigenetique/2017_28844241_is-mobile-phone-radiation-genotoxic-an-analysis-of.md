@@ -33,10 +33,13 @@ mots_cles:
 - Genotoxicity
 - Micronuclei
 - Mobile phones
-auteurs: []
+auteurs:
+- de Oliveira FM
+- Carmona AM
+- Ladeira C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '822'
+pages: 41-46
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

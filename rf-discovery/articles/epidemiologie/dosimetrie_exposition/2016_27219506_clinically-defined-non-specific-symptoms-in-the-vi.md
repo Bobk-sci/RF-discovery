@@ -34,10 +34,19 @@ mots_cles:
 - Epidemiology
 - General practice
 - Non-specific symptoms
-auteurs: []
+auteurs:
+- Baliatsas C
+- van Kamp I
+- Bolte J
+- Kelfkens G
+- van Dijk C
+- Spreeuwenberg P
+- Hooiveld M
+- Lebret E
+- Yzermans J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '565'
+pages: 714-720
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:

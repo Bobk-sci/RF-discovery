@@ -24,10 +24,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ilhan A
+- Gurel A
+- Armutcu F
+- Kamisli S
+- Iraz M
+- Akyol O
+- Ozen S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '340'
+pages: 153-62
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -56,12 +63,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The widespread use of mobile phones (MP) in recent years has raised the research activities in many countries to determine the consequences of exposure to the low-intensity electromagnetic radiation (EMR) of mobile phones. Since several experimental studies suggest a role of reactive oxygen species (ROS) in EMR-induced oxidative damage in tissues, in this study, we investigated the effect of Ginkgo biloba (Gb) on MP-induced oxidative damage in brain tissue of rats.
+BACKGROUND: The widespread use of mobile phones (MP) in recent years has raised the research activities in many countries to determine the consequences of exposure to the low-intensity electromagnetic radiation (EMR) of mobile phones. Since several experimental studies suggest a role of reactive oxygen species (ROS) in EMR-induced oxidative damage in tissues, in this study, we investigated the effect of Ginkgo biloba (Gb) on MP-induced oxidative damage in brain tissue of rats.
 
-Rats (EMR+) were exposed to 900 MHz EMR from MP for 7 days (1 h/day). In the EMR+Gb groups, rats were exposed to EMR and pretreated with Gb. Control and Gb-administrated groups were produced by turning off the mobile phone while the animals were in the same exposure conditions. Subsequently, oxidative stress markers and pathological changes in brain tissue were examined for each groups.
+METHODS: Rats (EMR+) were exposed to 900 MHz EMR from MP for 7 days (1 h/day). In the EMR+Gb groups, rats were exposed to EMR and pretreated with Gb. Control and Gb-administrated groups were produced by turning off the mobile phone while the animals were in the same exposure conditions. Subsequently, oxidative stress markers and pathological changes in brain tissue were examined for each groups.
 
-Oxidative damage was evident by the: (i) increase in malondialdehyde (MDA) and nitric oxide (NO) levels in brain tissue, (ii) decrease in brain superoxide dismutase (SOD) and glutathione peroxidase (GSH-Px) activities and (iii) increase in brain xanthine oxidase (XO) and adenosine deaminase (ADA) activities. These alterations were prevented by Gb treatment. Furthermore, Gb prevented the MP-induced cellular injury in brain tissue histopathologically.
+RESULTS: Oxidative damage was evident by the: (i) increase in malondialdehyde (MDA) and nitric oxide (NO) levels in brain tissue, (ii) decrease in brain superoxide dismutase (SOD) and glutathione peroxidase (GSH-Px) activities and (iii) increase in brain xanthine oxidase (XO) and adenosine deaminase (ADA) activities. These alterations were prevented by Gb treatment. Furthermore, Gb prevented the MP-induced cellular injury in brain tissue histopathologically.
 
-Reactive oxygen species may play a role in the mechanism that has been proposed to explain the biological side effects of MP, and Gb prevents the MP-induced oxidative stress to preserve antioxidant enzymes activity in brain tissue.
+CONCLUSION: Reactive oxygen species may play a role in the mechanism that has been proposed to explain the biological side effects of MP, and Gb prevents the MP-induced oxidative stress to preserve antioxidant enzymes activity in brain tissue.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/14734207/)

@@ -27,10 +27,17 @@ mots_cles:
 - glioblastoma
 - nonionizing radiation
 - radiofrequency electromagnetic fields
-auteurs: []
+auteurs:
+- Tuysuz MZ
+- Kayhan H
+- Saglam ASY
+- Senturk F
+- Bagriacik EU
+- Yagci M
+- Canseven AG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '46'
+pages: e22543
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires:

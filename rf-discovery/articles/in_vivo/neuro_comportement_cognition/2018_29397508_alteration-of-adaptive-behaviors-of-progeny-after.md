@@ -35,10 +35,16 @@ mots_cles:
 - Neurodevelopment
 - Radiofrequency
 - Sensori-motor processing
-auteurs: []
+auteurs:
+- Petitdant N
+- Lecomte A
+- Robidel F
+- Gamez C
+- Blazy K
+- Villégier AS
 pmcid: ''
-volume: ''
-pages: ''
+volume: '25'
+pages: 10894-10903
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires:

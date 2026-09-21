@@ -34,10 +34,16 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Ayata A
+- Mollaoglu H
+- Yilmaz HR
+- Akturk O
+- Ozguner F
+- Altuntas I
 pmcid: ''
-volume: ''
-pages: ''
+volume: '31'
+pages: 878-83
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

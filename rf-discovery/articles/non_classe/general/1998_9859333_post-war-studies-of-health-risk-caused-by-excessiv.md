@@ -24,10 +24,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Petrowicz O
+- Friedrich G
 pmcid: ''
-volume: ''
-pages: ''
+volume: 43 Suppl
+pages: 220-2
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -44,6 +46,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/9859333/)

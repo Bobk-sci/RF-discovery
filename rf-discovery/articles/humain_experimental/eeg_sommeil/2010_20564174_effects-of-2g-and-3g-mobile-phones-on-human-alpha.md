@@ -28,10 +28,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Croft RJ
+- Leung S
+- McKenzie RJ
+- Loughran SP
+- Iskra S
+- Hamblin DL
+- Cooper NR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '31'
+pages: 434-44
 modele: humain_experimental
 modele_score: 4.5
 modele_secondaires: []

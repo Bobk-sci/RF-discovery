@@ -21,10 +21,20 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Murad S
+- Mudassir J
+- Faiz S
+- Zahra A
+- Usman F
+- Farhan M
+- Arshad MS
+- Abbas N
+- Hussain A
+- Faran Ashraf Baig MM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '35'
+pages: 195-201
 modele: in_vivo
 modele_score: 1008.5
 modele_secondaires:

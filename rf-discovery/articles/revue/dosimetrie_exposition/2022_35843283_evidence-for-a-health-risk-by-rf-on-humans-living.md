@@ -28,10 +28,11 @@ mots_cles:
 - RF radiation
 - Radar
 - Radio antennas
-auteurs: []
+auteurs:
+- Balmori A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '214'
+pages: '113851'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

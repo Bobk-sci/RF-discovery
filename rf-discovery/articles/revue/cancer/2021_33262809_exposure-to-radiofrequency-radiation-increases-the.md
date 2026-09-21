@@ -2,27 +2,32 @@
 pmid: '33262809'
 doi: 10.3892/etm.2020.9455
 annee: 2021
-journal: ''
+journal: Experimental and therapeutic medicine
 titre: 'Exposure to radiofrequency radiation increases the risk of breast cancer:
   A systematic review and meta-analysis.'
 url: https://pubmed.ncbi.nlm.nih.gov/33262809/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- Retracted Publication
-- research-article
 - Journal Article
+- Retracted Publication
 mots_cles:
-- Breast cancer
-- Meta-analysis
-- Systematic review
-- Radiofrequency Radiation
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- breast cancer
+- meta-analysis
+- radiofrequency radiation
+- systematic review
+auteurs:
+- Shih YW
+- O'Brien AP
+- Hung CS
+- Chen KH
+- Hou WH
+- Tsai HT
+pmcid: PMC7690245
+volume: '21'
+pages: '23'
 modele: revue
 modele_score: 1010.0
 modele_secondaires:
@@ -44,7 +49,7 @@ theme_indices:
 
 # Exposure to radiofrequency radiation increases the risk of breast cancer: A systematic review and meta-analysis.
 
-*journal non renseigné — 2021*
+*Experimental and therapeutic medicine — 2021*
 
 ## Résumé (texte d'origine)
 

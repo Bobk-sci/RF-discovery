@@ -27,10 +27,15 @@ mots_cles:
 - hypothalamic-pituitary-adrenal axis
 - placenta
 - pregnancy
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Kim HS
+- Choi HD
+- Pack JK
+- Kim N
+- Ahn YH
+pmcid: PMC8048814
+volume: '42'
+pages: 191-199
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

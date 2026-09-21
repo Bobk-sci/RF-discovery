@@ -24,10 +24,18 @@ mots_cles:
 - brain
 - cell phone ferritin.
 - radiofrequency electromagnetic field
-auteurs: []
+auteurs:
+- Kopani M
+- Panik J
+- Filova B
+- Bujdos M
+- Misek J
+- Kohan M
+- Jakus J
+- Povinec P
 pmcid: ''
-volume: ''
-pages: ''
+volume: '123'
+pages: 864-871
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -49,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-We investigated iron accumulation and the possible mechanisms in the rabbit cerebellum after the exposure to the real GSM and generated radiofrequency electromagnetic fields (RF EMF) using inductively coupled plasma mass spectrometry (ICP MS) and particles induced X-ray emission (PIXE).
+PURPOSE: We investigated iron accumulation and the possible mechanisms in the rabbit cerebellum after the exposure to the real GSM and generated radiofrequency electromagnetic fields (RF EMF) using inductively coupled plasma mass spectrometry (ICP MS) and particles induced X-ray emission (PIXE).
 
-Four groups of rabbits were exposed to the real EMF, generated EMF, combination of both the real and generated signals and the control group with no exposition. For determination of iron concentration in the four groups of cerebellum samples ICP MS was used. Iron accumulation in samples by PIXE analysis using the 3 MeV proton beam was carried out.
+MATERIALS AND METHODS: Four groups of rabbits were exposed to the real EMF, generated EMF, combination of both the real and generated signals and the control group with no exposition. For determination of iron concentration in the four groups of cerebellum samples ICP MS was used. Iron accumulation in samples by PIXE analysis using the 3 MeV proton beam was carried out.
 
-Iron concentration measured by ICP MS revealed no significant differences for all the groups. PIXE results showed a focal accumulation of iron with the size up to 3 mm. Highest concentration of iron after exposure to real signal was observed.
+RESULTS: Iron concentration measured by ICP MS revealed no significant differences for all the groups. PIXE results showed a focal accumulation of iron with the size up to 3 mm. Highest concentration of iron after exposure to real signal was observed.
 
-We suggest that the iron accumulation after the exposure to RF ELF is not the result of higher permeability of blood-brain barrier and leaking out of iron from the bloodstream into the brain cells and tissues. It could be the result of an iron actuation and its redistribution in the tissue (Fig. 2, Ref. 86).
+CONCLUSION: We suggest that the iron accumulation after the exposure to RF ELF is not the result of higher permeability of blood-brain barrier and leaking out of iron from the bloodstream into the brain cells and tissues. It could be the result of an iron actuation and its redistribution in the tissue (Fig. 2, Ref. 86).
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/36342872/)

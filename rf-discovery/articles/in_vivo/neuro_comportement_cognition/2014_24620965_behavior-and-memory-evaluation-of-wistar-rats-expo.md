@@ -29,10 +29,17 @@ mots_cles:
 - Mobile phone,
 - Radiation,
 - Work memory
-auteurs: []
+auteurs:
+- Júnior LC
+- Guimarães Eda S
+- Musso CM
+- Stabler CT
+- Garcia RM
+- Mourão-Júnior CA
+- Andreazzi AE
 pmcid: ''
-volume: ''
-pages: ''
+volume: '36'
+pages: 800-3
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires: []
@@ -56,14 +63,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The development of communication systems has brought great social and economic benefits to society. As mobile phone use has become widespread, concerns have emerged regarding the potential adverse effects of radiofrequency electromagnetic radiation (RF-EMR) used by these devices.
+BACKGROUND: The development of communication systems has brought great social and economic benefits to society. As mobile phone use has become widespread, concerns have emerged regarding the potential adverse effects of radiofrequency electromagnetic radiation (RF-EMR) used by these devices.
 
-To verify potential effects of mobile phone radiation on the central nervous system (CNS) in an animal model.
+OBJECTIVE: To verify potential effects of mobile phone radiation on the central nervous system (CNS) in an animal model.
 
-Male Wistar rats (60 days old) were exposed to RF-EMR from a Global System for Mobile (GSM) cell phone (1·8 GHz) for 3 days. At the end of the exposure, the following behavioral tests were performed: open field and object recognition.
+METHODS: Male Wistar rats (60 days old) were exposed to RF-EMR from a Global System for Mobile (GSM) cell phone (1·8 GHz) for 3 days. At the end of the exposure, the following behavioral tests were performed: open field and object recognition.
 
-Our results showed that exposed animals did not present anxiety patterns or working memory impairment, but stress behavior actions were observed.
+RESULTS: Our results showed that exposed animals did not present anxiety patterns or working memory impairment, but stress behavior actions were observed.
 
-Given the results of the present study, we speculate that RF-EMR does not promote CNS impairment, but suggest that it may lead to stressful behavioral patterns.
+CONCLUSION: Given the results of the present study, we speculate that RF-EMR does not promote CNS impairment, but suggest that it may lead to stressful behavioral patterns.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/24620965/)

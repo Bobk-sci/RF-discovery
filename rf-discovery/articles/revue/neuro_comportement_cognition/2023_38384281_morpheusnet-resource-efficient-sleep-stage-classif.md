@@ -17,10 +17,18 @@ mots_cles:
 - SSC
 - deep learning
 - resource efficient
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Kavoosi A
+- Mitchell MP
+- Kariyawasam R
+- Fleming JE
+- Lewis P
+- Johansen-Berg H
+- Cagnan H
+- Denison T
+pmcid: PMC7615658
+volume: '2023'
+pages: 2315-2320
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

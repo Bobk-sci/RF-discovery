@@ -26,10 +26,12 @@ mots_cles:
 - Autoregressive cross-lagged modeling
 - Mobile phone dependence
 - School adaptation
-auteurs: []
+auteurs:
+- Choe C
+- Yu S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '228'
+pages: '103628'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

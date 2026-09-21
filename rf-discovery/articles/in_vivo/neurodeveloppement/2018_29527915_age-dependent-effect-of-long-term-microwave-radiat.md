@@ -21,10 +21,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Raček A
+- Beňová K
+- Arnoul P
+- Závodská M
+- Angelidis A
+- Cigánková V
+- Šimaiová V
+- Račeková E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '67'
+pages: 495-503
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

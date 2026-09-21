@@ -24,10 +24,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Chakraborty N
+- Biswas D
+- Parker W
+- Moyer P
+- Elliott GD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '100'
+pages: 782-96
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

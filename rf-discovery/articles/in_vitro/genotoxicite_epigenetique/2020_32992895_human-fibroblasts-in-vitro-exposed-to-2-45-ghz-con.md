@@ -30,9 +30,21 @@ mots_cles:
 - Wi-Fi
 - gene expression
 - genotoxic effect
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Regalbuto E
+- Anselmo A
+- De Sanctis S
+- Franchini V
+- Lista F
+- Benvenuto M
+- Bei R
+- Masuelli L
+- D'Inzeo G
+- Paffi A
+- Trodella E
+- Sgura A
+pmcid: PMC7584027
+volume: '21'
 pages: ''
 modele: in_vitro
 modele_score: 1007.0

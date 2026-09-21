@@ -28,10 +28,15 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Salford LG
+- Brun AE
+- Eberhardt JL
+- Malmgren L
+- Persson BR
+pmcid: PMC1241519
+volume: '111'
+pages: 881-3; discussion A408
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

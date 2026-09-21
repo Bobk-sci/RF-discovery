@@ -31,10 +31,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Buttiglione M
+- Roca L
+- Montemurno E
+- Vitiello F
+- Capozzi V
+- Cibelli G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '213'
+pages: 759-67
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires:

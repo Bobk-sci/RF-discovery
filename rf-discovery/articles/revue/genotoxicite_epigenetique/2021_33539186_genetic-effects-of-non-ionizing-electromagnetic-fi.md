@@ -24,10 +24,11 @@ mots_cles:
 - genetic effects
 - genotoxicity
 - static/extremely low frequency EMF
-auteurs: []
+auteurs:
+- Lai H
 pmcid: ''
-volume: ''
-pages: ''
+volume: '40'
+pages: 264-273
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

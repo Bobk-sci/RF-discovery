@@ -28,10 +28,16 @@ types:
 - Research Support, U.S. Gov't, Non-P.H.S.
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- Chou CK
+- Guy AW
+- Kunz LL
+- Johnson RB
+- Crowley JJ
+- Krupp JH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '13'
+pages: 469-96
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

@@ -17,10 +17,16 @@ mots_cles:
 - microwave
 - rat
 - traumatic brain injury
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Igarashi Y
+- Matsuda Y
+- Fuse A
+- Ishiwata T
+- Naito Z
+- Yokota H
+pmcid: PMC4487000
+volume: '3'
+pages: 468-472
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

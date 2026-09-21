@@ -26,10 +26,14 @@ mots_cles:
 - Microwaves
 - Morris water maze
 - Protein
-auteurs: []
+auteurs:
+- Sharma A
+- Kesari KK
+- Saxena VK
+- Sisodia R
 pmcid: ''
-volume: ''
-pages: ''
+volume: '435'
+pages: 1-13
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

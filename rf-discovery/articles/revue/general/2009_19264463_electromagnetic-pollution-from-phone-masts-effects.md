@@ -13,10 +13,11 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Balmori A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '16'
+pages: 191-9
 modele: revue
 modele_score: 1.0
 modele_secondaires:

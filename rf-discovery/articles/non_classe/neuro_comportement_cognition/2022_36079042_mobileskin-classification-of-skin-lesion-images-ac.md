@@ -18,9 +18,15 @@ mots_cles:
 - lightweight architectures
 - mobile phone
 - skin cancer
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Yilmaz A
+- Gencoglan G
+- Varol R
+- Demircali AA
+- Keshavarz M
+- Uvet H
+pmcid: PMC9457478
+volume: '11'
 pages: ''
 modele: non_classe
 modele_score: 0.0

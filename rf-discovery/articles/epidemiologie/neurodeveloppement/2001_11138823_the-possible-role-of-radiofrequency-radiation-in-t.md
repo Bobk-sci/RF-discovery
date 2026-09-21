@@ -29,10 +29,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Stang A
+- Anastassiou G
+- Ahrens W
+- Bromen K
+- Bornfeld N
+- Jöckel KH
 pmcid: ''
-volume: ''
-pages: ''
+volume: '12'
+pages: 7-12
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []

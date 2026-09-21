@@ -26,10 +26,21 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Martin D
+- Cinca S
+- Margaritescu I
+- Neagu M
+- Iacob N
+- Ighigeanu D
+- Matei C
+- Craciun G
+- Manaila E
+- Chirita DA
+- Moisescu M
 pmcid: ''
-volume: ''
-pages: ''
+volume: '43'
+pages: 12-20
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:

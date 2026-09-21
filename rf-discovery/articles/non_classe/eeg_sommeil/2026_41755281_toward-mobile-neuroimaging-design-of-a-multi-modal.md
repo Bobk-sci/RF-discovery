@@ -32,9 +32,15 @@ mots_cles:
 - fNIRS
 - mobile neuroimaging
 - wireless brain monitoring
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Barras M
+- Booth L
+- Bateson AD
+- Asghar AUR
+- Zeinali M
+- Mehmood A
+pmcid: PMC12944262
+volume: '26'
 pages: ''
 modele: non_classe
 modele_score: 0.0

@@ -17,9 +17,16 @@ mots_cles:
 - inflammation
 - pulsed radiofrequency electromagnetic field
 - wound healing
-auteurs: []
-pmcid: ''
-volume: ''
+auteurs:
+- Costantini E
+- Aielli L
+- Gualdi G
+- Baronio M
+- Monari P
+- Amerio P
+- Reale M
+pmcid: PMC11047973
+volume: '11'
 pages: ''
 modele: in_vitro
 modele_score: 3.5

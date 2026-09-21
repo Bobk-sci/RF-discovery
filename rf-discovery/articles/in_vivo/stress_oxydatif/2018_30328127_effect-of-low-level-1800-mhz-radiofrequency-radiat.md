@@ -27,10 +27,20 @@ mots_cles:
 - paricalcitol
 - radiofrequency radiation
 - sciatic nerve
-auteurs: []
+auteurs:
+- Comelekoglu U
+- Aktas S
+- Demirbag B
+- Karagul MI
+- Yalin S
+- Yildirim M
+- Akar A
+- Korunur Engiz B
+- Sogut F
+- Ozbay E
 pmcid: ''
-volume: ''
-pages: ''
+volume: '39'
+pages: 631-643
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

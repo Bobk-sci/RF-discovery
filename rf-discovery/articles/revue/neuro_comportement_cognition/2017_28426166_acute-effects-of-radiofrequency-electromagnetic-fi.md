@@ -26,10 +26,13 @@ mots_cles:
 - mobile phone
 - neuroimaging
 - radiofrequency electromagnetic field
-auteurs: []
+auteurs:
+- Zhang J
+- Sumich A
+- Wang GY
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 329-338
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

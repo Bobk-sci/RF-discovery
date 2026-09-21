@@ -44,10 +44,13 @@ mots_cles:
 - offspring
 - pregnancy
 - total distance moved
-auteurs: []
+auteurs:
+- Haghani M
+- Shabani M
+- Moazzami K
 pmcid: ''
-volume: ''
-pages: ''
+volume: '250'
+pages: 588-98
 modele: in_vivo
 modele_score: 14.0
 modele_secondaires: []

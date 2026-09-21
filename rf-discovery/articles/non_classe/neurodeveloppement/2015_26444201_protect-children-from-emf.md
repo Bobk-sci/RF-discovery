@@ -22,10 +22,12 @@ types:
 mots_cles:
 - Children protection
 - Wi-Fi radiation
-auteurs: []
+auteurs:
+- Markov M
+- Grigoriev Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '34'
+pages: 251-6
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

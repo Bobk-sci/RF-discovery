@@ -24,10 +24,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Zhang S
+- Mo F
+- Chang Y
+- Wu S
+- Ma Q
+- Jin F
+- Xing L
 pmcid: ''
-volume: ''
-pages: ''
+volume: '34'
+pages: 669-678
 modele: epidemiologie
 modele_score: 1002.5
 modele_secondaires: []

@@ -23,10 +23,15 @@ mots_cles:
 - electromagnetic measurements
 - health effects
 - safety guidelines
-auteurs: []
+auteurs:
+- Tyrakis C
+- Theodorou K
+- Kiouvrekis Y
+- Alexias A
+- Kappas C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '44'
+pages: 17-25
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

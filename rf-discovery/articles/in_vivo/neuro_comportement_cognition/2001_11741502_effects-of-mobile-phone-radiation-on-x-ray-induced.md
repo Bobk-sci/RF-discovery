@@ -25,10 +25,21 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Heikkinen P
+- Kosma VM
+- Hongisto T
+- Huuskonen H
+- Hyysalo P
+- Komulainen H
+- Kumlin T
+- Lahtinen T
+- Lang S
+- Puranen L
+- Juutilainen J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '156'
+pages: 775-85
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

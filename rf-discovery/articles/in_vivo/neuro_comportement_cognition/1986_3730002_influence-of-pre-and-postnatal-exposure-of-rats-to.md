@@ -27,10 +27,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Galvin MJ
+- Tilson HA
+- Mitchell CL
+- Peterson J
+- McRee DI
 pmcid: ''
-volume: ''
-pages: ''
+volume: '7'
+pages: 57-71
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

@@ -24,10 +24,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Nittby H
+- Grafström G
+- Tian DP
+- Malmgren L
+- Brun A
+- Persson BR
+- Salford LG
+- Eberhardt J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '29'
+pages: 219-32
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

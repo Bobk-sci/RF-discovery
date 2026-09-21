@@ -34,10 +34,18 @@ mots_cles:
 - Muscarinic receptor
 - Novel object recognition
 - Wi-Fi
-auteurs: []
+auteurs:
+- Hassanshahi A
+- Shafeie SA
+- Fatemi I
+- Hassanshahi E
+- Allahtavakoli M
+- Shabani M
+- Roohbakhsh A
+- Shamsizadeh A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '38'
+pages: 1069-1076
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

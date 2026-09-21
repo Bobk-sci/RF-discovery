@@ -30,10 +30,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Foster KR
+- Ziskin MC
+- Balzano Q
 pmcid: ''
-volume: ''
-pages: ''
+volume: '113'
+pages: 41-53
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

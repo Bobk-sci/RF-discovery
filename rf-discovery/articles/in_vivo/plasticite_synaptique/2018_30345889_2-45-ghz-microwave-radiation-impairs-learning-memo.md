@@ -29,10 +29,15 @@ mots_cles:
 - learning and memory
 - synaptic plasticity
 - wireless
-auteurs: []
+auteurs:
+- Karimi N
+- Bayat M
+- Haghani M
+- Saadi HF
+- Ghazipour GR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '34'
+pages: 873-883
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires:

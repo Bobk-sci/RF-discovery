@@ -27,10 +27,72 @@ mots_cles:
 - app
 - rhinitis
 - work productivity
-auteurs: []
+auteurs:
+- Bousquet J
+- Bewick M
+- Arnavielhe S
+- Mathieu-Dupas E
+- Murray R
+- Bedbrook A
+- Caimmi DP
+- Vandenplas O
+- Hellings PW
+- Bachert C
+- Anto JM
+- Bergmann KC
+- Bindslev-Jensen C
+- Bosnic-Anticevich S
+- Bouchard J
+- Canonica GW
+- Chavannes NH
+- Cruz AA
+- Dahl R
+- Demoly P
+- De Vries G
+- Devillier P
+- Fink-Wagner A
+- Fokkens WJ
+- Fonseca J
+- Guldemond NA
+- Haahtela T
+- Hellqvist-Dahl B
+- Just J
+- Keil T
+- Klimek L
+- Kowalski ML
+- Kuna P
+- Kvedariene V
+- Laune D
+- Larenas-Linnemann D
+- Mullol J
+- Pereira AM
+- Carreiro-Martins P
+- Melén E
+- Morais-Almeida M
+- Nogueira-Silva L
+- O'Hehir RE
+- Papadopoulos NG
+- Passalacqua G
+- Portejoie F
+- Price D
+- Ryan D
+- Samolinski B
+- Sheikh A
+- Simons FER
+- Spranger O
+- Todo Bom A
+- Tomazic PV
+- Triggiani M
+- Valero A
+- Valovirta E
+- Valiulis A
+- van Eerd M
+- Wickman M
+- Young I
+- Zuberbier T
 pmcid: ''
-volume: ''
-pages: ''
+volume: '72'
+pages: 1475-1484
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

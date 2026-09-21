@@ -22,10 +22,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Gläser K
+- Rohland M
+- Kleine-Ostmann T
+- Schrader T
+- Stopper H
+- Hintzsche H
 pmcid: ''
-volume: ''
-pages: ''
+volume: '186'
+pages: 455-465
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:

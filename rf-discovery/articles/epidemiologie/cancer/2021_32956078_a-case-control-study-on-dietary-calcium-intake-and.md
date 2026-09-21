@@ -21,10 +21,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Fallah Yekta M
+- Soltani S
+- Shayanfar M
+- Benisi-Kohansal S
+- Mohammad-Shirazi M
+- Sharifi G
+- Esmaillzadeh A
 pmcid: ''
-volume: ''
-pages: ''
+volume: '30'
+pages: 322-327
 modele: epidemiologie
 modele_score: 1010.0
 modele_secondaires: []

@@ -37,10 +37,16 @@ mots_cles:
 - Participación del paciente
 - Patient participation
 - Text messaging
-auteurs: []
+auteurs:
+- Arcas MM
+- Buron A
+- Ramis O
+- Esturi M
+- Hernández C
+- Macià F
 pmcid: ''
-volume: ''
-pages: ''
+volume: '29'
+pages: 188-96
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -57,12 +63,12 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-To evaluate the impact of a mobile phone short message on women's uptake in a breast cancer screening programme.
+OBJECTIVE: To evaluate the impact of a mobile phone short message on women's uptake in a breast cancer screening programme.
 
-A total of 703 women from a Basic Health Area of Barcelona, and with a mobile phone number registered, were invited to participate in a breast cancer screening programme between 25 January 2011 and 22 March 2011. The control group (n=470) followed the usual appointment track, and the intervention group (n=233) received, after the first letter of invitation, a mobile phone short message reminder. The differences between the two groups were analysed, comparing the uptake rates according to age, educational level, and participation in previous round, as well as the number of re-invitation calls to non-attenders according to uptake, age and level of education;and the percentages of exclusions of both groups.
+METHODS: A total of 703 women from a Basic Health Area of Barcelona, and with a mobile phone number registered, were invited to participate in a breast cancer screening programme between 25 January 2011 and 22 March 2011. The control group (n=470) followed the usual appointment track, and the intervention group (n=233) received, after the first letter of invitation, a mobile phone short message reminder. The differences between the two groups were analysed, comparing the uptake rates according to age, educational level, and participation in previous round, as well as the number of re-invitation calls to non-attenders according to uptake, age and level of education;and the percentages of exclusions of both groups.
 
-The intervention group had a greater uptake than the control group (78.1% vs. 72.3%), with a significant trend observed in the 55-59 years age group (P=.036) and the low secondary educational level (P=.014).The intervention group mean of re-invitation calls of non-attenders lower than the control group (.41 vs. .65, P<.05), a pattern observed in all the categories of the independent variables, and among younger age groups, lower and middle educational levels, and previously participating women (.09 vs. .19, P=.012).
+RESULTS: The intervention group had a greater uptake than the control group (78.1% vs. 72.3%), with a significant trend observed in the 55-59 years age group (P=.036) and the low secondary educational level (P=.014).The intervention group mean of re-invitation calls of non-attenders lower than the control group (.41 vs. .65, P<.05), a pattern observed in all the categories of the independent variables, and among younger age groups, lower and middle educational levels, and previously participating women (.09 vs. .19, P=.012).
 
-The inclusion of a mobile phone short message in a breast cancer screening programme may increase uptake rates and lead to a management improvement.
+CONCLUSIONS: The inclusion of a mobile phone short message in a breast cancer screening programme may increase uptake rates and lead to a management improvement.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/25002239/)

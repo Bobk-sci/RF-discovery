@@ -25,10 +25,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Loughran SP
+- Wood AW
+- Barton JM
+- Croft RJ
+- Thompson B
+- Stough C
 pmcid: ''
-volume: ''
-pages: ''
+volume: '16'
+pages: 1973-6
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

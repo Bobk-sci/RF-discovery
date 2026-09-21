@@ -33,10 +33,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Wilén J
+- Sandström M
+- Hansson Mild K
 pmcid: ''
-volume: ''
-pages: ''
+volume: '24'
+pages: 152-9
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:

@@ -28,10 +28,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Nelson BK
+- Snyder DL
+- Shaw PB
 pmcid: ''
-volume: ''
-pages: ''
+volume: '13'
+pages: 137-45
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

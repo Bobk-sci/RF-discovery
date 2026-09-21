@@ -19,10 +19,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- van der Meer JN
+- Eisma YB
+- Meester R
+- Jacobs M
+- Nederveen AJ
+pmcid: PMC10709380
+volume: '13'
+pages: '21758'
 modele: humain_experimental
 modele_score: 5.0
 modele_secondaires:

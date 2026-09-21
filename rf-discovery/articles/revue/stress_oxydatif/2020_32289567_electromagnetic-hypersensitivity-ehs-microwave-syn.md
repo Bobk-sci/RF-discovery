@@ -38,10 +38,12 @@ mots_cles:
 - Public health
 - RF
 - Radiofrequency
-auteurs: []
+auteurs:
+- Stein Y
+- Udasin IG
 pmcid: ''
-volume: ''
-pages: ''
+volume: '186'
+pages: '109445'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

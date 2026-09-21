@@ -18,10 +18,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Lin JC
 pmcid: ''
-volume: ''
-pages: ''
+volume: '222'
+pages: '115369'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

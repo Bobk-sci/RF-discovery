@@ -18,10 +18,16 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Echchgadda I
+- Cantu JC
+- Tolstykh GP
+- Butterworth JW
+- Payne JA
+- Ibey BL
+pmcid: PMC8894459
+volume: '12'
+pages: '3506'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

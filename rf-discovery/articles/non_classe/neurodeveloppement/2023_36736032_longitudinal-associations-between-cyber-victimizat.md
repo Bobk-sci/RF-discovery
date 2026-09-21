@@ -30,10 +30,13 @@ mots_cles:
 - Problematic Mobile phone use
 - Random intercept cross-lagged panel models
 - Sleep problems
-auteurs: []
+auteurs:
+- Chen Y
+- Bao Z
+- Zhu J
 pmcid: ''
-volume: ''
-pages: ''
+volume: '138'
+pages: '106065'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -53,12 +56,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Being the target of cyber victimization has been shown to be connected with several forms of maladjustment among adolescents. However, there is not a clear understanding of the impact of cyber victimization on Problematic Mobile Phone Use (PMPU) and the potential mechanism underlying the association. The present study tested the longitudinal association between cyber victimization and adolescents' PMPU as well as the mediating role of sleep problems in this association.
+BACKGROUND: Being the target of cyber victimization has been shown to be connected with several forms of maladjustment among adolescents. However, there is not a clear understanding of the impact of cyber victimization on Problematic Mobile Phone Use (PMPU) and the potential mechanism underlying the association. The present study tested the longitudinal association between cyber victimization and adolescents' PMPU as well as the mediating role of sleep problems in this association.
 
-A sample of 1835 Chinese adolescents (55.9 % boys; M = 12.34) completed self-report questionnaires regarding cyber victimization, sleep problems and PMPU at four time points, using 6-month intervals. Gender, age and socioeconomic status were controlled for in the analyses. We tested cross-lagged panel models (CLPMs) and random intercept cross-lagged panel models (RI-CLPMs) to separate between- and within-person effects, allowing a robust and rigorous test of relationships among variables.
+METHODS: A sample of 1835 Chinese adolescents (55.9 % boys; Mage = 12.34) completed self-report questionnaires regarding cyber victimization, sleep problems and PMPU at four time points, using 6-month intervals. Gender, age and socioeconomic status were controlled for in the analyses. We tested cross-lagged panel models (CLPMs) and random intercept cross-lagged panel models (RI-CLPMs) to separate between- and within-person effects, allowing a robust and rigorous test of relationships among variables.
 
-As hypothesized, at the within-person level, cyber victimization was a predictive risk factor of later PMPU among adolescents, and sleep problems served as an explanatory mechanism by which cyber victimization predicted adolescents' PMPU over time.
+RESULTS: As hypothesized, at the within-person level, cyber victimization was a predictive risk factor of later PMPU among adolescents, and sleep problems served as an explanatory mechanism by which cyber victimization predicted adolescents' PMPU over time.
 
-These findings contribute to identifying adolescents at risk for engaging in PMPU, as well as the prevention and intervention.
+CONCLUSION: These findings contribute to identifying adolescents at risk for engaging in PMPU, as well as the prevention and intervention.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/36736032/)

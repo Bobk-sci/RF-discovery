@@ -24,10 +24,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Yakymenko I
+- Burlaka A
+- Tsybulin I
+- Brieieva I
+- Buchynska L
+- Tsehmistrenko I
+- Chekhun F
 pmcid: ''
-volume: ''
-pages: ''
+volume: '40'
+pages: 282-287
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -50,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Despite a significant number of epidemiological studies on potential carcinogenicity of microwave radiation (MWR) from wireless devices and a bulk of experimental studies on oxidative and mutagenic effects of low intensity MWR, the discussion on potential carcinogenicity of low intensity MWR is going on. This study aims to assess oxidative and mutagenic effects of low intensity MWR from a typical commercial model of a modern smartphone.
+AIM: Despite a significant number of epidemiological studies on potential carcinogenicity of microwave radiation (MWR) from wireless devices and a bulk of experimental studies on oxidative and mutagenic effects of low intensity MWR, the discussion on potential carcinogenicity of low intensity MWR is going on. This study aims to assess oxidative and mutagenic effects of low intensity MWR from a typical commercial model of a modern smartphone.
 
-The model of developing quail embryos has been used for the assessment of oxidative and mutagenic effects of Global System for Mobile communication (GSM) 1800 MHz MWR from a commercial model of smartphone. The embryos were exposed in ovo to 0.32 µW/cm2, discontinuously - 48 s - On, 12 s - Off, during 5 days before and 14 days through the incubation period.
+MATERIALS AND METHODS: The model of developing quail embryos has been used for the assessment of oxidative and mutagenic effects of Global System for Mobile communication (GSM) 1800 MHz MWR from a commercial model of smartphone. The embryos were exposed in ovo to 0.32 µW/cm2, discontinuously - 48 s - On, 12 s - Off, during 5 days before and 14 days through the incubation period.
 
-The exposure of quail embryos before and during the incubation period to low intensity GSM 1800 MHz has resulted in expressive statistically significant oxidative effects in embryonic cells, including a 2-fold increase in superoxide generation rate and 85% increase in nitrogen oxide generation rate, damages of DNA integrity and oxidative damages of DNA (up to twice increased levels of 8-oxo-dG in cells of 1-day old chicks from the exposed embryos). Finally, the exposure resulted in a significant, almost twice, increase of embryo mortality.
+RESULTS: The exposure of quail embryos before and during the incubation period to low intensity GSM 1800 MHz has resulted in expressive statistically significant oxidative effects in embryonic cells, including a 2-fold increase in superoxide generation rate and 85% increase in nitrogen oxide generation rate, damages of DNA integrity and oxidative damages of DNA (up to twice increased levels of 8-oxo-dG in cells of 1-day old chicks from the exposed embryos). Finally, the exposure resulted in a significant, almost twice, increase of embryo mortality.
 
-The exposure of model biological system to low intensity GSM 1800 MHz MWR resulted in significant oxidative and mutagenic effects in exposed cells, and thus should be recognized as a significant risk factor for living cells.
+CONCLUSION: The exposure of model biological system to low intensity GSM 1800 MHz MWR resulted in significant oxidative and mutagenic effects in exposed cells, and thus should be recognized as a significant risk factor for living cells.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/30593748/)

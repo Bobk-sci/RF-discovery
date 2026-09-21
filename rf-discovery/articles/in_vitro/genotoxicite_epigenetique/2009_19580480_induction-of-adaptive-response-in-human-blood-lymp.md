@@ -22,10 +22,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Sannino A
+- Sarti M
+- Reddy SB
+- Prihoda TJ
+- Vijayalaxmi
+- Scarfì MR
 pmcid: ''
-volume: ''
-pages: ''
+volume: '171'
+pages: 735-42
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

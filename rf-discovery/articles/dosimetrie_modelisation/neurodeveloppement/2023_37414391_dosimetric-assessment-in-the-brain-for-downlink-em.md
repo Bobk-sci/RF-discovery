@@ -31,10 +31,12 @@ mots_cles:
 - SA
 - SAR
 - Seoul
-auteurs: []
+auteurs:
+- Lee AK
+- Choi HD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '234'
+pages: '116542'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

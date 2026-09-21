@@ -39,10 +39,13 @@ mots_cles:
 - Mobile phone radiation
 - Oxidative & nitrosative stress
 - Steroidogenesis
-auteurs: []
+auteurs:
+- Shahin S
+- Singh SP
+- Chaturvedi CM
 pmcid: ''
-volume: ''
-pages: ''
+volume: '73'
+pages: 41-60
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

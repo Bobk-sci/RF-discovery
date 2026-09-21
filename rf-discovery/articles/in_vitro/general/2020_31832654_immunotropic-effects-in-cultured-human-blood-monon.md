@@ -25,10 +25,16 @@ mots_cles:
 - immunoregulation
 - lymphocytes
 - monokines
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Szymański Ł
+- Sobiczewska E
+- Cios A
+- Szymanski P
+- Ciepielak M
+- Stankiewicz W
+pmcid: PMC6976861
+volume: '61'
+pages: 27-33
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

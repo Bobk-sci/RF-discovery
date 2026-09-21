@@ -27,10 +27,15 @@ mots_cles:
 - antiapoptotic factors
 - proapoptotic factors
 - radiofrequency
-auteurs: []
+auteurs:
+- Gökçen S
+- Kurt B
+- Küçükbağrıaçık Y
+- Ozgur-Buyukatalay E
+- Kismali G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '41'
+pages: 325-334
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

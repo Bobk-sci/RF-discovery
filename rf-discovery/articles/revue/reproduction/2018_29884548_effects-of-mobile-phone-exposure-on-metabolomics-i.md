@@ -27,10 +27,15 @@ mots_cles:
 - Oogenesis
 - Oxidative stress
 - Spermatogenesis
-auteurs: []
+auteurs:
+- Altun G
+- Deniz ÖG
+- Yurt KK
+- Davis D
+- Kaplan S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '167'
+pages: 700-707
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

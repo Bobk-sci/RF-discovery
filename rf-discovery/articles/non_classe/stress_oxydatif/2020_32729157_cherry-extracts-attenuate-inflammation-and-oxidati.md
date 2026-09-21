@@ -20,10 +20,16 @@ mots_cles:
 - monosodium urate crystal
 - phagocytosis
 - reactive species oxygen
-auteurs: []
+auteurs:
+- Vírgen Gen JJ
+- Guzmán-Gerónimo RI
+- Martínez-Flores K
+- Martínez-Nava GA
+- Fernández-Torres J
+- Zamudio-Cuevas Y
 pmcid: ''
-volume: ''
-pages: ''
+volume: '44'
+pages: e13403
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

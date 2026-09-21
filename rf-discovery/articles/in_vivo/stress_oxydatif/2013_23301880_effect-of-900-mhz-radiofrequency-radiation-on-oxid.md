@@ -30,10 +30,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
-auteurs: []
+auteurs:
+- Bilgici B
+- Akar A
+- Avci B
+- Tuncel OK
 pmcid: ''
-volume: ''
-pages: ''
+volume: '32'
+pages: 20-9
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

@@ -2,45 +2,50 @@
 pmid: '41498450'
 doi: 10.1002/bem.70042
 annee: 2026
-journal: ''
+journal: Bioelectromagnetics
 titre: 'RF-EMF Risk Perception and Trust in Radiation Protection Authorities: A Comparative
   Study on Precautionary Information in Germany and Greece.'
 url: https://pubmed.ncbi.nlm.nih.gov/41498450/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
 - Humans
-- Risk Assessment
-- Trust
-- Perception
-- Radiation Protection
 - Electromagnetic Fields
+- Male
 - Radio Waves
-- Adolescent
-- Adult
-- Aged
-- Middle Aged
-- Germany
 - Greece
 - Female
-- Male
-- Young Adult
+- Trust
+- Germany
+- Adult
+- Perception
+- Radiation Protection
+- Middle Aged
 - Cell Phone
+- Risk Assessment
+- Young Adult
+- Aged
+- Adolescent
 types:
-- Comparative Study
-- research-article
 - Journal Article
+- Comparative Study
 mots_cles:
-- TRUST
-- Risk Perception
-- Mobile Communications
-- Precautionary Information
-- Radio‐frequency Electromagnetic Fields (Rf‐emf)
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+- mobile communications
+- precautionary information
+- radio‐frequency electromagnetic fields (RF‐EMF)
+- risk perception
+- trust
+auteurs:
+- Eggeling-Böcker M
+- Karabetsos E
+- Christopoulou M
+- Link SC
+- Abacioglu F
+- Boehmert C
+pmcid: PMC12777509
+volume: '47'
+pages: e70042
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -55,7 +60,7 @@ theme_indices:
 
 # RF-EMF Risk Perception and Trust in Radiation Protection Authorities: A Comparative Study on Precautionary Information in Germany and Greece.
 
-*journal non renseigné — 2026*
+*Bioelectromagnetics — 2026*
 
 ## Résumé (texte d'origine)
 

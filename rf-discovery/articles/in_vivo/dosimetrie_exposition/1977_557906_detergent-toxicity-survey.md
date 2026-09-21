@@ -19,10 +19,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Seabaugh VM
+- Bayard SP
+- Osterberg RE
+- Porter WK
+- McCaulley DF
+- Hoheisel CA
+- Hehir RM
+- Bierbower GW
+pmcid: PMC1653623
+volume: '67'
+pages: 367-9
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

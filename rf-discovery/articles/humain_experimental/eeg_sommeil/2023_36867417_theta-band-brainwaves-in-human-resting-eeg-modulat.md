@@ -24,10 +24,16 @@ mots_cles:
 - mobile phone
 - radiofrequency
 - resting-state
-auteurs: []
+auteurs:
+- Wallace J
+- Shang W
+- Gitton C
+- Hugueville L
+- Yahia-Cherif L
+- Selmaoui B
 pmcid: ''
-volume: ''
-pages: ''
+volume: '99'
+pages: 1639-1647
 modele: humain_experimental
 modele_score: 4.5
 modele_secondaires:
@@ -51,12 +57,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Wireless communication has become an integral part of our lives. The growing number of antennas in our environment and the expanding use of mobile phones (MPs) are increasing the population's exposure to electromagnetic fields. The present study aimed to examine the potential impact of MPs radiofrequency electromagnetic fields (RF-EMF) exposure on the brainwaves of the resting electroencephalogram (EEG) in humans.
+PURPOSE: Wireless communication has become an integral part of our lives. The growing number of antennas in our environment and the expanding use of mobile phones (MPs) are increasing the population's exposure to electromagnetic fields. The present study aimed to examine the potential impact of MPs radiofrequency electromagnetic fields (RF-EMF) exposure on the brainwaves of the resting electroencephalogram (EEG) in humans.
 
-Twenty-one healthy volunteers were exposed to Global System for Mobile communications (GSM) signal at 900 MHz MP RF-EMF. The maximum specific absorption rate (SAR) of the MP averaged on 10 g tissue and 1 g tissue were measured at 0.49 W/kg, 0.70 W/kg, respectively.
+MATERIALS AND METHODS: Twenty-one healthy volunteers were exposed to Global System for Mobile communications (GSM) signal at 900 MHz MP RF-EMF. The maximum specific absorption rate (SAR) of the MP averaged on 10 g tissue and 1 g tissue were measured at 0.49 W/kg, 0.70 W/kg, respectively.
 
-Results showed that while delta and beta rhythms of resting EEG were not affected, theta brainwaves were significantly modulated during exposure to RF-EMF related to MPs. For the first time, it was shown that this modulation is dependent on the eye condition, i.e. closed or open.
+RESULTS: Results showed that while delta and beta rhythms of resting EEG were not affected, theta brainwaves were significantly modulated during exposure to RF-EMF related to MPs. For the first time, it was shown that this modulation is dependent on the eye condition, i.e. closed or open.
 
-This study strongly suggests that acute exposure to RF-EMF alters the EEG theta rhythm at rest. Long-term exposure studies are required to explore the effect of this disruption in high-risk or sensitive populations.
+CONCLUSIONS: This study strongly suggests that acute exposure to RF-EMF alters the EEG theta rhythm at rest. Long-term exposure studies are required to explore the effect of this disruption in high-risk or sensitive populations.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/36867417/)

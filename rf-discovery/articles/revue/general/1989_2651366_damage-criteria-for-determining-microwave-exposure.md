@@ -18,10 +18,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
-auteurs: []
+auteurs:
+- Servantie B
 pmcid: ''
-volume: ''
-pages: ''
+volume: '56'
+pages: 781-6
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

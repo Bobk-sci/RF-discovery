@@ -22,10 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Oscar KJ
+- Hawkins TD
 pmcid: ''
-volume: ''
-pages: ''
+volume: '126'
+pages: 281-93
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

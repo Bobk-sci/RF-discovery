@@ -28,10 +28,17 @@ mots_cles:
 - melatonin
 - oxidative stress
 - radiofrequency radiation
-auteurs: []
+auteurs:
+- Delen K
+- Sırav B
+- Oruç S
+- Seymen CM
+- Kuzay D
+- Yeğin K
+- Take Kaplanoğlu G
 pmcid: ''
-volume: ''
-pages: ''
+volume: '42'
+pages: 159-172
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

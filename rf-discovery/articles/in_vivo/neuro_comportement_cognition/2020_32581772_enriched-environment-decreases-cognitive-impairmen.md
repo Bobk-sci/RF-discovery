@@ -18,10 +18,15 @@ mots_cles:
 - mobile phone exposure
 - offspring
 - prenatal
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Hong S
+- Huang H
+- Yang M
+- Wu H
+- Wang L
+pmcid: PMC7287020
+volume: '12'
+pages: '162'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

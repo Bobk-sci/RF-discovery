@@ -25,10 +25,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Yilmaz F
+- Dasdag S
+- Akdag MZ
+- Kilinc N
 pmcid: ''
-volume: ''
-pages: ''
+volume: '27'
+pages: 65-72
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

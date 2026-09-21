@@ -20,10 +20,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
-auteurs: []
+auteurs:
+- D'Andrea JA
+- Cobb BL
+- de Lorge JO
 pmcid: ''
-volume: ''
-pages: ''
+volume: '10'
+pages: 65-76
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

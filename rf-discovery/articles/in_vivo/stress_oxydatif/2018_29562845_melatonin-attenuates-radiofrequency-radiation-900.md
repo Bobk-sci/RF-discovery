@@ -36,10 +36,12 @@ mots_cles:
 - melatonin
 - radiofrequency radiations
 - sperm
-auteurs: []
+auteurs:
+- Pandey N
+- Giri S
 pmcid: ''
-volume: ''
-pages: ''
+volume: '34'
+pages: 315-327
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

@@ -24,10 +24,13 @@ mots_cles:
 - user performance
 - visual memory
 - working memory
-auteurs: []
-pmcid: ''
-volume: ''
-pages: ''
+auteurs:
+- Redlinger E
+- Glas B
+- Rong Y
+pmcid: PMC9100375
+volume: '10'
+pages: e35295
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -49,14 +52,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Although the pursuit of improved cognitive function through working memory training has been the subject of decades of research, the recent growth in commercial adaptations of classic working memory tasks in the form of gamified apps warrants additional scrutiny. In particular, the emergence of virtual reality as a platform for cognitive training presents opportunities for the use of novel visual features.
+BACKGROUND: Although the pursuit of improved cognitive function through working memory training has been the subject of decades of research, the recent growth in commercial adaptations of classic working memory tasks in the form of gamified apps warrants additional scrutiny. In particular, the emergence of virtual reality as a platform for cognitive training presents opportunities for the use of novel visual features.
 
-This study aimed to add to the body of knowledge regarding the use of game-like visual design elements by specifically examining the application of two particular visual features common to virtual reality environments: immersive, colorful backgrounds and the use of 3D depth. In addition, electroencephalography (EEG) data were collected to identify potential neural correlates of any observed changes in performance.
+OBJECTIVE: This study aimed to add to the body of knowledge regarding the use of game-like visual design elements by specifically examining the application of two particular visual features common to virtual reality environments: immersive, colorful backgrounds and the use of 3D depth. In addition, electroencephalography (EEG) data were collected to identify potential neural correlates of any observed changes in performance.
 
-A simple visual working memory task was presented to participants in several game-like adaptations, including the use of colorful, immersive backgrounds and 3D depth. The impact of each adaptation was separately assessed using both EEG and performance assessment outcomes and compared with an unmodified version of the task.
+METHODS: A simple visual working memory task was presented to participants in several game-like adaptations, including the use of colorful, immersive backgrounds and 3D depth. The impact of each adaptation was separately assessed using both EEG and performance assessment outcomes and compared with an unmodified version of the task.
 
-Results suggest that although accuracy and reaction time may be slightly affected by the introduction of such game elements, the effects were small and not statistically significant. Changes in EEG power, particularly in the beta and theta rhythms, were significant but failed to correlate with any corresponding changes in performance. Therefore, they may only reflect cognitive changes at the perceptual level.
+RESULTS: Results suggest that although accuracy and reaction time may be slightly affected by the introduction of such game elements, the effects were small and not statistically significant. Changes in EEG power, particularly in the beta and theta rhythms, were significant but failed to correlate with any corresponding changes in performance. Therefore, they may only reflect cognitive changes at the perceptual level.
 
-Overall, the data suggest that the addition of these specific visual features to simple cognitive tasks does not appear to significantly affect performance or task-dependent cognitive load.
+CONCLUSIONS: Overall, the data suggest that the addition of these specific visual features to simple cognitive tasks does not appear to significantly affect performance or task-dependent cognitive load.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35482373/)
