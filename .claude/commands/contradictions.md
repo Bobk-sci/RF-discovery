@@ -24,3 +24,23 @@ Règles :
 - Ne tranche pas un débat que les données ne tranchent pas. Une contradiction non
   résolue reste une contradiction.
 - Signale si les études en désaccord viennent des mêmes équipes.
+
+## Où écrire le résultat
+
+Écris la réponse dans `rf-discovery/articles/_syntheses/contradictions-<sujet-en-minuscules>.md`,
+en commençant par un en-tête YAML :
+
+```yaml
+---
+type: contradictions
+question: "<la demande, telle qu'elle a été formulée>"
+date: <AAAA-MM-JJ>
+fiches_lues: <nombre>
+---
+```
+
+Ce dossier est dans le coffre Obsidian (jonction) : la note y apparaît aussitôt, et
+Smart Connections l'indexera comme les autres. Le préfixe `_` le met à l'abri des
+scripts de reclassement.
+
+Affiche aussi la réponse dans la conversation, et termine par le chemin du fichier écrit.

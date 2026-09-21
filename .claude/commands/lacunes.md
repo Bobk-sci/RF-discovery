@@ -28,3 +28,23 @@ Règles :
   vois pas.
 - Termine par les requêtes à ajouter dans `rf-discovery/config/taxonomy.yaml` pour
   combler ce qui semble manquer par construction.
+
+## Où écrire le résultat
+
+Écris la réponse dans `rf-discovery/articles/_syntheses/lacunes-<sujet-en-minuscules>.md`,
+en commençant par un en-tête YAML :
+
+```yaml
+---
+type: lacunes
+question: "<la demande, telle qu'elle a été formulée>"
+date: <AAAA-MM-JJ>
+fiches_lues: <nombre>
+---
+```
+
+Ce dossier est dans le coffre Obsidian (jonction) : la note y apparaît aussitôt, et
+Smart Connections l'indexera comme les autres. Le préfixe `_` le met à l'abri des
+scripts de reclassement.
+
+Affiche aussi la réponse dans la conversation, et termine par le chemin du fichier écrit.

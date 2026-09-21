@@ -156,6 +156,11 @@ Toutes imposent la même règle que la collecte : **aucune référence, aucun ch
 soit dans une fiche lue**. `CLAUDE.md` est chargé automatiquement et rappelle ces
 contraintes.
 
+Chaque commande écrit sa réponse dans `articles/_syntheses/`, avec un en-tête YAML qui
+retient la question posée, la date et le nombre de fiches lues. Ce dossier fait partie du
+coffre Obsidian : la note y apparaît aussitôt et Smart Connections l'indexe comme les
+autres — vos synthèses deviennent à leur tour consultables par le sens.
+
 ## Runs incrémentaux
 
 `data/seen_library.json` retient ce qui est déjà rangé : un rerun ne ramène que les

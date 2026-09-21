@@ -27,3 +27,23 @@ Règles :
 - Distingue « les auteurs rapportent » de « il est établi que ».
 - Si moins de cinq fiches correspondent, dis que la base est trop mince plutôt que de
   généraliser.
+
+## Où écrire le résultat
+
+Écris la réponse dans `rf-discovery/articles/_syntheses/synthese-<sujet-en-minuscules>.md`,
+en commençant par un en-tête YAML :
+
+```yaml
+---
+type: synthese
+question: "<la demande, telle qu'elle a été formulée>"
+date: <AAAA-MM-JJ>
+fiches_lues: <nombre>
+---
+```
+
+Ce dossier est dans le coffre Obsidian (jonction) : la note y apparaît aussitôt, et
+Smart Connections l'indexera comme les autres. Le préfixe `_` le met à l'abri des
+scripts de reclassement.
+
+Affiche aussi la réponse dans la conversation, et termine par le chemin du fichier écrit.
