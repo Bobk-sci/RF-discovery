@@ -32,15 +32,25 @@ recherche:
     - "GSM exposure"
     - "UMTS exposure"
     - "LTE exposure"
-    - "5G exposure"
     - "millimeter wave exposure"
     - "specific absorption rate"
     - "900 MHz"
     - "1800 MHz"
     - "2.45 GHz"
+    # Vocabulaire révélé par une collection constituée à la main : 75 études in vivo de
+    # neurodéveloppement manquaient, faute de ces termes. Beaucoup datent des années
+    # 1980-90, avant que « radiofrequency electromagnetic field » ne s'impose.
+    - "nonionizing radiation"
+    - "microwave irradiation"
+    - "915 MHz"
+    - "2450 MHz"
+    - "1.8 GHz"
+    - "W-CDMA"
+    - "DECT"
+    - "ultra-wideband"
   # Filtres Europe PMC ajoutés à la requête (résumé obligatoire : sans lui, pas de classement).
   filtres: "HAS_ABSTRACT:Y"
-  annee_min: 1990
+  annee_min: 1970
   # Garde-fou : une notice doit contenir au moins un de ces termes, sinon elle est
   # écartée. Constaté sur des notices réelles : sans ce filtre, « GSM » ramène des
   # articles sur la *géosmine* (traitement de l'eau) et « Wi-Fi » des capteurs d'humidité
@@ -64,6 +74,12 @@ recherche:
     - "WiFi radiation"
     - "Wi-Fi router"
     - "wireless exposure"
+    - "nonionizing radiation"
+    - "non-ionizing radiation"
+    - "microwave irradiation"
+    - "radio waves"
+    - "W-CDMA"
+    - "DECT"
     - "millimeter wave"
     - "specific absorption rate"
     - "GSM exposure"
@@ -77,6 +93,8 @@ recherche:
     - "1.8 GHz"
     - "2.45 GHz"
     - "3.5 GHz"
+    - "915 MHz"
+    - "ultra-wideband"
   # Second garde-fou, devenu indispensable après l'élargissement du vocabulaire : un terme
   # RF ne suffit pas, car toute la littérature télécom parle de micro-ondes et d'ondes
   # millimétriques. La notice doit aussi porter une marque d'étude biologique, sanitaire

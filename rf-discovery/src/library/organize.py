@@ -79,6 +79,7 @@ def _front_matter(paper: Paper, assignments: dict[str, Assignment],
         # De quoi produire une référence complète (EndNote/Zotero) et retrouver le PDF.
         "auteurs": list(paper.extra.get("authors") or []),
         "pmcid": str(paper.extra.get("pmcid") or ""),
+        "pdf_local": str(paper.extra.get("pdf_local") or ""),
         "volume": str(paper.extra.get("volume") or ""),
         "pages": str(paper.extra.get("pages") or ""),
     }
@@ -169,6 +170,7 @@ def read_article(path: str | Path) -> Paper:
                "keywords": list(meta.get("mots_cles") or []),
                "authors": list(meta.get("auteurs") or []),
                "pmcid": str(meta.get("pmcid") or ""),
+               "pdf_local": str(meta.get("pdf_local") or ""),
                "volume": str(meta.get("volume") or ""),
                "pages": str(meta.get("pages") or "")},
     )
