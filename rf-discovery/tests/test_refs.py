@@ -5,7 +5,7 @@ from pathlib import Path
 
 from collect.europepmc import Paper
 from export_refs import collect_records
-from fetch_pdfs import fetch_all, oa_pdf_url
+from fetch_pdfs import fetch_all, oa_pdf_urls
 from library.classify import classify_paper, load_taxonomy
 from library.organize import write_article
 from library.refs import to_bibtex, to_ris
@@ -83,22 +83,60 @@ def test_completer_remplit_les_fiches_sans_auteurs(tmp_path):
 
 def test_unpaywall_rend_le_pdf_libre_sinon_vide():
     dispo = {"best_oa_location": {"url_for_pdf": "https://ex.org/a.pdf"}}
-    assert oa_pdf_url("10.1/x", "a@b.c", fetcher=lambda u, p: dispo) == "https://ex.org/a.pdf"
+    assert oa_pdf_urls("10.1/x", "a@b.c", fetcher=lambda u, p: dispo) == ["https://ex.org/a.pdf"]
     ferme = {"best_oa_location": None, "oa_locations": []}
-    assert oa_pdf_url("10.1/x", "a@b.c", fetcher=lambda u, p: ferme) == ""
+    assert oa_pdf_urls("10.1/x", "a@b.c", fetcher=lambda u, p: ferme) == []
 
 
-def test_unpaywall_replie_sur_une_autre_localisation():
-    data = {"best_oa_location": {}, "oa_locations": [{"url": "x"},
-                                                    {"url_for_pdf": "https://ex.org/b.pdf"}]}
-    assert oa_pdf_url("10.1/x", "a@b.c", fetcher=lambda u, p: data).endswith("b.pdf")
+def test_les_depots_passent_avant_les_editeurs():
+    """MDPI et Elsevier répondent 403 aux scripts ; PMC sert le même article sans façon."""
+    data = {"best_oa_location": {"url_for_pdf": "https://mdpi.com/a.pdf",
+                                 "host_type": "publisher"},
+            "oa_locations": [{"url_for_pdf": "https://mdpi.com/a.pdf",
+                              "host_type": "publisher"},
+                             {"url_for_pdf": "https://pmc.org/a.pdf",
+                              "host_type": "repository"}]}
+    assert oa_pdf_urls("10.1/x", "a@b.c", fetcher=lambda u, p: data) == [
+        "https://pmc.org/a.pdf", "https://mdpi.com/a.pdf"]
 
 
 def test_unpaywall_indisponible_ne_leve_pas():
     def boom(_u, _p):
         raise RuntimeError("réseau")
 
-    assert oa_pdf_url("10.1/x", "a@b.c", fetcher=boom) == ""
+    assert oa_pdf_urls("10.1/x", "a@b.c", fetcher=boom) == []
+
+
+def test_en_tetes_identifient_sans_se_deguiser():
+    from fetch_pdfs import _headers
+
+    h = _headers("moi@exemple.fr")
+    assert "rf-library" in h["User-Agent"] and "mailto:moi@exemple.fr" in h["User-Agent"]
+    assert "Mozilla" not in h["User-Agent"]      # on ne se fait pas passer pour un navigateur
+    assert h["Accept"].startswith("application/pdf")
+
+
+def test_403_est_compte_a_part_et_la_source_suivante_est_essayee(tmp_path):
+    """Un 403 n'est pas un article payant : l'éditeur refuse les scripts."""
+    essais: list[str] = []
+
+    def grab(url, target):
+        essais.append(url)
+        if "mdpi" in url:
+            raise RuntimeError("403 Client Error: Forbidden for url: " + url)
+        target.write_bytes(b"%PDF")
+        return True
+
+    counts = fetch_all([{"pmid": "1", "doi": "10.1/x"}], tmp_path, "a@b.c",
+                       url_resolver=lambda _d: ["https://mdpi.com/a.pdf",
+                                                "https://pmc.org/a.pdf"],
+                       downloader=grab, sleep=lambda _s: None)
+    assert counts["telecharges"] == 1 and len(essais) == 2
+
+    counts = fetch_all([{"pmid": "2", "doi": "10.1/y"}], tmp_path, "a@b.c",
+                       url_resolver=lambda _d: ["https://mdpi.com/b.pdf"],
+                       downloader=grab, sleep=lambda _s: None)
+    assert counts["refus_editeur"] == 1 and counts["echecs"] == 0
 
 
 def test_fetch_all_compte_chaque_situation(tmp_path):
@@ -111,17 +149,17 @@ def test_fetch_all_compte_chaque_situation(tmp_path):
     (tmp_path / "4.pdf").write_bytes(b"%PDF")
     counts = fetch_all(
         records, tmp_path, "a@b.c",
-        url_resolver=lambda doi: "https://ex.org/x.pdf" if doi.endswith("libre") else "",
+        url_resolver=lambda doi: ["https://ex.org/x.pdf"] if doi.endswith("libre") else [],
         downloader=lambda url, target: bool(target.write_bytes(b"%PDF") or True),
         sleep=lambda _s: None)
     assert counts == {"deja_present": 1, "telecharges": 1, "sans_acces_libre": 1,
-                      "sans_doi": 1, "echecs": 0}
+                      "sans_doi": 1, "refus_editeur": 0, "echecs": 0}
     assert (tmp_path / "1.pdf").exists()
 
 
 def test_un_peage_ne_produit_pas_de_fichier(tmp_path):
     """Une page HTML renvoyée à la place d'un PDF est un échec, pas une fiche muette."""
     counts = fetch_all([{"pmid": "9", "doi": "10.1/x"}], tmp_path, "a@b.c",
-                       url_resolver=lambda _d: "https://ex.org/paywall",
+                       url_resolver=lambda _d: ["https://ex.org/paywall"],
                        downloader=lambda _u, _t: False, sleep=lambda _s: None)
     assert counts["echecs"] == 1 and not (tmp_path / "9.pdf").exists()
