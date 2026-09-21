@@ -5,13 +5,5 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+# réponses brutes des API : re-téléchargeables, inutiles à versionner
 data/cache/
-*.duckdb.wal
-# trop gros pour git : on committe data/graph.duckdb.gz
-data/graph.duckdb
-# artefacts datés générés par les runs de démo/tests (les runs CI committent les leurs)
-reports/digest-*.md
-logs/run-*.json
-# dashboard généré localement (le workflow Pages le reconstruit et le déploie)
-docs/index.html
-_site/

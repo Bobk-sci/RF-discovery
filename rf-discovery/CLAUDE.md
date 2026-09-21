@@ -1,41 +1,28 @@
-# RF-Discovery — pipeline autonome de découverte inter-domaines (CEM-RF)
+# Bibliothèque RF — collecte et classement d'articles CEM-RF
 
-> Spécification de référence. Le moteur de scoring est **déterministe et fondé sur un
-> graphe hétérogène**. Le LLM est confiné à trois rôles périphériques (normalisation,
-> explication d'un candidat *déjà scoré*, rédaction du digest) et **n'entre jamais dans
-> le chemin de scoring**.
+> Ce dépôt n'héberge plus qu'un **outil de veille**. Le moteur de découverte par graphe
+> (DWPC, permutations XSwap, gate rétrospectif) a été retiré : voir l'historique git.
 
 ## Objectif
-Générer chaque semaine, à coût nul, un petit nombre d'hypothèses mécanistiques nouvelles
-reliant l'exposition aux CEM-RF à des processus neurodéveloppementaux/neurotoxiques. Le
-pipeline prédit des liens non encore écrits, les classe par un score doté d'une
-distribution nulle, et se valide rétrospectivement.
+Collecter les articles scientifiques du domaine radiofréquences et les ranger dans une
+arborescence lisible : `articles/<modèle d'étude>/<thème>/<année>_<pmid>_<titre>.md`.
 
-**Gate bloquant (§9).** Entraîné sur la littérature ≤ 2018, le pipeline doit retrouver les
-liens apparus en 2019–2025 avec AUROC > 0.70 (échec sous 0.65). Sans ce gate, aucune
-hypothèse n'est défendable.
-
-## Cœur algorithmique
-- **Métachemins** longueur 2–4 entre `Exposure`/entité-RF et `Disease`/`Phenotype`
-  neurodéveloppemental ; hubs sémantiques vides exclus.
-- **DWPC** : `DWPC(a,c,m) = Σ_paths Π_{n∈path} degree(n)^(-w)`, `w = 0.4` (vectorisé, sparse).
-- **Null par permutation** : 200 XSwap préservant les degrés → `z = (DWPC−μ)/σ`.
-  *Un candidat sans z-score n'est pas un candidat.*
-- **Combinaison** : régression logistique sur les features `z(a,c,m)`.
-- **Nouveauté** : `novelty_z` à la Uzzi + modularité inter-domaines.
-- **Rafales** : Kleinberg (2002) pour prioriser les termes B en accélération.
-- **Triage** : SPECTER2 + régression logistique sur le corpus curé (`data/seeds/curated_214.csv`).
+## Règles non négociables
+- **Aucune référence inventée.** Une fiche ne peut naître que d'une notice réellement
+  renvoyée par une source. Titre, résumé et métadonnées sont recopiés mot pour mot ; un
+  champ absent reste vide ; le PMID/DOI est présent et cliquable.
+- **Aucun modèle de langue dans la chaîne.** Le classement est un comptage de mots-clés
+  pondéré (titre ×`title_boost`, descripteurs MeSH ×`meta_boost`, résumé ×1), entièrement
+  défini par `config/taxonomy.yaml`. Il est déterministe : mêmes entrées, même rangement.
+- **Traçabilité.** Les mots-clés qui ont décidé du rangement sont écrits dans l'en-tête de
+  chaque fiche (`modele_indices`, `theme_indices`).
+- **Écarter plutôt que forcer.** Une notice hors sujet est écartée avec son motif ; une
+  notice dont le plan d'étude n'est pas explicite va en catégorie par défaut.
 
 ## Modules (`src/`)
-`collect/` (europepmc, pubtator, cache) · `normalize/` (dedupe, entities) ·
-`graph/` (schema, build, metapaths, dwpc, permute, embed) ·
-`score/` (novelty, burst, rank) · `triage/` (specter, classify) ·
-`llm/` (client, explain) · `validate/` (timeslice, metrics) · `report/` (digest, issue).
+`collect/` (europepmc, pubmed, emfportal, cache) · `normalize/dedupe.py` ·
+`library/` (classify, organize, importer) · `collect_library.py` (CLI).
 
-## Règles
-Python 3.11+, déterministe (`random_state` fixé, permutations semées/journalisées), chaque
-module testé (fixtures, jamais le réseau), fonctions ≤ 50 lignes, DWPC vectorisé, logs JSON,
-digest markdown pur. Ne jamais supprimer une ligne de `candidates`.
-
-Voir le dépôt racine pour la spécification longue d'origine ; ce fichier en est le résumé
-opérationnel pour le sous-projet `rf-discovery/`.
+## Contraintes techniques
+Python 3.11+, fonctions ≤ 50 lignes, docstrings en français, couche réseau injectable
+(les tests utilisent des fixtures, jamais le réseau), ruff + mypy propres.

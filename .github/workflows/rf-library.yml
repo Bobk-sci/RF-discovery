@@ -12,7 +12,7 @@ on:
     # la branche par défaut. Un déclencheur `push` sur la branche de travail, lui,
     # fonctionne tout de suite. `articles/` est exclu pour éviter la boucle (le run
     # committe ses propres résultats).
-    branches: [claude/rf-discovery-pipeline-035bd2]
+    branches: [main, claude/rf-discovery-pipeline-035bd2]
     paths:
       - 'rf-discovery/config/taxonomy.yaml'
       - 'rf-discovery/src/library/**'
@@ -23,7 +23,7 @@ on:
     inputs:
       max_results:
         description: "Plafond d'articles par source"
-        default: '400'
+        default: '1000'
       sources:
         description: 'Sources interrogées (europepmc,pubmed,emfportal)'
         default: 'europepmc,pubmed'
@@ -74,7 +74,7 @@ jobs:
         run: |
           python -m collect_library \
             --sources "${{ inputs.sources || 'europepmc,pubmed' }}" \
-            --max-results "${{ inputs.max_results || '400' }}" \
+            --max-results "${{ inputs.max_results || '1000' }}" \
             ${{ inputs.tout == true && '--tout' || '' }} | tee library.json
 
       - name: Commit library
