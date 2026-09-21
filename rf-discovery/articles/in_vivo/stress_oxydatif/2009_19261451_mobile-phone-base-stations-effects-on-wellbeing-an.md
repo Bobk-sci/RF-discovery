@@ -34,6 +34,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Mobile phone base stations-Effects on wellbeing and health.

@@ -51,6 +51,13 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Biological Effects of Exposure to a Radiofrequency Electromagnetic Field on the Placental Barrier in Pregnant Rats.

@@ -41,6 +41,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Protect children from EMF.

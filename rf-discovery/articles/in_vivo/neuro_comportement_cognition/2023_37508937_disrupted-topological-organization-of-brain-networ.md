@@ -52,6 +52,11 @@ theme_secondaires: []
 theme_indices:
 - memory
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Disrupted Topological Organization of Brain Network in Rats with Spatial Memory Impairments Induced by Acute Microwave Radiation.

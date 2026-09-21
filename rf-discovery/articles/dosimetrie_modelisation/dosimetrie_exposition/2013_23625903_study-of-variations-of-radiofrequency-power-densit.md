@@ -40,6 +40,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Study of variations of radiofrequency power density from mobile phone base stations with distance.

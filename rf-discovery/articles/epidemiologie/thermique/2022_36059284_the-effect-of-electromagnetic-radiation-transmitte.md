@@ -46,6 +46,14 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2022
 ---
 
 # The Effect of Electromagnetic Radiation Transmitted from Routers on Antibiotic Susceptibility of Bacterial Pathogens.

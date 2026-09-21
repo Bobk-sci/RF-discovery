@@ -52,6 +52,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # RF-EMF exposure assessment with add-on uplink exposure sensor in different microenvironments in seven European countries.

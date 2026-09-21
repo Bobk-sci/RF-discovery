@@ -56,6 +56,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2008
 ---
 
 # Radiofrequency electromagnetic fields; male infertility and sex ratio of offspring.

@@ -53,6 +53,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Protective role of hispolon and its derivatives against apoptosis in cortical neurons induced by electromagnetic radiation from 4G mobile phone.

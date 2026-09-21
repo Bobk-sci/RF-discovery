@@ -50,6 +50,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning.

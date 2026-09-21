@@ -41,6 +41,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/1977
 ---
 
 # Microwave alteration of the blood-brain barrier system of rats.

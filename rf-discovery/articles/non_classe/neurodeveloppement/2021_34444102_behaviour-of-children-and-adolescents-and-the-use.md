@@ -47,6 +47,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Behaviour of Children and Adolescents and the Use of Mobile Phones in Primary Schools in the Czech Republic.

@@ -37,6 +37,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Symptom Levels in Care-Seeking Bangladeshi and Nepalese Adults With Advanced Cancer.

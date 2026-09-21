@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Spatial variability of outdoor exposure to radiofrequency radiation from mobile phone base stations, in Khartoum, Sudan.

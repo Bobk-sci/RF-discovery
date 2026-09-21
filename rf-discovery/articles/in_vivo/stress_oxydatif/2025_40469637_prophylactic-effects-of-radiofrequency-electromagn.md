@@ -48,6 +48,13 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2025
 ---
 
 # Prophylactic Effects of Radiofrequency Electromagnetic Field on Pulmonary Ischemia-Reperfusion via HIF-1α/eNOS Pathway and BCL2/BAX Signaling.

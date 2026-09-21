@@ -39,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # EEG Changes Due to Experimentally Induced 3G Mobile Phone Radiation.

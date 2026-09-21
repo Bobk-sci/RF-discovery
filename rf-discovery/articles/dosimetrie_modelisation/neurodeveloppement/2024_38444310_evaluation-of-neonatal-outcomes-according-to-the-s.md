@@ -39,6 +39,13 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Evaluation of neonatal outcomes according to the specific absorption rate values of phones used during pregnancy.

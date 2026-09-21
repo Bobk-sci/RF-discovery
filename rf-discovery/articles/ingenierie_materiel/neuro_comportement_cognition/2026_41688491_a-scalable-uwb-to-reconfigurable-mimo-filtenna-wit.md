@@ -39,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # A scalable UWB-to-reconfigurable MIMO filtenna with single-varactor tuning and enhanced isolation for adaptive 5G and cognitive radio systems.

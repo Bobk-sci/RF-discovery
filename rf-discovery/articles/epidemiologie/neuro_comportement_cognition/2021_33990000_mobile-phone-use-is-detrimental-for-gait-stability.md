@@ -40,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Mobile phone use is detrimental for gait stability in young adults.

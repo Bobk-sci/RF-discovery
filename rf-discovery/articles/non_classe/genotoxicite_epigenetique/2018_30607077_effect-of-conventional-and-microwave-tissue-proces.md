@@ -49,6 +49,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/non_classe
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Effect of Conventional and Microwave Tissue Processing Technique on DNA Integrity: A Comparative Molecular Analysis.

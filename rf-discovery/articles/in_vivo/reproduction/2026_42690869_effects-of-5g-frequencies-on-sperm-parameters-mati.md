@@ -63,6 +63,12 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # Effects of 5G frequencies on sperm parameters, mating success, and offspring outcomes in rats.

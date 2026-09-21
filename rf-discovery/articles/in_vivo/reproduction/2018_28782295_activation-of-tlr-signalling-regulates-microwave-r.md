@@ -60,6 +60,13 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - testis
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/neuroinflammation
+- annee/2018
 ---
 
 # Activation of TLR signalling regulates microwave radiation-mediated impairment of spermatogenesis in rat testis.

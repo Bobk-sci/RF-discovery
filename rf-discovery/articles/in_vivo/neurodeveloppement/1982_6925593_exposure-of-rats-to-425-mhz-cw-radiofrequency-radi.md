@@ -44,6 +44,12 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- annee/1982
 ---
 
 # Exposure of rats to 425-MHz (cW) radiofrequency radiation: effects on lymphocytes.

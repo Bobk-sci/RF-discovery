@@ -69,6 +69,13 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Mechanistic insights into microwave radiation induced cognitive impairments: The role of m&lt;sup&gt;6&lt;/sup&gt;A epigenetic modifications and HNRNPA2B1 in TrkB regulation.

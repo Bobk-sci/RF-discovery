@@ -46,6 +46,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Instruments to measure environmental and personal radiofrequency-electromagnetic field exposures: an update.

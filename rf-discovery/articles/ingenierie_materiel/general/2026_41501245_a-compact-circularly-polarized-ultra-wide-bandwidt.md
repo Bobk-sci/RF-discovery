@@ -40,6 +40,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # A compact circularly polarized ultra-wide bandwidth implantable antenna for multiple scenarios.

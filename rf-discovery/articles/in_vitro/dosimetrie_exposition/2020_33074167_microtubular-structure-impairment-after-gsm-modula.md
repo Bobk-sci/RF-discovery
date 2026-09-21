@@ -45,6 +45,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - electric field strength
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Microtubular structure impairment after GSM-modulated RF radiation exposure.

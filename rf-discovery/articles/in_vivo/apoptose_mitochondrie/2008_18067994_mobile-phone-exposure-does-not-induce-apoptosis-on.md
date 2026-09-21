@@ -43,6 +43,12 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2008
 ---
 
 # Mobile phone exposure does not induce apoptosis on spermatogenesis in rats.

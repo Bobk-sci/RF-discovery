@@ -60,6 +60,12 @@ theme_indices:
 - pregnancy
 - fetal
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2001
 ---
 
 # 2-Methoxyethanol metabolism, embryonic distribution, and macromolecular adduct formation in the rat: the effect of radiofrequency radiation-induced hyperthermia.

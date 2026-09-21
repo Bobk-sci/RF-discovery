@@ -58,6 +58,14 @@ theme_indices:
 - prenatal
 - pregnancy
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2016
 ---
 
 # Neurodegenerative changes and apoptosis induced by intrauterine and extrauterine exposure of radiofrequency radiation.

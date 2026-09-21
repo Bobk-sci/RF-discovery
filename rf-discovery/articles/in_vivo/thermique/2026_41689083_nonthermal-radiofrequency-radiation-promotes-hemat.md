@@ -60,6 +60,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- annee/2026
 ---
 
 # Nonthermal radiofrequency radiation promotes hematopoietic stem and progenitor cells function by regulating Ca&lt;sup&gt;2+&lt;/sup&gt; efflux.

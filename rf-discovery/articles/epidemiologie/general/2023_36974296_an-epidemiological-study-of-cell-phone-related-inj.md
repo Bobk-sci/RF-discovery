@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2023
 ---
 
 # An Epidemiological Study of Cell Phone-Related Injuries of the Hand and Wrist Reported in United States Emergency Departments From 2011 to 2020.

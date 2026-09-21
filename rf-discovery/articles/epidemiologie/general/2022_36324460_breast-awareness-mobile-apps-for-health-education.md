@@ -46,6 +46,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Breast awareness mobile apps for health education and promotion for breast cancer.

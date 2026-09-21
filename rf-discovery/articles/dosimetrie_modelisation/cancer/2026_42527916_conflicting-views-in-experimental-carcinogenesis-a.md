@@ -51,6 +51,13 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - schwannoma
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Conflicting views in experimental carcinogenesis: a commentary on design and methodological deficiencies in the follow-up validation studies on radiofrequency radiation.

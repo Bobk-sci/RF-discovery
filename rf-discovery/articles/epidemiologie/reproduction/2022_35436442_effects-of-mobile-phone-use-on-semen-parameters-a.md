@@ -49,6 +49,11 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+tags:
+- rf
+- modele/epidemiologie
+- theme/reproduction
+- annee/2022
 ---
 
 # Effects of mobile phone use on semen parameters: a cross-sectional study of 1634 men in China.

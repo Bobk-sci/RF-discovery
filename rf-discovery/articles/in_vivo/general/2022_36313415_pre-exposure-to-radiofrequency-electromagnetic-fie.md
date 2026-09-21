@@ -42,6 +42,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Pre-Exposure to Radiofrequency Electromagnetic Fields and Induction of Radioadaptive Response in Rats Irradiated with High Doses of X-Rays.

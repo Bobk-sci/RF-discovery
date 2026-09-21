@@ -64,6 +64,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Exposure to Radiofrequency Electromagnetic Fields Enhances Melanin Synthesis by Activating the P53 Signaling Pathway in Mel-Ab Melanocytes.

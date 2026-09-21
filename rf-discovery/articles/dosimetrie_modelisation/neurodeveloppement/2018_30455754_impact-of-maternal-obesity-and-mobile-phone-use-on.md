@@ -33,6 +33,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Impact of Maternal Obesity and Mobile Phone Use on Fetal Cardiotocography Pattern.

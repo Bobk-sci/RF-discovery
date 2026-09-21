@@ -43,6 +43,13 @@ theme_secondaires:
 - cancer
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- theme/neuroinflammation
+- theme/cancer
+- annee/2026
 ---
 
 # Two-Stage Microwave Hyperthermia Using Magnetic Nanoparticles for Optimal Chemotherapy Activation in Liver Cancer: Concept and Preliminary Tests on Wistar Rat Model.

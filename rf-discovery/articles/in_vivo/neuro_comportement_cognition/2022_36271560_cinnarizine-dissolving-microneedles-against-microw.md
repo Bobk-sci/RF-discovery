@@ -59,6 +59,11 @@ theme_indices:
 - learning
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Cinnarizine dissolving microneedles against microwave-induced brain injury.

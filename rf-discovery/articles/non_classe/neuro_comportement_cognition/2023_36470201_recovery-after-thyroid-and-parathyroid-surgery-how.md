@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - anxiety
 - depression
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Recovery After Thyroid and Parathyroid Surgery: How Do Our Patients Really Feel?

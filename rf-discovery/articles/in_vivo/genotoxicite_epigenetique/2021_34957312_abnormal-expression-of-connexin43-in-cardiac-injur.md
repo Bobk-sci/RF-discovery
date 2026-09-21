@@ -55,6 +55,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Abnormal Expression of Connexin43 in Cardiac Injury Induced by S-Band and X-Band Microwave Exposure in Rats.

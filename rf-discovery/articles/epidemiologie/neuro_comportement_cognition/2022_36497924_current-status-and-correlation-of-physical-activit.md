@@ -55,6 +55,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Current Status and Correlation of Physical Activity and Tendency to Problematic Mobile Phone Use in College Students.

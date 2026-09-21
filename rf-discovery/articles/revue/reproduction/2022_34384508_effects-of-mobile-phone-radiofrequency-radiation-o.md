@@ -50,6 +50,13 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Effects of mobile phone radiofrequency radiation on sperm quality.

@@ -57,6 +57,12 @@ theme_indices:
 - cognitive
 - memory
 - attention
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Effects of radiofrequency electromagnetic fields on cognitive function in elderly subjects (60+ years)-Results of an experimental randomized sham controlled double-blind cross-over study in women and in men.

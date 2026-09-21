@@ -52,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Cumulative effects of manganese nanoparticle and radiofrequency radiation in male Wistar rats.

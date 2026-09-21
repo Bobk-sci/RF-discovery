@@ -46,6 +46,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2008
 ---
 
 # A role for microwave processing in the dry preservation of mammalian cells.

@@ -55,6 +55,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of 2600 MHz Radiofrequency Radiation in Brain Tissue of Male Wistar Rats and Neuroprotective Effects of Melatonin.

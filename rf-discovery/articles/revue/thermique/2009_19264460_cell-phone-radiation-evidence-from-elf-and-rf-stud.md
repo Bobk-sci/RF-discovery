@@ -32,6 +32,13 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/thermique
+- theme/neuro_comportement_cognition
+- annee/2009
 ---
 
 # Cell phone radiation: Evidence from ELF and RF studies supporting more inclusive risk identification and assessment.

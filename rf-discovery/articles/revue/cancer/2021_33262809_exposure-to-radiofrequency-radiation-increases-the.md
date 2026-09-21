@@ -45,6 +45,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cancer risk
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2021
 ---
 
 # Exposure to radiofrequency radiation increases the risk of breast cancer: A systematic review and meta-analysis.

@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Urban radio-frequency electromagnetic field exposure in New York City.

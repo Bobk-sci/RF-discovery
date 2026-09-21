@@ -35,6 +35,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Variations in Elite Female Soccer Players' Sleep, and Associations With Perceived Fatigue and Soccer Games.

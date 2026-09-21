@@ -48,6 +48,14 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Association between reproductive health and nonionizing radiation exposure.

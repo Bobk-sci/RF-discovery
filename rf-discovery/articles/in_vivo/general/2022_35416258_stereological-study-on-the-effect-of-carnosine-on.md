@@ -42,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2022
 ---
 
 # Stereological Study on the Effect of Carnosine on of Purkinje Cells in the Cerebellum of Rats Exposed to 900 MHz Electromagnetic Field.

@@ -50,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Controlled release floating drug delivery system for proton pump inhibitors lansoprazole: In-vitro, In-vivo floating and pharmacokinetic evaluation.

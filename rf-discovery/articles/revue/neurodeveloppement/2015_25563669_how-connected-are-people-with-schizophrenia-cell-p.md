@@ -58,6 +58,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2015
 ---
 
 # How connected are people with schizophrenia? Cell phone, computer, email, and social media use.

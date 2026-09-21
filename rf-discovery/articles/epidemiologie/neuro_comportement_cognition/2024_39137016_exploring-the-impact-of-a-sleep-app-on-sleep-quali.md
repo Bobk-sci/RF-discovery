@@ -44,6 +44,12 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Exploring the Impact of a Sleep App on Sleep Quality in a General Population Sample: Pilot Randomized Controlled Trial.

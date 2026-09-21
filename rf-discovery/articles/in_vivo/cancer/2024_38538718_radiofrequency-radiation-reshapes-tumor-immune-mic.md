@@ -73,6 +73,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Radiofrequency radiation reshapes tumor immune microenvironment into antitumor phenotype in pulmonary metastatic melanoma by inducing active transformation of tumor-infiltrating CD8<sup>+</sup> T and NK cells.

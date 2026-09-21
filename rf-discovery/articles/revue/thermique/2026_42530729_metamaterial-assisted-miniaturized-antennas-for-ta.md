@@ -42,6 +42,14 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Metamaterial-Assisted Miniaturized Antennas for Targeted Microwave Hyperthermia: From Deep Tissue Focus to Energy Efficiency.

@@ -56,6 +56,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Deleterious impacts of a 900-MHz electromagnetic field on hippocampal pyramidal neurons of 8-week-old Sprague Dawley male rats.

@@ -41,6 +41,13 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Pulsed Radiofrequency Electromagnetic Fields as Modulators of Inflammation and Wound Healing in Primary Dermal Fibroblasts of Ulcers.

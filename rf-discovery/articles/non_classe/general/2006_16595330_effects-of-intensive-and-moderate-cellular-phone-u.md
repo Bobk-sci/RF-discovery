@@ -36,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2006
 ---
 
 # Effects of intensive and moderate cellular phone use on hearing function.

@@ -64,6 +64,12 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- annee/2026
 ---
 
 # Differential Effects of 3.5 GHz and 24 GHz 5G Radiofrequency Exposure on Male Sexual Behaviour and Reproductive Endocrine Function in Rats.

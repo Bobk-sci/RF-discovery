@@ -52,6 +52,11 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2022
 ---
 
 # A study on the effect of mobile phone use on sleep.

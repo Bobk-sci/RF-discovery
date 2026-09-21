@@ -45,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Breaking the barrier: disruption of bacterial biofilms using microwave radiation.

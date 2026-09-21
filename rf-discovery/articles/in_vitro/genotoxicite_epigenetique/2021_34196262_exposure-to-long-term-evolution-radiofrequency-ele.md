@@ -56,6 +56,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Exposure to long-term evolution radiofrequency electromagnetic fields decreases neuroblastoma cell proliferation via Akt/mTOR-mediated cellular senescence.

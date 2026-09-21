@@ -49,6 +49,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Radiofrequency exposure of people living near mobile-phone base stations in France.

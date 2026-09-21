@@ -50,6 +50,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A highly miniaturized circularly polarized self-duplexing implantable antenna with enhanced performance for wireless capsule endoscopy applications.

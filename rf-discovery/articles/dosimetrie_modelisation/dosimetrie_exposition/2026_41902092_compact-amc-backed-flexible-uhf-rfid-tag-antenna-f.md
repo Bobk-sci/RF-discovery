@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Compact AMC-Backed Flexible UHF RFID Tag Antenna for On-Body Biomedical Applications.

@@ -43,6 +43,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Effect of physical exercise on sleep quality in college students: Mediating role of smartphone use.

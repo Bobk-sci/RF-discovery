@@ -42,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Comparison of Low-Cost 5G Electromagnetic Field Sensors.

@@ -54,6 +54,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Effect of a 2.45-GHz radiofrequency electromagnetic field on neutrophil chemotaxis and phagocytosis in differentiated human HL-60 cells.

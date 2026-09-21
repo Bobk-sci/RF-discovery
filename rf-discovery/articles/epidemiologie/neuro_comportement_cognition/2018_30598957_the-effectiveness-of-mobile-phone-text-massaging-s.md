@@ -38,6 +38,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # The effectiveness of mobile phone text massaging support for mothers with postpartum depression: A clinical before and after study.

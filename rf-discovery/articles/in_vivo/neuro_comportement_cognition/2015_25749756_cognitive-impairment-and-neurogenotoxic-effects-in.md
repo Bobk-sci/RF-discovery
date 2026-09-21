@@ -77,6 +77,16 @@ theme_indices:
 - learning
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Cognitive impairment and neurogenotoxic effects in rats exposed to low-intensity microwave radiation.

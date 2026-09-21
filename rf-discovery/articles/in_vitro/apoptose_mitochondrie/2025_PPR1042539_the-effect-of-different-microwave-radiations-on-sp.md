@@ -29,6 +29,11 @@ theme_secondaires: []
 theme_indices:
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # The Effect of Different Microwave Radiations on Spinach, spinacia oleracea Cell Viability

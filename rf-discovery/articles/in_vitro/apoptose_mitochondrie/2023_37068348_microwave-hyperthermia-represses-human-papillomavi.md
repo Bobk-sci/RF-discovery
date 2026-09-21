@@ -53,6 +53,13 @@ theme_indices:
 - apoptosis
 - autophagy
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/cancer
+- annee/2023
 ---
 
 # Microwave hyperthermia represses human papillomavirus oncoprotein activity and induces cell death due to cell stress in 3D tissue models of anogenital precancers and cancers.

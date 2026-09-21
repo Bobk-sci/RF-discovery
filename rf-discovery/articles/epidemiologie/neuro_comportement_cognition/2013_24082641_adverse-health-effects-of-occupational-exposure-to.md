@@ -37,6 +37,11 @@ theme_indices:
 - anxiety
 - depression
 - reaction time
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Adverse health effects of occupational exposure to radiofrequency radiation in airport surveillance radar operators.

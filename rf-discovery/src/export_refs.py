@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Any
 
 from library.classify import load_taxonomy
-from library.organize import README_NAME, read_article, read_front_matter
+from library.organize import iter_fiches, read_article, read_front_matter
 from library.refs import to_bibtex, to_ris
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -23,9 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def collect_records(out: Path) -> list[dict[str, Any]]:
     """Fiches du disque, en-tête + résumé d'origine, triées (export reproductible)."""
     records = []
-    for path in sorted(out.rglob("*.md")):
-        if path.name == README_NAME:
-            continue
+    for path in iter_fiches(out):
         meta = read_front_matter(path)
         if not meta:
             continue

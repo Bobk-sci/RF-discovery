@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # About the Accuracy and Problems of Consumer Devices in the Assessment of Sleep.

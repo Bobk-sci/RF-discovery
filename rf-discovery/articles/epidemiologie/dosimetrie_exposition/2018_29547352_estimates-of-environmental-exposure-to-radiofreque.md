@@ -63,6 +63,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Estimates of Environmental Exposure to Radiofrequency Electromagnetic Fields and Risk of Lymphoma Subtypes.

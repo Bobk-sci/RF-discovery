@@ -44,6 +44,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Detection of Low Level Microwave Radiation Induced Deoxyribonucleic Acid Damage Vis-à-vis Genotoxicity in Brain of Fischer Rats.

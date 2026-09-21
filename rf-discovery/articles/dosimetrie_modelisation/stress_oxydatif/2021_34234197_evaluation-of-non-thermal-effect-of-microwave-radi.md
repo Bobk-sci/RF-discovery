@@ -50,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - glutathione
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Evaluation of non-thermal effect of microwave radiation and its mode of action in bacterial cell inactivation.

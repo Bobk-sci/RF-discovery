@@ -39,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2015
 ---
 
 # Survey of the Effects of Exposure to 900 MHz Radiofrequency Radiation Emitted by a GSM Mobile Phone on the Pattern of Muscle Contractions in an Animal Model.

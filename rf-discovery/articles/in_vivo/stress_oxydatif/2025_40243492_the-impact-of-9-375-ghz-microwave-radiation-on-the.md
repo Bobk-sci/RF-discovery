@@ -71,6 +71,13 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # The Impact of 9.375 GHz Microwave Radiation on the Emotional and Cognitive Abilities of Mice.

@@ -55,6 +55,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Seizure Forecasting Using a Novel Sub-Scalp Ultra-Long Term EEG Monitoring System.

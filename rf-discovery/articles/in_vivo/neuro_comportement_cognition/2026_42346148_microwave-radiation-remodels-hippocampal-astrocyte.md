@@ -59,6 +59,13 @@ theme_indices:
 - cognitive
 - memory
 - attention
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neuroinflammation
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Microwave Radiation Remodels Hippocampal Astrocytes Subpopulations and Intercellular Communication at Single-Cell Resolution.

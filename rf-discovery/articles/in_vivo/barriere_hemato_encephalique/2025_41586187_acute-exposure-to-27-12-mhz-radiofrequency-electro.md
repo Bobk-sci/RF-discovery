@@ -50,6 +50,13 @@ theme_indices:
 - BBB permeability
 - tight junction
 - occludin
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Acute exposure to 27.12 MHz radiofrequency electromagnetic field disrupts blood-brain barrier integrity via eNOS activation and occludin down-regulation.

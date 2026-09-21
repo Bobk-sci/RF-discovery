@@ -54,6 +54,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2017
 ---
 
 # Effect of electromagnetic waves from mobile phone on immune status of male rats: possible protective role of vitamin D.

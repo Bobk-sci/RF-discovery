@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2024
 ---
 
 # Inactivation of β-coronavirus MHV-A59 by 2.8 GHz microwave.

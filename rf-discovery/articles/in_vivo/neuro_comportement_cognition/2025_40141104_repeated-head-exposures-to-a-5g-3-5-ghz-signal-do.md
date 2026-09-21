@@ -61,6 +61,15 @@ theme_indices:
 - memory
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/plasticite_synaptique
+- annee/2025
 ---
 
 # Repeated Head Exposures to a 5G-3.5 GHz Signal Do Not Alter Behavior but Modify Intracortical Gene Expression in Adult Male Mice.

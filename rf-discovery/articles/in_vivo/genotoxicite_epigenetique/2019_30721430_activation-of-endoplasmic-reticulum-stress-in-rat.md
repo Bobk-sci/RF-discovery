@@ -47,6 +47,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # Activation of endoplasmic reticulum stress in rat brain following low-intensity microwave exposure.

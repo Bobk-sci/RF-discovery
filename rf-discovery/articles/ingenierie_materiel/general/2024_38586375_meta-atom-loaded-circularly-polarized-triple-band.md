@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2024
 ---
 
 # Meta-atom loaded circularly polarized triple band patch antenna for Wi-Fi, ISM and X-band communications.

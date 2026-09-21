@@ -50,6 +50,15 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # The protective effects of melatonin against electromagnetic waves of cell phones in animal models: A systematic review.

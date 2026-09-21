@@ -44,6 +44,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2020
 ---
 
 # Are Contemporary Smartwatches and Mobile Phones Safe for Patients With Cardiovascular Implantable Electronic Devices?

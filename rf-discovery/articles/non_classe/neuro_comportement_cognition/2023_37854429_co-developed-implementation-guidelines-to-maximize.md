@@ -43,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Co-developed implementation guidelines to maximize acceptability, feasibility, and usability of mobile phone supervision in Kenya.

@@ -52,6 +52,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/1998
 ---
 
 # Effect of environmental temperature on the interactive developmental toxicity of radiofrequency radiation and 2-methoxyethanol in rats.

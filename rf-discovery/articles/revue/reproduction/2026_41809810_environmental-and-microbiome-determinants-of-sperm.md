@@ -46,6 +46,13 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Environmental and microbiome determinants of sperm quality: a narrative review on male health.

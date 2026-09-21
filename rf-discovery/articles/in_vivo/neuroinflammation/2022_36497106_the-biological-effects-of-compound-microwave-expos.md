@@ -58,6 +58,14 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - interleukin
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # The Biological Effects of Compound Microwave Exposure with 2.8 GHz and 9.3 GHz on Immune System: Transcriptomic and Proteomic Analysis.

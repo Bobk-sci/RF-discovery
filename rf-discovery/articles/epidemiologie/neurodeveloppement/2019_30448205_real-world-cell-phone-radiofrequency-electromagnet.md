@@ -53,6 +53,15 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2019
 ---
 
 # Real-world cell phone radiofrequency electromagnetic field exposures.

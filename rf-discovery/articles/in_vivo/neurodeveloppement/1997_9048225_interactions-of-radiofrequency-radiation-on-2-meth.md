@@ -50,6 +50,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/thermique
+- annee/1997
 ---
 
 # Interactions of radiofrequency radiation on 2-methoxyethanol teratogenicity in rats.

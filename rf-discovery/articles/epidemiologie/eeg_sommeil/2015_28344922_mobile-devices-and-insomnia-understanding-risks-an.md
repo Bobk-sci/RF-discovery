@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Mobile Devices and Insomnia: Understanding Risks and Benefits.

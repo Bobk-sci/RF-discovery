@@ -41,6 +41,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Measurements of Radiofrequency Radiation with a Body-Borne Exposimeter in Swedish Schools with Wi-Fi.

@@ -57,6 +57,15 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Short-term exposure to radiofrequency radiation and metabolic enzymes' activities during pregnancy and prenatal development.

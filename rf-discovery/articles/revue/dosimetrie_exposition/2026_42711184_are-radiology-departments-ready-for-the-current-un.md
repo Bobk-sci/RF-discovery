@@ -42,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Are Radiology Departments Ready for the Current Underlying Obesity Pandemic? A Narrative Review.

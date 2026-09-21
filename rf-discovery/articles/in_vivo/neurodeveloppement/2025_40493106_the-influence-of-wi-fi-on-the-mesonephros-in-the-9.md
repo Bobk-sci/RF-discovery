@@ -45,6 +45,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # The influence of Wi-Fi on the mesonephros in the 9-day-old chicken embryo.

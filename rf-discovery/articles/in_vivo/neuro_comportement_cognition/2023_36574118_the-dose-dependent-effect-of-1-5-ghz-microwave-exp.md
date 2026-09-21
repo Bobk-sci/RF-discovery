@@ -65,6 +65,14 @@ theme_indices:
 - learning
 - spatial memory
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # The dose-dependent effect of 1.5-GHz microwave exposure on spatial memory and the NMDAR pathway in Wistar rats.

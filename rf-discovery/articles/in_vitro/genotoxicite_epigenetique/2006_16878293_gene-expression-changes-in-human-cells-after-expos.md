@@ -57,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2006
 ---
 
 # Gene expression changes in human cells after exposure to mobile phone microwaves.

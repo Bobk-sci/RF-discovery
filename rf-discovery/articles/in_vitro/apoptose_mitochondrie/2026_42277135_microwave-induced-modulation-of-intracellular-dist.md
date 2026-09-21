@@ -55,6 +55,12 @@ theme_indices:
 - cell viability
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Microwave-induced modulation of intracellular distribution of peptides based on mitochondrial targeting sequences.

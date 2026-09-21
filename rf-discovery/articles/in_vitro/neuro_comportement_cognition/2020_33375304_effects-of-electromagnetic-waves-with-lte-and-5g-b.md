@@ -61,6 +61,14 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - attention
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # Effects of Electromagnetic Waves with LTE and 5G Bandwidth on the Skin Pigmentation In Vitro.

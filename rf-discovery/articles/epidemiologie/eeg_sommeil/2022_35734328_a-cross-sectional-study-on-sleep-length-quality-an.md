@@ -48,6 +48,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # A cross-sectional study on sleep length, quality, and mobile phone use among Moroccan adolescents.

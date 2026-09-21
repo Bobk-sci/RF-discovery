@@ -34,6 +34,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/revue
+- theme/thermique
+- annee/2025
 ---
 
 # Microwave power sources for industrial, scientific and medical applications.

@@ -52,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Effects of wireless local area network exposure on testicular morphology and VEGF levels.

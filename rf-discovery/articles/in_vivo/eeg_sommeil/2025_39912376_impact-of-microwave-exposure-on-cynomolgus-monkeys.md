@@ -49,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/in_vivo
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Impact of Microwave Exposure on Cynomolgus Monkeys: EEG and ECG Analysis.

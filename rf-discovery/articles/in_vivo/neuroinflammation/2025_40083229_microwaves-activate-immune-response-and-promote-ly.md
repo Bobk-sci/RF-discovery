@@ -59,6 +59,14 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - inflammatory response
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Microwaves Activate Immune Response and Promote Lymphocytes Proliferation of Wistar Rats.

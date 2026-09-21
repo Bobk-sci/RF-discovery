@@ -63,6 +63,11 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2013
 ---
 
 # Mobile phone use and risk of brain neoplasms and other cancers: prospective study.

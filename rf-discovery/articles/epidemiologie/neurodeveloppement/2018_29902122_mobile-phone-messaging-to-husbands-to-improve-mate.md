@@ -45,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - child
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Mobile Phone Messaging to Husbands to Improve Maternal and Child Health Behavior in India.

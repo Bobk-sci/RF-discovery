@@ -47,6 +47,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Mobile phone base stations and well-being--A meta-analysis.

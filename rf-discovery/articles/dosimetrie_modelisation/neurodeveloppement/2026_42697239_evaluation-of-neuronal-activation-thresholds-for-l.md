@@ -48,6 +48,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Evaluation of neuronal activation thresholds for low-frequency electromagnetic exposure using morphologically realistic neuron models.

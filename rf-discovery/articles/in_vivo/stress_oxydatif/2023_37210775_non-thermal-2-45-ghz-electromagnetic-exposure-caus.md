@@ -48,6 +48,13 @@ theme_indices:
 - ROS
 - glutathione
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2023
 ---
 
 # Non thermal 2.45 GHz electromagnetic exposure causes rapid changes in Arabidopsis thaliana metabolism.

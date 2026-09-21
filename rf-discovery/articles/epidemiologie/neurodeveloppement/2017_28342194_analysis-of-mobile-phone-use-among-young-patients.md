@@ -48,6 +48,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Analysis of mobile phone use among young patients with brain tumors in Japan.

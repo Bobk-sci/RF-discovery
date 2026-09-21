@@ -46,6 +46,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - neuroinflammation
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # Electromagnetic field induced activation of amyloid-β degrading enzyme, neprilysin, for accelerated Alzheimer's disease therapy.

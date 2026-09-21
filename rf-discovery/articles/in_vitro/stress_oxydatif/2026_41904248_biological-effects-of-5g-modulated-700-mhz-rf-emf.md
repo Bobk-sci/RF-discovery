@@ -69,6 +69,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuroinflammation
+- theme/cancer
+- annee/2026
 ---
 
 # Biological effects of 5G-modulated 700 MHz RF-EMF exposure on neuronal and glial cell models under isothermal conditions.

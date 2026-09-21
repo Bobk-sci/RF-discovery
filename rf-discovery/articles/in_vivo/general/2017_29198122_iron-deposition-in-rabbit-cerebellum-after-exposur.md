@@ -52,6 +52,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2017
 ---
 
 # Iron deposition in rabbit cerebellum after exposure to generated and mobile GSM electromagnetic fields.

@@ -50,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/cancer
+- annee/2019
 ---
 
 # Synergistic action of microwave-induced mild hyperthermia and paclitaxel in inducing apoptosis in the human breast cancer cell line MCF-7.

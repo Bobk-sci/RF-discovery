@@ -53,6 +53,14 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # The potential adverse effect of 2.45 GHz microwave radiation on the testes of prenatally exposed peripubertal male rats.

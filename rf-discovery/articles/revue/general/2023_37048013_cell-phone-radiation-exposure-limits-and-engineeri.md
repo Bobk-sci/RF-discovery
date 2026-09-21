@@ -56,6 +56,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/general
+- annee/2023
 ---
 
 # Cell Phone Radiation Exposure Limits and Engineering Solutions.

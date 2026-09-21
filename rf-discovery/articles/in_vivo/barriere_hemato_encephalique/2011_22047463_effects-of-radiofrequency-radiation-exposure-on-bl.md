@@ -48,6 +48,11 @@ theme_indices:
 - BBB permeability
 - albumin extravasation
 - vascular permeability
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/2011
 ---
 
 # Effects of radiofrequency radiation exposure on blood-brain barrier permeability in male and female rats.

@@ -42,6 +42,14 @@ theme_indices:
 - heating
 - thermoregulation
 - non-thermal
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Radio Frequency Exposure in Military Contexts: A Narrative Review of Thermal Effects and Safety Considerations.

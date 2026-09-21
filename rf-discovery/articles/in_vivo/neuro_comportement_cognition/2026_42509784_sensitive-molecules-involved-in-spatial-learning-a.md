@@ -57,6 +57,11 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Sensitive Molecules Involved in Spatial Learning and Memory Impairment of Mice Induced by 4.3 GHz Microwave Radiation.

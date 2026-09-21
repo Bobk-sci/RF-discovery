@@ -58,6 +58,16 @@ theme_indices:
 - malondialdehyde
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/thermique
+- theme/dosimetrie_exposition
+- theme/apoptose_mitochondrie
+- annee/2017
 ---
 
 # In vitro non-thermal oxidative stress response after 1800 MHz radiofrequency radiation.

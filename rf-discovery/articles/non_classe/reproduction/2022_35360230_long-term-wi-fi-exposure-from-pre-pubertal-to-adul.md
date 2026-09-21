@@ -41,6 +41,12 @@ theme_indices:
 - sperm
 - testis
 - reproductive
+tags:
+- rf
+- modele/non_classe
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Long-Term Wi-Fi Exposure From Pre-Pubertal to Adult Age on the Spermatogonia Proliferation and Protective Effects of Edible Bird's Nest Supplementation.

@@ -57,6 +57,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/thermique
+- annee/2025
 ---
 
 # A Novel Method for Achieving Precision and Reproducibility in a 1.8 GHz Radiofrequency Exposure System That Modulates Intracellular ROS as a Function of Signal Amplitude in Human Cell Cultures.

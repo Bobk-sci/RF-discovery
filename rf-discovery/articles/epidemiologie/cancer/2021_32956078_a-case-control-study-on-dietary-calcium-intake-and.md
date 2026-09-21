@@ -49,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2021
 ---
 
 # A case-control study on dietary calcium intake and risk of glioma.

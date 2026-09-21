@@ -64,6 +64,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Genotoxic Effects in Human Fibroblasts Exposed to Microwave Radiation.

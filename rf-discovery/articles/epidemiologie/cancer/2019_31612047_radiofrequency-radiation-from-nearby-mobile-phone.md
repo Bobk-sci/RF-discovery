@@ -44,6 +44,13 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - IARC
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Radiofrequency radiation from nearby mobile phone base stations-a case comparison of one low and one high exposure apartment.

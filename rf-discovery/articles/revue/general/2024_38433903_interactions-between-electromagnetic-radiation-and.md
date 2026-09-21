@@ -39,6 +39,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Interactions between electromagnetic radiation and biological systems.

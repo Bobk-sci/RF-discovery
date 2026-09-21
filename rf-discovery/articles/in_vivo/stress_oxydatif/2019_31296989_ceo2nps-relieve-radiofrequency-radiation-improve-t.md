@@ -63,6 +63,16 @@ theme_indices:
 - malondialdehyde
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # CeO2NPs relieve radiofrequency radiation, improve testosterone synthesis, and clock gene expression in Leydig cells by enhancing antioxidation.

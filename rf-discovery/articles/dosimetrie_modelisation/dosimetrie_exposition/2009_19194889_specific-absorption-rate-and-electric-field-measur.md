@@ -47,6 +47,12 @@ theme_indices:
 - ICNIRP
 - compliance
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Specific absorption rate and electric field measurements in the near field of six mobile phone base station antennas.

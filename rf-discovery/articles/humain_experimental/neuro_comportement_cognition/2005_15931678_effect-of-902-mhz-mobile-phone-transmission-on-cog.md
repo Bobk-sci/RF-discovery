@@ -48,6 +48,12 @@ theme_indices:
 - cognition
 - cognitive
 - reaction time
+tags:
+- rf
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2005
 ---
 
 # Effect of 902 MHz mobile phone transmission on cognitive function in children.

@@ -38,6 +38,13 @@ theme_secondaires:
 theme_indices:
 - neuroinflammation
 - microglia
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Exposure to 1800 MHz LTE electromagnetic fields under proinflammatory conditions decreases the response strength and increases the acoustic threshold of auditory cortical neurons

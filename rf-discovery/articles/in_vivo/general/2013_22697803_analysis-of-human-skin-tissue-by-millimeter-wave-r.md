@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2013
 ---
 
 # Analysis of human skin tissue by millimeter-wave reflectometry.

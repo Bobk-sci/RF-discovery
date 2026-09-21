@@ -40,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # On the uncertainty in numerical modeling of wireless communication devices operating at frequencies of 900 MHz, 1800 MHz, and 28 GHz.

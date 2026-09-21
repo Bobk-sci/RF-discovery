@@ -51,6 +51,16 @@ theme_indices:
 - DNA damage
 - micronucleus
 - epigenetic
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2026
 ---
 
 # Is it time to reconsider chronic electromagnetic field exposure as a possible risk factor in oral cancer?

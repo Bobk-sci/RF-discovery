@@ -49,6 +49,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Effects of Dielectric Properties of Human Body on Communication Link Margins and Specific Absorption Rate of Implanted Antenna System.

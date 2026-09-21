@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Dual-Band Bent Sensing Textile Antenna Under Dual-Mode Resonance.

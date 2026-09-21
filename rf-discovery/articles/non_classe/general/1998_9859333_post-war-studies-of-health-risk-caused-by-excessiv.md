@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/1998
 ---
 
 # [Post-war studies of health risk caused by excessive military microwave exposure. What can these studies contribute to current risk assessment of electromagnetic fields?].

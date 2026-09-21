@@ -44,6 +44,11 @@ theme_indices:
 - catalase
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Oxidative Stress Response of Honey Bee Colonies (<i>Apis mellifera</i> L.) during Long-Term Exposure at a Frequency of 900 MHz under Field Conditions.

@@ -58,6 +58,11 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Radiofrequency exposure near an attocell as part of an ultra-high density access network.

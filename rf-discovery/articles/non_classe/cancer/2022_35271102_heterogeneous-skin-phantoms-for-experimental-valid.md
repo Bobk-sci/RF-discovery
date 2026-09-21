@@ -42,6 +42,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2022
 ---
 
 # Heterogeneous Skin Phantoms for Experimental Validation of Microwave-Based Diagnostic Tools.

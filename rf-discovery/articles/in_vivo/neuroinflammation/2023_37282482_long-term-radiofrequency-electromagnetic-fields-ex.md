@@ -51,6 +51,15 @@ theme_indices:
 - microglia
 - glial
 - cytokine
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Long-term radiofrequency electromagnetic fields exposure attenuates cognitive dysfunction in 5×FAD mice by regulating microglial function.

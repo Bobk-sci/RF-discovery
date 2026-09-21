@@ -43,6 +43,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2024
 ---
 
 # No observable non-thermal effect of microwave radiation on the growth of microtubules.

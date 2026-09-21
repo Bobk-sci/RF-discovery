@@ -49,6 +49,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2020
 ---
 
 # Occurrence of micronuclei in exfoliated buccal mucosal cells in mobile phone users: A case-control study.

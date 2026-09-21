@@ -37,6 +37,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2024
 ---
 
 # Microwave assisted disinfestation of green gram (&lt;i&gt;Vigna radiata&lt;/i&gt; L.) infested with pulse beetle, &lt;i&gt;Callasobruchus maculatus&lt;/i&gt; (F.).

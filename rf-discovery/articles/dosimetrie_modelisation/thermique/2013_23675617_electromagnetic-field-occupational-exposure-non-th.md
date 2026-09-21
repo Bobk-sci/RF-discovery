@@ -39,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2013
 ---
 
 # Electromagnetic field occupational exposure: non-thermal vs. thermal effects.

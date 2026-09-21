@@ -42,6 +42,12 @@ theme_secondaires:
 theme_indices:
 - nitric oxide
 - redox
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # Combined photobiomodulation and pulsed electromagnetic field exposure attenuates nitric oxide production in high-glucose/LPS-stimulated RAW264.7 macrophages.

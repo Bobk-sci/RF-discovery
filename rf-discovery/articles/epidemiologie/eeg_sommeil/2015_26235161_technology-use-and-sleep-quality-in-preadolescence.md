@@ -59,6 +59,13 @@ theme_secondaires:
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2015
 ---
 
 # Technology Use and Sleep Quality in Preadolescence and Adolescence.

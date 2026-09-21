@@ -54,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/1992
 ---
 
 # Long-term, low-level microwave irradiation of rats.

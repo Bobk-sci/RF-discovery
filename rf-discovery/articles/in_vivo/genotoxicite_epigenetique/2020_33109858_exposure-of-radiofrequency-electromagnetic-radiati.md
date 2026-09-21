@@ -51,6 +51,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Exposure of Radiofrequency Electromagnetic Radiation on Biochemical and Pathological Alterations.

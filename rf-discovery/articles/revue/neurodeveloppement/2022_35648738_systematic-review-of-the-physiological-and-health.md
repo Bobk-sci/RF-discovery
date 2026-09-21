@@ -50,6 +50,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Systematic review of the physiological and health-related effects of radiofrequency electromagnetic field exposure from wireless communication devices on children and adolescents in experimental and epidemiological human studies.

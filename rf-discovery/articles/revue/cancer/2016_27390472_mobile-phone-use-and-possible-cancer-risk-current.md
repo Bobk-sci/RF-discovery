@@ -43,6 +43,12 @@ theme_indices:
 - carcinogenesis
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2016
 ---
 
 # Mobile phone use and possible cancer risk: Current perspectives in India.

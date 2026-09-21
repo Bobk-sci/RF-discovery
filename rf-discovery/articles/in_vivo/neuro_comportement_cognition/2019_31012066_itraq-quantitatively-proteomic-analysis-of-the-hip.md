@@ -68,6 +68,15 @@ theme_indices:
 - memory
 - learning
 - depression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2019
 ---
 
 # iTRAQ quantitatively proteomic analysis of the hippocampus in a rat model of accumulative microwave-induced cognitive impairment.

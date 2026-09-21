@@ -59,6 +59,15 @@ theme_secondaires:
 - cancer
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2021
 ---
 
 # Development of health-based exposure limits for radiofrequency radiation from wireless devices using a benchmark dose approach.

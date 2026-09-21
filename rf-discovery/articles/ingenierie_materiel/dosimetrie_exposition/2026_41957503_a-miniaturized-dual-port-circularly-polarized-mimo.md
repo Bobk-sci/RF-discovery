@@ -52,6 +52,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/revue
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A miniaturized dual-port circularly polarized MIMO patch antenna for SAR-compliant wearable X-band communication systems.

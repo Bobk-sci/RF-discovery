@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Metabolic, Apoptotic and Fibro-Inflammatory Profiles of the Heart Exposed to Environmental Electromagnetic Fields.

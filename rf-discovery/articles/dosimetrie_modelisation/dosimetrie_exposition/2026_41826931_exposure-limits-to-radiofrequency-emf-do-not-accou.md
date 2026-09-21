@@ -55,6 +55,14 @@ theme_indices:
 - specific absorption rate
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- theme/cancer
+- theme/reproduction
+- annee/2026
 ---
 
 # Exposure limits to radiofrequency EMF do not account for cancer risk or reproductive toxicity assessed from data in experimental animals.

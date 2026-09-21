@@ -48,6 +48,15 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - circadian
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2026
 ---
 
 # Non-chemical, chemical, and biochemical, endocrine disruptors: biphasic health effects and pathophysiological insights.

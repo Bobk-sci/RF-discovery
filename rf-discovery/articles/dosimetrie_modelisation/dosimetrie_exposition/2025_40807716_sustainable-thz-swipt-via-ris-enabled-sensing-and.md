@@ -45,6 +45,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Sustainable THz SWIPT via RIS-Enabled Sensing and Adaptive Power Focusing: Toward Green 6G IoT.

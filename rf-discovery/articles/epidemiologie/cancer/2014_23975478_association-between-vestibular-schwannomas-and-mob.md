@@ -50,6 +50,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2014
 ---
 
 # Association between vestibular schwannomas and mobile phone use.

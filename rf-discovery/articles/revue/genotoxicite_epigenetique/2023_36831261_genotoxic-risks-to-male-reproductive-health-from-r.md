@@ -53,6 +53,16 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Genotoxic Risks to Male Reproductive Health from Radiofrequency Radiation.

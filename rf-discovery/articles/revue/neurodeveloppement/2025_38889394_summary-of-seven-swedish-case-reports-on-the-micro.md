@@ -55,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Summary of seven Swedish case reports on the microwave syndrome associated with 5G radiofrequency radiation.

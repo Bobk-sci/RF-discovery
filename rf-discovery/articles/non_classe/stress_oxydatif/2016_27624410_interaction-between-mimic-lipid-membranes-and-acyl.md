@@ -49,6 +49,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2016
 ---
 
 # Interaction between Mimic Lipid Membranes and Acylated and Nonacylated Cyanidin and Its Bioactivity.

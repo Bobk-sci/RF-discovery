@@ -57,6 +57,12 @@ theme_indices:
 - learning
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- annee/2019
 ---
 
 # Mobile phone induced cognitive and neurochemical consequences.

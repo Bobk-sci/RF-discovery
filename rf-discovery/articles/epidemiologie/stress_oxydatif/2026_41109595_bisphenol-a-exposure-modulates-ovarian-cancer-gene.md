@@ -66,6 +66,14 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - superoxide dismutase
+tags:
+- rf
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/reproduction
+- annee/2026
 ---
 
 # Bisphenol A exposure modulates ovarian cancer gene expression and oxidative stress markers: a case-control study.

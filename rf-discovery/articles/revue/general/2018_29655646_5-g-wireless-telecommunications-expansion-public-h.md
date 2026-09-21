@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2018
 ---
 
 # 5 G wireless telecommunications expansion: Public health and environmental implications.

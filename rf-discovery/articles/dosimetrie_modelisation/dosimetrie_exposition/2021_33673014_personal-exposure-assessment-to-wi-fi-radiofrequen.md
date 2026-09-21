@@ -49,6 +49,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Personal Exposure Assessment to Wi-Fi Radiofrequency Electromagnetic Fields in Mexican Microenvironments.

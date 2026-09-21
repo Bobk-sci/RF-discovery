@@ -47,6 +47,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2026
 ---
 
 # Species-specific impacts of radiofrequency exposure on the structural and morphological characteristics of Aedes aegypti and Aedes albopictus eggs.

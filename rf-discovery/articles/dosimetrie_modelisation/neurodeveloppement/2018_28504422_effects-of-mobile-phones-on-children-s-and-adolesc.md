@@ -42,6 +42,14 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/cancer
+- annee/2018
 ---
 
 # Effects of Mobile Phones on Children's and Adolescents' Health: A Commentary.

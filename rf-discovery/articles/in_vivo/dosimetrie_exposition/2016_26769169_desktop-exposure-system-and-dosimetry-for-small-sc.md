@@ -55,6 +55,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Desktop exposure system and dosimetry for small scale in vivo radiofrequency exposure experiments.

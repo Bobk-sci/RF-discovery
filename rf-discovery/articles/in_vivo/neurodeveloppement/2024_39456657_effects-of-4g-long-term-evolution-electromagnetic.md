@@ -62,6 +62,15 @@ theme_indices:
 - brain development
 - children
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of 4G Long-Term Evolution Electromagnetic Fields on Thyroid Hormone Dysfunction and Behavioral Changes in Adolescent Male Mice.

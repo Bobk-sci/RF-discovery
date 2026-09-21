@@ -62,6 +62,13 @@ theme_indices:
 - learning
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/plasticite_synaptique
+- annee/2024
 ---
 
 # Maternal linalool treatment protects against radiofrequency wave-induced deteriorations in adolescent rats: A behavioral and electrophysiological study.

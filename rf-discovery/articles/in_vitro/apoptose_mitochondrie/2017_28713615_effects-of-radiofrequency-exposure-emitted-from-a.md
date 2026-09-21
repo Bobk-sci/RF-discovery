@@ -44,6 +44,12 @@ theme_indices:
 - apoptosis
 - caspase
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Effects of radiofrequency exposure emitted from a GSM mobile phone on proliferation, differentiation, and apoptosis of neural stem cells.

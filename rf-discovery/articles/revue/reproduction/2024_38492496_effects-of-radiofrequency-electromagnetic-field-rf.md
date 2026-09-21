@@ -74,6 +74,16 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of radiofrequency electromagnetic field (RF-EMF) exposure on male fertility: A systematic review of experimental studies on non-human mammals and human sperm in vitro.

@@ -51,6 +51,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2021
 ---
 
 # Establishment of injury models in studies of biological effects induced by microwave radiation.

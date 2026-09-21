@@ -35,6 +35,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2025
 ---
 
 # Influence of Carbon Nanotube Addition on Microstructure and Microwave Heating Performance of Polycarbosilane-Based Silicon Carbide.

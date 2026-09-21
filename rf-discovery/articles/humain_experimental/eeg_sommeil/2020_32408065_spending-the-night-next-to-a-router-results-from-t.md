@@ -54,6 +54,12 @@ theme_indices:
 - EEG
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Spending the night next to a router - Results from the first human experimental study investigating the impact of Wi-Fi exposure on sleep.

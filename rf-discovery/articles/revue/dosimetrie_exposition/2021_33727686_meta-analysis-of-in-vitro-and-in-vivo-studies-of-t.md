@@ -43,6 +43,14 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Meta-analysis of in vitro and in vivo studies of the biological effects of low-level millimetre waves.

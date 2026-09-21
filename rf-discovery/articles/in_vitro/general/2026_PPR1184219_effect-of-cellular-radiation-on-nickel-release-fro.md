@@ -33,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2026
 ---
 
 # Effect of Cellular Radiation on Nickel Release from Fixed Orthodontic wires: An In Vitro Study

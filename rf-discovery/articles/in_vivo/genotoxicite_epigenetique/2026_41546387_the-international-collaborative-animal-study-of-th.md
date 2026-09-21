@@ -67,6 +67,15 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # The International Collaborative Animal Study of the carcinogenicity and genotoxicity of mobile phone radiofrequency radiation: the Korean study.

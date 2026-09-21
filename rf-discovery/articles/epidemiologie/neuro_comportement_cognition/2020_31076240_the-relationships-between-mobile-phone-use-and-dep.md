@@ -67,6 +67,13 @@ theme_indices:
 - anxiety
 - depression
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # The relationships between mobile phone use and depressive symptoms, bodily pain, and daytime sleepiness in Hong Kong secondary school students.

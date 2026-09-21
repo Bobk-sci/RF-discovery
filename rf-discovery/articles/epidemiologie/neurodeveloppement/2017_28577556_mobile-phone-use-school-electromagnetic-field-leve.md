@@ -61,6 +61,12 @@ theme_secondaires:
 theme_indices:
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2017
 ---
 
 # Mobile phone use, school electromagnetic field levels and related symptoms: a cross-sectional survey among 2150 high school students in Izmir.

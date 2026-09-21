@@ -46,6 +46,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2021
 ---
 
 # Methodology of Studying Effects of Mobile Phone Radiation on Organisms: Technical Aspects.

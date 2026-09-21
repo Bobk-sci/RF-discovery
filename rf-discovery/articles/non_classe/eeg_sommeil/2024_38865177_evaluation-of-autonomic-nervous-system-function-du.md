@@ -49,6 +49,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Evaluation of Autonomic Nervous System Function During Sleep by Mindful Breathing Using a Tablet Device: Randomized Controlled Trial.

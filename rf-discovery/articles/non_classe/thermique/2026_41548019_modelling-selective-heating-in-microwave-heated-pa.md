@@ -32,6 +32,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Modelling selective heating in microwave-heated packed-bed reactors.

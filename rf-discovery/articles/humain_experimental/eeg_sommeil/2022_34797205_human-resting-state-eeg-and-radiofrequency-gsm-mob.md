@@ -52,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - EEG
 - alpha band
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Human resting-state EEG and radiofrequency GSM mobile phone exposure: the impact of the individual alpha frequency.

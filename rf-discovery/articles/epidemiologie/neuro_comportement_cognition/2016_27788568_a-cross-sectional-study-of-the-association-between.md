@@ -44,6 +44,12 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2016
 ---
 
 # A cross-sectional study of the association between mobile phone use and symptoms of ill health.

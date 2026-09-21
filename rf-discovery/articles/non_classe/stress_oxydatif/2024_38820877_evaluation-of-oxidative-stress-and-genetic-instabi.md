@@ -59,6 +59,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2024
 ---
 
 # Evaluation of oxidative stress and genetic instability among residents near mobile phone base stations in Germany.

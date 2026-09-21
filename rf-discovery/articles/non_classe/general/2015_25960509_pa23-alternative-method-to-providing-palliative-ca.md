@@ -28,6 +28,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2015
 ---
 
 # PA23 Alternative method to providing palliative care where there are caregiver shortages.

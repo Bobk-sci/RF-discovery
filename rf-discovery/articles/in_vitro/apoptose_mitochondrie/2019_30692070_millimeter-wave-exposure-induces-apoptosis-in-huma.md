@@ -59,6 +59,14 @@ theme_indices:
 - apoptosis
 - caspase
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- theme/cancer
+- annee/2019
 ---
 
 # [Millimeter wave exposure induces apoptosis in human melanoma A375 cells in vitro].

@@ -47,6 +47,12 @@ theme_secondaires: []
 theme_indices:
 - autophagy
 - cell death
+tags:
+- rf
+- modele/revue
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # Magnetic fields as biophysical activators of autophagy: A preclinical systematic review.

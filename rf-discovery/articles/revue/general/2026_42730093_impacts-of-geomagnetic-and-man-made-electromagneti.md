@@ -46,6 +46,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/general
+- annee/2026
 ---
 
 # Impacts of Geomagnetic and Man-Made Electromagnetic Fields on Heart Rate and Its Variability in Healthy Adults: A Scoping Review.

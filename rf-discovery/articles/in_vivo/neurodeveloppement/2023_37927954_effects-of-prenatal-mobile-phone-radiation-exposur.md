@@ -44,6 +44,13 @@ theme_indices:
 - prenatal
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Effects of prenatal mobile phone radiation exposure on MMP9 expression: Implications for inflammation, oxidative stress, and sensory-motor impairment after neonatal hypoxia- ischemia in rats.

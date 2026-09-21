@@ -48,6 +48,12 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- annee/2022
 ---
 
 # Mobile phone carrying locations and risk perception of men: A cross-sectional study.

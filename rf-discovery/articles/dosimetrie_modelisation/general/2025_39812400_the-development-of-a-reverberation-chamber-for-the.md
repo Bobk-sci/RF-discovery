@@ -52,6 +52,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # The Development of a Reverberation Chamber for the Assessment of Biological Effects of Electromagnetic Energy Absorption in Mice.

@@ -54,6 +54,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # The 2100MHz radiofrequency radiation of a 3G-mobile phone and the DNA oxidative damage in brain.

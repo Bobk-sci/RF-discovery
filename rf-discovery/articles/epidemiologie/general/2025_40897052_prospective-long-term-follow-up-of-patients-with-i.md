@@ -48,6 +48,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Prospective long-term follow-up of patients with idiopathic environmental intolerance attributed to electromagnetic fields after a provocation trial.

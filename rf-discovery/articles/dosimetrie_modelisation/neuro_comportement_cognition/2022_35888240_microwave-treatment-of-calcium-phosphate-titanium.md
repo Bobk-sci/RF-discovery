@@ -36,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Microwave Treatment of Calcium Phosphate/Titanium Dioxide Composite to Improve Protein Adsorption.

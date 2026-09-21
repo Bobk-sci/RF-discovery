@@ -39,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2016
 ---
 
 # Effects of Long Term Exposure of 900-1800 MHz Radiation Emitted from 2G Mobile Phone on Mice Hippocampus- A Histomorphometric Study.

@@ -47,6 +47,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # Controversies on electromagnetic field exposure and the nervous systems of children.

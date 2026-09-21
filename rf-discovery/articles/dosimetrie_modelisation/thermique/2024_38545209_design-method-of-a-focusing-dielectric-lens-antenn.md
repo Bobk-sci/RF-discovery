@@ -38,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- annee/2024
 ---
 
 # Design method of a focusing dielectric lens antenna and temperature increment measurement at the focusing spot.

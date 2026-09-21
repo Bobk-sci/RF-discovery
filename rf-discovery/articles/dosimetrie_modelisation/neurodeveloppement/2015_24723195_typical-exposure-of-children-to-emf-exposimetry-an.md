@@ -48,6 +48,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Typical exposure of children to EMF: exposimetry and dosimetry.

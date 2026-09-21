@@ -48,6 +48,12 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - BBB permeability
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- theme/thermique
+- annee/2025
 ---
 
 # Effects of 1800 MHz and 2100 MHz mobile phone radiation on the blood-brain barrier of New Zealand rabbits.

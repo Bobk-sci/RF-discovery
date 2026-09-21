@@ -59,6 +59,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2016
 ---
 
 # The effect of prenatal exposure to 1800 MHz electromagnetic field on calcineurin and bone development in rats.

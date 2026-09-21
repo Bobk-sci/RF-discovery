@@ -43,6 +43,12 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2019
 ---
 
 # Pulsed Microwave-Pumped Drug-Free Thermoacoustic Therapy by Highly Biocompatible and Safe Metabolic Polyarginine Probes.

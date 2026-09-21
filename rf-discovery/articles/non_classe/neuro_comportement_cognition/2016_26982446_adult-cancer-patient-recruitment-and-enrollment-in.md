@@ -66,6 +66,11 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - depression
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # Adult Cancer Patient Recruitment and Enrollment into Cell Phone Text Message Trials.

@@ -43,6 +43,13 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Formation of reactive species via high power microwave induced DNA damage and promoted intrinsic pathway-mediated apoptosis in lung cancer cells: An in vitro investigation.

@@ -49,6 +49,13 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Compact wideband implantable antenna for wireless capsule endoscopy application in the 2.45 GHz ISM band.

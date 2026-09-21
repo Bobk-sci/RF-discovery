@@ -52,6 +52,12 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Thermal Modeling for the Next Generation of Radiofrequency Exposure Limits: Commentary.

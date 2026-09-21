@@ -69,6 +69,14 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative stress and DNA repair in skin cells.

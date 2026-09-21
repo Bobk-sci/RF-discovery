@@ -61,6 +61,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Oxidative changes and apoptosis induced by 1800-MHz electromagnetic radiation in NIH/3T3 cells.

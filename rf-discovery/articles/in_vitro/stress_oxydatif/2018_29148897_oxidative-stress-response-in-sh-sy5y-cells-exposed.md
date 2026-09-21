@@ -60,6 +60,15 @@ theme_indices:
 - malondialdehyde
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/cancer
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2018
 ---
 
 # Oxidative stress response in SH-SY5Y cells exposed to short-term 1800 MHz radiofrequency radiation.

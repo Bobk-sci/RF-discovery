@@ -55,6 +55,13 @@ theme_indices:
 - malondialdehyde
 - superoxide dismutase
 - catalase
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Impact of GSM-EMW exposure on the markers of oxidative stress in fetal rat liver.

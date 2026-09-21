@@ -48,6 +48,12 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Adaptation and Psychometric Analysis of the Test of Mobile Phone Dependence-Brief Version in Italian Adolescents.

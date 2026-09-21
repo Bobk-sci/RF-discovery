@@ -57,6 +57,14 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - autophagy
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2022
 ---
 
 # Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPKα2 signal pathway.

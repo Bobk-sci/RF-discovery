@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/1988
 ---
 
 # Health problems among operators of plastic welding machines and exposure to radiofrequency electromagnetic fields.

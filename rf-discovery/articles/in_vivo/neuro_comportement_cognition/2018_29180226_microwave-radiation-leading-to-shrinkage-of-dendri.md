@@ -70,6 +70,11 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Microwave radiation leading to shrinkage of dendritic spines in hippocampal neurons mediated by SNK-SPAR pathway.

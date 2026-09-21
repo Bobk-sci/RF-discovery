@@ -42,6 +42,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Modeling of Polyolefin-Aluminum Bonding Technology Under Electromagnetic Energy: Using Hot-Melt Adhesives with Metallic Micro-Additives.

@@ -49,6 +49,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # Exploring RF-EMF levels in Swiss microenvironments: An evaluation of environmental and auto-induced downlink and uplink exposure in the era of 5G.

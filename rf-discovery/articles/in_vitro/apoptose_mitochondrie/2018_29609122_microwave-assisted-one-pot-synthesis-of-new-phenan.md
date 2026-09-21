@@ -61,6 +61,13 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Microwave-assisted one-pot synthesis of new phenanthrene fused-tetrahydrodibenzo-acridinones as potential cytotoxic and apoptosis inducing agents.

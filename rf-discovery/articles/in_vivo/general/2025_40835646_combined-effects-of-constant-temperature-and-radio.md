@@ -44,6 +44,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Combined effects of constant temperature and radio frequency exposure on Aedes mosquito development.

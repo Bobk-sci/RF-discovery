@@ -51,6 +51,14 @@ theme_indices:
 - cognition
 - cognitive
 - behavior
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Brain Disease-Modifying Effects of Radiofrequency as a Non-Contact Neuronal Stimulation Technology.

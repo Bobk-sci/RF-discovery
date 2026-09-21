@@ -63,6 +63,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Extract of Chenopodium album lowers blood pressure in rats through endothelium-dependent and -independent vasorelaxation.

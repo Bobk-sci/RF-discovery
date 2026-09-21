@@ -27,6 +27,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # An Approach to Reduce the Number of Intermediate Nodes in a Free Space Wireless Sensor Networks

@@ -52,6 +52,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Evaluation of Chinese populational exposure to environmental electromagnetic field based on stochastic dosimetry and parametric human modelling.

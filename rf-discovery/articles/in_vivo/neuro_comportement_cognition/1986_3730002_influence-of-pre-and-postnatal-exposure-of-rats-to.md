@@ -51,6 +51,12 @@ theme_indices:
 - behavior
 - locomotor activity
 - neurobehavioral
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/1986
 ---
 
 # Influence of pre- and postnatal exposure of rats to 2.45-GHz microwave radiation on neurobehavioral function.

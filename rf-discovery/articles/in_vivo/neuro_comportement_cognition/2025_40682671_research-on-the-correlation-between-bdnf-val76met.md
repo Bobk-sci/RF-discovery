@@ -60,6 +60,15 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Research on the Correlation between BDNF Val76Met Polymorphism and Susceptibility to Changes of Cognitive Function in Rats Induced by Microwave Radiation.

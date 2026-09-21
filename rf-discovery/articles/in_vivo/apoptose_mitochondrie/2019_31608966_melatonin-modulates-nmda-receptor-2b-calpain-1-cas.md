@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # Melatonin Modulates NMDA-Receptor 2B/Calpain-1/ Caspase-12 Pathways in Rat Brain After Long Time Exposure to GSM Radiation.

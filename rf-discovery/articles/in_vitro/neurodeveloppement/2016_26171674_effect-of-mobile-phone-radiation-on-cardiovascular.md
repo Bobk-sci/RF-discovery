@@ -59,6 +59,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - embryo
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Effect of Mobile Phone Radiation on Cardiovascular Development of Chick Embryo.

@@ -42,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2004
 ---
 
 # Are thyroid dysfunctions related to stress or microwave exposure (900 MHz)?

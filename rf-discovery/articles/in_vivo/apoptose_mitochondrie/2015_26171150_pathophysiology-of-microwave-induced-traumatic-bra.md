@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Pathophysiology of microwave-induced traumatic brain injury.

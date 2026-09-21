@@ -56,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # The humoral response of mRNA COVID-19 vaccine in hematological diseases: The HEMVACO study.

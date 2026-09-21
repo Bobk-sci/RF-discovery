@@ -41,6 +41,7 @@ from library.classify import (
 from library.importer import papers_from_json
 from library.organize import (
     article_path,
+    iter_fiches,
     prune_empty_dirs,
     read_article,
     read_front_matter,
@@ -49,6 +50,7 @@ from library.organize import (
     write_index,
     write_readme,
 )
+from library.vault import write_maps
 from normalize.dedupe import dedupe, load_seen, paper_key, save_seen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -109,9 +111,7 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
     """
     axes = tuple(ax.name for ax in tax.axes)
     moved = removed = 0
-    for path in sorted(out.rglob("*.md")):
-        if path.name == "README.md":
-            continue
+    for path in iter_fiches(out):
         paper = read_article(path)
         motif = is_off_topic(paper, tax)
         if motif:
@@ -132,9 +132,7 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
 def _fiches_incompletes(out: Path) -> dict[str, Path]:
     """PMID des fiches sans auteurs (collectées avant que ce champ soit lu)."""
     manquants: dict[str, Path] = {}
-    for path in out.rglob("*.md"):
-        if path.name == "README.md":
-            continue
+    for path in iter_fiches(out):
         meta = read_front_matter(path)
         pmid = str(meta.get("pmid") or "")
         if meta and not meta.get("auteurs") and pmid.isdigit():
@@ -176,7 +174,7 @@ def memoire_depuis_bibliotheque(out: Path) -> set[str]:
     trop strict resterait marqué comme vu et ne reviendrait jamais, même une fois le
     réglage corrigé. Le coût est nul : les sources renvoient de toute façon ces notices.
     """
-    return {paper_key(read_article(p)) for p in out.rglob("*.md") if p.name != "README.md"}
+    return {paper_key(read_article(p)) for p in iter_fiches(out)}
 
 
 def _finalise(out: Path, tax: Taxonomy, query: str) -> int:
@@ -184,6 +182,7 @@ def _finalise(out: Path, tax: Taxonomy, query: str) -> int:
     axes = tuple(ax.name for ax in tax.axes)
     write_index(out, records, axes)
     write_readme(out, records, tax, query)
+    write_maps(out, records, axes)      # points d'entrée pour Obsidian
     return len(records)
 
 

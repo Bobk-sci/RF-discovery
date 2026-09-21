@@ -43,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2025
 ---
 
 # Comparison of the Synergistic Effects of Black Tea and Microwave with Gentamicin and Microwave on &lt;i&gt;Acanthamoeba&lt;/i&gt; cyst Mortality &lt;i&gt;In vitro&lt;/i&gt;.

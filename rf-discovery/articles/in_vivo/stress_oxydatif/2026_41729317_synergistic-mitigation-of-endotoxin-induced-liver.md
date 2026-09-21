@@ -61,6 +61,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - Nrf2
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # Synergistic mitigation of endotoxin-induced liver injury by low-frequency PMF and 27.12 MHz RF-EMF: a multi-biomarker experimental study.

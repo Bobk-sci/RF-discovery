@@ -47,6 +47,11 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # RF-EMF Exposure near 5G NR Small Cells.

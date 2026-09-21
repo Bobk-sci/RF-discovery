@@ -35,6 +35,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 300 GHz).

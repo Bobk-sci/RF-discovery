@@ -41,6 +41,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Does personal relevance moderate communication effects? The example of risk communication about 5G-related electromagnetic fields.

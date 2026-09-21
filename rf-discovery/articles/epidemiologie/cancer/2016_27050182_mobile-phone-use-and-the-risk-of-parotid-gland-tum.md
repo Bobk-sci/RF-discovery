@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2016
 ---
 
 # Mobile Phone Use and the Risk of Parotid Gland Tumors: A Retrospective Case-Control Study.

@@ -53,6 +53,13 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Effects of 5.8 GHz Microwaves on Testicular Structure and Function in Rats.

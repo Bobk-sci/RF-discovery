@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Assessment of Children's Exposure to Intelligent Transport System 5.9 GHz Vehicular Connectivity Using Numerical Dosimetry.

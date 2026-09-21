@@ -59,6 +59,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Nutritional, chemical and antioxidant/pro-oxidant profiles of silverskin, a coffee roasting by-product.

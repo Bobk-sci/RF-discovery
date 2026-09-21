@@ -35,6 +35,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- annee/1982
 ---
 
 # Occupational exposures to radiofrequency radiation (18-31 MHz) from F dielectric heat sealers.

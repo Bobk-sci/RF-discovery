@@ -58,6 +58,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - testicular
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- annee/2018
 ---
 
 # 1800 MHz radiofrequency fields inhibits testosterone production via CaMKI /RORα pathway.

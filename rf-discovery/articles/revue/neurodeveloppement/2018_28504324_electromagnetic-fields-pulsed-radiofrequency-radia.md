@@ -49,6 +49,13 @@ theme_indices:
 - attention deficit
 - child
 - adolescent
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Electromagnetic Fields, Pulsed Radiofrequency Radiation, and Epigenetics: How Wireless Technologies May Affect Childhood Development.

@@ -65,6 +65,13 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - behaviour
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Chinese public's knowledge, perceived severity, and perceived controllability of COVID-19 and their associations with emotional and behavioural reactions, social participation, and precautionary behaviour: a national survey.

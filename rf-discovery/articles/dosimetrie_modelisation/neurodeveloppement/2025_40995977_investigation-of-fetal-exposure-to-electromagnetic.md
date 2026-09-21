@@ -48,6 +48,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Investigation of fetal exposure to electromagnetic waves between 2.45 and 5 GHz during pregnancy.

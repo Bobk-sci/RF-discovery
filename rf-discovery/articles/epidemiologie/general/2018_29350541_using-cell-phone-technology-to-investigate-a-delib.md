@@ -49,6 +49,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2018
 ---
 
 # Using Cell Phone Technology to Investigate a Deliberate Bacillus anthracis Release Scenario.

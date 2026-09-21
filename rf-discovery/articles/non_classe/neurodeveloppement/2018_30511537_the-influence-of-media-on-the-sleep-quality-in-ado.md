@@ -47,6 +47,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # The influence of media on the sleep quality in adolescents.

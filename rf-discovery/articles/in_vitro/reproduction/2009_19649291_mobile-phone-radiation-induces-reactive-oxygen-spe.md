@@ -50,6 +50,16 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2009
 ---
 
 # Mobile phone radiation induces reactive oxygen species production and DNA damage in human spermatozoa in vitro.

@@ -53,6 +53,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Using mobile phone-based text message to recruit representative samples: Assessment of a cross-sectional survey about the COVID-19 vaccine hesitation.

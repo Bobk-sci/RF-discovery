@@ -39,6 +39,12 @@ theme_secondaires:
 theme_indices:
 - epigenetic
 - gene expression
+tags:
+- rf
+- modele/revue
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # A Review of Electromagnetic Fields in Cellular Interactions and Cacao Bean Fermentation.

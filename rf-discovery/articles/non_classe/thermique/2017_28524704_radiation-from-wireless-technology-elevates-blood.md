@@ -47,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- theme/calcium_canaux_ioniques
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Radiation from wireless technology elevates blood glucose and body temperature in 40-year-old type 1 diabetic male.

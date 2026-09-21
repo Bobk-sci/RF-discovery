@@ -55,6 +55,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Personal radio frequency electromagnetic field exposure among Swiss adolescents in the 5G era.

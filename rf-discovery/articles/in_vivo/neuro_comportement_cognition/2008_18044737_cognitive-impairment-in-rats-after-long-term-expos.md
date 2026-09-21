@@ -54,6 +54,12 @@ theme_indices:
 - memory
 - behaviour
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2008
 ---
 
 # Cognitive impairment in rats after long-term exposure to GSM-900 mobile phone radiation.

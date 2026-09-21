@@ -53,6 +53,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Evaluation of Hearing Thresholds by Using a Mobile Application in Children with Otitis Media with Effusion.

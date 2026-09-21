@@ -44,6 +44,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2023
 ---
 
 # The relationship between radiofrequency-electromagnetic radiation from cell phones and brain tumor: The brain tumor incidence trends in South Korea.

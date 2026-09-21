@@ -31,6 +31,12 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Genome-wide sperm DNA methylation alterations in individuals exposed to radar electromagnetic radiation

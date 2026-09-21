@@ -55,6 +55,11 @@ theme_indices:
 - memory
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2014
 ---
 
 # Behavior and memory evaluation of Wistar rats exposed to 1·8 GHz radiofrequency electromagnetic radiation.

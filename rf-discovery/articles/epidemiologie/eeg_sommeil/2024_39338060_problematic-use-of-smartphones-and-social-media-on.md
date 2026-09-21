@@ -53,6 +53,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Problematic Use of Smartphones and Social Media on Sleep Quality of High School Students in Mexico City.

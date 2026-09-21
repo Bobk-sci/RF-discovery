@@ -39,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2019
 ---
 
 # Mother's Exposure to Electromagnetic Fields before and during Pregnancy is Associated with Risk of Speech Problems in Offspring.

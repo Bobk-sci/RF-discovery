@@ -49,6 +49,11 @@ theme_indices:
 - fetal
 - child
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # Can Prenatal and Postnatal Cell Phone Exposure Increase Adverse Maternal, Infant and Child Outcomes?

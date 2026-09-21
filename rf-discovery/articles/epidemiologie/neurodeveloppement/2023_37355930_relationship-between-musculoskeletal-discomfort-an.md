@@ -59,6 +59,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Relationship between musculoskeletal discomfort and cell phone use among young adults: A cross-sectional survey.

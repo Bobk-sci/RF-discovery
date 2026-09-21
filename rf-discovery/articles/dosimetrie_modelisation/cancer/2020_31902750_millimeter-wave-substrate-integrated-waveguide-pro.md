@@ -40,6 +40,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/cancer
+- annee/2020
 ---
 
 # Millimeter-Wave Substrate Integrated Waveguide Probe for Skin Cancer Detection.

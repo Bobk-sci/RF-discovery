@@ -35,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2023
 ---
 
 # Biological Effects of Radiofrequency Electromagnetic Fields above 100 MHz on Fauna and Flora: Workshop Report.

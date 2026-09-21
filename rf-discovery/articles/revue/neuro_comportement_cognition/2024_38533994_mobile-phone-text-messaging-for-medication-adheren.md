@@ -57,6 +57,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Mobile phone text messaging for medication adherence in secondary prevention of cardiovascular disease.

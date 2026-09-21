@@ -65,6 +65,15 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - redox
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2017
 ---
 
 # Mobile-phone radiation-induced perturbation of gene-expression profiling, redox equilibrium and sporadic-apoptosis control in the ovary of Drosophila melanogaster.

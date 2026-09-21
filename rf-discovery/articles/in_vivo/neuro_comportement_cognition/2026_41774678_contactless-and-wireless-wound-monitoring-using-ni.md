@@ -53,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Contactless and Wireless Wound Monitoring Using Nitrogen-Doped Graphene Antenna Sensor.

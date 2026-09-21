@@ -43,6 +43,15 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # The Effect of Mobile Radiation on the Oxidative Stress Biomarkers in Pregnant Mice.

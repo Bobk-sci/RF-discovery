@@ -40,6 +40,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # Association between General Health and Mobile Phone Dependency among Medical University Students: A Cross-sectional Study in Iran.

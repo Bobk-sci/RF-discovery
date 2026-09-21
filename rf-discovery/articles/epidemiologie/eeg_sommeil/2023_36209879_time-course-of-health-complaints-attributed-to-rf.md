@@ -53,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Time course of health complaints attributed to RF-EMF exposure and predictors of electromagnetic hypersensitivity over 10 years in a prospective cohort of Dutch adults.

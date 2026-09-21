@@ -56,6 +56,15 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Compound exposure of 2.8 GHz and 9.3 GHz microwave causes learning and memory impairment in rats.

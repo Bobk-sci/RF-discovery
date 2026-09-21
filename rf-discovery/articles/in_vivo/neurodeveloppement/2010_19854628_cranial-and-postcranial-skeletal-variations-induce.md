@@ -32,6 +32,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - foetal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2010
 ---
 
 # Cranial and postcranial skeletal variations induced in mouse embryos by mobile phone radiation.

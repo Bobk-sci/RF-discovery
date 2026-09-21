@@ -54,6 +54,12 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Differential metabolic responses of mouse Leydig and spermatogonia cells to radiofrequency electromagnetic field exposure.

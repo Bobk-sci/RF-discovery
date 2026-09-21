@@ -42,6 +42,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Determinants of Maternal Behavior of Mobile Phone Use during Pregnancy.

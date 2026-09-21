@@ -69,6 +69,14 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Effects of combined radiofrequency radiation exposure on levels of reactive oxygen species in neuronal cells.

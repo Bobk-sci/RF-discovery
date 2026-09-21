@@ -49,6 +49,14 @@ theme_indices:
 - specific absorption rate
 - SAR value
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- modele/revue
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Machine learning-optimized compact wearable frequency reconfigurable antenna for sub-6 GHz/mm-wave 5G integration.

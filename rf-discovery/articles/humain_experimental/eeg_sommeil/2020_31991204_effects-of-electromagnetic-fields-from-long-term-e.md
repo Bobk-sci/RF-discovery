@@ -50,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effects of electromagnetic fields from long-term evolution on awake electroencephalogram in healthy humans.

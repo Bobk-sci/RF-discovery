@@ -43,6 +43,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Multiphysical Characterization of a Tissue-Mimicking Phantom: Composition, Thermal Behavior, and Broadband Electromagnetic Properties from Visible to Terahertz and Microwave Frequencies.

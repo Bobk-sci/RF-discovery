@@ -38,6 +38,11 @@ theme_indices:
 - cognitive
 - memory
 - reaction time
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Exposure to mobile phone radiation opens new horizons in Alzheimer's disease treatment.

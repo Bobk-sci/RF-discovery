@@ -47,6 +47,13 @@ theme_indices:
 - neurodevelopment
 - neurodevelopmental
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Radiofrequency Electromagnetic Field Emissions and Neurodevelopmental Outcomes in Infants: A Prospective Cohort Study.

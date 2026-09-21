@@ -49,6 +49,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Prolonged Mobile Phone Use Is Associated with Poor Academic Performance in Adolescents.

@@ -49,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Occupational electromagnetic field exposure and sleep disturbances: The predominant role of high-frequency electric fields.

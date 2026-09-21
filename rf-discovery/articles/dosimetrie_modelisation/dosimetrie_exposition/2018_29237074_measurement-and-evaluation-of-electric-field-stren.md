@@ -41,6 +41,11 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # MEASUREMENT AND EVALUATION OF ELECTRIC FIELD STRENGTH LEVELS IN PRIMARY AND SECONDARY SCHOOLS IN A PILOT REGION.

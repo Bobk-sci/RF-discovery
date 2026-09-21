@@ -49,6 +49,12 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- annee/2022
 ---
 
 # PIXE analysis of iron in rabbit cerebellum after exposure to radiofrequency electromagnetic fields.

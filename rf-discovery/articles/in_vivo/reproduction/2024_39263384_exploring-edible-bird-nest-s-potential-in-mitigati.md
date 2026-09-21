@@ -40,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- annee/2024
 ---
 
 # Exploring edible bird nest's potential in mitigating Wi-Fi's impact on male reproductive health.

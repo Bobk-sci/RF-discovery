@@ -43,6 +43,11 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- annee/2025
 ---
 
 # Effects of coenzyme Q10 on sperm parameters and pathological changes induced by Wi-Fi waves in the testicular tissue of rats.

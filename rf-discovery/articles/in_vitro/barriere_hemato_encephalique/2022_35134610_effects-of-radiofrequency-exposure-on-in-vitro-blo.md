@@ -39,6 +39,11 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - BBB permeability
+tags:
+- rf
+- modele/in_vitro
+- theme/barriere_hemato_encephalique
+- annee/2022
 ---
 
 # Effects of radiofrequency exposure on in vitro blood-brain barrier permeability in the presence of magnetic nanoparticles.

@@ -50,6 +50,13 @@ theme_indices:
 - memory
 - learning
 - neurobehavioral
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/plasticite_synaptique
+- annee/2025
 ---
 
 # Theaflavin-3,3'-digallate prevents radiofrequency radiation-induced learning and memory impairment in mice &lt;i&gt;via&lt;/i&gt; regulating GSK-3α/GRα/RORα/BMAL1 expression.

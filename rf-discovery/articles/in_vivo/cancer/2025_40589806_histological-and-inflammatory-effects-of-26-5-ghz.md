@@ -54,6 +54,14 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2025
 ---
 
 # Histological and inflammatory effects of 26.5 GHz quasi-millimeter wave exposure on rat skin.

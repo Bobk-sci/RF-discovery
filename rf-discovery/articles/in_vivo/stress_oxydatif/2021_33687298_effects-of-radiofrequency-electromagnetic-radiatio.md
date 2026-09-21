@@ -59,6 +59,12 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of radiofrequency electromagnetic radiation emitted from a mobile phone base station on the redox homeostasis in different organs of Swiss albino mice.

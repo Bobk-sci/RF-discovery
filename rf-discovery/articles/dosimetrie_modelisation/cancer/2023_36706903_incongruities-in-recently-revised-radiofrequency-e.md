@@ -35,6 +35,12 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - IARC
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/thermique
+- annee/2023
 ---
 
 # Incongruities in recently revised radiofrequency exposure guidelines and standards.

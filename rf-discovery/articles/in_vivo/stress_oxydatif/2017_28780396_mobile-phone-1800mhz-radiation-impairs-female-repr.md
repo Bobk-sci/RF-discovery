@@ -62,6 +62,12 @@ theme_indices:
 - ROS
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2017
 ---
 
 # Mobile phone (1800MHz) radiation impairs female reproduction in mice, Mus musculus, through stress induced inhibition of ovarian and uterine activity.

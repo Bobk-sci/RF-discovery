@@ -64,6 +64,14 @@ theme_indices:
 - Bcl-2
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2015
 ---
 
 # Enhancement of Apoptosis by Titanium Alloy Internal Fixations during Microwave Treatments for Fractures: An Animal Study.

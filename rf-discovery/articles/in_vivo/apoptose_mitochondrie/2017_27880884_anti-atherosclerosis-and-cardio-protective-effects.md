@@ -76,6 +76,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - Bcl-2
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Anti-atherosclerosis and cardio-protective effects of the Angong Niuhuang Pill on a high fat and vitamin D3 induced rodent model of atherosclerosis.

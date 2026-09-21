@@ -41,6 +41,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- annee/1988
 ---
 
 # Microwave radiation, in the absence of hyperthermia, has no detectable effect on synapsin I levels or phosphorylation.

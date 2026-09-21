@@ -49,6 +49,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Effect of 2.45 GHz Microwave Radiation on the Inner Ear: A Histopathological Study on 2.45 GHz Microwave Radiation and Cochlea.

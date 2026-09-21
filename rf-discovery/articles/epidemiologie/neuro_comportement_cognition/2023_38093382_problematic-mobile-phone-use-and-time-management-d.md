@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Problematic mobile phone use and time management disposition in Chinese college students: the chain mediating role of sleep quality and cognitive flexibility.

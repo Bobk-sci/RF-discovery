@@ -43,6 +43,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Functional and network analyses of human exposure to long-term evolution signal.

@@ -53,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electromagnetic Performance Characterization and Circuit-Level Modeling of a Miniaturized Meander-Line Antenna for Implantable and Wearable RFID Applications.

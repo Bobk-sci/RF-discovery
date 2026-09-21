@@ -38,6 +38,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - learning
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # A Decision Support System for Managing Health Symptoms of Living Near Mobile Phone Base Stations.

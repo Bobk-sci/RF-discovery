@@ -43,6 +43,15 @@ theme_secondaires:
 theme_indices:
 - synaptic plasticity
 - excitability
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Changes in the excitability of primary hippocampal neurons following exposure to 3.0 GHz radiofrequency electromagnetic fields.

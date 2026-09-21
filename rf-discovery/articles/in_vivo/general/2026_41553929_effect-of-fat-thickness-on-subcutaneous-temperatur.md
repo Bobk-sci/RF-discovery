@@ -45,6 +45,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2026
 ---
 
 # Effect of fat thickness on subcutaneous temperature field under monopolar radiofrequency.

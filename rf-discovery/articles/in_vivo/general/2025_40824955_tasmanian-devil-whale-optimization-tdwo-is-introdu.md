@@ -35,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Tasmanian devil whale optimization (TDWO) is introduced for secure video transmission in 5G networks.

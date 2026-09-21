@@ -44,6 +44,15 @@ theme_indices:
 - anxiety
 - behavior
 - locomotor activity
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Repeated head-exposures to a 5G-3.5 GHz signal do not alter behavior but modify intracerebral gene expression in adult male mice

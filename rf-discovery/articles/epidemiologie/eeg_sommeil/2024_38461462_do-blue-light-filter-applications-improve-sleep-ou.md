@@ -52,6 +52,12 @@ theme_indices:
 - sleep
 - melatonin
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Do blue light filter applications improve sleep outcomes? A study of smartphone users' sleep quality in an observational setting.

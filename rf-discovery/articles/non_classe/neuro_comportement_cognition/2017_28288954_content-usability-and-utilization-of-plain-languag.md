@@ -37,6 +37,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Content, Usability, and Utilization of Plain Language in Breast Cancer Mobile Phone Apps: A Systematic Analysis.

@@ -62,6 +62,14 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Modelling of daily radiofrequency electromagnetic field dose for a prospective adolescent cohort.

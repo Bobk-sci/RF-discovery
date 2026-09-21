@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/1979
 ---
 
 # Permeability of the blood-brain barrier to mannitol in the rat following 2450 MHz microwave irradiation.

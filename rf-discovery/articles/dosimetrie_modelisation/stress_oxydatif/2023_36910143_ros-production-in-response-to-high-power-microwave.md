@@ -43,6 +43,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # ROS production in response to high-power microwave pulses induces p53 activation and DNA damage in brain cells: Radiosensitivity and biological dosimetry evaluation.

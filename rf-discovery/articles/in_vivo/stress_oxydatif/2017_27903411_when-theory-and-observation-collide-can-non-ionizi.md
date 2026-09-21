@@ -44,6 +44,12 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2017
 ---
 
 # When theory and observation collide: Can non-ionizing radiation cause cancer?

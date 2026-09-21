@@ -43,6 +43,13 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # The Effect of 2.45 GHz Electromagnetic Fields on Fear Memory Extinction in Male Rats.

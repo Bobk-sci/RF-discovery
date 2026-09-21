@@ -69,6 +69,16 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2013
 ---
 
 # 2.45 GHz microwave irradiation-induced oxidative stress affects implantation or pregnancy in mice, Mus musculus.

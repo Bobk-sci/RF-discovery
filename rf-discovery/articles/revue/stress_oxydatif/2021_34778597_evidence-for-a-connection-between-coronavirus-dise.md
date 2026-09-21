@@ -48,6 +48,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Evidence for a connection between coronavirus disease-19 and exposure to radiofrequency radiation from wireless communications including 5G.

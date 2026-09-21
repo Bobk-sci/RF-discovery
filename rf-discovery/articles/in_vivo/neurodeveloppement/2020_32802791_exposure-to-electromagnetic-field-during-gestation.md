@@ -42,6 +42,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/calcium_canaux_ioniques
+- annee/2020
 ---
 
 # Exposure to Electromagnetic Field during Gestation Adversely Affects the Electrophysiological Properties of Purkinje Cells in Rat Offspring.

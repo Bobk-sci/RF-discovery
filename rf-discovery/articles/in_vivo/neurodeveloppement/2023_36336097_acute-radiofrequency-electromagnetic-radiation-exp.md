@@ -59,6 +59,15 @@ theme_secondaires:
 theme_indices:
 - neurogenesis
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Acute radiofrequency electromagnetic radiation exposure impairs neurogenesis and causes neuronal DNA damage in the young rat brain.

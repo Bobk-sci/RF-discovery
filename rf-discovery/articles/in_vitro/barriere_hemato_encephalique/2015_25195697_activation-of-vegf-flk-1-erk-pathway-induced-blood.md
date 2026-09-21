@@ -58,6 +58,12 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - occludin
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/2015
 ---
 
 # Activation of VEGF/Flk-1-ERK Pathway Induced Blood-Brain Barrier Injury After Microwave Exposure.

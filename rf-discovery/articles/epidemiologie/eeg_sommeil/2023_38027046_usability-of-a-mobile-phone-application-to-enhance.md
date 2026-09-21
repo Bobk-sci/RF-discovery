@@ -42,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Usability of a mobile phone application to enhance activities of daily living in occupational therapy services for breast cancer survivors.

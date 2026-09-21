@@ -46,6 +46,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # Understanding Electromagnetic Hypersensitivity (EHS) From Mobile Phone Radiofrequency Radiation (RFR) Exposure: A Mixed-Method Study Protocol.

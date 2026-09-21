@@ -47,6 +47,12 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/1989
 ---
 
 # Effects of field orientation during 700-MHz radiofrequency irradiation of rats.

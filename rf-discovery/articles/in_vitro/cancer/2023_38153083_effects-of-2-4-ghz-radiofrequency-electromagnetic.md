@@ -54,6 +54,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumour
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2023
 ---
 
 # Effects of 2.4 GHz radiofrequency electromagnetic field (RF-EMF) on glioblastoma cells (U -118 MG).

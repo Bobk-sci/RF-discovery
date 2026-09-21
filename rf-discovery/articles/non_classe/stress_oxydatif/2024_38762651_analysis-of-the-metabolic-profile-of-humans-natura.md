@@ -45,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Analysis of the metabolic profile of humans naturally exposed to RF-EM radiation.

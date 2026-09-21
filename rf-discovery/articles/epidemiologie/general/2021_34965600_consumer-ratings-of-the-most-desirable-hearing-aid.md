@@ -36,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2021
 ---
 
 # Consumer Ratings of the Most Desirable Hearing Aid Attributes.

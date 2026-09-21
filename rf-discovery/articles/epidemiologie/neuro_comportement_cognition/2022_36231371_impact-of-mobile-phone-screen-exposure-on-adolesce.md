@@ -53,6 +53,12 @@ theme_indices:
 - memory
 - attention
 - reaction time
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Impact of Mobile Phone Screen Exposure on Adolescents' Cognitive Health.

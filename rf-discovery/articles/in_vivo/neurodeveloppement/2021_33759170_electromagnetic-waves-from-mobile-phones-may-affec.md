@@ -59,6 +59,14 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2021
 ---
 
 # Electromagnetic Waves from Mobile Phones may Affect Rat Brain During Development.

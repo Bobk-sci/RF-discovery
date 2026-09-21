@@ -51,6 +51,11 @@ theme_indices:
 - ROS
 - malondialdehyde
 - lipid peroxidation
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Effects of industrial, scientific, and medical (ISM) band frequency 2.45 GHz on membrane integrity and oxidative stress of human skin bacteria.

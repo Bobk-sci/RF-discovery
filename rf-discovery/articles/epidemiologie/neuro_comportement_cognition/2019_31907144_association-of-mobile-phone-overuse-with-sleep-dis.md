@@ -47,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # [Association of mobile phone overuse with sleep disorder and unhealthy eating behaviors in college students of a medical university in Guangzhou].

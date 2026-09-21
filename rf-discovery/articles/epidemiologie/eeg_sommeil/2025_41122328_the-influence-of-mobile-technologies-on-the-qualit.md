@@ -37,6 +37,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # The Influence of Mobile Technologies on the Quality of Sleep.

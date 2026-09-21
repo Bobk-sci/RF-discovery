@@ -42,6 +42,11 @@ theme_indices:
 - power density
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # 5G EMF Exposure at 3.6 GHz in Greece Using Data From Frequency-Selective Monitoring Sensors.

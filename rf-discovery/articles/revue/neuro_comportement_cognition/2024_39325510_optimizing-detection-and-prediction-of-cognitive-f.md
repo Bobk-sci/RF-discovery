@@ -63,6 +63,13 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Optimizing Detection and Prediction of Cognitive Function in Multiple Sclerosis With Ambulatory Cognitive Tests: Protocol for the Longitudinal Observational CogDetect-MS Study.

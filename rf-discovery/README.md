@@ -92,6 +92,38 @@ le proxy de votre bibliothèque configuré (*Préférences → Avancé → Proxy
 Les PDF atterrissent dans `pdf/`, **non versionné** (volume, et licences variables selon
 l'éditeur).
 
+## Travailler en local : disque dur, Obsidian, EndNote
+
+```bash
+# 1. le corpus sur le disque externe
+git clone https://github.com/Bobk-sci/RF-discovery /Volumes/DISQUE/rf-library
+cd /Volumes/DISQUE/rf-library/rf-discovery
+uv venv --python 3.11 .venv && . .venv/bin/activate && uv pip install -e .
+
+# 2. les PDF en accès libre, à côté des fiches
+python -m fetch_pdfs --email votre@adresse.fr --out pdf
+
+# 3. les références, PDF rattachés
+python -m export_refs --pdf-dir pdf
+```
+
+**Obsidian** : *Ouvrir un dossier comme coffre* → `rf-discovery/articles`. Chaque fiche
+est déjà une note Markdown avec en-tête YAML ; le champ `tags` (`modele/in_vivo`,
+`theme/neurodeveloppement`, `annee/2019`) alimente le panneau des étiquettes, et
+`_cartes/Accueil.md` sert de point d'entrée vers une carte par modèle d'étude, articles
+groupés par thème. Aucun plugin n'est nécessaire pour naviguer.
+
+Pour interroger le corpus avec un modèle local, les greffons *Smart Connections* ou
+*Copilot* se branchent sur [Ollama](https://ollama.com) : ils découpent les notes,
+calculent des plongements et répondent en citant les fiches. Un modèle de 7 à 14 milliards
+de paramètres (Qwen, Llama, Mistral) suffit pour résumer et rapprocher des résumés ; les
+modèles pédagogiques de type *nanochat* (classe GPT-2) sont faits pour comprendre
+l'entraînement, pas pour analyser de la littérature.
+
+**EndNote** : *File → Import → File*, type **Reference Manager (RIS)**, fichier
+`articles/bibliotheque-rf.ris`. Les champs `L1` pointent vers les PDF téléchargés : les
+fichiers s'attachent aux références à l'import.
+
 ## Runs incrémentaux
 
 `data/seen_library.json` retient ce qui est déjà rangé : un rerun ne ramène que les

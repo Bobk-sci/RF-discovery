@@ -38,6 +38,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Mobile App-Delivered Cognitive Behavioral Therapy for Insomnia: Feasibility and Initial Efficacy Among Veterans With Cannabis Use Disorders.

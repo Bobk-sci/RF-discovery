@@ -35,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - leukemia
 - cancer risk
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2009
 ---
 
 # Most cancer in firefighters is due to radio-frequency radiation exposure not inhaled carcinogens.

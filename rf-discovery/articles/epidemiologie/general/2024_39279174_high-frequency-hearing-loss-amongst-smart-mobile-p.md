@@ -48,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # High-Frequency Hearing Loss Amongst Smart Mobile Phone Users: A Case-Control Study.

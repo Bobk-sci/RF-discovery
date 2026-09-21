@@ -59,6 +59,12 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - mitochondrial
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2017
 ---
 
 # A Facile and Microwave-assisted Rapid Synthesis of 2-Arylamino-4-(3'-indolyl)- thiazoles as Apoptosis Inducing Cytotoxic Agents.

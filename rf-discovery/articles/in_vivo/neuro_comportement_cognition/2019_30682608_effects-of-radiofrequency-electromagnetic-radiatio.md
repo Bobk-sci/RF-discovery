@@ -43,6 +43,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2019
 ---
 
 # Effects of radiofrequency electromagnetic radiation (RF-EMF) on honey bee queen development and mating success.

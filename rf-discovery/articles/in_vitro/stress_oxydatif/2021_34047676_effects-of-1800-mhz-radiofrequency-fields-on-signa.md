@@ -49,6 +49,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of 1800 MHz radiofrequency fields on signal transduction and antioxidant proteins in human A172 glioblastoma cells.

@@ -52,6 +52,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Impacts of exposure to 900 MHz mobile phone radiation on liver function in rats.

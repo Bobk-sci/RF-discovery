@@ -47,6 +47,13 @@ theme_indices:
 - ROS
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Swadamshtradi rasayana attenuates radiofrequency radiation-induced oxidative stress and improves sperm parameters in Swiss albino mice.

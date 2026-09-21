@@ -56,6 +56,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Regular Mobile Phone Use and Incident Cardiovascular Diseases: Mediating Effects of Sleep Patterns, Psychological Distress, and Neuroticism.

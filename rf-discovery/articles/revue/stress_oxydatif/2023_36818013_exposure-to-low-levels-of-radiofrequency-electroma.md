@@ -52,6 +52,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Exposure to Low Levels of Radiofrequency Electromagnetic Fields Emitted from Cell-phones as a Promising Treatment of Alzheimer's Disease: A Scoping Review Study.

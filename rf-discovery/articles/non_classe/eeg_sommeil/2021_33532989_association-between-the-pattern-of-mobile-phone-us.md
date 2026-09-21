@@ -58,6 +58,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Association between the pattern of mobile phone use and sleep quality in Northeast China college students.

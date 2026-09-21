@@ -45,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Ultra-Wideband Millimeter-Wave Dielectric Characteristics of Freshly Excised Normal and Malignant Human Skin Tissues.

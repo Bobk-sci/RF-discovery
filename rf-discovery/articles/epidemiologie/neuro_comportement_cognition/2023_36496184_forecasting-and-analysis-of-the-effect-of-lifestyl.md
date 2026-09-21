@@ -55,6 +55,12 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Forecasting and analysis of the effect of lifestyle on cognitive dysfunction induced by occupational aluminum exposure based on Bayesian networks.

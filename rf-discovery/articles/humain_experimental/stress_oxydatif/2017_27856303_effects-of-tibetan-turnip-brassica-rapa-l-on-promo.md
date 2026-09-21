@@ -70,6 +70,11 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/humain_experimental
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Effects of Tibetan turnip (Brassica rapa L.) on promoting hypoxia-tolerance in healthy humans.

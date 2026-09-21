@@ -36,6 +36,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Resilience enhancement strategies for distribution networks considering the coordination of 5G base stations and multiple flexible resources.

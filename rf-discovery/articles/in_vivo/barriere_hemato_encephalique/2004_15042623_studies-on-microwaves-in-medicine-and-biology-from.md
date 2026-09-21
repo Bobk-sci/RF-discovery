@@ -41,6 +41,12 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- theme/thermique
+- annee/2004
 ---
 
 # Studies on microwaves in medicine and biology: from snails to humans.

@@ -40,6 +40,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Thermal wave and Pennes' models of bioheat transfer in human skin: A transient comparative analysis.

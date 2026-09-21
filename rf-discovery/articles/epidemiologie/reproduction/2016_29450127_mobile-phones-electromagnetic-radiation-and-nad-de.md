@@ -36,6 +36,12 @@ theme_secondaires:
 theme_indices:
 - sperm
 - spermatozoa
+tags:
+- rf
+- modele/epidemiologie
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2016
 ---
 
 # Mobile phones electromagnetic radiation and NAD+-dependent isocitrate dehydrogenase as a mitochondrial marker in asthenozoospermia.

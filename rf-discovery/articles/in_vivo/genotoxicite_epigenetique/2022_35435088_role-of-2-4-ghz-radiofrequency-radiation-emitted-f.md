@@ -50,6 +50,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - microRNA
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Role of 2.4 GHz radiofrequency radiation emitted from Wi-Fi on some miRNA and faty acids composition in brain.

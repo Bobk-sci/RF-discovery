@@ -54,6 +54,13 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Symptoms and Cognitive Functions in Adolescents in Relation to Mobile Phone Use during Night.

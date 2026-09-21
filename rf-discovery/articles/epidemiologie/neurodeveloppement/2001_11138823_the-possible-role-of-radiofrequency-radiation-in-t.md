@@ -52,6 +52,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2001
 ---
 
 # The possible role of radiofrequency radiation in the development of uveal melanoma.

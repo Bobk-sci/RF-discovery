@@ -53,6 +53,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2006
 ---
 
 # Paternal occupational exposure to radiofrequency electromagnetic fields and risk of adverse pregnancy outcome.

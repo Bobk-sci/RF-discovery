@@ -44,6 +44,12 @@ theme_indices:
 - cognitive
 - memory
 - reaction time
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2022
 ---
 
 # Impact of Visual Game-Like Features on Cognitive Performance in a Virtual Reality Working Memory Task: Within-Subjects Experiment.

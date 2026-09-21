@@ -51,6 +51,11 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2012
 ---
 
 # Long-term digital mobile phone use and cognitive decline in the elderly.

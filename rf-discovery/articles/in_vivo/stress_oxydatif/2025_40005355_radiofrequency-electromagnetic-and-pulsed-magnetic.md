@@ -69,6 +69,14 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Radiofrequency Electromagnetic and Pulsed Magnetic Fields Protected the Kidney Against Lipopolysaccharide-Induced Acute Systemic Inflammation, Oxidative Stress, and Apoptosis by Regulating the IL-6/HIF1α/eNOS and Bcl2/Bax/Cas-9 Pathways.

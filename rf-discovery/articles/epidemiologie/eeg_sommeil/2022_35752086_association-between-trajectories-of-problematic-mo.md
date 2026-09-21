@@ -44,6 +44,12 @@ theme_secondaires:
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Association between trajectories of problematic mobile phone use and chronotype among Chinese college students.

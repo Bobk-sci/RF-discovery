@@ -51,6 +51,12 @@ theme_secondaires: []
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Jalinan Kasih android mobile phone application improves knowledge, attitude, and practice regarding early marriage among high school students: Evidence from quasi-experimental study.

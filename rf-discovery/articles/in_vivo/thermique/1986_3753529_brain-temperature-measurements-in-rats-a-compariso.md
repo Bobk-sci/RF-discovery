@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/1986
 ---
 
 # Brain temperature measurements in rats: a comparison of microwave and ambient temperature exposures.

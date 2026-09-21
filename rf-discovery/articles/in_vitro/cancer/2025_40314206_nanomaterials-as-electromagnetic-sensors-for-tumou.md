@@ -57,6 +57,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - tumour
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/thermique
+- annee/2025
 ---
 
 # Nanomaterials as electromagnetic sensors for tumour detection.

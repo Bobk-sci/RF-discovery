@@ -34,6 +34,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Compact dual band crossover for 5G low and mid band applications using a metamaterial branch line coupler.

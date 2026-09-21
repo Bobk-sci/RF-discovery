@@ -47,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - cognition
 - memory
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial.

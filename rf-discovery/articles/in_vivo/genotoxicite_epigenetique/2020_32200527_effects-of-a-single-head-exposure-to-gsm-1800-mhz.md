@@ -60,6 +60,14 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effects of a Single Head Exposure to GSM-1800 MHz Signals on the Transcriptome Profile in the Rat Cerebral Cortex: Enhanced Gene Responses Under Proinflammatory Conditions.

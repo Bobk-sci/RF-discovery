@@ -55,6 +55,14 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Evidences of the radiofrequency exposure on the antioxidant status, potentially contributing to the inflammatory response and demyelination in rat brain.

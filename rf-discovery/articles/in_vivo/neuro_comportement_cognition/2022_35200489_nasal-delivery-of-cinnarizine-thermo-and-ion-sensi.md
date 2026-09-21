@@ -46,6 +46,12 @@ theme_indices:
 - memory
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/barriere_hemato_encephalique
+- annee/2022
 ---
 
 # Nasal Delivery of Cinnarizine Thermo- and Ion-Sensitive In Situ Hydrogels for Treatment of Microwave-Induced Brain Injury.

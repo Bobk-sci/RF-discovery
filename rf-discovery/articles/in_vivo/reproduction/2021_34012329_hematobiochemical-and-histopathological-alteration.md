@@ -40,6 +40,13 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Hematobiochemical and histopathological alterations of kidney and testis due to exposure of 4G cell phone radiation in mice.

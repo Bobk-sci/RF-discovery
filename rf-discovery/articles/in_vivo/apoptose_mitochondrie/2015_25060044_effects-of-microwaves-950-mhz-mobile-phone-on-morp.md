@@ -48,6 +48,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Effects of microwaves (950 MHZ mobile phone) on morphometric and apoptotic changes of rabbit epididymis.

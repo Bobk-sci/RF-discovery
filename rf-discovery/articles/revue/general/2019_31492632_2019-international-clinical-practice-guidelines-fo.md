@@ -58,6 +58,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2019
 ---
 
 # 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.

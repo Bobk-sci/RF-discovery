@@ -57,6 +57,15 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Radiofrequency exposure to LTE signal does not alter cancer-related endpoints in human neuroblastoma cell model either alone, or co-exposed to menadione or Wi-Fi signal.

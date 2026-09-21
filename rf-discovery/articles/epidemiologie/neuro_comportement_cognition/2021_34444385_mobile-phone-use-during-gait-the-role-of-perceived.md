@@ -45,6 +45,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Mobile Phone Use during Gait: The Role of Perceived Prioritization and Executive Control.

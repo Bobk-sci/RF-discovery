@@ -39,6 +39,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/eeg_sommeil
+- annee/2016
 ---
 
 # Effect of electromagnetic radiations from mobile phone base stations on general health and salivary function.

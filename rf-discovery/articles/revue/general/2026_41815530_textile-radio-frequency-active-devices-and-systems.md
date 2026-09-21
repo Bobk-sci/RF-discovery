@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2026
 ---
 
 # Textile Radio-Frequency Active Devices and Systems: Wireless Communication and Energy Harvesting.

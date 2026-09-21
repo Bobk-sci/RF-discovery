@@ -45,6 +45,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - Bcl-2
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Evaluation of <i>bax</i>, <i>bcl-2</i>, <i>p21</i> and <i>p53</i> genes expression variations on cerebellum of BALB/c mice before and after birth under mobile phone radiation exposure.

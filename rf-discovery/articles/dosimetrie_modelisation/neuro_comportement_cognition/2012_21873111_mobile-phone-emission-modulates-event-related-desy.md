@@ -54,6 +54,14 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - reaction time
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2012
 ---
 
 # Mobile phone emission modulates event-related desynchronization of α rhythms and cognitive-motor performance in healthy humans.

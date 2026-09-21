@@ -57,6 +57,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Auto-induced uplink 4G and 5G RF-EMF exposure assessment using a network monitoring application in different microenvironments across seven European countries.

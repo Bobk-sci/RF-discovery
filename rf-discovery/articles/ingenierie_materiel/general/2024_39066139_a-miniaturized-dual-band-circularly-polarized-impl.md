@@ -45,6 +45,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2024
 ---
 
 # A Miniaturized Dual-Band Circularly Polarized Implantable Antenna for Use in Hemodialysis.

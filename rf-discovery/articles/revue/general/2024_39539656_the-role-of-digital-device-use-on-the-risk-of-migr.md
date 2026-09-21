@@ -38,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # The role of digital device use on the risk of migraine: a univariable and multivariable Mendelian randomization study.

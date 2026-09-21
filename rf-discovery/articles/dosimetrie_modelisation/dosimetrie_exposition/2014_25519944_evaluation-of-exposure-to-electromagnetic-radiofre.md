@@ -42,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Evaluation of exposure to electromagnetic radiofrequency radiation in the indoor workplace accessible to the public by the use of frequency-selective exposimeters.

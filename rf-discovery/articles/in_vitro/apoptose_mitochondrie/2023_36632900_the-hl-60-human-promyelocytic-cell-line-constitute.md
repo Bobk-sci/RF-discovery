@@ -58,6 +58,15 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # The HL-60 human promyelocytic cell line constitutes an effective in vitro model for evaluating toxicity, oxidative stress and necrosis/apoptosis after exposure to black carbon particles and 2.45 GHz radio frequency.

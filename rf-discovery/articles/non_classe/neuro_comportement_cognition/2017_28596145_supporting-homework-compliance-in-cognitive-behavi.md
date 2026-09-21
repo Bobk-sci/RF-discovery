@@ -35,6 +35,12 @@ theme_indices:
 - learning
 - anxiety
 - depression
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Supporting Homework Compliance in Cognitive Behavioural Therapy: Essential Features of Mobile Apps.

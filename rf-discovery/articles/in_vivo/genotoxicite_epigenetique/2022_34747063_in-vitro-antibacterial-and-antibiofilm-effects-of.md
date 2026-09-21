@@ -45,6 +45,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # In vitro antibacterial and antibiofilm effects of cold atmospheric microwave plasma against Pseudomonas aeruginosa causing canine skin and ear infections.

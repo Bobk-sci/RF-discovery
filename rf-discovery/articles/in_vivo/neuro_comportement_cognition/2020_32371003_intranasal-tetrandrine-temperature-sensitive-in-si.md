@@ -78,6 +78,13 @@ theme_indices:
 - memory
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuro_comportement_cognition
+- theme/barriere_hemato_encephalique
+- annee/2020
 ---
 
 # Intranasal tetrandrine temperature-sensitive in situ hydrogels for the treatment of microwave-induced brain injury.

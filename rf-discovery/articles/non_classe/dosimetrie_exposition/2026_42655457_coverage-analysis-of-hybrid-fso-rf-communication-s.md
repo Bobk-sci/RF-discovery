@@ -38,6 +38,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Coverage Analysis of Hybrid FSO/RF Communication Systems with Selection Combining in High-Speed Railway Scenarios.

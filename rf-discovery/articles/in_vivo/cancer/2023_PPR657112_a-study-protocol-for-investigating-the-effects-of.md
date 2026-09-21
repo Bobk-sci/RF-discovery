@@ -37,6 +37,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - carcinogenic
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A study protocol for investigating the effects of mobile phone-originated electromagnetic waves on thyroid gland and thyroid hormone activities in the brain

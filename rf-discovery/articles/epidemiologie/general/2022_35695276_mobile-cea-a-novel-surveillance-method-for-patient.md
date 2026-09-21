@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Mobile-CEA - A Novel Surveillance Method for Patients with Colorectal Cancer.

@@ -49,6 +49,12 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2021
 ---
 
 # Effects of Radiofrequency Electromagnetic Radiation on Neurotransmitters in the Brain.

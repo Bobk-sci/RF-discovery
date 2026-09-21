@@ -39,6 +39,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Use of mobile phone during pregnancy and the risk of spontaneous abortion.

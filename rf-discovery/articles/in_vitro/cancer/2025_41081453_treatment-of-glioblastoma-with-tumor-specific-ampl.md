@@ -74,6 +74,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Treatment of glioblastoma with tumor-specific amplitude-modulated radiofrequency electromagnetic fields.

@@ -56,6 +56,13 @@ theme_secondaires:
 theme_indices:
 - antioxidant
 - redox
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Effects of 3.5 GHz radiofrequency radiation on ghrelin, nesfatin-1, and irisin level in diabetic and healthy brains.

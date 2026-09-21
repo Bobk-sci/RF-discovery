@@ -60,6 +60,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - DNA methylation
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Pilot Study of the Long-Term Effects of Radiofrequency Electromagnetic Radiation Exposure on the Mouse Brain.

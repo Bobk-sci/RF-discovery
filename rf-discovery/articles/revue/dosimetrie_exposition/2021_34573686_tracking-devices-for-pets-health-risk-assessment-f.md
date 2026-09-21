@@ -44,6 +44,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Tracking Devices for Pets: Health Risk Assessment for Exposure to Radiofrequency Electromagnetic Fields.

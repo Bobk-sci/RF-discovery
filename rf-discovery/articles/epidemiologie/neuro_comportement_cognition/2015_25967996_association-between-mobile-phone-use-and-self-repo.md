@@ -62,6 +62,12 @@ theme_secondaires:
 theme_indices:
 - cognition
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2015
 ---
 
 # Association between mobile phone use and self-reported well-being in children: a questionnaire-based cross-sectional study in Chongqing, China.

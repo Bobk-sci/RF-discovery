@@ -33,6 +33,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - children
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Increasing Numbers of Persons with Sleeping Problems in Sweden.

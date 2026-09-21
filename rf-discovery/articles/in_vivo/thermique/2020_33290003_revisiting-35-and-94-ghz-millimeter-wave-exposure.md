@@ -57,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Revisiting 35 and 94 GHZ Millimeter Wave Exposure to the Non-Human Primate Eye.

@@ -40,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A Multi-Frequency 3D Printed Hand Phantom for Electromagnetic Measurements.

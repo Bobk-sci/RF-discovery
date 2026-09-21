@@ -54,6 +54,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Numerical dosimetry of specific absorption rate of insects exposed to far-field radiofrequency electromagnetic fields.

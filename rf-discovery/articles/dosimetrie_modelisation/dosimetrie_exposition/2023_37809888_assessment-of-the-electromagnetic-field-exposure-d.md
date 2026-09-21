@@ -38,6 +38,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Assessment of the electromagnetic field exposure due to wireless communication technologies in two university campuses of medellin, Colombia.

@@ -39,6 +39,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2024
 ---
 
 # Microwave radiofrequencies, 5G, 6G, graphene nanomaterials: Technologies used in neurological warfare.

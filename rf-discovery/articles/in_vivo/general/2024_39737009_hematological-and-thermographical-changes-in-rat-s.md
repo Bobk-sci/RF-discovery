@@ -39,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2024
 ---
 
 # Hematological and thermographical changes in rat's model exposed to long-term RF modulated signals.

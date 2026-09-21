@@ -50,6 +50,12 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - heat shock protein
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # 3.5-GHz radiofrequency electromagnetic radiation promotes the development of Drosophila melanogaster.

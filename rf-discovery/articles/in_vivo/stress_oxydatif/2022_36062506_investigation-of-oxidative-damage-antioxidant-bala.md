@@ -64,6 +64,15 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2022
 ---
 
 # Investigation of oxidative damage, antioxidant balance, DNA repair genes, and apoptosis due to radiofrequency-induced adaptive response in mice.

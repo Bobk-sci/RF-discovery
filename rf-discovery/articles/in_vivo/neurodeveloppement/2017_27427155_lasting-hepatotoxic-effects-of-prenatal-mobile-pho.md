@@ -62,6 +62,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Lasting hepatotoxic effects of prenatal mobile phone exposure.

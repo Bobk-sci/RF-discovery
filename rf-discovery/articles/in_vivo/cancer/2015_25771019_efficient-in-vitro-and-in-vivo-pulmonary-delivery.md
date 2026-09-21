@@ -67,6 +67,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2015
 ---
 
 # Efficient in vitro and in vivo pulmonary delivery of nucleic acid by carbon dot-based nanocarriers.

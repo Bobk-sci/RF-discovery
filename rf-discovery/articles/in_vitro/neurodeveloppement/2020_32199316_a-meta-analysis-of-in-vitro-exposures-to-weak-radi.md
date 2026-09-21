@@ -70,6 +70,17 @@ theme_indices:
 - in utero
 - child
 - adolescent
+tags:
+- rf
+- modele/in_vitro
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # A meta-analysis of in vitro exposures to weak radiofrequency radiation exposure from mobile phones (1990-2015).

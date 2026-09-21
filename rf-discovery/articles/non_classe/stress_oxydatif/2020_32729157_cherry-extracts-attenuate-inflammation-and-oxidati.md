@@ -42,6 +42,11 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Cherry extracts attenuate inflammation and oxidative stress triggered by monosodium urate crystals in THP-1 cells.

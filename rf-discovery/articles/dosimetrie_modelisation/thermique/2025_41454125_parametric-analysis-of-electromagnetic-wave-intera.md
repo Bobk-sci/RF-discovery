@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Parametric analysis of electromagnetic wave interactions with layered biological tissues for varying frequency, polarization, and fat thickness.

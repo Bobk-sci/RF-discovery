@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Numerical analysis of low-frequency electromagnetic field effects from three-phase transformer on coronary stents and cardiac tissues.

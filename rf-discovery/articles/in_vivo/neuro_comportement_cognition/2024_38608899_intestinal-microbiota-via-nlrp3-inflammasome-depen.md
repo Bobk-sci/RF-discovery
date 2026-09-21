@@ -59,6 +59,11 @@ theme_indices:
 - anxiety
 - behavior
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Intestinal microbiota via NLRP3 inflammasome dependent neuronal pyroptosis mediates anxiety-like behaviour in mice exposed to 3.5 GHz radiofrequency radiation.

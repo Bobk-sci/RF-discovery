@@ -33,6 +33,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - children
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- annee/2014
 ---
 
 # Mobile Phone Dermatitis in Children and Adults: A Review of the Literature.

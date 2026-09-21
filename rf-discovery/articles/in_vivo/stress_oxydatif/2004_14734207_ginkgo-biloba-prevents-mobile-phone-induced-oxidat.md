@@ -55,6 +55,11 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2004
 ---
 
 # Ginkgo biloba prevents mobile phone-induced oxidative stress in rat brain.

@@ -45,6 +45,12 @@ theme_indices:
 - depression
 - behaviour
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Comparing online cognitive load on mobile versus PC-based devices.

@@ -51,6 +51,13 @@ theme_secondaires:
 theme_indices:
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Scalable Passive Sleep Monitoring Using Mobile Phones: Opportunities and Obstacles.

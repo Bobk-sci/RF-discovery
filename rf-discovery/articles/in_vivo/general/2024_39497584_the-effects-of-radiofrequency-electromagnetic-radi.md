@@ -51,6 +51,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2024
 ---
 
 # The effects of radiofrequency electromagnetic radiation emitted by mobile phones on rat parotid gland histology - an experimental study.

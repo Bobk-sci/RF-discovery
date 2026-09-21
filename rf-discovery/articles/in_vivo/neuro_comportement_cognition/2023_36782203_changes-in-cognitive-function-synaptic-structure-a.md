@@ -55,6 +55,12 @@ theme_indices:
 - memory
 - learning
 - attention
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Changes in cognitive function, synaptic structure and protein expression after long-term exposure to 2.856 and 9.375 GHz microwaves.

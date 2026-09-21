@@ -50,6 +50,16 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/barriere_hemato_encephalique
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Radiofrequency radiation and Alzheimer's disease: harmful and therapeutic implications.

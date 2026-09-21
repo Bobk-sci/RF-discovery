@@ -65,6 +65,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Metformin Ameliorates 2.856 GHz Microwave- Radiation-Induced Reproductive Impairments in Male Rats via Inhibition of Oxidative Stress and Apoptosis.

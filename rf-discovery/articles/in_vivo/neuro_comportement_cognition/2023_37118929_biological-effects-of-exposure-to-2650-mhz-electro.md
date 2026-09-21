@@ -66,6 +66,14 @@ theme_indices:
 - behavior
 - spatial memory
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Biological effects of exposure to 2650 MHz electromagnetic radiation on the behavior, learning, and memory of mice.

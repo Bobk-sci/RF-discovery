@@ -39,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2016
 ---
 
 # The use of cell phone and insight into its potential human health impacts.

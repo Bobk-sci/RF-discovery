@@ -50,6 +50,12 @@ theme_indices:
 - malondialdehyde
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Microwaves as a novel seed priming method to augment salinity tolerance via regulating the physiological homeostasis and oxidative defense modes in Gypsophila paniculata plants.

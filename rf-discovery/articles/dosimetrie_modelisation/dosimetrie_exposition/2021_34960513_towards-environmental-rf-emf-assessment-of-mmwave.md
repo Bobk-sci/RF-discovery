@@ -49,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Towards Environmental RF-EMF Assessment of mmWave High-Node Density Complex Heterogeneous Environments.

@@ -58,6 +58,13 @@ theme_secondaires:
 theme_indices:
 - cognition
 - memory
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2023
 ---
 
 # 900 MHZ electromagnetic field exposure relieved AD-like symptoms on APP/PS1 mice: A potential non-invasive strategy for AD treatment.

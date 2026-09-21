@@ -42,6 +42,13 @@ theme_indices:
 - testis
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # The radioprotective effects of Moringa oleifera against mobile phone electromagnetic radiation-induced infertility in rats.

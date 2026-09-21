@@ -48,6 +48,12 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Longitudinal associations between cyber victimization and problematic mobile phone use in adolescents: Disentangling between-person effects from within-person effects.

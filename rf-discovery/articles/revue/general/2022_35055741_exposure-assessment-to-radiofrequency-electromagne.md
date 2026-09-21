@@ -46,6 +46,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Exposure Assessment to Radiofrequency Electromagnetic Fields in Occupational Military Scenarios: A Review.

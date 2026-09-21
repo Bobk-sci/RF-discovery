@@ -36,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2013
 ---
 
 # Subjective symptoms related to GSM radiation from mobile phone base stations: a cross-sectional study.

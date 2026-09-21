@@ -40,6 +40,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # RF safety assessment of dental retainers for human head MRI array coils at 9.4 T.

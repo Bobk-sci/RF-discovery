@@ -62,6 +62,13 @@ theme_indices:
 - spermatozoa
 - testis
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Effects of 4G mobile phone radiation exposure on reproductive, hepatic, renal, and hematological parameters of male Wistar rat.

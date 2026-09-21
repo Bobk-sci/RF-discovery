@@ -63,6 +63,15 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Exposure to Radiofrequency Induces Synaptic Dysfunction in Cortical Neurons Causing Learning and Memory Alteration in Early Postnatal Mice.

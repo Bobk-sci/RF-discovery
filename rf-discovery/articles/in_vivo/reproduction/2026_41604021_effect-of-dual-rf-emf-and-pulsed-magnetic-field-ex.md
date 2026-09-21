@@ -68,6 +68,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2026
 ---
 
 # Effect of dual RF-EMF and pulsed magnetic field exposure on eNOS expression and histological integrity in male rat reproductive tissues.

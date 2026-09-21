@@ -29,6 +29,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/thermique
+- annee/1995
 ---
 
 # Epidemiologic Evidence of Radiofrequency Radiation (Microwave) Effects on Health in Military, Broadcasting, and Occupational Studies.

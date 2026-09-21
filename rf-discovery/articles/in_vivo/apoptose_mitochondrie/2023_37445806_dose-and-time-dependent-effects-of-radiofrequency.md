@@ -55,6 +55,15 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Dose- and Time-Dependent Effects of Radiofrequency Electromagnetic Field on Adipose Tissue: Implications of Thermoregulation and Mitochondrial Signaling.

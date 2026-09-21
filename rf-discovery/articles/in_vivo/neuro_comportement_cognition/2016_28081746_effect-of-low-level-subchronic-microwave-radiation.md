@@ -56,6 +56,15 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Effect of Low Level Subchronic Microwave Radiation on Rat Brain.

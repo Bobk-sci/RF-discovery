@@ -46,6 +46,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Assessment of long-term spatio-temporal radiofrequency electromagnetic field exposure.

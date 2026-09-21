@@ -58,6 +58,14 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2010
 ---
 
 # Mobile phone base stations and early childhood cancers: case-control study.

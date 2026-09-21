@@ -62,6 +62,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Human Fibroblasts In Vitro Exposed to 2.45 GHz Continuous and Pulsed Wave Signals: Evaluation of Biological Effects with a Multimethodological Approach.

@@ -66,6 +66,11 @@ theme_secondaires: []
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Urine-derived podocytes-lineage cells: A promising tool for precision medicine in Alport Syndrome.

@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Determining the relationship between mobile phone network signal strength and radiofrequency electromagnetic field exposure: protocol and pilot study to derive conversion functions

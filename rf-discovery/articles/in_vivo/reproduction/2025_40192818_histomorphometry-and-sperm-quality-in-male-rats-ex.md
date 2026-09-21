@@ -61,6 +61,13 @@ theme_indices:
 - testis
 - fertility
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Histomorphometry and sperm quality in male rats exposed to 2.45 GHz Wi-Fi.

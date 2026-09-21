@@ -42,6 +42,14 @@ theme_indices:
 - caspase
 - mitochondrial
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2017
 ---
 
 # Normothermic Microwave Irradiation Induces Death of HL-60 Cells through Heat-Independent Apoptosis.

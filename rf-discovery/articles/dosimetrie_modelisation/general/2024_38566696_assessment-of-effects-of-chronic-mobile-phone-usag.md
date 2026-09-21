@@ -33,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Assessment of Effects of Chronic Mobile Phone Usage on Auditory Functions: A Study at a Tertiary Care Teaching Hospital in Northern India.

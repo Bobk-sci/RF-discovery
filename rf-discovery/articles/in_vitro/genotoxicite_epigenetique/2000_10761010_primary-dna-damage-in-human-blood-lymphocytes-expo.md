@@ -47,6 +47,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2000
 ---
 
 # Primary DNA damage in human blood lymphocytes exposed in vitro to 2450 MHz radiofrequency radiation.

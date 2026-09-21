@@ -60,6 +60,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Detrimental effects of radiofrequency electromagnetic waves emitted by mobile phones on morphokinetics, oxidative stress, and apoptosis in mouse preimplantation embryos.

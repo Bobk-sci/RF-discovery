@@ -43,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Dual Evaluation and Spatial Analysis of RF-EMF Exposure in 5G: Theoretical Extrapolations and Direct Measurements.

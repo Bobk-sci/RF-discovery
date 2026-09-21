@@ -57,6 +57,11 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/epidemiologie
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Investigating the Effects of Occupational Noise and Extremely Low-Frequency Electromagnetic Field Exposure on Oxidative Response in Power Plant Workers.

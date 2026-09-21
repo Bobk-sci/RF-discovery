@@ -50,6 +50,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Invisible plastic release from overlooked usage practices in microwaved food packaging.

@@ -54,6 +54,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2020
 ---
 
 # Transdermal insulin delivery with microwave and fatty acids as permeation enhancers.

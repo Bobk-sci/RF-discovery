@@ -36,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2012
 ---
 
 # Effects of radiofrequency radiation on human ferritin: an in vitro enzymun assay.

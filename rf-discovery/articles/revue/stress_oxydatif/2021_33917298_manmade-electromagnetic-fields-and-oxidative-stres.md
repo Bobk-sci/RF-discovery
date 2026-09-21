@@ -56,6 +56,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2021
 ---
 
 # Manmade Electromagnetic Fields and Oxidative Stress-Biological Effects and Consequences for Health.

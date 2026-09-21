@@ -50,6 +50,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2003
 ---
 
 # Tribulus terrestris: preliminary study of its diuretic and contractile effects and comparison with Zea mays.

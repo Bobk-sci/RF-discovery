@@ -50,6 +50,16 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Recent advances in the effects of microwave radiation on brains.

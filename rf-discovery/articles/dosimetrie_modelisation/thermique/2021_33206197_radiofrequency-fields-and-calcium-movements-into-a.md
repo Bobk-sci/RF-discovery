@@ -35,6 +35,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Radiofrequency Fields and Calcium Movements Into and Out of Cells.

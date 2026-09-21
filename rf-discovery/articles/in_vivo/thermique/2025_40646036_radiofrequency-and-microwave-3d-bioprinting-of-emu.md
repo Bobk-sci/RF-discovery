@@ -47,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2025
 ---
 
 # Radiofrequency and microwave 3D bioprinting of emulsion gel for dysphagia diets.

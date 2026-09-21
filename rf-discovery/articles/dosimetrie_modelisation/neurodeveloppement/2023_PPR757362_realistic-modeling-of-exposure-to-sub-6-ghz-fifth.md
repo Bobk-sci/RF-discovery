@@ -34,6 +34,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Realistic Modeling of Exposure to Sub-6 GHz Fifth-Generation Mobile Phone Radiation in Anatomical Child Head Model

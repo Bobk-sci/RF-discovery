@@ -38,6 +38,13 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2020
 ---
 
 # Does the Use of Mobile Phone Affect Male Fertility? A Mini-Review.

@@ -41,6 +41,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2026
 ---
 
 # Applying spoof-plasmonic metasurfaces to microwave sample preparation of biological samples.

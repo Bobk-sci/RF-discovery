@@ -44,6 +44,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A Single-Field Finite Difference Time-Domain Method Verified Using a Novel Antenna Design with an Artificial Magnetic Conductor Enhanced Structure.

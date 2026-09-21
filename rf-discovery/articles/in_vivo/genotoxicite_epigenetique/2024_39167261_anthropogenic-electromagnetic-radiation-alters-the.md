@@ -52,6 +52,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Anthropogenic electromagnetic radiation alters the transcription levels of the genes encoding the SIFamide and myoinhibitory peptide and their receptors in Ixodes ricinus synganglion.

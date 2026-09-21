@@ -71,6 +71,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # Radiofrequency electromagnetic fields from mobile communication: Description of modeled dose in brain regions and the body in European children and adolescents.

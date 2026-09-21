@@ -45,6 +45,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2018
 ---
 
 # Big Data for Sound Policies: Toward Evidence-Informed Hearing Health Policies.

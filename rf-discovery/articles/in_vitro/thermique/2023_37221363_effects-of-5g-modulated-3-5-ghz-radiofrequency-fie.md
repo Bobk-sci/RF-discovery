@@ -53,6 +53,15 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Effects of 5G-modulated 3.5 GHz radiofrequency field exposures on HSF1, RAS, ERK, and PML activation in live fibroblasts and keratinocytes cells.

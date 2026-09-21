@@ -44,6 +44,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - gene expression
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Radiofrequency radiation-induced gene expression.

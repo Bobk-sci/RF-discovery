@@ -56,6 +56,11 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Lipidomics of Serum and Hippocampus Reveal the Protective Effects of Fermented Soybean Lipid on Rats of Microwave-Induced Cognitive Damage.

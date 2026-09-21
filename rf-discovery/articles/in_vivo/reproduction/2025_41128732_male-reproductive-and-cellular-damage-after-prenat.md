@@ -62,6 +62,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Male Reproductive and Cellular Damage After Prenatal 3.5 GHz Radiation Exposure: One-Year Postnatal Effects.

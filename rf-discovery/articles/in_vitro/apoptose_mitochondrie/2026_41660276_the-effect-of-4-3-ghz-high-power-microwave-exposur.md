@@ -51,6 +51,13 @@ theme_indices:
 - mitochondrial
 - membrane potential
 - autophagy
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # The effect of 4.3 GHz high-power microwave exposure on human corneal epithelial cells.

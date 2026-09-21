@@ -44,6 +44,12 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2025
 ---
 
 # Alpha-Lipoic Acid Preserves Testicular Integrity Under 2.45 GHz Electromagnetic Radiation by Restoring Redox and Inflammatory Balance.

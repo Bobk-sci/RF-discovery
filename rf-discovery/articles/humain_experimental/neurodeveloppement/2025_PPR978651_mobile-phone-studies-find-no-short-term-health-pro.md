@@ -31,6 +31,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - children
+tags:
+- rf
+- modele/humain_experimental
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Mobile Phone Studies Find No Short-Term Health Problems

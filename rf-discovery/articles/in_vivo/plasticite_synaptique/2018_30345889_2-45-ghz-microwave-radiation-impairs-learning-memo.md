@@ -59,6 +59,14 @@ theme_indices:
 - long term potentiation
 - glutamate
 - excitability
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # 2.45 GHz microwave radiation impairs learning, memory, and hippocampal synaptic plasticity in the rat.

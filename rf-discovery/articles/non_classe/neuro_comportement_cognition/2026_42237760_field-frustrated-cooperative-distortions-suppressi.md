@@ -34,6 +34,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Field-Frustrated Cooperative Distortions: Suppressing Jahn-Teller Ordering via Microwave Annealing.

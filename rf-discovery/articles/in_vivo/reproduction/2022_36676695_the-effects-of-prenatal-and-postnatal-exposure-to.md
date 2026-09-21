@@ -62,6 +62,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # The Effects of Prenatal and Postnatal Exposure to 50-Hz and 3 mT Electromagnetic Field on Rat Testicular Development.

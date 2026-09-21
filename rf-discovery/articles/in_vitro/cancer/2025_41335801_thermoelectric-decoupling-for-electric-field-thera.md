@@ -41,6 +41,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/thermique
+- annee/2025
 ---
 
 # Thermoelectric Decoupling for Electric Field Therapy in Glioblastoma.

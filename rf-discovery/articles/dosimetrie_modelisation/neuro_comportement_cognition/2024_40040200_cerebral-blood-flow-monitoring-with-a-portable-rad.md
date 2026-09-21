@@ -39,6 +39,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Cerebral Blood Flow Monitoring with a Portable Radio Frequency Sensing System.

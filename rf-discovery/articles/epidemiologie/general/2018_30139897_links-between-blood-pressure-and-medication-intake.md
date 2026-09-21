@@ -60,6 +60,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2018
 ---
 
 # Links between blood pressure and medication intake, well-being, stress, physical activity and symptoms reported via a mobile phone-based self-management support system: a cohort study in primary care.

@@ -35,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2023
 ---
 
 # HPLC-UV evaluation of a microwave assisted method as an active drug loading technique for exosome-based drug delivery system.

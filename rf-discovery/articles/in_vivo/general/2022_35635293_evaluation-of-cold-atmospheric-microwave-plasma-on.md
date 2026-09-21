@@ -40,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2022
 ---
 
 # Evaluation of cold atmospheric microwave plasma on skin physiological parameters and tolerability in dogs.

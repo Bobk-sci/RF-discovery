@@ -55,6 +55,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Radiofrequency field inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells via modulating the NF-κB signaling pathway.

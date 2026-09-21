@@ -54,6 +54,13 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Children's exposure assessment of radiofrequency fields: Comparison between spot and personal measurements.

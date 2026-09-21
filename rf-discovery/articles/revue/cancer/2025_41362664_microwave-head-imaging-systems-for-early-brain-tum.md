@@ -48,6 +48,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Microwave head imaging systems for early brain tumor detection: antenna designs and emerging substrates.

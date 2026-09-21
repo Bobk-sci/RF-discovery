@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Experimental analysis of metamaterial integrated applicator for hyperthermia cancer treatment.

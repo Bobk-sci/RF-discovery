@@ -48,6 +48,14 @@ theme_indices:
 - superoxide dismutase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Testicular damage from electromagnetic radiation in rats and evaluation of protective agents.

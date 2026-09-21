@@ -39,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # The effects of mobile phone dependence on athletic performance and its mechanisms.

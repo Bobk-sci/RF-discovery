@@ -41,6 +41,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # Effect of Radiofrequency on DNA Damage and Oxidative Status in Patients with Turbinate Hypertrophy.

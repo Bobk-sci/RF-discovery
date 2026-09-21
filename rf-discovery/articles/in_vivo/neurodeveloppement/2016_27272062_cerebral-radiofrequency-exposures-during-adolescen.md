@@ -63,6 +63,13 @@ theme_indices:
 - prenatal
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/neuroinflammation
+- annee/2016
 ---
 
 # Cerebral radiofrequency exposures during adolescence: Impact on astrocytes and brain functions in healthy and pathologic rat models.

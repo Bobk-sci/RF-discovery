@@ -51,6 +51,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2021
 ---
 
 # An Exploration of the Effects of Radiofrequency Radiation Emitted by Mobile Phones and Extremely Low Frequency Radiation on Thyroid Hormones and Thyroid Gland Histopathology.

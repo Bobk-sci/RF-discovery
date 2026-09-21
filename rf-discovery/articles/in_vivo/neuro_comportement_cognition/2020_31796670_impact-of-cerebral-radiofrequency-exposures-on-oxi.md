@@ -57,6 +57,12 @@ theme_indices:
 - memory
 - learning
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Impact of Cerebral Radiofrequency Exposures on Oxidative Stress and Corticosterone in a Rat Model of Alzheimer's Disease.

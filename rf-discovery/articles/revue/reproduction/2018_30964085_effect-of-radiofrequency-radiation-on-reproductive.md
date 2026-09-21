@@ -51,6 +51,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Effect of radiofrequency radiation on reproductive health.

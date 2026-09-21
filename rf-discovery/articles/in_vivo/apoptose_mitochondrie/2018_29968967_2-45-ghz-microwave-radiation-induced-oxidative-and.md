@@ -57,6 +57,15 @@ theme_indices:
 - apoptosis
 - caspase
 - Bcl-2
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2018
 ---
 
 # 2.45 GHz microwave radiation induced oxidative and nitrosative stress mediated testicular apoptosis: Involvement of a p53 dependent bax-caspase-3 mediated pathway.

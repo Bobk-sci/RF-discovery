@@ -58,6 +58,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2009
 ---
 
 # Abnormality of synaptic vesicular associated proteins in cerebral cortex and hippocampus after microwave exposure.

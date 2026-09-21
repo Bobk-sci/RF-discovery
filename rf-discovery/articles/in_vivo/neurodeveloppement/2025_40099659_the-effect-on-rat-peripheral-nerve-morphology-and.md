@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # The effect on rat peripheral nerve morphology and function of a 900-MHz electromagnetic field applied in the prenatal period.

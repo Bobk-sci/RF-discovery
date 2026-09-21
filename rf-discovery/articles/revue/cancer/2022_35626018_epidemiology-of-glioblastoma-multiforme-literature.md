@@ -43,6 +43,12 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2022
 ---
 
 # Epidemiology of Glioblastoma Multiforme-Literature Review.

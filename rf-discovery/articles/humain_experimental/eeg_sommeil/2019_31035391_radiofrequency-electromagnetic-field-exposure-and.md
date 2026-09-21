@@ -65,6 +65,15 @@ theme_indices:
 - EEG
 - electroencephalogram
 - alpha band
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2019
 ---
 
 # Radiofrequency Electromagnetic Field Exposure and the Resting EEG: Exploring the Thermal Mechanism Hypothesis.

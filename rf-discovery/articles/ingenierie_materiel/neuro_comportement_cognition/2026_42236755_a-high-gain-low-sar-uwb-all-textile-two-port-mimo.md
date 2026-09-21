@@ -43,6 +43,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A high-gain, low-SAR UWB all-textile two-port MIMO antenna based on an AMC structure for wireless body area networks.

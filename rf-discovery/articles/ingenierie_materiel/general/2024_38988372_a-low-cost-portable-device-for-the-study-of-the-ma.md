@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2024
 ---
 
 # A low-cost, portable device for the study of the malaria parasite's growth inhibition via microwave exposure.

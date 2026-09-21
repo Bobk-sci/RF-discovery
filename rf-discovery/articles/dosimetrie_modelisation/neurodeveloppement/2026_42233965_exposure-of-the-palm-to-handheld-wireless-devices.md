@@ -43,6 +43,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Exposure of the palm to handheld wireless devices operating at frequencies from 900 MHz to 6 GHz.

@@ -50,6 +50,13 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- annee/2010
 ---
 
 # Effects of exposure to GSM mobile phone base station signals on salivary cortisol, alpha-amylase, and immunoglobulin A.

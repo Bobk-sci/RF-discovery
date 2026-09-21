@@ -38,6 +38,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - DNA methylation
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2023
 ---
 
 # Evaluation of DNA Methylation Profiles of LINE-1, Alu and Ribosomal DNA Repeats in Human Cell Lines Exposed to Radiofrequency Radiation

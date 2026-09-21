@@ -45,6 +45,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2023
 ---
 
 # Limiting exposure to radiofrequency radiation: the principles and possible criteria for health protection.

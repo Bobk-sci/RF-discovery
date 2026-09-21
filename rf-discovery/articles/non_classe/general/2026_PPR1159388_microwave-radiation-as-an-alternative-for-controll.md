@@ -29,6 +29,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Microwave radiation as an alternative for controlling Colletotrichum in bean seeds

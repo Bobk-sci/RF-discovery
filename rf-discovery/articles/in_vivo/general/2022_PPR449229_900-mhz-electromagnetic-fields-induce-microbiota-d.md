@@ -40,6 +40,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # 900 MHz Electromagnetic Fields Induce Microbiota Dysbiosis and Adaptive Immune System Disorders in Juvenile Rats

@@ -57,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - tumor
 - leukemia
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # A new approach for elimination of apoptotic resistance caused by MDM2/MDMX amplification in chronic lymphocytic leukemia: combination of ALRN-6924 and radiofrequency exposure.

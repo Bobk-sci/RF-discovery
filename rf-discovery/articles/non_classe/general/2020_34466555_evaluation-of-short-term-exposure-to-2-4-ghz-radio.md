@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2020
 ---
 
 # Evaluation of Short-Term Exposure to 2.4 GHz Radiofrequency Radiation Emitted from Wi-Fi Routers on the Antimicrobial Susceptibility of <i>Pseudomonas aeruginosa</i> and <i>Staphylococcus aureus</i>.

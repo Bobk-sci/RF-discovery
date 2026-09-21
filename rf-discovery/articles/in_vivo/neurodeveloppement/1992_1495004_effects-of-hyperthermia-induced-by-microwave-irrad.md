@@ -49,6 +49,12 @@ theme_indices:
 - brain development
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/thermique
+- annee/1992
 ---
 
 # Effects of hyperthermia induced by microwave irradiation on brain development in mice.

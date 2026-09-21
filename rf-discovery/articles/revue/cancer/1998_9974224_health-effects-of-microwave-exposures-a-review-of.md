@@ -38,6 +38,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - leukemia
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- theme/reproduction
+- annee/1998
 ---
 
 # Health effects of microwave exposures: a review of the recent (1995-1998) literature.

@@ -54,6 +54,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # Effects of different mobile phone UMTS signals on DNA, apoptosis and oxidative stress in human lymphocytes.

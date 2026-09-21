@@ -40,6 +40,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Radiofrequency-electromagnetic field exposures in kindergarten children.

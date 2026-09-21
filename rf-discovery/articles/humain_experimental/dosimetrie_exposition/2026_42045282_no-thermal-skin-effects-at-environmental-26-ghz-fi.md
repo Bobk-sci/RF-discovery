@@ -43,6 +43,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # No thermal skin effects at environmental 26 GHz field strengths relevant to 5G deployment.

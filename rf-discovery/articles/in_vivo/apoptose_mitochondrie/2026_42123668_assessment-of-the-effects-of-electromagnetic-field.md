@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Assessment of the Effects of Electromagnetic Fields on Apoptosis and Stress Protein Biomarkers in the Spider &lt;i&gt;Parasteatoda tepidariorum&lt;/i&gt;.

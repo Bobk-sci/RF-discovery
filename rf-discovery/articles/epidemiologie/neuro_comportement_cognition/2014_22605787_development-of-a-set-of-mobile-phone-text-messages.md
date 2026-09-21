@@ -59,6 +59,11 @@ theme_secondaires: []
 theme_indices:
 - behavior
 - behaviour
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2014
 ---
 
 # Development of a set of mobile phone text messages designed for prevention of recurrent cardiovascular events.

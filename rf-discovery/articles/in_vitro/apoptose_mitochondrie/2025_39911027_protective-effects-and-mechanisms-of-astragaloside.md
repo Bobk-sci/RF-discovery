@@ -58,6 +58,13 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Protective Effects and Mechanisms of Astragaloside on Microwave Radiation-induced Cardiac Injury.

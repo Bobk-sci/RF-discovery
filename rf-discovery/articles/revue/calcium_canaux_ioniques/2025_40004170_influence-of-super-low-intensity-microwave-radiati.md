@@ -49,6 +49,15 @@ theme_secondaires:
 theme_indices:
 - ion channel
 - calcium signaling
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/calcium_canaux_ioniques
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2025
 ---
 
 # Influence of Super-Low-Intensity Microwave Radiation on Mesenchymal Stem Cells.

@@ -57,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - memory
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2023
 ---
 
 # Effects of Nonthermal Radiofrequency Stimulation on Neuronal Activity and Neural Circuit in Mice.

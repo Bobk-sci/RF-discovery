@@ -42,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A novel and effective technique to reduce electromagnetic radiation absorption on biotic components at 2.45 GHz.

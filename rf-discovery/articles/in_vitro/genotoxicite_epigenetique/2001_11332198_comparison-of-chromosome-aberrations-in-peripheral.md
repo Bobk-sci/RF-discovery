@@ -48,6 +48,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - chromosomal aberration
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2001
 ---
 
 # Comparison of chromosome aberrations in peripheral blood lymphocytes from people occupationally exposed to ionizing and radiofrequency radiation.

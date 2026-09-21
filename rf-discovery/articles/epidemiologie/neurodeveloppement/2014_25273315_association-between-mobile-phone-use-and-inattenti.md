@@ -53,6 +53,12 @@ theme_indices:
 - ADHD
 - attention deficit
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2014
 ---
 
 # Association between mobile phone use and inattention in 7102 Chinese adolescents: a population-based cross-sectional study.

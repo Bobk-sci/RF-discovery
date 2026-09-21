@@ -46,6 +46,11 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # Comparison of the Effects of Rosmarinic Acid and Electromagnetic Radiation-Induced Cardiotoxicity on Rats.

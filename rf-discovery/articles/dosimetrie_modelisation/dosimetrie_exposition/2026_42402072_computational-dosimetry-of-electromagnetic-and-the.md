@@ -39,6 +39,12 @@ theme_indices:
 - specific absorption rate
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2026
 ---
 
 # Computational dosimetry of electromagnetic and thermal exposure for pacemaker wearers in vehicle-to-vehicle environments.

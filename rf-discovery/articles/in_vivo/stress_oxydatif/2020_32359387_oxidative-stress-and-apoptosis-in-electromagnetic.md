@@ -64,6 +64,14 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- annee/2020
 ---
 
 # Oxidative stress and apoptosis in electromagnetic waves exposed Zebrafish embryos and protective effects of conductive nonwoven fabric.

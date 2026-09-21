@@ -60,6 +60,14 @@ theme_indices:
 - caspase
 - mitochondrial
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2024
 ---
 
 # Harnessing the synergy of nanosecond high-power microwave pulses and cisplatin to increase the induction of apoptosis in cancer cells through the activation of ATR/ATM and intrinsic pathways.

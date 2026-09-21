@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # A Compact Wearable Textile Antenna for NB-IoT and ISM Band Patient Tracking Applications.

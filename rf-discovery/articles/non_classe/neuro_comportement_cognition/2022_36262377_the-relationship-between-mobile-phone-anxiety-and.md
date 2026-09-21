@@ -39,6 +39,13 @@ theme_indices:
 - anxiety
 - behaviour
 - attention
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # The Relationship between Mobile Phone Anxiety and Sleep Quality Occupational Therapy in Adolescents and Its Internal Mechanism.

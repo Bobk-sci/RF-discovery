@@ -45,6 +45,11 @@ theme_indices:
 - specific absorption rate
 - power density
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Compliance Assessment of the Epithelial or Absorbed Power Density Below 10 GHz Using SAR Measurement Systems.

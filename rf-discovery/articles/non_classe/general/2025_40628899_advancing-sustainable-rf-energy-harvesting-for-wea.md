@@ -31,6 +31,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Advancing sustainable RF energy harvesting for wearable electronics with 2.45 GHz textile-printed rectennas.

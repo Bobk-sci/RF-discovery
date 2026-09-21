@@ -40,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2017
 ---
 
 # Comments on "Radiofrequency electromagnetic fields and some cancers of unknown etiology: An ecological study".

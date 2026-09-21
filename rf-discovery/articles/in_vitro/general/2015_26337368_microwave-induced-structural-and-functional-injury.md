@@ -57,6 +57,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2015
 ---
 
 # Microwave-Induced Structural and Functional Injury of Hippocampal and PC12 Cells Is Accompanied by Abnormal Changes in the NMDAR-PSD95-CaMKII Pathway.

@@ -56,6 +56,12 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2024
 ---
 
 # Rosmarinic Acid Protects the Testes of Rats against Cell Phone and Ultra-high Frequency Waves Induced Toxicity.

@@ -49,6 +49,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Prevalence of the risk of depression and worry in pregnant women in the context of the COVID-19 pandemic in Antioquia, Colombia, 2020-2021.

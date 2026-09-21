@@ -53,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # The effects of long-term prenatal exposure to 900, 1800, and 2100 MHz electromagnetic field radiation on myocardial tissue of rats.

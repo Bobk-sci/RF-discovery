@@ -60,6 +60,15 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2022
 ---
 
 # Wi-Fi technology and human health impact: a brief review of current knowledge.

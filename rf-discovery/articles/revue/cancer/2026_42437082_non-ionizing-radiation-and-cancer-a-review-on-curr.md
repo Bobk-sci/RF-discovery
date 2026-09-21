@@ -47,6 +47,15 @@ theme_indices:
 - carcinogenesis
 - tumor
 - leukemia
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2026
 ---
 
 # Non-ionizing radiation and cancer: A review on current evidence, mechanistic insights, and public health implications.

@@ -63,6 +63,12 @@ theme_secondaires:
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- theme/neurodeveloppement
+- annee/2019
 ---
 
 # Cell phone use and risk of thyroid cancer: a population-based case-control study in Connecticut.

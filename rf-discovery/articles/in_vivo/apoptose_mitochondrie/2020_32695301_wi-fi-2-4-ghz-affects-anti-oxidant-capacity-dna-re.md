@@ -45,6 +45,14 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - Bcl-2
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2020
 ---
 
 # Wi-Fi (2.4 GHz) affects anti-oxidant capacity, DNA repair genes expression and, apoptosis in pregnant mouse placenta.

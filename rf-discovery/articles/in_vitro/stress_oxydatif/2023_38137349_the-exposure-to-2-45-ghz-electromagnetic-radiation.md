@@ -46,6 +46,13 @@ theme_indices:
 - superoxide dismutase
 - antioxidant
 - redox
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # The Exposure to 2.45 GHz Electromagnetic Radiation Induced Different Cell Responses in Neuron-like Cells and Peripheral Blood Mononuclear Cells.

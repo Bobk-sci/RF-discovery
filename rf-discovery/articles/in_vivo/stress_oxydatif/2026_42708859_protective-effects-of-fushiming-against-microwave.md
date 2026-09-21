@@ -48,6 +48,12 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Protective Effects of Fushiming Against Microwave Radiation-Induced Retinal Damage: A Network Pharmacology and Experimental Study.

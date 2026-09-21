@@ -38,6 +38,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Construction a CO2 Incubator for Cell Culture with Capability of Transmitting Microwave Radiation.

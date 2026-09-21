@@ -38,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # From Dipolar Interactions to Tissue Heating: A Multiscale Model for Magnetic Hyperthermia.

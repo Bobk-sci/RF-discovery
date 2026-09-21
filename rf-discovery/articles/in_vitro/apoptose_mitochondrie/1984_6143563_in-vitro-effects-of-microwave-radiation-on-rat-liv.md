@@ -42,6 +42,13 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/plasticite_synaptique
+- annee/1984
 ---
 
 # In vitro effects of microwave radiation on rat liver mitochondria.

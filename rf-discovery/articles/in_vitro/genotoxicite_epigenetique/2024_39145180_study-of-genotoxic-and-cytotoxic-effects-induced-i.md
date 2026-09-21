@@ -69,6 +69,16 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/eeg_sommeil
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Study of genotoxic and cytotoxic effects induced in human fibroblasts by exposure to pulsed and continuous 1.6 GHz radiofrequency.

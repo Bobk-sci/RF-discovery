@@ -36,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Neural Network-Based Adaptive Resource Allocation for 5G Heterogeneous Ultra-Dense Networks.

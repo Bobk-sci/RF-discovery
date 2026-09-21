@@ -37,6 +37,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # MobileSkin: Classification of Skin Lesion Images Acquired Using Mobile Phone-Attached Hand-Held Dermoscopes.

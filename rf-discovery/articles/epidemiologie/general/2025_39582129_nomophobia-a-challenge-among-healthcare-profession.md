@@ -55,6 +55,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # Nomophobia: a challenge among healthcare professionals in Africa.

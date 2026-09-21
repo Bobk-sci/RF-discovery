@@ -50,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2022
 ---
 
 # Radiofrequency Electromagnetic Fields Cause Non-Temperature-Induced Physical and Biological Effects in Cancer Cells.

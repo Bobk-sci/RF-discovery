@@ -44,6 +44,11 @@ theme_secondaires: []
 theme_indices:
 - thermal effect
 - heating
+tags:
+- rf
+- modele/in_vitro
+- theme/thermique
+- annee/2024
 ---
 
 # Dielectric and Magnetic Composites of Fe3O4@APNs for Superior Microwave Thermal Effect.

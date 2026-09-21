@@ -78,6 +78,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/thermique
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Microwave hyperthermia enhances radiosensitization by decreasing DNA repair efficiency and inducing oxidative stress in PC3 prostatic adenocarcinoma cells.

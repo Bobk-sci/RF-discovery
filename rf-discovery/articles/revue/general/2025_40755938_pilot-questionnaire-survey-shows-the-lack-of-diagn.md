@@ -35,6 +35,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # Pilot questionnaire survey shows the lack of diagnostic criteria for electromagnetic hypersensitivity: a viewpoint.

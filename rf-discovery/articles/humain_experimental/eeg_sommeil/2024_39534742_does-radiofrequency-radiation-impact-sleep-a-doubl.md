@@ -60,6 +60,14 @@ theme_secondaires:
 theme_indices:
 - EEG
 - sleep
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Does radiofrequency radiation impact sleep? A double-blind, randomised, placebo-controlled, crossover pilot study.

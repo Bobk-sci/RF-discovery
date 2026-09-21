@@ -62,6 +62,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Exposure to 5G Radiofrequency and Physiological Effects in Healthy Young Adults: Insights Into Heart Rate Variability and Salivary Stress Biomarkers.

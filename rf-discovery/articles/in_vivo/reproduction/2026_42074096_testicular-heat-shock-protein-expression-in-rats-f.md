@@ -63,6 +63,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Testicular Heat-Shock Protein Expression in Rats Following 3.5 GHz and 24 GHz RF-EMF Exposure.

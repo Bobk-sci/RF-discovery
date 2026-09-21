@@ -49,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Forecasting migraine with machine learning based on mobile phone diary and wearable data.

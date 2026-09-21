@@ -43,6 +43,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/cancer
+- annee/2003
 ---
 
 # Health benefits and potential risks related to consumption of fish or fish oil.

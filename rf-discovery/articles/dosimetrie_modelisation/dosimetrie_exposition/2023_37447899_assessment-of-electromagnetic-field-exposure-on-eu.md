@@ -36,6 +36,11 @@ theme_secondaires: []
 theme_indices:
 - base station
 - measurement campaign
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Assessment of Electromagnetic Field Exposure on European Roads: A Comprehensive In Situ Measurement Campaign.

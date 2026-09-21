@@ -63,6 +63,13 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Radiofrequency Fields at 2.45 GHz Reprogram Mitochondria-Lysosome Crosstalk and Modulate the Survival/Death of Macrophages Exposed to LPS and/or the SARS-CoV-2 Spike Protein.

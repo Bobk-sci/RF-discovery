@@ -54,6 +54,13 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/revue
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # Combined Pulsed Magnetic Field and Radiofrequency Electromagnetic Field Enhances MMP-9, Collagen-4, VEGF Synthesis to Improve Wound Healing Via Hif-1α/eNOS Pathway.

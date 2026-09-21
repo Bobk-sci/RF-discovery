@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2017
 ---
 
 # Evaluation of the Effect of Radiofrequency Radiation Emitted From Wi-Fi Router and Mobile Phone Simulator on the Antibacterial Susceptibility of Pathogenic Bacteria <i>Listeria monocytogenes</i> and <i>Escherichia coli</i>.

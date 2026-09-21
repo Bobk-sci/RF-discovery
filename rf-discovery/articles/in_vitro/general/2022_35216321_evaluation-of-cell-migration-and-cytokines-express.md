@@ -50,6 +50,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2022
 ---
 
 # Evaluation of Cell Migration and Cytokines Expression Changes under the Radiofrequency Electromagnetic Field on Wound Healing In Vitro Model.

@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # The experiences of pregnant women during the COVID-19 pandemic in Turkey: A qualitative study.

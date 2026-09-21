@@ -56,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # Mobile phone use characteristics, genetic predisposition and the risk of Parkinson's disease: a prospective cohort study.

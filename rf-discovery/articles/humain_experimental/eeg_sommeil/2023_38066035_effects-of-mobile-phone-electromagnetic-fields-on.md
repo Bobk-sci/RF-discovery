@@ -43,6 +43,14 @@ theme_secondaires:
 theme_indices:
 - EEG
 - alpha band
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Effects of mobile phone electromagnetic fields on brain waves in healthy volunteers.

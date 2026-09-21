@@ -53,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Exposure Assessment in Millimeter-Wave Reverberation Chamber Using Murine Phantoms.

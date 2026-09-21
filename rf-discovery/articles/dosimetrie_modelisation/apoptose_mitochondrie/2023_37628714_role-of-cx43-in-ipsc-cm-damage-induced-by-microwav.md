@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Role of Cx43 in iPSC-CM Damage Induced by Microwave Radiation.

@@ -55,6 +55,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Effects of exposure to nearby mobile phone base stations and mobile phone usage on human blood parameters.

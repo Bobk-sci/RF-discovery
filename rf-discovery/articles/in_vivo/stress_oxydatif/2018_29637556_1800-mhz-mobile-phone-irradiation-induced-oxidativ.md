@@ -69,6 +69,14 @@ theme_indices:
 - antioxidant
 - nitric oxide
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2018
 ---
 
 # 1800 MHz mobile phone irradiation induced oxidative and nitrosative stress leads to p53 dependent Bax mediated testicular apoptosis in mice, Mus musculus.

@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- annee/2015
 ---
 
 # Electromagnetic fields and EEG spiking rate in patients with focal epilepsy.

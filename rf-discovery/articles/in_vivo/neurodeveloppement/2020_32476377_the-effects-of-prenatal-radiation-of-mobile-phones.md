@@ -53,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuroinflammation
+- annee/2020
 ---
 
 # [The effects of prenatal radiation of mobile phones on white matter in cerebellum of rat offspring].

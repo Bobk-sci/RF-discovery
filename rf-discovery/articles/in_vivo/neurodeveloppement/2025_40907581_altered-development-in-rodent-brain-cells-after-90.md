@@ -76,6 +76,16 @@ theme_indices:
 - neurodevelopment
 - neurogenesis
 - synaptogenesis
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/plasticite_synaptique
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Altered development in rodent brain cells after 900 MHz radiofrequency exposure.

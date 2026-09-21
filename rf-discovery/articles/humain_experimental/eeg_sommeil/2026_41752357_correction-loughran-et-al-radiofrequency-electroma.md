@@ -37,6 +37,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Correction: Loughran et al. Radiofrequency Electromagnetic Field Exposure and the Resting EEG: Exploring the Thermal Mechanism Hypothesis. &lt;i&gt;Int. J. Environ. Res. Public Health&lt;/i&gt; 2019, &lt;i&gt;16&lt;/i&gt;, 1505.

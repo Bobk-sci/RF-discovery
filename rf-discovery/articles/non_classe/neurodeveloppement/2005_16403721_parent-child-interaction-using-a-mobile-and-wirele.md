@@ -50,6 +50,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2005
 ---
 
 # Parent-child interaction using a mobile and wireless system for blood glucose monitoring.

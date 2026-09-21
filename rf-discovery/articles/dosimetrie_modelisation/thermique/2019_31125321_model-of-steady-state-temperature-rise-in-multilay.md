@@ -41,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Model of Steady-state Temperature Rise in Multilayer Tissues Due to Narrow-beam Millimeter-wave Radiofrequency Field Exposure.

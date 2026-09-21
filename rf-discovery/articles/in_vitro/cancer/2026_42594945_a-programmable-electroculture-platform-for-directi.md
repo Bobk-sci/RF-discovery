@@ -57,6 +57,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A programmable electroculture platform for direction-dependent alternating electric field delivery in cancer cell models.

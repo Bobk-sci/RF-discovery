@@ -58,6 +58,14 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Investigating the effect of radiofrequency electromagnetic field exposure on molecular pathways related to insulin resistance and adipogenesis in zebrafish embryos - A pilot study without quantitative exposure metrics.

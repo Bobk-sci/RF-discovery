@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # A feasibility study on non-invasive and non-contact jugular venous pulse measurement using 60 GHz FMCW radar.

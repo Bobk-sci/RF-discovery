@@ -61,6 +61,12 @@ theme_indices:
 - pregnancy
 - fetal
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Mobile phone use during pregnancy: Which association with fetal growth?

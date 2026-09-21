@@ -36,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Dual-Frequency and Pattern Reconfigurable Wireless Communication System for Adaptive Cross-Body Biotelemetry

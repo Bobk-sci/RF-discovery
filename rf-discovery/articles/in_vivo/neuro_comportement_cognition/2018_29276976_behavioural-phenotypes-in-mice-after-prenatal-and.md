@@ -66,6 +66,13 @@ theme_indices:
 - learning
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2018
 ---
 
 # Behavioural phenotypes in mice after prenatal and early postnatal exposure to intermediate frequency magnetic fields.

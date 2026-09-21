@@ -48,6 +48,15 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Radiations and male fertility.

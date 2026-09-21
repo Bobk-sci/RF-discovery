@@ -48,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Road User Exposure from ITS-5.9 GHz Vehicular Connectivity.

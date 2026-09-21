@@ -50,6 +50,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - excitability
+tags:
+- rf
+- modele/revue
+- theme/plasticite_synaptique
+- annee/2025
 ---
 
 # Effects of Mobile Electromagnetic Exposure on Brain Oscillations and Cortical Excitability: Scoping Review.

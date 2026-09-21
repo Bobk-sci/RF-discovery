@@ -50,6 +50,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # No measurable impact of acute 26 GHz 5G exposure on salivary stress markers in healthy adults.

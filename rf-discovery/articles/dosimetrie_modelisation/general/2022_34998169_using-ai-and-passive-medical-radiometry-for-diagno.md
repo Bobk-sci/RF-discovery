@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Using AI and passive medical radiometry for diagnostics (MWR) of venous diseases.

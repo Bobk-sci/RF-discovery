@@ -38,6 +38,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A co-polarization-insensitive metamaterial absorber for 5G n78 mobile devices at 3.5 GHz to reduce the specific absorption rate.

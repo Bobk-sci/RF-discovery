@@ -59,6 +59,14 @@ theme_secondaires:
 - cancer
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2025
 ---
 
 # Alleviation of Inflammatory Conditions Caused by Extremely Low-Frequency Electromagnetic Field Exposure by &lt;i&gt;Panax ginseng&lt;/i&gt;.

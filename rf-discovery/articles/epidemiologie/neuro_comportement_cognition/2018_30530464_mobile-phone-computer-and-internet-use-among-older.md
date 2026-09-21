@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Mobile Phone, Computer, and Internet Use Among Older Homeless Adults: Results from the HOPE HOME Cohort Study.

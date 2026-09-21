@@ -43,6 +43,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # A Mini-Review of the Potential Health Impacts of Indoor Radiation Exposure in Companion Animals.

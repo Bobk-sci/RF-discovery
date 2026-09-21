@@ -97,6 +97,12 @@ theme_secondaires:
 theme_indices:
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2014
 ---
 
 # The MOBI-Kids Study Protocol: Challenges in Assessing Childhood and Adolescent Exposure to Electromagnetic Fields from Wireless Telecommunication Technologies and Possible Association with Brain Tumor Risk.

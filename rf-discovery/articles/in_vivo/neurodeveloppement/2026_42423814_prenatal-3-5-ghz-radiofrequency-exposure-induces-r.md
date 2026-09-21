@@ -65,6 +65,16 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Prenatal 3.5 GHz radiofrequency exposure induces renal histological changes and DNA damage in 6-month-old rats.

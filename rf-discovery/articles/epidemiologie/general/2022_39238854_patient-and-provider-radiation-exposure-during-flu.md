@@ -34,6 +34,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Patient and provider radiation exposure during fluoroscopy guided chemical and thermal neurolysis of genicular nerves: A prospective cohort comparison study.

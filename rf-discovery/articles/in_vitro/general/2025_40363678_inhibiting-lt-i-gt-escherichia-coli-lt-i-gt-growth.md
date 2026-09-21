@@ -50,6 +50,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Inhibiting &lt;i&gt;Escherichia coli&lt;/i&gt; Growth by Optimized Low-Power Microwave Irradiation-Delivery of Ag and Au Nanoparticles.

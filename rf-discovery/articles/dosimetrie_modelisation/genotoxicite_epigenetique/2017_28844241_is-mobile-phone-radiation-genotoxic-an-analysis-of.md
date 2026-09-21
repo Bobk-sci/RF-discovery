@@ -54,6 +54,13 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2017
 ---
 
 # Is mobile phone radiation genotoxic? An analysis of micronucleus frequency in exfoliated buccal cells.

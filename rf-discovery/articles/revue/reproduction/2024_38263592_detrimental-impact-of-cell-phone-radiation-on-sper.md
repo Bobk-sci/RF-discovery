@@ -35,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - sperm
 - spermatozoa
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- annee/2024
 ---
 
 # Detrimental impact of cell phone radiation on sperm DNA integrity.

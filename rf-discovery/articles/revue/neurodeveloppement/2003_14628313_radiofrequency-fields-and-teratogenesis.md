@@ -50,6 +50,14 @@ theme_indices:
 - perinatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2003
 ---
 
 # Radiofrequency fields and teratogenesis.

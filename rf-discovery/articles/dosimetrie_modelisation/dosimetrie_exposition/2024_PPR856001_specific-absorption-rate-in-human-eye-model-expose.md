@@ -33,6 +33,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Specific Absorption Rate in Human Eye Model Exposed to Mobile Phone Radiation: A FDTD Study

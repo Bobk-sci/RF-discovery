@@ -43,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Dose Estimation for Indoor Radon, Occupational Radiation, and Electromagnetic Field Exposure in a Nuclear Medicine Department in Turkiye.

@@ -55,6 +55,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2025
 ---
 
 # Trends in Malignant and Benign Brain Tumor Incidence and Mobile Phone Use in the U.S. (2000-2021): A SEER-Based Study.

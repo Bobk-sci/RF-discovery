@@ -40,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Effect of 2400 MHz mobile phone radiation exposure on the behavior and hippocampus morphology in Swiss mouse model.

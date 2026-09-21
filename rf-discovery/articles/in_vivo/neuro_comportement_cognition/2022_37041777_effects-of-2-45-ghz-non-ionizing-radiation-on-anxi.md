@@ -49,6 +49,13 @@ theme_indices:
 - cognitive
 - memory
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Effects of 2.45 GHz Non-Ionizing Radiation on Anxiety-Like Behavior, Gene Expression, and Corticosterone Level in Male Rats.

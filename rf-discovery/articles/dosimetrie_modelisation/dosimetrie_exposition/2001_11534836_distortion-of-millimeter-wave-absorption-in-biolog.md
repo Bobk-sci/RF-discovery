@@ -45,6 +45,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2001
 ---
 
 # Distortion of millimeter-wave absorption in biological media due to presence of thermocouples and other objects.

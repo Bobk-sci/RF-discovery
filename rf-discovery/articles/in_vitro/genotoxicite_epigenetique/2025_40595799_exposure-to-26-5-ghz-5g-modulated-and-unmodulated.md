@@ -57,6 +57,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affect key cellular endpoints of human neuroblastoma cells.

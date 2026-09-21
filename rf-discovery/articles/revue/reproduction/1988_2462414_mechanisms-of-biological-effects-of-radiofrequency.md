@@ -42,6 +42,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - fertility
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/thermique
+- annee/1988
 ---
 
 # Mechanisms of biological effects of radiofrequency electromagnetic fields: an overview.

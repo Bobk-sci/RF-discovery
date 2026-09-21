@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2024
 ---
 
 # Control and Disposal of Invasive Japanese Knotweed Reynoutria japonica Houtt. Using Microwave Treatment.

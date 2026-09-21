@@ -46,6 +46,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2020
 ---
 
 # The Reflectance of Human Skin in the Millimeter-Wave Band.

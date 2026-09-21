@@ -26,6 +26,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Enhancing RD-BIBD Key Pre-distribution with Permutation Aware Node Assignment in Fog Computing

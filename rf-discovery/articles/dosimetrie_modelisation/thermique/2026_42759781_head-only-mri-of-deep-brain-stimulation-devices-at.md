@@ -41,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Head-only MRI of Deep Brain Stimulation devices at 0.5 T: Patient-derived approaches for estimating radiofrequency heating.

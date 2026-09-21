@@ -51,6 +51,13 @@ theme_secondaires:
 theme_indices:
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2019
 ---
 
 # Mobile Phone-Use Habits Among Adolescents: Predictors of Intensive Use.

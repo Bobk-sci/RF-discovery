@@ -43,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/epidemiologie
+- theme/thermique
+- annee/2019
 ---
 
 # Evaluation of Wi-Fi Radiation Effects on Antibiotic Susceptibility, Metabolic Activity and Biofilm Formation by Escherichia <i>Coli</i> 0157H7, <i>Staphylococcus Aureus</i> and <i>Staphylococcus Epidermis</i>.

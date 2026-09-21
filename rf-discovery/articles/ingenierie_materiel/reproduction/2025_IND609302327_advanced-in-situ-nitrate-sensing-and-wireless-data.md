@@ -35,6 +35,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - fertility
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/reproduction
+- annee/2025
 ---
 
 # Advanced In Situ Nitrate Sensing and Wireless Data Transmission Prototype for Precision Soil Fertility Monitoring

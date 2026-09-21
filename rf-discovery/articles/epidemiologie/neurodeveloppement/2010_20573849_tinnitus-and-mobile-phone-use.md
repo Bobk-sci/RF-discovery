@@ -49,6 +49,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2010
 ---
 
 # Tinnitus and mobile phone use.

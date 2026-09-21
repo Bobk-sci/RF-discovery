@@ -45,6 +45,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2014
 ---
 
 # The risk of subjective symptoms in mobile phone users in Poland--an epidemiological study.

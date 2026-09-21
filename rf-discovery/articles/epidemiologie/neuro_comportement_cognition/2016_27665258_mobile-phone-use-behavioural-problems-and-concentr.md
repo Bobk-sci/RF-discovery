@@ -58,6 +58,12 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2016
 ---
 
 # Mobile phone use, behavioural problems and concentration capacity in adolescents: A prospective study.

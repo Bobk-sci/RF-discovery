@@ -57,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/cancer
+- annee/2019
 ---
 
 # Mobile Phone App-Based Pulmonary Rehabilitation for Chemotherapy-Treated Patients With Advanced Lung Cancer: Pilot Study.

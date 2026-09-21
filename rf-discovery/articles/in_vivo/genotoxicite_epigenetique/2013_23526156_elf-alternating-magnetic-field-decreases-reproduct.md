@@ -40,6 +40,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2013
 ---
 
 # ELF alternating magnetic field decreases reproduction by DNA damage induction.

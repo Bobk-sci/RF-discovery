@@ -43,6 +43,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Environmental radiofrequency exposure and genotoxic biomarkers in schoolchildren: a cross-sectional analysis.

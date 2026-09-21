@@ -40,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2023
 ---
 
 # The Effect of Microwave Radiation on the Solidification of C-S-H Gels: Its Influence on the Solidified Cement Mixtures.

@@ -31,6 +31,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2023
 ---
 
 # The Effect of Mobile Phone-Based Interventions on Blood Pressure in Stroke Patients: A Systematic Review of Randomized Controlled Trials.

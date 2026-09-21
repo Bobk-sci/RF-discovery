@@ -53,6 +53,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Ameliorative Role of Coenzyme Q10 in RF Radiation-Associated Testicular and Oxidative Impairments in a 3.5-GHz Exposure Model.

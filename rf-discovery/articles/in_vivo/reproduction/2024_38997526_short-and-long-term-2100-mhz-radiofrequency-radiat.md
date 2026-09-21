@@ -52,6 +52,12 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Short and long-term 2100 MHz radiofrequency radiation causes endoplasmic reticulum stress in rat testis.

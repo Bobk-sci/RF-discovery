@@ -42,6 +42,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Evaluating radiofrequency electromagnetic field exposure in confined spaces: a systematic review of recent studies and future directions.

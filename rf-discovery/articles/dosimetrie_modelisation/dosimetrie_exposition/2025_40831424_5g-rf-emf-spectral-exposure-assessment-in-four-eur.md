@@ -53,6 +53,11 @@ theme_indices:
 - power density
 - ICNIRP
 - measurement campaign
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # 5G RF EMF Spectral Exposure Assessment in Four European Countries.

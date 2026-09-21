@@ -47,6 +47,11 @@ theme_indices:
 - anxiety
 - behavior
 - attention
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # "Notification! You May Have Cancer." Could Smartphones and Wearables Help Detect Cancer Early?

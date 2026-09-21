@@ -47,6 +47,13 @@ theme_indices:
 - neurogenesis
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Effect of microwave radiation on adult neurogenesis and behavior of prenatally exposed rats.

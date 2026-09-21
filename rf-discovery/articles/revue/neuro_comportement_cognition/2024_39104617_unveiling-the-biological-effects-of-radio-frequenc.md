@@ -42,6 +42,14 @@ theme_indices:
 - learning
 - anxiety
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/barriere_hemato_encephalique
+- theme/plasticite_synaptique
+- annee/2024
 ---
 
 # Unveiling the biological effects of radio-frequency and extremely-low frequency electromagnetic fields on the central nervous system performance.

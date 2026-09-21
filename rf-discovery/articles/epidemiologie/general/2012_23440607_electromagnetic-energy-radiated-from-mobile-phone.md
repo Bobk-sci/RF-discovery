@@ -34,6 +34,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/general
+- annee/2012
 ---
 
 # Electromagnetic energy radiated from mobile phone alters electrocardiographic records of patients with ischemic heart disease.

@@ -73,6 +73,12 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2024
 ---
 
 # Mobile phone use and brain tumour risk - COSMOS, a prospective cohort study.

@@ -29,6 +29,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Outdoor radiofrequency electromagnetic field monitoring in urban school environments: a field survey in Graz, Austria

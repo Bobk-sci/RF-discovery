@@ -48,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Investigation and Validation of New Heart Rate Measurement Sites for Wearable Technologies.

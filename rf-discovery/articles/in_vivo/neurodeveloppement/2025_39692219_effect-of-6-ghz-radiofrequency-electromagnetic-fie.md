@@ -56,6 +56,12 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # Effect of 6 GHz radiofrequency electromagnetic field on the development of fetal bones.

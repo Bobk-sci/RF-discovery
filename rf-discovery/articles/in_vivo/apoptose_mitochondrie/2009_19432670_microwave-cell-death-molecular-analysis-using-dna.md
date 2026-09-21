@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2009
 ---
 
 # Microwave cell death: molecular analysis using DNA electrophoresis, PCR amplification and TUNEL.

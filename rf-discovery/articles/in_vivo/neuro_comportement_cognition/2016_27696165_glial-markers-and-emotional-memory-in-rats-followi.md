@@ -66,6 +66,15 @@ theme_secondaires:
 theme_indices:
 - memory
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Glial markers and emotional memory in rats following acute cerebral radiofrequency exposures.

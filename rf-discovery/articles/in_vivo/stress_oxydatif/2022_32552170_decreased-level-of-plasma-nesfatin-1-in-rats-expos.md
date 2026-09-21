@@ -44,6 +44,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Decreased level of plasma nesfatin-1 in rats exposed to cell phone radiation is correlated with thyroid dysfunction, oxidative stress, and apoptosis.

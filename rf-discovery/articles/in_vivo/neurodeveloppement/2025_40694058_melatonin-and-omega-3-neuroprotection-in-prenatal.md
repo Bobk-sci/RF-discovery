@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Melatonin and omega-3 neuroprotection in prenatal rat spinal cord exposed to 900 MHz electromagnetic field.

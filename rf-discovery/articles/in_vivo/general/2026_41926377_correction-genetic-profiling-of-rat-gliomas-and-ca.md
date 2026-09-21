@@ -42,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2026
 ---
 
 # Correction: Genetic profiling of rat gliomas and cardiac schwannomas from life-time radiofrequency radiation exposure study using a targeted next-generation sequencing gene panel.

@@ -62,6 +62,16 @@ theme_indices:
 - specific absorption rate
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/humain_experimental
+- theme/dosimetrie_exposition
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Scientific evidence invalidates health assumptions underlying the FCC and ICNIRP exposure limit determinations for radiofrequency radiation: implications for 5G.

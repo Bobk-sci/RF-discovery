@@ -45,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # The effect of smartphones on daytime sleepiness, temporomandibular disorders, and bruxism among young adults.

@@ -50,6 +50,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Decisional style, sleepiness, and online responsiveness.

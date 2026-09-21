@@ -64,6 +64,14 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2007
 ---
 
 # Radiofrequency radiation (900 MHz) induces Egr-1 gene expression and affects cell-cycle control in human neuroblastoma cells.

@@ -36,6 +36,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Plasma Proteomics Identifies a Microtesla Magnetic Therapy Response Signature in Long COVID

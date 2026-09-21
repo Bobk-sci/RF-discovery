@@ -60,6 +60,15 @@ theme_indices:
 - Bcl-2
 - cell viability
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Neurotoxic effects of 3.5 GHz GSM-like RF exposure on cultured DRG neurons: a mechanistic insight into oxidative and apoptotic pathways.

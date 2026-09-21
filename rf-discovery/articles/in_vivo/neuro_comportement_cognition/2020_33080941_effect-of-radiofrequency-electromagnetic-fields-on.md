@@ -54,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effect of Radiofrequency Electromagnetic Fields on Thermal Sensitivity in the Rat.

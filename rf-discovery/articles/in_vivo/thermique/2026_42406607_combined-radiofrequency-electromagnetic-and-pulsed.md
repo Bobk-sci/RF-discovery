@@ -46,6 +46,14 @@ theme_secondaires:
 - cancer
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2026
 ---
 
 # Combined radiofrequency electromagnetic and pulsed magnetic field exposure enhances gastric ulcer healing via eNOS-mediated angiogenesis in young rats.

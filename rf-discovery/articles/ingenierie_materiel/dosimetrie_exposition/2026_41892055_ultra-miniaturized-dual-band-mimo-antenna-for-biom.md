@@ -50,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Ultra-Miniaturized Dual-Band MIMO Antenna for Biomedical Implantable Devices in Wireless Health Monitoring Systems.

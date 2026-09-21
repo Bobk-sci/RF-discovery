@@ -44,6 +44,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Upcycling of Waste Fluororubber to Photocurable High-Performance Vinyl-Terminated Liquid Fluororubber by Multifield Coupling One-Pot Stepwise Reactions.

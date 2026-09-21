@@ -58,6 +58,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Effects of 1.8 GHz radiofrequency radiation on protein expression in human lens epithelial cells.

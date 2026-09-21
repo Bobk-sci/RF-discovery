@@ -37,6 +37,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Mobile Phone Chips Reduce Increases in EEG Brain Activity Induced by Mobile Phone-Emitted Electromagnetic Fields.

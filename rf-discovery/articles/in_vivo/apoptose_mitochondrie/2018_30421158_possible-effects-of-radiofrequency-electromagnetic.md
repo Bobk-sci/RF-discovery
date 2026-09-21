@@ -57,6 +57,15 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Possible effects of radiofrequency electromagnetic fields on in vivo C6 brain tumors in Wistar rats.

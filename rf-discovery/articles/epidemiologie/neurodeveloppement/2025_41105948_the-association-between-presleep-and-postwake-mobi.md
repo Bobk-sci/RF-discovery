@@ -63,6 +63,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # The Association Between Presleep and Postwake Mobile Phone Use and Nonsuicidal Self-Injury Among University Students: Cross-Sectional Study.

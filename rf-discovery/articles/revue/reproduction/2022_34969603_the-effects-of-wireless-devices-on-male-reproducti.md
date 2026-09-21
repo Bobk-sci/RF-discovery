@@ -57,6 +57,12 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # The effects of wireless devices on male reproductive health: A literature overview.

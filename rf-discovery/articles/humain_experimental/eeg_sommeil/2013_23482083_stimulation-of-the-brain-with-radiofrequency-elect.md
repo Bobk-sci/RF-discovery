@@ -58,6 +58,14 @@ theme_indices:
 - sleep
 - spindle
 - slow wave
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Stimulation of the brain with radiofrequency electromagnetic field pulses affects sleep-dependent performance improvement.

@@ -60,6 +60,11 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Reducing unintentional injuries in under fives: Development and testing of a mobile phone app.

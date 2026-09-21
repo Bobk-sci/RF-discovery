@@ -55,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2021
 ---
 
 # Aroylhydrazone Diorganotin Complexes Causes DNA Damage and Apoptotic Cell Death: From Chemical Synthesis to Biochemical Effects.

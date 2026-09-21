@@ -56,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/1994
 ---
 
 # Noradrenergic innervation and receptor responses of cardiovascular tissues from young and aged rats after acute microwave exposure.

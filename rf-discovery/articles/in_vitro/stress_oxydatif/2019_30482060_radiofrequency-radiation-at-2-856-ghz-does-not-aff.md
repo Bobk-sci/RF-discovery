@@ -56,6 +56,15 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Radiofrequency radiation at 2.856 GHz does not affect key cellular endpoints in neuron-like PC12 cells.

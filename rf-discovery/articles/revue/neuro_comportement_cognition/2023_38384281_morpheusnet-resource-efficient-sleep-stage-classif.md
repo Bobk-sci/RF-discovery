@@ -42,6 +42,12 @@ theme_indices:
 - memory
 - learning
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # MorpheusNet: Resource efficient sleep stage classifier for embedded on-line systems.

@@ -58,6 +58,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Protective effect of Danhong Injection combined with Naoxintong Capsule on cerebral ischemia-reperfusion injury in rats.

@@ -61,6 +61,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Mobile phone use and health symptoms in children.

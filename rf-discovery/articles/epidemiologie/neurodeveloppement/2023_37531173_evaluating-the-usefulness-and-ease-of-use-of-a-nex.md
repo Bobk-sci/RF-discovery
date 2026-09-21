@@ -39,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Evaluating the Usefulness and Ease of Use of a Next-Generation-Connected Drug Delivery Device for Growth Hormone Therapy: Qualitative Study of Health Care Professionals' Perceptions.

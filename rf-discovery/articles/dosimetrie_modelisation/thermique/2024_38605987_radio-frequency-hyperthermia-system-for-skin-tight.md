@@ -40,6 +40,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- annee/2024
 ---
 
 # Radio frequency hyperthermia system for skin tightening effect by filled waveguide aperture antenna with compact metamaterials.

@@ -53,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/thermique
+- annee/2015
 ---
 
 # Picosecond and Terahertz Perturbation of Interfacial Water and Electropermeabilization of Biological Membranes.

@@ -46,6 +46,14 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2025
 ---
 
 # Mitigation of 3.5 GHz Electromagnetic Field-Induced BV2 Microglial Cytotoxicity by Polydeoxyribonucleotide.

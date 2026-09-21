@@ -58,6 +58,13 @@ theme_indices:
 - cognitive
 - memory
 - attention
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- annee/2019
 ---
 
 # Mobile Phone Base Station Tower Settings Adjacent to School Buildings: Impact on Students' Cognitive Health.

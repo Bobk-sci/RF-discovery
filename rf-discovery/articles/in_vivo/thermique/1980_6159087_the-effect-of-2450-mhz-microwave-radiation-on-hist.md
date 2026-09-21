@@ -41,6 +41,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/1980
 ---
 
 # The effect of 2450 MHz microwave radiation on histamine secretion by rat peritoneal mast cells.

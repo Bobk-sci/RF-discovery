@@ -54,6 +54,15 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - 8-OHdG
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of Low-Intensity Microwave Radiation on Oxidant-Antioxidant Parameters and DNA Damage in the Liver of Rats.

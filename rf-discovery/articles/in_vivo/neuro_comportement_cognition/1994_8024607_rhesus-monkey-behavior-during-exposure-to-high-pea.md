@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - behavior
 - reaction time
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/1994
 ---
 
 # Rhesus monkey behavior during exposure to high-peak-power 5.62-GHz microwave pulses.

@@ -35,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - memory
 - reaction time
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Alterations of visual reaction time and short term memory in military radar personnel.

@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2021
 ---
 
 # Using Social Media for Peer-to-Peer Cancer Support: Interviews With Young Adults With Cancer.

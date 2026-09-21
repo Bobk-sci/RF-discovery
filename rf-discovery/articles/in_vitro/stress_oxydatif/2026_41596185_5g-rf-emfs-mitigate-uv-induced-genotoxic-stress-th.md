@@ -51,6 +51,13 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - redox
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # 5G RF-EMFs Mitigate UV-Induced Genotoxic Stress Through Redox Balance and p38 Pathway Regulation in Skin Cells.

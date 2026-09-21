@@ -47,6 +47,12 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - glutathione
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2014
 ---
 
 # Cell phone use and parotid salivary gland alterations: no molecular evidence.

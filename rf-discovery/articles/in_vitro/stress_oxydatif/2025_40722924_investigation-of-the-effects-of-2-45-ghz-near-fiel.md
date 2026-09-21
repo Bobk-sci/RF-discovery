@@ -46,6 +46,13 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/thermique
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Investigation of the Effects of 2.45 GHz Near-Field EMF on Yeast.

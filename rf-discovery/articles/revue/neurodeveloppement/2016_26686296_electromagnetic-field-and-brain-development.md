@@ -51,6 +51,13 @@ theme_indices:
 - brain development
 - neurogenesis
 - prenatal
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2016
 ---
 
 # Electromagnetic field and brain development.

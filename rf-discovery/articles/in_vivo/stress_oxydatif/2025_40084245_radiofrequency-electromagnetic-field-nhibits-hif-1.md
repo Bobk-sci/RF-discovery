@@ -62,6 +62,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Radiofrequency electromagnetic field ınhibits HIF-1 alpha and activates eNOS signaling to prevent intestinal damage in a model of mesenteric artery ischemia in rats.

@@ -54,6 +54,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2020
 ---
 
 # Exposure to cell phones reduces heart rate variability in both normal-weight and obese normotensive medical students.

@@ -39,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/1989
 ---
 
 # [5-HT contents change in peripheral blood of workers exposed to microwave and high frequency radiation].

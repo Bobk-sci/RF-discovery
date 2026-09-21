@@ -61,6 +61,13 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Effects of Simultaneous In-Vitro Exposure to 5G-Modulated 3.5 GHz and GSM-Modulated 1.8 GHz Radio-Frequency Electromagnetic Fields on Neuronal Network Electrical Activity and Cellular Stress in Skin Fibroblast Cells.

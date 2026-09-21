@@ -55,6 +55,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cytokine
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Evaluation of Inflammation by Cytokine Production Following Combined Exposure to Ultraviolet and Radiofrequency Radiation of Mobile Phones on 3D Reconstructed Human Skin In Vitro.

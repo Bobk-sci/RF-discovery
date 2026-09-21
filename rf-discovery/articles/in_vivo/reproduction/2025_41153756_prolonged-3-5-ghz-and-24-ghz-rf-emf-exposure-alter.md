@@ -48,6 +48,13 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Prolonged 3.5 GHz and 24 GHz RF-EMF Exposure Alters Testicular Immune Balance, Apoptotic Gene Expression, and Sperm Function in Rats.

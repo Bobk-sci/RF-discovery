@@ -53,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/thermique
+- theme/apoptose_mitochondrie
+- annee/2017
 ---
 
 # Gold Nanocluster-Mediated Cellular Death under Electromagnetic Radiation.

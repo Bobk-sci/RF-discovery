@@ -41,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Do expectations shape interoceptive perceptions across body domains? A sham EMF study to test the predictive processing theory.

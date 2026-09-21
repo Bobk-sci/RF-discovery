@@ -64,6 +64,14 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Effects of pulsed 2.856 GHz microwave exposure on BM-MSCs isolated from C57BL/6 mice.

@@ -58,6 +58,13 @@ theme_indices:
 - superoxide dismutase
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2024
 ---
 
 # Biocompatibility assessment of bovine serum albumin conjugated manganese dioxide nanoparticle and their therapeutic role against microwave radiation induced haematological toxicity in male Wistar rats.

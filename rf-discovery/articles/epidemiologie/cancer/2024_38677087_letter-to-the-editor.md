@@ -48,6 +48,11 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2024
 ---
 
 # Letter to the editor.

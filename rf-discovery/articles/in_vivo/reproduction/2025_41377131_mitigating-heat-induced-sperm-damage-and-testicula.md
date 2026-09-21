@@ -49,6 +49,12 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/thermique
+- annee/2025
 ---
 
 # Mitigating Heat-Induced Sperm Damage and Testicular Tissue Abnormalities: The Protective Role of Radiofrequency Radiation from Wi-Fi Routers in Rodent Models.

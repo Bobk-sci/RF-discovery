@@ -62,6 +62,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # 5G Radiofrequency Exposure Reduces &lt;i&gt;PRDM16&lt;/i&gt; and &lt;i&gt;C/EBP β&lt;/i&gt; mRNA Expression, Two Key Biomarkers for Brown Adipogenesis.

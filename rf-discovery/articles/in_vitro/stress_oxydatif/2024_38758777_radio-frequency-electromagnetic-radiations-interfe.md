@@ -52,6 +52,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Radio frequency electromagnetic radiations interfere with the Leydig cell functions in-vitro.

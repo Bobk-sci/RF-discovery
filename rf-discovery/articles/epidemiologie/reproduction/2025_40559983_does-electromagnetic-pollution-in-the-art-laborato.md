@@ -47,6 +47,13 @@ theme_indices:
 - sperm
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Does Electromagnetic Pollution in the ART Laboratory Affect Sperm Quality? A Cross-Sectional Observational Study.

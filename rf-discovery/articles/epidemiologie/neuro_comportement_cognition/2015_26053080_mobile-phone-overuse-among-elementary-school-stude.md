@@ -44,6 +44,12 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2015
 ---
 
 # Mobile Phone Overuse Among Elementary School Students in Korea: Factors Associated With Mobile Phone Use as a Behavior Addiction.

@@ -38,6 +38,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # CNN-Based LCD Transcription of Blood Pressure From a Mobile Phone Camera.

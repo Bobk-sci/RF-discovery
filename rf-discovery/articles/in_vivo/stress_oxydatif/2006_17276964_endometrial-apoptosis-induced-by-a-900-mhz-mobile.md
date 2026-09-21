@@ -60,6 +60,12 @@ theme_indices:
 - malondialdehyde
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2006
 ---
 
 # Endometrial apoptosis induced by a 900-MHz mobile phone: preventive effects of vitamins E and C.

@@ -54,6 +54,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/general
+- annee/2018
 ---
 
 # Radiofrequency electromagnetic field exposure in everyday microenvironments in Europe: A systematic literature review.

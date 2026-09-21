@@ -55,6 +55,12 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2006
 ---
 
 # [Changes of apoptosis, mitochondrion membrane potential and Ca2+ of hypothalamic neurons induced by high power microwave].

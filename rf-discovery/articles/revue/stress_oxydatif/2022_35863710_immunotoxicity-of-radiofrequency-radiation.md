@@ -51,6 +51,15 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Immunotoxicity of radiofrequency radiation.

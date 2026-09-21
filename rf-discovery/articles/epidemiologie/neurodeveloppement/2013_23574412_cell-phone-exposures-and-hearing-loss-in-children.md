@@ -54,6 +54,12 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2013
 ---
 
 # Cell phone exposures and hearing loss in children in the Danish National Birth Cohort.

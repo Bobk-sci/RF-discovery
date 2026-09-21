@@ -33,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # Affective evaluation and exposure perception of everyday mobile phone usage situations.

@@ -49,6 +49,14 @@ theme_indices:
 - sperm
 - spermatozoa
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # [The effect of melatonin on male reproductive function (indicators of ejaculate)].

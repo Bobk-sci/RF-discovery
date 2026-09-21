@@ -51,6 +51,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Modelling indoor electromagnetic fields (EMF) from mobile phone base stations for epidemiological studies.

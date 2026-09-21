@@ -44,6 +44,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A novel experimental design approach to generating orbital angular momentum waves using wearable textile antenna for sub-6 GHz 5G.

@@ -49,6 +49,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - inflammatory response
+tags:
+- rf
+- modele/in_vitro
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # A temporal study on NF-κB-mediated autonomous inflammatory response in iPSC-CMs induced by microwave radiation.

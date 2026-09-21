@@ -64,6 +64,13 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Pulsed Electromagnetic Field Exposure Attenuates Ultraviolet B-Induced Dermal Collagen Loss in Association with A2A Adenosine Receptor Signaling.

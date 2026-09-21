@@ -41,6 +41,13 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Investigation of the Adverse Health Effects of Cell Phone Radiation and Propose Solutions to Minimize Them: A Systematic Review.

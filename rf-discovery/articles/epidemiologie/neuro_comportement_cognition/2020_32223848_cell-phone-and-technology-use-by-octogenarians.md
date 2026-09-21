@@ -45,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cognition
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Cell phone and technology use by octogenarians.

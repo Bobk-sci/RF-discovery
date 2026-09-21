@@ -52,6 +52,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/thermique
+- annee/1991
 ---
 
 # Marked increase in the teratogenicity of the combined administration of the industrial solvent 2-methoxyethanol and radiofrequency radiation in rats.

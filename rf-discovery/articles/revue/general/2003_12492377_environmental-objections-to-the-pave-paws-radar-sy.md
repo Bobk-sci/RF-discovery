@@ -35,6 +35,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/general
+- annee/2003
 ---
 
 # Environmental objections to the PAVE PAWS radar system: a scientific review.

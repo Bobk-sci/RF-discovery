@@ -46,6 +46,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2005
 ---
 
 # Nitric oxide level in the nasal and sinus mucosa after exposure to electromagnetic field.

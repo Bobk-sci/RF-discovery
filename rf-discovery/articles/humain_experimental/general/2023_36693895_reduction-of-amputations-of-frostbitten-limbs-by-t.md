@@ -43,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2023
 ---
 
 # Reduction of amputations of frostbitten limbs by treatment using microwave rewarming.

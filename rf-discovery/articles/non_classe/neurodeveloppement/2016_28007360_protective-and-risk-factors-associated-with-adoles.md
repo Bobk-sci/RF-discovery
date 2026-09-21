@@ -62,6 +62,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2016
 ---
 
 # Protective and risk factors associated with adolescent sleep: findings from Australia, Canada, and The Netherlands.

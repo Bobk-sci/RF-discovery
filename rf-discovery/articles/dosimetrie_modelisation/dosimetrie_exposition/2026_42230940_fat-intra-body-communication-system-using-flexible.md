@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Fat-intra-body communication system using flexible wearable antennas with human and torso phantom validation for biomedical applications.

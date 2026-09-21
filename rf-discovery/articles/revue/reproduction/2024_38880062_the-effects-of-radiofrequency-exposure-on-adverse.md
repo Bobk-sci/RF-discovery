@@ -70,6 +70,15 @@ theme_secondaires:
 theme_indices:
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # The effects of radiofrequency exposure on adverse female reproductive outcomes: A systematic review of human observational studies with dose-response meta-analysis.

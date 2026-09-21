@@ -52,6 +52,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2021
 ---
 
 # Cell phone use and the risk of glioma: are case-control study findings consistent with Canadian time trends in cancer incidence?

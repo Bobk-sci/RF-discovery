@@ -41,6 +41,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # Smartwatch low-SAR approach based on antenna integrated with metamaterial protection layer.

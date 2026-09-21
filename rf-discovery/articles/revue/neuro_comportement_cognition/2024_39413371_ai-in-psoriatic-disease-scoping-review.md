@@ -48,6 +48,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # AI in Psoriatic Disease: Scoping Review.

@@ -35,6 +35,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # In Situ Assessment of Uplink Duty Cycles for 4G and 5G Wireless Communications.

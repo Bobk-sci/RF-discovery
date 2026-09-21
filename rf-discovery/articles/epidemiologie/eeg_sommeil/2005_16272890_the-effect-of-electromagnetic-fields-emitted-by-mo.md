@@ -47,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - electroencephalogram
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2005
 ---
 
 # The effect of electromagnetic fields emitted by mobile phones on human sleep.

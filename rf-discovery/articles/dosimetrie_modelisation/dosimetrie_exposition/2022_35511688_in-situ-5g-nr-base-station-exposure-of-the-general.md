@@ -44,6 +44,11 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # IN-SITU 5G NR BASE STATION EXPOSURE OF THE GENERAL PUBLIC: COMPARISON OF ASSESSMENT METHODS.

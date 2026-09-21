@@ -37,6 +37,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2025
 ---
 
 # Exploring the Mechanism of Microstructural Changes in Ultra-High-Performance Concrete Under Microwave Influence: Experiments and Molecular Dynamics Simulation.

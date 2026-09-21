@@ -43,6 +43,15 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Exposure to 915 MHz radiation induces micronuclei in Vicia faba root tips.

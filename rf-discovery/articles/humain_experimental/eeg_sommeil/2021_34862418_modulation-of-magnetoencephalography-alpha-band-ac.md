@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - electroencephalogram
 - alpha band
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Modulation of magnetoencephalography alpha band activity by radiofrequency electromagnetic field depicted in sensor and source space.

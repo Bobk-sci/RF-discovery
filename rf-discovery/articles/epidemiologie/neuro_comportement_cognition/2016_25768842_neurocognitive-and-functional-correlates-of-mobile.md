@@ -54,6 +54,11 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # Neurocognitive and functional correlates of mobile phone use in middle-aged and older patients with schizophrenia.

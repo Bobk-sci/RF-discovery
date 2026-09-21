@@ -41,6 +41,12 @@ theme_indices:
 - sperm
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # The Influence of 2.45 GHz Wi-Fi Exposure Duration on Sperm Quality and Testicular Histopathology: An Exploration of Peroxidative Injury.

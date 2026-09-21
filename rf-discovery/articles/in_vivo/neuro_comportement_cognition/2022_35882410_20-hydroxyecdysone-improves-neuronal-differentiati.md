@@ -58,6 +58,14 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # 20-Hydroxyecdysone Improves Neuronal Differentiation of Adult Hippocampal Neural Stem Cells in High Power Microwave Radiation-Exposed Rats.

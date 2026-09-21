@@ -53,6 +53,12 @@ theme_indices:
 - heating
 - thermoregulation
 - body temperature
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/thermique
+- annee/2025
 ---
 
 # Electromagnetic fields from mobile phones: A risk for maintaining energy homeostasis?

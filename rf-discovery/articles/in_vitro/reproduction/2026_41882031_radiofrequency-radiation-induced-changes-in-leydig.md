@@ -53,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/reproduction
+- theme/thermique
+- annee/2026
 ---
 
 # Radiofrequency radiation-induced changes in Leydig cell function.

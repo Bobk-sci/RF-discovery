@@ -71,6 +71,12 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Neurodevelopment for the first three years following prenatal mobile phone use, radio frequency radiation and lead exposure.

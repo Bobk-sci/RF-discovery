@@ -34,6 +34,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Facile strategy toward the development of novel binder and thickening agent from apple rock bael for textile printing.

@@ -34,6 +34,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Comparing the Efficacy of Monopolar and Bipolar Radiofrequency Treatment on Facial Skin in Women.

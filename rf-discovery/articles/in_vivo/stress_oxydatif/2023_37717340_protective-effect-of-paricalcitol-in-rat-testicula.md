@@ -57,6 +57,12 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2023
 ---
 
 # Protective effect of paricalcitol in rat testicular damage induced by subchronic 1800 MHz radiofrequency radiation.

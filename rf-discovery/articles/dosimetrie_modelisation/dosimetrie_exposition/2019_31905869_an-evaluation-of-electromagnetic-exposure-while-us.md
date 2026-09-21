@@ -44,6 +44,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # An Evaluation of Electromagnetic Exposure While Using Ultra-High Frequency Radiofrequency Identification (UHF RFID) Guns.

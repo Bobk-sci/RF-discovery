@@ -49,6 +49,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Liver tissues oxidative status, epigenetic and molecular characteristics in rats administered magnetic and microwave treated water.

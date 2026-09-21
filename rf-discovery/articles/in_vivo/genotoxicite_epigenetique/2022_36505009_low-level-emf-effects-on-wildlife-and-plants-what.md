@@ -43,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Low-level EMF effects on wildlife and plants: What research tells us about an ecosystem approach.

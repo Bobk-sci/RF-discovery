@@ -46,6 +46,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Compact metasurface track-side PIS antenna-based occupational electromagnetic exposure research of inspectors in the metro tunnel.

@@ -33,6 +33,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2020
 ---
 
 # Health effects of electromagnetic fields on children.

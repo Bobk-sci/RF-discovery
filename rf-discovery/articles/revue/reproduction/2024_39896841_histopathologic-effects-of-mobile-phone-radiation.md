@@ -43,6 +43,12 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2024
 ---
 
 # Histopathologic effects of mobile phone radiation exposure on the testes and sperm parameters: a systematic literature review of animal studies.

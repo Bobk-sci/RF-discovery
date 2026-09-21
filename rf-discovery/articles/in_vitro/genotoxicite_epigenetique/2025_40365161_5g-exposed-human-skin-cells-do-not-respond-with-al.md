@@ -39,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # 5G-exposed human skin cells do not respond with altered gene expression and methylation profiles.

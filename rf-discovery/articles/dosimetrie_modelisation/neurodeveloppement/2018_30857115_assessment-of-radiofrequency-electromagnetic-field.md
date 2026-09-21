@@ -62,6 +62,13 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Assessment of radiofrequency electromagnetic field exposure from personal measurements considering the body shadowing effect in Korean children and parents.

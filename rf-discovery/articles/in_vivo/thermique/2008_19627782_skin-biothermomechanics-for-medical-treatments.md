@@ -44,6 +44,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/neuro_comportement_cognition
+- annee/2008
 ---
 
 # Skin biothermomechanics for medical treatments.

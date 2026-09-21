@@ -51,6 +51,12 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - heat shock protein
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Electromagnetic fields at a mobile phone frequency (900 MHz) trigger the onset of general stress response along with DNA modifications in Eisenia fetida earthworms.

@@ -47,6 +47,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Partner Phubbing and Sleep Quality: Serial Mediation Models With Relationship Satisfaction and Perceived Stress.

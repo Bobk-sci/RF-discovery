@@ -43,6 +43,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Electric fields for warming cryopreserved tissue.

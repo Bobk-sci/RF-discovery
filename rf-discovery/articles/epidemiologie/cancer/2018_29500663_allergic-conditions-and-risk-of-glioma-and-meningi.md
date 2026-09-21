@@ -64,6 +64,12 @@ theme_secondaires:
 theme_indices:
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Allergic conditions and risk of glioma and meningioma in the CERENAT case-control study.

@@ -52,6 +52,14 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2023
 ---
 
 # Wireless technologies, non-ionizing electromagnetic fields and children: Identifying and reducing health risks.

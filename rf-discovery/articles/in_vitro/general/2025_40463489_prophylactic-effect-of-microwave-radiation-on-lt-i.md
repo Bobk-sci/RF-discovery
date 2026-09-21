@@ -41,6 +41,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Prophylactic Effect of Microwave Radiation on &lt;i&gt;Toxoplasma gondii&lt;/i&gt; Tachyzoites of RH Strain: A Method for Partial Immunization in BALB/c Mice.

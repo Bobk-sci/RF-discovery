@@ -49,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # In Vivo Functional Ultrasound (fUS) Real-Time Imaging and Dosimetry of Mice Brain Under Radiofrequency Exposure.

@@ -59,6 +59,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Involvement of the Primary Auditory Cortex-Basolateral Amygdala Circuit in Altered Conditioned Fear Memory Retrieval Following Electromagnetic Field Exposure in Mice.

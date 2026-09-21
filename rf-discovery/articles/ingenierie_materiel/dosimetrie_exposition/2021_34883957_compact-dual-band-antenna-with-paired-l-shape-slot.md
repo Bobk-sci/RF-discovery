@@ -43,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Compact Dual-Band Antenna with Paired L-Shape Slots for On- and Off-Body Wireless Communication.

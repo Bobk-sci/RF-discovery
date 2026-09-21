@@ -58,6 +58,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Post-Caesarean Section Surgical Site Infection Surveillance Using an Online Database and Mobile Phone Technology.

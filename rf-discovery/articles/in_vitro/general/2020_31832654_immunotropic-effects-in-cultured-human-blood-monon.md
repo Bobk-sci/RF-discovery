@@ -47,6 +47,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2020
 ---
 
 # Immunotropic effects in cultured human blood mononuclear cells exposed to a 900 MHz pulse-modulated microwave field.

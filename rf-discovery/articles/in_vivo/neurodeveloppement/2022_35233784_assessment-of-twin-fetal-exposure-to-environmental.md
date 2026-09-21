@@ -49,6 +49,12 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/ingenierie_materiel
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Assessment of Twin Fetal Exposure to Environmental Magnetic and Electromagnetic Fields.

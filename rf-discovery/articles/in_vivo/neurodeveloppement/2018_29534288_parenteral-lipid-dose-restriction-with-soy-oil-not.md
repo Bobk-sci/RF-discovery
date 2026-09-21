@@ -65,6 +65,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - neonatal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Parenteral Lipid Dose Restriction With Soy Oil, Not Fish Oil, Preserves Retinal Function in Neonatal Piglets.

@@ -64,6 +64,14 @@ theme_indices:
 - testis
 - ovary
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # The effects of radiofrequency electromagnetic field exposure on biomarkers of oxidative stress in vivo and in vitro: A systematic review of experimental studies.

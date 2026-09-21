@@ -53,6 +53,14 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Activating Transcription Factor 4 regulation of radiofrequency radiation-induced ferroptosis in osteoblasts.

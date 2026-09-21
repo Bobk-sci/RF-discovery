@@ -50,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/revue
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Review of the evidence on the influence of Wi-Fi 2.4 GHz radiation on oxidative stress and its possible relationship with Alzheimer's disease.

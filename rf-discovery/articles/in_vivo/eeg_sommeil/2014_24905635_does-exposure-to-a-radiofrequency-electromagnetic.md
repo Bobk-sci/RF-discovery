@@ -50,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - sleep
 - slow wave
+tags:
+- rf
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Does exposure to a radiofrequency electromagnetic field modify thermal preference in juvenile rats?

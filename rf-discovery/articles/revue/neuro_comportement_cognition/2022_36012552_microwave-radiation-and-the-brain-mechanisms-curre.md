@@ -51,6 +51,14 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Microwave Radiation and the Brain: Mechanisms, Current Status, and Future Prospects.

@@ -103,6 +103,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2017
 ---
 
 # Work productivity in rhinitis using cell phones: The MASK pilot study.

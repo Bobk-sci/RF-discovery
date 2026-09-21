@@ -50,6 +50,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/revue
+- theme/cancer
+- annee/2020
 ---
 
 # Printed Electrodes in Microfluidic Arrays for Cancer Biomarker Protein Detection.

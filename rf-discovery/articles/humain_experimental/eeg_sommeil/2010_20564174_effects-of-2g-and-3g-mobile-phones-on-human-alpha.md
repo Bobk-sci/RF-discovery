@@ -53,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2010
 ---
 
 # Effects of 2G and 3G mobile phones on human alpha rhythms: Resting EEG in adolescents, young adults, and the elderly.

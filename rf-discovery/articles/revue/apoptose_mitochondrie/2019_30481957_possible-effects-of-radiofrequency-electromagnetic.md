@@ -42,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/revue
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2019
 ---
 
 # Possible Effects of Radiofrequency Electromagnetic Field Exposure on Central Nerve System.

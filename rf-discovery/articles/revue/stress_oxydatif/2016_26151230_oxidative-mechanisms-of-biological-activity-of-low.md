@@ -54,6 +54,13 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2016
 ---
 
 # Oxidative mechanisms of biological activity of low-intensity radiofrequency radiation.

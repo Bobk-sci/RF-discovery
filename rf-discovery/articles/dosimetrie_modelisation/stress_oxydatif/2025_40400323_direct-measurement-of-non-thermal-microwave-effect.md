@@ -43,6 +43,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - redox
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2025
 ---
 
 # Direct measurement of non-thermal microwave effects on bacterial growth and redox dynamics using a novel high-throughput waveguide applicator.

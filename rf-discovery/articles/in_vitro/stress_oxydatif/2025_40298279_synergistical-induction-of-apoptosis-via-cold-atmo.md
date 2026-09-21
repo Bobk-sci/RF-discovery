@@ -65,6 +65,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/calcium_canaux_ioniques
+- annee/2025
 ---
 
 # Synergistical Induction of Apoptosis via Cold Atmospheric Plasma and Nanohydroxyapatite for Selective Inhibition of Oral Squamous Cell Carcinoma in Tumour Microenvironment.

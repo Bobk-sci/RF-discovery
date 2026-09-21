@@ -66,6 +66,12 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Specific smartphone usage and cognitive performance affect gait characteristics during free-living and treadmill walking.

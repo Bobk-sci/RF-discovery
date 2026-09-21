@@ -54,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2001
 ---
 
 # Effects of mobile phone radiation on X-ray-induced tumorigenesis in mice.

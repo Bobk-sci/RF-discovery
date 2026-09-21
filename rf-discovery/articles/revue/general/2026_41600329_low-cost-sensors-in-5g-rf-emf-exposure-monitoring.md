@@ -36,6 +36,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Low-Cost Sensors in 5G RF-EMF Exposure Monitoring: Validity and Challenges.

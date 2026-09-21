@@ -48,6 +48,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- annee/2006
 ---
 
 # Microwave exposure of neuronal cells in vitro: Study of apoptosis.

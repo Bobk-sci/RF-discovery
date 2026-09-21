@@ -51,6 +51,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Electromagnetic waves destabilize the SARS-CoV-2 Spike protein and reduce SARS-CoV-2 Virus-Like particle (SC2-VLP) infectivity.

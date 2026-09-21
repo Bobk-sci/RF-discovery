@@ -54,6 +54,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/in_vivo
+- theme/eeg_sommeil
+- annee/2012
 ---
 
 # Effects of electromagnetic radiation from 3G mobile phone on heart rate, blood pressure and ECG parameters in rats.

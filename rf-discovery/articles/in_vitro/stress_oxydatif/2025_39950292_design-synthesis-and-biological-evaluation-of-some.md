@@ -59,6 +59,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2025
 ---
 
 # Design, Synthesis, and Biological Evaluation of Some Novel o-aminophenol Derivatives.

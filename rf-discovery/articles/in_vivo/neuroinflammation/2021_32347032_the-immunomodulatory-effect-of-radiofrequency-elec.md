@@ -42,6 +42,14 @@ theme_secondaires:
 - cancer
 theme_indices:
 - cytokine
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/cancer
+- annee/2021
 ---
 
 # The Immunomodulatory Effect of Radiofrequency Electromagnetic Field on Serum Cytokine Levels in A Mouse Model of Hindlimb Unloading.

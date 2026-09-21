@@ -54,6 +54,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Personal Exposure to Radio Frequency Electromagnetic Fields among Australian Adults.

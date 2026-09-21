@@ -62,6 +62,12 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - glutamate
+tags:
+- rf
+- modele/in_vivo
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Early-life exposure to 27.5 GHz 5G millimeter-wave radiation induces skin-related biological responses in mice.

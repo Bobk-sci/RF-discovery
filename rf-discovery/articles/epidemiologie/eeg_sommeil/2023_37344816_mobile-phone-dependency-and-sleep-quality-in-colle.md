@@ -46,6 +46,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Mobile phone dependency and sleep quality in college students during COVID-19 outbreak: the mediating role of bedtime procrastination and fear of missing out.

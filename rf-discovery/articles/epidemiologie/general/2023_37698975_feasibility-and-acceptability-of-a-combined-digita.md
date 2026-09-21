@@ -50,6 +50,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2023
 ---
 
 # Feasibility and Acceptability of a Combined Digital Platform and Community Health Worker Intervention for Patients With Heart Failure: Single-Arm Pilot Study.

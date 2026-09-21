@@ -36,6 +36,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # 1.7 GHz long-term evolution radiofrequency electromagnetic field with efficient thermal control has no effect on the proliferation of different human cell types

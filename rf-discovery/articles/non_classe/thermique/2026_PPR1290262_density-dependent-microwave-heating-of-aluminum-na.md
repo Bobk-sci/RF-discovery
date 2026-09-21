@@ -29,6 +29,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Density-Dependent Microwave Heating of Aluminum Nanoparticle Compacts: Experimental Thermography, HFSS Simulation, and Effective-Medium Modeling

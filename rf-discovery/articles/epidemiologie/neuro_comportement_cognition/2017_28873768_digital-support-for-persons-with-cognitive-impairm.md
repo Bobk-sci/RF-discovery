@@ -44,6 +44,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Digital Support for Persons with Cognitive Impairment.

@@ -35,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- annee/1998
 ---
 
 # Headaches from cellular telephones: are they real and what are the implications?

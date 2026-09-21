@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2025
 ---
 
 # Presbyopia Correction in Lens Replacement Surgery: A Review.

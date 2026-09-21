@@ -51,6 +51,11 @@ theme_secondaires: []
 theme_indices:
 - tumour
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2022
 ---
 
 # Time trends in mobile phone use and glioma incidence among males in the Nordic Countries, 1979-2016.

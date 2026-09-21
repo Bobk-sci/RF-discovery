@@ -46,6 +46,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Modeling of a tissue expander with a radiofrequency identification port in postmastectomy radiation therapy planning.

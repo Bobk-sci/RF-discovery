@@ -51,6 +51,11 @@ theme_indices:
 - Bcl-2
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Effects of radiofrequency radiation on apoptotic and antiapoptotic factors in colorectal cancer cells.

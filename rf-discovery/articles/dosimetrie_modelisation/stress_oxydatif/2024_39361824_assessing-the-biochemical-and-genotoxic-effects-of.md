@@ -43,6 +43,14 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - catalase
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Assessing the biochemical and genotoxic effects of low intensity 2.45GHz microwave exposure on <i>Arabidopsis thaliana</i> plants.

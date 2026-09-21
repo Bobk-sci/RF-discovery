@@ -38,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - genotoxicity
 - micronucleus
+tags:
+- rf
+- modele/epidemiologie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2023
 ---
 
 # A Comparative Evaluation of the Genotoxic Effects of Mobile Phone Radiation Using Buccal Micronucleus Assay.

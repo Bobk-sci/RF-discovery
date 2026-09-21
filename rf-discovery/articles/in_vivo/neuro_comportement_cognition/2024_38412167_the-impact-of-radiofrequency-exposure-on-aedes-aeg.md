@@ -42,6 +42,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2024
 ---
 
 # The impact of radiofrequency exposure on Aedes aegypti (Diptera: Culicidae) development.

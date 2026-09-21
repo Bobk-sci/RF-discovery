@@ -52,6 +52,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Mobile phone use, sleep disorders and obesity in a social exclusion zone.

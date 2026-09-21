@@ -62,6 +62,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Assessing the potential of carbon fibre reinforced polymer shielding in protecting male reproductive health from mobile phone radiation.

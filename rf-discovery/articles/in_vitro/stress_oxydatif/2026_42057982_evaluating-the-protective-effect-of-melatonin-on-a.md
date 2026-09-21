@@ -45,6 +45,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Evaluating the Protective Effect of Melatonin on Apoptosis, Expression of Bax and Bcl2 Genes, and ROS Level after Radiofrequency Radiation on L929 Fibroblast Cell Line.

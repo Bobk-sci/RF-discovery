@@ -45,6 +45,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- annee/2026
 ---
 
 # Quaternary ammonium compound-based ionic liquid with microwave responsiveness for treating deep tissue infections without compromising biocompatibility.

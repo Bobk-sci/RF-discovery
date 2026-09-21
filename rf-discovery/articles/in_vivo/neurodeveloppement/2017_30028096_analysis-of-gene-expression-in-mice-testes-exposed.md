@@ -53,6 +53,15 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2017
 ---
 
 # Analysis of Gene Expression in Mice Testes Exposed to 1.765 GHz Microwave in Utero.

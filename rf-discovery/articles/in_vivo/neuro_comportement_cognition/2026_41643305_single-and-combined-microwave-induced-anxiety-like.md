@@ -63,6 +63,14 @@ theme_indices:
 - cognitive
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/barriere_hemato_encephalique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Single and combined microwave induced anxiety-like behavior via NLRP3 dependent neuronal pyroptosis in hippocampus and amygdala in mice.

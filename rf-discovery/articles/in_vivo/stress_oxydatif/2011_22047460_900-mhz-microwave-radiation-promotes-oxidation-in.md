@@ -58,6 +58,15 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- annee/2011
 ---
 
 # 900-MHz microwave radiation promotes oxidation in rat brain.

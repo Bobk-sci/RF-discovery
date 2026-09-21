@@ -47,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Mobile Phone Applications for Gestational Diabetes Mellitus: Appraisal and Perspectives.

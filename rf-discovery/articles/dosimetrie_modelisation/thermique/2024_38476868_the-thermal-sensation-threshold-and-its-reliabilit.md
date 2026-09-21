@@ -44,6 +44,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - thermal effect
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # The thermal sensation threshold and its reliability induced by the exposure to 28 GHz millimeter-wave.

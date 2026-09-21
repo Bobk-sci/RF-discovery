@@ -48,6 +48,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - measurement campaign
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # RF-EMF exposure in the transition to 5G: A multi-dimensional measurement campaign in the Peloponnese Region of Greece.

@@ -46,6 +46,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Miniaturized EBG Antenna for Efficient 5.8 GHz RF Energy Harvesting in Self-Powered IoT and Medical Sensors.

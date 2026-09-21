@@ -54,6 +54,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # A Ten-Country Study on Public Perceptions of 5G EMF Emissions: Who Feels Exposed, and Why?

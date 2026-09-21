@@ -57,6 +57,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/neurodeveloppement
+- annee/1997
 ---
 
 # Interactions of radiofrequency radiation-induced hyperthermia and 2-methoxyethanol teratogenicity in rats.

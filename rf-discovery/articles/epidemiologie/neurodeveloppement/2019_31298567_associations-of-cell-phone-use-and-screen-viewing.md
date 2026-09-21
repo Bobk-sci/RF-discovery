@@ -69,6 +69,13 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # Associations of Cell Phone Use and Screen Viewing with Overweight in Children.

@@ -43,6 +43,11 @@ theme_indices:
 - learning
 - attention
 - reaction time
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Having a phone conversation delays but does not disrupt cognitive mechanisms.

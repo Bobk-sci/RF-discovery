@@ -50,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of High Temperature and High Humidity on the Degree of Ocular Damage Caused by 60 GHz Millimeter Wave Exposure.

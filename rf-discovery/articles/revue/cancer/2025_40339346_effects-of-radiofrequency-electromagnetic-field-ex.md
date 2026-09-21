@@ -61,6 +61,15 @@ theme_indices:
 - tumor
 - glioma
 - IARC
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/neuroinflammation
+- theme/reproduction
+- annee/2025
 ---
 
 # Effects of radiofrequency electromagnetic field exposure on cancer in laboratory animal studies, a systematic review.

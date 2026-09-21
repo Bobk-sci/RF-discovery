@@ -62,6 +62,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2015
 ---
 
 # Urinary metabonomics elucidate the therapeutic mechanism of Orthosiphon stamineus in mouse crystal-induced kidney injury.

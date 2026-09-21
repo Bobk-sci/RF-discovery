@@ -65,6 +65,13 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - mitochondrial
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # L arginine and radiofrequency electromagnetic field attenuate inflammatory and apoptotic injury after experimental subarachnoid hemorrhage.

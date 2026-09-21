@@ -46,6 +46,16 @@ theme_secondaires:
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/cancer
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2025
 ---
 
 # Development and Testing of a Novel Whole-body Exposure System for Investigative Studies of Radiofrequency Radiation in Rodents

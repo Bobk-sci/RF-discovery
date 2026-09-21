@@ -60,6 +60,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Intercomparisons of computed epithelial/absorbed power density and temperature rise in anatomical human face models under localized exposures at 10 GHz and 30 GHz.

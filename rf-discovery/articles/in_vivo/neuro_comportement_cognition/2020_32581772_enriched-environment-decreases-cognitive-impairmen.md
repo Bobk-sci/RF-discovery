@@ -46,6 +46,13 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/plasticite_synaptique
+- annee/2020
 ---
 
 # Enriched Environment Decreases Cognitive Impairment in Elderly Rats With Prenatal Mobile Phone Exposure.

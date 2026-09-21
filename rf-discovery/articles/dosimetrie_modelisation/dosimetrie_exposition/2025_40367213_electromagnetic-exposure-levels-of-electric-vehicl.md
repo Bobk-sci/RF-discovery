@@ -42,6 +42,12 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2025
 ---
 
 # Electromagnetic exposure levels of electric vehicle drive motors to cochlear implanted passenger.

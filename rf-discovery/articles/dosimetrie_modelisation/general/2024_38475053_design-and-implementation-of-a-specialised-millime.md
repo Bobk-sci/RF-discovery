@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Design and Implementation of a Specialised Millimetre-Wave Exposure System for Investigating the Radiation Effects of 5G and Future Technologies.

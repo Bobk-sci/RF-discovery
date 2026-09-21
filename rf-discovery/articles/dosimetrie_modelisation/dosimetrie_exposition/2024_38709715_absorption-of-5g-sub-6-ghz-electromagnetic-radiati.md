@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/reproduction
+- annee/2024
 ---
 
 # Absorption of 5G sub-6 GHz electromagnetic radiation from base station to male reproduction system.

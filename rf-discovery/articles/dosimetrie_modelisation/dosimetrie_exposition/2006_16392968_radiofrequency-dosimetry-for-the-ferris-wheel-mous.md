@@ -54,6 +54,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2006
 ---
 
 # Radiofrequency dosimetry for the Ferris-wheel mouse exposure system.

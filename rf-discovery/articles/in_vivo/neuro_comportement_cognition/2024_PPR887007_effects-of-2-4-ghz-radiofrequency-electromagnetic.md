@@ -39,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Effects of 2.4 GHz radiofrequency electromagnetic field exposure on hippocampal proteins in APP/PS1 mice

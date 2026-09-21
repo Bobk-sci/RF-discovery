@@ -47,6 +47,11 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Assessment of Human Exposure Levels Due to Mobile Phone Antennas in 5G Networks.

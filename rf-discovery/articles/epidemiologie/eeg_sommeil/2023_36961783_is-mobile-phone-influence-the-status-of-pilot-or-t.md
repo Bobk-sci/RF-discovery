@@ -33,6 +33,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Is mobile phone influence the status of pilot or the flight safety?

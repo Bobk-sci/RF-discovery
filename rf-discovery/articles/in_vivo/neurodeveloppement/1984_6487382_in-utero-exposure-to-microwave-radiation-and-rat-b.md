@@ -47,6 +47,13 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/1984
 ---
 
 # In utero exposure to microwave radiation and rat brain development.

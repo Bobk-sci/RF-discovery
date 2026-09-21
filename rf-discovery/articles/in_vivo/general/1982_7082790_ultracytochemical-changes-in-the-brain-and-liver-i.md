@@ -40,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/1982
 ---
 
 # [Ultracytochemical changes in the brain and liver in exposure to low-intensity nonionizing microwave radiation].

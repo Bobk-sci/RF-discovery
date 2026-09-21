@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - depression
 - behavior
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Absolute and relative preferences for mobile phone internet content, mobile phone dependence, and depressive symptoms: a study of Chinese university students in the post-pandemic era.

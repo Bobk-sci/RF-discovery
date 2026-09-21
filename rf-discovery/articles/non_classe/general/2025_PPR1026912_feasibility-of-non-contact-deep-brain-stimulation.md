@@ -27,6 +27,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Feasibility of Non-Contact Deep Brain Stimulation Through Temporal Interference Waves: Neural Activity

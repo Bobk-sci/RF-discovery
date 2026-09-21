@@ -46,6 +46,13 @@ theme_secondaires:
 - cancer
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- annee/2023
 ---
 
 # Design of Ultra-Wideband Phased Array Applicator for Breast Cancer Hyperthermia Therapy.

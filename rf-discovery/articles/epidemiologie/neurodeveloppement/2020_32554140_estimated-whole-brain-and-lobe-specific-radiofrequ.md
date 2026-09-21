@@ -70,6 +70,11 @@ theme_secondaires: []
 theme_indices:
 - brain development
 - child
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Estimated whole-brain and lobe-specific radiofrequency electromagnetic fields doses and brain volumes in preadolescents.

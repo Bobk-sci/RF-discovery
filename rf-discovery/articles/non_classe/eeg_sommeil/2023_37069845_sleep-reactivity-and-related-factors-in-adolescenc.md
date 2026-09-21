@@ -36,6 +36,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Sleep Reactivity and Related Factors in Adolescence: An Increased Risk for Insomnia? A Longitudinal Assessment.

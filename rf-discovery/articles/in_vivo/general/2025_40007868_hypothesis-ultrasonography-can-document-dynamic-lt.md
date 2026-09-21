@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Hypothesis: ultrasonography can document dynamic &lt;i&gt;in vivo&lt;/i&gt; rouleaux formation due to mobile phone exposure.

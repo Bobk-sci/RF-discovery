@@ -51,6 +51,11 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2011
 ---
 
 # Effects of a 900-MHz electromagnetic field on oxidative stress parameters in rat lymphoid organs, polymorphonuclear leukocytes and plasma.

@@ -39,6 +39,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Measurement of Ambient Millimeter Wave Exposure Levels around Small Base Stations.

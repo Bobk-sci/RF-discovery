@@ -34,6 +34,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # A Frequency Reconfigurable Folded Antenna for Cognitive Radio Communication.

@@ -57,6 +57,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2006
 ---
 
 # Mobile phone use and risk of parotid gland tumor.

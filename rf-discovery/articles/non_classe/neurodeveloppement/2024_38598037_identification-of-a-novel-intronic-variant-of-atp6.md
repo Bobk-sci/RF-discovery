@@ -50,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Identification of a novel intronic variant of ATP6V0A2 in a Han-Chinese family with cutis laxa.

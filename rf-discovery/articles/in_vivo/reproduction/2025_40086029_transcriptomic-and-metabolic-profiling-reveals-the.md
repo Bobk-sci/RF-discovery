@@ -62,6 +62,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Transcriptomic and metabolic profiling reveals the effects of long-term microwave exposure on testicular tissue.

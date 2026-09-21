@@ -41,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Spatial and Temporal Mapping of RF Exposure in an Urban Core Using Exposimeter and GIS.

@@ -55,6 +55,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # The neuroprotective role of coenzyme Q10 against endoplasmic reticulum stress in the olfactory bulb caused by 5 G electromagnetic field exposure.

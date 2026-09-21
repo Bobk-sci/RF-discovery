@@ -33,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2022
 ---
 
 # Electromagnetic field controlled domain wall displacement for induced strain tailoring in BaTiO<sub>3</sub>-epoxy nanocomposite.

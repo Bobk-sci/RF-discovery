@@ -44,6 +44,13 @@ theme_indices:
 - learning
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Rats exposed to 2.45GHz of non-ionizing radiation exhibit behavioral changes with increased brain expression of apoptotic caspase 3.

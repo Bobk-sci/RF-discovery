@@ -55,6 +55,14 @@ theme_indices:
 - testis
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/eeg_sommeil
+- theme/cancer
+- annee/2025
 ---
 
 # Response of Male Reproductive System against Ionizing Radiation and Available Radio-protective Agents: Cellular and Molecular Insight.

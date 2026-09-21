@@ -48,6 +48,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Mobile phone types and SAR characteristics of the human brain.

@@ -59,6 +59,14 @@ theme_indices:
 - apoptosis
 - caspase
 - Bcl-2
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # [Microwave Hyperthermia Combined with Gemcitabine Inhibits Proliferation  and Induces Apoptosis of Human Lung Squamous Carcinoma Cells].

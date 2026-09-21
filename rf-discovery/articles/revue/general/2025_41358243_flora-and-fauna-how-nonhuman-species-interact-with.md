@@ -48,6 +48,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Flora and fauna: how nonhuman species interact with natural and man-made EMF at ecosystem levels and public policy recommendations.

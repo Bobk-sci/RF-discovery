@@ -59,6 +59,15 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Effects of Acute Exposure to 3500 MHz (5G) Radiofrequency Electromagnetic Radiation on Anxiety-Like Behavior and the Auditory Cortex in Guinea Pigs.

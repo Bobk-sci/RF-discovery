@@ -63,6 +63,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2026
 ---
 
 # Determinants of radiofrequency electromagnetic fields emitted by smartphones in French cellular telephony networks.

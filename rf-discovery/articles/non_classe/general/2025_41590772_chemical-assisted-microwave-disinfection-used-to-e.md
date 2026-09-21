@@ -38,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Chemical-Assisted Microwave Disinfection Used to Eradicate <i>Candida albicans</i> from Acrylic Resin Surfaces.

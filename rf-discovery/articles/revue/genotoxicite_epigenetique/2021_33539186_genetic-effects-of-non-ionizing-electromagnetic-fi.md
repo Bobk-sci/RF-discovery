@@ -45,6 +45,14 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - gene expression
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Genetic effects of non-ionizing electromagnetic fields.

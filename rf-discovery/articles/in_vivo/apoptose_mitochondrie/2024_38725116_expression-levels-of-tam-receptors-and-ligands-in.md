@@ -60,6 +60,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2024
 ---
 
 # Expression levels of tam receptors and ligands in the testes of rats exposed to short and middle-term 2100 MHz radiofrequency radiation.

@@ -31,6 +31,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Impact of Pretreatments on the Reduction of Allyl Isothiocyanate (AITC) Content in Mustard Seeds

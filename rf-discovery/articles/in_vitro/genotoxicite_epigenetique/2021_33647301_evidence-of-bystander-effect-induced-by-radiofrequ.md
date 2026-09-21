@@ -49,6 +49,11 @@ theme_secondaires: []
 theme_indices:
 - DNA damage
 - heat shock protein
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2021
 ---
 
 # Evidence of bystander effect induced by radiofrequency radiation in a human neuroblastoma cell line.

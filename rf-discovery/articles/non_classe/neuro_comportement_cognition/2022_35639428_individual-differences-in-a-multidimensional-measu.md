@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Individual Differences in a Multidimensional Measure of Compulsive Mobile Phone Use.

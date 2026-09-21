@@ -56,6 +56,14 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2024
 ---
 
 # Detrimental effects of electromagnetic radiation emitted from cell phone on embryo morphokinetics and blastocyst viability in mice.

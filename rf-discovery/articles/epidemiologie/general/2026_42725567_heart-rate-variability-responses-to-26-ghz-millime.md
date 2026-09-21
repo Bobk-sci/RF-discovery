@@ -42,6 +42,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Heart rate variability responses to 26 GHz millimeter-wave exposure in healthy young adults.

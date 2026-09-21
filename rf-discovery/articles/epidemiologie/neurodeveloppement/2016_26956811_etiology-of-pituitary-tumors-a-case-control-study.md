@@ -52,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- theme/reproduction
+- annee/2016
 ---
 
 # Etiology of Pituitary Tumors: A Case Control Study.

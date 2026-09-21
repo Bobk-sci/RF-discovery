@@ -51,6 +51,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Symptoms associated with environmental factors are positively related to sensory-processing sensitivity.

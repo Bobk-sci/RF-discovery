@@ -44,6 +44,11 @@ theme_indices:
 - prenatal
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2012
 ---
 
 # Prenatal and Postnatal Cell Phone Exposures and Headaches in Children.

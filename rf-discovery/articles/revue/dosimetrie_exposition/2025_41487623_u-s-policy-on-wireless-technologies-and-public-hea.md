@@ -50,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # U.S. policy on wireless technologies and public health protection: regulatory gaps and proposed reforms.

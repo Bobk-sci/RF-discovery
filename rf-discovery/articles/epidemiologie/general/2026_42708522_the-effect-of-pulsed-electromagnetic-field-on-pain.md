@@ -48,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2026
 ---
 
 # The Effect of Pulsed Electromagnetic Field on Pain and Foot Function Index in Patients With Plantar Fasciitis.

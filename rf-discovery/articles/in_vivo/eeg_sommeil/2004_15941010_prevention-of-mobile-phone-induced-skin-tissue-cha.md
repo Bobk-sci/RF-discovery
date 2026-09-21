@@ -48,6 +48,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/eeg_sommeil
+- annee/2004
 ---
 
 # Prevention of mobile phone induced skin tissue changes by melatonin in rat: an experimental study.

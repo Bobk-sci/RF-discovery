@@ -52,6 +52,13 @@ theme_indices:
 - oxidative stress
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Ashwagandha Diminishes Hippocampal Apoptosis Induced by Microwave Radiation by Acetylcholinesterase Dependent Neuro-Inflammatory Pathway in Male Coturnix coturnix Japonica.

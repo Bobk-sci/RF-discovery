@@ -33,6 +33,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # A Novel Auditory-Cognitive Training App for Delaying or Preventing the Onset of Dementia: Participatory Design With Stakeholders.

@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Mechanism of Microwave Radiation-Induced Learning and Memory Impairment Based on Hippocampal Metabolomics.

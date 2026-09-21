@@ -45,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Effect of mobile phone usage on cognitive functions, sleep pattern, visuospatial ability in Parkinsons patients; a possible correlation with onset of clinical symptoms.

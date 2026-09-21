@@ -53,6 +53,14 @@ theme_indices:
 - EEG
 - sleep
 - slow wave
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2011
 ---
 
 # Sleep after mobile phone exposure in subjects with mobile phone-related symptoms.

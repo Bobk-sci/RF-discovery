@@ -41,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - inflammatory response
+tags:
+- rf
+- modele/in_vivo
+- theme/neuroinflammation
+- annee/2025
 ---
 
 # Effect of Non-Ionizing Radiations on Liver and Kidney Function Tests in an Animal Model.

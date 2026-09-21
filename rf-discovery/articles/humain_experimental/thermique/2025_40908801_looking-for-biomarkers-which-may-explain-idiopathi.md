@@ -54,6 +54,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- modele/in_vitro
+- theme/thermique
+- annee/2025
 ---
 
 # Looking for Biomarkers Which May Explain Idiopathic Environmental Intolerance Attributed to Electromagnetic Fields (IEI-EMF): Does RF-EMF Exposure Influence Salivary Cortisol Response?

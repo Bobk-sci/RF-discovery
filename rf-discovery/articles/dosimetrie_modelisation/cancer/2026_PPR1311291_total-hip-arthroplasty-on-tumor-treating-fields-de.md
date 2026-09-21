@@ -35,6 +35,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Total Hip Arthroplasty on Tumor Treating Fields Delivery for Ovarian Carcinoma: A Finite Element Study

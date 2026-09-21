@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - tumour
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- theme/neurodeveloppement
+- annee/2006
 ---
 
 # Mobile phone use and risk of glioma in adults: case-control study.

@@ -39,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Shark preferences: Only subtle effects of electromagnetic field exposure and substrate type on small-spotted catshark (Scyliorhinus canicula) behaviour.

@@ -43,6 +43,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Cardiac Cell Exposure to Electromagnetic Fields: Focus on Oxdative Stress and Apoptosis.

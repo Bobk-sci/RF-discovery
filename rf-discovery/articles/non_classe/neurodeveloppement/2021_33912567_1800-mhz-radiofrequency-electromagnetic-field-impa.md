@@ -45,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - brain development
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # 1800 MHz Radiofrequency Electromagnetic Field Impairs Neurite Outgrowth Through Inhibiting EPHA5 Signaling.

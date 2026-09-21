@@ -52,6 +52,14 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - non-thermal
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Effect of acute millimeter wave exposure on dopamine metabolism of NGF-treated PC12 cells.

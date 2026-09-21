@@ -34,6 +34,13 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # Magnetic field-induced ER stress reprograms the tumor microenvironment to improve triple-negative breast cancer survival

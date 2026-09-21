@@ -51,6 +51,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2014
 ---
 
 # Endothelial function and germ-line ACE I/D, eNOS and PAI-1 gene profiles in patients with coronary slow flow in the Canakkale population: multiple thrombophilic gene profiles in coronary slow flow.

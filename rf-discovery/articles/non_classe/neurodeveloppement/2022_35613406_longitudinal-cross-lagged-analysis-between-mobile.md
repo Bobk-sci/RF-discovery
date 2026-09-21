@@ -44,6 +44,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Longitudinal Cross-Lagged Analysis Between Mobile Phone Dependence, Friendships, and Depressive Symptoms Among Korean Adolescents.

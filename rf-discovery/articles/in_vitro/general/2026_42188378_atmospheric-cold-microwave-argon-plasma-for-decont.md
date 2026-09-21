@@ -40,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2026
 ---
 
 # Atmospheric Cold Microwave Argon Plasma for Decontamination of Dental Implant Surfaces: An In Vitro Experimental Study.

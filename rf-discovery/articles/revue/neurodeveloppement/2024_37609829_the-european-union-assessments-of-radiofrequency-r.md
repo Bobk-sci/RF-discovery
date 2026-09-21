@@ -43,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # The European Union assessments of radiofrequency radiation health risks - another hard nut to crack (Review).

@@ -38,6 +38,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2025
 ---
 
 # Research on Electromagnetic and Rheological Performance of Microwave-Sensitive Emulsified Asphalt Containing SiC and Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;.

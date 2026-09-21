@@ -71,6 +71,14 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/calcium_canaux_ioniques
+- annee/2013
 ---
 
 # Maternal mobile phone exposure adversely affects the electrophysiological properties of Purkinje neurons in rat offspring.

@@ -41,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2021
 ---
 
 # Microwave Enabled Physically Cross Linked Sodium Alginate and Pectin Film and Their Application in Combination with Modified Chitosan-Curcumin Nanoparticles. A Novel Strategy for 2nd Degree Burns Wound Healing in Animals.

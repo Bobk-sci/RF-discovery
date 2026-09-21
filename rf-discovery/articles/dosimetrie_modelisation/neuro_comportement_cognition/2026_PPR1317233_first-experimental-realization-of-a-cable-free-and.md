@@ -32,6 +32,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - memory
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # First Experimental Realization of a Cable-Free and Battery-Free Spatial Power Grid Infrastructure

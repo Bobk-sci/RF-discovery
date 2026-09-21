@@ -56,6 +56,14 @@ theme_indices:
 - oxidative stress
 - nitric oxide
 - redox
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2026
 ---
 
 # Cellular redox disruption and apoptosis: Differential effects of RFR frequencies on Leydig cells.

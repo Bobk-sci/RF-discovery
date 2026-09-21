@@ -33,6 +33,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Characteristic mode analysis of electromagnetic interference susceptibility in motor driven unmanned drones for enhanced design and performance.

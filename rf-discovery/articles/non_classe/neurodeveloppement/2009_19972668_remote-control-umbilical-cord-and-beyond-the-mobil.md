@@ -43,6 +43,11 @@ theme_secondaires: []
 theme_indices:
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2009
 ---
 
 # Remote control, umbilical cord and beyond: the mobile phone as a transitional object.

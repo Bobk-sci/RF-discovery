@@ -39,6 +39,13 @@ theme_secondaires:
 theme_indices:
 - sperm
 - spermatozoa
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2015
 ---
 
 # In vitro effect of cell phone radiation on motility, DNA fragmentation and clusterin gene expression in human sperm.

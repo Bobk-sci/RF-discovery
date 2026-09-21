@@ -42,6 +42,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/1997
 ---
 
 # Exposure to extremely-low-frequency electromagnetic fields and radiofrequency radiation: cardiovascular effects in humans.

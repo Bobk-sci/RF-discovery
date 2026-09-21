@@ -51,6 +51,11 @@ theme_secondaires: []
 theme_indices:
 - cytokine
 - interleukin
+tags:
+- rf
+- modele/in_vitro
+- theme/neuroinflammation
+- annee/2023
 ---
 
 # Assessment of Inflammation in 3D Reconstructed Human Skin Exposed to Combined Exposure to Ultraviolet and Wi-Fi Radiation.

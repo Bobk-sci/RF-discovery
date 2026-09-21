@@ -65,6 +65,12 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2016
 ---
 
 # Modulatory role of Pterocarpus santalinus against alcohol-induced liver oxidative/nitrosative damage in rats.

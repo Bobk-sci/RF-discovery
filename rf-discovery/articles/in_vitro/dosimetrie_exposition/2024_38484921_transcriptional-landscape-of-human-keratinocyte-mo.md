@@ -51,6 +51,14 @@ theme_indices:
 - power density
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2024
 ---
 
 # Transcriptional landscape of human keratinocyte models exposed to 60-GHz millimeter-waves.

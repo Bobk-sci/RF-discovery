@@ -75,6 +75,14 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - Nrf2
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Microwave exposure induced ferroptosis by inhibiting the Nrf2 pathway and affected reproductive function in male mice.

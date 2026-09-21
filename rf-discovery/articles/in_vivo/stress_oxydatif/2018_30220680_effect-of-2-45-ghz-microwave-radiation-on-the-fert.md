@@ -50,6 +50,15 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Effect of 2.45 GHz microwave radiation on the fertility pattern in male mice.

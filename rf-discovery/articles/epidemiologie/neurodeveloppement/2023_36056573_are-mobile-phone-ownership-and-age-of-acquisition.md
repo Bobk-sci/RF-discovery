@@ -45,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Are mobile phone ownership and age of acquisition associated with child adjustment? A 5-year prospective study among low-income Latinx children.

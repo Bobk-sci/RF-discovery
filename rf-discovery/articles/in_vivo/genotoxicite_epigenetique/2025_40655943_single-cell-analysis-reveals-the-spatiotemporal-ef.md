@@ -44,6 +44,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - transcriptome
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Single-cell analysis reveals the spatiotemporal effects of long-term electromagnetic field exposure on the liver.

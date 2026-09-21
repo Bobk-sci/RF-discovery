@@ -55,6 +55,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- annee/2016
 ---
 
 # GSM-like radiofrequency exposure induces apoptosis via caspase-dependent pathway in infant rabbits.

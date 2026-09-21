@@ -42,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Estimates and measurements of radiofrequency exposures in smart-connected homes.

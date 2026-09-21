@@ -44,6 +44,14 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # A mechanistic understanding of human magnetoreception validates the phenomenon of electromagnetic hypersensitivity (EHS).

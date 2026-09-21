@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/revue
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2024
 ---
 
 # Hollaender award 2023: Adventures in applied genetic toxicology.

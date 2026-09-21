@@ -52,6 +52,13 @@ theme_secondaires: []
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/epidemiologie
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # Mobile phone signal exposure triggers a hormesis-like effect in Atm+/+ and Atm-/- mouse embryonic fibroblasts.

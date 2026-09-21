@@ -49,6 +49,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- annee/2018
 ---
 
 # Chitosan-Carboxymethyl-5-Fluorouracil-Folate Conjugate Particles: Microwave Modulated Uptake by Skin and Melanoma Cells.

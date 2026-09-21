@@ -64,6 +64,12 @@ theme_indices:
 - anxiety
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- annee/2014
 ---
 
 # Effects of mobile phone radiation (900 MHz radiofrequency) on structure and functions of rat brain.

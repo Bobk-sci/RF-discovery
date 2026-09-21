@@ -46,6 +46,15 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - lipid peroxidation
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- theme/eeg_sommeil
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Review on the impact of cell phone radiation effects on green plants.

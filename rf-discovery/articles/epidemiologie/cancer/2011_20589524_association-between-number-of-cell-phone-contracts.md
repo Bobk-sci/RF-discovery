@@ -40,6 +40,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2011
 ---
 
 # Association between number of cell phone contracts and brain tumor incidence in nineteen U.S. States.

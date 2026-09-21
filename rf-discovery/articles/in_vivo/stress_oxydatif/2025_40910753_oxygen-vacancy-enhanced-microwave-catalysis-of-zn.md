@@ -58,6 +58,11 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Oxygen vacancy-enhanced microwave catalysis of Zn-Fe spinel for implant-related infections.

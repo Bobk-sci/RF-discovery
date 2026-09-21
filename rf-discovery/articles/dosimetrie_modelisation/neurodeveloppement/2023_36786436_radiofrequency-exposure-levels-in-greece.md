@@ -45,6 +45,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Radiofrequency Exposure Levels in Greece.

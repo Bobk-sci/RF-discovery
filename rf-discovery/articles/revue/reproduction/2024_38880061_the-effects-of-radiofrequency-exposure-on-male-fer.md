@@ -71,6 +71,14 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # The effects of radiofrequency exposure on male fertility: A systematic review of human observational studies with dose-response meta-analysis.

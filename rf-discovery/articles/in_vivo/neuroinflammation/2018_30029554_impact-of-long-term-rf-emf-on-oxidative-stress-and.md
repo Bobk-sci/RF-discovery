@@ -68,6 +68,15 @@ theme_indices:
 - astrocyte
 - glial
 - GFAP
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Impact of Long-Term RF-EMF on Oxidative Stress and Neuroinflammation in Aging Brains of C57BL/6 Mice.

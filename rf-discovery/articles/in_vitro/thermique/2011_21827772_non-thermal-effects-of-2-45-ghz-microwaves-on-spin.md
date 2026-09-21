@@ -53,6 +53,15 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - non-thermal
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/eeg_sommeil
+- theme/apoptose_mitochondrie
+- annee/2011
 ---
 
 # Non-thermal effects of 2.45 GHz microwaves on spindle assembly, mitotic cells and viability of Chinese hamster V-79 cells.

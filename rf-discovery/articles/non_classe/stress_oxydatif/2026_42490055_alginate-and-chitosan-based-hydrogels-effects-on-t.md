@@ -47,6 +47,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Alginate and Chitosan-Based Hydrogels: Effects on the Stability of Encapsulated Quercetin Under Multiple Stress Conditions.

@@ -38,6 +38,14 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - carcinogenesis
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/epidemiologie
+- theme/cancer
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Radiofrequency Radiation and Cancer: A Review.

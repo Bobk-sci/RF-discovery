@@ -56,6 +56,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - carcinogenic
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/cancer
+- annee/2022
 ---
 
 # Protocol for a systematic review of the in vivo studies on radiofrequency (100 kHz-300 GHz) electromagnetic field exposure and cancer.

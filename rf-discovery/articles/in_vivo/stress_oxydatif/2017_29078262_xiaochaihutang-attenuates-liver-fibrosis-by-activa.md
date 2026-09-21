@@ -56,6 +56,11 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - Nrf2
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Xiaochaihutang attenuates liver fibrosis by activation of Nrf2 pathway in rats.

@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Distribution of sleep components while working remotely.

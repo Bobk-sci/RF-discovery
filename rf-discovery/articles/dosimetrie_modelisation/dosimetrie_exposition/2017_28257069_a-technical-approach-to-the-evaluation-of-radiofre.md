@@ -56,6 +56,12 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # A Technical Approach to the Evaluation of Radiofrequency Radiation Emissions from Mobile Telephony Base Stations.

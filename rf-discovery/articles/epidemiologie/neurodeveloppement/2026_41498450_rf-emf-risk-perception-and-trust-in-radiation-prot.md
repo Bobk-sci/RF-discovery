@@ -56,6 +56,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # RF-EMF Risk Perception and Trust in Radiation Protection Authorities: A Comparative Study on Precautionary Information in Germany and Greece.

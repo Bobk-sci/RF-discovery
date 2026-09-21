@@ -32,6 +32,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2022
 ---
 
 # CoFe2O4 Nanoparticles Grown within Porous Al2O3 and Immobilized on Graphene Nanosheets: A Hierarchical Nanocomposite for Broadband Microwave Absorption.

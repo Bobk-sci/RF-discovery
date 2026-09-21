@@ -30,6 +30,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Low-frequency magnetic flux density levels in various exposure scenarios: a measurement-based study.

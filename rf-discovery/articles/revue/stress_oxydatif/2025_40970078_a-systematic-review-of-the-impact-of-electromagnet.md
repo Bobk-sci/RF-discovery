@@ -50,6 +50,17 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # A Systematic Review of the Impact of Electromagnetic Waves on Living Beings.

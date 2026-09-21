@@ -38,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2021
 ---
 
 # An Exploratory Study of Current Sources of Adolescent Sexual and Reproductive Health Information in Kenya and Their Limitations: Are Mobile Phone Technologies the Answer?

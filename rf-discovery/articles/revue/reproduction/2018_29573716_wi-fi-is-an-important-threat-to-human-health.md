@@ -46,6 +46,14 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Wi-Fi is an important threat to human health.

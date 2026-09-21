@@ -54,6 +54,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Effect of radiofrequency exposure on body temperature: Real-time monitoring in normal rats.

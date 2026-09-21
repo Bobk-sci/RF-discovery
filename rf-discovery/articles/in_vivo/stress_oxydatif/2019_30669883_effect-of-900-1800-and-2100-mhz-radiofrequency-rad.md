@@ -64,6 +64,13 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and oxidative stress in brain.

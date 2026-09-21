@@ -59,6 +59,15 @@ theme_indices:
 - oxidative stress
 - superoxide dismutase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Melatonin attenuates radiofrequency radiation (900 MHz)-induced oxidative stress, DNA damage and cell cycle arrest in germ cells of male Swiss albino mice.

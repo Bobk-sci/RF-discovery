@@ -55,6 +55,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - microRNA
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Long term and excessive use of 900 MHz radiofrequency radiation alter microRNA expression in brain.

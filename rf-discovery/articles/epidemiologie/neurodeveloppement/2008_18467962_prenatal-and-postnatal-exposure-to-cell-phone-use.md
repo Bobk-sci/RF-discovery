@@ -56,6 +56,13 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2008
 ---
 
 # Prenatal and postnatal exposure to cell phone use and behavioral problems in children.

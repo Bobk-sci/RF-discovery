@@ -35,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2022
 ---
 
 # Effects of Radiofrequency Electromagnetic Fields Emitted from Mobile Phones and Wi-Fi Router on the Growth Rate and Susceptibility of <i>Enterococcus faecalis to Antibiotics</i>.

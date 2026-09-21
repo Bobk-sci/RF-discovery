@@ -63,6 +63,13 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # Effect of cell phone-like electromagnetic radiation on primary human thyroid cells.

@@ -39,6 +39,12 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/non_classe
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # The Fundamental Reasons Why Laptop Computers should not be Used on Your Lap.

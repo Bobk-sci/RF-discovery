@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Theta band brainwaves in human resting EEG modulated by mobile phone radiofrequency.

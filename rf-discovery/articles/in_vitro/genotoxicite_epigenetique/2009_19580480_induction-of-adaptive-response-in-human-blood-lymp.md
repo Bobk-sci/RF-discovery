@@ -46,6 +46,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - micronucleus
+tags:
+- rf
+- modele/in_vitro
+- modele/humain_experimental
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Induction of adaptive response in human blood lymphocytes exposed to radiofrequency radiation.

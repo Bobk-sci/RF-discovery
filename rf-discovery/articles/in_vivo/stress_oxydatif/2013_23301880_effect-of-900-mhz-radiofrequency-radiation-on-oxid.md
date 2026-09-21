@@ -57,6 +57,13 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Effect of 900 MHz radiofrequency radiation on oxidative stress in rat brain and serum.

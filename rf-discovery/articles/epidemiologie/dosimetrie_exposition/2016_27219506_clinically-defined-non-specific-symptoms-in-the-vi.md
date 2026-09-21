@@ -62,6 +62,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Clinically defined non-specific symptoms in the vicinity of mobile phone base stations: A retrospective before-after study.

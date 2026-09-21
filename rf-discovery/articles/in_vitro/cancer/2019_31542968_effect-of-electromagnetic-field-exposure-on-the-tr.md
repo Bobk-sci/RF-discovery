@@ -47,6 +47,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Effect of electromagnetic field exposure on the transcription of repetitive DNA elements in human cells.

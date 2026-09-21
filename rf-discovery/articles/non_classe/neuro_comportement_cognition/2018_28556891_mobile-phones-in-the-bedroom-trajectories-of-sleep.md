@@ -47,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - depression
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2018
 ---
 
 # Mobile Phones in the Bedroom: Trajectories of Sleep Habits and Subsequent Adolescent Psychosocial Development.

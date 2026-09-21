@@ -78,6 +78,12 @@ theme_secondaires: []
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Recall of mobile phone usage and laterality in young people: The multinational Mobi-Expo study.

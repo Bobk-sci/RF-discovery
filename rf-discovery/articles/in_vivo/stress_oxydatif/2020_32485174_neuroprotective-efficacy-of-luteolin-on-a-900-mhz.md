@@ -50,6 +50,11 @@ theme_indices:
 - oxidative stress
 - superoxide dismutase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Neuroprotective efficacy of luteolin on a 900-MHz electromagnetic field-induced cerebellar alteration in adult male rat.

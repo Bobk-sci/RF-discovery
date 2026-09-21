@@ -65,6 +65,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2022
 ---
 
 # Estimated all-day and evening whole-brain radiofrequency electromagnetic fields doses, and sleep in preadolescents.

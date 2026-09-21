@@ -60,6 +60,12 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2017
 ---
 
 # The effect of Wi-Fi electromagnetic waves in unimodal and multimodal object recognition tasks in male rats.

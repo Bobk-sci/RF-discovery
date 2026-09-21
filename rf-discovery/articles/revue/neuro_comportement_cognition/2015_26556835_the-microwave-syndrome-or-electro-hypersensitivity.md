@@ -36,6 +36,12 @@ theme_secondaires:
 theme_indices:
 - memory
 - anxiety
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2015
 ---
 
 # The microwave syndrome or electro-hypersensitivity: historical background.

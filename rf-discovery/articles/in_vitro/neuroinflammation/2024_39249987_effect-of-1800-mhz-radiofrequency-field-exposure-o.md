@@ -50,6 +50,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cytokine
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effect of 1800 MHz radiofrequency field exposure on cytokine and signal transduction protein expression in differentiated THP-1 cells.

@@ -49,6 +49,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Who Uses Mobile Phone Health Apps and Does Use Matter? A Secondary Data Analytics Approach.

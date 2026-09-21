@@ -51,6 +51,14 @@ theme_secondaires:
 theme_indices:
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/in_vivo
+- modele/revue
+- theme/cancer
+- theme/reproduction
+- theme/neuroinflammation
+- annee/2019
 ---
 
 # The Contribution of In Vivo Mammalian Studies to the Knowledge of Adverse Effects of Radiofrequency Radiation on Human Health.

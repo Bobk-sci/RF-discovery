@@ -61,6 +61,15 @@ theme_indices:
 - Bcl-2
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Radiofrequency Induced Time-Dependent Alterations in Gene Expression and Apoptosis in Glioblastoma Cell Line.

@@ -40,6 +40,11 @@ theme_indices:
 - in utero
 - neonatal
 - child
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Client Experiences in a Mobile-Phone Counseling Intervention for Enhancing Access to Prevention of Mother To-Child Transmission (PMTCT) Services in Kenya.

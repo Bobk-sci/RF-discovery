@@ -57,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # The Effects of Mobile Phone Radiofrequency Radiation on Cochlear Stria Marginal Cells in Sprague-Dawley Rats.

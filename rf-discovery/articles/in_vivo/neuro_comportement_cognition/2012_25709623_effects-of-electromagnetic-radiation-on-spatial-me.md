@@ -49,6 +49,13 @@ theme_indices:
 - memory
 - learning
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/apoptose_mitochondrie
+- annee/2012
 ---
 
 # Effects of electromagnetic radiation on spatial memory and synapses in rat hippocampal CA1.

@@ -55,6 +55,12 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2001
 ---
 
 # Parental occupational exposures to electromagnetic fields and radiation and the incidence of neuroblastoma in offspring.

@@ -46,6 +46,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Personal exposure to radiofrequency electromagnetic fields: A comparative analysis of international, national, and regional guidelines.

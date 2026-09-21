@@ -53,6 +53,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - memory
+tags:
+- rf
+- modele/in_vitro
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Novel pathogenic variants in CTLA4 and LRBA immune dysregulation: Reduced CTLA-4 expression with normal expression of co-stimulatory surface molecules.

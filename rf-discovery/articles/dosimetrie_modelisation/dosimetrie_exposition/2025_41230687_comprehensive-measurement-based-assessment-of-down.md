@@ -50,6 +50,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Comprehensive Measurement-Based Assessment of Downlink RF-EMF Exposure in Urban Environments: Multi-Method Analysis and Intercomparison.

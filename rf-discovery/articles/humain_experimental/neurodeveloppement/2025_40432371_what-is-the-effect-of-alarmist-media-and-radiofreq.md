@@ -55,6 +55,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # What is the effect of alarmist media and radiofrequency electromagnetic field (RF-EMF) exposure on salivary cortisol and non-specific symptoms?

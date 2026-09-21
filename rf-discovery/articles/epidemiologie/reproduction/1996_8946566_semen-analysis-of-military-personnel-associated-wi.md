@@ -49,6 +49,12 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- annee/1996
 ---
 
 # Semen analysis of military personnel associated with military duty assignments.

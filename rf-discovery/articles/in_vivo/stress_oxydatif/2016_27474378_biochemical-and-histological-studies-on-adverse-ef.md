@@ -59,6 +59,14 @@ theme_indices:
 - superoxide dismutase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Biochemical and histological studies on adverse effects of mobile phone radiation on rat's brain.

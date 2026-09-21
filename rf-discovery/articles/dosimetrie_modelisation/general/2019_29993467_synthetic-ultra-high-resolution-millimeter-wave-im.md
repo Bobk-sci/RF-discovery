@@ -42,6 +42,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/general
+- annee/2019
 ---
 
 # Synthetic Ultra-High-Resolution Millimeter-Wave Imaging for Skin Cancer Detection.

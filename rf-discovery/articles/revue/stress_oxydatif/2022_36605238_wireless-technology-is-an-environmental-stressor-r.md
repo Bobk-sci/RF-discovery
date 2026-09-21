@@ -48,6 +48,13 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Wireless technology is an environmental stressor requiring new understanding and approaches in health care.

@@ -55,6 +55,11 @@ theme_indices:
 - tumor
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2005
 ---
 
 # Long-term mobile phone use and brain tumor risk.

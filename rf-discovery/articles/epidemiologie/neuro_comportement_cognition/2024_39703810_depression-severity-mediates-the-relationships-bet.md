@@ -39,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Depression Severity Mediates the Relationships Between Parenting Styles, Peer-Victimization and Mobile Phone Dependence in Adolescents.

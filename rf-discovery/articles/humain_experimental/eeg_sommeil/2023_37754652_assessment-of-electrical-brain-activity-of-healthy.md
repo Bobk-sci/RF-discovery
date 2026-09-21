@@ -52,6 +52,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to 3.5 GHz of 5G Signals within Environmental Levels: A Controlled-Randomised Study.

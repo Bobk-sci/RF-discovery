@@ -50,6 +50,14 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # The link between radiofrequencies emitted from wireless technologies and oxidative stress.

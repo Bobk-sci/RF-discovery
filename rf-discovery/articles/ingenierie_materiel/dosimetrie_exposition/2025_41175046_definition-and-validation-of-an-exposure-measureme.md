@@ -43,6 +43,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Definition and Validation of an Exposure Measurement Method for a Typical Load of a Base Station.

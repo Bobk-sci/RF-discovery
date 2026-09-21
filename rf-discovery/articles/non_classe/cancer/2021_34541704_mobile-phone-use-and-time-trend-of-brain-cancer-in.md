@@ -49,6 +49,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2021
 ---
 
 # Mobile Phone Use and Time Trend of Brain Cancer Incidence Rate in Korea.

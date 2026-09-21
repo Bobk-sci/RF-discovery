@@ -41,6 +41,12 @@ theme_secondaires: []
 theme_indices:
 - power density
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Multi-Technology Multi-Operator Site Sharing: Compliance Distance Analysis for EMF Exposure.

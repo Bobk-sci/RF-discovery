@@ -42,6 +42,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2024
 ---
 
 # A Breast Tumor Monitoring Vest with Flexible UWB Antennas-A Proof-of-Concept Study Using Realistic Breast Phantoms.

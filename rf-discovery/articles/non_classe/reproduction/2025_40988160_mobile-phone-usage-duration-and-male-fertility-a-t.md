@@ -47,6 +47,11 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+tags:
+- rf
+- modele/non_classe
+- theme/reproduction
+- annee/2025
 ---
 
 # Mobile phone usage duration and male fertility: A two-sample Mendelian randomization analysis.

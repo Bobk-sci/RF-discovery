@@ -38,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/ingenierie_materiel
+- theme/general
+- annee/2022
 ---
 
 # Wireless interfaces for brain neurotechnologies.

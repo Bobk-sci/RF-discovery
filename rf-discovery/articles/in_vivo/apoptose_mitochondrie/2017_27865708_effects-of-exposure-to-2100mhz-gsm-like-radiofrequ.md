@@ -58,6 +58,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2017
 ---
 
 # Effects of exposure to 2100MHz GSM-like radiofrequency electromagnetic field on auditory system of rats.

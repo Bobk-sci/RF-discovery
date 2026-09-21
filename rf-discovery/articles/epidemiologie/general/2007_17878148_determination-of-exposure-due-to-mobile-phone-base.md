@@ -38,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2007
 ---
 
 # Determination of exposure due to mobile phone base stations in an epidemiological study.

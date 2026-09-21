@@ -41,6 +41,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2023
 ---
 
 # A Miniaturized Tri-Band Implantable Antenna for ISM/WMTS/Lower UWB/Wi-Fi Frequencies.

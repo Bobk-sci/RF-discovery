@@ -63,6 +63,12 @@ theme_indices:
 - catalase
 - glutathione
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2004
 ---
 
 # Oxidative stress-mediated skin damage in an experimental mobile phone model can be prevented by melatonin.

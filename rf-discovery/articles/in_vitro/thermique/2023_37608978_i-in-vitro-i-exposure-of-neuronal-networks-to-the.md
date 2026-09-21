@@ -46,6 +46,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2023
 ---
 
 # <i>In vitro</i> exposure of neuronal networks to the 5G-3.5 GHz signal.

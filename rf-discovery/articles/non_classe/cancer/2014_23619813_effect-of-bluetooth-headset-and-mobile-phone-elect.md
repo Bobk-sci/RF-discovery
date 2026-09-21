@@ -48,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - glioma
 - acoustic neuroma
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2014
 ---
 
 # Effect of Bluetooth headset and mobile phone electromagnetic fields on the human auditory nerve.

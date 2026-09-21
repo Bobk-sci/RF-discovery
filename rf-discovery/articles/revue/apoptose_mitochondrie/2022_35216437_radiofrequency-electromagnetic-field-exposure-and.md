@@ -53,6 +53,14 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/revue
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Radiofrequency Electromagnetic Field Exposure and Apoptosis: A Scoping Review of In Vitro Studies on Mammalian Cells.

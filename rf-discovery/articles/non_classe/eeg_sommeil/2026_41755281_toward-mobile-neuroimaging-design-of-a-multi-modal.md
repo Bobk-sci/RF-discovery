@@ -51,6 +51,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Toward Mobile Neuroimaging: Design of a Multi-Modal EEG/fNIRS Instrument for Real-Time Use.

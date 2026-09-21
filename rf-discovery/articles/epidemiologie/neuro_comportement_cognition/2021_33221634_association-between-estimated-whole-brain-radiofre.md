@@ -71,6 +71,12 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # Association between estimated whole-brain radiofrequency electromagnetic fields dose and cognitive function in preadolescents and adolescents.

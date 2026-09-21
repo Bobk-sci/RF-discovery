@@ -50,6 +50,13 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/apoptose_mitochondrie
+- annee/2021
 ---
 
 # The effect of 900 MHz electromagnetic fields on biological pathways induced by electrochemotherapy.

@@ -61,6 +61,12 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/epidemiologie
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Self-reported mobile phone use and semen parameters among men from a fertility clinic.

@@ -68,6 +68,12 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Exposure to mobile phone (900-1800 MHz) during pregnancy: tissue oxidative stress after childbirth.

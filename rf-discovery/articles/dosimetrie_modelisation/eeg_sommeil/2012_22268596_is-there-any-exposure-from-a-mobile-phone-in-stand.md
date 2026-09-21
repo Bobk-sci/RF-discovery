@@ -35,6 +35,12 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/reproduction
+- annee/2012
 ---
 
 # Is there any exposure from a mobile phone in stand-by mode?

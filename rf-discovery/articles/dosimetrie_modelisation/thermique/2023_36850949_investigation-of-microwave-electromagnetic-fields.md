@@ -43,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - thermal effect
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2023
 ---
 
 # Investigation of Microwave Electromagnetic Fields in Open and Shielded Areas and Their Possible Effects on Biological Structure.

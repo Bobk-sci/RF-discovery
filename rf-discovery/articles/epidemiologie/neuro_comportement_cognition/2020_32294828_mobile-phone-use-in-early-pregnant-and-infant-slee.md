@@ -55,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # [Mobile phone use in early pregnant and infant sleep-wake behaviour in 6 months: a cohort study].

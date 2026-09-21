@@ -56,6 +56,13 @@ theme_indices:
 - hyperthermia
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/stress_oxydatif
+- annee/2000
 ---
 
 # Oxidative stress precedes circulatory failure induced by 35-GHz microwave heating.

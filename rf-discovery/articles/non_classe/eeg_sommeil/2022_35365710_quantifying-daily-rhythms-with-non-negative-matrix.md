@@ -39,6 +39,12 @@ theme_secondaires:
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Quantifying daily rhythms with non-negative matrix factorization applied to mobile phone data.

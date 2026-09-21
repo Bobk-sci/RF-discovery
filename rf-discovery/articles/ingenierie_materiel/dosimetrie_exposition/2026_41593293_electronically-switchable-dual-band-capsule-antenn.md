@@ -41,6 +41,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electronically switchable dual-band capsule antenna for wireless endoscopic applications.

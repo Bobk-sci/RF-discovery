@@ -64,6 +64,15 @@ theme_indices:
 - spermatozoa
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2017
 ---
 
 # Radiofrequency radiation (900 MHz)-induced DNA damage and cell cycle arrest in testicular germ cells in swiss albino mice.

@@ -42,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A Compact Dual-Band Millimeter Wave Antenna for Smartwatch and IoT Applications with Link Budget Estimation.

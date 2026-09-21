@@ -63,6 +63,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2019
 ---
 
 # Application of microwave-irradiation technique in deglycosylation of ginsenosides for improving apoptosis induction in human melanoma SK-MEL-2 cells.

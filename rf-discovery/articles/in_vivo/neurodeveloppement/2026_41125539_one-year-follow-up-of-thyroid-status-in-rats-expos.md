@@ -57,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # One-year follow-up of thyroid status in rats exposed to 2.45 Ghz radiofrequency radiation during the prenatal period.

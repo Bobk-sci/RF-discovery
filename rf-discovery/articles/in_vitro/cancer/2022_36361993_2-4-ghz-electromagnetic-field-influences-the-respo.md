@@ -52,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - tumour
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # 2.4 GHz Electromagnetic Field Influences the Response of the Circadian Oscillator in the Colorectal Cancer Cell Line DLD1 to miR-34a-Mediated Regulation.

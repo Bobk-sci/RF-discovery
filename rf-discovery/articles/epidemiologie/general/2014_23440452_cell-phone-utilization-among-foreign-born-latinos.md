@@ -47,6 +47,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2014
 ---
 
 # Cell phone utilization among foreign-born Latinos: a promising tool for dissemination of health and HIV information.

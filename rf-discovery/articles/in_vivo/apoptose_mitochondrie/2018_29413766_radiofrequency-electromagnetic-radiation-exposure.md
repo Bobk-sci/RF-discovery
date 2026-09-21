@@ -56,6 +56,15 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Radiofrequency electromagnetic radiation exposure effects on amygdala morphology, place preference behavior and brain caspase-3 activity in rats.

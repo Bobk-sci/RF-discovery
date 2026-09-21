@@ -52,6 +52,13 @@ theme_indices:
 - sleep
 - melatonin
 - circadian
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2006
 ---
 
 # Does evening exposure to mobile phone radiation affect subsequent melatonin production?

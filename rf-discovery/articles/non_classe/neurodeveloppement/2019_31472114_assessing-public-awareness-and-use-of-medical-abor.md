@@ -50,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2019
 ---
 
 # Assessing public awareness and use of medical abortion via mobile phone survey in India.

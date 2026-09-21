@@ -71,6 +71,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - inflammatory response
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuroinflammation
+- annee/2018
 ---
 
 # Sodium Butyrate Inhibits Inflammation and Maintains Epithelium Barrier Integrity in a TNBS-induced Inflammatory Bowel Disease Mice Model.

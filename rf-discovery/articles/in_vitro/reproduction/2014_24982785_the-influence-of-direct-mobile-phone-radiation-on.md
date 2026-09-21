@@ -36,6 +36,11 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/in_vitro
+- theme/reproduction
+- annee/2014
 ---
 
 # The influence of direct mobile phone radiation on sperm quality.

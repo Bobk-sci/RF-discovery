@@ -53,6 +53,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - glutamate
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Effect of radiofrequency electromagnetic field exposure on in vitro models of neurodegenerative disease.

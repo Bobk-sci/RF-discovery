@@ -48,6 +48,12 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Exposure to a 900 MHz electromagnetic field induces a response of the honey bee organism on the level of enzyme activity and the expression of stress-related genes.

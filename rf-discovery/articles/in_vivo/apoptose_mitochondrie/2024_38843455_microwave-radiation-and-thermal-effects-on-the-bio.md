@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2024
 ---
 
 # Microwave radiation and thermal effects on the bioenergetics of isolated mitochondria.

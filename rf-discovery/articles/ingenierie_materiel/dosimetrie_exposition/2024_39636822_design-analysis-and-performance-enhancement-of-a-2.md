@@ -49,6 +49,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design analysis and performance enhancement of a 2-element MIMO skin-implantable antenna for IoT-based health monitoring devices.

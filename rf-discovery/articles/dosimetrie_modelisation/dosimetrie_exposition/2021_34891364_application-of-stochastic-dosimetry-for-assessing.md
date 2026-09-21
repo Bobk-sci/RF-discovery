@@ -48,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Application of Stochastic Dosimetry for assessing the Human RFEMF Exposure in a 5G indoor Scenario.

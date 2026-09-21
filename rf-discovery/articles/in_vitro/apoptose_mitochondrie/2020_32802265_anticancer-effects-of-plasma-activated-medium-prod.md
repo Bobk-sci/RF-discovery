@@ -45,6 +45,13 @@ theme_indices:
 - apoptosis
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Anticancer Effects of Plasma-Activated Medium Produced by a Microwave-Excited Atmospheric Pressure Argon Plasma Jet.

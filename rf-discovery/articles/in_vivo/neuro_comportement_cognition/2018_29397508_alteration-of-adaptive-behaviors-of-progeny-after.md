@@ -66,6 +66,14 @@ theme_indices:
 - behavior
 - locomotor activity
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/neuroinflammation
+- annee/2018
 ---
 
 # Alteration of adaptive behaviors of progeny after maternal mobile phone exposure.

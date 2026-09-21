@@ -42,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2014
 ---
 
 # Microwave radiation injuries microvasculature through inducing endoplasmic reticulum stress.

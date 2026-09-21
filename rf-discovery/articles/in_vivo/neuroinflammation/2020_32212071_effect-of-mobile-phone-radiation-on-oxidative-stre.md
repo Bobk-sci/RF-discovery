@@ -62,6 +62,15 @@ theme_secondaires:
 theme_indices:
 - TNF-alpha
 - inflammatory response
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effect of mobile phone radiation on oxidative stress, inflammatory response, and contextual fear memory in Wistar rat.

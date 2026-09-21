@@ -51,6 +51,15 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/epidemiologie
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Effects of mobile phone exposure on metabolomics in the male and female reproductive systems.

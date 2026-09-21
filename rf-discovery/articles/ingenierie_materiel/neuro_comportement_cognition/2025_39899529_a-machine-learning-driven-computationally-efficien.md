@@ -46,6 +46,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - learning
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A machine learning driven computationally efficient horse shoe shaped antenna design for internet of medical things.

@@ -56,6 +56,11 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - catalase
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Effect of low-level 1800 MHz radiofrequency radiation on the rat sciatic nerve and the protective role of paricalcitol.

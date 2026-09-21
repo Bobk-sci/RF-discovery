@@ -107,6 +107,12 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2022
 ---
 
 # Wireless phone use in childhood and adolescence and neuroepithelial brain tumours: Results from the international MOBI-Kids study.

@@ -49,6 +49,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2017
 ---
 
 # Mobile phone use and glioma risk: A systematic review and meta-analysis.

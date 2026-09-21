@@ -49,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2010
 ---
 
 # Effects of everyday radiofrequency electromagnetic-field exposure on sleep quality: a cross-sectional study.

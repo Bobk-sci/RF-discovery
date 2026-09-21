@@ -46,6 +46,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Electromagnetic field exposure monitoring of commercial 28-GHz band 5G base stations in Tokyo, Japan.

@@ -51,6 +51,15 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - leukemia
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Immunomodulatory role of non-ionizing electromagnetic radiation in human leukemia monocytic cell line.

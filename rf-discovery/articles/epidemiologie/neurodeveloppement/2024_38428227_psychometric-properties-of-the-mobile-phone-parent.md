@@ -43,6 +43,11 @@ theme_secondaires: []
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Psychometric properties of the Mobile Phone Parenting Practices Questionnaire (MPPPQ) for Chinese separated families with young children.

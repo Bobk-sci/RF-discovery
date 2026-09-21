@@ -48,6 +48,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/revue
+- theme/general
+- annee/2024
 ---
 
 # Lens Fragmentation with Picosecond Laser Pulses After Artificial Cataract Induction with Microwaves.

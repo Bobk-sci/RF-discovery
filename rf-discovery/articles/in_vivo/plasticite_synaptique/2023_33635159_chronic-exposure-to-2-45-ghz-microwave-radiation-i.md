@@ -60,6 +60,14 @@ theme_indices:
 - LTP
 - neurotransmitter
 - GABA
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Chronic exposure to 2.45 GHz microwave radiation improves cognition and synaptic plasticity impairment in vascular dementia model.

@@ -57,6 +57,12 @@ theme_indices:
 - glutathione
 - antioxidant
 - redox
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Protective effects of quercetin against 3.5 GHz RF radiation-induced thyroid dysfunction and oxidative stress in rats.

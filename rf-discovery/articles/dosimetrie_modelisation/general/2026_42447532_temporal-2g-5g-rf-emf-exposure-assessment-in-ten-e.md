@@ -60,6 +60,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Temporal 2G-5G RF-EMF exposure assessment in ten European countries during one year.

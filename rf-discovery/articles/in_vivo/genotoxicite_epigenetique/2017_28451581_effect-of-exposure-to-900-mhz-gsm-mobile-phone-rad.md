@@ -40,6 +40,12 @@ theme_secondaires:
 theme_indices:
 - DNA methylation
 - epigenetic
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2017
 ---
 
 # Effect of Exposure to 900 MHz GSM Mobile Phone Radiofrequency Radiation on Estrogen Receptor Methylation Status in Colon Cells of Male Sprague Dawley Rats.

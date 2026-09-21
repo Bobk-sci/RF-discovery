@@ -36,6 +36,12 @@ theme_secondaires: []
 theme_indices:
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2014
 ---
 
 # Mobile phones, non-ionizing radiofrequency fields and brain cancer: is there an adaptive response?

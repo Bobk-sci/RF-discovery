@@ -48,6 +48,11 @@ theme_indices:
 - carcinogenic
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2023
 ---
 
 # Effects of generalization descriptions on risk perception.

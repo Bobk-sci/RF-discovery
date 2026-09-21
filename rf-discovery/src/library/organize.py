@@ -82,6 +82,7 @@ def _front_matter(paper: Paper, assignments: dict[str, Assignment],
         "volume": str(paper.extra.get("volume") or ""),
         "pages": str(paper.extra.get("pages") or ""),
     }
+    tags = ["rf"]
     for axis in axes:
         a = assignments.get(axis)
         if a is None:
@@ -90,6 +91,12 @@ def _front_matter(paper: Paper, assignments: dict[str, Assignment],
         meta[f"{axis}_score"] = a.score
         meta[f"{axis}_secondaires"] = a.secondaires
         meta[f"{axis}_indices"] = a.matched
+        tags += [f"{axis}/{a.category}"] + [f"{axis}/{s}" for s in a.secondaires]
+    if paper.year:
+        tags.append(f"annee/{paper.year}")
+    # `tags` est le champ que lit Obsidian : le classement devient navigable dans le
+    # panneau des étiquettes, sans plugin et sans dupliquer les fichiers.
+    meta["tags"] = tags
     return meta
 
 
@@ -126,6 +133,18 @@ def read_front_matter(path: str | Path) -> dict[str, Any]:
 
 
 _BODY_MARK = "## Résumé (texte d'origine)"
+
+
+def iter_fiches(root: str | Path):
+    """Fiches d'articles, dans un ordre stable.
+
+    Les dossiers commençant par ``_`` (cartes de lecture pour Obsidian) et le README sont
+    ignorés : ce sont des notes de navigation, pas des articles.
+    """
+    for path in sorted(Path(root).rglob("*.md")):
+        if path.name == README_NAME or any(p.startswith("_") for p in path.parts):
+            continue
+        yield path
 
 
 def read_article(path: str | Path) -> Paper:
@@ -169,9 +188,7 @@ def scan_library(root: str | Path) -> list[dict[str, Any]]:
     """Inventorie toutes les fiches présentes sur le disque (run incrémental inclus)."""
     root = Path(root)
     records = []
-    for path in sorted(root.rglob("*.md")):
-        if path.name == README_NAME:
-            continue
+    for path in iter_fiches(root):
         meta = read_front_matter(path)
         if not meta:
             continue

@@ -45,6 +45,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Exposure to non-ionizing electromagnetic fields emitted from mobile phones induced DNA damage in human ear canal hair follicle cells.

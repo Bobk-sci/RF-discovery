@@ -77,6 +77,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2015
 ---
 
 # Feasibility of a large cohort study in sub-Saharan Africa assessed through a four-country study.

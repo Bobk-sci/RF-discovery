@@ -47,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # The Effect of Prenatal Exposure to 2.4 GHz Radio Frequency on the Histology and Expression of the osteocalcin and RUNX2 Gene of the Forelimb in an NMRI Mouse.

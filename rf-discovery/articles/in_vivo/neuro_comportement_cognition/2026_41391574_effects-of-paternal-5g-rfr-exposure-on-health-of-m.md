@@ -67,6 +67,13 @@ theme_indices:
 - behavior
 - attention
 - neurobehavioral
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Effects of paternal 5G RFR exposure on health of male offspring mice.

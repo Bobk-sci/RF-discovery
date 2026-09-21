@@ -60,6 +60,15 @@ theme_indices:
 - sperm
 - testis
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Paternal Radiofrequency Electromagnetic Radiation Exposure Causes Sex-Specific Differences in Body Weight Trajectory and Glucose Metabolism in Offspring Mice.

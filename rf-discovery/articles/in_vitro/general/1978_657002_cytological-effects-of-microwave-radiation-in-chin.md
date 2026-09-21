@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/1978
 ---
 
 # Cytological effects of microwave radiation in Chinese hamster cells in vitro.

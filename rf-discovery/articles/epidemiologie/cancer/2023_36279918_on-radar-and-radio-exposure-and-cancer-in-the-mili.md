@@ -48,6 +48,13 @@ theme_secondaires:
 theme_indices:
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # On radar and radio exposure and cancer in the military setting.

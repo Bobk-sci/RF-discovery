@@ -41,6 +41,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2026
 ---
 
 # Arresting spirochetes: nonthermal extremely low-frequency electromagnetic field exposure suppresses &lt;i&gt;Borrelia burgdorferi&lt;/i&gt; motility &lt;i&gt;in vitro&lt;/i&gt;.

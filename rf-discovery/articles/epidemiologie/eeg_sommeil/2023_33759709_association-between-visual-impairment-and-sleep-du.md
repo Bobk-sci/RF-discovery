@@ -57,6 +57,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Association between visual impairment and sleep duration in college students: A study conducted in UAE and Lebanon.

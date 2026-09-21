@@ -58,6 +58,12 @@ theme_indices:
 - oxidative stress
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # Pre and postnatal exposure to 900 MHz electromagnetic fields induce inflammation and oxidative stress, and alter renin-angiotensin system components differently in male and female offsprings.

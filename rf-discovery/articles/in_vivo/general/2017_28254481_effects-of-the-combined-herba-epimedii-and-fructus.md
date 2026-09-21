@@ -57,6 +57,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2017
 ---
 
 # Effects of the combined Herba Epimedii and Fructus Ligustri Lucidi on bone turnover and TGF-β1/Smads pathway in GIOP rats.

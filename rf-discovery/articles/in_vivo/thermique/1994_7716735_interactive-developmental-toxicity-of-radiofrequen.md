@@ -47,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/1994
 ---
 
 # Interactive developmental toxicity of radiofrequency radiation and 2-methoxyethanol in rats.

@@ -58,6 +58,13 @@ theme_indices:
 - tumour
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2008
 ---
 
 # Mobile phone use, exposure to radiofrequency electromagnetic field, and brain tumour: a case-control study.

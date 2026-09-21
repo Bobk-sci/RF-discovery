@@ -43,6 +43,13 @@ theme_indices:
 - EEG
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2007
 ---
 
 # Mobile phone 'talk-mode' signal delays EEG-determined sleep onset.

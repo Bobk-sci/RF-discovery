@@ -56,6 +56,11 @@ theme_secondaires: []
 theme_indices:
 - carcinogenic
 - carcinogenesis
+tags:
+- rf
+- modele/in_vivo
+- theme/cancer
+- annee/2022
 ---
 
 # An International Collaborative Animal Study of the Carcinogenicity of Mobile Phone Radiofrequency Radiation: Considerations for Preparation of a Global Project.

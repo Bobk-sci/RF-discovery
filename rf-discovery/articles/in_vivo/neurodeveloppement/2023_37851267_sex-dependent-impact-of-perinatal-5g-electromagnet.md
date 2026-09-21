@@ -58,6 +58,14 @@ theme_indices:
 - perinatal
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Sex-dependent impact of perinatal 5G electromagnetic field exposure in the adolescent rat behavior.

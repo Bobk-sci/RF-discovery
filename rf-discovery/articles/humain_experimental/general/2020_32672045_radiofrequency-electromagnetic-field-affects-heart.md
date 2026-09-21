@@ -44,6 +44,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- modele/in_vivo
+- theme/general
+- annee/2020
 ---
 
 # Radiofrequency electromagnetic field affects heart rate variability in rabbits.

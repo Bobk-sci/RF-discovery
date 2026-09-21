@@ -53,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2025
 ---
 
 # Disrupting vector competence: exploring radiofrequency exposure as a novel approach to mosquito-borne disease prevention in a changing climate.

@@ -44,6 +44,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2026
 ---
 
 # Cancer incidence in telecommunication and broadcasting workers in the United Kingdom: Preliminary analysis of the National Register of RF Workers.

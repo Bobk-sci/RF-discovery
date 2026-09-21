@@ -48,6 +48,14 @@ theme_secondaires:
 - thermique
 theme_indices:
 - heat shock protein
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2018
 ---
 
 # Quinacrine pretreatment reduces microwave-induced neuronal damage by stabilizing the cell membrane.

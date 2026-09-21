@@ -64,6 +64,12 @@ theme_indices:
 - neonatal
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2025
 ---
 
 # Measuring childhood mortality through mobile phone interviews in Mozambique.

@@ -38,6 +38,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/1993
 ---
 
 # Specific absorption rate and radiofrequency current-to-ground in human models exposed to near-field irradiation.

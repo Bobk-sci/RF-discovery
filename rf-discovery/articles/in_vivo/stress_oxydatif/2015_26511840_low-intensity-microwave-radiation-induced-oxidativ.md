@@ -58,6 +58,13 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2015
 ---
 
 # Low intensity microwave radiation induced oxidative stress, inflammatory response and DNA damage in rat brain.

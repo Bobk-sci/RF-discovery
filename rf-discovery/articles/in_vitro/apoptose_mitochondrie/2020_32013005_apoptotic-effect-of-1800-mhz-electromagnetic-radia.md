@@ -60,6 +60,15 @@ theme_indices:
 - cell viability
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Apoptotic Effect of 1800 MHz Electromagnetic Radiation on NIH/3T3 Cells.

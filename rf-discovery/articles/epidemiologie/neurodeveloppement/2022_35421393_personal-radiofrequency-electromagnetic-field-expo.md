@@ -70,6 +70,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Personal radiofrequency electromagnetic field exposure of adolescents in the Greater London area in the SCAMP cohort and the association with restrictions on permitted use of mobile communication technologies at school and at home.

@@ -45,6 +45,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Comparison of Microwave Hyperthermia Applicator Designs with Fora Dipole and Connected Array.

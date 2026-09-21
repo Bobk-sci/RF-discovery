@@ -53,6 +53,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Activation of matrix metalloproteinases and FoxO3a in HaCaT keratinocytes by radiofrequency electromagnetic field exposure.

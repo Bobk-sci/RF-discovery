@@ -51,6 +51,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Association of parent-child relationship quality and problematic mobile phone use with non-suicidal self-injury among adolescents.

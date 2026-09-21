@@ -37,6 +37,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/general
+- annee/2019
 ---
 
 # Adverse Effect of Mobile Phone on Hearing in Healthy Individuals: A Clinical Study.

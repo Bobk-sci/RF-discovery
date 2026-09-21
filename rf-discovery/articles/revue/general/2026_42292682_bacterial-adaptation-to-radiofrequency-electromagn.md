@@ -43,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2026
 ---
 
 # Bacterial Adaptation to Radiofrequency Electromagnetic Fields Based on Experiences from Ionizing Radiation.

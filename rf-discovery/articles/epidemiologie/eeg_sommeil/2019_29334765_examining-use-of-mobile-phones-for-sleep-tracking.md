@@ -43,6 +43,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # Examining Use of Mobile Phones for Sleep Tracking Among a National Sample in the USA.

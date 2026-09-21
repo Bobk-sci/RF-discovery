@@ -47,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - melatonin
 - circadian
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Melatonin: a Potential Shield against Electromagnetic Waves.

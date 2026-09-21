@@ -41,6 +41,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Dual-band MIMO antenna with low mutual coupling for 2.4/5.8 GHz communication and wearable technologies.

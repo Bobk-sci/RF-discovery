@@ -43,6 +43,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # The reciprocal relationship between mobile phone dependence and school adaptation in Korean adolescents: Autoregressive cross-lagged modeling.

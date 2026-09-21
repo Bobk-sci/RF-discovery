@@ -33,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # EFFECTIVENESS OF MOBILE PHONE-BASED DISTANCE VIDEO EDUCATION ON METABOLIC VARIABLES AND COGNITIVE-SOCIAL FACTORS IN TYPE 2 DIABETES.

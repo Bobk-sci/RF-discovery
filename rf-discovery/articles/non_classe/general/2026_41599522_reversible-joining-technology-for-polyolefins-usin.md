@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Reversible Joining Technology for Polyolefins Using Electromagnetic Energy and Homologous Hot-Melt Adhesives Containing Metallic and Ferrite Additives.

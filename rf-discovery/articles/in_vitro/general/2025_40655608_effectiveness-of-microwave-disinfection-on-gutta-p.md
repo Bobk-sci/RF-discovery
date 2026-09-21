@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2025
 ---
 
 # Effectiveness of Microwave Disinfection on Gutta Percha Cones Against &lt;i&gt;Staphylococcus Aureus and Enterococcus Faecalis&lt;/i&gt; - &lt;i&gt;An In vitro Study&lt;/i&gt;.

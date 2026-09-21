@@ -40,6 +40,12 @@ theme_secondaires:
 theme_indices:
 - behavior
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Mobile phone short video use negatively impacts attention functions: an EEG study.

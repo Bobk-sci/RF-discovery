@@ -50,6 +50,12 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- annee/1999
 ---
 
 # Developmental toxicity interactions of salicylic acid and radiofrequency radiation or 2-methoxyethanol in rats.

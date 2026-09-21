@@ -59,6 +59,13 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of 3.5-GHz radiofrequency radiation on energy-regulatory hormone levels in the blood and adipose tissue.

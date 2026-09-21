@@ -41,6 +41,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Ultra-thin flexible rectenna integrated with power management unit for wireless power harvester/charging of smartwatch/wristband.

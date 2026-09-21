@@ -57,6 +57,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- annee/2009
 ---
 
 # Combined microwave and electron beam exposure facilities for medical studies and applications.

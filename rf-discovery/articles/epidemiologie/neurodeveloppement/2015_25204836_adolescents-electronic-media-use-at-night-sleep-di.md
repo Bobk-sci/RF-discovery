@@ -55,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Adolescents' electronic media use at night, sleep disturbance, and depressive symptoms in the smartphone age.

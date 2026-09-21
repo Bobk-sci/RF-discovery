@@ -41,6 +41,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Sleep in everyday life - relationship to mood and performance in young and older adults: a study protocol.

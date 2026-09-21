@@ -32,6 +32,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2015
 ---
 
 # Effect of Prolonged Use of Mobile Phone on Brainstem Auditory Evoked Potentials.

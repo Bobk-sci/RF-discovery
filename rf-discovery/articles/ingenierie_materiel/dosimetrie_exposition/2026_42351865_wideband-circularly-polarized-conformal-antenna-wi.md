@@ -45,6 +45,14 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Wideband Circularly Polarized Conformal Antenna with Physics-Informed Neural Network Modeling for IoBNT Capsule Endoscopy.

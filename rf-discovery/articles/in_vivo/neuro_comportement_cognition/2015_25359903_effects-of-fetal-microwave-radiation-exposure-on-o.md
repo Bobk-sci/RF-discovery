@@ -61,6 +61,12 @@ theme_indices:
 - anxiety
 - depression
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2015
 ---
 
 # Effects of fetal microwave radiation exposure on offspring behavior in mice.

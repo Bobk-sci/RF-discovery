@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Effects of Microwave on Mortality and Detection Efficiency of Three Stored Grain Insect Adults in Stored Paddy, and on Grain Quality.

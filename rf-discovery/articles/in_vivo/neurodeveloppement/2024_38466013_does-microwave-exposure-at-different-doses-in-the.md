@@ -47,6 +47,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Does Microwave Exposure at Different Doses in the Pre/Postnatal Period Affect Growing Rat Bone Development?

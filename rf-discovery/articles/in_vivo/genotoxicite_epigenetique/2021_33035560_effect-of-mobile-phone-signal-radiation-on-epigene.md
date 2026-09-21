@@ -53,6 +53,13 @@ theme_indices:
 - DNA methylation
 - epigenetic
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effect of mobile phone signal radiation on epigenetic modulation in the hippocampus of Wistar rat.

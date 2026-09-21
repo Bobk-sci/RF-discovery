@@ -61,6 +61,12 @@ theme_indices:
 - malondialdehyde
 - superoxide dismutase
 - catalase
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2021
 ---
 
 # The effect of 4.5 G (LTE Advanced-Pro network) mobile phone radiation on the optic nerve.

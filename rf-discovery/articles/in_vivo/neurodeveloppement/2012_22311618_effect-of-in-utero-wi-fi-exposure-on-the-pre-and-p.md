@@ -63,6 +63,14 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2012
 ---
 
 # Effect of in utero wi-fi exposure on the pre- and postnatal development of rats.

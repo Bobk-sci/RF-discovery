@@ -61,6 +61,11 @@ theme_indices:
 - pregnancy
 - fetal
 - neonatal
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2023
 ---
 
 # My Baby's Movements: An assessment of the effectiveness of the My Baby's Movements phone program in reducing late-gestation stillbirth rates.

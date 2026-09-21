@@ -43,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Response of Scenedesmus sp. to microwave treatment: Enhancement of lipid, exopolysaccharide and biomass production.

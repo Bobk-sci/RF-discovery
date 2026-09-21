@@ -35,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Effect of Corn Starch as Stabilizer Particle in Combination with Egg White Proteins in Natural Rubber Latex Biofoams Produced by Microwave Foaming.

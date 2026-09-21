@@ -61,6 +61,13 @@ theme_indices:
 - brain development
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2022
 ---
 
 # Changes in the histopathology and in the proteins related to the MAPK pathway in the brains of rats exposed to pre and postnatal radiofrequency radiation over four generations.

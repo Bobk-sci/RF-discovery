@@ -50,6 +50,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Gender Differentiation Based Mobile Terminal Electromagnetic Exposure Safety Analysis and Corresponding Antenna Miniaturized-Based Protective Measures.

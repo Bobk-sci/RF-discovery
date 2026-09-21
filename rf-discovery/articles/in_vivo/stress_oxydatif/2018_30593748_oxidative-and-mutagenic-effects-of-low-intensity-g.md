@@ -49,6 +49,15 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/neurodeveloppement
+- annee/2018
 ---
 
 # Oxidative and mutagenic effects of low intensity GSM 1800 MHz microwave radiation.

@@ -45,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- annee/2025
 ---
 
 # Effects of 50 Hz extremely low-frequency magnetic field exposure on proliferative activity in cancer cells: an in vitro study.

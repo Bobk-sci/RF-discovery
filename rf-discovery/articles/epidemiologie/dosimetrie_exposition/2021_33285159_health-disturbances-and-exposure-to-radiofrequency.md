@@ -54,6 +54,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Health disturbances and exposure to radiofrequency electromagnetic fields from mobile-phone base stations in French urban areas.

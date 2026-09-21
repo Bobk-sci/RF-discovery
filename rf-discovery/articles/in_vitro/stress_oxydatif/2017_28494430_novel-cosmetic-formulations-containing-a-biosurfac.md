@@ -56,6 +56,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Novel cosmetic formulations containing a biosurfactant from Lactobacillus paracasei.

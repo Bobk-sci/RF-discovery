@@ -47,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - heating
 - thermoregulation
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Dosimetry of a Thermoregulated TEM Cell for 5G 700 MHz and 3.5 GHz Band Frequencies for Bioelectromagnetic Investigations.

@@ -42,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # An ultra-miniaturized dual-band circularly polarized implantable antenna for neuromuscular prosthetic interfaces.

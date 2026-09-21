@@ -53,6 +53,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # Adverse Effects of Wi-Fi Radiation on Male Reproductive System: A Systematic Review.

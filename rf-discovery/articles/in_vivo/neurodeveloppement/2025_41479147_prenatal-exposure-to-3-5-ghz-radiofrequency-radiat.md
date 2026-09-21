@@ -45,6 +45,13 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - in utero
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Prenatal Exposure to 3.5 GHz Radiofrequency Radiation and Long-Term Skin Histomorphometry: An 18-Month Experimental Rat Study.

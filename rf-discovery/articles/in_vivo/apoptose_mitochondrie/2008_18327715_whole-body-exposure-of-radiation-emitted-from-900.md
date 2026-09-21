@@ -50,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - Bcl-2
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2008
 ---
 
 # Whole-body exposure of radiation emitted from 900 MHz mobile phones does not seem to affect the levels of anti-apoptotic bcl-2 protein.

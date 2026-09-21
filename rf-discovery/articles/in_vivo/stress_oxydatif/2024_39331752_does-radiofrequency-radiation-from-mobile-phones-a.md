@@ -53,6 +53,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Does Radiofrequency Radiation From Mobile Phones Affect the Formation of Parotid Gland Malignancy? An Experimental Study.

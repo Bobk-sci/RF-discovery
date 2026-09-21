@@ -39,6 +39,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Comprehensive Analysis of Magnetic Flux Density and RF-EMF Exposure in Electric Buses: A Case Study from Samsun, Turkey.

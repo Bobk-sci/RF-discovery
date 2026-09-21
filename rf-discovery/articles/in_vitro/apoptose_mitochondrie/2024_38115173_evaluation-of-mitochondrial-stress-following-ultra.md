@@ -59,6 +59,14 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Evaluation of mitochondrial stress following ultraviolet radiation and 5G radiofrequency field exposure in human skin cells.

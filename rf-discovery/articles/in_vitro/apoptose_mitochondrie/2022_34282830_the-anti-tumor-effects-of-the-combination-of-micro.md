@@ -69,6 +69,14 @@ theme_indices:
 - Bcl-2
 - cell viability
 - autophagy
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/cancer
+- annee/2022
 ---
 
 # The anti-tumor effects of the combination of microwave hyperthermia and lobaplatin against breast cancer cells in vitro and in vivo.

@@ -49,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/thermique
+- annee/2024
 ---
 
 # Biological effects of electromagnetic fields on insects: a systematic review and meta-analysis.

@@ -36,6 +36,12 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2021
 ---
 
 # Age-dependence of electromagnetic power and heat deposition in near-surface tissues in emerging 5G bands.

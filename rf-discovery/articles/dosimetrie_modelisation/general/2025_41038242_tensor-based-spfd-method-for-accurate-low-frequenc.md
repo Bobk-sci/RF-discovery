@@ -42,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Tensor-based SPFD method for accurate low-frequency magnetic field dosimetry in anatomical models.

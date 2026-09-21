@@ -37,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2020
 ---
 
 # Formulation and Evaluation of Microwave-Modified Chitosan-Curcumin Nanoparticles-A Promising Nanomaterials Platform for Skin Tissue Regeneration Applications Following Burn Wounds.

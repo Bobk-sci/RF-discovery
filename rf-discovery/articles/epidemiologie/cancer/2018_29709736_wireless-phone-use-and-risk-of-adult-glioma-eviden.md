@@ -53,6 +53,12 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/revue
+- theme/cancer
+- annee/2018
 ---
 
 # Wireless Phone Use and Risk of Adult Glioma: Evidence from a Meta-Analysis.

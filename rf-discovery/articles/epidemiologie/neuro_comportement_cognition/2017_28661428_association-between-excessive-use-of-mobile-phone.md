@@ -47,6 +47,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2017
 ---
 
 # Association between Excessive Use of Mobile Phone and Insomnia and Depression among Japanese Adolescents.

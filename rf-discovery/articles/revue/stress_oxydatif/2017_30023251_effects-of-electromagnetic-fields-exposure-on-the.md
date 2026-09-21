@@ -48,6 +48,13 @@ theme_indices:
 - glutathione
 - antioxidant
 - redox
+tags:
+- rf
+- modele/revue
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2017
 ---
 
 # Effects of electromagnetic fields exposure on the antioxidant defense system.

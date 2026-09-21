@@ -58,6 +58,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2019
 ---
 
 # Chitosan-Based Bioactive Hemostatic Agents with Antibacterial Properties-Synthesis and Characterization.

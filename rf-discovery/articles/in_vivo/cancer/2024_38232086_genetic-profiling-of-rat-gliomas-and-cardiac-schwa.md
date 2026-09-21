@@ -59,6 +59,11 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/in_vivo
+- theme/cancer
+- annee/2024
 ---
 
 # Genetic profiling of rat gliomas and cardiac schwannomas from life-time radiofrequency radiation exposure study using a targeted next-generation sequencing gene panel.

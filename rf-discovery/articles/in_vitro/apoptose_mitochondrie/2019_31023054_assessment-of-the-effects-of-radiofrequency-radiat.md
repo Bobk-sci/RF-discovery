@@ -44,6 +44,11 @@ theme_indices:
 - caspase
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2019
 ---
 
 # Assessment of the effects of radiofrequency radiation on human colon epithelium cells.

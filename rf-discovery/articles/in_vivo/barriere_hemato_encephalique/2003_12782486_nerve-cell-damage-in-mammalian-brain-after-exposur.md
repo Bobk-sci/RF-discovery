@@ -50,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/2003
 ---
 
 # Nerve cell damage in mammalian brain after exposure to microwaves from GSM mobile phones.

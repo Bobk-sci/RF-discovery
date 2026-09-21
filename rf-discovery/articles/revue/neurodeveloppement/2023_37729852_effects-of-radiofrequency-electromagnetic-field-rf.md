@@ -73,6 +73,16 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2023
 ---
 
 # Effects of Radiofrequency Electromagnetic Field (RF-EMF) exposure on pregnancy and birth outcomes: A systematic review of experimental studies on non-human mammals.

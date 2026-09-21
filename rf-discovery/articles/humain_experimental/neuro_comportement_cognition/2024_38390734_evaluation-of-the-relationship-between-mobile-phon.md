@@ -41,6 +41,13 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - attention
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Evaluation of the Relationship Between Mobile Phone Usage and miRNA-574-5p and miRNA-30C-5p Levels in Thyroid Cancer Patients.

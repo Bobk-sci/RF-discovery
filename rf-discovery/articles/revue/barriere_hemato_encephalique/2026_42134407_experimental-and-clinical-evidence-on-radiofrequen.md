@@ -55,6 +55,16 @@ theme_indices:
 - blood brain barrier
 - BBB permeability
 - tight junction
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2026
 ---
 
 # Experimental and clinical evidence on radiofrequency electromagnetic field effects on the blood-brain barrier: a scoping review.

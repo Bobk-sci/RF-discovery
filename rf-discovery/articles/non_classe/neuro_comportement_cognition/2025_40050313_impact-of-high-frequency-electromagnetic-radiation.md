@@ -40,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Impact of high frequency electromagnetic radiation on bacterial survival and antibiotic activity in exposed bacteria.

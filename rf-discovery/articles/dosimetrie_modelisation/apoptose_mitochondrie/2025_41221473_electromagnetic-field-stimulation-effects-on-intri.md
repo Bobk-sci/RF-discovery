@@ -41,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - autophagy
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Electromagnetic Field Stimulation Effects on Intrinsically Disordered Proteins and Their Role in Aging and Neurodegeneration.

@@ -47,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # Exercise ameliorates hippocampal damage induced by Wi-Fi radiation; a biochemical, histological, and immunohistochemical study.

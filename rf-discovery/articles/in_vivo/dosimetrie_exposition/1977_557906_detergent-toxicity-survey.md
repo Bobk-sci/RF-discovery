@@ -43,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/1977
 ---
 
 # Detergent toxicity survey.

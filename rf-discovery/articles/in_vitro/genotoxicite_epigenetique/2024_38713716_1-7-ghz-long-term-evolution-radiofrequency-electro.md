@@ -50,6 +50,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # 1.7 GHz long-term evolution radiofrequency electromagnetic field with stable power monitoring and efficient thermal control has no effect on the proliferation of various human cell types.

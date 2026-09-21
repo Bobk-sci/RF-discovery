@@ -32,6 +32,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Gamma Knife radiosurgery in patients with indwelling deep brain stimulator systems.

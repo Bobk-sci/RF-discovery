@@ -40,6 +40,13 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A rhombus-keyhole shaped circularly polarized dual-band implantable antenna with low SAR compliance.

@@ -48,6 +48,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Lessons Learned from a Distributed RF-EMF Sensor Network.

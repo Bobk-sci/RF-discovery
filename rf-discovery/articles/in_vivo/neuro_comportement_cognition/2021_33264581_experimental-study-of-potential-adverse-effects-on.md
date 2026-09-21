@@ -45,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - reaction time
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Experimental study of potential adverse effects on the auditory system of rabbits exposed to short-term GSM-1800 radiation.

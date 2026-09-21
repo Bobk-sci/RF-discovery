@@ -56,6 +56,12 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/cancer
+- annee/2023
 ---
 
 # In Vivo Studies on Radiofrequency (100 kHz-300 GHz) Electromagnetic Field Exposure and Cancer: A Systematic Review.

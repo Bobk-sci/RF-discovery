@@ -52,6 +52,15 @@ theme_indices:
 - testis
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/thermique
+- annee/2022
 ---
 
 # 2.45 GHz microwave radiation induced oxidative stress: Role of inflammatory cytokines in regulating male fertility through estrogen receptor alpha in Gallus gallus domesticus.

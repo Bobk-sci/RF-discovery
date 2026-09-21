@@ -46,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - melatonin
 - circadian
+tags:
+- rf
+- modele/revue
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Effects of light, electromagnetic fields and water on biological rhythms.

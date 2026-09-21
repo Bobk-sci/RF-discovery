@@ -57,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/revue
+- modele/in_vitro
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2021
 ---
 
 # Genotoxicity of radiofrequency electromagnetic fields: Protocol for a systematic review of in vitro studies.

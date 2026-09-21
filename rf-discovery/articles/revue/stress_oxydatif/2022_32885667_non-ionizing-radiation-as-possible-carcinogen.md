@@ -49,6 +49,16 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- theme/cancer
+- annee/2022
 ---
 
 # Non-ionizing radiation as possible carcinogen.

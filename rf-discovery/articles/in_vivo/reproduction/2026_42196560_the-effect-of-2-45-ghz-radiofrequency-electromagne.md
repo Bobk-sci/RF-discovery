@@ -65,6 +65,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # The Effect of 2.45 GHz Radiofrequency Electromagnetic Radiation on Components of the Hypothalamic-Pituitary-Gonadal Axis in Male Rats.

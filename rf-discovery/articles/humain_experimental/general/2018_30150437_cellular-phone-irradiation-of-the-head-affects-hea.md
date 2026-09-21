@@ -50,6 +50,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2018
 ---
 
 # Cellular Phone Irradiation of the Head Affects Heart Rate Variability Depending on Inspiration/Expiration Ratio.

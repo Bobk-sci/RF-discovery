@@ -47,6 +47,15 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hormones: A Systematic Review.

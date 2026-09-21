@@ -49,6 +49,12 @@ theme_indices:
 - prenatal
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # The influence of prenatal 10 GHz microwave radiation exposure on a developing mice brain.

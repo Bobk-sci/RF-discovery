@@ -40,6 +40,11 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - redox
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Antioxidant Capacity and Antiplatelet Activity of Aqueous Extracts of Common Bean (Phaseolus vulgaris L.) Obtained with Microwave and Ultrasound Assisted Extraction.

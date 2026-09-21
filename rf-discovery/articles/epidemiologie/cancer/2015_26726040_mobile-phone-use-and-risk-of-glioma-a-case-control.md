@@ -40,6 +40,11 @@ theme_indices:
 - carcinogenic
 - tumor
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2015
 ---
 
 # Mobile phone use and risk of glioma: a case-control study in Korea for 2002-2007.

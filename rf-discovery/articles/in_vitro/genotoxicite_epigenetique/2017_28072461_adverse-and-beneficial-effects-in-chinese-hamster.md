@@ -55,6 +55,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Adverse and beneficial effects in Chinese hamster lung fibroblast cells following radiofrequency exposure.

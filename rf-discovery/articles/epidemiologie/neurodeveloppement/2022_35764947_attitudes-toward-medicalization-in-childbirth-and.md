@@ -48,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Attitudes toward medicalization in childbirth and their relationship with locus of control and coping in a Spanish population.

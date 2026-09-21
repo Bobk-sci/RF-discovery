@@ -59,6 +59,15 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/dosimetrie_exposition
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic field exposure on Wistar albino rat testis.

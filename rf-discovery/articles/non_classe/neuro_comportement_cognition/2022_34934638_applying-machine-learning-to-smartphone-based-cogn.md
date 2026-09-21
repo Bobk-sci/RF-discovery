@@ -39,6 +39,12 @@ theme_indices:
 - cognition
 - cognitive
 - learning
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2022
 ---
 
 # Applying machine learning to smartphone based cognitive and sleep assessments in schizophrenia.

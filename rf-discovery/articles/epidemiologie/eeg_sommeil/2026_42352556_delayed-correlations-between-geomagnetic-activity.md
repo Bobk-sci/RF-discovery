@@ -40,6 +40,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data.

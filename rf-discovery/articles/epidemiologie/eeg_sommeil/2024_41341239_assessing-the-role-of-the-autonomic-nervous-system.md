@@ -38,6 +38,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Assessing the Role of the Autonomic Nervous System as a Driver of Sleep Quality in Patients With Multiple Sclerosis: Observation Study.
