@@ -72,8 +72,18 @@ approximative. Le gabarit d'URL de recherche est paramétrable (`--emfportal-url
 ```bash
 python -m export_refs                                # articles/bibliotheque-rf.{ris,bib}
 python -m fetch_pdfs --email vous@exemple.fr --out pdf
+python -m fetch_fulltext                             # texte intégral -> articles/_textes/
 python -m export_refs --pdf-dir pdf                  # rattache les PDF aux références
 ```
+
+**Texte intégral plutôt que PDF pour l'analyse.** Plusieurs éditeurs (MDPI, Wiley,
+Elsevier) répondent 403 au téléchargement de leur PDF par un script, même pour des
+articles sous licence libre — ce n'est pas un péage, c'est un refus des requêtes non
+navigateur. Europe PMC, lui, sert le texte intégral des articles du sous-ensemble ouvert
+via un point d'accès prévu pour les programmes. `fetch_fulltext` en fait un Markdown par
+article dans `articles/_textes/` : sections et paragraphes, sans figures ni bibliographie.
+Pour lire dans Obsidian et faire travailler un modèle local, c'est mieux qu'un PDF —
+structuré, sans colonnes, et cherchable. Pour citer, rien ne change : le RIS fait foi.
 
 `bibliotheque-rf.ris` s'importe directement dans **Zotero** (*Fichier → Importer*) et dans
 **EndNote** (*File → Import*, type Reference Manager) ; `bibliotheque-rf.bib` convient à

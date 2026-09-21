@@ -9,3 +9,5 @@ __pycache__/
 data/cache/
 # PDF téléchargés : volume trop important pour git, et licences variables selon l'éditeur
 pdf/
+# textes intégraux récupérés d'Europe PMC : dérivés, volumineux, régénérables
+articles/_textes/
