@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic radiation emitted from a mobile
 url: https://pubmed.ncbi.nlm.nih.gov/33687298/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

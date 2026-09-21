@@ -9,7 +9,7 @@ titre: Adult Cancer Patient Recruitment and Enrollment into Cell Phone Text Mess
 url: https://pubmed.ncbi.nlm.nih.gov/26982446/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

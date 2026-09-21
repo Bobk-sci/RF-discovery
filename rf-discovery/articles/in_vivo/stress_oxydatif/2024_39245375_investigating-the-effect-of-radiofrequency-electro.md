@@ -9,7 +9,7 @@ titre: Investigating the effect of radiofrequency electromagnetic field exposure
 url: https://pubmed.ncbi.nlm.nih.gov/39245375/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Zebrafish

@@ -8,7 +8,7 @@ titre: Evaluation of Cell Migration and Cytokines Expression Changes under the R
 url: https://pubmed.ncbi.nlm.nih.gov/35216321/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Line
 - Cell Movement

@@ -8,7 +8,7 @@ titre: Oxidative mechanisms of biological activity of low-intensity radiofrequen
 url: https://pubmed.ncbi.nlm.nih.gov/26151230/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Biophysical Phenomena

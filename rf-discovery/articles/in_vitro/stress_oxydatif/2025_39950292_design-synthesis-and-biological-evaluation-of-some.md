@@ -7,7 +7,7 @@ titre: Design, Synthesis, and Biological Evaluation of Some Novel o-aminophenol 
 url: https://pubmed.ncbi.nlm.nih.gov/39950292/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Aminophenols
 - Humans
@@ -35,12 +35,13 @@ mots_cles:
 - o-nitrophenol
 - vanillin
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1003.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
+- cytotoxicity
 theme: stress_oxydatif
 theme_score: 2.0
 theme_secondaires:

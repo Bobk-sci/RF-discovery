@@ -7,7 +7,7 @@ titre: Decisional style, sleepiness, and online responsiveness.
 url: https://pubmed.ncbi.nlm.nih.gov/38006288/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Male

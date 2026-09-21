@@ -8,7 +8,7 @@ titre: Protective effect of paricalcitol in rat testicular damage induced by sub
 url: https://pubmed.ncbi.nlm.nih.gov/37717340/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Testis
 - Seminiferous Tubules

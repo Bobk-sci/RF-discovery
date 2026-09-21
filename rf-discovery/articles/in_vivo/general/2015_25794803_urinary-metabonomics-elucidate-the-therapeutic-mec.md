@@ -8,7 +8,7 @@ titre: Urinary metabonomics elucidate the therapeutic mechanism of Orthosiphon s
 url: https://pubmed.ncbi.nlm.nih.gov/25794803/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Biomarkers

@@ -7,7 +7,7 @@ titre: Influence of Super-Low-Intensity Microwave Radiation on Mesenchymal Stem 
 url: https://pubmed.ncbi.nlm.nih.gov/40004170/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Mesenchymal Stem Cells
 - Animals
@@ -30,6 +30,7 @@ modele: revue
 modele_score: 1002.0
 modele_secondaires:
 - in_vivo
+- in_vitro
 modele_indices:
 - Review (descripteur décisif)
 - review

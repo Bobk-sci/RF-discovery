@@ -7,7 +7,7 @@ titre: Effects of 5.8 GHz Microwaves on Testicular Structure and Function in R
 url: https://pubmed.ncbi.nlm.nih.gov/35707372/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Caspase 3

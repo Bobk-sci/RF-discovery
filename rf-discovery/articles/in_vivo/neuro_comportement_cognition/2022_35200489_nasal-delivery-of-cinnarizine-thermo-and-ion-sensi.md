@@ -8,7 +8,7 @@ titre: Nasal Delivery of Cinnarizine Thermo- and Ion-Sensitive In Situ Hydrogels
 url: https://pubmed.ncbi.nlm.nih.gov/35200489/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

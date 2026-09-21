@@ -8,7 +8,7 @@ titre: Technology Use and Sleep Quality in Preadolescence and Adolescence.
 url: https://pubmed.ncbi.nlm.nih.gov/26235161/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

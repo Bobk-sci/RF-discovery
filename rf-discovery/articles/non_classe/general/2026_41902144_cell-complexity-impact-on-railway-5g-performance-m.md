@@ -8,7 +8,7 @@ titre: 'Cell Complexity Impact on Railway 5G Performance: Measurements Along Tal
 url: https://pubmed.ncbi.nlm.nih.gov/41902144/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

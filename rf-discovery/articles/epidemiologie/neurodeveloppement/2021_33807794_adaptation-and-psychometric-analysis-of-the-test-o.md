@@ -8,7 +8,7 @@ titre: Adaptation and Psychometric Analysis of the Test of Mobile Phone Dependen
 url: https://pubmed.ncbi.nlm.nih.gov/33807794/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

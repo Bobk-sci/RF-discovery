@@ -8,7 +8,7 @@ titre: Sodium Butyrate Inhibits Inflammation and Maintains Epithelium Barrier In
 url: https://pubmed.ncbi.nlm.nih.gov/29627390/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Butyric Acid

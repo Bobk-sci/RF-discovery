@@ -8,7 +8,7 @@ titre: 'Cerebral radiofrequency exposures during adolescence: Impact on astrocyt
 url: https://pubmed.ncbi.nlm.nih.gov/27272062/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Animals

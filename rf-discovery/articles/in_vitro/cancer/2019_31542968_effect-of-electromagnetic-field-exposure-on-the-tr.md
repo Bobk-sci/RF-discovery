@@ -2,28 +2,28 @@
 pmid: '31542968'
 doi: 10.1080/15368378.2019.1669634
 annee: 2019
-journal: Electromagnetic biology and medicine
+journal: ''
 titre: Effect of electromagnetic field exposure on the transcription of repetitive
   DNA elements in human cells.
 url: https://pubmed.ncbi.nlm.nih.gov/31542968/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Line, Tumor
-- DNA
-- Electromagnetic Fields
 - Humans
-- Repetitive Sequences, Nucleic Acid
+- DNA
 - Transcription, Genetic
+- Repetitive Sequences, Nucleic Acid
+- Electromagnetic Fields
 types:
 - Journal Article
 mots_cles:
-- HERV
-- LINE
-- Mobile phone radiation
-- alpha satellite DNA
-- retrotransposition
+- Retrotransposition
+- Herv
+- Line
+- Mobile Phone Radiation
+- Alpha Satellite Dna
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:
@@ -44,7 +44,7 @@ theme_indices:
 
 # Effect of electromagnetic field exposure on the transcription of repetitive DNA elements in human cells.
 
-*Electromagnetic biology and medicine — 2019*
+*journal non renseigné — 2019*
 
 ## Résumé (texte d'origine)
 

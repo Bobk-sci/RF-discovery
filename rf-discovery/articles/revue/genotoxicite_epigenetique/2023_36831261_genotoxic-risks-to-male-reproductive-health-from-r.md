@@ -7,7 +7,7 @@ titre: Genotoxic Risks to Male Reproductive Health from Radiofrequency Radiation
 url: https://pubmed.ncbi.nlm.nih.gov/36831261/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Male

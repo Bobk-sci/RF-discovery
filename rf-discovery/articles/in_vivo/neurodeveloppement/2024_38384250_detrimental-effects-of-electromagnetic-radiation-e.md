@@ -8,7 +8,7 @@ titre: Detrimental effects of electromagnetic radiation emitted from cell phone 
 url: https://pubmed.ncbi.nlm.nih.gov/38384250/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Female
@@ -34,7 +34,8 @@ mots_cles:
 - Time-lapse
 modele: in_vivo
 modele_score: 6.5
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - animals
 - mice

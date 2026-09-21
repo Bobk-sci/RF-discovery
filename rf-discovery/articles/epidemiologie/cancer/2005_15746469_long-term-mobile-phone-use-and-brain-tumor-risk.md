@@ -7,7 +7,7 @@ titre: Long-term mobile phone use and brain tumor risk.
 url: https://pubmed.ncbi.nlm.nih.gov/15746469/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Age Distribution

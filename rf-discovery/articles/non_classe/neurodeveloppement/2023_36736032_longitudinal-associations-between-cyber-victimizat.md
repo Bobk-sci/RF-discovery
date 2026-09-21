@@ -9,7 +9,7 @@ titre: 'Longitudinal associations between cyber victimization and problematic mo
 url: https://pubmed.ncbi.nlm.nih.gov/36736032/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Male
 - Humans

@@ -1,7 +1,0 @@
-# CTD chem-disease
-#
-# Fields:
-#
-# ChemicalName	ChemicalID	CasRN	DiseaseName	DiseaseID	DirectEvidence	InferenceGeneSymbol	InferenceScore	OmimIDs	PubMedIDs
-#
-Bisphenol A	C006780	80-05-7	Neurotoxicity	MESH:D019636	marker/mechanism				31500000

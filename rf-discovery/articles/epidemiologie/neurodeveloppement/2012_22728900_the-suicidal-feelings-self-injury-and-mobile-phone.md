@@ -8,7 +8,7 @@ titre: The suicidal feelings, self-injury, and mobile phone use after lights out
 url: https://pubmed.ncbi.nlm.nih.gov/22728900/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adolescent Behavior

@@ -8,7 +8,7 @@ titre: '5 G wireless telecommunications expansion: Public health and environment
 url: https://pubmed.ncbi.nlm.nih.gov/29655646/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure

@@ -7,7 +7,7 @@ titre: In vitro effects of microwave radiation on rat liver mitochondria.
 url: https://pubmed.ncbi.nlm.nih.gov/6143563/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Glutamates

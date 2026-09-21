@@ -9,7 +9,7 @@ titre: Microwave hyperthermia represses human papillomavirus oncoprotein activit
 url: https://pubmed.ncbi.nlm.nih.gov/37068348/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Female
 - Humans
@@ -30,10 +30,11 @@ mots_cles:
 - Human papillomavirus
 - Microwave hyperthermia
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires: []
 modele_indices:
 - in vitro
+- cell proliferation
 theme: apoptose_mitochondrie
 theme_score: 4.5
 theme_secondaires:

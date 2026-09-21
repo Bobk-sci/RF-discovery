@@ -8,7 +8,7 @@ titre: Association between the pattern of mobile phone use and sleep quality in 
 url: https://pubmed.ncbi.nlm.nih.gov/33532989/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Cell Phone Use

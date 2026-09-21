@@ -8,7 +8,7 @@ titre: A miniaturized dual-port circularly polarized MIMO patch antenna for SAR-
 url: https://pubmed.ncbi.nlm.nih.gov/41957503/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

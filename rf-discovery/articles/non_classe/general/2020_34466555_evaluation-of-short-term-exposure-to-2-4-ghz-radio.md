@@ -9,7 +9,7 @@ titre: Evaluation of Short-Term Exposure to 2.4 GHz Radiofrequency Radiation Emi
 url: https://pubmed.ncbi.nlm.nih.gov/34466555/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

@@ -8,7 +8,7 @@ titre: Radiofrequency Induced Time-Dependent Alterations in Gene Expression and 
 url: https://pubmed.ncbi.nlm.nih.gov/39810728/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Glioblastoma
@@ -28,7 +28,7 @@ mots_cles:
 - nonionizing radiation
 - radiofrequency electromagnetic fields
 modele: in_vitro
-modele_score: 1004.5
+modele_score: 1005.5
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
@@ -37,6 +37,7 @@ modele_indices:
 - in vitro
 - cell culture
 - cell line
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 6.5
 theme_secondaires:

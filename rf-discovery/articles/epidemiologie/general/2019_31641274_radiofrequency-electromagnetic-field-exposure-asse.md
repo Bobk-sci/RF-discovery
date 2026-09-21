@@ -8,7 +8,7 @@ titre: 'Radiofrequency electromagnetic field exposure assessment: a pilot study 
 url: https://pubmed.ncbi.nlm.nih.gov/31641274/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Electromagnetic Fields

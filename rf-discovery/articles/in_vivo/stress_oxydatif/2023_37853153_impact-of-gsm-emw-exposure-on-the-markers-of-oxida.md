@@ -8,7 +8,7 @@ titre: Impact of GSM-EMW exposure on the markers of oxidative stress in fetal ra
 url: https://pubmed.ncbi.nlm.nih.gov/37853153/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Liver
 - Animals

@@ -8,7 +8,7 @@ titre: Design and performance investigation of metamaterial-inspired dual band a
 url: https://pubmed.ncbi.nlm.nih.gov/39121158/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Equipment Design

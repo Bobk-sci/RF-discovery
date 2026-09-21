@@ -8,7 +8,7 @@ titre: On-Demand Hydrophobic Drug Release Based on Microwave-Responsive Graphene
 url: https://pubmed.ncbi.nlm.nih.gov/32776350/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Drug Delivery Systems
 - Drug Liberation
@@ -24,10 +24,11 @@ mots_cles:
 - hydrogels
 - microwave-responsive
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires: []
 modele_indices:
 - in vitro
+- cytotoxicity
 theme: general
 theme_score: 0.0
 theme_secondaires: []

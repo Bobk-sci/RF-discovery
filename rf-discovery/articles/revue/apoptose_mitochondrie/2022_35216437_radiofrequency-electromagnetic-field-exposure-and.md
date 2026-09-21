@@ -8,7 +8,7 @@ titre: 'Radiofrequency Electromagnetic Field Exposure and Apoptosis: A Scoping R
 url: https://pubmed.ncbi.nlm.nih.gov/35216437/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Mammals

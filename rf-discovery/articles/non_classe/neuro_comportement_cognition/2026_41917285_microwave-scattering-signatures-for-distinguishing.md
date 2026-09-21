@@ -8,7 +8,7 @@ titre: Microwave scattering signatures for distinguishing healthy and infested d
 url: https://pubmed.ncbi.nlm.nih.gov/41917285/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Trees
 - Plant Diseases

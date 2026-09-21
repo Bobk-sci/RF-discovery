@@ -8,7 +8,7 @@ titre: 'Cellular redox disruption and apoptosis: Differential effects of RFR fre
 url: https://pubmed.ncbi.nlm.nih.gov/41921593/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Leydig Cells
 - Cell Line

@@ -7,7 +7,7 @@ titre: RF-EMF Exposure near 5G NR Small Cells.
 url: https://pubmed.ncbi.nlm.nih.gov/36991856/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electromagnetic Fields

@@ -8,7 +8,7 @@ titre: Modelling of daily radiofrequency electromagnetic field dose for a prospe
 url: https://pubmed.ncbi.nlm.nih.gov/36709672/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Child
 - Humans

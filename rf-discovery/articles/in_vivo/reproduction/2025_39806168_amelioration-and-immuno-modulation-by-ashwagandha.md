@@ -8,7 +8,7 @@ titre: Amelioration and Immuno-modulation by Ashwagandha on Wi-fi Induced Oxidat
 url: https://pubmed.ncbi.nlm.nih.gov/39806168/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Testis
 - Animals

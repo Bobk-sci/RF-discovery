@@ -8,7 +8,7 @@ titre: 'Analysis of the Genotoxic Effects of Mobile Phone Radiation using Buccal
 url: https://pubmed.ncbi.nlm.nih.gov/27135009/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

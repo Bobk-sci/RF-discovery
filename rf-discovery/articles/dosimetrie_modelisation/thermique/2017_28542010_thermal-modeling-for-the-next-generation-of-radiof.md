@@ -8,7 +8,7 @@ titre: 'Thermal Modeling for the Next Generation of Radiofrequency Exposure Limi
 url: https://pubmed.ncbi.nlm.nih.gov/28542010/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Biological Assay
 - Computer Simulation

@@ -8,7 +8,7 @@ titre: Interaction between Mimic Lipid Membranes and Acylated and Nonacylated Cy
 url: https://pubmed.ncbi.nlm.nih.gov/27624410/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Acylation
 - Anthocyanins

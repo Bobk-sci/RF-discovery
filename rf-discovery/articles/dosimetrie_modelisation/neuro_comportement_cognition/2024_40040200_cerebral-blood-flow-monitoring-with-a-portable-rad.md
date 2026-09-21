@@ -9,7 +9,7 @@ titre: Cerebral Blood Flow Monitoring with a Portable Radio Frequency Sensing Sy
 url: https://pubmed.ncbi.nlm.nih.gov/40040200/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cerebrovascular Circulation
 - Humans

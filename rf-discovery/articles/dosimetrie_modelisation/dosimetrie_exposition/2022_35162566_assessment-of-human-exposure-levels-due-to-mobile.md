@@ -7,7 +7,7 @@ titre: Assessment of Human Exposure Levels Due to Mobile Phone Antennas in 5G Ne
 url: https://pubmed.ncbi.nlm.nih.gov/35162566/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Computers, Handheld

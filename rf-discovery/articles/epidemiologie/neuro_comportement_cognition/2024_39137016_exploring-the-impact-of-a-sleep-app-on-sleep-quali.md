@@ -8,7 +8,7 @@ titre: 'Exploring the Impact of a Sleep App on Sleep Quality in a General Popula
 url: https://pubmed.ncbi.nlm.nih.gov/39137016/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

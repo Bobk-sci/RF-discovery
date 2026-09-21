@@ -8,7 +8,7 @@ titre: 'Feasibility and Acceptability of a Combined Digital Platform and Communi
 url: https://pubmed.ncbi.nlm.nih.gov/37698975/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

@@ -48,7 +48,7 @@ from library.organize import (
     write_index,
     write_readme,
 )
-from normalize.dedupe import dedupe, load_seen, save_seen
+from normalize.dedupe import dedupe, load_seen, paper_key, save_seen
 
 ROOT = Path(__file__).resolve().parents[1]
 log = logging.getLogger("library")
@@ -128,6 +128,16 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
     return {"fiches_deplacees": moved, "fiches_sorties": removed}
 
 
+def memoire_depuis_bibliotheque(out: Path) -> set[str]:
+    """Clés de déduplication reconstruites depuis les fiches réellement rangées.
+
+    Invariant : « déjà vu » = « déjà rangé ». Sans cela, un article écarté par un réglage
+    trop strict resterait marqué comme vu et ne reviendrait jamais, même une fois le
+    réglage corrigé. Le coût est nul : les sources renvoient de toute façon ces notices.
+    """
+    return {paper_key(read_article(p)) for p in out.rglob("*.md") if p.name != "README.md"}
+
+
 def _finalise(out: Path, tax: Taxonomy, query: str) -> int:
     records = scan_library(out)
     axes = tuple(ax.name for ax in tax.axes)
@@ -164,6 +174,9 @@ def main() -> None:
     out.mkdir(parents=True, exist_ok=True)
     if args.reclasser:
         result = reclasser(out, tax)
+        # La mémoire suit le corpus : ce qui vient d'être écarté redeviendra collectable
+        # si la taxonomie se rouvre un jour.
+        save_seen(args.seen, memoire_depuis_bibliotheque(out))
         result["articles"] = _finalise(out, tax, build_query(tax))
         print(json.dumps(result, indent=2, ensure_ascii=False))
         return

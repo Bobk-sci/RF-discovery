@@ -9,7 +9,7 @@ titre: 'Effects of radiofrequency electromagnetic field (RF-EMF) exposure on mal
 url: https://pubmed.ncbi.nlm.nih.gov/38492496/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Semen
 - Animals

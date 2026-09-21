@@ -7,7 +7,7 @@ titre: Mobile-CEA - A Novel Surveillance Method for Patients with Colorectal Can
 url: https://pubmed.ncbi.nlm.nih.gov/35695276/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Colorectal Neoplasms

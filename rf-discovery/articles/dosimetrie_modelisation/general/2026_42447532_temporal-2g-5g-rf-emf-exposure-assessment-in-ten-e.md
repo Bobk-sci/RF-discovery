@@ -8,7 +8,7 @@ titre: Temporal 2G-5G RF-EMF exposure assessment in ten European countries durin
 url: https://pubmed.ncbi.nlm.nih.gov/42447532/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Europe
 - Radio Waves

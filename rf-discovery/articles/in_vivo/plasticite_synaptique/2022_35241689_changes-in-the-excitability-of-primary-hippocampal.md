@@ -8,7 +8,7 @@ titre: Changes in the excitability of primary hippocampal neurons following expo
 url: https://pubmed.ncbi.nlm.nih.gov/35241689/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Hippocampus

@@ -8,7 +8,7 @@ titre: Longitudinal Cross-Lagged Analysis Between Mobile Phone Dependence, Frien
 url: https://pubmed.ncbi.nlm.nih.gov/35613406/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

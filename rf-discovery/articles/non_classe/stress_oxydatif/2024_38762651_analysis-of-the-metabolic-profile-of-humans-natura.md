@@ -7,7 +7,7 @@ titre: Analysis of the metabolic profile of humans naturally exposed to RF-EM ra
 url: https://pubmed.ncbi.nlm.nih.gov/38762651/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Male

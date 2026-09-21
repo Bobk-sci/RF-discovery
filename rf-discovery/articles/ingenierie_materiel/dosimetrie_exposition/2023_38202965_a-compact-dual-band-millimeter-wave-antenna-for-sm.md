@@ -8,7 +8,7 @@ titre: A Compact Dual-Band Millimeter Wave Antenna for Smartwatch and IoT Applic
 url: https://pubmed.ncbi.nlm.nih.gov/38202965/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

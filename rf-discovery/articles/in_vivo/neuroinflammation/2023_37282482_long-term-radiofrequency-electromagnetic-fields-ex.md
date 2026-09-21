@@ -8,7 +8,7 @@ titre: Long-term radiofrequency electromagnetic fields exposure attenuates cogni
 url: https://pubmed.ncbi.nlm.nih.gov/37282482/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

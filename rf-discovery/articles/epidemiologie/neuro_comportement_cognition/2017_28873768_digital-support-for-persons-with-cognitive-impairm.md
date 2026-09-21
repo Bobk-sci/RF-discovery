@@ -7,7 +7,7 @@ titre: Digital Support for Persons with Cognitive Impairment.
 url: https://pubmed.ncbi.nlm.nih.gov/28873768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Activities of Daily Living
 - Cell Phone

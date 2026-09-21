@@ -8,7 +8,7 @@ titre: Chronic exposure to 2.45 GHz microwave radiation improves cognition and
 url: https://pubmed.ncbi.nlm.nih.gov/33635159/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Rats
 - Animals

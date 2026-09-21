@@ -8,7 +8,7 @@ titre: 'Feasibility of Non-Contact Deep Brain Stimulation Through Temporal Inter
 url: https://doi.org/10.20944/preprints202505.2121.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

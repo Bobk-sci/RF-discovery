@@ -7,7 +7,7 @@ titre: 'Work productivity in rhinitis using cell phones: The MASK pilot study.'
 url: https://pubmed.ncbi.nlm.nih.gov/28387952/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Efficiency

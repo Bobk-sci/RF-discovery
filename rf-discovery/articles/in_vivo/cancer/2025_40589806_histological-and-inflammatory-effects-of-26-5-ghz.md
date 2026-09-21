@@ -8,7 +8,7 @@ titre: Histological and inflammatory effects of 26.5 GHz quasi-millimeter wave e
 url: https://pubmed.ncbi.nlm.nih.gov/40589806/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Skin
 - Animals

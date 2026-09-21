@@ -8,7 +8,7 @@ titre: Effect of 1800 MHz radiofrequency field exposure on cytokine and signal
 url: https://pubmed.ncbi.nlm.nih.gov/39249987/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Cytokines

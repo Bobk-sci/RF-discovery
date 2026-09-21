@@ -9,7 +9,7 @@ titre: Analysis of human skin tissue by millimeter-wave reflectometry.
 url: https://pubmed.ncbi.nlm.nih.gov/22697803/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Air
 - Bandages

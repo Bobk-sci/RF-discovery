@@ -7,7 +7,7 @@ titre: Radiofrequency and microwave 3D bioprinting of emulsion gel for dysphagia
 url: https://pubmed.ncbi.nlm.nih.gov/40646036/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Humans

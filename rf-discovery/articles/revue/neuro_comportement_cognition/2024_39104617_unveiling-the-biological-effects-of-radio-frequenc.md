@@ -8,7 +8,7 @@ titre: Unveiling the biological effects of radio-frequency and extremely-low fre
 url: https://pubmed.ncbi.nlm.nih.gov/39104617/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - review-article

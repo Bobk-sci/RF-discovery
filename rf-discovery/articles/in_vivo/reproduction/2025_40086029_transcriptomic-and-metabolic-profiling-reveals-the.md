@@ -8,7 +8,7 @@ titre: Transcriptomic and metabolic profiling reveals the effects of long-term m
 url: https://pubmed.ncbi.nlm.nih.gov/40086029/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Male
 - Microwaves

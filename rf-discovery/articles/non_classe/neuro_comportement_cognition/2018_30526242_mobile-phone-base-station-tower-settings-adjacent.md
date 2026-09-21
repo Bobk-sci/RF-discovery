@@ -8,7 +8,7 @@ titre: 'Mobile Phone Base Station Tower Settings Adjacent to School Buildings: I
 url: https://pubmed.ncbi.nlm.nih.gov/30526242/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

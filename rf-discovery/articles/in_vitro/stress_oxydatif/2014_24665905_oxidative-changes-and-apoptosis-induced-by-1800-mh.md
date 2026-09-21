@@ -8,7 +8,7 @@ titre: Oxidative changes and apoptosis induced by 1800-MHz electromagnetic radia
 url: https://pubmed.ncbi.nlm.nih.gov/24665905/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Apoptosis

@@ -8,7 +8,7 @@ titre: Glial markers and emotional memory in rats following acute cerebral radio
 url: https://pubmed.ncbi.nlm.nih.gov/27696165/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Amyloid beta-Peptides
 - Animals

@@ -9,7 +9,7 @@ titre: 'Multiphysical Characterization of a Tissue-Mimicking Phantom: Compositio
 url: https://pubmed.ncbi.nlm.nih.gov/41828198/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

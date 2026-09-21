@@ -8,7 +8,7 @@ titre: Radio frequency electromagnetic radiations interfere with the Leydig cell
 url: https://pubmed.ncbi.nlm.nih.gov/38758777/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Male
 - Leydig Cells
@@ -27,7 +27,7 @@ types:
 - Research Support, Non-U.S. Gov't
 mots_cles: []
 modele: in_vitro
-modele_score: 1004.5
+modele_score: 1007.5
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
@@ -35,6 +35,8 @@ modele_indices:
 - Cell Line (descripteur décisif)
 - in vitro
 - cell line
+- cell viability
+- cell proliferation
 theme: stress_oxydatif
 theme_score: 3.0
 theme_secondaires:

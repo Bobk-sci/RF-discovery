@@ -8,7 +8,7 @@ titre: Evaluation of Hearing Thresholds by Using a Mobile Application in Childre
 url: https://pubmed.ncbi.nlm.nih.gov/31962328/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Audiometry

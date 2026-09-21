@@ -8,7 +8,7 @@ titre: The effect of 2450 MHz microwave radiation on histamine secretion by rat 
 url: https://pubmed.ncbi.nlm.nih.gov/6159087/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Dose-Response Relationship, Radiation

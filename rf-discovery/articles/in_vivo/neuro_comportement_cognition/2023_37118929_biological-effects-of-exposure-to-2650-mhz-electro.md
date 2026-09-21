@@ -8,7 +8,7 @@ titre: Biological effects of exposure to 2650 MHz electromagnetic radiation on t
 url: https://pubmed.ncbi.nlm.nih.gov/37118929/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Hippocampus
 - Animals

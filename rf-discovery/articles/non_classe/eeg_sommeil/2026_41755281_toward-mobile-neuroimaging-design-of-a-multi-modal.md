@@ -8,7 +8,7 @@ titre: 'Toward Mobile Neuroimaging: Design of a Multi-Modal EEG/fNIRS Instrument
 url: https://pubmed.ncbi.nlm.nih.gov/41755281/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electroencephalography

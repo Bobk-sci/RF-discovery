@@ -7,7 +7,7 @@ titre: 5G RF EMF Spectral Exposure Assessment in Four European Countries.
 url: https://pubmed.ncbi.nlm.nih.gov/40831424/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Radio Waves

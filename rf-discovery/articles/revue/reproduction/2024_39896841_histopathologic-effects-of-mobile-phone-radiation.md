@@ -8,7 +8,7 @@ titre: 'Histopathologic effects of mobile phone radiation exposure on the testes
 url: https://pubmed.ncbi.nlm.nih.gov/39896841/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Systematic Review

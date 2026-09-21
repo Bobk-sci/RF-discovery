@@ -8,7 +8,7 @@ titre: Effect of microwave radiation on adult neurogenesis and behavior of prena
 url: https://pubmed.ncbi.nlm.nih.gov/39286040/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -20,7 +20,8 @@ mots_cles:
 - Rostral migratory stream
 modele: in_vivo
 modele_score: 6.5
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - animals
 - rats

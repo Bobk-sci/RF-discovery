@@ -8,7 +8,7 @@ titre: Effects of hyperthermia induced by microwave irradiation on brain develop
 url: https://pubmed.ncbi.nlm.nih.gov/1495004/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Brain

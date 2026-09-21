@@ -8,7 +8,7 @@ titre: 'The relationship between radiofrequency-electromagnetic radiation from c
 url: https://pubmed.ncbi.nlm.nih.gov/36906274/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Incidence

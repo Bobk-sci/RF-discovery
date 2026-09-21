@@ -8,7 +8,7 @@ titre: A cross-sectional study of the association between mobile phone use and s
 url: https://pubmed.ncbi.nlm.nih.gov/27788568/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

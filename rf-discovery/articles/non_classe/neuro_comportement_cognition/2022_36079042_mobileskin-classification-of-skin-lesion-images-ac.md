@@ -8,7 +8,7 @@ titre: 'MobileSkin: Classification of Skin Lesion Images Acquired Using Mobile P
 url: https://pubmed.ncbi.nlm.nih.gov/36079042/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

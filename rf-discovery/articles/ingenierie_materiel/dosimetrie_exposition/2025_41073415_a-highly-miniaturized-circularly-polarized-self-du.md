@@ -8,7 +8,7 @@ titre: A highly miniaturized circularly polarized self-duplexing implantable ant
 url: https://pubmed.ncbi.nlm.nih.gov/41073415/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Swine

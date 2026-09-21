@@ -8,7 +8,7 @@ titre: Electromagnetic fields at a mobile phone frequency (900 MHz) trigger the 
 url: https://pubmed.ncbi.nlm.nih.gov/28665795/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Phone

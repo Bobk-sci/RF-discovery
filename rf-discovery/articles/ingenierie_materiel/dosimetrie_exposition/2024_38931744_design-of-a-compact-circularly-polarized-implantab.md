@@ -8,7 +8,7 @@ titre: Design of a Compact Circularly Polarized Implantable Antenna for Capsule 
 url: https://pubmed.ncbi.nlm.nih.gov/38931744/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Equipment Design

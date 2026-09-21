@@ -8,7 +8,7 @@ titre: 'Mobile phone dependency and sleep quality in college students during COV
 url: https://pubmed.ncbi.nlm.nih.gov/37344816/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Sleep Quality

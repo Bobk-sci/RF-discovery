@@ -9,7 +9,7 @@ titre: 'Scientific evidence invalidates health assumptions underlying the FCC an
 url: https://pubmed.ncbi.nlm.nih.gov/36253855/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Phone

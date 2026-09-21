@@ -8,7 +8,7 @@ titre: 'Impact of Visual Game-Like Features on Cognitive Performance in a Virtua
 url: https://pubmed.ncbi.nlm.nih.gov/35482373/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

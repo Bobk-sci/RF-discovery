@@ -8,7 +8,7 @@ titre: Prolonged 3.5 GHz and 24 GHz RF-EMF Exposure Alters Testicular Immune Bal
 url: https://pubmed.ncbi.nlm.nih.gov/41153756/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

@@ -7,7 +7,7 @@ titre: Printed Electrodes in Microfluidic Arrays for Cancer Biomarker Protein De
 url: https://pubmed.ncbi.nlm.nih.gov/32906644/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Biomarkers, Tumor
 - Electrochemical Techniques

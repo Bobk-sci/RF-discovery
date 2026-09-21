@@ -8,7 +8,7 @@ titre: 'Association between mobile phone use and self-reported well-being in chi
 url: https://pubmed.ncbi.nlm.nih.gov/25967996/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Cell Phone

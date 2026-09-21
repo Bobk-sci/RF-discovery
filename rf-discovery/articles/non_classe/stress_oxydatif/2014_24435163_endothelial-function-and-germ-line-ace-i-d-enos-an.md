@@ -9,7 +9,7 @@ titre: 'Endothelial function and germ-line ACE I/D, eNOS and PAI-1 gene profiles
 url: https://pubmed.ncbi.nlm.nih.gov/24435163/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

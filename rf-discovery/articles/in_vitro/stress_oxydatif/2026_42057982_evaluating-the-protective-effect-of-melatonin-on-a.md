@@ -9,7 +9,7 @@ titre: Evaluating the Protective Effect of Melatonin on Apoptosis, Expression of
 url: https://pubmed.ncbi.nlm.nih.gov/42057982/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article
@@ -21,12 +21,13 @@ mots_cles:
 - Radiofrequency
 - L929 Cells
 modele: in_vitro
-modele_score: 1004.5
+modele_score: 1005.5
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - cell line
 - fibroblasts
+- cell viability
 theme: stress_oxydatif
 theme_score: 3.5
 theme_secondaires:

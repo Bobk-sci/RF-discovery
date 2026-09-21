@@ -8,7 +8,7 @@ titre: Exercise ameliorates hippocampal damage induced by Wi-Fi radiation; a bio
 url: https://pubmed.ncbi.nlm.nih.gov/36796735/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Male

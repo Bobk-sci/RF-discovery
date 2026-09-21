@@ -8,7 +8,7 @@ titre: Contactless and Wireless Wound Monitoring Using Nitrogen-Doped Graphene A
 url: https://pubmed.ncbi.nlm.nih.gov/41774678/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Humans

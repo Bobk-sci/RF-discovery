@@ -8,7 +8,7 @@ titre: Combined radiofrequency electromagnetic and pulsed magnetic field exposur
 url: https://pubmed.ncbi.nlm.nih.gov/42406607/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

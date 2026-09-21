@@ -8,7 +8,7 @@ titre: Who Uses Mobile Phone Health Apps and Does Use Matter? A Secondary Data A
 url: https://pubmed.ncbi.nlm.nih.gov/28428170/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

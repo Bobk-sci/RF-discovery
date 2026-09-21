@@ -7,7 +7,7 @@ titre: 'Microwave exposure of neuronal cells in vitro: Study of apoptosis.'
 url: https://pubmed.ncbi.nlm.nih.gov/16690594/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Cell Line

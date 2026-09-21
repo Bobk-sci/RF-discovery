@@ -9,7 +9,7 @@ titre: 'Determining the relationship between mobile phone network signal strengt
 url: https://doi.org/10.12688/openreseurope.18285.1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

@@ -8,7 +8,7 @@ titre: Data analysis reveals significant microwave-induced eye damage in humans.
 url: https://pubmed.ncbi.nlm.nih.gov/3847507/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

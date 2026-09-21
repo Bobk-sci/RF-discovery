@@ -8,7 +8,7 @@ titre: Effects of exposure to nearby mobile phone base stations and mobile phone
 url: https://pubmed.ncbi.nlm.nih.gov/41645932/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Hydrocortisone

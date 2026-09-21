@@ -8,7 +8,7 @@ titre: Investigation and Validation of New Heart Rate Measurement Sites for Wear
 url: https://pubmed.ncbi.nlm.nih.gov/40218582/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Wearable Electronic Devices

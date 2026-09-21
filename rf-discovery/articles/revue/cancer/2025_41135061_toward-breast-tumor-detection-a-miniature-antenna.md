@@ -8,7 +8,7 @@ titre: 'Toward Breast Tumor Detection: A Miniature Antenna for Industrial, Scien
 url: https://pubmed.ncbi.nlm.nih.gov/41135061/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Breast Neoplasms

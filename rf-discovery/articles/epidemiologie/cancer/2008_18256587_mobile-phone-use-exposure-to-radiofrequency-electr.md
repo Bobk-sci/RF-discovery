@@ -8,7 +8,7 @@ titre: 'Mobile phone use, exposure to radiofrequency electromagnetic field, and 
 url: https://pubmed.ncbi.nlm.nih.gov/18256587/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

@@ -8,7 +8,7 @@ titre: Construction a CO2 Incubator for Cell Culture with Capability of Transmit
 url: https://pubmed.ncbi.nlm.nih.gov/35755974/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -18,10 +18,11 @@ mots_cles:
 - microwave radiation
 - nonmetallic walls
 modele: in_vitro
-modele_score: 2.5
+modele_score: 4.5
 modele_secondaires: []
 modele_indices:
 - cell culture
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 2.0
 theme_secondaires: []

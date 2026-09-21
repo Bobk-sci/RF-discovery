@@ -8,7 +8,7 @@ titre: Fat-intra-body communication system using flexible wearable antennas with
 url: https://pubmed.ncbi.nlm.nih.gov/42230940/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adipose Tissue
 - Humans

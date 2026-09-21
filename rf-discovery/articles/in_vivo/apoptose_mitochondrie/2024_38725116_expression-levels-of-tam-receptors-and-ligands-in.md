@@ -8,7 +8,7 @@ titre: Expression levels of tam receptors and ligands in the testes of rats expo
 url: https://pubmed.ncbi.nlm.nih.gov/38725116/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Male

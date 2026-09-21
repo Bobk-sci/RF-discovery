@@ -8,7 +8,7 @@ titre: 2.4 GHz Electromagnetic Field Influences the Response of the Circadian Os
 url: https://pubmed.ncbi.nlm.nih.gov/36361993/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Cell Proliferation
@@ -30,12 +30,13 @@ mots_cles:
 - sirtuin1
 - survivin
 modele: in_vitro
-modele_score: 1002.5
+modele_score: 1004.5
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
+- cell proliferation
 theme: cancer
 theme_score: 3.0
 theme_secondaires:

@@ -8,7 +8,7 @@ titre: Exposure of Radiofrequency Electromagnetic Radiation on Biochemical and P
 url: https://pubmed.ncbi.nlm.nih.gov/33109858/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Phone

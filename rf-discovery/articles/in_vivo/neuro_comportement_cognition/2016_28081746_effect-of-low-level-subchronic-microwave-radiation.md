@@ -7,7 +7,7 @@ titre: Effect of Low Level Subchronic Microwave Radiation on Rat Brain.
 url: https://pubmed.ncbi.nlm.nih.gov/28081746/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cognition

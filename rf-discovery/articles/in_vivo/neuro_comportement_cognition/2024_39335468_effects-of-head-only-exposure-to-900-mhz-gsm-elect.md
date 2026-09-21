@@ -9,7 +9,7 @@ titre: 'Effects of Head-Only Exposure to 900 MHz GSM Electromagnetic Fields in R
 url: https://pubmed.ncbi.nlm.nih.gov/39335468/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

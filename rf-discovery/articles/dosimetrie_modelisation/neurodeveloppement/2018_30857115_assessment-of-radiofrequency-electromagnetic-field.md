@@ -8,7 +8,7 @@ titre: Assessment of radiofrequency electromagnetic field exposure from personal
 url: https://pubmed.ncbi.nlm.nih.gov/30857115/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Cell Phone

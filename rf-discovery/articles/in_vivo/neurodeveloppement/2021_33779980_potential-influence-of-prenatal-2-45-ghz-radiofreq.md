@@ -8,7 +8,7 @@ titre: Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/33779980/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Electromagnetic Fields

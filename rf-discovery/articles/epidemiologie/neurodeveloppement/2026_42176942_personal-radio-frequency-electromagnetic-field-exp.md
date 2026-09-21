@@ -8,7 +8,7 @@ titre: Personal radio frequency electromagnetic field exposure among Swiss adole
 url: https://pubmed.ncbi.nlm.nih.gov/42176942/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Environmental Exposure

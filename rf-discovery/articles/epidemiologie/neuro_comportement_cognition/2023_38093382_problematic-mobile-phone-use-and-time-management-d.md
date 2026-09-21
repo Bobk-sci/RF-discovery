@@ -8,7 +8,7 @@ titre: 'Problematic mobile phone use and time management disposition in Chinese 
 url: https://pubmed.ncbi.nlm.nih.gov/38093382/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Humans

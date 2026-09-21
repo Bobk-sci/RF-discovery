@@ -7,7 +7,7 @@ titre: Radiofrequency dosimetry for the Ferris-wheel mouse exposure system.
 url: https://pubmed.ncbi.nlm.nih.gov/16392968/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Body Burden

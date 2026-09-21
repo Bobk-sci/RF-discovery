@@ -8,7 +8,7 @@ titre: The effects of radiofrequency electromagnetic radiation emitted by mobile
 url: https://pubmed.ncbi.nlm.nih.gov/39497584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Phone

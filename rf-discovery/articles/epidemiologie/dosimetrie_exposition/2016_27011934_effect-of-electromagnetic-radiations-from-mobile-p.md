@@ -8,7 +8,7 @@ titre: Effect of electromagnetic radiations from mobile phone base stations on g
 url: https://pubmed.ncbi.nlm.nih.gov/27011934/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

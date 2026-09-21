@@ -8,7 +8,7 @@ titre: Assessment of Inflammation in 3D Reconstructed Human Skin Exposed to Comb
 url: https://pubmed.ncbi.nlm.nih.gov/36769173/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Skin
 - Humans

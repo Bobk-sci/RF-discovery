@@ -8,7 +8,7 @@ titre: Lipidomics of Serum and Hippocampus Reveal the Protective Effects of Ferm
 url: https://pubmed.ncbi.nlm.nih.gov/34085811/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Chromatography, Liquid

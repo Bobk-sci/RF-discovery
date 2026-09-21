@@ -8,7 +8,7 @@ titre: Radiofrequency radiation at 2.856 GHz does not affect key cellular endpoi
 url: https://pubmed.ncbi.nlm.nih.gov/30482060/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Endpoint Determination
@@ -28,7 +28,7 @@ mots_cles:
 - apoptosis
 - reactive oxygen species
 modele: in_vitro
-modele_score: 1003.5
+modele_score: 1004.5
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
@@ -36,6 +36,7 @@ modele_indices:
 - PC12 Cells (descripteur décisif)
 - PC12
 - flow cytometry
+- cytotoxicity
 theme: stress_oxydatif
 theme_score: 3.0
 theme_secondaires:

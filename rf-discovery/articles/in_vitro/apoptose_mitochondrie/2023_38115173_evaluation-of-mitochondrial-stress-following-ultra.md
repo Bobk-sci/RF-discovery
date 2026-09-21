@@ -8,7 +8,7 @@ titre: Evaluation of mitochondrial stress following ultraviolet radiation and 5G
 url: https://pubmed.ncbi.nlm.nih.gov/38115173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Reactive Oxygen Species
@@ -26,11 +26,12 @@ mots_cles:
 - reactive oxygen species
 - skin
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - fibroblasts
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 7.5
 theme_secondaires:

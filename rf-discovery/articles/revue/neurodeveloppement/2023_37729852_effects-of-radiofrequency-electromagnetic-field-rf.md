@@ -8,7 +8,7 @@ titre: 'Effects of Radiofrequency Electromagnetic Field (RF-EMF) exposure on pre
 url: https://pubmed.ncbi.nlm.nih.gov/37729852/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Mammals

@@ -8,7 +8,7 @@ titre: Gut microbiota-tryptophan-serotonin axis drives anxiety-like behavior via
 url: https://pubmed.ncbi.nlm.nih.gov/42106547/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Prefrontal Cortex
 - Neurons

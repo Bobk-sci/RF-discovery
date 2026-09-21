@@ -8,7 +8,7 @@ titre: Effects of different mobile phone UMTS signals on DNA, apoptosis and oxid
 url: https://pubmed.ncbi.nlm.nih.gov/33254645/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Cell Phone

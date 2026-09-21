@@ -8,7 +8,7 @@ titre: CeONPs relieve radiofrequency radiation, improve testosterone synthesis, 
 url: https://pubmed.ncbi.nlm.nih.gov/31296989/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants
@@ -35,8 +35,8 @@ mots_cles:
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
-- dosimetrie_modelisation
 - in_vitro
+- dosimetrie_modelisation
 modele_indices:
 - animals
 - mice

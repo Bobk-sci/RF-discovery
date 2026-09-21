@@ -8,7 +8,7 @@ titre: Acute exposure to GSM 900-MHz electromagnetic fields induces glial reacti
 url: https://pubmed.ncbi.nlm.nih.gov/15571980/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Autoradiography

@@ -8,7 +8,7 @@ titre: Immunomodulatory role of non-ionizing electromagnetic radiation in human 
 url: https://pubmed.ncbi.nlm.nih.gov/37207815/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Monocytes
@@ -30,12 +30,13 @@ mots_cles:
 - Radiofrequency radiation
 - Superoxide
 modele: in_vitro
-modele_score: 1002.5
+modele_score: 1003.5
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - Cell Line (descripteur décisif)
 - cell line
+- cell viability
 theme: cancer
 theme_score: 2.5
 theme_secondaires:

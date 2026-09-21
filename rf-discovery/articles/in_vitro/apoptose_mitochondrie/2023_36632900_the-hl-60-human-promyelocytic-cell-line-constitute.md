@@ -9,7 +9,7 @@ titre: The HL-60 human promyelocytic cell line constitutes an effective in vitro
 url: https://pubmed.ncbi.nlm.nih.gov/36632900/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - HL-60 Cells

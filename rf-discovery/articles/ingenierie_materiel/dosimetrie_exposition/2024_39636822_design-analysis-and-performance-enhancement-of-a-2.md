@@ -8,7 +8,7 @@ titre: Design analysis and performance enhancement of a 2-element MIMO skin-impl
 url: https://pubmed.ncbi.nlm.nih.gov/39636822/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Skin
 - Animals

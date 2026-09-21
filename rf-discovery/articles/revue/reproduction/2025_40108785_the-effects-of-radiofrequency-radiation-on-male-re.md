@@ -8,7 +8,7 @@ titre: The effects of radiofrequency radiation on male reproductive health and p
 url: https://pubmed.ncbi.nlm.nih.gov/40108785/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Testis
 - Spermatozoa

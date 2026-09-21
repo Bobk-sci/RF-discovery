@@ -9,7 +9,7 @@ titre: 'Understanding the Needs of a Mobile Phone-Based Telemonitoring Program f
 url: https://pubmed.ncbi.nlm.nih.gov/35200152/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

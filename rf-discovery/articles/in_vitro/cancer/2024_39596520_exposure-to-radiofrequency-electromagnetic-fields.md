@@ -8,7 +8,7 @@ titre: Exposure to Radiofrequency Electromagnetic Fields Enhances Melanin Synthe
 url: https://pubmed.ncbi.nlm.nih.gov/39596520/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Line
 - Melanocytes

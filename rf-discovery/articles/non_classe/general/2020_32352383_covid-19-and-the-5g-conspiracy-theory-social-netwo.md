@@ -8,7 +8,7 @@ titre: 'COVID-19 and the 5G Conspiracy Theory: Social Network Analysis of Twitte
 url: https://pubmed.ncbi.nlm.nih.gov/32352383/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Betacoronavirus
 - COVID-19

@@ -8,7 +8,7 @@ titre: 'Mobile Phone Applications for Gestational Diabetes Mellitus: Appraisal a
 url: https://pubmed.ncbi.nlm.nih.gov/31349260/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Diabetes, Gestational

@@ -8,7 +8,7 @@ titre: 4G mobile phone radiation alters some immunogenic and vascular gene expre
 url: https://pubmed.ncbi.nlm.nih.gov/37725264/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Brain
 - Chick Embryo

@@ -8,7 +8,7 @@ titre: 'Radiofrequency Electromagnetic Field Emissions and Neurodevelopmental Ou
 url: https://pubmed.ncbi.nlm.nih.gov/40786381/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

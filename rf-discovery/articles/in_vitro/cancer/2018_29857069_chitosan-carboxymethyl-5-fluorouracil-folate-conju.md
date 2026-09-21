@@ -8,7 +8,7 @@ titre: 'Chitosan-Carboxymethyl-5-Fluorouracil-Folate Conjugate Particles: Microw
 url: https://pubmed.ncbi.nlm.nih.gov/29857069/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Administration, Cutaneous
 - Cell Line, Tumor
@@ -29,7 +29,7 @@ types:
 - Research Support, Non-U.S. Gov't
 mots_cles: []
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1004.0
 modele_secondaires:
 - in_vivo
 modele_indices:
@@ -37,6 +37,7 @@ modele_indices:
 - Cell Line, Tumor (descripteur décisif)
 - in vitro
 - cell line
+- cytotoxicity
 theme: cancer
 theme_score: 2.0
 theme_secondaires: []

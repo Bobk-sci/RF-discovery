@@ -8,7 +8,7 @@ titre: Numerical dosimetry of specific absorption rate of insects exposed to far
 url: https://pubmed.ncbi.nlm.nih.gov/39746061/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Electromagnetic Fields

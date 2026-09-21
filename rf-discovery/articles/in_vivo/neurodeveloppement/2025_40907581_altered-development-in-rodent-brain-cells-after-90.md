@@ -7,7 +7,7 @@ titre: Altered development in rodent brain cells after 900 MHz radiofrequency 
 url: https://pubmed.ncbi.nlm.nih.gov/40907581/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Male
 - Animals
@@ -40,8 +40,8 @@ mots_cles:
 modele: in_vivo
 modele_score: 13.0
 modele_secondaires:
-- dosimetrie_modelisation
 - in_vitro
+- dosimetrie_modelisation
 modele_indices:
 - animals
 - rats

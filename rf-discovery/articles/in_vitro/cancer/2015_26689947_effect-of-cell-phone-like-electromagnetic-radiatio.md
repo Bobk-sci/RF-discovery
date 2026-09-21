@@ -8,7 +8,7 @@ titre: Effect of cell phone-like electromagnetic radiation on primary human thyr
 url: https://pubmed.ncbi.nlm.nih.gov/26689947/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Absorption, Radiation
 - Adult
@@ -37,12 +37,13 @@ mots_cles:
 - environmental stress
 - thyroid cancer
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1005.0
 modele_secondaires: []
 modele_indices:
 - Cells, Cultured (descripteur décisif)
 - cells, cultured
 - cell culture
+- cell proliferation
 theme: cancer
 theme_score: 4.0
 theme_secondaires:

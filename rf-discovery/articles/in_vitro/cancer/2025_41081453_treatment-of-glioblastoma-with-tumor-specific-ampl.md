@@ -8,7 +8,7 @@ titre: Treatment of glioblastoma with tumor-specific amplitude-modulated radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/41081453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Humans
@@ -30,12 +30,13 @@ mots_cles:
 - amplitude-modulated radiofrequency electromagnetic fields
 - glioblastoma
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1004.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
+- cell proliferation
 theme: cancer
 theme_score: 2.0
 theme_secondaires:

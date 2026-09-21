@@ -8,7 +8,7 @@ titre: 'Pilot questionnaire survey shows the lack of diagnostic criteria for ele
 url: https://pubmed.ncbi.nlm.nih.gov/40755938/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - review-article

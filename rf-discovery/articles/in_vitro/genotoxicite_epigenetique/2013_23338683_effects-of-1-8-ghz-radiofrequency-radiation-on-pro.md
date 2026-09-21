@@ -8,7 +8,7 @@ titre: Effects of 1.8 GHz radiofrequency radiation on protein expression in huma
 url: https://pubmed.ncbi.nlm.nih.gov/23338683/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adenosine Triphosphatases
 - Cell Cycle Proteins
@@ -33,13 +33,14 @@ mots_cles:
 - human lens epithelial cells
 - shotgun proteomics approach
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1005.5
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - Cell Line (descripteur décisif)
 - in vitro
 - cell line
+- epithelial cells
 theme: genotoxicite_epigenetique
 theme_score: 2.0
 theme_secondaires:

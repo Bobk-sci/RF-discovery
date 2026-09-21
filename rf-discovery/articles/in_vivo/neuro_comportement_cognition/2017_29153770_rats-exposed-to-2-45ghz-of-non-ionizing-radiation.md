@@ -9,7 +9,7 @@ titre: Rats exposed to 2.45GHz of non-ionizing radiation exhibit behavioral chan
 url: https://pubmed.ncbi.nlm.nih.gov/29153770/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

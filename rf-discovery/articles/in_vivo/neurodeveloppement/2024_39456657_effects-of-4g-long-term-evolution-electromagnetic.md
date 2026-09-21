@@ -8,7 +8,7 @@ titre: Effects of 4G Long-Term Evolution Electromagnetic Fields on Thyroid Hormo
 url: https://pubmed.ncbi.nlm.nih.gov/39456657/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Pituitary Gland
 - Thyroid Gland

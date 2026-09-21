@@ -8,7 +8,7 @@ titre: 'Preliminary study on the impact of 900 MHz radiation on human sperm: A
 url: https://pubmed.ncbi.nlm.nih.gov/39505052/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Male
 - Humans

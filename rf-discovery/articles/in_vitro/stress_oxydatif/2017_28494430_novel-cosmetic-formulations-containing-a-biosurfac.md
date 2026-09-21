@@ -7,7 +7,7 @@ titre: Novel cosmetic formulations containing a biosurfactant from Lactobacillus
 url: https://pubmed.ncbi.nlm.nih.gov/28494430/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - 3T3 Cells
 - Animals
@@ -33,12 +33,14 @@ mots_cles:
 - Essential oils
 - Skin
 modele: in_vitro
-modele_score: 1001.0
+modele_score: 1004.0
 modele_secondaires:
 - in_vivo
 modele_indices:
 - 3T3 Cells (descripteur décisif)
 - cell line
+- cytotoxicity
+- cell proliferation
 theme: stress_oxydatif
 theme_score: 1.0
 theme_secondaires: []

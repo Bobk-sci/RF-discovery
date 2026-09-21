@@ -7,7 +7,7 @@ titre: Does the Use of Mobile Phone Affect Male Fertility? A Mini-Review.
 url: https://pubmed.ncbi.nlm.nih.gov/33311902/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

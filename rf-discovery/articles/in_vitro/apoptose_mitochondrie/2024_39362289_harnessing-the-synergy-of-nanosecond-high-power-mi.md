@@ -9,7 +9,7 @@ titre: Harnessing the synergy of nanosecond high-power microwave pulses and cisp
 url: https://pubmed.ncbi.nlm.nih.gov/39362289/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cisplatin
 - Humans

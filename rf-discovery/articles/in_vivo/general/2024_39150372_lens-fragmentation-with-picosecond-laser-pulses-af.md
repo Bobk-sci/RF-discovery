@@ -8,7 +8,7 @@ titre: Lens Fragmentation with Picosecond Laser Pulses After Artificial Cataract
 url: https://pubmed.ncbi.nlm.nih.gov/39150372/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Microwaves

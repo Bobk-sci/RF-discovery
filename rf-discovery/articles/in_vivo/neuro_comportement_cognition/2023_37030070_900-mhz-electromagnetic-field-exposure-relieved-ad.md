@@ -8,7 +8,7 @@ titre: '900 MHZ electromagnetic field exposure relieved AD-like symptoms on APP
 url: https://pubmed.ncbi.nlm.nih.gov/37030070/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Mice
 - Animals

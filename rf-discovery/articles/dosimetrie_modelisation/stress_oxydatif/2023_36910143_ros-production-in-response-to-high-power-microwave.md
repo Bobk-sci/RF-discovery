@@ -8,7 +8,7 @@ titre: 'ROS production in response to high-power microwave pulses induces p53 ac
 url: https://pubmed.ncbi.nlm.nih.gov/36910143/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -22,7 +22,8 @@ mots_cles:
 - reactive species
 modele: dosimetrie_modelisation
 modele_score: 2.5
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - dosimetry
 theme: stress_oxydatif

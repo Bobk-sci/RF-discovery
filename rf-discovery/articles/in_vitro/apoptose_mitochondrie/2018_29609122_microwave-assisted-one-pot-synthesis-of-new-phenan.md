@@ -8,7 +8,7 @@ titre: Microwave-assisted one-pot synthesis of new phenanthrene fused-tetrahydro
 url: https://pubmed.ncbi.nlm.nih.gov/29609122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Acridines
 - Antineoplastic Agents
@@ -32,7 +32,7 @@ mots_cles:
 - Perkin-condensation
 - Phenanthrene fused-tetrahydrodibenzo-acridinones
 modele: in_vitro
-modele_score: 1005.0
+modele_score: 1007.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
@@ -41,6 +41,7 @@ modele_indices:
 - cell line
 - HeLa
 - flow cytometry
+- cytotoxicity
 theme: apoptose_mitochondrie
 theme_score: 6.5
 theme_secondaires:

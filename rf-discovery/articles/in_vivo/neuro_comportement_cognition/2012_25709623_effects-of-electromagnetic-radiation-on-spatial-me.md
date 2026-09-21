@@ -8,7 +8,7 @@ titre: Effects of electromagnetic radiation on spatial memory and synapses in ra
 url: https://pubmed.ncbi.nlm.nih.gov/25709623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

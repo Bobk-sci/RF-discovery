@@ -10,7 +10,7 @@ titre: 'Exposure to mobile phone (900-1800 MHz) during pregnancy: tissue oxida
 url: https://pubmed.ncbi.nlm.nih.gov/28434276/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Catalase

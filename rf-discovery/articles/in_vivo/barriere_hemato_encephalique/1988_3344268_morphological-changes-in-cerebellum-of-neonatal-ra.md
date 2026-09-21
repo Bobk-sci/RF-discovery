@@ -7,7 +7,7 @@ titre: Morphological changes in cerebellum of neonatal rats exposed to 2.45 GHz 
 url: https://pubmed.ncbi.nlm.nih.gov/3344268/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Animals, Newborn

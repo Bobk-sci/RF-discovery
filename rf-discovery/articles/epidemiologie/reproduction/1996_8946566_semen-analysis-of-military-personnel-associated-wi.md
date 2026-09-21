@@ -7,7 +7,7 @@ titre: Semen analysis of military personnel associated with military duty assign
 url: https://pubmed.ncbi.nlm.nih.gov/8946566/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Cross-Sectional Studies

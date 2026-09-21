@@ -8,7 +8,7 @@ titre: Multi-frequency electromagnetic radiation promoted hepatic lipid metaboli
 url: https://pubmed.ncbi.nlm.nih.gov/40914080/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Liver
 - Adipose Tissue

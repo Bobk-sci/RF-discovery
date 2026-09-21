@@ -8,7 +8,7 @@ titre: Cognitive impairment and neurogenotoxic effects in rats exposed to low-in
 url: https://pubmed.ncbi.nlm.nih.gov/25749756/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Behavior, Animal

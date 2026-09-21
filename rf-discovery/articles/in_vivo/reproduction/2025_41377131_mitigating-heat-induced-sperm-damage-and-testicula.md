@@ -8,7 +8,7 @@ titre: 'Mitigating Heat-Induced Sperm Damage and Testicular Tissue Abnormalities
 url: https://pubmed.ncbi.nlm.nih.gov/41377131/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

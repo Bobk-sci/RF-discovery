@@ -8,7 +8,7 @@ titre: Effects of 1800 MHz and 2100 MHz mobile phone radiation on the blood-br
 url: https://pubmed.ncbi.nlm.nih.gov/39548043/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Blood-Brain Barrier
 - Brain

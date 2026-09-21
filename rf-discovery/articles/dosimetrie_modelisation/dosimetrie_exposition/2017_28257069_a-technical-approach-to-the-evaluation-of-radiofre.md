@@ -8,7 +8,7 @@ titre: A Technical Approach to the Evaluation of Radiofrequency Radiation Emissi
 url: https://pubmed.ncbi.nlm.nih.gov/28257069/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Electromagnetic Fields

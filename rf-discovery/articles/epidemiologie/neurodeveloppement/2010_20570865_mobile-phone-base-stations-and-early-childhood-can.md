@@ -7,7 +7,7 @@ titre: 'Mobile phone base stations and early childhood cancers: case-control stu
 url: https://pubmed.ncbi.nlm.nih.gov/20570865/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Child

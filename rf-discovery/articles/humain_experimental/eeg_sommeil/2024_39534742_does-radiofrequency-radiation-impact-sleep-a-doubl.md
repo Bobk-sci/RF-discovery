@@ -8,7 +8,7 @@ titre: Does radiofrequency radiation impact sleep? A double-blind, randomised, p
 url: https://pubmed.ncbi.nlm.nih.gov/39534742/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electroencephalography

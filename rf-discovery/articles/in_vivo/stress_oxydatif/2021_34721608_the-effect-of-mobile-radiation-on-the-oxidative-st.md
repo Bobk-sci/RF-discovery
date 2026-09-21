@@ -8,7 +8,7 @@ titre: The Effect of Mobile Radiation on the Oxidative Stress Biomarkers in Preg
 url: https://pubmed.ncbi.nlm.nih.gov/34721608/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

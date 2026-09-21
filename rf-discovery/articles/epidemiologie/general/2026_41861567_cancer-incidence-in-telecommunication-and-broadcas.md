@@ -8,7 +8,7 @@ titre: 'Cancer incidence in telecommunication and broadcasting workers in the Un
 url: https://pubmed.ncbi.nlm.nih.gov/41861567/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - United Kingdom
