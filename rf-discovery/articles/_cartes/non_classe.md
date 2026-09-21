@@ -1,13 +1,29 @@
 # non_classe
 
-164 articles.
+230 articles.
 
 ## apoptose_mitochondrie (1)
 
 - `2026` [[2026_41847319_the-role-of-autophagy-in-microwave-radiation-induc]] — Zhang C et al.
 
-## cancer (5)
+## barriere_hemato_encephalique (1)
 
+- `2026` [[2026_42395102_value-of-dual-energy-computed-tomography-with-mate]] — Dong LW et al.
+
+## cancer (17)
+
+- `2026` [[2026_41815122_construction-of-a-postoperative-disease-free-survi]] — Zhao W et al.
+- `2026` [[2026_41863573_increasing-the-production-of-l-asparaginase-from-b]] — Daifallah V, Jaafar AAK
+- `2026` [[2026_41889495_integration-of-dual-energy-ct-parameters-and-radio]] — Jiang N et al.
+- `2026` [[2026_41949696_assessment-of-multi-parameter-dual-energy-ct-in-pr]] — Sun M et al.
+- `2026` [[2026_42118276_dual-energy-ct-derived-multiparameters-for-noninva]] — Li M et al.
+- `2026` [[2026_42118397_role-of-extracellular-volume-fraction-determined-b]] — Fujita N et al.
+- `2026` [[2026_42241175_extracellular-volume-fraction-determined-by-equili]] — Tan Y et al.
+- `2026` [[2026_42287903_value-of-dual-energy-ct-in-assessing-therapeutic-r]] — Sun Z et al.
+- `2026` [[2026_42308522_radiological-pathological-correlation-of-tumour-si]] — Timmer VCML et al.
+- `2026` [[2026_42571761_baseline-dual-energy-ct-iodine-uptake-predicts-sys]] — Bleymehl V et al.
+- `2026` [[2026_42647686_diagnostic-performance-of-the-proposed-dect-ni-rad]] — Sananmuang T et al.
+- `2026` [[2026_42661227_dual-energy-ct-extracellular-volume-fraction-for-p]] — Ming S et al.
 - `2024` [[2024_39337813_a-breast-tumor-monitoring-vest-with-flexible-uwb-a]] — Dessai R et al.
 - `2022` [[2022_35271102_heterogeneous-skin-phantoms-for-experimental-valid]] — Boparai J, Popović M
 - `2021` [[2021_34541704_mobile-phone-use-and-time-trend-of-brain-cancer-in]] — Choi KH et al.
@@ -23,9 +39,10 @@
 - `2025` [[2025_41364135_rf-emf-exposure-in-the-transition-to-5g-a-multi-di]] — Zarbouti D et al.
 - `2024` [[2024_38793866_in-situ-assessment-of-uplink-duty-cycles-for-4g-an]] — Vermeeren G et al.
 
-## eeg_sommeil (9)
+## eeg_sommeil (10)
 
 - `2026` [[2026_41755281_toward-mobile-neuroimaging-design-of-a-multi-modal]] — Barras M et al.
+- `2026` [[2026_42578022_diagnostic-performance-of-a-combined-reflective-ph]] — Qiao M et al.
 - `2026` [[2026_PPR1188599_an-approach-to-reduce-the-number-of-intermediate-n]]
 - `2024` [[2024_38865177_evaluation-of-autonomic-nervous-system-function-du]] — Togo E et al.
 - `2023` [[2023_37069845_sleep-reactivity-and-related-factors-in-adolescenc]] — Kater MJ et al.
@@ -35,17 +52,53 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (58)
+## general (98)
 
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
+- `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
+- `2026` [[2026_41768355_the-use-of-diathermic-syncope-for-stunning-cattle]] — Nielsen SS et al.
+- `2026` [[2026_41828270_efficient-microwave-assisted-palladium-catalyzed-s]] — Hu HC et al.
 - `2026` [[2026_41902144_cell-complexity-impact-on-railway-5g-performance-m]] — Pilvik R et al.
+- `2026` [[2026_41924747_radiomics-analysis-of-dual-energy-ct-derived-iodin]] — Wang X et al.
 - `2026` [[2026_41927614_path-loss-dataset-from-field-measurements-at-3-5-g]] — Perdomo-Reyes P et al.
 - `2026` [[2026_41976670_enhancing-the-electromagnetic-interference-shieldi]] — Kang M et al.
+- `2026` [[2026_42008081_associations-of-dual-energy-computed-tomography-de]] — Dang Y et al.
+- `2026` [[2026_42045509_bowel-ischemia-detection-on-portal-venous-ct-multi]] — Mankertz F et al.
+- `2026` [[2026_42164114_dual-energy-and-perfusion-ct-for-predicting-respon]] — Van Honacker B et al.
+- `2026` [[2026_42170470_value-of-dual-energy-ct-parameters-der-and-dei-in]] — Hou B, Zheng Q
+- `2026` [[2026_42176311_dual-energy-ct-for-proton-therapy-impact-of-advanc]] — Schwengfelder J et al.
+- `2026` [[2026_42208166_dual-energy-ct-derived-fibrosis-biomarkers-predict]] — Cheng P et al.
+- `2026` [[2026_42217287_dual-energy-ct-for-tips-patency-assessment-quantit]] — Oberparleiter M et al.
+- `2026` [[2026_42251033_superballistic-flow-of-viscous-electron-fluid-indu]] — Wang X et al.
+- `2026` [[2026_42275178_the-feasibility-of-low-contrast-dose-dual-energy-c]] — Chen F et al.
+- `2026` [[2026_42337570_passive-sensing-of-gait-and-medication-related-flu]] — Yun JJ et al.
 - `2026` [[2026_42365021_multidirectional-strain-insensitive-stretchable-rf]] — Yang F et al.
+- `2026` [[2026_42377449_can-dual-energy-ct-be-easily-adopted-in-clinical-p]] — Lee K et al.
+- `2026` [[2026_42391232_evaluation-of-anemia-in-non-enhanced-and-contrast]] — Kim C et al.
+- `2026` [[2026_42424416_edema-enhanced-ct-derived-from-quantitative-dual-e]] — Oda T et al.
+- `2026` [[2026_42426670_the-value-of-dual-energy-computed-tomography-quant]] — Dong H et al.
+- `2026` [[2026_42461421_dual-energy-ct-with-metal-artifact-reduction-for-p]] — Xie D et al.
 - `2026` [[2026_42469348_consideration-of-electromagnetic-wave-interference]] — Martínez Antón JC et al.
+- `2026` [[2026_42471405_an-automated-long-term-bridge-deflection-monitorin]] — Wang H et al.
+- `2026` [[2026_42560033_how-do-individual-monosodium-urate-depositions-res]] — Christiansen SN et al.
+- `2026` [[2026_42570577_characterization-of-parotid-lesions-with-dual-ener]] — Hu H et al.
+- `2026` [[2026_42615109_recombinant-nus-organophosphorus-hydrolase-oph-imm]] — Vyas T et al.
+- `2026` [[2026_42618337_association-between-edema-and-contrast-extravasati]] — Pinckaers FME et al.
+- `2026` [[2026_42619602_diagnostic-value-of-calcium-score-derived-from-vir]] — Byczkowski J et al.
+- `2026` [[2026_42665718_dual-energy-ct-generated-bone-marrow-edema-maps-im]] — Yarabe B et al.
 - `2026` [[2026_42678096_gamma-knife-radiosurgery-in-patients-with-indwelli]] — Qiang Z et al.
+- `2026` [[2026_42701582_diagnostic-performance-and-dose-reduction-of-virtu]] — Wang J et al.
+- `2026` [[2026_42716107_reproducibility-of-perfusion-blood-volume-and-vent]] — Sharma M et al.
+- `2026` [[2026_42726448_quantitative-coronary-artery-and-aortic-valve-calc]] — Fujito H et al.
+- `2026` [[2026_42761464_microwave-power-induced-modulation-of-tigernut-lt]] — Qin JW et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
+- `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
+- `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
+- `2026` [[2026_PPR1276922_dual-energy-ct-derived-extracellular-volume-fracti]] — Lu X et al.
+- `2026` [[2026_PPR1288658_accurate-hepatic-fat-fraction-quantification-acros]] — Li X et al.
 - `2025` [[2025_39656106_dose-estimation-for-indoor-radon-occupational-radi]] — Sahmaran T et al.
+- `2025` [[2025_39657937_comparison-of-chlorhexidine-gluconate-sodium-hypoc]] — Jabeen B et al.
+- `2025` [[2025_39735903_rapid-degradation-of-pharmaceutical-pollutants-usi]] — Gaffar S et al.
 - `2025` [[2025_40060821_nonthermal-effect-of-microwave-processing-enhances]] — Li SC et al.
 - `2025` [[2025_40250582_efficient-design-of-electromagnetic-field-exposure]] — Guillén-Pina J et al.
 - `2025` [[2025_40433971_upcycling-of-waste-fluororubber-to-photocurable-hi]] — Li D et al.
@@ -53,6 +106,7 @@
 - `2025` [[2025_40628899_advancing-sustainable-rf-energy-harvesting-for-wea]] — Tavares J et al.
 - `2025` [[2025_40721441_facile-strategy-toward-the-development-of-novel-bi]] — Elshemy NS et al.
 - `2025` [[2025_40807772_modeling-radiofrequency-electromagnetic-field-wear]] — Gryz K et al.
+- `2025` [[2025_41172665_microwave-assisted-green-tea-extract-for-the-long]] — Tu Y et al.
 - `2025` [[2025_41195631_exposure-variability-between-1-or-6-minute-and-30]] — Bhatt CR et al.
 - `2025` [[2025_41304422_effect-of-corn-starch-as-stabilizer-particle-in-co]] — Amezúa-Arranz C et al.
 - `2025` [[2025_41590772_chemical-assisted-microwave-disinfection-used-to-e]] — Mazur MW et al.
@@ -62,8 +116,11 @@
 - `2024` [[2024_38400217_microwave-and-antenna-systems-in-medical-applicati]] — Lui HS, Persson M
 - `2024` [[2024_38667661_quantitative-analysis-of-genomic-dna-degradation-o]] — Pandey A et al.
 - `2024` [[2024_38927868_rapid-point-of-care-microwave-lysis-and-electroche]] — Joshi LT et al.
+- `2024` [[2024_39108704_rapid-start-up-of-carbon-free-h-sub-2-sub-producti]] — Matsunaga T et al.
 - `2024` [[2024_39195072_effect-of-microwave-radiation-on-the-properties-of]] — Průša D et al.
 - `2024` [[2024_39272571_enhancing-mushroom-freezing-quality-using-microwav]] — Vardanjani MY et al.
+- `2024` [[2024_PPR789273_effect-of-microwave-irradiation-and-potassium-perm]] — Tagheabady RF et al.
+- `2024` [[2024_PPR921822_rapid-immobilisation-of-chemical-reactions-in-alka]] — Tesovnik A, Horvat B
 - `2023` [[2023_36869795_a-survey-of-the-radiofrequency-electromagnetic-ene]] — Henderson S et al.
 - `2023` [[2023_37050103_the-effect-of-magneto-priming-on-the-physiological]] — de Faria RQ et al.
 - `2023` [[2023_37372672_nextgem-next-generation-integrated-sensing-and-ana]] — Petroulakis N et al.
@@ -101,12 +158,19 @@
 - `2018` [[2018_30607077_effect-of-conventional-and-microwave-tissue-proces]] — Dwivedi D et al.
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 
-## neuro_comportement_cognition (27)
+## neuro_comportement_cognition (34)
 
+- `2026` [[2026_41602187_design-and-synthesis-of-novel-sulfa-azo-dyes-a-sus]] — Sherif S et al.
 - `2026` [[2026_41917285_microwave-scattering-signatures-for-distinguishing]] — Moradi A, Bait-Suwailam MM
+- `2026` [[2026_41988296_a-multimodal-radiomics-model-to-predict-disease-fr]] — Zhao W et al.
+- `2026` [[2026_42092685_dual-energy-ct-assessment-of-distal-femur-bone-qua]] — Sohn S et al.
 - `2026` [[2026_42237760_field-frustrated-cooperative-distortions-suppressi]] — Vashaee D, Dsouza K
+- `2026` [[2026_42372561_prediction-of-efficacy-and-prognosis-of-pd-1-pd-l1]] — Fan S et al.
 - `2026` [[2026_42517296_shark-preferences-only-subtle-effects-of-electroma]] — Bouwman LJ et al.
+- `2026` [[2026_42558213_evaluation-of-a-dual-energy-computed-tomography-pa]] — Kan X et al.
+- `2026` [[2026_42715823_evaluation-of-machine-learning-models-for-predicti]] — Nain A et al.
 - `2026` [[2026_42761882_microwave-induced-efficient-degradation-of-tetracy]] — Liu M et al.
+- `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
 - `2024` [[2024_38767941_notification-you-may-have-cancer-could-smartphones]] — Scott SE, Thompson MJ
@@ -160,8 +224,9 @@
 - `2006` [[2006_17063827_microwave-propagation-on-acupuncture-channels]] — Krevsky MA et al.
 - `2005` [[2005_16403721_parent-child-interaction-using-a-mobile-and-wirele]] — Gammon D et al.
 
-## reproduction (3)
+## reproduction (4)
 
+- `2026` [[2026_42655174_mechanisms-of-915-mhz-microwave-thermal-treatment]] — Mao J et al.
 - `2025` [[2025_40988160_mobile-phone-usage-duration-and-male-fertility-a-t]] — Xiang Y et al.
 - `2022` [[2022_35360230_long-term-wi-fi-exposure-from-pre-pubertal-to-adul]] — Jaffar FHF et al.
 - `2016` [[2016_28144597_the-fundamental-reasons-why-laptop-computers-shoul]] — Mortazavi SA et al.
@@ -182,15 +247,19 @@
 - `2014` [[2014_24435163_endothelial-function-and-germ-line-ace-i-d-enos-an]] — Gazi E et al.
 - `2014` [[2014_24753545_cell-phone-use-and-parotid-salivary-gland-alterati]] — de Souza FT et al.
 
-## thermique (14)
+## thermique (18)
 
 - `2026` [[2026_41548019_modelling-selective-heating-in-microwave-heated-pa]] — Niño CG
 - `2026` [[2026_41598921_effects-of-microwave-on-mortality-and-detection-ef]] — Miao S et al.
 - `2026` [[2026_IND609501314_impact-of-pretreatments-on-the-reduction-of-allyl]] — Srivastava S et al.
 - `2026` [[2026_PPR1149630_comparative-study-on-the-microwave-assisted-and-co]] — Dağlı R et al.
 - `2026` [[2026_PPR1290262_density-dependent-microwave-heating-of-aluminum-na]] — Vargas E et al.
+- `2025` [[2025_40125614_unprecedented-ultra-high-expansion-ratio-foam-for]] — Zhong W et al.
+- `2025` [[2025_40270078_comparison-of-the-effect-of-2450-mhz-and-915-mhz-m]] — Sagong HG et al.
 - `2025` [[2025_40271596_influence-of-carbon-nanotube-addition-on-microstru]] — Hwang CH et al.
+- `2025` [[2025_40732521_electric-field-measurement-in-radiative-hypertherm]] — Di Cristofano M et al.
 - `2025` [[2025_41010126_research-on-electromagnetic-and-rheological-perfor]] — Wu P et al.
+- `2025` [[2025_41282402_microwave-driven-nonoxidative-and-selective-conver]] — Baddam SR et al.
 - `2025` [[2025_PPR1116898_controlling-microwave-energy-absorption-in-aluminu]] — Vargas E et al.
 - `2024` [[2024_38910919_microwave-assisted-disinfestation-of-green-gram-lt]] — Guru PN et al.
 - `2024` [[2024_39309642_recycling-of-e-waste-power-cables-using-microwave]] — Horikoshi S et al.

@@ -1,9 +1,13 @@
 # epidemiologie
 
-217 articles.
+244 articles.
 
-## cancer (22)
+## cancer (26)
 
+- `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
+- `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
+- `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
+- `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.
@@ -38,9 +42,10 @@
 - `2014` [[2014_24632329_modelling-indoor-electromagnetic-fields-emf-from-m]] — Beekhuizen J et al.
 - `2010` [[2010_20708499_effects-of-exposure-to-gsm-mobile-phone-base-stati]] — Augner C et al.
 
-## eeg_sommeil (30)
+## eeg_sommeil (31)
 
 - `2026` [[2026_39322200_partner-phubbing-and-sleep-quality-serial-mediatio]] — Dikdere B, Türkarslan KK
+- `2026` [[2026_42258677_using-legacy-polysomnography-data-to-train-a-radar]] — Yin M et al.
 - `2026` [[2026_42352556_delayed-correlations-between-geomagnetic-activity]] — Chezzi CD et al.
 - `2026` [[2026_42580044_occupational-electromagnetic-field-exposure-and-sl]] — Soumillion M et al.
 - `2025` [[2025_41122328_the-influence-of-mobile-technologies-on-the-qualit]] — Slezáková Z et al.
@@ -71,12 +76,30 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (44)
+## general (62)
 
+- `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
+- `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
+- `2026` [[2026_41668915_optimized-dual-source-dual-energy-computed-tomogra]] — Wang Q et al.
 - `2026` [[2026_41861567_cancer-incidence-in-telecommunication-and-broadcas]] — Litchfield I
+- `2026` [[2026_41897583_dual-energy-ct-derived-parameters-a-promising-tool]] — Guo Y et al.
+- `2026` [[2026_41938112_successful-use-of-non-contrast-dual-energy-compute]] — Durma AD et al.
+- `2026` [[2026_42021514_quantitative-dual-energy-ct-perfusion-versus-spect]] — Liu JE et al.
+- `2026` [[2026_42023649_timing-and-energy-optimization-of-dual-energy-ct-f]] — Johnson JM et al.
+- `2026` [[2026_42072761_effect-of-age-and-sex-on-normalized-automated-dect]] — Schömig T et al.
+- `2026` [[2026_42156666_extracellular-volume-fraction-derived-from-dual-en]] — Gong M et al.
 - `2026` [[2026_42234550_effects-of-26-ghz-radiofrequency-exposure-on-elect]] — Michelant L et al.
+- `2026` [[2026_42330356_comparative-diagnostic-accuracy-of-dual-energy-ct]] — Kanna S R et al.
+- `2026` [[2026_42350762_dect-based-stratification-of-nonocclusive-mesenter]] — Roussel B et al.
+- `2026` [[2026_42360349_dual-energy-computed-tomography-derived-extracellu]] — Zhu Z et al.
+- `2026` [[2026_42360352_delayed-phase-dual-energy-ct-for-early-peritoneal]] — Feng Q et al.
+- `2026` [[2026_42547357_development-and-external-validation-of-a-dual-ener]] — Demir L et al.
+- `2026` [[2026_42682338_noninvasive-stratification-of-her2-status-in-breas]] — Chen H et al.
+- `2026` [[2026_42705926_dual-energy-ct-derived-extracellular-volume-fracti]] — Wang S et al.
 - `2026` [[2026_42708522_the-effect-of-pulsed-electromagnetic-field-on-pain]] — Arani ZSY et al.
 - `2026` [[2026_42725567_heart-rate-variability-responses-to-26-ghz-millime]] — Michelant L et al.
+- `2026` [[2026_PPR1263729_model-construction-and-validation-of-dual-energy-c]] — Zhu H et al.
+- `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I
 - `2025` [[2025_39582129_nomophobia-a-challenge-among-healthcare-profession]] — Shah R et al.
 - `2025` [[2025_40242639_does-personal-relevance-moderate-communication-eff]] — Eggeling-Böcker M et al.
@@ -122,9 +145,12 @@
 
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 
-## neuro_comportement_cognition (46)
+## neuro_comportement_cognition (49)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
+- `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
+- `2026` [[2026_42474719_multi-dect-image-based-intra-and-peritumoral-inter]] — Yang B et al.
+- `2026` [[2026_42550187_deep-learning-image-reconstruction-improves-visual]] — Wu B et al.
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.
@@ -171,10 +197,11 @@
 - `2013` [[2013_24082641_adverse-health-effects-of-occupational-exposure-to]] — Dehghan N, Taeb S
 - `2012` [[2012_25929484_long-term-digital-mobile-phone-use-and-cognitive-d]] — Ng TP et al.
 
-## neurodeveloppement (54)
+## neurodeveloppement (55)
 
 - `2026` [[2026_41498450_rf-emf-risk-perception-and-trust-in-radiation-prot]] — Eggeling-Böcker M et al.
 - `2026` [[2026_42176942_personal-radio-frequency-electromagnetic-field-exp]] — Jalilian H et al.
+- `2026` [[2026_42386297_spondyloarthritis-inception-cohort-of-southern-den]] — Kröber G et al.
 - `2025` [[2025_40566359_trends-in-malignant-and-benign-brain-tumor-inciden]] — Zhang L, Muscat JE
 - `2025` [[2025_40786381_radiofrequency-electromagnetic-field-emissions-and]] — Setia MS et al.
 - `2025` [[2025_40888227_measuring-childhood-mortality-through-mobile-phone]] — Kante AM et al.

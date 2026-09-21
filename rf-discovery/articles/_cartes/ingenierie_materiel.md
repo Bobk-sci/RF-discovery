@@ -1,12 +1,13 @@
 # ingenierie_materiel
 
-65 articles.
+74 articles.
 
-## cancer (1)
+## cancer (2)
 
 - `2026` [[2026_42144411_a-miniature-bio-inspired-antenna-for-sub-6-ghz-con]] — Nahar T et al.
+- `2024` [[2024_39409350_design-and-implementation-of-an-ultra-wideband-wat]] — Tan F, Wang H
 
-## dosimetrie_exposition (48)
+## dosimetrie_exposition (51)
 
 - `2026` [[2026_41533703_mobile-phone-mimo-antenna-array-miniaturization-ba]] — Hou WQ et al.
 - `2026` [[2026_41593293_electronically-switchable-dual-band-capsule-antenn]] — Gogosh N et al.
@@ -28,9 +29,11 @@
 - `2025` [[2025_40283363_a-single-field-finite-difference-time-domain-metho]] — Qi Y et al.
 - `2025` [[2025_40334253_a-novel-radiation-protection-method-for-miniaturiz]] — Zhou WY et al.
 - `2025` [[2025_40445884_a-novel-experimental-design-approach-to-generating]] — Noor SK et al.
+- `2025` [[2025_40572349_ultra-broadband-wearable-antenna-with-thermal-sens]] — Mi B et al.
 - `2025` [[2025_40617874_design-of-a-compact-multistubs-resonator-based-dua]] — Soni GK et al.
 - `2025` [[2025_40835703_compact-wideband-implantable-antenna-for-wireless]] — Mohan A, Kumar N
 - `2025` [[2025_40969052_effects-of-dielectric-properties-of-human-body-on]] — Ghosh S et al.
+- `2025` [[2025_40999786_dosimetric-electromagnetic-safety-of-people-with-i]] — Kranold L et al.
 - `2025` [[2025_41073415_a-highly-miniaturized-circularly-polarized-self-du]] — Un Noor SM et al.
 - `2025` [[2025_41175046_definition-and-validation-of-an-exposure-measureme]] — Schiffarth AM et al.
 - `2025` [[2025_41471516_neural-network-based-adaptive-resource-allocation]] — Alhazmi AS, Arafah MA
@@ -39,6 +42,7 @@
 - `2024` [[2024_38404786_design-and-performance-analysis-of-an-l-shaped-rad]] — Gupta A et al.
 - `2024` [[2024_38548782_ultra-thin-flexible-rectenna-integrated-with-power]] — Singh N et al.
 - `2024` [[2024_38630765_dual-band-mimo-antenna-with-low-mutual-coupling-fo]] — Awan WA et al.
+- `2024` [[2024_38914590_on-body-and-off-body-communication-using-a-compact]] — Sharma D et al.
 - `2024` [[2024_38931744_design-of-a-compact-circularly-polarized-implantab]] — Song Z et al.
 - `2024` [[2024_38968022_design-of-electrically-small-intraocular-antenna-f]] — Modak S et al.
 - `2024` [[2024_39121158_design-and-performance-investigation-of-metamateri]] — Ali U et al.
@@ -57,11 +61,16 @@
 - `2022` [[2022_36363959_an-ebg-based-triple-band-wearable-antenna-for-wban]] — Li R et al.
 - `2021` [[2021_34883957_compact-dual-band-antenna-with-paired-l-shape-slot]] — Ahmad S et al.
 
-## general (10)
+## general (15)
 
 - `2026` [[2026_41501245_a-compact-circularly-polarized-ultra-wide-bandwidt]] — Song Z et al.
 - `2026` [[2026_41753815_design-of-a-compact-uhf-wilkinson-power-divider-us]] — Roshani S et al.
+- `2026` [[2026_42249013_batteryless-wireless-tilt-sensor-with-self-calibra]] — Moznebi AR et al.
 - `2026` [[2026_42303738_low-profile-conformal-triple-band-textile-antenna]] — Hussain M et al.
+- `2026` [[2026_42451414_design-of-a-soc-based-highly-integrated-rf-transce]] — Wu J et al.
+- `2026` [[2026_42522738_regional-segregated-architecture-strategy-for-high]] — Li N et al.
+- `2026` [[2026_PPR1139336_design-and-realization-of-an-ultra-wideband-patter]] — Pinchera D et al.
+- `2025` [[2025_40363376_design-of-small-sized-spiral-slot-pifa-antenna-use]] — Li R et al.
 - `2025` [[2025_40419691_compact-dual-band-crossover-for-5g-low-and-mid-ban]] — Shallah AB et al.
 - `2025` [[2025_40807944_miniaturized-ebg-antenna-for-efficient-5-8-ghz-rf]] — Albaihani Y et al.
 - `2025` [[2025_41471507_dual-band-bent-sensing-textile-antenna-under-dual]] — Liu ZQ et al.
