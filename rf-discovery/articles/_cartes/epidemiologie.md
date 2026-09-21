@@ -1,13 +1,20 @@
 # epidemiologie
 
-244 articles.
+275 articles.
 
-## cancer (26)
+## cancer (33)
 
+- `2026` [[2026_41186132_utility-of-quantitative-parameters-from-triple-pha]] — Chen M et al.
+- `2026` [[2026_41251127_personal-radio-use-and-risk-of-cancers-among-polic]] — Di Gravio C et al.
+- `2026` [[2026_41669464_diagnostic-efficacy-of-dual-energy-computed-tomogr]] — Zhang C et al.
 - `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
+- `2026` [[2026_41763072_predicting-axillary-lymph-node-metastasis-in-clini]] — Zeng F et al.
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
+- `2025` [[2025_41357589_dual-energy-ct-based-nomogram-for-predicting-progr]] — Pei W et al.
+- `2025` [[2025_41367803_dual-energy-ct-for-distinguishing-between-t3-and-t]] — Li L et al.
+- `2025` [[2025_41623445_radiofrequency-radiation-from-mobile-phones-and-th]] — Tahmasebi S et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.
@@ -76,23 +83,35 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (62)
+## general (81)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
+- `2026` [[2026_41212451_correlation-between-intrahepatic-iodine-quantity-a]] — Komada T et al.
+- `2026` [[2026_41320647_a-novel-method-using-dual-energy-computed-tomograp]] — Bogot NR et al.
 - `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
+- `2026` [[2026_41500857_effect-of-nitroglycerin-enhanced-dual-energy-ct-on]] — Wang X et al.
+- `2026` [[2026_41565492_preoperative-prediction-of-perineural-invasion-and]] — Zhang M et al.
+- `2026` [[2026_41668047_pretreatment-dual-energy-ct-versus-diffusion-weigh]] — Cao Y et al.
 - `2026` [[2026_41668915_optimized-dual-source-dual-energy-computed-tomogra]] — Wang Q et al.
+- `2026` [[2026_41681836_spectral-precision-the-added-value-of-dual-energy]] — Guerrini S et al.
+- `2026` [[2026_41790685_low-concentration-isotonic-iodixanol-on-hepatic-an]] — Wu J et al.
+- `2026` [[2026_41823217_accuracy-of-dual-energy-computed-tomography-ct-ult]] — Døssing A et al.
 - `2026` [[2026_41861567_cancer-incidence-in-telecommunication-and-broadcas]] — Litchfield I
 - `2026` [[2026_41897583_dual-energy-ct-derived-parameters-a-promising-tool]] — Guo Y et al.
+- `2026` [[2026_41932100_classification-of-uterine-sarcoma-and-leiomyoma-wi]] — Prucker P et al.
 - `2026` [[2026_41938112_successful-use-of-non-contrast-dual-energy-compute]] — Durma AD et al.
 - `2026` [[2026_42021514_quantitative-dual-energy-ct-perfusion-versus-spect]] — Liu JE et al.
 - `2026` [[2026_42023649_timing-and-energy-optimization-of-dual-energy-ct-f]] — Johnson JM et al.
 - `2026` [[2026_42072761_effect-of-age-and-sex-on-normalized-automated-dect]] — Schömig T et al.
 - `2026` [[2026_42156666_extracellular-volume-fraction-derived-from-dual-en]] — Gong M et al.
+- `2026` [[2026_42161753_quantitative-ct-biomarkers-for-predicting-clinical]] — Sammoud S et al.
 - `2026` [[2026_42234550_effects-of-26-ghz-radiofrequency-exposure-on-elect]] — Michelant L et al.
 - `2026` [[2026_42330356_comparative-diagnostic-accuracy-of-dual-energy-ct]] — Kanna S R et al.
 - `2026` [[2026_42350762_dect-based-stratification-of-nonocclusive-mesenter]] — Roussel B et al.
 - `2026` [[2026_42360349_dual-energy-computed-tomography-derived-extracellu]] — Zhu Z et al.
 - `2026` [[2026_42360352_delayed-phase-dual-energy-ct-for-early-peritoneal]] — Feng Q et al.
+- `2026` [[2026_42406506_millimeter-wave-imaging-for-idiopathic-scoliosis-s]] — Li W et al.
+- `2026` [[2026_42422427_development-and-validation-of-a-multimodal-predict]] — Zhang Y et al.
 - `2026` [[2026_42547357_development-and-external-validation-of-a-dual-ener]] — Demir L et al.
 - `2026` [[2026_42682338_noninvasive-stratification-of-her2-status-in-breas]] — Chen H et al.
 - `2026` [[2026_42705926_dual-energy-ct-derived-extracellular-volume-fracti]] — Wang S et al.
@@ -106,6 +125,13 @@
 - `2025` [[2025_40434178_mobile-phone-use-characteristics-genetic-predispos]] — Zhang J et al.
 - `2025` [[2025_40897052_prospective-long-term-follow-up-of-patients-with-i]] — Li KH, Guo HR
 - `2025` [[2025_41160934_symptoms-associated-with-environmental-factors-are]] — Reddington K et al.
+- `2025` [[2025_41212337_the-value-of-dual-energy-ct-radiomics-in-evaluatin]] — Li R et al.
+- `2025` [[2025_41291538_distinguishing-benign-from-malignant-thyroid-nodul]] — He J et al.
+- `2025` [[2025_41361282_artifact-reduction-and-diagnostic-value-of-monoene]] — Li H et al.
+- `2025` [[2025_41368655_study-on-bone-mineral-density-around-the-knee-in-p]] — Guo Z et al.
+- `2025` [[2025_41395608_application-of-dual-energy-ct-in-assessing-the-eff]] — Wang Y et al.
+- `2025` [[2025_41430179_multiparametric-dual-energy-computed-tomography-ra]] — Zeng J et al.
+- `2025` [[2025_41640143_dual-energy-ct-for-differential-diagnosis-of-adren]] — Tarbaeva NV et al.
 - `2024` [[2024_39218794_affective-evaluation-and-exposure-perception-of-ev]] — Link SC et al.
 - `2024` [[2024_39279174_high-frequency-hearing-loss-amongst-smart-mobile-p]] — Jha I et al.
 - `2024` [[2024_40530104_effectiveness-of-mobile-phone-based-distance-video]] — Bayraktar AK et al.
@@ -145,15 +171,19 @@
 
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 
-## neuro_comportement_cognition (49)
+## neuro_comportement_cognition (53)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
+- `2026` [[2026_41604288_interpretable-machine-learning-model-using-dual-en]] — Liu Y et al.
+- `2026` [[2026_41740269_non-invasive-prediction-of-ki-67-expression-in-gas]] — Chen Y et al.
 - `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
 - `2026` [[2026_42474719_multi-dect-image-based-intra-and-peritumoral-inter]] — Yang B et al.
 - `2026` [[2026_42550187_deep-learning-image-reconstruction-improves-visual]] — Wu B et al.
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.
+- `2025` [[2025_41327160_enhancing-prediction-accuracy-for-muscle-invasion]] — Du C et al.
+- `2025` [[2025_41847591_enhancing-agent-based-models-with-real-time-moveme]] — Thota RC et al.
 - `2024` [[2024_38993329_mobile-phone-short-video-use-negatively-impacts-at]] — Yan T et al.
 - `2024` [[2024_39137016_exploring-the-impact-of-a-sleep-app-on-sleep-quali]] — Armitage BT et al.
 - `2024` [[2024_39703810_depression-severity-mediates-the-relationships-bet]] — He Q et al.
@@ -197,9 +227,10 @@
 - `2013` [[2013_24082641_adverse-health-effects-of-occupational-exposure-to]] — Dehghan N, Taeb S
 - `2012` [[2012_25929484_long-term-digital-mobile-phone-use-and-cognitive-d]] — Ng TP et al.
 
-## neurodeveloppement (55)
+## neurodeveloppement (56)
 
 - `2026` [[2026_41498450_rf-emf-risk-perception-and-trust-in-radiation-prot]] — Eggeling-Böcker M et al.
+- `2026` [[2026_41615383_extended-validity-of-hematocrit-for-dual-energy-ct]] — Han L et al.
 - `2026` [[2026_42176942_personal-radio-frequency-electromagnetic-field-exp]] — Jalilian H et al.
 - `2026` [[2026_42386297_spondyloarthritis-inception-cohort-of-southern-den]] — Kröber G et al.
 - `2025` [[2025_40566359_trends-in-malignant-and-benign-brain-tumor-inciden]] — Zhang L, Muscat JE

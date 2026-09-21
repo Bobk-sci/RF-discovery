@@ -1,6 +1,6 @@
 # revue
 
-167 articles.
+193 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -17,8 +17,10 @@
 
 - `2025` [[2025_40004170_influence-of-super-low-intensity-microwave-radiati]] — Artamonov MY et al.
 
-## cancer (18)
+## cancer (21)
 
+- `2026` [[2026_41898377_en-bloc-resection-of-stage-t4-non-small-cell-lung]] — Lee WT et al.
+- `2026` [[2026_41945987_theranostic-magnetic-hydrogels-for-treatment-recur]] — Sampath B, Charles J
 - `2026` [[2026_42437082_non-ionizing-radiation-and-cancer-a-review-on-curr]] — Agrahari M et al.
 - `2026` [[2026_42442967_corrigendum-to-effects-of-radiofrequency-electroma]] — Mevissen M et al.
 - `2026` [[2026_42525387_zero-echo-time-mri-and-dual-energy-ct-virtual-non]] — Marinelli L et al.
@@ -27,6 +29,7 @@
 - `2025` [[2025_40966368_development-and-testing-of-a-novel-whole-body-expo]] — Wyde ME et al.
 - `2025` [[2025_41135061_toward-breast-tumor-detection-a-miniature-antenna]] — Amaria S et al.
 - `2025` [[2025_41362664_microwave-head-imaging-systems-for-early-brain-tum]] — Mathew J et al.
+- `2025` [[2025_41373573_synergistic-effects-of-non-ionizing-radiation-in-t]] — Klabukov I et al.
 - `2024` [[2024_39200630_a-systematic-review-on-the-in-vivo-studies-on-radi]] — Pinto R et al.
 - `2023` [[2023_36767440_in-vivo-studies-on-radiofrequency-100-khz-300-ghz]] — Pinto R et al.
 - `2022` [[2022_34882171_radiofrequency-radiation-and-cancer-a-review]] — Grimes DR
@@ -57,18 +60,25 @@
 - `2021` [[2021_34180044_smart-devices-mobile-phone-in-patients-with-epilep]] — Asadi-Pooya AA et al.
 - `2021` [[2021_34497578_seizure-forecasting-using-a-novel-sub-scalp-ultra]] — Stirling RE et al.
 
-## general (39)
+## general (48)
 
+- `2026` [[2026_41349167_technical-performance-of-dual-energy-ct-in-the-eva]] — Asmundo L et al.
+- `2026` [[2026_41405692_replacing-true-non-contrast-imaging-with-dect-in-g]] — Oberparleiter M et al.
 - `2026` [[2026_41600235_next-generation-biomedical-microwave-antennas-meta]] — Koutsoupidou M, Karanasiou IS
 - `2026` [[2026_41600329_low-cost-sensors-in-5g-rf-emf-exposure-monitoring]] — Rathebe PC, Kholopo M
+- `2026` [[2026_41645804_the-evolving-role-of-musculoskeletal-ultrasound-in]] — Yang L et al.
+- `2026` [[2026_41670887_diagnostic-accuracy-of-dual-energy-ct-in-distingui]] — Asmundo L et al.
 - `2026` [[2026_41815530_textile-radio-frequency-active-devices-and-systems]] — Song W et al.
 - `2026` [[2026_41816397_application-of-dual-energy-computed-tomography-com]] — Zhang J et al.
 - `2026` [[2026_41962419_dual-energy-and-photon-counting-computed-tomograph]] — Freed A et al.
+- `2026` [[2026_41999439_one-stop-shop-medical-imaging-for-osteoporosis-and]] — Zhang L et al.
 - `2026` [[2026_42019412_green-and-sustainable-approaches-towards-synthesis]] — Shivani et al.
 - `2026` [[2026_42123069_diagnostic-accuracy-of-dual-energy-ct-for-bone-mar]] — Perrella A et al.
 - `2026` [[2026_42169252_contrast-induced-encephalopathy-following-elective]] — Cabbabe K et al.
 - `2026` [[2026_42190485_tophus-measurement-as-an-outcome-measure-in-gout-a]] — Murdoch R et al.
+- `2026` [[2026_42194874_ct-of-soft-tissue-infections-current-and-future-pe]] — Pistoia F et al.
 - `2026` [[2026_42292682_bacterial-adaptation-to-radiofrequency-electromagn]] — Said-Salman I et al.
+- `2026` [[2026_42348107_ct-in-adult-patients-with-polytrauma-current-pract]] — Sathyakumar K et al.
 - `2026` [[2026_42406136_axial-gout-diagnosed-by-dual-energy-ct-in-a-young]] — Xiaoguang C et al.
 - `2026` [[2026_42525727_toward-measurement-of-muscle-forces-during-movemen]] — Tan T et al.
 - `2026` [[2026_42667564_what-you-don-t-see-matters-dual-energy-ct-in-emerg]] — Anichini M et al.
@@ -79,9 +89,11 @@
 - `2025` [[2025_40295166_presbyopia-correction-in-lens-replacement-surgery]] — Stern B, Gatinel D
 - `2025` [[2025_40444172_a-mini-review-of-the-potential-health-impacts-of-i]] — Maipas S et al.
 - `2025` [[2025_40755938_pilot-questionnaire-survey-shows-the-lack-of-diagn]] — Leszczynski D
+- `2025` [[2025_41185647_the-role-of-musculoskeletal-radiologists-in-emerge]] — Ahmad MI et al.
 - `2025` [[2025_41227584_the-role-of-nonconventional-technologies-in-the-ex]] — Carvalho CDS et al.
 - `2025` [[2025_41304937_microwave-assisted-organic-synthesis-an-eco-friend]] — Starvaggi J, Ettari R
 - `2025` [[2025_41358243_flora-and-fauna-how-nonhuman-species-interact-with]] — Levitt BB et al.
+- `2025` [[2025_41789182_diagnostic-performance-of-dual-energy-ct-for-diffe]] — Ji W, Shi Y
 - `2024` [[2024_38433903_interactions-between-electromagnetic-radiation-and]] — Liu L et al.
 - `2024` [[2024_39105157_thermal-and-nonthermal-effects-of-5-g-radio-waves]] — Jazyah YH
 - `2024` [[2024_39539656_the-role-of-digital-device-use-on-the-risk-of-migr]] — He Z et al.
@@ -110,10 +122,14 @@
 - `2021` [[2021_33539186_genetic-effects-of-non-ionizing-electromagnetic-fi]] — Lai H
 - `2021` [[2021_34567874_an-exploration-of-the-effects-of-radiofrequency-ra]] — Alkayyali T et al.
 
-## neuro_comportement_cognition (20)
+## neuro_comportement_cognition (24)
 
+- `2026` [[2026_41311192_thiazolotriazoles-their-biological-activity-and-st]] — Purakkel UK et al.
+- `2026` [[2026_41561002_an-overview-on-emerging-green-organic-corrosion-in]] — Kumar N et al.
 - `2026` [[2026_41932003_electric-fields-for-warming-cryopreserved-tissue]] — Wowk B
+- `2026` [[2026_42220131_from-history-to-innovation-pathophysiology-and-the]] — Rastogi A et al.
 - `2026` [[2026_42318412_research-progress-on-the-application-of-dual-energ]] — Wu LN et al.
+- `2026` [[2026_42451259_precision-livestock-farming-and-biomedical-enginee]] — Kiktev N et al.
 - `2025` [[2025_40076887_brain-disease-modifying-effects-of-radiofrequency]] — Sun S et al.
 - `2025` [[2025_41149527_electromagnetic-interference-in-the-modern-era-con]] — Prekodravac Filipovic J et al.
 - `2024` [[2024_38533994_mobile-phone-text-messaging-for-medication-adheren]] — Redfern J et al.
@@ -133,10 +149,15 @@
 - `2015` [[2015_26556835_the-microwave-syndrome-or-electro-hypersensitivity]] — Carpenter DO
 - `1997` [[1997_9258703_exposure-to-extremely-low-frequency-electromagneti]] — Jauchem JR
 
-## neurodeveloppement (15)
+## neurodeveloppement (20)
 
 - `2026` [[2026_41911438_determining-the-impact-of-nonionizing-electromagne]] — Armalina D et al.
+- `2026` [[2026_41975739_potential-benefits-of-ultra-high-field-mri-for-emb]] — Boitor D et al.
+- `2026` [[2026_42385664_optimisation-of-radiation-dose-and-image-quality-i]] — Patil NB et al.
 - `2025` [[2025_38889394_summary-of-seven-swedish-case-reports-on-the-micro]] — Hardell L, Nilsson M
+- `2025` [[2025_41210241_the-value-of-dual-energy-ct-virtual-monoenergetic]] — Li C et al.
+- `2025` [[2025_41255679_dual-energy-computed-tomography-in-children-techni]] — Saini S et al.
+- `2025` [[2025_41648050_new-advances-in-efficacy-prediction-of-extracorpor]] — Zang M et al.
 - `2024` [[2024_37609829_the-european-union-assessments-of-radiofrequency-r]] — Nyberg R et al.
 - `2024` [[2024_38783888_investigation-of-the-adverse-health-effects-of-cel]] — Elyasi H et al.
 - `2023` [[2023_36935315_wireless-technologies-non-ionizing-electromagnetic]] — Davis D et al.
@@ -150,6 +171,11 @@
 - `2015` [[2015_25563669_how-connected-are-people-with-schizophrenia-cell-p]] — Miller BJ et al.
 - `2014` [[2014_24963454_mobile-phone-dermatitis-in-children-and-adults-a-r]] — Richardson C et al.
 - `2003` [[2003_14628313_radiofrequency-fields-and-teratogenesis]] — Heynick LN, Merritt JH
+
+## neuroinflammation (2)
+
+- `2026` [[2026_42182622_comorbidity-of-chronic-obstructive-pulmonary-disea]] — Meng Y et al.
+- `2026` [[2026_42418111_biological-effects-of-high-frequency-electromagnet]] — Fang S, Chen S
 
 ## plasticite_synaptique (1)
 
@@ -199,11 +225,14 @@
 - `2016` [[2016_26151230_oxidative-mechanisms-of-biological-activity-of-low]] — Yakymenko I et al.
 - `2016` [[2016_26371078_the-link-between-radiofrequencies-emitted-from-wir]] — Dasdag S, Akdag MZ
 
-## thermique (9)
+## thermique (12)
 
 - `2026` [[2026_41445170_radio-frequency-exposure-in-military-contexts-a-na]] — Risling M, Günther M
 - `2026` [[2026_42122726_use-of-microwave-technology-for-agro-based-polymer]] — Cheng HN et al.
+- `2026` [[2026_42196072_advances-in-magnetic-nanomaterials-ferrofluids-and]] — Gao Z et al.
 - `2026` [[2026_42530729_metamaterial-assisted-miniaturized-antennas-for-ta]] — Zuo J et al.
+- `2026` [[2026_42646427_magnetothermally-responsive-mesoporous-silica-nano]] — Jesus J et al.
+- `2026` [[2026_42733872_advancements-in-superparamagnetic-iron-oxide-nanop]] — Sharma S et al.
 - `2025` [[2025_40339686_electromagnetic-fields-from-mobile-phones-a-risk-f]] — Seewooruttun C et al.
 - `2025` [[2025_40400318_microwave-power-sources-for-industrial-scientific]] — Cripps S
 - `2025` [[2025_40662412_impact-of-radiofrequency-electromagnetic-fields-on]] — Michelant L, Selmaoui B

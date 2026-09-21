@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-201 articles.
+250 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -12,8 +12,10 @@
 
 - `1998` [[1998_9441959_headaches-from-cellular-telephones-are-they-real-a]] — Frey AH
 
-## cancer (6)
+## cancer (8)
 
+- `2026` [[2026_41522074_early-postoperative-recurrence-prediction-in-pancr]] — Zhang Z et al.
+- `2026` [[2026_42147050_clinical-application-of-1h-mrs-in-the-human-brain]] — Keith GA et al.
 - `2026` [[2026_42382435_the-role-of-low-energy-virtual-monoenergetic-image]] — Miller JR et al.
 - `2026` [[2026_42527916_conflicting-views-in-experimental-carcinogenesis-a]] — Melnick RL et al.
 - `2026` [[2026_PPR1291611_compact-cross-dipole-metamaterial-inspired-thz-ant]] — G SM
@@ -21,18 +23,29 @@
 - `2023` [[2023_36706903_incongruities-in-recently-revised-radiofrequency-e]] — Lin JC
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
 
-## dosimetrie_exposition (90)
+## dosimetrie_exposition (101)
 
+- `2026` [[2026_41411845_variable-spacing-fast-t1-for-the-analysis-of-fast]] — Robinson AD et al.
+- `2026` [[2026_41481179_the-systems-of-radiological-protection-for-ionizin]] — Dumit S et al.
+- `2026` [[2026_41507064_quantitative-conductivity-reconstruction-network-f]] — Shang X et al.
 - `2026` [[2026_41615988_numerical-analysis-of-low-frequency-electromagneti]] — Tian R et al.
 - `2026` [[2026_41645932_effects-of-exposure-to-nearby-mobile-phone-base-st]] — Laldinpuii et al.
+- `2026` [[2026_41700820_synthesis-and-characterization-of-platinum-decorat]] — Lin SH et al.
 - `2026` [[2026_41826931_exposure-limits-to-radiofrequency-emf-do-not-accou]] — Melnick RL, Moskowitz JM
 - `2026` [[2026_41829429_electromagnetic-exposure-assessment-of-5g-mobile-p]] — Chen D, Zhang B
+- `2026` [[2026_41845386_sustainable-utilization-of-phosphogypsum-in-agricu]] — Zhang L et al.
+- `2026` [[2026_41870386_safety-assessment-of-sunroof-status-on-radio-frequ]] — Song Y, Lu M
+- `2026` [[2026_41875488_a-study-on-the-health-effects-of-pantograph-catena]] — Tian R et al.
 - `2026` [[2026_41902092_compact-amc-backed-flexible-uhf-rfid-tag-antenna-f]] — Bansal A, Casula GA
+- `2026` [[2026_41938658_hybrid-ray-tracing-quadriga-fdtd-method-for-realis]] — Wydaeghe R et al.
+- `2026` [[2026_42213724_experimental-investigation-of-four-port-mimo-dual]] — Sharma M et al.
 - `2026` [[2026_42230940_fat-intra-body-communication-system-using-flexible]] — Mandal B et al.
 - `2026` [[2026_42309420_urban-radio-frequency-electromagnetic-field-exposu]] — Thielens A et al.
+- `2026` [[2026_42346924_sar-efficient-sub-volume-imaging-using-nonlinear-g]] — Kopanoglu E et al.
 - `2026` [[2026_42365512_smartwatch-low-sar-approach-based-on-antenna-integ]] — Zhou WY et al.
 - `2026` [[2026_42402072_computational-dosimetry-of-electromagnetic-and-the]] — Song Y, Lu M
 - `2026` [[2026_42546006_motion-aware-low-power-wearable-photoplethysmograp]] — Khurelbaatar L et al.
+- `2026` [[2026_42557268_design-of-a-wearable-compact-pulsed-electromagneti]] — Geyikoglu MD et al.
 - `2026` [[2026_42702745_feasibility-of-laminar-functional-quantitative-sus]] — Straub S et al.
 - `2026` [[2026_42732847_rf-safety-assessment-of-dental-retainers-for-human]] — Berezko EV et al.
 - `2026` [[2026_42740072_microwave-radar-sensing-for-non-invasive-intra-abd]] — Tayebi S et al.
@@ -120,10 +133,17 @@
 - `2020` [[2020_32104921_design-and-dosimetric-analysis-of-an-exposure-faci]] — Schmid G et al.
 - `2012` [[2012_22268596_is-there-any-exposure-from-a-mobile-phone-in-stand]] — Mild KH et al.
 
-## general (38)
+## general (50)
 
+- `2026` [[2026_41435553_validation-and-optimization-of-dual-energy-ct-for]] — Razinskas G et al.
+- `2026` [[2026_41484724_measurement-of-urban-environmental-exposure-to-ext]] — Sanchis-Otero A et al.
+- `2026` [[2026_41579102_evaluation-of-a-fast-kv-switching-dual-energy-ct-i]] — Wang H et al.
+- `2026` [[2026_41604713_adaptive-optimization-framework-for-accurate-multi]] — Lee HB et al.
+- `2026` [[2026_41681023_dual-energy-ct-based-virtual-non-contrast-imaging]] — Saito M, Saito T
 - `2026` [[2026_41725151_comparison-of-low-iodine-concentration-quantificat]] — Sirituenlee C et al.
 - `2026` [[2026_41812336_evaluation-of-proton-range-differences-in-photon-c]] — Lustermans D et al.
+- `2026` [[2026_41821452_assessing-accuracy-and-artefacts-in-proton-stoppin]] — Pettersson E et al.
+- `2026` [[2026_41886819_accuracy-of-virtual-non-contrast-images-from-dual]] — Grkovski R et al.
 - `2026` [[2026_42091752_geospatial-mapping-and-7-year-temporal-trends-of-e]] — Kiouvrekis Y et al.
 - `2026` [[2026_42121306_phantom-evaluation-of-spectral-performance-in-phot]] — Ren L et al.
 - `2026` [[2026_42236375_dosimetric-comparison-of-proton-therapy-plans-calc]] — Wang H et al.
@@ -144,6 +164,11 @@
 - `2025` [[2025_40245077_modeling-and-simulation-of-an-effectual-triangular]] — Singh A et al.
 - `2025` [[2025_40414185_assessing-radiofrequency-electromagnetic-field-exp]] — Veludo AF et al.
 - `2025` [[2025_41038242_tensor-based-spfd-method-for-accurate-low-frequenc]] — Yamada E et al.
+- `2025` [[2025_41255099_photon-counting-computed-tomography-for-stopping-p]] — Huijskens S et al.
+- `2025` [[2025_41259811_proposal-and-validation-of-weighting-factors-for-t]] — Hirosawa A et al.
+- `2025` [[2025_41265041_computed-tomography-sequence-integration-for-enhan]] — Maneval D et al.
+- `2025` [[2025_41325629_derivation-of-tissue-properties-from-basis-vector]] — Medrano MJ et al.
+- `2025` [[2025_41503095_incorporating-tissue-composition-information-in-to]] — Li S et al.
 - `2025` [[2025_IND609298217_assessing-radiofrequency-electromagnetic-field-exp]] — Veludo AF et al.
 - `2025` [[2025_PPR996795_determining-the-relationship-between-mobile-phone]] — Sandoval-Diez N et al.
 - `2024` [[2024_38475053_design-and-implementation-of-a-specialised-millime]] — Foroughimehr N et al.
@@ -167,12 +192,19 @@
 - `2016` [[2016_26476436_exposure-to-915-mhz-radiation-induces-micronuclei]] — Gustavino B et al.
 - `2005` [[2005_15785322_genotoxicity-evaluation-of-electromagnetic-fields]] — Chang SK et al.
 
-## neuro_comportement_cognition (9)
+## neuro_comportement_cognition (16)
 
+- `2026` [[2026_41448143_comparison-of-methodological-uncertainties-in-tiss]] — Yu S et al.
+- `2026` [[2026_41615330_machine-learning-on-systematically-curated-data-re]] — Vega-Carrasco ER et al.
 - `2026` [[2026_41828198_multiphysical-characterization-of-a-tissue-mimicki]] — Reyes-Vera E et al.
 - `2026` [[2026_42076313_modeling-of-polyolefin-aluminum-bonding-technology]] — Ciobanu RC et al.
 - `2026` [[2026_42090102_impact-of-automatic-exposure-control-on-radiation]] — Matsubara K et al.
+- `2026` [[2026_42120409_a-dataset-for-victim-detection-in-search-and-rescu]] — Michalopoulos AP et al.
+- `2026` [[2026_42295906_physics-constrained-deep-learning-framework-for-mr]] — Zheng J et al.
+- `2026` [[2026_42501850_dual-temperature-and-magnetic-responsive-pnipaam-b]] — Tsou CK et al.
+- `2026` [[2026_42620040_mwf-mimosa-for-efficient-simultaneous-relaxometry]] — Chen Y et al.
 - `2026` [[2026_PPR1317233_first-experimental-realization-of-a-cable-free-and]] — Jung MH
+- `2025` [[2025_41413440_ml-ga-based-performance-optimization-of-pbg-enhanc]] — Belhaouari SB et al.
 - `2024` [[2024_38602349_anomalously-large-heat-generation-of-hydration-wat]] — Murakami H
 - `2024` [[2024_40040200_cerebral-blood-flow-monitoring-with-a-portable-rad]] — Anwar U et al.
 - `2022` [[2022_35270862_lessons-learned-from-a-distributed-rf-emf-sensor-n]] — Aerts S et al.
@@ -219,18 +251,35 @@
 - `2021` [[2021_33828192_activation-of-matrix-metalloproteinases-and-foxo3a]] — Kim JH et al.
 - `2021` [[2021_34234197_evaluation-of-non-thermal-effect-of-microwave-radi]] — Shaw P et al.
 
-## thermique (20)
+## thermique (37)
 
+- `2026` [[2026_41384965_dosimetric-applicator-characterization-in-hyperthe]] — Herrera TD et al.
 - `2026` [[2026_41600503_electromagnetic-exposure-from-rf-antennas-on-subwa]] — Li J et al.
+- `2026` [[2026_41657279_iron-oxide-nanocube-assembly-on-silver-nanowire-te]] — Arica TA et al.
+- `2026` [[2026_41675186_green-synthesis-and-magnetothermal-performance-of]] — Salem SB et al.
+- `2026` [[2026_41675654_ferrite-nanocubes-coupled-with-gold-nanorods-a-pla]] — Martinez-Boubeta C et al.
+- `2026` [[2026_41899895_sar-based-thermal-assessment-of-dielectrophoretic]] — Ertugrul AD et al.
+- `2026` [[2026_41904808_biomimetic-single-domain-magnetic-nanochains-surpa]] — Gao Z et al.
+- `2026` [[2026_42061976_quality-assurance-phantoms-for-deep-hyperthermia-d]] — Lazzari M et al.
 - `2026` [[2026_42076502_dosimetry-of-a-thermoregulated-tem-cell-for-5g-700]] — Nasri A et al.
+- `2026` [[2026_42094104_self-assembly-interactions-in-magnetite-coated-cel]] — Hasan MJ et al.
+- `2026` [[2026_42127324_nonlinear-dynamic-hysteresis-driven-self-heating-i]] — Phukan G et al.
+- `2026` [[2026_42302816_effect-of-surfactant-functionalization-on-fe3o4aqu]] — Vijayan K et al.
+- `2026` [[2026_42360684_synergistic-photothermal-and-magnetothermal-heat-g]] — Butt IA et al.
 - `2026` [[2026_42569626_biogenic-nickel-ferrite-nanoparticles-synthesized]] — Góral-Kowalczyk M et al.
+- `2026` [[2026_42582817_reducing-rf-induced-heating-of-dbs-in-3-t-mri-usin]] — Zhang Z et al.
+- `2026` [[2026_42726541_design-and-physicochemical-characterization-of-a-m]] — Nistor M et al.
 - `2026` [[2026_42726545_from-dipolar-interactions-to-tissue-heating-a-mult]] — Moisiuc VM et al.
 - `2026` [[2026_42759781_head-only-mri-of-deep-brain-stimulation-devices-at]] — Louka AM et al.
 - `2025` [[2025_39760845_memory-enhancement-by-transcranial-radiofrequency]] — Baranowski R et al.
 - `2025` [[2025_40432039_assessment-of-rf-electromagnetic-exposure-to-car-d]] — Wang S, Lu M
 - `2025` [[2025_40437036_experimental-analysis-of-metamaterial-integrated-a]] — Sharma N et al.
+- `2025` [[2025_41364971_compressed-sensing-based-optimization-of-electroma]] — Phal DD et al.
+- `2025` [[2025_41367692_gd3-engineered-co-mn-mg-spinel-nanoferrites-for-mu]] — Elansary M et al.
 - `2025` [[2025_41397352_intercomparisons-of-computed-epithelial-absorbed-p]] — Li K et al.
 - `2025` [[2025_41454125_parametric-analysis-of-electromagnetic-wave-intera]] — Gasmelseed A
+- `2025` [[2025_41470401_chitosan-coated-fe3o4-nanoparticles-for-magnetic-h]] — Wilczyńska A et al.
+- `2025` [[2025_41488518_molybdenum-doped-la0-7sr0-3mno3-nanoparticles-tuni]] — Makni J et al.
 - `2024` [[2024_38476868_the-thermal-sensation-threshold-and-its-reliabilit]] — Yuasa A et al.
 - `2024` [[2024_38545209_design-method-of-a-focusing-dielectric-lens-antenn]] — Abd Rahman A et al.
 - `2024` [[2024_38605987_radio-frequency-hyperthermia-system-for-skin-tight]] — Kim I et al.

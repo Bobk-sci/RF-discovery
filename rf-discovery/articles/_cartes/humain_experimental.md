@@ -1,6 +1,6 @@
 # humain_experimental
 
-40 articles.
+42 articles.
 
 ## dosimetrie_exposition (2)
 
@@ -27,8 +27,9 @@
 - `2010` [[2010_20564174_effects-of-2g-and-3g-mobile-phones-on-human-alpha]] — Croft RJ et al.
 - `2006` [[2006_16546905_does-evening-exposure-to-mobile-phone-radiation-af]] — Wood AW et al.
 
-## general (9)
+## general (10)
 
+- `2026` [[2026_41484072_single-capillary-endothelial-dysfunction-resolved]] — He H et al.
 - `2026` [[2026_42356723_the-effects-of-short-term-post-exposure-to-3-6-ghz]] — Torkan A et al.
 - `2026` [[2026_42432228_recording-skin-oxygenation-by-dual-wavelength-ultr]] — Aguirre J et al.
 - `2025` [[2025_40218582_investigation-and-validation-of-new-heart-rate-mea]] — Matouq J et al.
@@ -43,10 +44,11 @@
 
 - `2025` [[2025_PPR1086195_effect-of-occupational-exposure-of-dentists-and-he]] — TUR K et al.
 
-## neuro_comportement_cognition (6)
+## neuro_comportement_cognition (7)
 
 - `2026` [[2026_41668986_a-decision-support-system-for-managing-health-symp]] — Parsaei H et al.
 - `2026` [[2026_41719774_one-or-many-environmental-intolerance-s-a-cluster]] — Petzke TM et al.
+- `2026` [[2026_41907579_machine-learning-reconstruction-of-digit-bone-rama]] — Hosseini M et al.
 - `2025` [[2025_40744201_effects-of-radiofrequency-electromagnetic-fields-o]] — Sauter C et al.
 - `2024` [[2024_38390734_evaluation-of-the-relationship-between-mobile-phon]] — Hasbek Z et al.
 - `2024` [[2024_39404491_autonomous-nervous-system-responses-to-environment]] — Jamal L et al.

@@ -1,12 +1,18 @@
 # in_vitro
 
-159 articles.
+185 articles.
 
-## apoptose_mitochondrie (38)
+## apoptose_mitochondrie (44)
 
 - `2026` [[2026_41562640_neurotoxic-effects-of-3-5-ghz-gsm-like-rf-exposure]] — Bektas H et al.
 - `2026` [[2026_41660276_the-effect-of-4-3-ghz-high-power-microwave-exposur]] — Gao A et al.
+- `2026` [[2026_41795438_synthesis-and-anti-lung-cancer-evaluation-of-fused]] — Jyothi G et al.
+- `2026` [[2026_42100722_temis-a-temperature-controlled-microwave-irradiati]] — Odaka H et al.
 - `2026` [[2026_42277135_microwave-induced-modulation-of-intracellular-dist]] — Kayamori F et al.
+- `2026` [[2026_42353334_effects-of-nonionizing-millimeter-wave-on-spheroid]] — Tuchinsky H et al.
+- `2026` [[2026_42450219_the-effect-of-radiofrequency-exposure-on-the-cytot]] — Erol Bozkurt A et al.
+- `2026` [[2026_42472453_repurposing-simvastatin-with-piperine-through-cycl]] — Alzhrani RF et al.
+- `2026` [[2026_42653765_trifluoromethyl-benzimidazole-hydrazone-derivative]] — Özil M et al.
 - `2025` [[2025_39810728_radiofrequency-induced-time-dependent-alterations]] — Tuysuz MZ et al.
 - `2025` [[2025_39911027_protective-effects-and-mechanisms-of-astragaloside]] — Zhang X et al.
 - `2025` [[2025_40831178_activating-transcription-factor-4-regulation-of-ra]] — Wang H et al.
@@ -49,11 +55,13 @@
 - `2016` [[2016_27053138_effect-of-radiofrequency-radiation-in-cultured-mam]] — Manna D, Ghosh R
 - `2015` [[2015_25195697_activation-of-vegf-flk-1-erk-pathway-induced-blood]] — Wang LF et al.
 
-## cancer (20)
+## cancer (22)
 
 - `2026` [[2026_41850480_radiofrequency-exposure-to-lte-signal-does-not-alt]] — Allocca M et al.
 - `2026` [[2026_41937209_a-dual-transformable-mgga-mof-nanoplatform-for-hcc]] — Li Y et al.
+- `2026` [[2026_42003487_a-swiss-army-knife-for-the-treatment-of-bone-cance]] — Muratet-Maraval M et al.
 - `2026` [[2026_42280148_gold-nanoparticle-complexes-with-pamam-dendrimers]] — Kołodziejczyk AM et al.
+- `2026` [[2026_42545398_synergistic-magnetic-nano-chemotherapy-overcomes-c]] — Phalake SS et al.
 - `2026` [[2026_42594945_a-programmable-electroculture-platform-for-directi]] — Senturk F et al.
 - `2026` [[2026_PPR1218304_magnetic-field-induced-er-stress-reprograms-the-tu]] — Sharma V et al.
 - `2025` [[2025_40314206_nanomaterials-as-electromagnetic-sensors-for-tumou]] — Wilson AJ et al.
@@ -79,17 +87,20 @@
 - `2020` [[2020_33074167_microtubular-structure-impairment-after-gsm-modula]] — Čermak AMM et al.
 - `2015` [[2015_25194051_effect-of-a-2-45-ghz-radiofrequency-electromagneti]] — Koyama S et al.
 
-## general (18)
+## general (21)
 
+- `2026` [[2026_41522624_microwave-assisted-single-step-synthesis-of-cyclic]] — Pinheiro AB et al.
 - `2026` [[2026_42188378_atmospheric-cold-microwave-argon-plasma-for-decont]] — Bogdanov T et al.
 - `2026` [[2026_42451482_a-duty-cycled-pll-and-fractal-antenna-co-design-ar]] — Zou W et al.
 - `2026` [[2026_42656385_arresting-spirochetes-nonthermal-extremely-low-fre]] — Nilsen EA et al.
 - `2026` [[2026_42729640_correction-arresting-spirochetes-nonthermal-extrem]] — Nilsen EA et al.
+- `2026` [[2026_42757977_effects-of-different-treatment-on-the-chemical-com]] — Tabrizi MR et al.
 - `2026` [[2026_PPR1184219_effect-of-cellular-radiation-on-nickel-release-fro]] — Sivadasan G et al.
 - `2025` [[2025_40363678_inhibiting-lt-i-gt-escherichia-coli-lt-i-gt-growth]] — Yokota Y et al.
 - `2025` [[2025_40463489_prophylactic-effect-of-microwave-radiation-on-lt-i]] — Shamsaei A et al.
 - `2025` [[2025_40655608_effectiveness-of-microwave-disinfection-on-gutta-p]] — Devaraj S et al.
 - `2025` [[2025_40923409_comparison-of-the-synergistic-effects-of-black-tea]] — Eslamirad Z et al.
+- `2025` [[2025_41220629_microwave-assisted-multi-component-green-synthesis]] — Chaudhari D et al.
 - `2024` [[2024_39620580_control-and-disposal-of-invasive-japanese-knotweed]] — Słowiński K et al.
 - `2023` [[2023_37622849_a-novel-and-versatile-microfluidic-device-for-cell]] — Wang M et al.
 - `2023` [[2023_37842624_hplc-uv-evaluation-of-a-microwave-assisted-method]] — Briones-Márquez LF et al.
@@ -100,8 +111,9 @@
 - `2015` [[2015_26337368_microwave-induced-structural-and-functional-injury]] — Wang LF et al.
 - `1978` [[1978_657002_cytological-effects-of-microwave-radiation-in-chin]] — Alam MT et al.
 
-## genotoxicite_epigenetique (21)
+## genotoxicite_epigenetique (22)
 
+- `2026` [[2026_41619510_exposure-to-hexavalent-chromium-and-1800-mhz-elect]] — Zhu Y et al.
 - `2026` [[2026_42090202_integration-of-dual-energy-ct-characteristics-and]] — Zhang W et al.
 - `2025` [[2025_40365161_5g-exposed-human-skin-cells-do-not-respond-with-al]] — Jyoti J et al.
 - `2025` [[2025_40595799_exposure-to-26-5-ghz-5g-modulated-and-unmodulated]] — Sannino A et al.
@@ -155,12 +167,16 @@
 - `2014` [[2014_24982785_the-influence-of-direct-mobile-phone-radiation-on]] — Gorpinchenko I et al.
 - `2009` [[2009_19649291_mobile-phone-radiation-induces-reactive-oxygen-spe]] — De Iuliis GN et al.
 
-## stress_oxydatif (31)
+## stress_oxydatif (38)
 
+- `2026` [[2026_41455308_glycolysis-inhibition-based-breakdown-of-ferroptos]] — Liu N et al.
 - `2026` [[2026_41596185_5g-rf-emfs-mitigate-uv-induced-genotoxic-stress-th]] — Kim JH et al.
+- `2026` [[2026_41819483_discovery-of-pyrazolo-5-1-b-quinazoline-tethered-1]] — Patel RC et al.
 - `2026` [[2026_41904248_biological-effects-of-5g-modulated-700-mhz-rf-emf]] — Puginier E et al.
 - `2026` [[2026_41921593_cellular-redox-disruption-and-apoptosis-differenti]] — Jangid P et al.
+- `2026` [[2026_41954586_integrating-green-chemistry-into-spion-development]] — Morais B et al.
 - `2026` [[2026_42057982_evaluating-the-protective-effect-of-melatonin-on-a]] — Fardid R et al.
+- `2026` [[2026_42179931_design-synthesis-anticancer-antioxidant-and-comput]] — Kamanna K et al.
 - `2025` [[2025_39950292_design-synthesis-and-biological-evaluation-of-some]] — Nguyen DV et al.
 - `2025` [[2025_40150722_a-novel-method-for-achieving-precision-and-reprodu]] — Dahon C et al.
 - `2025` [[2025_40298279_synergistical-induction-of-apoptosis-via-cold-atmo]] — Qi W et al.
@@ -169,6 +185,9 @@
 - `2025` [[2025_40854925_impact-of-in-vitro-exposure-to-5g-modulated-3-5-gh]] — Haidar J et al.
 - `2025` [[2025_41104878_effects-of-simultaneous-in-vitro-exposure-to-5g-mo]] — Hurtier A et al.
 - `2025` [[2025_41411134_dna-damage-analysis-by-comet-assay-method-in-blood]] — Karaman IP et al.
+- `2025` [[2025_41413154_microwave-assisted-synthesis-and-bioactive-potenti]] — Satarzadeh N et al.
+- `2025` [[2025_41594571_synthesis-and-bioactivity-assessment-of-novel-quin]] — Kostopoulou I et al.
+- `2025` [[2025_41599658_design-synthesis-and-biological-evaluation-of-n-ac]] — Coandă M et al.
 - `2025` [[2025_PPR1026059_investigation-of-the-effects-of-2-45-ghz-near-fiel]] — Angelova B et al.
 - `2024` [[2024_38092171_indirect-effects-of-interference-of-two-emerging-e]] — Jooyan N et al.
 - `2024` [[2024_38583875_microwave-hyperthermia-enhances-radiosensitization]] — Wu Y et al.
@@ -189,8 +208,15 @@
 - `2014` [[2014_24105709_effects-of-combined-radiofrequency-radiation-expos]] — Kang KA et al.
 - `2012` [[2012_23724375_effects-of-radiofrequency-radiation-on-human-ferri]] — Fattahi-Asl J et al.
 
-## thermique (8)
+## thermique (15)
 
+- `2026` [[2026_41515471_biomedical-applications-of-chitosan-coated-gallium]] — Orzechowska M et al.
+- `2026` [[2026_41650811_3d-printed-gelma-fe-gqd-magneto-hydrogel-as-a-smar]] — Dar MS, Sahu NK
+- `2026` [[2026_41811074_translating-magnetic-fluid-hyperthermia-toward-lun]] — Sikorska M et al.
+- `2026` [[2026_41891277_surface-functionalization-of-iron-oxide-nanopartic]] — Mehak et al.
+- `2026` [[2026_42030880_bimetallic-fe-ni-nanoalloys-for-magnetic-hyperther]] — Bastia A et al.
+- `2025` [[2025_41267302_preserving-resistant-starch-in-retrograded-maize-s]] — Li C et al.
+- `2025` [[2025_41319327_optimized-inductive-heating-of-a-superparamagnetic]] — Khan MA et al.
 - `2024` [[2024_38153906_dielectric-and-magnetic-composites-of-fe3o4-apns-f]] — Zhan YL et al.
 - `2023` [[2023_37144743_a-mechanistically-approached-review-upon-assorted]] — Askaripour K, Żak A
 - `2023` [[2023_37221363_effects-of-5g-modulated-3-5-ghz-radiofrequency-fie]] — Joushomme A et al.

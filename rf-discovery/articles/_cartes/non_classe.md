@@ -1,6 +1,6 @@
 # non_classe
 
-230 articles.
+285 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -10,8 +10,9 @@
 
 - `2026` [[2026_42395102_value-of-dual-energy-computed-tomography-with-mate]] — Dong LW et al.
 
-## cancer (17)
+## cancer (21)
 
+- `2026` [[2026_41369899_differentiation-of-tumor-budding-grade-in-colon-ca]] — He C et al.
 - `2026` [[2026_41815122_construction-of-a-postoperative-disease-free-survi]] — Zhao W et al.
 - `2026` [[2026_41863573_increasing-the-production-of-l-asparaginase-from-b]] — Daifallah V, Jaafar AAK
 - `2026` [[2026_41889495_integration-of-dual-energy-ct-parameters-and-radio]] — Jiang N et al.
@@ -24,17 +25,21 @@
 - `2026` [[2026_42571761_baseline-dual-energy-ct-iodine-uptake-predicts-sys]] — Bleymehl V et al.
 - `2026` [[2026_42647686_diagnostic-performance-of-the-proposed-dect-ni-rad]] — Sananmuang T et al.
 - `2026` [[2026_42661227_dual-energy-ct-extracellular-volume-fraction-for-p]] — Ming S et al.
+- `2025` [[2025_41295740_quantitative-conspicuity-of-pancreatic-canine-insu]] — Camosci V et al.
+- `2025` [[2025_41367767_dual-energy-ct-multiparametric-analysis-improves-d]] — Yao J et al.
+- `2025` [[2025_41372989_cd31-associated-vascular-phenotyping-using-doppler]] — Zhou Y et al.
 - `2024` [[2024_39337813_a-breast-tumor-monitoring-vest-with-flexible-uwb-a]] — Dessai R et al.
 - `2022` [[2022_35271102_heterogeneous-skin-phantoms-for-experimental-valid]] — Boparai J, Popović M
 - `2021` [[2021_34541704_mobile-phone-use-and-time-trend-of-brain-cancer-in]] — Choi KH et al.
 - `2014` [[2014_23619813_effect-of-bluetooth-headset-and-mobile-phone-elect]] — Mandalà M et al.
 - `2009` [[2009_19464814_most-cancer-in-firefighters-is-due-to-radio-freque]] — Milham S
 
-## dosimetrie_exposition (6)
+## dosimetrie_exposition (7)
 
 - `2026` [[2026_41545484_resilience-enhancement-strategies-for-distribution]] — Wang H et al.
 - `2026` [[2026_42655457_coverage-analysis-of-hybrid-fso-rf-communication-s]] — Zhang X et al.
 - `2026` [[2026_42711357_mobile-application-traffic-reveals-multifunctional]] — Zanella AF et al.
+- `2026` [[2026_42735285_welding-screens-and-curtains-part-1-the-derivation]] — Dain SJ et al.
 - `2026` [[2026_PPR1301048_enhancing-rd-bibd-key-pre-distribution-with-permut]]
 - `2025` [[2025_41364135_rf-emf-exposure-in-the-transition-to-5g-a-multi-di]] — Zarbouti D et al.
 - `2024` [[2024_38793866_in-situ-assessment-of-uplink-duty-cycles-for-4g-an]] — Vermeeren G et al.
@@ -52,26 +57,49 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (98)
+## general (135)
 
+- `2026` [[2026_41198863_predicting-carotid-in-stent-restenosis-with-dual-e]] — Hu W et al.
+- `2026` [[2026_41265782_prediction-of-malignant-acute-middle-cerebral-arte]] — Shang K et al.
+- `2026` [[2026_41318297_beyond-imaging-features-dual-energy-ct-reveals-sub]] — Huang Z et al.
+- `2026` [[2026_41365825_can-full-volume-dual-energy-ct-quantitative-parame]] — Liu K et al.
+- `2026` [[2026_41379143_follow-up-recommendation-rates-with-abdominopelvic]] — Dane B et al.
+- `2026` [[2026_41420606_cyclocarbonickelation-arylation-cascade-under-liga]] — Ahamed SS et al.
+- `2026` [[2026_41490456_structure-activity-and-structure-property-relation]] — Oncuoglu S et al.
+- `2026` [[2026_41543562_preoperative-colon-cancer-nodal-staging-using-dual]] — He C et al.
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
+- `2026` [[2026_41605690_intracranial-hemorrhage-assessment-using-sequentia]] — Hagiwara Y et al.
+- `2026` [[2026_41637845_diagnostic-performance-of-iodine-map-for-different]] — Malekzadeh S et al.
+- `2026` [[2026_41638967_vascular-obstruction-scoring-on-dual-energy-ct-con]] — Páez-Carpio A et al.
+- `2026` [[2026_41681659_extremely-low-frequency-radiation-enhances-soybean]] — Miotti F et al.
+- `2026` [[2026_41711871_optimizing-virtual-monoenergetic-imaging-for-dual]] — Kosowan J et al.
 - `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
 - `2026` [[2026_41768355_the-use-of-diathermic-syncope-for-stunning-cattle]] — Nielsen SS et al.
+- `2026` [[2026_41778043_dual-energy-ct-based-low-flow-rate-low-dose-ctpa-a]] — Jing Z, Cui L
+- `2026` [[2026_41781263_value-of-dual-energy-computed-tomography-quantitat]] — Xiang R et al.
+- `2026` [[2026_41816044_enhancing-vascular-wall-assessment-in-computed-tom]] — Qi Y et al.
+- `2026` [[2026_41817473_acr-appropriateness-criteria-renovascular-hyperten]] — Expert Panel on Urological Imaging et al.
+- `2026` [[2026_41821433_optimizing-material-composition-determination-in-d]] — Malusek A et al.
 - `2026` [[2026_41828270_efficient-microwave-assisted-palladium-catalyzed-s]] — Hu HC et al.
 - `2026` [[2026_41902144_cell-complexity-impact-on-railway-5g-performance-m]] — Pilvik R et al.
 - `2026` [[2026_41924747_radiomics-analysis-of-dual-energy-ct-derived-iodin]] — Wang X et al.
 - `2026` [[2026_41927614_path-loss-dataset-from-field-measurements-at-3-5-g]] — Perdomo-Reyes P et al.
+- `2026` [[2026_41973105_feasibility-of-electron-density-map-derived-from-u]] — Nagano H et al.
 - `2026` [[2026_41976670_enhancing-the-electromagnetic-interference-shieldi]] — Kang M et al.
 - `2026` [[2026_42008081_associations-of-dual-energy-computed-tomography-de]] — Dang Y et al.
 - `2026` [[2026_42045509_bowel-ischemia-detection-on-portal-venous-ct-multi]] — Mankertz F et al.
 - `2026` [[2026_42164114_dual-energy-and-perfusion-ct-for-predicting-respon]] — Van Honacker B et al.
 - `2026` [[2026_42170470_value-of-dual-energy-ct-parameters-der-and-dei-in]] — Hou B, Zheng Q
 - `2026` [[2026_42176311_dual-energy-ct-for-proton-therapy-impact-of-advanc]] — Schwengfelder J et al.
+- `2026` [[2026_42197731_low-cost-portable-sensor-node-for-gas-and-chemical]] — Al-Okby MFR et al.
 - `2026` [[2026_42208166_dual-energy-ct-derived-fibrosis-biomarkers-predict]] — Cheng P et al.
 - `2026` [[2026_42217287_dual-energy-ct-for-tips-patency-assessment-quantit]] — Oberparleiter M et al.
+- `2026` [[2026_42249415_the-relationship-between-the-diagnostic-performanc]] — Liang G et al.
 - `2026` [[2026_42251033_superballistic-flow-of-viscous-electron-fluid-indu]] — Wang X et al.
 - `2026` [[2026_42275178_the-feasibility-of-low-contrast-dose-dual-energy-c]] — Chen F et al.
 - `2026` [[2026_42337570_passive-sensing-of-gait-and-medication-related-flu]] — Yun JJ et al.
+- `2026` [[2026_42344199_dual-energy-ct-enterography-in-intestinal-tubercul]] — Bhalla D et al.
+- `2026` [[2026_42357143_reduced-photosynthetic-efficiency-of-tilia-tilia-t]] — Keller J, Geier U
 - `2026` [[2026_42365021_multidirectional-strain-insensitive-stretchable-rf]] — Yang F et al.
 - `2026` [[2026_42377449_can-dual-energy-ct-be-easily-adopted-in-clinical-p]] — Lee K et al.
 - `2026` [[2026_42391232_evaluation-of-anemia-in-non-enhanced-and-contrast]] — Kim C et al.
@@ -80,6 +108,10 @@
 - `2026` [[2026_42461421_dual-energy-ct-with-metal-artifact-reduction-for-p]] — Xie D et al.
 - `2026` [[2026_42469348_consideration-of-electromagnetic-wave-interference]] — Martínez Antón JC et al.
 - `2026` [[2026_42471405_an-automated-long-term-bridge-deflection-monitorin]] — Wang H et al.
+- `2026` [[2026_42486711_spectral-ct-derived-virtual-non-contrast-imaging-a]] — Gerstner AK et al.
+- `2026` [[2026_42495304_bromophenyl-diphenylphosphine-oxides-as-novel-star]] — Huszár B et al.
+- `2026` [[2026_42518903_physically-mixed-graphene-aerogel-carbon-black-ga]] — Teke Öner E et al.
+- `2026` [[2026_42543676_anemia-assessment-using-aortic-attenuation-on-dual]] — Kato R et al.
 - `2026` [[2026_42560033_how-do-individual-monosodium-urate-depositions-res]] — Christiansen SN et al.
 - `2026` [[2026_42570577_characterization-of-parotid-lesions-with-dual-ener]] — Hu H et al.
 - `2026` [[2026_42615109_recombinant-nus-organophosphorus-hydrolase-oph-imm]] — Vyas T et al.
@@ -90,6 +122,7 @@
 - `2026` [[2026_42701582_diagnostic-performance-and-dose-reduction-of-virtu]] — Wang J et al.
 - `2026` [[2026_42716107_reproducibility-of-perfusion-blood-volume-and-vent]] — Sharma M et al.
 - `2026` [[2026_42726448_quantitative-coronary-artery-and-aortic-valve-calc]] — Fujito H et al.
+- `2026` [[2026_42742363_welding-screens-and-curtains-part-2-conformity-of]] — Dain SJ et al.
 - `2026` [[2026_42761464_microwave-power-induced-modulation-of-tigernut-lt]] — Qin JW et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
@@ -107,9 +140,18 @@
 - `2025` [[2025_40721441_facile-strategy-toward-the-development-of-novel-bi]] — Elshemy NS et al.
 - `2025` [[2025_40807772_modeling-radiofrequency-electromagnetic-field-wear]] — Gryz K et al.
 - `2025` [[2025_41172665_microwave-assisted-green-tea-extract-for-the-long]] — Tu Y et al.
+- `2025` [[2025_41183906_pulsed-microwave-induced-growth-enhancement-of-eug]] — Horikoshi S et al.
 - `2025` [[2025_41195631_exposure-variability-between-1-or-6-minute-and-30]] — Bhatt CR et al.
+- `2025` [[2025_41209200_the-capacity-of-subtraction-ct-iodine-maps-to-impr]] — Zhou W et al.
+- `2025` [[2025_41225994_impact-of-preprocedural-collateral-status-on-hemor]] — Huang SY et al.
+- `2025` [[2025_41226069_photon-counting-computed-tomography-of-the-paranas]] — Ernst BP et al.
+- `2025` [[2025_41286319_a-bicentric-study-on-the-application-of-dual-energ]] — Zhu G et al.
 - `2025` [[2025_41304422_effect-of-corn-starch-as-stabilizer-particle-in-co]] — Amezúa-Arranz C et al.
+- `2025` [[2025_41316028_clinical-value-of-dual-energy-ct-parameters-combin]] — Ma Z et al.
+- `2025` [[2025_41355976_modified-alberta-stroke-program-early-ct-score-asp]] — Chen X et al.
+- `2025` [[2025_41522157_the-characteristics-of-upper-lobe-origin-hemoptysi]] — Zhao YJ et al.
 - `2025` [[2025_41590772_chemical-assisted-microwave-disinfection-used-to-e]] — Mazur MW et al.
+- `2025` [[2025_41602424_pulmonary-artery-sarcoma-with-mediastinal-metastas]] — Cai J et al.
 - `2025` [[2025_IND609040289_efficient-design-of-electromagnetic-field-exposure]] — Guillén-Pina J et al.
 - `2025` [[2025_PPR1026912_feasibility-of-non-contact-deep-brain-stimulation]] — Farzin A, Pooyan M
 - `2024` [[2024_38256706_microwave-control-of-i-reynoutria-japonica-i-houtt]] — Słowiński K et al.
@@ -158,10 +200,15 @@
 - `2018` [[2018_30607077_effect-of-conventional-and-microwave-tissue-proces]] — Dwivedi D et al.
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 
-## neuro_comportement_cognition (34)
+## neuro_comportement_cognition (41)
 
+- `2026` [[2026_41384946_image-quality-assessment-of-deep-learning-based-vi]] — Li K et al.
+- `2026` [[2026_41588287_generating-training-data-for-ureter-segmentation-u]] — Jung DC et al.
 - `2026` [[2026_41602187_design-and-synthesis-of-novel-sulfa-azo-dyes-a-sus]] — Sherif S et al.
+- `2026` [[2026_41639308_development-and-interpretation-of-a-dual-energy-ct]] — Lin G et al.
 - `2026` [[2026_41917285_microwave-scattering-signatures-for-distinguishing]] — Moradi A, Bait-Suwailam MM
+- `2026` [[2026_41952371_novel-4-benzimidazol-2-yl-methyl-resorcinol-deriva]] — Petraška V et al.
+- `2026` [[2026_41984575_a-preliminary-study-of-a-machine-learning-predicti]] — Takamatsu A et al.
 - `2026` [[2026_41988296_a-multimodal-radiomics-model-to-predict-disease-fr]] — Zhao W et al.
 - `2026` [[2026_42092685_dual-energy-ct-assessment-of-distal-femur-bone-qua]] — Sohn S et al.
 - `2026` [[2026_42237760_field-frustrated-cooperative-distortions-suppressi]] — Vashaee D, Dsouza K
@@ -173,6 +220,8 @@
 - `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
+- `2025` [[2025_41336325_influence-of-human-body-curvature-on-body-centric]] — Sarkar S et al.
+- `2025` [[2025_41416407_towards-a-planetary-health-impact-assessment-frame]] — Stefanopoulou M et al.
 - `2024` [[2024_38767941_notification-you-may-have-cancer-could-smartphones]] — Scott SE, Thompson MJ
 - `2023` [[2023_36470201_recovery-after-thyroid-and-parathyroid-surgery-how]] — Lee WG et al.
 - `2023` [[2023_36931041_thyroid-cytopathology-cancer-diagnosis-from-smartp]] — Assaad S et al.
@@ -195,9 +244,10 @@
 - `2013` [[2013_23785684_alterations-of-visual-reaction-time-and-short-term]] — Mortazavi SM et al.
 - `2013` [[2013_25505755_exposure-to-mobile-phone-radiation-opens-new-horiz]] — Mortazavi S et al.
 
-## neurodeveloppement (26)
+## neurodeveloppement (27)
 
 - `2026` [[2026_41590240_increasing-numbers-of-persons-with-sleeping-proble]] — Nilsson M, Hardell L
+- `2026` [[2026_41657758_feasibility-of-single-phase-dect-as-an-alternative]] — Sun R et al.
 - `2025` [[2025_40803397_cardiovascular-damage-arrhythmogenesis-and-overlap]] — Calderón-Garcidueñas L et al.
 - `2024` [[2024_38598037_identification-of-a-novel-intronic-variant-of-atp6]] — Zhang Y et al.
 - `2023` [[2023_36736032_longitudinal-associations-between-cyber-victimizat]] — Chen Y et al.
@@ -231,10 +281,11 @@
 - `2022` [[2022_35360230_long-term-wi-fi-exposure-from-pre-pubertal-to-adul]] — Jaffar FHF et al.
 - `2016` [[2016_28144597_the-fundamental-reasons-why-laptop-computers-shoul]] — Mortazavi SA et al.
 
-## stress_oxydatif (13)
+## stress_oxydatif (14)
 
 - `2026` [[2026_41747184_effects-of-industrial-scientific-and-medical-ism-b]] — Tomar AK et al.
 - `2026` [[2026_42490055_alginate-and-chitosan-based-hydrogels-effects-on-t]] — Tsirigotis-Maniecka M et al.
+- `2026` [[2026_42585747_ultrasound-assisted-deep-eutectic-solvent-extracti]] — Sun Y et al.
 - `2026` [[2026_42726645_combined-photobiomodulation-and-pulsed-electromagn]] — Thongyoo K et al.
 - `2024` [[2024_38762651_analysis-of-the-metabolic-profile-of-humans-natura]] — Rangesh NM et al.
 - `2024` [[2024_38786928_oxidative-stress-response-of-honey-bee-colonies-i]] — Vilić M et al.
@@ -247,10 +298,13 @@
 - `2014` [[2014_24435163_endothelial-function-and-germ-line-ace-i-d-enos-an]] — Gazi E et al.
 - `2014` [[2014_24753545_cell-phone-use-and-parotid-salivary-gland-alterati]] — de Souza FT et al.
 
-## thermique (18)
+## thermique (22)
 
+- `2026` [[2026_41508503_enhanced-inactivation-of-aspergillus-niger-in-low]] — Yao X et al.
 - `2026` [[2026_41548019_modelling-selective-heating-in-microwave-heated-pa]] — Niño CG
 - `2026` [[2026_41598921_effects-of-microwave-on-mortality-and-detection-ef]] — Miao S et al.
+- `2026` [[2026_42091029_valorization-of-industrial-carbide-slag-via-microw]] — Wang F et al.
+- `2026` [[2026_42581785_defect-engineered-microwave-responsive-ni-c-compos]] — Lu X et al.
 - `2026` [[2026_IND609501314_impact-of-pretreatments-on-the-reduction-of-allyl]] — Srivastava S et al.
 - `2026` [[2026_PPR1149630_comparative-study-on-the-microwave-assisted-and-co]] — Dağlı R et al.
 - `2026` [[2026_PPR1290262_density-dependent-microwave-heating-of-aluminum-na]] — Vargas E et al.
@@ -260,6 +314,7 @@
 - `2025` [[2025_40732521_electric-field-measurement-in-radiative-hypertherm]] — Di Cristofano M et al.
 - `2025` [[2025_41010126_research-on-electromagnetic-and-rheological-perfor]] — Wu P et al.
 - `2025` [[2025_41282402_microwave-driven-nonoxidative-and-selective-conver]] — Baddam SR et al.
+- `2025` [[2025_41598871_controlling-maize-weevil-sitophilus-zeamais-life-s]] — Hassan AB et al.
 - `2025` [[2025_PPR1116898_controlling-microwave-energy-absorption-in-aluminu]] — Vargas E et al.
 - `2024` [[2024_38910919_microwave-assisted-disinfestation-of-green-gram-lt]] — Guru PN et al.
 - `2024` [[2024_39309642_recycling-of-e-waste-power-cables-using-microwave]] — Horikoshi S et al.
