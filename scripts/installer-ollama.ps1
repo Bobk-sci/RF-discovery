@@ -38,10 +38,12 @@ if (-not (Get-Command ollama -ErrorAction SilentlyContinue)) {
     throw "Ollama installé mais introuvable dans le PATH. Fermez ce PowerShell, rouvrez-en un, et relancez ce script."
 }
 
-Etape "Démarrage du service"
-if (-not (Get-Process ollama -ErrorAction SilentlyContinue)) {
-    Start-Process ollama -ArgumentList "serve" -WindowStyle Hidden
-}
+Etape "Redémarrage du service"
+# Un serveur déjà lancé garde l'ancien OLLAMA_MODELS : `pull` s'adresse à LUI, pas à la
+# variable qu'on vient d'écrire. Sans ce redémarrage, les modèles partent sur C:.
+Get-Process "ollama*" -ErrorAction SilentlyContinue | Stop-Process -Force
+Start-Sleep -Seconds 2
+Start-Process ollama -ArgumentList "serve" -WindowStyle Hidden
 # Le serveur met une ou deux secondes à écouter sur 11434.
 $pret = $false
 foreach ($essai in 1..15) {
