@@ -8,7 +8,7 @@ titre: 'The experiences of pregnant women during the COVID-19 pandemic in Turkey
 url: https://pubmed.ncbi.nlm.nih.gov/33023829/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Anxiety

@@ -8,7 +8,7 @@ titre: Normothermic Microwave Irradiation Induces Death of HL-60 Cells through H
 url: https://pubmed.ncbi.nlm.nih.gov/28900243/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

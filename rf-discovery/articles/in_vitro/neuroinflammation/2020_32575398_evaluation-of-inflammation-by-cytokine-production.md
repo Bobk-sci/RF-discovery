@@ -9,7 +9,7 @@ titre: Evaluation of Inflammation by Cytokine Production Following Combined Expo
 url: https://pubmed.ncbi.nlm.nih.gov/32575398/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Cytokines

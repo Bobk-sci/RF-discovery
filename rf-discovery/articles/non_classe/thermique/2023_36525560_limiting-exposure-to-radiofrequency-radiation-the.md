@@ -8,7 +8,7 @@ titre: 'Limiting exposure to radiofrequency radiation: the principles and possib
 url: https://pubmed.ncbi.nlm.nih.gov/36525560/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electricity

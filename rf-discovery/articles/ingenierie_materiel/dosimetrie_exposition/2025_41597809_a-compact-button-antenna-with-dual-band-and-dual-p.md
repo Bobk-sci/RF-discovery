@@ -8,7 +8,7 @@ titre: A Compact Button Antenna with Dual-Band and Dual-Polarization for Wearabl
 url: https://pubmed.ncbi.nlm.nih.gov/41597809/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

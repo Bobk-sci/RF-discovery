@@ -8,7 +8,7 @@ titre: 'Subjective symptoms related to GSM radiation from mobile phone base stat
 url: https://pubmed.ncbi.nlm.nih.gov/24381254/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

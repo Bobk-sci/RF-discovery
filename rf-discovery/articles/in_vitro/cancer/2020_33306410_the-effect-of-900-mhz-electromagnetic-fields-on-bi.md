@@ -8,7 +8,7 @@ titre: The effect of 900 MHz electromagnetic fields on biological pathways induc
 url: https://pubmed.ncbi.nlm.nih.gov/33306410/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Animals
@@ -28,7 +28,7 @@ mots_cles:
 - radiofrequency
 - tumor hypoxia
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1004.0
 modele_secondaires:
 - in_vivo
 modele_indices:
@@ -36,6 +36,7 @@ modele_indices:
 - Cell Line, Tumor (descripteur décisif)
 - in vitro
 - cell line
+- cell viability
 theme: cancer
 theme_score: 2.0
 theme_secondaires:

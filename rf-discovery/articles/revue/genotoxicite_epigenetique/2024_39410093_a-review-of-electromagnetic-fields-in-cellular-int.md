@@ -8,7 +8,7 @@ titre: A Review of Electromagnetic Fields in Cellular Interactions and Cacao Bea
 url: https://pubmed.ncbi.nlm.nih.gov/39410093/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - review-article

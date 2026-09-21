@@ -7,7 +7,7 @@ titre: Synthetic Ultra-High-Resolution Millimeter-Wave Imaging for Skin Cancer D
 url: https://pubmed.ncbi.nlm.nih.gov/29993467/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Algorithms
 - Diagnostic Imaging

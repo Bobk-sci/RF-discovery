@@ -9,7 +9,7 @@ titre: 'Conflicting views in experimental carcinogenesis: a commentary on design
 url: https://pubmed.ncbi.nlm.nih.gov/42527916/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Neoplasms, Radiation-Induced

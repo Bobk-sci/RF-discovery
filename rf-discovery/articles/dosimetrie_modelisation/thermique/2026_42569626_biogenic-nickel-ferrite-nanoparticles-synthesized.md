@@ -24,8 +24,8 @@ mots_cles:
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:
-- in_vivo
 - in_vitro
+- in_vivo
 modele_indices:
 - SAR
 - specific absorption rate

@@ -8,7 +8,7 @@ titre: 'Cell phone utilization among foreign-born Latinos: a promising tool for 
 url: https://pubmed.ncbi.nlm.nih.gov/23440452/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Baltimore

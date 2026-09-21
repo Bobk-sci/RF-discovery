@@ -7,7 +7,7 @@ titre: Near-field radiofrequency electromagnetic exposure assessment.
 url: https://pubmed.ncbi.nlm.nih.gov/26444190/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Absorption, Radiation
 - Electromagnetic Fields

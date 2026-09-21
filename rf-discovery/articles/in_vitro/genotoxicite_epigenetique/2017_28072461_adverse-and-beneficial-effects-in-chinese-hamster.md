@@ -8,7 +8,7 @@ titre: Adverse and beneficial effects in Chinese hamster lung fibroblast cells f
 url: https://pubmed.ncbi.nlm.nih.gov/28072461/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adaptation, Physiological
 - Animals
@@ -30,7 +30,7 @@ mots_cles:
 - micronuclei
 - radiofrequency
 modele: in_vitro
-modele_score: 1004.0
+modele_score: 1005.0
 modele_secondaires:
 - dosimetrie_modelisation
 - in_vivo
@@ -38,6 +38,7 @@ modele_indices:
 - Cell Line (descripteur décisif)
 - cell line
 - fibroblasts
+- cytotoxicity
 theme: genotoxicite_epigenetique
 theme_score: 4.0
 theme_secondaires:

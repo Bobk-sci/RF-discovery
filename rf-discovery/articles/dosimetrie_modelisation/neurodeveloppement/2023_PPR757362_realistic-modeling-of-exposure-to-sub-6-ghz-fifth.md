@@ -8,7 +8,7 @@ titre: Realistic Modeling of Exposure to Sub-6 GHz Fifth-Generation Mobile Phone
 url: https://doi.org/10.22541/au.169956822.22451476/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

@@ -8,7 +8,7 @@ titre: The Exposure to 2.45 GHz Electromagnetic Radiation Induced Different Cell
 url: https://pubmed.ncbi.nlm.nih.gov/38137349/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -19,10 +19,11 @@ mots_cles:
 - oxidative stress
 - peripheral blood mononuclear cells
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires: []
 modele_indices:
 - SH-SY5Y
+- cell viability
 theme: stress_oxydatif
 theme_score: 7.0
 theme_secondaires:

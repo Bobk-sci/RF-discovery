@@ -7,7 +7,7 @@ titre: Investigation of the Effects of 2.45 GHz Near-Field EMF on Yeast
 url: https://doi.org/10.20944/preprints202505.1880.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

@@ -8,7 +8,7 @@ titre: 'Association between General Health and Mobile Phone Dependency among Med
 url: https://pubmed.ncbi.nlm.nih.gov/31531216/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

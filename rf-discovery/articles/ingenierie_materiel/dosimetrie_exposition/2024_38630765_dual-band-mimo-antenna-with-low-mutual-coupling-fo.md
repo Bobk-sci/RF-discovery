@@ -8,7 +8,7 @@ titre: Dual-band MIMO antenna with low mutual coupling for 2.4/5.8 GHz communica
 url: https://pubmed.ncbi.nlm.nih.gov/38630765/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Communication
 - Electricity

@@ -8,7 +8,7 @@ titre: Sulforaphane Effects on Neuronal-like Cells and Peripheral Blood Mononucl
 url: https://pubmed.ncbi.nlm.nih.gov/39063113/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Neurons
 - Leukocytes, Mononuclear
@@ -34,13 +34,14 @@ mots_cles:
 - Neuronal-like Cells
 - Hormetic Effects
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1004.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
 - SH-SY5Y
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 9.0
 theme_secondaires:

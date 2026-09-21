@@ -8,7 +8,7 @@ titre: Effects of electromagnetic radiation from 3G mobile phone on heart rate, 
 url: https://pubmed.ncbi.nlm.nih.gov/21996712/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Analysis of Variance
 - Animals

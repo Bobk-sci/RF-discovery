@@ -7,7 +7,7 @@ titre: Oxidative stress precedes circulatory failure induced by 35-GHz microwave
 url: https://pubmed.ncbi.nlm.nih.gov/10638670/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Biomarkers

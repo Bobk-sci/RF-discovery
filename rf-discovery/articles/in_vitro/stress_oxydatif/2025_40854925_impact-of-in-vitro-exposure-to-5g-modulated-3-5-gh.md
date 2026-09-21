@@ -8,7 +8,7 @@ titre: Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative 
 url: https://pubmed.ncbi.nlm.nih.gov/40854925/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Oxidative Stress

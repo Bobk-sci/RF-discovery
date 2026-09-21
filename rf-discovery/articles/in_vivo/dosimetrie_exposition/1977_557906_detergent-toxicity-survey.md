@@ -7,7 +7,7 @@ titre: Detergent toxicity survey.
 url: https://pubmed.ncbi.nlm.nih.gov/557906/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Detergents

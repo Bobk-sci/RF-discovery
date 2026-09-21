@@ -8,7 +8,7 @@ titre: 'Cell phone use and the risk of glioma: are case-control study findings c
 url: https://pubmed.ncbi.nlm.nih.gov/34029549/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Brain Neoplasms
 - Canada

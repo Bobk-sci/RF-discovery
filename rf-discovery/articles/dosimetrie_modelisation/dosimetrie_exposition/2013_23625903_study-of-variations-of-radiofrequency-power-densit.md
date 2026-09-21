@@ -8,7 +8,7 @@ titre: Study of variations of radiofrequency power density from mobile phone bas
 url: https://pubmed.ncbi.nlm.nih.gov/23625903/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Calibration
 - Cell Phone

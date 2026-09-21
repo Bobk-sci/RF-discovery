@@ -8,7 +8,7 @@ titre: Combined Pulsed Magnetic Field and Radiofrequency Electromagnetic Field E
 url: https://pubmed.ncbi.nlm.nih.gov/37369865/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Rats
 - Animals

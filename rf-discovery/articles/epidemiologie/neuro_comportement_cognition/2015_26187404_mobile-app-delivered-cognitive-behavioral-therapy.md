@@ -8,7 +8,7 @@ titre: 'Mobile App-Delivered Cognitive Behavioral Therapy for Insomnia: Feasibil
 url: https://pubmed.ncbi.nlm.nih.gov/26187404/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

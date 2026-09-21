@@ -8,7 +8,7 @@ titre: Microwave Radiation Caused Dynamic Metabolic Fluctuations in the Mammalia
 url: https://pubmed.ncbi.nlm.nih.gov/39057677/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

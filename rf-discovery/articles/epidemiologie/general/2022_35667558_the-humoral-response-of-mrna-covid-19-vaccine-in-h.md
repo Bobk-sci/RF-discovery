@@ -8,7 +8,7 @@ titre: 'The humoral response of mRNA COVID-19 vaccine in hematological diseases:
 url: https://pubmed.ncbi.nlm.nih.gov/35667558/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - 2019-nCoV Vaccine mRNA-1273
 - Antibodies, Viral

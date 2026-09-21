@@ -8,7 +8,7 @@ titre: Ultrawideband, Stable Normal and Cancer Skin Tissue Phantoms for Millimet
 url: https://pubmed.ncbi.nlm.nih.gov/29993432/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Diagnostic Imaging
 - Equipment Design

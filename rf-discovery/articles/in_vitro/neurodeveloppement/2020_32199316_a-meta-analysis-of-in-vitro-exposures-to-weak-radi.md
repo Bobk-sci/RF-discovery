@@ -42,7 +42,7 @@ mots_cles:
 - Specific Absorption Rate (Sar)
 - In Vitro Biological Experiments Non-ionizing Radiation
 modele: in_vitro
-modele_score: 1005.5
+modele_score: 1006.5
 modele_secondaires:
 - revue
 - in_vivo
@@ -52,6 +52,7 @@ modele_indices:
 - in vitro
 - cell line
 - lymphocytes
+- epithelial cells
 theme: neurodeveloppement
 theme_score: 5.0
 theme_secondaires:

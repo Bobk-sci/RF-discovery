@@ -8,7 +8,7 @@ titre: Effects of 5G frequencies on sperm parameters, mating success, and offspr
 url: https://pubmed.ncbi.nlm.nih.gov/42690869/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Male

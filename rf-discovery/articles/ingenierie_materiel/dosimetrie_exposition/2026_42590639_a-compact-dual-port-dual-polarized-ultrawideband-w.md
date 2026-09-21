@@ -8,7 +8,7 @@ titre: A Compact Dual-Port Dual-Polarized Ultrawideband Wearable Textile Antenna
 url: https://pubmed.ncbi.nlm.nih.gov/42590639/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

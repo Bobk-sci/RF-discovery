@@ -8,7 +8,7 @@ titre: The effects of long-term prenatal exposure to 900, 1800, and 2100 MHz el
 url: https://pubmed.ncbi.nlm.nih.gov/36383165/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Female
 - Pregnancy

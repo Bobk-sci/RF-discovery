@@ -8,7 +8,7 @@ titre: 'Methodology of Studying Effects of Mobile Phone Radiation on Organisms: 
 url: https://pubmed.ncbi.nlm.nih.gov/34886365/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electromagnetic Fields

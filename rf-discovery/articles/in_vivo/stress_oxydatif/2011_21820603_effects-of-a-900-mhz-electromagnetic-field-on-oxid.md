@@ -8,7 +8,7 @@ titre: Effects of a 900-MHz electromagnetic field on oxidative stress parameters
 url: https://pubmed.ncbi.nlm.nih.gov/21820603/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

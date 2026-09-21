@@ -8,7 +8,7 @@ titre: Enriched Environment Decreases Cognitive Impairment in Elderly Rats With 
 url: https://pubmed.ncbi.nlm.nih.gov/32581772/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

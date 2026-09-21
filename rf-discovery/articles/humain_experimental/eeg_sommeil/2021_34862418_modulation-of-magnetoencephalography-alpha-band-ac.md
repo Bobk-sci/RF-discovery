@@ -8,7 +8,7 @@ titre: Modulation of magnetoencephalography alpha band activity by radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/34862418/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Biomarkers

@@ -28,7 +28,7 @@ mots_cles:
 - Cooperative Effects
 - 5G Communications
 modele: in_vitro
-modele_score: 1004.0
+modele_score: 1006.0
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
@@ -36,6 +36,7 @@ modele_indices:
 - Cell Line, Tumor (descripteur décisif)
 - in vitro
 - cell line
+- cell proliferation
 theme: genotoxicite_epigenetique
 theme_score: 2.0
 theme_secondaires:

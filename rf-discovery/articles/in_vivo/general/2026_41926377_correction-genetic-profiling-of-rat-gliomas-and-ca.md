@@ -9,7 +9,7 @@ titre: 'Correction: Genetic profiling of rat gliomas and cardiac schwannomas fro
 url: https://pubmed.ncbi.nlm.nih.gov/41926377/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Published Erratum

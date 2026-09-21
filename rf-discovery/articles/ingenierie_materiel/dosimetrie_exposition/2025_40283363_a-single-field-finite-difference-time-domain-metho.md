@@ -8,7 +8,7 @@ titre: A Single-Field Finite Difference Time-Domain Method Verified Using a Nove
 url: https://pubmed.ncbi.nlm.nih.gov/40283363/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

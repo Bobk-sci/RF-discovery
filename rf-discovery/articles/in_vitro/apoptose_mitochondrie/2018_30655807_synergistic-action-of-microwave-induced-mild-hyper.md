@@ -8,7 +8,7 @@ titre: Synergistic action of microwave-induced mild hyperthermia and paclitaxel 
 url: https://pubmed.ncbi.nlm.nih.gov/30655807/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -19,13 +19,15 @@ mots_cles:
 - microwave mild hyperthermia
 - paclitaxel
 modele: in_vitro
-modele_score: 1004.5
+modele_score: 1006.5
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - cell line
 - MTT assay
 - flow cytometry
+- cell viability
+- cell proliferation
 theme: apoptose_mitochondrie
 theme_score: 3.5
 theme_secondaires:

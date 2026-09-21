@@ -8,7 +8,7 @@ titre: 'Feasibility and Acceptability of Internet-Based Interpersonal Psychother
 url: https://pubmed.ncbi.nlm.nih.gov/35687403/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

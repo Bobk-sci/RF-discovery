@@ -8,7 +8,7 @@ titre: Effects of 4.9 GHz Radiofrequency Field Exposure on Brain Metabolomic and
 url: https://pubmed.ncbi.nlm.nih.gov/39452115/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

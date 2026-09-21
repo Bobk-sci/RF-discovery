@@ -7,7 +7,7 @@ titre: Comparing online cognitive load on mobile versus PC-based devices.
 url: https://pubmed.ncbi.nlm.nih.gov/36594048/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

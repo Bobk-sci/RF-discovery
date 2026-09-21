@@ -8,7 +8,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with eff
 url: https://doi.org/10.1101/2023.09.25.559414
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

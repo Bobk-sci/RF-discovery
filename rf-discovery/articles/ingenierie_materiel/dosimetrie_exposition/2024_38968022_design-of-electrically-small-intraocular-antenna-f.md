@@ -8,7 +8,7 @@ titre: Design of Electrically Small Intraocular Antenna for Retinal Prosthesis S
 url: https://pubmed.ncbi.nlm.nih.gov/38968022/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Retina
 - Humans

@@ -7,7 +7,7 @@ titre: Electromagnetic hypersensitivity (EHS, microwave syndrome) - Review of me
 url: https://pubmed.ncbi.nlm.nih.gov/32289567/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Humans

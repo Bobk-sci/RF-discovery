@@ -8,7 +8,7 @@ titre: Electronically switchable dual-band capsule antenna for wireless endoscop
 url: https://pubmed.ncbi.nlm.nih.gov/41593293/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

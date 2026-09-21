@@ -9,7 +9,7 @@ titre: Radiofrequency Fields at 2.45 GHz Reprogram Mitochondria-Lysosome Crossta
 url: https://pubmed.ncbi.nlm.nih.gov/42123398/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Lysosomes
 - Mitochondria
@@ -39,7 +39,8 @@ mots_cles:
 - Sars-cov-2 Spike
 modele: in_vivo
 modele_score: 4.0
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - animals
 - mice

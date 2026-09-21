@@ -8,7 +8,7 @@ titre: Distortion of millimeter-wave absorption in biological media due to prese
 url: https://pubmed.ncbi.nlm.nih.gov/11534836/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Absorption
 - Electric Impedance

@@ -7,7 +7,7 @@ titre: Exposure Assessment in Millimeter-Wave Reverberation Chamber Using Murine
 url: https://pubmed.ncbi.nlm.nih.gov/31943296/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Calibration

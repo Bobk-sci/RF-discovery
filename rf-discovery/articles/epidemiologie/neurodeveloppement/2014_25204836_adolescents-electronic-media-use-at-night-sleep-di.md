@@ -8,7 +8,7 @@ titre: Adolescents' electronic media use at night, sleep disturbance, and depres
 url: https://pubmed.ncbi.nlm.nih.gov/25204836/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adolescent Behavior

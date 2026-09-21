@@ -8,7 +8,7 @@ titre: Examining Use of Mobile Phones for Sleep Tracking Among a National Sample
 url: https://pubmed.ncbi.nlm.nih.gov/29334765/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Cell Phone

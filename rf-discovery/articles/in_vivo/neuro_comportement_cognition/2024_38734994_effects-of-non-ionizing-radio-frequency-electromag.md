@@ -8,7 +8,7 @@ titre: Effects of non-ionizing radio frequency electromagnetic radiation on the 
 url: https://pubmed.ncbi.nlm.nih.gov/38734994/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Embryo, Nonmammalian
 - Animals

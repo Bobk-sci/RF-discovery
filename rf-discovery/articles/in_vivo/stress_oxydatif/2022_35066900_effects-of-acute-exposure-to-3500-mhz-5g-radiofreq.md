@@ -8,7 +8,7 @@ titre: Effects of Acute Exposure to 3500 MHz (5G) Radiofrequency Electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/35066900/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

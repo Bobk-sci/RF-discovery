@@ -8,7 +8,7 @@ titre: A cross-sectional study on sleep length, quality, and mobile phone use am
 url: https://pubmed.ncbi.nlm.nih.gov/35734328/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

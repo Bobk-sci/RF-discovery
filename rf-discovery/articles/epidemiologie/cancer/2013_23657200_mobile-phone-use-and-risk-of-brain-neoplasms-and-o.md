@@ -8,7 +8,7 @@ titre: 'Mobile phone use and risk of brain neoplasms and other cancers: prospect
 url: https://pubmed.ncbi.nlm.nih.gov/23657200/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

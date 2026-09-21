@@ -7,7 +7,7 @@ titre: Epidemiology of Glioblastoma Multiforme-Literature Review.
 url: https://pubmed.ncbi.nlm.nih.gov/35626018/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

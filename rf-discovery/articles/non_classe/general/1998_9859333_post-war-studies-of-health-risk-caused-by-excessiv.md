@@ -9,7 +9,7 @@ titre: '[Post-war studies of health risk caused by excessive military microwave 
 url: https://pubmed.ncbi.nlm.nih.gov/9859333/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Dose-Response Relationship, Radiation
 - Electromagnetic Fields

@@ -9,7 +9,7 @@ titre: Exposure to 1800 MHz LTE electromagnetic fields under proinflammatory con
 url: https://doi.org/10.1101/2022.01.13.476168
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

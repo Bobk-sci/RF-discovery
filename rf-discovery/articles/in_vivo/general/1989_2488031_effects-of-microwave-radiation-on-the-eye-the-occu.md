@@ -7,7 +7,7 @@ titre: 'Effects of microwave radiation on the eye: the occupational health persp
 url: https://pubmed.ncbi.nlm.nih.gov/2488031/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Blood-Retinal Barrier

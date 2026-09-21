@@ -33,6 +33,7 @@ mots_cles:
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
+- in_vitro
 - dosimetrie_modelisation
 modele_indices:
 - animals

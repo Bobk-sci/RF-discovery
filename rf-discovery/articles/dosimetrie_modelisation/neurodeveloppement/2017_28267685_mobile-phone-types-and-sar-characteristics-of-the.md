@@ -7,7 +7,7 @@ titre: Mobile phone types and SAR characteristics of the human brain.
 url: https://pubmed.ncbi.nlm.nih.gov/28267685/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

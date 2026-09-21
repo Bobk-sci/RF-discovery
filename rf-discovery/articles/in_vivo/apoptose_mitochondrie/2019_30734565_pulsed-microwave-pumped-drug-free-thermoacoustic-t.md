@@ -8,7 +8,7 @@ titre: Pulsed Microwave-Pumped Drug-Free Thermoacoustic Therapy by Highly Biocom
 url: https://pubmed.ncbi.nlm.nih.gov/30734565/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -21,7 +21,8 @@ mots_cles:
 - thermoacoustic therapy
 modele: in_vivo
 modele_score: 1.0
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - in vivo
 theme: apoptose_mitochondrie

@@ -8,7 +8,7 @@ titre: 'Mobile phone use characteristics, genetic predisposition and the risk of
 url: https://pubmed.ncbi.nlm.nih.gov/40434178/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Parkinson Disease

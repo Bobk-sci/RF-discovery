@@ -8,7 +8,7 @@ titre: Assessment of the effects of radiofrequency radiation on human colon epit
 url: https://pubmed.ncbi.nlm.nih.gov/31023054/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Cell Survival
@@ -24,10 +24,11 @@ mots_cles:
 - caspase activation in vitro.
 - radiofrequency field
 modele: in_vitro
-modele_score: 2.0
+modele_score: 3.0
 modele_secondaires: []
 modele_indices:
 - in vitro
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 6.0
 theme_secondaires: []

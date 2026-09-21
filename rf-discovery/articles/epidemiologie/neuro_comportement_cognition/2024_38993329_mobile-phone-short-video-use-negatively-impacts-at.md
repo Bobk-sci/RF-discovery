@@ -8,7 +8,7 @@ titre: 'Mobile phone short video use negatively impacts attention functions: an 
 url: https://pubmed.ncbi.nlm.nih.gov/38993329/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

@@ -7,7 +7,7 @@ titre: 'Studies on microwaves in medicine and biology: from snails to humans.'
 url: https://pubmed.ncbi.nlm.nih.gov/15042623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Action Potentials
 - Animals

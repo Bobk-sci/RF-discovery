@@ -9,7 +9,7 @@ titre: Radiofrequency radiation reshapes tumor immune microenvironment into anti
 url: https://pubmed.ncbi.nlm.nih.gov/38538718/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Killer Cells, Natural
 - CD8-Positive T-Lymphocytes

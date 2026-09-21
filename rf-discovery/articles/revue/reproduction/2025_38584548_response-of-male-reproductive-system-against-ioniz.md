@@ -8,7 +8,7 @@ titre: 'Response of Male Reproductive System against Ionizing Radiation and Avai
 url: https://pubmed.ncbi.nlm.nih.gov/38584548/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Genitalia, Male
 - Testis

@@ -8,7 +8,7 @@ titre: Application of microwave-irradiation technique in deglycosylation of gins
 url: https://pubmed.ncbi.nlm.nih.gov/30594431/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Antineoplastic Agents, Phytogenic
 - Apoptosis
@@ -35,12 +35,13 @@ mots_cles:
 - Melanoma
 - Microwave irradiation
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1004.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
+- cell proliferation
 theme: apoptose_mitochondrie
 theme_score: 3.5
 theme_secondaires:

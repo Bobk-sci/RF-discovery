@@ -8,7 +8,7 @@ titre: Effects of 2.4 GHz radiofrequency electromagnetic field (RF-EMF) on gliob
 url: https://pubmed.ncbi.nlm.nih.gov/38153083/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Humans
@@ -27,7 +27,7 @@ mots_cles:
 - radio dielectric screen
 - radiofrequency electromagnetic field
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1004.0
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
@@ -35,6 +35,7 @@ modele_indices:
 - HEK293 Cells (descripteur décisif)
 - cell line
 - HEK293
+- cytotoxicity
 theme: cancer
 theme_score: 1.0
 theme_secondaires: []

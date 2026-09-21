@@ -8,7 +8,7 @@ titre: Ultra-Wideband Millimeter-Wave Dielectric Characteristics of Freshly Exci
 url: https://pubmed.ncbi.nlm.nih.gov/28885148/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

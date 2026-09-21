@@ -8,7 +8,7 @@ titre: Conceptualization and Realization of a Vibrating Intrinsic Reverberation 
 url: https://pubmed.ncbi.nlm.nih.gov/41395749/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Plants
 - Equipment Design

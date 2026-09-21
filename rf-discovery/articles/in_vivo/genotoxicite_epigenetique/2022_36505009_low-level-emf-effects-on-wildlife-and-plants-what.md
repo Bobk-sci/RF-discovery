@@ -8,7 +8,7 @@ titre: 'Low-level EMF effects on wildlife and plants: What research tells us abo
 url: https://pubmed.ncbi.nlm.nih.gov/36505009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Animals, Wild

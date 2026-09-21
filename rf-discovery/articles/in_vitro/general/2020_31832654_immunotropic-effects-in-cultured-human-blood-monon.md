@@ -8,7 +8,7 @@ titre: Immunotropic effects in cultured human blood mononuclear cells exposed to
 url: https://pubmed.ncbi.nlm.nih.gov/31832654/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cells, Cultured
 - Electromagnetic Fields

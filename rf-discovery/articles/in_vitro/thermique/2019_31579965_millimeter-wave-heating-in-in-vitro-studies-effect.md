@@ -8,7 +8,7 @@ titre: 'Millimeter-Wave Heating in In Vitro Studies: Effect of Convection in Con
 url: https://pubmed.ncbi.nlm.nih.gov/31579965/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Convection
 - Electromagnetic Radiation

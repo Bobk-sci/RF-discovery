@@ -8,7 +8,7 @@ titre: In vitro non-thermal oxidative stress response after 1800 MHz radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/28836500/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Line
@@ -26,7 +26,7 @@ types:
 - Journal Article
 mots_cles: []
 modele: in_vitro
-modele_score: 1006.5
+modele_score: 1007.5
 modele_secondaires:
 - dosimetrie_modelisation
 - in_vivo
@@ -35,6 +35,7 @@ modele_indices:
 - in vitro
 - cell line
 - fibroblasts
+- cell viability
 theme: stress_oxydatif
 theme_score: 8.5
 theme_secondaires:

@@ -8,7 +8,7 @@ titre: 'Prevention of mobile phone induced skin tissue changes by melatonin in r
 url: https://pubmed.ncbi.nlm.nih.gov/15941010/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants
@@ -26,7 +26,8 @@ types:
 mots_cles: []
 modele: in_vivo
 modele_score: 8.5
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - animals
 - rats

@@ -9,7 +9,7 @@ titre: Microwave hyperthermia enhances radiosensitization by decreasing DNA repa
 url: https://pubmed.ncbi.nlm.nih.gov/38583875/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Male
@@ -40,7 +40,7 @@ mots_cles:
 - prostate cancer
 - radiosensitization
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1005.0
 modele_secondaires:
 - in_vivo
 modele_indices:
@@ -48,6 +48,7 @@ modele_indices:
 - Cell Line, Tumor (descripteur décisif)
 - cell line
 - comet assay
+- cell proliferation
 theme: stress_oxydatif
 theme_score: 6.5
 theme_secondaires:

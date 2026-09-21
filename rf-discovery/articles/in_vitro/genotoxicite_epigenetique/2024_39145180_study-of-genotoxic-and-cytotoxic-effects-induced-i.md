@@ -29,7 +29,7 @@ mots_cles:
 - Mitotic Spindle
 - 1.6 Ghz
 modele: in_vitro
-modele_score: 1005.5
+modele_score: 1006.5
 modele_secondaires:
 - dosimetrie_modelisation
 - in_vivo
@@ -38,6 +38,7 @@ modele_indices:
 - cells, cultured
 - in vitro
 - fibroblasts
+- cytotoxicity
 theme: genotoxicite_epigenetique
 theme_score: 4.0
 theme_secondaires:

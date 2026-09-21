@@ -8,7 +8,7 @@ titre: Swadamshtradi rasayana attenuates radiofrequency radiation-induced oxidat
 url: https://pubmed.ncbi.nlm.nih.gov/42718837/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

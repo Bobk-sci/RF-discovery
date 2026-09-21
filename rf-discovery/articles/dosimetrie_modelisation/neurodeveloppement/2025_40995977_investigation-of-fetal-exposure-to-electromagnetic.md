@@ -8,7 +8,7 @@ titre: Investigation of fetal exposure to electromagnetic waves between 2.45 and
 url: https://pubmed.ncbi.nlm.nih.gov/40995977/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Lung
 - Brain

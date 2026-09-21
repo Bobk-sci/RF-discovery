@@ -8,7 +8,7 @@ titre: Association between Excessive Use of Mobile Phone and Insomnia and Depres
 url: https://pubmed.ncbi.nlm.nih.gov/28661428/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Cell Phone

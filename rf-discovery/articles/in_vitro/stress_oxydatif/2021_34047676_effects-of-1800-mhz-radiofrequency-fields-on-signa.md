@@ -8,7 +8,7 @@ titre: Effects of 1800 MHz radiofrequency fields on signal transduction and an
 url: https://pubmed.ncbi.nlm.nih.gov/34047676/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Glioblastoma

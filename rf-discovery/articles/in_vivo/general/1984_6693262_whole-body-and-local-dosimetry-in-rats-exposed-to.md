@@ -7,7 +7,7 @@ titre: Whole-body and local dosimetry in rats exposed to 2.45-GHz microwave radi
 url: https://pubmed.ncbi.nlm.nih.gov/6693262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Animals, Laboratory

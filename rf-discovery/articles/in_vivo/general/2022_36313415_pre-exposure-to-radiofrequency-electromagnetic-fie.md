@@ -8,7 +8,7 @@ titre: Pre-Exposure to Radiofrequency Electromagnetic Fields and Induction of Ra
 url: https://pubmed.ncbi.nlm.nih.gov/36313415/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

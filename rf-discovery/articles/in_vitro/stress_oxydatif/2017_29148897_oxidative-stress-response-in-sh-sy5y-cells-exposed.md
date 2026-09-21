@@ -9,7 +9,7 @@ titre: Oxidative stress response in SH-SY5Y cells exposed to short-term 1800 MH
 url: https://pubmed.ncbi.nlm.nih.gov/29148897/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Line, Tumor
 - Cell Survival

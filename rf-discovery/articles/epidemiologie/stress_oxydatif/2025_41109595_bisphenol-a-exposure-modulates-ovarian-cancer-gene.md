@@ -9,7 +9,7 @@ titre: 'Bisphenol A exposure modulates ovarian cancer gene expression and oxidat
 url: https://pubmed.ncbi.nlm.nih.gov/41109595/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Female

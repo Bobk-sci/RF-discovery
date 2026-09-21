@@ -9,7 +9,7 @@ titre: Corrigendum to "Effects of radiofrequency electromagnetic field exposure 
 url: https://pubmed.ncbi.nlm.nih.gov/42442967/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Published Erratum

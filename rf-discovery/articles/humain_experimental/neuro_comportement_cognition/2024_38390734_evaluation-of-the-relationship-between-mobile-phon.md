@@ -8,7 +8,7 @@ titre: Evaluation of the Relationship Between Mobile Phone Usage and miRNA-574-5
 url: https://pubmed.ncbi.nlm.nih.gov/38390734/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

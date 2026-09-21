@@ -8,7 +8,7 @@ titre: Electromagnetic Performance Characterization and Circuit-Level Modeling o
 url: https://pubmed.ncbi.nlm.nih.gov/41901916/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Telemetry

@@ -8,7 +8,7 @@ titre: Non thermal 2.45 GHz electromagnetic exposure causes rapid changes in Ar
 url: https://pubmed.ncbi.nlm.nih.gov/37210775/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Arabidopsis

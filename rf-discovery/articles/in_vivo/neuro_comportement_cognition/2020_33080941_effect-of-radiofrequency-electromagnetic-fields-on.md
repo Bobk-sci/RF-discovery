@@ -8,7 +8,7 @@ titre: Effect of Radiofrequency Electromagnetic Fields on Thermal Sensitivity in
 url: https://pubmed.ncbi.nlm.nih.gov/33080941/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Brain
 - Animals

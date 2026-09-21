@@ -8,7 +8,7 @@ titre: Induction of adaptive response in human blood lymphocytes exposed to radi
 url: https://pubmed.ncbi.nlm.nih.gov/19580480/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Humans

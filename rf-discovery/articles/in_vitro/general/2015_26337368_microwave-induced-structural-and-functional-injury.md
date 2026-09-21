@@ -8,7 +8,7 @@ titre: Microwave-Induced Structural and Functional Injury of Hippocampal and PC1
 url: https://pubmed.ncbi.nlm.nih.gov/26337368/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Calcium-Calmodulin-Dependent Protein Kinase Type 2

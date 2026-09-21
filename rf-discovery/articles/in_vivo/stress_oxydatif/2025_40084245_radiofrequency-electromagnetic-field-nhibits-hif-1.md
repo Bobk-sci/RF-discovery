@@ -9,7 +9,7 @@ titre: Radiofrequency electromagnetic field ınhibits HIF-1 alpha and activates 
 url: https://pubmed.ncbi.nlm.nih.gov/40084245/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Nitric Oxide Synthase Type III

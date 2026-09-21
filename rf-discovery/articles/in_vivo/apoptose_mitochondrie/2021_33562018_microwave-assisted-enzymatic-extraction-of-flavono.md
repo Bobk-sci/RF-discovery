@@ -8,7 +8,7 @@ titre: Microwave-Assisted Enzymatic Extraction of Flavonoids fromSieb. Blossom a
 url: https://pubmed.ncbi.nlm.nih.gov/33562018/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Colitis

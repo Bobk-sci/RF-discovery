@@ -8,7 +8,7 @@ titre: Microwave radiation, in the absence of hyperthermia, has no detectable ef
 url: https://pubmed.ncbi.nlm.nih.gov/3150033/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cerebral Cortex

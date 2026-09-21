@@ -8,7 +8,7 @@ titre: 'Formation of reactive species via high power microwave induced DNA damag
 url: https://pubmed.ncbi.nlm.nih.gov/39734544/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

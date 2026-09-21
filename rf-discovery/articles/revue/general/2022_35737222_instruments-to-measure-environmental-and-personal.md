@@ -8,7 +8,7 @@ titre: 'Instruments to measure environmental and personal radiofrequency-electro
 url: https://pubmed.ncbi.nlm.nih.gov/35737222/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Electromagnetic Fields

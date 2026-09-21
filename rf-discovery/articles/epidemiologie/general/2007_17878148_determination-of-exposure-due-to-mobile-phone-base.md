@@ -8,7 +8,7 @@ titre: Determination of exposure due to mobile phone base stations in an epidemi
 url: https://pubmed.ncbi.nlm.nih.gov/17878148/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Electromagnetic Fields

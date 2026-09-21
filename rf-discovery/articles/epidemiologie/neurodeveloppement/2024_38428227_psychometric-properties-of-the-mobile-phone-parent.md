@@ -8,7 +8,7 @@ titre: Psychometric properties of the Mobile Phone Parenting Practices Questionn
 url: https://pubmed.ncbi.nlm.nih.gov/38428227/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Child

@@ -9,7 +9,7 @@ titre: Effects of radiofrequency electromagnetic fields on cognitive function in
 url: https://pubmed.ncbi.nlm.nih.gov/40744201/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Cross-Over Studies

@@ -259,6 +259,29 @@ def test_filtre_de_pertinence_ecarte_le_hors_sujet():
     assert is_off_topic(geosmine, TAX) == "aucun terme d'exposition RF"
 
 
+def test_un_terme_rf_seul_ne_suffit_pas():
+    """Constaté après élargissement : la littérature télécom parle de micro-ondes."""
+    telecom = Paper(pmid="12", doi="",
+                    title="Blockage-aware power allocation for millimeter-wave communication",
+                    abstract="A beam scheduling algorithm improves link capacity.",
+                    year=2026, journal="")
+    assert is_off_topic(telecom, TAX) == "aucun marqueur biologique ou d'exposition"
+    mesure = Paper(pmid="13", doi="",
+                   title="Millimeter wave exposure levels around small base stations",
+                   abstract="Power density was measured against ICNIRP reference levels.",
+                   year=2024, journal="")
+    assert is_off_topic(mesure, TAX) == ""
+
+
+def test_la_memoire_suit_le_corpus(tmp_path):
+    """Un article écarté ne doit pas rester bloqué : la mémoire se reconstruit du disque."""
+    from collect_library import memoire_depuis_bibliotheque
+    from normalize.dedupe import paper_key
+
+    write_article(tmp_path, INVIVO, classify_paper(INVIVO, TAX), AXES)
+    assert memoire_depuis_bibliotheque(tmp_path) == {paper_key(INVIVO)}
+
+
 def test_annulation_protege_une_etude_dexposition():
     """Une étude de provocation qui mesure par IRM ne doit pas tomber dans l'exclusion IRM."""
     provocation = Paper(pmid="10", doi="",

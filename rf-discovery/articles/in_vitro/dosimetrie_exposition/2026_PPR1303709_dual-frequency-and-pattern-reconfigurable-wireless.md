@@ -8,7 +8,7 @@ titre: Dual-Frequency and Pattern Reconfigurable Wireless Communication System f
 url: https://doi.org/10.21203/rs.3.rs-10548541/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Preprint

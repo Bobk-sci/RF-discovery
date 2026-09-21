@@ -7,7 +7,7 @@ titre: The possible role of radiofrequency radiation in the development of uveal
 url: https://pubmed.ncbi.nlm.nih.gov/11138823/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

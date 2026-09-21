@@ -8,7 +8,7 @@ titre: RF-EMF exposure assessment with add-on uplink exposure sensor in differen
 url: https://pubmed.ncbi.nlm.nih.gov/40090040/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Radio Waves

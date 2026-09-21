@@ -8,7 +8,7 @@ titre: 'Mobile Phone Use and the Risk of Parotid Gland Tumors: A Retrospective C
 url: https://pubmed.ncbi.nlm.nih.gov/27050182/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Case-Control Studies
 - Cell Phone

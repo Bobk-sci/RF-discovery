@@ -8,7 +8,7 @@ titre: In vitro effect of cell phone radiation on motility, DNA fragmentation an
 url: https://pubmed.ncbi.nlm.nih.gov/25918601/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

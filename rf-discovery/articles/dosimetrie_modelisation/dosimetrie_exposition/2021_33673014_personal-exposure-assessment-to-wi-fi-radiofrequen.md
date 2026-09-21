@@ -8,7 +8,7 @@ titre: Personal Exposure Assessment to Wi-Fi Radiofrequency Electromagnetic Fiel
 url: https://pubmed.ncbi.nlm.nih.gov/33673014/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cell Phone
 - Cities

@@ -8,7 +8,7 @@ titre: Allergic conditions and risk of glioma and meningioma in the CERENAT case
 url: https://pubmed.ncbi.nlm.nih.gov/29500663/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Brain Neoplasms
 - Case-Control Studies

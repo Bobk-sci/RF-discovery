@@ -8,7 +8,7 @@ titre: Prevalence of the risk of depression and worry in pregnant women in the c
 url: https://pubmed.ncbi.nlm.nih.gov/35939413/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - COVID-19
 - Colombia

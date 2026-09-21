@@ -8,7 +8,7 @@ titre: Dielectric and Magnetic Composites of FeO@APNs for Superior Microwave The
 url: https://pubmed.ncbi.nlm.nih.gov/38153906/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Microwaves

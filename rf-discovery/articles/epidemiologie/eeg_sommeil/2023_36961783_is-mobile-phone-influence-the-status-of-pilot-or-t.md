@@ -7,7 +7,7 @@ titre: Is mobile phone influence the status of pilot or the flight safety?
 url: https://pubmed.ncbi.nlm.nih.gov/36961783/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Mobile Applications
 - Video Games

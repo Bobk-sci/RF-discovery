@@ -8,7 +8,7 @@ titre: Exposure limits to radiofrequency EMF do not account for cancer risk or r
 url: https://pubmed.ncbi.nlm.nih.gov/41826931/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Neoplasms, Radiation-Induced

@@ -8,7 +8,7 @@ titre: Definition and Validation of an Exposure Measurement Method for a Typical
 url: https://pubmed.ncbi.nlm.nih.gov/41175046/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Reproducibility of Results

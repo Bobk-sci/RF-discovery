@@ -8,7 +8,7 @@ titre: Effects of radiofrequency radiation on apoptotic and antiapoptotic factor
 url: https://pubmed.ncbi.nlm.nih.gov/35786241/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Caco-2 Cells
@@ -28,10 +28,11 @@ mots_cles:
 - proapoptotic factors
 - radiofrequency
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires: []
 modele_indices:
 - flow cytometry
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 7.0
 theme_secondaires: []

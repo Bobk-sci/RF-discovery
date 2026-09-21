@@ -8,7 +8,7 @@ titre: The European Union assessments of radiofrequency radiation health risks 
 url: https://pubmed.ncbi.nlm.nih.gov/37609829/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Risk Assessment

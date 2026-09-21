@@ -8,7 +8,7 @@ titre: 'Children''s exposure assessment of radiofrequency fields: Comparison bet
 url: https://pubmed.ncbi.nlm.nih.gov/29803802/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Child
 - Electromagnetic Fields

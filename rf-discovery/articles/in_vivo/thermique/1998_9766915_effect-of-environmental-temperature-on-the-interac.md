@@ -8,7 +8,7 @@ titre: Effect of environmental temperature on the interactive developmental toxi
 url: https://pubmed.ncbi.nlm.nih.gov/9766915/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Abnormalities, Drug-Induced
 - Abnormalities, Radiation-Induced

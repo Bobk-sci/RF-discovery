@@ -8,7 +8,7 @@ titre: Neuroprotective efficacy of luteolin on a 900-MHz electromagnetic field-i
 url: https://pubmed.ncbi.nlm.nih.gov/32485174/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cerebellum

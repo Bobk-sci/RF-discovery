@@ -9,7 +9,7 @@ titre: Mobile phone emission modulates event-related desynchronization of α rhy
 url: https://pubmed.ncbi.nlm.nih.gov/21873111/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Alpha Rhythm

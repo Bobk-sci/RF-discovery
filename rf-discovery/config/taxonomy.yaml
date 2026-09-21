@@ -18,8 +18,9 @@ recherche:
     - "electromagnetic field exposure"
     - "microwave radiation"
     - "microwave exposure"
-    - "base station"
-    - "cell tower"
+    # Ni « base station » ni « cell tower » : ces mots définissent toute la littérature
+    # télécom (drones-relais, beamforming, routage). Les études d'exposition aux
+    # antennes-relais portent de toute façon « radiofrequency » ou « exposure ».
     - "electromagnetic hypersensitivity"
     - "radar exposure"
     - "5G exposure"
@@ -76,6 +77,50 @@ recherche:
     - "1.8 GHz"
     - "2.45 GHz"
     - "3.5 GHz"
+  # Second garde-fou, devenu indispensable après l'élargissement du vocabulaire : un terme
+  # RF ne suffit pas, car toute la littérature télécom parle de micro-ondes et d'ondes
+  # millimétriques. La notice doit aussi porter une marque d'étude biologique, sanitaire
+  # ou de mesure d'exposition — sans quoi des algorithmes de routage et des drones-relais
+  # entrent dans le corpus. Plus robuste qu'une liste noire de sujets télécom, toujours
+  # incomplète.
+  pertinence_bio:
+    - "exposure"
+    - "exposed"
+    - "health"
+    - "biological effect"
+    - "biological effects"
+    - "bioeffect"
+    - "toxicity"
+    - "cells"
+    - "cell viability"
+    - "tissue"
+    - "tissues"
+    - "brain"
+    - "rats"
+    - "mice"
+    - "animals"
+    - "patients"
+    - "volunteers"
+    - "children"
+    - "pregnancy"
+    - "tumor"
+    - "tumour"
+    - "cancer"
+    - "DNA"
+    - "oxidative"
+    - "apoptosis"
+    - "cognitive"
+    - "sleep"
+    - "EEG"
+    - "sperm"
+    - "fertility"
+    - "epidemiological"
+    - "dosimetry"
+    - "specific absorption rate"
+    - "SAR"
+    - "ICNIRP"
+    - "exposure limits"
+    - "safety guidelines"
   # Écartés du corpus (recherche sur le TITRE, les MeSH et le type de publication).
   # « specific absorption rate » ramène beaucoup de méthodologie IRM, sans rapport avec
   # l'exposition environnementale : mieux vaut exclure que classer de force.
@@ -127,7 +172,6 @@ recherche:
     - "wastewater"
     - "phytotreatment"
     - "soil moisture"
-    - "food processing"
     - "microwave-assisted synthesis"
     - "microwave synthesis"
     # Le téléphone comme objet d'usage, pas comme source d'exposition.
@@ -171,6 +215,23 @@ recherche:
     - "accelerometer"
     - "cloud computing"
     - "digital health"
+    # Ingénierie des réseaux : l'onde y est un canal de transmission, pas une exposition.
+    # Liste courte et sans ambiguïté — le gros du tri est fait par `pertinence_bio`,
+    # qui n'a pas besoin de connaître à l'avance chaque sujet télécom.
+    - "beamforming"
+    - "routing protocol"
+    - "path loss model"
+    - "network slicing"
+    - "spectrum sharing"
+    - "base station deployment"
+    # Agroalimentaire et procédés industriels : même four, autre question. Pas « food »
+    # seul : une étude réelle porte sur la prise alimentaire après exposition au téléphone.
+    - "microwave thawing"
+    - "meat processing"
+    - "food processing"
+    - "food quality"
+    - "pasteurization"
+    - "shelf life"
   # …sauf si la notice porte une vraie marque d'étude d'exposition : une étude de
   # provocation qui mesure l'effet d'un téléphone par IRM doit rester dans le corpus.
   annulations:
@@ -326,6 +387,11 @@ axes:
           - "comet assay"
           - "MTT assay"
           - "flow cytometry"
+          - "cytotoxicity"
+          - "cell viability"
+          - "cell proliferation"
+          - "epithelial cells"
+          - "iPSC"
 
       # Conception de matériel radio : ces articles citent le SAR pour prouver la
       # conformité d'une antenne, pas pour étudier un effet biologique. Ils ont leur

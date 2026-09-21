@@ -8,7 +8,7 @@ titre: 'Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hor
 url: https://pubmed.ncbi.nlm.nih.gov/34630149/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Systematic Review
@@ -24,6 +24,7 @@ modele: revue
 modele_score: 1005.0
 modele_secondaires:
 - in_vivo
+- in_vitro
 modele_indices:
 - Review (descripteur décisif)
 - Systematic Review (descripteur décisif)

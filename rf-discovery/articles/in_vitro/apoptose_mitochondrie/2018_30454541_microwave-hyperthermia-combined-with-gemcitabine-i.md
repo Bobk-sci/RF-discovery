@@ -8,7 +8,7 @@ titre: "[Microwave Hyperthermia Combined with Gemcitabine Inhibits Proliferation
 url: https://pubmed.ncbi.nlm.nih.gov/30454541/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Carcinoma, Squamous Cell
@@ -32,7 +32,7 @@ mots_cles:
 - Microwave hyperthermia
 - Proliferation
 modele: in_vitro
-modele_score: 1004.0
+modele_score: 1006.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
@@ -40,6 +40,7 @@ modele_indices:
 - in vitro
 - cell line
 - flow cytometry
+- cell proliferation
 theme: apoptose_mitochondrie
 theme_score: 5.5
 theme_secondaires:

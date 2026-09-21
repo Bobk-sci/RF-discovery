@@ -8,7 +8,7 @@ titre: Parenteral Lipid Dose Restriction With Soy Oil, Not Fish Oil, Preserves R
 url: https://pubmed.ncbi.nlm.nih.gov/29534288/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Animals, Newborn

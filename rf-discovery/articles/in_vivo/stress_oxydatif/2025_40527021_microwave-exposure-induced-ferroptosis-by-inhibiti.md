@@ -37,7 +37,8 @@ mots_cles:
 - Reproductive Damage
 modele: in_vivo
 modele_score: 7.5
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - animals
 - mice

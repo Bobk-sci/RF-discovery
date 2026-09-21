@@ -34,13 +34,14 @@ mots_cles:
 - Radiofrequency Exposure
 - Alrn-6924
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1004.0
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
 - flow cytometry
+- cytotoxicity
 theme: cancer
 theme_score: 4.5
 theme_secondaires:

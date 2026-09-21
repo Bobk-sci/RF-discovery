@@ -7,7 +7,7 @@ titre: Alteration of adaptive behaviors of progeny after maternal mobile phone e
 url: https://pubmed.ncbi.nlm.nih.gov/29397508/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Phone

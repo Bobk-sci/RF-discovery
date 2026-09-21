@@ -7,7 +7,7 @@ titre: Theta band brainwaves in human resting EEG modulated by mobile phone radi
 url: https://pubmed.ncbi.nlm.nih.gov/36867417/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electroencephalography

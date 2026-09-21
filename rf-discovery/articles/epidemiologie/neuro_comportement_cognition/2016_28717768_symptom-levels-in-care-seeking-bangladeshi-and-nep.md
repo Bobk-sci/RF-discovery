@@ -8,7 +8,7 @@ titre: Symptom Levels in Care-Seeking Bangladeshi and Nepalese Adults With Advan
 url: https://pubmed.ncbi.nlm.nih.gov/28717768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

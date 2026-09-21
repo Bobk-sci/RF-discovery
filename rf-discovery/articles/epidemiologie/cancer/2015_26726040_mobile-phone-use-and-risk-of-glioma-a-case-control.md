@@ -7,7 +7,7 @@ titre: 'Mobile phone use and risk of glioma: a case-control study in Korea for 2
 url: https://pubmed.ncbi.nlm.nih.gov/26726040/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

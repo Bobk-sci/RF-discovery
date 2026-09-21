@@ -7,7 +7,7 @@ titre: Having a phone conversation delays but does not disrupt cognitive mechani
 url: https://pubmed.ncbi.nlm.nih.gov/31464478/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Attention

@@ -8,7 +8,7 @@ titre: Revisiting 35 and 94 GHZ Millimeter Wave Exposure to the Non-Human Primat
 url: https://pubmed.ncbi.nlm.nih.gov/33290003/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Algorithms
 - Animals
@@ -34,6 +34,7 @@ mots_cles: []
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
+- in_vitro
 - dosimetrie_modelisation
 modele_indices:
 - animals

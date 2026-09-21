@@ -8,7 +8,7 @@ titre: 'Magnetic fields as biophysical activators of autophagy: A preclinical sy
 url: https://pubmed.ncbi.nlm.nih.gov/42100721/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - review-article

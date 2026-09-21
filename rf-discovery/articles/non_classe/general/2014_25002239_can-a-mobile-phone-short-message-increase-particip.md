@@ -9,7 +9,7 @@ titre: '[Can a mobile phone short message increase participation in breast cance
 url: https://pubmed.ncbi.nlm.nih.gov/25002239/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Aged
 - Algorithms

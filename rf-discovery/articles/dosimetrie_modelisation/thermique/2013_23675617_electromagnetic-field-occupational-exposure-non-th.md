@@ -7,7 +7,7 @@ titre: 'Electromagnetic field occupational exposure: non-thermal vs. thermal eff
 url: https://pubmed.ncbi.nlm.nih.gov/23675617/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electric Power Supplies
 - Electromagnetic Fields

@@ -8,7 +8,7 @@ titre: A Compact Wearable Textile Antenna for NB-IoT and ISM Band Patient Tracki
 url: https://pubmed.ncbi.nlm.nih.gov/39124125/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Equipment Design

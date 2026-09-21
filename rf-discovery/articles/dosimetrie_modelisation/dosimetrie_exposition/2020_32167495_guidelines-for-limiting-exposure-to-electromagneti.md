@@ -8,7 +8,7 @@ titre: Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 30
 url: https://pubmed.ncbi.nlm.nih.gov/32167495/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electromagnetic Fields
 - Guidelines as Topic

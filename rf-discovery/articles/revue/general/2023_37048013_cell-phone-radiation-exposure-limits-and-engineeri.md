@@ -7,7 +7,7 @@ titre: Cell Phone Radiation Exposure Limits and Engineering Solutions.
 url: https://pubmed.ncbi.nlm.nih.gov/37048013/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Radiation Exposure

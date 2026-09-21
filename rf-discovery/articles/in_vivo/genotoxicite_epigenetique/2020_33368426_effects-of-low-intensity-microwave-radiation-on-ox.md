@@ -8,7 +8,7 @@ titre: Effects of Low-Intensity Microwave Radiation on Oxidant-Antioxidant Param
 url: https://pubmed.ncbi.nlm.nih.gov/33368426/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

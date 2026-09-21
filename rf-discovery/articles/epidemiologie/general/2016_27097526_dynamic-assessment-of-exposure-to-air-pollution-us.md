@@ -7,7 +7,7 @@ titre: Dynamic assessment of exposure to air pollution using mobile phone data.
 url: https://pubmed.ncbi.nlm.nih.gov/27097526/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Air Pollution
 - Belgium

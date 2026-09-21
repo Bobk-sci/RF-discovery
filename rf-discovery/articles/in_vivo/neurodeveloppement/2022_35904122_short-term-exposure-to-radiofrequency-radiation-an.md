@@ -8,7 +8,7 @@ titre: Short-term exposure to radiofrequency radiation and metabolic enzymes' ac
 url: https://pubmed.ncbi.nlm.nih.gov/35904122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Pregnancy
 - Animals

@@ -9,7 +9,7 @@ titre: 'Effects of long-term low-dose 2.45 GHz microwave electromagnetic radia
 url: https://pubmed.ncbi.nlm.nih.gov/40009800/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Diathermy

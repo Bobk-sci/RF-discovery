@@ -8,7 +8,7 @@ titre: 'The effectiveness of mobile phone text massaging support for mothers wit
 url: https://pubmed.ncbi.nlm.nih.gov/30598957/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

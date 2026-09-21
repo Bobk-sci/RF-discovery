@@ -8,7 +8,7 @@ titre: A compact circularly polarized ultra-wide bandwidth implantable antenna f
 url: https://pubmed.ncbi.nlm.nih.gov/41501245/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

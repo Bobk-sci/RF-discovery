@@ -7,7 +7,7 @@ titre: 'Mobile Phone Dermatitis in Children and Adults: A Review of the Literatu
 url: https://pubmed.ncbi.nlm.nih.gov/24963454/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Review

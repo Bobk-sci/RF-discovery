@@ -8,7 +8,7 @@ titre: Towards Environmental RF-EMF Assessment of mmWave High-Node Density Compl
 url: https://pubmed.ncbi.nlm.nih.gov/34960513/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Communication
 - Electromagnetic Fields

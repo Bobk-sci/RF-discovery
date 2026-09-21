@@ -7,7 +7,7 @@ titre: 'Mobile Phone-Use Habits Among Adolescents: Predictors of Intensive Use.'
 url: https://pubmed.ncbi.nlm.nih.gov/30614739/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adolescent Behavior

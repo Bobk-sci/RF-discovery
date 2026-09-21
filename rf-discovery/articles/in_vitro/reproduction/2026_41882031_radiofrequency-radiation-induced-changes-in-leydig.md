@@ -7,7 +7,7 @@ titre: Radiofrequency radiation-induced changes in Leydig cell function.
 url: https://pubmed.ncbi.nlm.nih.gov/41882031/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Leydig Cells
 - Cell Line
@@ -28,13 +28,14 @@ mots_cles:
 - Mobile Phone Radiation
 - Radiofrequency Electromagnetic Radiation (Rf-emr)
 modele: in_vitro
-modele_score: 1003.0
+modele_score: 1005.0
 modele_secondaires:
 - in_vivo
 modele_indices:
 - Cell Line (descripteur décisif)
 - cell line
 - flow cytometry
+- cell proliferation
 theme: reproduction
 theme_score: 2.0
 theme_secondaires:

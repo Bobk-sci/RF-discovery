@@ -8,7 +8,7 @@ titre: 'Controlled release floating drug delivery system for proton pump inhibit
 url: https://pubmed.ncbi.nlm.nih.gov/35228177/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Area Under Curve

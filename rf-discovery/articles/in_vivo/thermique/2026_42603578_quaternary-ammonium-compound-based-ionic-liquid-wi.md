@@ -8,7 +8,7 @@ titre: Quaternary ammonium compound-based ionic liquid with microwave responsive
 url: https://pubmed.ncbi.nlm.nih.gov/42603578/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -20,7 +20,8 @@ mots_cles:
 - Microwave response
 modele: in_vivo
 modele_score: 1.0
-modele_secondaires: []
+modele_secondaires:
+- in_vitro
 modele_indices:
 - mouse
 theme: thermique

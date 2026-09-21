@@ -8,7 +8,7 @@ titre: 'Environmental radiofrequency exposure and genotoxic biomarkers in school
 url: https://pubmed.ncbi.nlm.nih.gov/42426191/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

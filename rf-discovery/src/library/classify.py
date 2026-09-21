@@ -60,6 +60,7 @@ class Taxonomy:
     max_secondaires: int = 3
     exclusions: tuple[Exclusion, ...] = ()
     pertinence: tuple[str, ...] = ()
+    pertinence_bio: tuple[str, ...] = ()
 
 
 @dataclass
@@ -110,6 +111,7 @@ def load_taxonomy(path: str | Path) -> Taxonomy:
         max_secondaires=int(clas.get("max_secondaires", 3)),
         exclusions=tuple(_exclusion(e) for e in rech.get("exclusions", [])),
         pertinence=tuple(str(t) for t in rech.get("pertinence", [])),
+        pertinence_bio=tuple(str(t) for t in rech.get("pertinence_bio", [])),
     )
 
 
@@ -225,6 +227,12 @@ def is_off_topic(paper, tax: Taxonomy) -> str:
     terms = tax.pertinence or tax.rf_terms
     if terms and not any(_pattern(t).search(corpus) for t in terms):
         return "aucun terme d'exposition RF"
+    # Un terme RF ne suffit pas : toute la littérature télécom parle de micro-ondes et
+    # d'ondes millimétriques. Il faut aussi une marque d'étude biologique, sanitaire ou
+    # de mesure d'exposition — sinon on classerait des algorithmes de routage.
+    if tax.pertinence_bio and not any(_pattern(t).search(corpus)
+                                      for t in tax.pertinence_bio):
+        return "aucun marqueur biologique ou d'exposition"
     return ""
 
 

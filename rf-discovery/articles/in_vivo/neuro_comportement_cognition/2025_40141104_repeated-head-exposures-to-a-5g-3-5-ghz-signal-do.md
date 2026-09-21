@@ -8,7 +8,7 @@ titre: Repeated Head Exposures to a 5G-3.5 GHz Signal Do Not Alter Behavior but 
 url: https://pubmed.ncbi.nlm.nih.gov/40141104/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cerebral Cortex
 - Animals

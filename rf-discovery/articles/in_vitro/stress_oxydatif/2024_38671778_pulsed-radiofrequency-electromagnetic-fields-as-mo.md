@@ -8,7 +8,7 @@ titre: Pulsed Radiofrequency Electromagnetic Fields as Modulators of Inflammatio
 url: https://pubmed.ncbi.nlm.nih.gov/38671778/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
@@ -18,10 +18,11 @@ mots_cles:
 - pulsed radiofrequency electromagnetic field
 - wound healing
 modele: in_vitro
-modele_score: 2.5
+modele_score: 3.5
 modele_secondaires: []
 modele_indices:
 - fibroblasts
+- cell proliferation
 theme: stress_oxydatif
 theme_score: 1.0
 theme_secondaires:

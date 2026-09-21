@@ -7,7 +7,7 @@ titre: Wi-Fi is an important threat to human health.
 url: https://pubmed.ncbi.nlm.nih.gov/29573716/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

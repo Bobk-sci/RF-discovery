@@ -8,7 +8,7 @@ titre: Forecasting migraine with machine learning based on mobile phone diary an
 url: https://pubmed.ncbi.nlm.nih.gov/37096352/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Prospective Studies

@@ -7,7 +7,7 @@ titre: Evaluation of stray radiofrequency radiation emitted by electrosurgical d
 url: https://pubmed.ncbi.nlm.nih.gov/16825734/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Electrocardiography
 - Electromagnetic Fields

@@ -8,7 +8,7 @@ titre: Development of a set of mobile phone text messages designed for preventio
 url: https://pubmed.ncbi.nlm.nih.gov/22605787/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Cardiovascular Diseases
 - Cell Phone

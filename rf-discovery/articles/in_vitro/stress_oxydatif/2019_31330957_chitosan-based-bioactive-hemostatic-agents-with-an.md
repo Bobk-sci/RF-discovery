@@ -8,7 +8,7 @@ titre: Chitosan-Based Bioactive Hemostatic Agents with Antibacterial Properties-
 url: https://pubmed.ncbi.nlm.nih.gov/31330957/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Anti-Bacterial Agents
 - Antioxidants

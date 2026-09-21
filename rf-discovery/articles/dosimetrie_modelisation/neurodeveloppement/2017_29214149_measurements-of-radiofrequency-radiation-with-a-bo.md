@@ -8,7 +8,7 @@ titre: Measurements of Radiofrequency Radiation with a Body-Borne Exposimeter in
 url: https://pubmed.ncbi.nlm.nih.gov/29214149/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

@@ -8,7 +8,7 @@ titre: AIEgens/Mitochondria Nanohybrids as Bioactive Microwave Sensitizers for N
 url: https://pubmed.ncbi.nlm.nih.gov/36802128/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Photosensitizing Agents

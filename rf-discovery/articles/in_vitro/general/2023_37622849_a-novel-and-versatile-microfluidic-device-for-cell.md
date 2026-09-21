@@ -8,7 +8,7 @@ titre: A Novel and Versatile Microfluidic Device for Cell Assays under Radio Fre
 url: https://pubmed.ncbi.nlm.nih.gov/37622849/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Research Design
@@ -23,11 +23,12 @@ mots_cles:
 - microfluidic chip
 - radiofrequency electromagnetic field
 modele: in_vitro
-modele_score: 1.0
+modele_score: 2.0
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - in vitro
+- epithelial cells
 theme: general
 theme_score: 0.0
 theme_secondaires: []

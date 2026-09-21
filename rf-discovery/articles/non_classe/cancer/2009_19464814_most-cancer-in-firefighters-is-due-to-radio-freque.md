@@ -8,7 +8,7 @@ titre: Most cancer in firefighters is due to radio-frequency radiation exposure 
 url: https://pubmed.ncbi.nlm.nih.gov/19464814/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Carcinogens
 - Fires

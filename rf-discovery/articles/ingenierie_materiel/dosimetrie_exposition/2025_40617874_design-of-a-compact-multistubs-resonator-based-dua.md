@@ -8,7 +8,7 @@ titre: Design of a compact multistubs resonator based dual-band flexible wearabl
 url: https://pubmed.ncbi.nlm.nih.gov/40617874/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

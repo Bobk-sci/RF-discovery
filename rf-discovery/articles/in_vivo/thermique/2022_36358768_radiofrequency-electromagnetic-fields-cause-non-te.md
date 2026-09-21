@@ -8,7 +8,7 @@ titre: Radiofrequency Electromagnetic Fields Cause Non-Temperature-Induced Physi
 url: https://pubmed.ncbi.nlm.nih.gov/36358768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

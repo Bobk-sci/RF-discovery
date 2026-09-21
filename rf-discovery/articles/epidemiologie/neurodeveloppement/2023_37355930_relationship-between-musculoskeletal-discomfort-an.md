@@ -8,7 +8,7 @@ titre: 'Relationship between musculoskeletal discomfort and cell phone use among
 url: https://pubmed.ncbi.nlm.nih.gov/37355930/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Male

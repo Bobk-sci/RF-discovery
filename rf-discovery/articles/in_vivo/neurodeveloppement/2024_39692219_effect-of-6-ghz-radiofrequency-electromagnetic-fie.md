@@ -8,7 +8,7 @@ titre: Effect of 6 GHz radiofrequency electromagnetic field on the development o
 url: https://pubmed.ncbi.nlm.nih.gov/39692219/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Female

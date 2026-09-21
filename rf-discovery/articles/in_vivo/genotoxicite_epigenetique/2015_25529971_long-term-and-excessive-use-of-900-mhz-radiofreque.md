@@ -8,7 +8,7 @@ titre: Long term and excessive use of 900 MHz radiofrequency radiation alter mic
 url: https://pubmed.ncbi.nlm.nih.gov/25529971/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Alzheimer Disease
 - Animals

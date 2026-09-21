@@ -8,7 +8,7 @@ titre: 'Personal exposure to radiofrequency electromagnetic fields: A comparativ
 url: https://pubmed.ncbi.nlm.nih.gov/38199478/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Electromagnetic Fields

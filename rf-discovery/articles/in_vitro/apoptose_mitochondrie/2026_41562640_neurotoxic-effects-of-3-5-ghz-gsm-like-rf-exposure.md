@@ -33,13 +33,14 @@ mots_cles:
 - Neurotrophin Receptor P75
 - Radiofrequency (3.5 Ghz)
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1003.0
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
 modele_indices:
 - Cells, Cultured (descripteur décisif)
 - cells, cultured
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 8.0
 theme_secondaires:

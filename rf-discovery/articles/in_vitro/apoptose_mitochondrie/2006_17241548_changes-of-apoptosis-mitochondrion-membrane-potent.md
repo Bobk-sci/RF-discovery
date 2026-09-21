@@ -9,7 +9,7 @@ titre: '[Changes of apoptosis, mitochondrion membrane potential and Ca2+ of hypo
 url: https://pubmed.ncbi.nlm.nih.gov/17241548/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Apoptosis

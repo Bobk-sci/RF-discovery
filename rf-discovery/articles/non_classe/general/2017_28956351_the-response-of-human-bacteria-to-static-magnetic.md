@@ -8,7 +8,7 @@ titre: The response of human bacteria to static magnetic field and radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/28956351/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Bacteria
 - Cell Phone

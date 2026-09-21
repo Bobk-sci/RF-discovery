@@ -23,13 +23,14 @@ types:
 - Journal Article
 mots_cles: []
 modele: in_vitro
-modele_score: 1004.5
+modele_score: 1006.5
 modele_secondaires: []
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - in vitro
 - cell line
+- cell proliferation
 theme: cancer
 theme_score: 2.0
 theme_secondaires: []

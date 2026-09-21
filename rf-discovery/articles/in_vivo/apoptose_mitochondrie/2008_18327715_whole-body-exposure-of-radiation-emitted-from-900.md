@@ -8,7 +8,7 @@ titre: Whole-body exposure of radiation emitted from 900 MHz mobile phones does 
 url: https://pubmed.ncbi.nlm.nih.gov/18327715/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Apoptosis

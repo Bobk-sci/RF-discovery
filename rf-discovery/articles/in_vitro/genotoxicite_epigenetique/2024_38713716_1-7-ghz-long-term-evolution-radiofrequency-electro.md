@@ -9,7 +9,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with sta
 url: https://pubmed.ncbi.nlm.nih.gov/38713716/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Hela Cells
 - Animals
@@ -25,13 +25,14 @@ types:
 - Journal Article
 mots_cles: []
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1004.0
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
 modele_indices:
 - HeLa Cells (descripteur décisif)
 - HeLa
+- cell proliferation
 theme: genotoxicite_epigenetique
 theme_score: 1.0
 theme_secondaires:

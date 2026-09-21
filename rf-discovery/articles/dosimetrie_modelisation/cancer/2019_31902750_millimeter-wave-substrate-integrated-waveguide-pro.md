@@ -7,7 +7,7 @@ titre: Millimeter-Wave Substrate Integrated Waveguide Probe for Skin Cancer Dete
 url: https://pubmed.ncbi.nlm.nih.gov/31902750/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Algorithms
 - Diagnostic Imaging

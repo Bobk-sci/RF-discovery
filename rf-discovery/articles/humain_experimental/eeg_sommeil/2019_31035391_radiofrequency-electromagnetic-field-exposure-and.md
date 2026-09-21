@@ -8,7 +8,7 @@ titre: 'Radiofrequency Electromagnetic Field Exposure and the Resting EEG: Explo
 url: https://pubmed.ncbi.nlm.nih.gov/31035391/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

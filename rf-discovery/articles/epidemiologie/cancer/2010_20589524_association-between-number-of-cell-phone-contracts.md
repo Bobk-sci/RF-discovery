@@ -8,7 +8,7 @@ titre: Association between number of cell phone contracts and brain tumor incide
 url: https://pubmed.ncbi.nlm.nih.gov/20589524/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Brain Neoplasms
 - Cell Phone

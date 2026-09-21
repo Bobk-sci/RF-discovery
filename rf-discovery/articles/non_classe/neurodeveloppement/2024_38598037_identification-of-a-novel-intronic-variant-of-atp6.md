@@ -8,7 +8,7 @@ titre: Identification of a novel intronic variant of ATP6V0A2 in a Han-Chinese f
 url: https://pubmed.ncbi.nlm.nih.gov/38598037/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Female
 - Humans

@@ -7,7 +7,7 @@ titre: In utero exposure to microwave radiation and rat brain development.
 url: https://pubmed.ncbi.nlm.nih.gov/6487382/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Brain

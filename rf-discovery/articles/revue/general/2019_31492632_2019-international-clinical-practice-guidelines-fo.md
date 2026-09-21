@@ -8,7 +8,7 @@ titre: 2019 international clinical practice guidelines for the treatment and pro
 url: https://pubmed.ncbi.nlm.nih.gov/31492632/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Anticoagulants
 - Central Venous Catheters

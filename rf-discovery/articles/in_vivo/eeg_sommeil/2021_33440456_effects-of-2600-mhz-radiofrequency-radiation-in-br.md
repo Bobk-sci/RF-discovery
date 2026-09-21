@@ -8,7 +8,7 @@ titre: Effects of 2600 MHz Radiofrequency Radiation in Brain Tissue of Male Wi
 url: https://pubmed.ncbi.nlm.nih.gov/33440456/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Melatonin

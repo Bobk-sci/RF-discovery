@@ -8,7 +8,7 @@ titre: 'Clinically defined non-specific symptoms in the vicinity of mobile phone
 url: https://pubmed.ncbi.nlm.nih.gov/27219506/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adult
 - Aged

@@ -9,7 +9,7 @@ titre: Quantitative thermal imaging.
 url: https://pubmed.ncbi.nlm.nih.gov/2286052/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Female
 - History, 17th Century

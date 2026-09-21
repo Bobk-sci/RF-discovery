@@ -8,7 +8,7 @@ titre: Evidences of the radiofrequency exposure on the antioxidant status, poten
 url: https://pubmed.ncbi.nlm.nih.gov/35700956/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

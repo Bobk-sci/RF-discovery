@@ -8,7 +8,7 @@ titre: 'Wireless phone use in childhood and adolescence and neuroepithelial brai
 url: https://pubmed.ncbi.nlm.nih.gov/34974237/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

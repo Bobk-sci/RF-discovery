@@ -8,7 +8,7 @@ titre: Ultra-thin flexible rectenna integrated with power management unit for wi
 url: https://pubmed.ncbi.nlm.nih.gov/38548782/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - research-article

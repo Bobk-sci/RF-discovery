@@ -8,7 +8,7 @@ titre: The protective effect of melatonin on radiofrequency electromagnetic fiel
 url: https://pubmed.ncbi.nlm.nih.gov/33040351/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Antioxidants

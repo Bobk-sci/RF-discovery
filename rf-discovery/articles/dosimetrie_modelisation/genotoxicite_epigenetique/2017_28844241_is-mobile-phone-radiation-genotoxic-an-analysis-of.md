@@ -8,7 +8,7 @@ titre: Is mobile phone radiation genotoxic? An analysis of micronucleus frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/28844241/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Adolescent
 - Adult

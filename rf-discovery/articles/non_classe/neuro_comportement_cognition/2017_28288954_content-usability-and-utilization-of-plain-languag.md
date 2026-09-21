@@ -8,7 +8,7 @@ titre: 'Content, Usability, and Utilization of Plain Language in Breast Cancer M
 url: https://pubmed.ncbi.nlm.nih.gov/28288954/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article

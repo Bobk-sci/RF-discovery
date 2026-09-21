@@ -8,7 +8,7 @@ titre: 'Evaluation of Autonomic Nervous System Function During Sleep by Mindful 
 url: https://pubmed.ncbi.nlm.nih.gov/38865177/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Male

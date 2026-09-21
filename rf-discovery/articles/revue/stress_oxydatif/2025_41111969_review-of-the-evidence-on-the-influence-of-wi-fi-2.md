@@ -8,7 +8,7 @@ titre: Review of the evidence on the influence of Wi-Fi 2.4 GHz radiation on o
 url: https://pubmed.ncbi.nlm.nih.gov/41111969/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - Systematic Review

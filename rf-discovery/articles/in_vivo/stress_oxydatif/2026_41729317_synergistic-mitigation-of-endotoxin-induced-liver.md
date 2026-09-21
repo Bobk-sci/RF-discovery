@@ -8,7 +8,7 @@ titre: 'Synergistic mitigation of endotoxin-induced liver injury by low-frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/41729317/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Liver
 - Animals

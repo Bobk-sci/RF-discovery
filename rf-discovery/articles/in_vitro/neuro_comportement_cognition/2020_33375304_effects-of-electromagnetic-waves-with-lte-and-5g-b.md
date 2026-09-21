@@ -8,7 +8,7 @@ titre: Effects of Electromagnetic Waves with LTE and 5G Bandwidth on the Skin Pi
 url: https://pubmed.ncbi.nlm.nih.gov/33375304/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Cell Proliferation
@@ -32,7 +32,7 @@ mots_cles:
 - melanogenesis
 - skin pigmentation
 modele: in_vitro
-modele_score: 1005.5
+modele_score: 1008.5
 modele_secondaires:
 - in_vivo
 - ingenierie_materiel
@@ -41,6 +41,8 @@ modele_indices:
 - in vitro techniques
 - in vitro
 - cell line
+- cell viability
+- cell proliferation
 theme: neuro_comportement_cognition
 theme_score: 1.0
 theme_secondaires:

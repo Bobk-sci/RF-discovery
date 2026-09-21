@@ -8,7 +8,7 @@ titre: Assessing public awareness and use of medical abortion via mobile phone s
 url: https://pubmed.ncbi.nlm.nih.gov/31472114/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Abortion, Induced
 - Adolescent

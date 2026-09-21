@@ -8,7 +8,7 @@ titre: 'Investigation of the Adverse Health Effects of Cell Phone Radiation and 
 url: https://pubmed.ncbi.nlm.nih.gov/38783888/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh: []
 types:
 - review-article

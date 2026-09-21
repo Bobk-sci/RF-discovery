@@ -7,7 +7,7 @@ titre: Electromagnetic field and brain development.
 url: https://pubmed.ncbi.nlm.nih.gov/26686296/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Animals
 - Brain

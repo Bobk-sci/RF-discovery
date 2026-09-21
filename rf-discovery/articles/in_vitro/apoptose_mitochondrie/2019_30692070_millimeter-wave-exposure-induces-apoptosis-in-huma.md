@@ -7,7 +7,7 @@ titre: '[Millimeter wave exposure induces apoptosis in human melanoma A375 cells
 url: https://pubmed.ncbi.nlm.nih.gov/30692070/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Apoptosis
 - Caspase 3
@@ -28,13 +28,14 @@ mots_cles:
 - irradiation
 - specific absorption rate
 modele: in_vitro
-modele_score: 1002.0
+modele_score: 1003.0
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - cell line
+- cell viability
 theme: apoptose_mitochondrie
 theme_score: 5.5
 theme_secondaires:

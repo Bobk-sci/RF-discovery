@@ -8,7 +8,7 @@ titre: 'Effect of Conventional and Microwave Tissue Processing Technique on DNA 
 url: https://pubmed.ncbi.nlm.nih.gov/30607077/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Carcinoma, Squamous Cell
 - Clinical Laboratory Techniques

@@ -8,7 +8,7 @@ titre: 'The Association Between Presleep and Postwake Mobile Phone Use and Nonsu
 url: https://pubmed.ncbi.nlm.nih.gov/41105948/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-18'
+collecte: '2026-09-21'
 mesh:
 - Humans
 - Cross-Sectional Studies
