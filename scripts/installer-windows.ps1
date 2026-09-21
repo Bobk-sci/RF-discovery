@@ -67,6 +67,11 @@ try {
         Verifier "fetch_pdfs"
     }
 
+    Etape "Texte intégral des articles en accès libre (Europe PMC)"
+    Write-Host "Pour lire et analyser : plus utile qu'un PDF, et sans refus d'éditeur." -ForegroundColor DarkGray
+    & $py -m fetch_fulltext
+    Verifier "fetch_fulltext"
+
     Etape "Export des références (RIS + BibTeX)"
     if ($SansPdf) { & $py -m export_refs }
     else { & $py -m export_refs --pdf-dir (Join-Path $projet "pdf") }
