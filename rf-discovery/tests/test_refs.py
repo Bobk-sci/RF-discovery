@@ -63,6 +63,22 @@ def test_bibtex_cle_unique_et_champs(tmp_path):
     assert "keywords = {modele:in_vivo, theme:neurodeveloppement" in bib
 
 
+def test_completer_remplit_les_fiches_sans_auteurs(tmp_path):
+    """Une fiche collectée avant la lecture des auteurs se complète par son PMID."""
+    from collect_library import completer
+
+    nu = Paper(pmid="31234567", doi="", title=ARTICLE.title, abstract=ARTICLE.abstract,
+               year=2019, journal="J", source="europepmc")
+    write_article(tmp_path, nu, classify_paper(nu, TAX), AXES)
+    xml = (Path(__file__).parent / "fixtures" / "pubmed_efetch.xml").read_text(
+        encoding="utf-8")
+    out = completer(tmp_path, TAX, fetcher_text=lambda _u, _p: xml)
+    assert out == {"a_completer": 1, "completees": 1}
+    fiche = next(p for p in tmp_path.rglob("*.md") if p.name != "README.md")
+    assert "auteurs:" in fiche.read_text(encoding="utf-8")
+    assert completer(tmp_path, TAX, fetcher_text=lambda _u, _p: xml)["a_completer"] == 0
+
+
 def test_unpaywall_rend_le_pdf_libre_sinon_vide():
     dispo = {"best_oa_location": {"url_for_pdf": "https://ex.org/a.pdf"}}
     assert oa_pdf_url("10.1/x", "a@b.c", fetcher=lambda u, p: dispo) == "https://ex.org/a.pdf"

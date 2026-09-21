@@ -138,6 +138,10 @@ def test_parse_pubmed_xml():
     papers = pubmed.parse_pubmed_xml(
         (FIX / "pubmed_efetch.xml").read_text(encoding="utf-8"))
     assert [p.pmid for p in papers] == ["31234567", "28000001"]
+    # Les collectifs sont repris tels quels : une référence doit rester citable.
+    assert papers[0].extra["authors"] == ["Durand A", "Nowak K", "Fixture Study Group"]
+    assert papers[0].extra["pages"] == "45-53"
+    assert papers[1].extra["authors"] == []
     assert papers[0].doi == "10.1000/fixture.2019.01" and papers[0].year == 2019
     assert papers[0].abstract.startswith("BACKGROUND: Pregnant Wistar rats")
     assert papers[1].year == 2017 and papers[1].doi == "" and papers[1].abstract == ""

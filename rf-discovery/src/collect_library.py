@@ -43,6 +43,7 @@ from library.organize import (
     article_path,
     prune_empty_dirs,
     read_article,
+    read_front_matter,
     scan_library,
     write_article,
     write_index,
@@ -128,6 +129,46 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
     return {"fiches_deplacees": moved, "fiches_sorties": removed}
 
 
+def _fiches_incompletes(out: Path) -> dict[str, Path]:
+    """PMID des fiches sans auteurs (collectées avant que ce champ soit lu)."""
+    manquants: dict[str, Path] = {}
+    for path in out.rglob("*.md"):
+        if path.name == "README.md":
+            continue
+        meta = read_front_matter(path)
+        pmid = str(meta.get("pmid") or "")
+        if meta and not meta.get("auteurs") and pmid.isdigit():
+            manquants[pmid] = path
+    return manquants
+
+
+def completer(out: Path, tax: Taxonomy, *, email: str = "", api_key: str = "",
+              fetcher_text=None) -> dict[str, int]:
+    """Complète les fiches sans auteurs en relisant leur notice PubMed par PMID.
+
+    Une référence sans auteurs est inutilisable dans EndNote ou Zotero. Passer par les
+    identifiants coûte quelques appels, là où une nouvelle recherche ne retrouverait que
+    les articles répondant à la requête courante.
+    """
+    axes = tuple(ax.name for ax in tax.axes)
+    manquants = _fiches_incompletes(out)
+    if not manquants:
+        return {"a_completer": 0, "completees": 0}
+    papers = pubmed.fetch_records(list(manquants), api_key=api_key, email=email,
+                                  fetcher_text=fetcher_text)
+    completees = 0
+    for paper in papers:
+        ancien = manquants.get(paper.pmid)
+        if ancien is None or not paper.extra.get("authors"):
+            continue
+        nouveau = write_article(out, paper, classify_paper(paper, tax), axes)
+        if nouveau.resolve() != ancien.resolve():
+            ancien.unlink()
+        completees += 1
+    prune_empty_dirs(out)
+    return {"a_completer": len(manquants), "completees": completees}
+
+
 def memoire_depuis_bibliotheque(out: Path) -> set[str]:
     """Clés de déduplication reconstruites depuis les fiches réellement rangées.
 
@@ -163,6 +204,8 @@ def main() -> None:
                     help="export JSON de notices déjà récupérées (répétable, hors ligne)")
     ap.add_argument("--import-source", default="import",
                     help="provenance réelle des exports importés (pubmed, europepmc…)")
+    ap.add_argument("--completer", action="store_true",
+                    help="complète les fiches sans auteurs via PubMed (par PMID)")
     ap.add_argument("--reclasser", action="store_true",
                     help="reclasse les fiches existantes sans rien collecter")
     ap.add_argument("--tout", action="store_true",
@@ -172,6 +215,13 @@ def main() -> None:
     tax = load_taxonomy(args.taxonomy)
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
+    if args.completer:
+        result = completer(out, tax, email=os.environ.get("CONTACT_EMAIL", ""),
+                           api_key=os.environ.get("NCBI_API_KEY", ""))
+        result["articles"] = _finalise(out, tax, build_query(tax))
+        print(json.dumps(result, indent=2, ensure_ascii=False))
+        return
+
     if args.reclasser:
         result = reclasser(out, tax)
         # La mémoire suit le corpus : ce qui vient d'être écarté redeviendra collectable
