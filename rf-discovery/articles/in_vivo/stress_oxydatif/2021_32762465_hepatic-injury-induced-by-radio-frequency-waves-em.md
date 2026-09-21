@@ -29,10 +29,12 @@ mots_cles:
 - Oxidative stress
 - Electromagnetic Radiation
 - Wi-fi
-auteurs: []
+auteurs:
+- Fahmy HM
+- Mohammed FF
 pmcid: ''
 volume: ''
-pages: ''
+pages: 136-147
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

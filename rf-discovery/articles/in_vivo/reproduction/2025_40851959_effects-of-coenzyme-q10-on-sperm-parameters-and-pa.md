@@ -18,10 +18,19 @@ mots_cles:
 - Coenzyme Q10
 - Pathological changes
 - Sperm Parameters
-auteurs: []
-pmcid: ''
+auteurs:
+- Safaeinezhad A
+- Mousapour E
+- Baba Ahmadi AK
+- Ebrahimi S
+- Rahimi K
+- Rezaie A
+- Dehvari M
+- Givi ME
+- Sasani A
+pmcid: PMC12369732
 volume: ''
-pages: ''
+pages: 4073-4079
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

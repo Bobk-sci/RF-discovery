@@ -33,10 +33,23 @@ mots_cles:
 - NSCs
 - Hnrnpa2b1
 - Trkb M(6)a Modification
-auteurs: []
+auteurs:
+- Zhi W
+- Tang J
+- Zhang M
+- Zou Y
+- Qiao S
+- Ma L
+- Dong J
+- Yao B
+- Zhao X
+- Yang Z
+- Lin Z
+- Hu X
+- Wang L
 pmcid: ''
 volume: ''
-pages: ''
+pages: '117907'
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires: []

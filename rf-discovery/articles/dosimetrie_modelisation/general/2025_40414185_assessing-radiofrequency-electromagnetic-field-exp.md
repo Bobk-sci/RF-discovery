@@ -27,10 +27,40 @@ mots_cles:
 - Telecommunication
 - Exposure assessment
 - 5G New Radio
-auteurs: []
+auteurs:
+- Veludo AF
+- Stroobandt B
+- Van Bladel H
+- Sandoval-Diez N
+- Deprez K
+- Aerts S
+- Chikha WB
+- Wiart J
+- Vecsei Z
+- Necz PP
+- Thuróczy G
+- Benini M
+- Bonato M
+- Gallucci S
+- Tognola G
+- Parazzini M
+- Beláčková L
+- Vaupotič N
+- Mamrot P
+- Marianska M
+- Politanski P
+- Polanska K
+- Stamets M
+- de Llobet P
+- Castaño-Vinyals G
+- Guxens M
+- Hulls PM
+- de Vocht F
+- Joseph W
+- Röösli M
 pmcid: ''
 volume: ''
-pages: ''
+pages: '109540'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

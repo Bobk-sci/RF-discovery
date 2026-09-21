@@ -27,10 +27,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Deniz ÖG
+- Altun G
+- Kaplan S
+pmcid: PMC12461266
 volume: ''
-pages: ''
+pages: 2789-2800
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

@@ -14,10 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Tavares J
+- Lacik J
+- Pinho P
+- Raida Z
+- Alves H
+pmcid: PMC12238325
 volume: ''
-pages: ''
+pages: '24429'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

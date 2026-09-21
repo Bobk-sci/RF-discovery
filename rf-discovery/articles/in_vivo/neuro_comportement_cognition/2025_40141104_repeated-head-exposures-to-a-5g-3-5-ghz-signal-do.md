@@ -30,10 +30,19 @@ mots_cles:
 - Transcriptome
 - Glutamatergic Synapse
 - 5G
-auteurs: []
-pmcid: ''
+auteurs:
+- Lameth J
+- Royer J
+- Martin A
+- Marie C
+- Arnaud-Cormos D
+- Lévêque P
+- Poirier R
+- Edeline JM
+- Mallat M
+pmcid: PMC11941837
 volume: ''
-pages: ''
+pages: '2459'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

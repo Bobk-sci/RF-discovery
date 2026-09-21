@@ -2,32 +2,34 @@
 pmid: '41145349'
 doi: 10.1515/reveh-2025-0104
 annee: 2025
-journal: Reviews on environmental health
+journal: ''
 titre: Radiofrequency radiation-induced gene expression.
 url: https://pubmed.ncbi.nlm.nih.gov/41145349/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Radio Waves
-- Humans
-- Gene Expression
-- DNA Damage
 - Animals
+- Humans
+- DNA Damage
+- Gene Expression
+- Radio Waves
 types:
-- Journal Article
 - Review
+- Journal Article
 mots_cles:
+- Apoptosis
 - DNA damage
-- apoptosis
-- gene expression
-- oxidative changes
-- radiofrequency radiation
-- stress
-auteurs: []
+- Stress
+- Gene Expression
+- Radiofrequency Radiation
+- Oxidative Changes
+auteurs:
+- Lai H
+- Levitt BB
 pmcid: ''
 volume: ''
-pages: ''
+pages: 695-719
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -46,7 +48,7 @@ theme_indices:
 
 # Radiofrequency radiation-induced gene expression.
 
-*Reviews on environmental health — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

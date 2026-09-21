@@ -19,10 +19,19 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Pulsed Magnetic Field
 - Non-thermal Biostimulation
-auteurs: []
+auteurs:
+- Elmas A
+- Asci H
+- Tepebasi MY
+- Taner R
+- Selver MB
+- Imeci O
+- Comlekci S
+- Akcam M
+- Ozmen O
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-15
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

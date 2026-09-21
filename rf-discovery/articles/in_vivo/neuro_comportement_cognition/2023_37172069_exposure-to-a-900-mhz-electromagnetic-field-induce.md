@@ -2,31 +2,41 @@
 pmid: '37172069'
 doi: 10.1371/journal.pone.0285522
 annee: 2023
-journal: PloS one
+journal: ''
 titre: Exposure to a 900 MHz electromagnetic field induces a response of the honey
   bee organism on the level of enzyme activity and the expression of stress-related
   genes.
 url: https://pubmed.ncbi.nlm.nih.gov/37172069/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Bees
 - Animals
-- Electromagnetic Fields
-- Quality of Life
-- Antioxidants
-- Radio Waves
+- Bees
 - Uric Acid
+- Antioxidants
+- Electromagnetic Fields
+- Radio Waves
+- Quality of Life
 types:
-- Journal Article
-- Research Support, U.S. Gov't, Non-P.H.S.
 - Research Support, Non-U.S. Gov't
+- research-article
+- Research Support, U.S. Gov't, Non-P.H.S.
+- Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Migdal P
+- Bieńkowski P
+- Cebrat M
+- Berbeć E
+- Plotnik M
+- Murawska A
+- Sobkiewicz P
+- Łaszkiewicz A
+- Latarowski K
+pmcid: PMC10180655
 volume: ''
-pages: ''
+pages: e0285522
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -42,7 +52,7 @@ theme_indices:
 
 # Exposure to a 900 MHz electromagnetic field induces a response of the honey bee organism on the level of enzyme activity and the expression of stress-related genes.
 
-*PloS one — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

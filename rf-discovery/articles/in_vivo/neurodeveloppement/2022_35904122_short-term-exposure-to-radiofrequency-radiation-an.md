@@ -2,39 +2,43 @@
 pmid: '35904122'
 doi: 10.1080/15368378.2022.2104309
 annee: 2022
-journal: Electromagnetic biology and medicine
+journal: ''
 titre: Short-term exposure to radiofrequency radiation and metabolic enzymes' activities
   during pregnancy and prenatal development.
 url: https://pubmed.ncbi.nlm.nih.gov/35904122/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Pregnancy
 - Animals
-- Female
 - Rabbits
-- Antioxidants
-- NADP
 - Reactive Oxygen Species
-- Radio Waves
-- Cell Phone
-- Environmental Pollutants
-- Glutathione
+- NADP
 - Glucose
+- Glutathione
+- Antioxidants
+- Environmental Pollutants
+- Pregnancy
+- Radio Waves
+- Female
+- Cell Phone
 types:
 - Journal Article
 mots_cles:
-- 6PGDH
-- G6PDH
 - GSH
+- Newborn
+- G6PDH
+- Pregnant
 - RF
-- newborn
-- pregnant
-auteurs: []
+- 6Pgdh
+auteurs:
+- Tomruk A
+- Ozgur-Buyukatalay E
+- Ozturk GG
+- Ulusu NN
 pmcid: ''
 volume: ''
-pages: ''
+pages: 370-378
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -57,7 +61,7 @@ theme_indices:
 
 # Short-term exposure to radiofrequency radiation and metabolic enzymes' activities during pregnancy and prenatal development.
 
-*Electromagnetic biology and medicine — 2022*
+*journal non renseigné — 2022*
 
 ## Résumé (texte d'origine)
 

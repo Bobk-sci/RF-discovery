@@ -20,10 +20,14 @@ mots_cles:
 - risk assessment
 - Mobile Phones
 - Radiowaves
-auteurs: []
-pmcid: ''
+auteurs:
+- Meena JK
+- Verma A
+- Kohli C
+- Ingle GK
+pmcid: PMC4922278
 volume: ''
-pages: ''
+pages: 5-9
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

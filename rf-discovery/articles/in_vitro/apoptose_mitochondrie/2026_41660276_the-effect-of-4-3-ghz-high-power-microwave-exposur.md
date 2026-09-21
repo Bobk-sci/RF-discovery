@@ -21,10 +21,19 @@ mots_cles:
 - Mtor Signaling
 - Non-thermal Effects
 - High-power Microwave
-auteurs: []
-pmcid: ''
+auteurs:
+- Gao A
+- Zhao X
+- Wu S
+- Liu X
+- Wang X
+- Tan L
+- Li Z
+- Dong G
+- Wang C
+pmcid: PMC12872831
 volume: ''
-pages: ''
+pages: '1729198'
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires: []

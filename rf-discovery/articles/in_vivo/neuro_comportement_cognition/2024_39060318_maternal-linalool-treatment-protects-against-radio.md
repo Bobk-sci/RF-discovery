@@ -2,42 +2,45 @@
 pmid: '39060318'
 doi: 10.1038/s41598-024-68103-5
 annee: 2024
-journal: Scientific reports
+journal: ''
 titre: 'Maternal linalool treatment protects against radiofrequency wave-induced deteriorations
   in adolescent rats: A behavioral and electrophysiological study.'
 url: https://pubmed.ncbi.nlm.nih.gov/39060318/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Female
-- Pregnancy
-- Acyclic Monoterpenes
-- Male
-- Rats
-- Prenatal Exposure Delayed Effects
 - Hippocampus
+- Animals
+- Rats
+- Rats, Wistar
+- Prenatal Exposure Delayed Effects
 - Behavior, Animal
-- Radio Waves
+- Anxiety
 - Maze Learning
 - Memory
-- Anxiety
-- Rats, Wistar
+- Pregnancy
 - Neuronal Plasticity
+- Radio Waves
+- Female
+- Male
+- Acyclic Monoterpenes
 types:
+- research-article
 - Journal Article
 mots_cles:
 - Hippocampus
 - Learning and memory
-- Linalool
-- Long-term potentiation
 - Mobile phone
-- Offspring rats
-auteurs: []
-pmcid: ''
+- Long-term potentiation
+- Linalool
+- Offspring Rats
+auteurs:
+- Azimzadeh M
+- Noorbakhshnia M
+pmcid: PMC11282235
 volume: ''
-pages: ''
+pages: '17257'
 modele: in_vivo
 modele_score: 13.5
 modele_secondaires: []
@@ -63,7 +66,7 @@ theme_indices:
 
 # Maternal linalool treatment protects against radiofrequency wave-induced deteriorations in adolescent rats: A behavioral and electrophysiological study.
 
-*Scientific reports — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

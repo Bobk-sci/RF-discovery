@@ -13,10 +13,15 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Srivastava S
+- Singh A
+- Awasthi NP
+- Chopra R
+- Dar AH
 pmcid: ''
 volume: ''
-pages: ''
+pages: 657-670
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -14,7 +14,14 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Souffi S
+- Lameth J
+- Gaucher Q
+- Arnaud-Cormos D
+- Lévêque P
+- Edeline J
+- Mallat M
 pmcid: ''
 volume: ''
 pages: ''

@@ -18,10 +18,17 @@ mots_cles:
 - Microwaves
 - Malaria
 - Irradiation System
-auteurs: []
-pmcid: ''
+auteurs:
+- Rua E
+- Coronado L
+- Donado Morcillo CA
+- Correa R
+- Solís L
+- Spadafora C
+- Von Chong A
+pmcid: PMC11234006
 volume: ''
-pages: ''
+pages: e00540
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []

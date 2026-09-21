@@ -18,10 +18,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Mohamadi F
+- Zolghadri M
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

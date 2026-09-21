@@ -13,10 +13,18 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Kakaraparty K
+- Mohammad Solaiman
+- Pineda EA
+- Galib AR
+- Sarwar Inam A
+- Riam SZ
+- Mahbub I
+- Tabassum S
 pmcid: ''
 volume: ''
-pages: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []

@@ -33,10 +33,15 @@ mots_cles:
 - Oxidative stress
 - Occupational Exposure
 - Elf‐emfs
-auteurs: []
+auteurs:
+- Jafarimanesh S
+- Ehsani H
+- Shaki F
+- Moosazadeh M
+- Samaei SE
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70027
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

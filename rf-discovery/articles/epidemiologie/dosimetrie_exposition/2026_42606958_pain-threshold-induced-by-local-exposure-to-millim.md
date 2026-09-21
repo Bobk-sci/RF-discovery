@@ -29,10 +29,16 @@ mots_cles:
 - Millimeter wave
 - skin temperature
 - Perception Threshold
-auteurs: []
+auteurs:
+- Yuasa A
+- Uehara S
+- Ushizawa K
+- Kodera S
+- Hirata A
+- Otaka Y
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1196-1203
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

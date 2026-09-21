@@ -16,10 +16,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Pophof B
+- Henschenmacher B
+- Kattnig DR
+- Kuhne J
+- Vian A
+- Ziegelberger G
+pmcid: PMC9722376
 volume: ''
-pages: ''
+pages: 31-38
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

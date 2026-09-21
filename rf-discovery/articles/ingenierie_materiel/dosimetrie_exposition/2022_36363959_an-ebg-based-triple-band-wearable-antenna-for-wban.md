@@ -18,10 +18,15 @@ mots_cles:
 - Ebg
 - Monopole Antenna
 - Wearable Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Li R
+- Wu C
+- Sun X
+- Zhao Y
+- Luo W
+pmcid: PMC9693111
 volume: ''
-pages: ''
+pages: '1938'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

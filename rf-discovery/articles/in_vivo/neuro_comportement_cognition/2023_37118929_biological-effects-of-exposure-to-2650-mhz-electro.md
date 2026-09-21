@@ -31,10 +31,18 @@ mots_cles:
 - Anxiety
 - Gamma-aminobutyric acid
 - Electromagnetic Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Zheng R
+- Zhang X
+- Gao Y
+- Gao D
+- Gong W
+- Zhang C
+- Dong G
+- Li Z
+pmcid: PMC10275548
 volume: ''
-pages: ''
+pages: e3004
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

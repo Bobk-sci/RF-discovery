@@ -13,7 +13,16 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Lameth J
+- Royer J
+- Martin A
+- Marie C
+- Cormos DA
+- Lévêque P
+- Poirier R
+- Edeline J
+- Mallat M
 pmcid: ''
 volume: ''
 pages: ''

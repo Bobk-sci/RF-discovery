@@ -2,42 +2,48 @@
 pmid: '38369591'
 doi: 10.1002/bem.22498
 annee: 2024
-journal: Bioelectromagnetics
+journal: ''
 titre: Effects of 3.5-GHz radiofrequency radiation on energy-regulatory hormone levels
   in the blood and adipose tissue.
 url: https://pubmed.ncbi.nlm.nih.gov/38369591/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
+- Adipose Tissue
 - Animals
+- Rats
+- Rats, Wistar
+- Diabetes Mellitus, Experimental
+- Hydrogen Peroxide
+- Insulin
+- Calcium-Binding Proteins
+- Fibronectins
+- Antioxidants
+- Energy Metabolism
+- Oxidative Stress
 - Radio Waves
+- Male
 - Ghrelin
 - Nucleobindins
-- Male
-- Fibronectins
-- Rats
-- Adipose Tissue
-- Insulin
-- Antioxidants
-- Diabetes Mellitus, Experimental
-- Energy Metabolism
-- Calcium-Binding Proteins
-- Hydrogen Peroxide
-- Oxidative Stress
-- Rats, Wistar
 types:
 - Journal Article
 mots_cles:
-- 3.5 GHz radiofrequency radiation
-- diabetes
-- energy metabolism
-- insulin
-- oxidative stress
-auteurs: []
+- Energy metabolism
+- Insulin
+- Oxidative stress
+- Diabetes
+- 3.5 Ghz Radiofrequency Radiation
+auteurs:
+- Bektas H
+- Dasdag S
+- Altindag F
+- Akdag MZ
+- Yegin K
+- Algul S
 pmcid: ''
 volume: ''
-pages: ''
+pages: 209-217
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -57,7 +63,7 @@ theme_indices:
 
 # Effects of 3.5-GHz radiofrequency radiation on energy-regulatory hormone levels in the blood and adipose tissue.
 
-*Bioelectromagnetics — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

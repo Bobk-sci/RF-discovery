@@ -31,10 +31,22 @@ mots_cles:
 - Neuronal Electrical Activity
 - 5G And Gsm Co‐exposure
 - Radiofrequency Electromagnetic Fields (Rf‐emf)
-auteurs: []
+auteurs:
+- Hurtier A
+- Patrignoni L
+- Canovi A
+- Orlacchio R
+- Tjiou H
+- Gannes FP
+- Garenne A
+- Lévêque P
+- Arnaud-Cormos D
+- Lagroye I
+- Lewis N
+- Percherancier Y
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70026
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires:

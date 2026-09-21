@@ -25,10 +25,15 @@ mots_cles:
 - Developmental stages
 - Electromagnetic Fields (Emfs)
 - Egg Cocoon
-auteurs: []
-pmcid: ''
+auteurs:
+- Porc W
+- Rozpędek K
+- Glenszczyk M
+- Lis A
+- Babczyńska A
+pmcid: PMC13164240
 volume: ''
-pages: ''
+pages: '4088'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

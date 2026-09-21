@@ -20,10 +20,16 @@ mots_cles:
 - Tri-band
 - Ism/wmts Bands
 - Asynchronous–spiral Radiator
-auteurs: []
-pmcid: ''
+auteurs:
+- Gupta A
+- Kumar V
+- Bansal S
+- Alsharif MH
+- Jahid A
+- Cho HS
+pmcid: PMC10422222
 volume: ''
-pages: ''
+pages: '6989'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

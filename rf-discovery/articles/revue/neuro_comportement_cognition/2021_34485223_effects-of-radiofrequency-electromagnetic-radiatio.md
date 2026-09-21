@@ -28,10 +28,13 @@ mots_cles:
 - Transmission
 - Receptor
 - Emr
-auteurs: []
-pmcid: ''
+auteurs:
+- Hu C
+- Zuo H
+- Li Y
+pmcid: PMC8415840
 volume: ''
-pages: ''
+pages: '691880'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

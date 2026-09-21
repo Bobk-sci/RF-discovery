@@ -28,10 +28,27 @@ mots_cles:
 - Mmw
 - Ptch1 +/− Mice
 - Inflammation, Mast Cells
-auteurs: []
-pmcid: ''
+auteurs:
+- Palone F
+- Fratini E
+- Novelli F
+- Leonardi S
+- De Stefano I
+- Pasquali E
+- Tanori M
+- Pinto R
+- Ardoino L
+- Zambotti A
+- Camera F
+- Piscitelli M
+- Merla C
+- Pazzaglia S
+- Capstick M
+- Samaras T
+- Mancuso M
+pmcid: PMC13490480
 volume: ''
-pages: ''
+pages: '26074'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

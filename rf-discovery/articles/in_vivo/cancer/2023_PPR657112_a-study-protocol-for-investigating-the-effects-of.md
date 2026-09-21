@@ -13,7 +13,14 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Zufry H
+- Rudijanto A
+- Soeatmadji DW
+- Sakti SP
+- Munadi K
+- Sujuti H
+- Mintaroem K
 pmcid: ''
 volume: ''
 pages: ''

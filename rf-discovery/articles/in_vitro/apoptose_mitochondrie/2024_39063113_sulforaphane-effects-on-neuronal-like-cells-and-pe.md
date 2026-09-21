@@ -33,10 +33,16 @@ mots_cles:
 - Electromagnetic Radiation
 - Neuronal-like Cells
 - Hormetic Effects
-auteurs: []
-pmcid: ''
+auteurs:
+- Bertuccio MP
+- Saija C
+- Acri G
+- Ientile R
+- Caccamo D
+- Currò M
+pmcid: PMC11276899
 volume: ''
-pages: ''
+pages: '7872'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

@@ -22,10 +22,18 @@ mots_cles:
 - Artificial Intelligence And Machine Learning
 - Microwave Head Imaging Antenna
 - Reflection Co-Efficient
-auteurs: []
-pmcid: ''
+auteurs:
+- Mathew J
+- Khalaf OI
+- George NM
+- Michel A
+- Abraham NE
+- Alsekait DM
+- Alzu'bi S
+- AbdElminaam DS
+pmcid: PMC12681771
 volume: ''
-pages: ''
+pages: '103726'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

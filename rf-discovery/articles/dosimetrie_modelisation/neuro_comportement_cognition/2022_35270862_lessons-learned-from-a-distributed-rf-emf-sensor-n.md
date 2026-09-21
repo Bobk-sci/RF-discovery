@@ -22,10 +22,22 @@ mots_cles:
 - Radiofrequency Electromagnetic Fields (Rf-emf)
 - Distributed Sensor Network
 - Spatiotemporal Exposure Assessment
-auteurs: []
-pmcid: ''
+auteurs:
+- Aerts S
+- Vermeeren G
+- Van den Bossche M
+- Aminzadeh R
+- Verloock L
+- Thielens A
+- Leroux P
+- Bergs J
+- Braem B
+- Philippron A
+- Martens L
+- Joseph W
+pmcid: PMC8914968
 volume: ''
-pages: ''
+pages: '1715'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

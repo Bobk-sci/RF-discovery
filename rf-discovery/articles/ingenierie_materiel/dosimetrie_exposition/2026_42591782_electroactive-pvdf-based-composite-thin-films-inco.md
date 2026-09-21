@@ -14,10 +14,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Douhi S
+- Bahloul C
+- El Achaby M
+- Eddiai A
+pmcid: PMC13463121
 volume: ''
-pages: ''
+pages: 47084-47097
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:

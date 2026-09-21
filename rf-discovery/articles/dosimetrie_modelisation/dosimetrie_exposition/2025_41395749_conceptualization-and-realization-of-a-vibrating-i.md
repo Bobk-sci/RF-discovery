@@ -24,10 +24,15 @@ mots_cles:
 - Virc
 - Mode‐stirred Reverberation Chamber
 - Rose Cuttings
-auteurs: []
-pmcid: ''
+auteurs:
+- Oppermann L
+- Weidemeier M
+- Schäfer CC
+- Win YN
+- Matthes MS
+pmcid: PMC12703826
 volume: ''
-pages: ''
+pages: e70036
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []

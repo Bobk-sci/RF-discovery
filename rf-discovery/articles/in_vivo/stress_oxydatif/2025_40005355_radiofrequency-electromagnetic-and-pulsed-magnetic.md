@@ -38,10 +38,20 @@ mots_cles:
 - Acute Kidney Injury
 - Pulsed Magnetic Field (Pmf)
 - Radiofrequency Electromagnetic Field (Rf-emf)
-auteurs: []
-pmcid: ''
+auteurs:
+- Balci Ç
+- Özcan MS
+- Aşci H
+- Karabacak P
+- Kuruşçu O
+- Taner R
+- Özmen Ö
+- Tepebaşi MY
+- İlhan İ
+- Çömlekçi S
+pmcid: PMC11857468
 volume: ''
-pages: ''
+pages: '238'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

@@ -31,10 +31,24 @@ mots_cles:
 - Metformin
 - Microwave radiation
 - Male Reproductive Damage
-auteurs: []
-pmcid: ''
+auteurs:
+- Men J
+- Zhang L
+- Peng R
+- Li Y
+- Li M
+- Wang H
+- Zhao L
+- Zhang J
+- Wang H
+- Xu X
+- Dong J
+- Wang J
+- Yao B
+- Guo J
+pmcid: PMC10418945
 volume: ''
-pages: ''
+pages: '12250'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

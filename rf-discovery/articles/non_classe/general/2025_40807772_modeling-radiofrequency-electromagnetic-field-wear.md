@@ -2,25 +2,29 @@
 pmid: '40807772'
 doi: 10.3390/s25154607
 annee: 2025
-journal: Sensors (Basel, Switzerland)
+journal: ''
 titre: Modeling Radiofrequency Electromagnetic Field Wearable Distributed (Multi-Location)
   Measurements System for Evaluating Electromagnetic Hazards in the Work Environment.
 url: https://pubmed.ncbi.nlm.nih.gov/40807772/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- measurements
-- personal exposure meters
-- radiofrequency electromagnetic fields
-- workers’ exposure
-auteurs: []
-pmcid: ''
+- Measurements
+- Radiofrequency Electromagnetic Fields
+- Personal Exposure Meters
+- Workers’ Exposure
+auteurs:
+- Gryz K
+- Karpowicz J
+- Zradziński P
+pmcid: PMC12349324
 volume: ''
-pages: ''
+pages: '4607'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -33,7 +37,7 @@ theme_indices: []
 
 # Modeling Radiofrequency Electromagnetic Field Wearable Distributed (Multi-Location) Measurements System for Evaluating Electromagnetic Hazards in the Work Environment.
 
-*Sensors (Basel, Switzerland) — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

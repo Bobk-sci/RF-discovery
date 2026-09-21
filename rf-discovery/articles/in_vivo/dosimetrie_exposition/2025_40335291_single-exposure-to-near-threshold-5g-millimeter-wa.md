@@ -28,10 +28,19 @@ mots_cles:
 - 5G
 - Stress Response Biomarkers
 - Quasi-millimeter Waves
-auteurs: []
-pmcid: ''
+auteurs:
+- Matsumoto A
+- Endo I
+- Ijima E
+- Hirata A
+- Kodera S
+- Ichiba M
+- Tokiya M
+- Hikage T
+- Masuda H
+pmcid: PMC12062831
 volume: ''
-pages: ''
+pages: '33'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

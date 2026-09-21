@@ -21,10 +21,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Nik Abdull Halim NMH
+- Mohd Jamili AF
+- Che Dom N
+- Abd Rahman NH
+- Jamal Kareem Z
+- Dapari R
+pmcid: PMC10898727
 volume: ''
-pages: ''
+pages: e0298738
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

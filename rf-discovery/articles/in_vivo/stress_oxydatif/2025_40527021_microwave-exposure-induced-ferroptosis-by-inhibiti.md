@@ -35,10 +35,25 @@ mots_cles:
 - Microwave Exposure
 - Slc7a11
 - Reproductive Damage
-auteurs: []
+auteurs:
+- Gao J
+- Li X
+- Hou Y
+- Li Y
+- Pang Y
+- Wu X
+- Zhao L
+- Zhang J
+- Wang H
+- Wang H
+- Dong J
+- Xu X
+- Peng R
+- Wang Y
+- Yao B
 pmcid: ''
 volume: ''
-pages: ''
+pages: '118523'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

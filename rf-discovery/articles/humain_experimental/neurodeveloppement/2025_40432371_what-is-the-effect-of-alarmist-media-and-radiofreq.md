@@ -34,10 +34,16 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Radiofrequency Electromagnetic Fields
 - Nocebo Effect
-auteurs: []
-pmcid: ''
+auteurs:
+- Verrender A
+- Wallace NK
+- Loughran SP
+- Wallace C
+- Beange J
+- Croft RJ
+pmcid: PMC12117290
 volume: ''
-pages: ''
+pages: e70044
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

@@ -19,10 +19,19 @@ mots_cles:
 - Proteomic
 - Metabolomic
 - Radiofrequency Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Wang X
+- Zhou G
+- Lin J
+- Zhang Z
+- Qin T
+- Guo L
+- Wang H
+- Huang Z
+- Ding G
+pmcid: PMC11505847
 volume: ''
-pages: ''
+pages: '806'
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:

@@ -19,7 +19,11 @@ mots_cles:
 - Metamaterial
 - Targeted Tumor Therapy
 - Miniaturized Antennas
-auteurs: []
+auteurs:
+- Zuo J
+- Ye J
+- Xu C
+- Zhu H
 pmcid: ''
 volume: ''
 pages: ''

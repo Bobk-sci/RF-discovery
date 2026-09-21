@@ -21,10 +21,17 @@ mots_cles:
 - Repetitive transcranial magnetic stimulation
 - Autophagy
 - Preclinical Models
-auteurs: []
-pmcid: ''
+auteurs:
+- Emanuele E
+- Santos-Lozano A
+- López-Ortiz S
+- Khoramipour K
+- García-Chico C
+- Lista S
+- Minoretti P
+pmcid: PMC13144591
 volume: ''
-pages: ''
+pages: '102613'
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

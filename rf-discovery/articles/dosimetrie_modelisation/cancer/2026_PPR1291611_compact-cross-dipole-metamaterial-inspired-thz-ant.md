@@ -13,7 +13,8 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- G SM
 pmcid: ''
 volume: ''
 pages: ''

@@ -27,10 +27,17 @@ mots_cles:
 - adiponectin
 - Hfd
 - Multi-frequency Rf-emr
-auteurs: []
+auteurs:
+- Xu J
+- Wang X
+- Li M
+- Zhang L
+- Zhao X
+- Dong G
+- Wang C
 pmcid: ''
 volume: ''
-pages: ''
+pages: '119016'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

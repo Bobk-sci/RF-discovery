@@ -29,10 +29,17 @@ mots_cles:
 - Mobile Phones
 - Total Oxidant Level
 - Total Antioxidant Level
-auteurs: []
+auteurs:
+- Ozergin Coskun Z
+- Tumkaya L
+- Yilmaz A
+- Dursun E
+- Mercantepe T
+- Kalkan Y
+- Ersoz S
 pmcid: ''
 volume: ''
-pages: ''
+pages: 75S-82S
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

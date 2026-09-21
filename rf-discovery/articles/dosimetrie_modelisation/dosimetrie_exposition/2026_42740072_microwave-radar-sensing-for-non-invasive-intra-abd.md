@@ -27,10 +27,16 @@ mots_cles:
 - Non-invasive Measurement
 - Phantom Testing
 - Transient Microwave Reflectometry
-auteurs: []
-pmcid: ''
+auteurs:
+- Tayebi S
+- Zarghami A
+- Chen C
+- Dabrowski W
+- Malbrain MLNG
+- Stiens J
+pmcid: PMC13568345
 volume: ''
-pages: ''
+pages: '5452'
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires: []

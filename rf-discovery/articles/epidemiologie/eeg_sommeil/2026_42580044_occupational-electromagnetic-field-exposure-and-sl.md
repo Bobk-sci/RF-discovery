@@ -30,10 +30,15 @@ mots_cles:
 - Multiple Exposures
 - Radiofrequencies
 - Bkmr
-auteurs: []
+auteurs:
+- Soumillion M
+- Remy VFM
+- Petrovic D
+- Dil JH
+- Guseva Canu I
 pmcid: ''
 volume: ''
-pages: ''
+pages: '114886'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

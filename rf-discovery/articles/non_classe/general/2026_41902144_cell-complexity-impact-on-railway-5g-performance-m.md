@@ -23,10 +23,14 @@ mots_cles:
 - Frmcs
 - Automatic Frequency Control
 - Handover Optimization
-auteurs: []
-pmcid: ''
+auteurs:
+- Pilvik R
+- Jairus T
+- Sadam A
+- Kõrbe Kaare K
+pmcid: PMC13030051
 volume: ''
-pages: ''
+pages: '1977'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

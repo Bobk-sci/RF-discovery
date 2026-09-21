@@ -22,10 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Christ A
+- Keshvari J
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1294-1305
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

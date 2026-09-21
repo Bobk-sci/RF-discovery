@@ -29,10 +29,16 @@ mots_cles:
 - Ki67
 - Radiofrequency Radiation
 - Paricalcitol
-auteurs: []
+auteurs:
+- Demirbağ B
+- Aktaş S
+- Çömelekoğlu Ü
+- Kara İ
+- Yildirim M
+- Yildirim DD
 pmcid: ''
 volume: ''
-pages: ''
+pages: 42-50
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

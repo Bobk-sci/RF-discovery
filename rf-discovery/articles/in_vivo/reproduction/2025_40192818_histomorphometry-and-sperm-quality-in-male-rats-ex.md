@@ -30,10 +30,19 @@ mots_cles:
 - Seminal vesicle
 - Wi-fi
 - Rf-emf
-auteurs: []
-pmcid: ''
+auteurs:
+- Vijay S
+- Ibrahim SF
+- Osman K
+- Zulkefli AF
+- Mat Ros MF
+- Jamaludin N
+- Syed Taha SMA
+- Hairulazam A
+- Jaffar FHF
+pmcid: PMC12023345
 volume: ''
-pages: ''
+pages: e250048
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

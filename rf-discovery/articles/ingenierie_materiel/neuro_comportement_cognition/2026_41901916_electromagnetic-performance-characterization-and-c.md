@@ -31,10 +31,15 @@ mots_cles:
 - Sar Analysis
 - Implantable Technology
 - Phantom Modeling
-auteurs: []
-pmcid: ''
+auteurs:
+- Ali W
+- Nizam-Uddin N
+- Ullah U
+- Zahid M
+- Shoaib S
+pmcid: PMC13030409
 volume: ''
-pages: ''
+pages: '1744'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

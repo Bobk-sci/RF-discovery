@@ -14,8 +14,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Liu M
+- Ai S
+- Wu W
+- Wang B
+- Chen Y
+pmcid: PMC13587844
 volume: ''
 pages: ''
 modele: non_classe

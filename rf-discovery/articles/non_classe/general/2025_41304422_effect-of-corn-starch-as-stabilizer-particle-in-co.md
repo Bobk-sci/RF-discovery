@@ -19,10 +19,14 @@ mots_cles:
 - Egg white protein
 - Open-cell Structures
 - Low-density Biofoams
-auteurs: []
-pmcid: ''
+auteurs:
+- Amezúa-Arranz C
+- Oliveira Salmazo L
+- López-Gil A
+- Rodríguez-Pérez MÁ
+pmcid: PMC12656337
 volume: ''
-pages: ''
+pages: '3057'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -12,7 +12,10 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Giannakopoulos G
+- Shaikh KM
+- Perez MA
 pmcid: ''
 volume: ''
 pages: ''

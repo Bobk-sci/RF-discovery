@@ -13,7 +13,16 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Ravaioli F
+- Bacalini MG
+- Giuliani C
+- Pellegrini C
+- D'Silva C
+- De Fanti S
+- Pirazzini C
+- Giorgi G
+- Del Re B
 pmcid: ''
 volume: ''
 pages: ''

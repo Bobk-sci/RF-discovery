@@ -13,10 +13,16 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Guillén-Pina J
+- Pérez-Aracil J
+- Chocano-del-Cerro R
+- Sánchez-Montero R
+- López-Espí PL
+- Salcedo-Sanz S
 pmcid: ''
 volume: ''
-pages: ''
+pages: Not Available
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

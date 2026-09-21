@@ -20,10 +20,16 @@ mots_cles:
 - Male infertility
 - Sperm quality
 - Endocrine Disruptors
-auteurs: []
-pmcid: ''
+auteurs:
+- Qi Y
+- Shi J
+- Zhang Q
+- Xuan Y
+- Zhang H
+- Duan Y
+pmcid: PMC12968862
 volume: ''
-pages: ''
+pages: '64'
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

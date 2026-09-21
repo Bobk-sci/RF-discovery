@@ -29,10 +29,12 @@ mots_cles:
 - Dosimetry
 - Benchmark Dose
 - Specific Absorption Rate
-auteurs: []
-pmcid: ''
+auteurs:
+- Melnick RL
+- Moskowitz JM
+pmcid: PMC13130403
 volume: ''
-pages: ''
+pages: '42'
 modele: dosimetrie_modelisation
 modele_score: 9.5
 modele_secondaires:

@@ -14,10 +14,15 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Karaman IP
+- Coskun O
+- Senol N
+- Aslankoc R
+- Comlekci S
 pmcid: ''
 volume: ''
-pages: ''
+pages: AT7599
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires:

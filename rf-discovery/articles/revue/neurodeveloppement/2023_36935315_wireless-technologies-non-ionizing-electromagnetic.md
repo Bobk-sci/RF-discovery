@@ -25,10 +25,17 @@ types:
 - Review
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Davis D
+- Birnbaum L
+- Ben-Ishai P
+- Taylor H
+- Sears M
+- Butler T
+- Scarato T
 pmcid: ''
 volume: ''
-pages: ''
+pages: '101374'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

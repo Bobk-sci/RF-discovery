@@ -31,10 +31,31 @@ mots_cles:
 - Scamp
 - Radiofrequency Electromagnetic Fields
 - Smart Phones
-auteurs: []
+auteurs:
+- Schmutz C
+- Bürgler A
+- Ashta N
+- Soenksen J
+- Bou Karim Y
+- Shen C
+- Smith RB
+- Jenkins RH
+- Mireku MO
+- Mutz J
+- Maes MJA
+- Hirst R
+- Chang I
+- Fleming C
+- Mussa A
+- Kesary D
+- Addison D
+- Maslanyj M
+- Toledano MB
+- Röösli M
+- Eeftens M
 pmcid: ''
 volume: ''
-pages: ''
+pages: '113252'
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires:

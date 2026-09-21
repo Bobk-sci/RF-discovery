@@ -21,10 +21,12 @@ types:
 - Systematic Review
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Ahsan Ashraf M
+- Celik T
+pmcid: PMC11033578
 volume: ''
-pages: ''
+pages: 598-616
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

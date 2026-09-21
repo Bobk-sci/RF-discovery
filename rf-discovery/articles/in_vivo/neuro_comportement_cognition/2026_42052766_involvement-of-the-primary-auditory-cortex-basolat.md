@@ -32,10 +32,20 @@ mots_cles:
 - auditory cortex
 - Fear Conditioning
 - Neural Pathways
-auteurs: []
+auteurs:
+- Cui Z
+- Shi L
+- Yang M
+- Chang C
+- Jin S
+- Hao Y
+- Zhao X
+- Lu Y
+- Li Y
+- Zuo H
 pmcid: ''
 volume: ''
-pages: ''
+pages: '48640'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

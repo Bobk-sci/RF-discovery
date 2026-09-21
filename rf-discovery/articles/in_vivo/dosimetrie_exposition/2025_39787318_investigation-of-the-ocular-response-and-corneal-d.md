@@ -24,10 +24,18 @@ mots_cles:
 - Radiation, nonionizing
 - Health Effects
 - Exposure, Radiofrequency
-auteurs: []
+auteurs:
+- Kojima M
+- Tasaki T
+- Kamijo T
+- Hada A
+- Suzuki Y
+- Kik A
+- Ikehata M
+- Sasaki H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 487-496
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:

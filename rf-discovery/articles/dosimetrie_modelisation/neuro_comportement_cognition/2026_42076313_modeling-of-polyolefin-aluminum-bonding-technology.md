@@ -19,10 +19,16 @@ mots_cles:
 - Hot-melt Adhesives
 - Metallic Insertions
 - Polyolefin/aluminum Bonding Technology
-auteurs: []
-pmcid: ''
+auteurs:
+- Ciobanu RC
+- Damian RF
+- Aradoaei M
+- Schreiner CM
+- Caramitu AR
+- Ursache G
+pmcid: PMC13119971
 volume: ''
-pages: ''
+pages: '930'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

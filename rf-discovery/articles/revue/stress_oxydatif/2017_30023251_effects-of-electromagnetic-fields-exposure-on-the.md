@@ -18,10 +18,15 @@ mots_cles:
 - Oxidative stress
 - ROS
 - EMF
-auteurs: []
-pmcid: ''
+auteurs:
+- Kıvrak EG
+- Yurt KK
+- Kaplan AA
+- Alkan I
+- Altun G
+pmcid: PMC6025786
 volume: ''
-pages: ''
+pages: 167-176
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

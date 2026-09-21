@@ -27,10 +27,14 @@ mots_cles:
 - Specific Absorption Rate
 - Water Bolus
 - Effective Field Size
-auteurs: []
-pmcid: ''
+auteurs:
+- Sharma N
+- Khanna R
+- Singh HS
+- Rai MK
+pmcid: PMC12119899
 volume: ''
-pages: ''
+pages: '18771'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

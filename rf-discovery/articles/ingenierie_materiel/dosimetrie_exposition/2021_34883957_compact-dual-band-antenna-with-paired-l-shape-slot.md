@@ -24,10 +24,14 @@ mots_cles:
 - Dual-band
 - Ism Band
 - On/Off-Body
-auteurs: []
-pmcid: ''
+auteurs:
+- Ahmad S
+- Ghaffar A
+- Hussain N
+- Kim N
+pmcid: PMC8659880
 volume: ''
-pages: ''
+pages: '7953'
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:

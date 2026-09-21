@@ -30,10 +30,16 @@ mots_cles:
 - Radiofrequency Radiation
 - Nesfatin-1
 - Irisin
-auteurs: []
+auteurs:
+- Bektas H
+- Algul S
+- Altindag F
+- Yegin K
+- Akdag MZ
+- Dasdag S
 pmcid: ''
 volume: ''
-pages: ''
+pages: '102168'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

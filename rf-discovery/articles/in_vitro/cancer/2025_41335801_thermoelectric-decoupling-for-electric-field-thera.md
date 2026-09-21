@@ -18,10 +18,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Cao B
+- Wei L
+- Wang H
+- Zhao S
+- Zhang A
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-5
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires: []

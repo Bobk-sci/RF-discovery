@@ -26,10 +26,15 @@ mots_cles:
 - Fat Thickness
 - Monopolar Radiofrequency
 - Subcutaneous Temperature Change
-auteurs: []
+auteurs:
+- Ye P
+- Zong J
+- Kang Q
+- Liu C
+- Han B
 pmcid: ''
 volume: ''
-pages: ''
+pages: 82-92
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

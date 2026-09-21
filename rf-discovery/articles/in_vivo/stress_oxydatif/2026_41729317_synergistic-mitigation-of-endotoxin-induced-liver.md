@@ -34,10 +34,19 @@ mots_cles:
 - Liver injury
 - Radiofrequency Electromagnetic Field
 - Pulsed Magnetic Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Turan B
+- Asci H
+- Imeci O
+- Tepebasi M
+- Ulusoy A
+- Acar S
+- Karaca I
+- Akpınar O
+- Ozmen O
+pmcid: PMC12929223
 volume: ''
-pages: ''
+pages: '56'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

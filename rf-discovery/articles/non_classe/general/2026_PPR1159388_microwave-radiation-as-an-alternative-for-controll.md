@@ -13,7 +13,11 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Nascimento DM
+- Santos PL
+- Ribeiro-Junior MR
+- Kronka AZ
 pmcid: ''
 volume: ''
 pages: ''

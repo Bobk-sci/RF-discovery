@@ -22,10 +22,13 @@ mots_cles:
 - Tessellation
 - Personal Exposimeter
 - Voronoi Diagram Or Thiessen Polygons
-auteurs: []
+auteurs:
+- Arribas E
+- Ramirez-Vazquez R
+- Escobar I
 pmcid: ''
 volume: ''
-pages: ''
+pages: 26415-26428
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

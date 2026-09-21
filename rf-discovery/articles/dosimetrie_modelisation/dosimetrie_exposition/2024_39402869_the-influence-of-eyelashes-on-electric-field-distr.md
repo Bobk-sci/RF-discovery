@@ -23,10 +23,14 @@ mots_cles:
 - FDTD
 - 5G Communication Systems
 - Millimeter‐wave Radiation
-auteurs: []
+auteurs:
+- Foroughimehr N
+- Vilagosh Z
+- Yavari A
+- Wood A
 pmcid: ''
 volume: ''
-pages: ''
+pages: 375-386
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

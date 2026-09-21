@@ -30,10 +30,15 @@ mots_cles:
 - Radiofrequency
 - Systematic review
 - In vivo studies
-auteurs: []
-pmcid: ''
+auteurs:
+- Pinto R
+- Ardoino L
+- Giardullo P
+- Villani P
+- Marino C
+pmcid: PMC8848792
 volume: ''
-pages: ''
+pages: '29'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

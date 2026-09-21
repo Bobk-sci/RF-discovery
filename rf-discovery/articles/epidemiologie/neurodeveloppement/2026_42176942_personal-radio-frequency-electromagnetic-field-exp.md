@@ -27,10 +27,21 @@ mots_cles:
 - Microenvironment
 - Personal Exposure
 - 5G New Radio
-auteurs: []
+auteurs:
+- Jalilian H
+- Waibl VJ
+- Wipf I
+- Mootz I
+- Abend S
+- Diez NS
+- Veludo AF
+- Loizeau N
+- Dongus S
+- Guxens M
+- Röösli M
 pmcid: ''
 volume: ''
-pages: ''
+pages: '124775'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

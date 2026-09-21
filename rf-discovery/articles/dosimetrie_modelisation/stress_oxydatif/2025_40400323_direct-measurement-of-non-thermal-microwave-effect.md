@@ -22,10 +22,16 @@ mots_cles:
 - Bacteria
 - Electric field
 - Pulsed
-auteurs: []
-pmcid: ''
+auteurs:
+- Miles A
+- Porch A
+- Choi H
+- Cripps S
+- Brown H
+- Williams C
+pmcid: PMC12096104
 volume: ''
-pages: ''
+pages: '20240073'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

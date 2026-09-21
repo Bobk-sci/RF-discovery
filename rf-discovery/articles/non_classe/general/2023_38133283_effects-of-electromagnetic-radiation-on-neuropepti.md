@@ -18,10 +18,20 @@ mots_cles:
 - Ticks
 - Ixodes Ricinus
 - Transcript Levels
-auteurs: []
-pmcid: ''
+auteurs:
+- Šofranková L
+- Baňas M
+- Pipová N
+- Majláth I
+- Kurimský J
+- Cimbala R
+- Pavlík M
+- Mateos-Hernández L
+- Šimo L
+- Majláthová V
+pmcid: PMC10747470
 volume: ''
-pages: ''
+pages: '1398'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

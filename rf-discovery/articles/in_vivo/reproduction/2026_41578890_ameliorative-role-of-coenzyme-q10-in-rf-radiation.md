@@ -27,10 +27,15 @@ mots_cles:
 - Testicular Toxicity
 - Radiofrequency Electromagnetic Fields
 - Gsm‐modulated 3.5 Ghz
-auteurs: []
+auteurs:
+- Bektas H
+- Yildirim S
+- Cakir S
+- Dogu S
+- Altindag F
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70043
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

@@ -20,10 +20,12 @@ mesh:
 types:
 - Letter
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Zaroushani V
+- Khajehnasiri F
+pmcid: PMC8695782
 volume: ''
-pages: ''
+pages: e00501
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -26,10 +26,15 @@ mots_cles:
 - Ism (Industrial Scientific And Medical) Band
 - Nb-iot (Narrow Band-internet Of Things)
 - Multilayer Phantom Model
-auteurs: []
-pmcid: ''
+auteurs:
+- Sharma D
+- Tiwari RN
+- Kumar S
+- Sharma S
+- Matekovits L
+pmcid: PMC11314978
 volume: ''
-pages: ''
+pages: '5077'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

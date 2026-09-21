@@ -20,10 +20,15 @@ mots_cles:
 - Gsm Mobile Phone
 - Muscle Contractions
 - Radiofrequency (Rf)
-auteurs: []
-pmcid: ''
+auteurs:
+- Mortazavi SM
+- Rahimi S
+- Talebi A
+- Soleimani A
+- Rafati A
+pmcid: PMC4576873
 volume: ''
-pages: ''
+pages: 121-132
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

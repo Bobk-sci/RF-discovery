@@ -29,10 +29,18 @@ mots_cles:
 - N-doped Graphene
 - Wound Monitoring
 - Antenna Sensor
-auteurs: []
+auteurs:
+- Hu J
+- Li M
+- Xuan X
+- Li W
+- Li H
+- Liu C
+- Li C
+- Li H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 2271-2281
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

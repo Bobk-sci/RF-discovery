@@ -26,10 +26,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Salameh M
+- Zeitoun-Ghandour S
+- Sabra L
+- Daher A
+- Khalil M
+- Joumaa WH
+pmcid: PMC10584814
 volume: ''
-pages: ''
+pages: '17806'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

@@ -27,10 +27,18 @@ mots_cles:
 - Thermoregulation
 - Thermogenesis
 - Radiofrequency Electromagnetic Fields
-auteurs: []
+auteurs:
+- Seewooruttun C
+- Mai TC
+- Corona A
+- Delanaud S
+- Seze R
+- Bach V
+- Desailloud R
+- Pelletier A
 pmcid: ''
 volume: ''
-pages: ''
+pages: '101782'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

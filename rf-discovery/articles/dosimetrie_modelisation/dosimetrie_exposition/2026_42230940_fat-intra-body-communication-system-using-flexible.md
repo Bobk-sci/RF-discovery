@@ -21,10 +21,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Mandal B
+- Shaw T
+- Rangaiah PKB
+- Joseph L
+- Chezhian AS
+- Mani M
+- Karlsson RL
+- Augustine R
+pmcid: PMC13230745
 volume: ''
-pages: ''
+pages: '16984'
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

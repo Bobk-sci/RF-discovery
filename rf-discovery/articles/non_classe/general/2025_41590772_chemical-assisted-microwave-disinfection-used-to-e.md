@@ -22,10 +22,14 @@ mots_cles:
 - Polymethyl Methacrylate (Pmma)
 - Sodium Hypochlorite (Naocl)
 - Chlorhexidine (Chx)
-auteurs: []
-pmcid: ''
+auteurs:
+- Mazur MW
+- Grudniak A
+- Wawer JK
+- Gawlak D
+pmcid: PMC12841953
 volume: ''
-pages: ''
+pages: '4'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

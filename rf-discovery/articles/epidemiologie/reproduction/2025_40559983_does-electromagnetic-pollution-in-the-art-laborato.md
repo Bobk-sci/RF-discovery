@@ -19,10 +19,20 @@ mots_cles:
 - Electromagnetic fields
 - Mobile Phones
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Baldini GM
+- Lot D
+- Ferri D
+- Montano L
+- Tartagni MV
+- Malvasi A
+- Laganà AS
+- Palumbo M
+- Baldini D
+- Trojano G
+pmcid: PMC12197507
 volume: ''
-pages: ''
+pages: '510'
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:

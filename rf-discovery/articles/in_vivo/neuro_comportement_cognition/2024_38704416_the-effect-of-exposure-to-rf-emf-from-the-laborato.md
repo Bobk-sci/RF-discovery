@@ -25,10 +25,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Krivova NA
+- Kudabaeva MS
+- Zaeva OB
+- Borodina SV
+- Lepekhina TB
+- Pavlenko OA
+- Makhmanazarov RM
+- Kokin DS
+- Shipilov SE
+pmcid: PMC11069554
 volume: ''
-pages: ''
+pages: '10283'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

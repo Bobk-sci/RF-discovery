@@ -21,10 +21,17 @@ mots_cles:
 - Chicken embryo
 - mesonephros
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Almášiová V
+- Andrašková S
+- Karaffová V
+- Hudáková P
+- Molnár J
+- Tóth Š
+- Holovská K
+pmcid: PMC12152066
 volume: ''
-pages: ''
+pages: '216'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

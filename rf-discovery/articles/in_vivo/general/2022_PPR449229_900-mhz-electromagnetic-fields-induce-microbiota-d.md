@@ -13,7 +13,20 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Collet L
+- Jenlis AB
+- Khorsi-Cauet H
+- Naudot M
+- Djekkoun N
+- Ghamlouch H
+- Corona A
+- Ouled-Haddou H
+- Delanaud S
+- Garcon L
+- Bach V
+- Pelletier A
+- Marolleau J
 pmcid: ''
 volume: ''
 pages: ''

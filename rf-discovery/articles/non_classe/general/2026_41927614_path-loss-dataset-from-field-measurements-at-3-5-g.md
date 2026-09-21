@@ -14,10 +14,13 @@ types:
 - data-paper
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Perdomo-Reyes P
+- Galvan-Tejada GM
+- Meneses-Viveros A
+pmcid: PMC13046879
 volume: ''
-pages: ''
+pages: '521'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -2,35 +2,46 @@
 pmid: '42346148'
 doi: 10.3390/cells15121121
 annee: 2026
-journal: Cells
+journal: ''
 titre: Microwave Radiation Remodels Hippocampal Astrocytes Subpopulations and Intercellular
   Communication at Single-Cell Resolution.
 url: https://pubmed.ncbi.nlm.nih.gov/42346148/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- Hippocampus
 - Astrocytes
 - Animals
-- Microwaves
-- Hippocampus
-- Cell Communication
-- Mice
-- Single-Cell Analysis
-- Male
 - Mice, Inbred C57BL
+- Mice
+- Cell Communication
+- Microwaves
+- Male
+- Single-Cell Analysis
 types:
+- research-article
 - Journal Article
 mots_cles:
-- astrocyte
-- cognitive impairment
-- hippocampus
-- microwave radiation
-- single-cell RNA sequencing
-auteurs: []
-pmcid: ''
+- Hippocampus
+- Astrocyte
+- Microwave radiation
+- Cognitive impairment
+- Single-cell Rna Sequencing
+auteurs:
+- Chang C
+- Feng Z
+- Ye Y
+- Xu Z
+- Kong X
+- Liu Y
+- Zhao X
+- Hao Y
+- Zuo H
+- Li Y
+pmcid: PMC13296900
 volume: ''
-pages: ''
+pages: '1121'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires: []
@@ -52,7 +63,7 @@ theme_indices:
 
 # Microwave Radiation Remodels Hippocampal Astrocytes Subpopulations and Intercellular Communication at Single-Cell Resolution.
 
-*Cells — 2026*
+*journal non renseigné — 2026*
 
 ## Résumé (texte d'origine)
 

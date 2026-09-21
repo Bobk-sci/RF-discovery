@@ -22,10 +22,15 @@ mots_cles:
 - Tracking Device
 - Radiofrequency Electromagnetic Fields
 - Lost Pets
-auteurs: []
-pmcid: ''
+auteurs:
+- Klune J
+- Arhant C
+- Windschnurer I
+- Heizmann V
+- Schauberger G
+pmcid: PMC8465301
 volume: ''
-pages: ''
+pages: '2721'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

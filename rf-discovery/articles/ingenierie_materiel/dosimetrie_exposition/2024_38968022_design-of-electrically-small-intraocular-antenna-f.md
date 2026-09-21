@@ -19,10 +19,15 @@ types:
 - Research Support, Non-U.S. Gov't
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Modak S
+- Kaim V
+- Zaidi AM
+- Kanaujia BK
+- Rambabu K
 pmcid: ''
 volume: ''
-pages: ''
+pages: 3402-3412
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:

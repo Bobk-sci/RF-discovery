@@ -29,10 +29,15 @@ mots_cles:
 - In vivo studies
 - Tumor Incidence
 - Co-carcinogenesis
-auteurs: []
-pmcid: ''
+auteurs:
+- Pinto R
+- Ardoino L
+- Giardullo P
+- Villani P
+- Marino C
+pmcid: PMC11354106
 volume: ''
-pages: ''
+pages: '1020'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

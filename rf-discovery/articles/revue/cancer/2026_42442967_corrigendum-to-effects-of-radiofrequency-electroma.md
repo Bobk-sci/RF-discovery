@@ -20,10 +20,18 @@ mots_cles:
 - Radiofrequency Electromagnetic Fields
 - Radiofrequency Exposure
 - Carcinogenesis, Toxicity, Systematic Review
-auteurs: []
+auteurs:
+- Mevissen M
+- Ducray A
+- Ward JM
+- Kopp-Schneider A
+- McNamee JP
+- Wood AW
+- Rivero TM
+- Straif K
 pmcid: ''
 volume: ''
-pages: ''
+pages: '110368'
 modele: revue
 modele_score: 1007.0
 modele_secondaires:

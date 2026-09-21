@@ -25,10 +25,14 @@ mots_cles:
 - Human Head Phantom
 - Microwave Electromagnetic Field
 - Shielded Space
-auteurs: []
-pmcid: ''
+auteurs:
+- Vaverka F
+- Smetana M
+- Gombarska D
+- Psenakova Z
+pmcid: PMC9961501
 volume: ''
-pages: ''
+pages: '2351'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

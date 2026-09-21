@@ -2,32 +2,48 @@
 pmid: '37048013'
 doi: 10.3390/ijerph20075398
 annee: 2023
-journal: International journal of environmental research and public health
+journal: ''
 titre: Cell Phone Radiation Exposure Limits and Engineering Solutions.
 url: https://pubmed.ncbi.nlm.nih.gov/37048013/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
 - Humans
-- Radiation Exposure
-- Radio Waves
-- Cell Phone
 - Communication
+- Radio Waves
+- Radiation Exposure
+- Cell Phone
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
+- Cancer
 - SAR
-- antennas
-- cancer
-- cellular phone
-- electromagnetic hypersensitivity
-- radiofrequency radiation
-auteurs: []
-pmcid: ''
+- Cellular Phone
+- Radiofrequency Radiation
+- Electromagnetic Hypersensitivity
+- Antennas
+auteurs:
+- Héroux P
+- Belyaev I
+- Chamberlin K
+- Dasdag S
+- De Salles AAA
+- Rodriguez CEF
+- Hardell L
+- Kelley E
+- Kesari KK
+- Mallery-Blythe E
+- Melnick RL
+- Miller AB
+- Moskowitz JM
+- On Behalf Of The International Commission On The Biological Effects Of Electromagnetic
+  Fields Icbe-Emf
+pmcid: PMC10094704
 volume: ''
-pages: ''
+pages: '5398'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,7 +60,7 @@ theme_indices: []
 
 # Cell Phone Radiation Exposure Limits and Engineering Solutions.
 
-*International journal of environmental research and public health — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

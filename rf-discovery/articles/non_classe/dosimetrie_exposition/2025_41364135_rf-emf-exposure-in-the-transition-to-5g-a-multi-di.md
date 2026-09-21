@@ -25,10 +25,20 @@ mots_cles:
 - Frequency Selective Measurements
 - Emf Monitoring
 - Electromagnetic Field (Emf) Measurements
-auteurs: []
+auteurs:
+- Zarbouti D
+- Athanasiadou G
+- Tsoulos G
+- Christopoulos T
+- Tsoulos V
+- Chaloulakos N
+- Nikitopoulos G
+- Christopoulos N
+- Papadopoulos P
+- Papakondylis A
 pmcid: ''
 volume: ''
-pages: ''
+pages: '27'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

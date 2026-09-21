@@ -23,10 +23,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Souffi S
+- Lameth J
+- Gaucher Q
+- Arnaud-Cormos D
+- Lévêque P
+- Edeline JM
+- Mallat M
+pmcid: PMC8902282
 volume: ''
-pages: ''
+pages: '4063'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

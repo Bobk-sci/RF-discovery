@@ -28,10 +28,14 @@ mots_cles:
 - Cellular Effects
 - Microwaves Biological Effects
 - Radiations And Brain
-auteurs: []
-pmcid: ''
+auteurs:
+- Mumtaz S
+- Rana JN
+- Choi EH
+- Han I
+pmcid: PMC9409438
 volume: ''
-pages: ''
+pages: '9288'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -18,10 +18,12 @@ mots_cles:
 - Radiofrequency Electromagnetic Radiation
 - Extremely-low Frequency Electromagnetic Field
 - Central ‎Nervous System
-auteurs: []
-pmcid: ''
+auteurs:
+- Eskandani R
+- Zibaii MI
+pmcid: PMC11298025
 volume: ''
-pages: ''
+pages: '30064'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

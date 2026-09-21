@@ -2,43 +2,53 @@
 pmid: '42243210'
 doi: 10.1038/s41598-026-56001-x
 annee: 2026
-journal: Scientific reports
+journal: ''
 titre: L arginine and radiofrequency electromagnetic field attenuate inflammatory
   and apoptotic injury after experimental subarachnoid hemorrhage.
 url: https://pubmed.ncbi.nlm.nih.gov/42243210/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
 - Animals
-- Subarachnoid Hemorrhage
-- Arginine
-- Apoptosis
-- Male
 - Rats
-- STAT3 Transcription Factor
 - Rats, Wistar
+- Subarachnoid Hemorrhage
+- Disease Models, Animal
+- Inflammation
+- Vascular Endothelial Growth Factor A
+- Arginine
+- Interleukin-6
+- Apoptosis
+- Oxidative Stress
+- Electromagnetic Fields
+- Male
+- STAT3 Transcription Factor
 - Hypoxia-Inducible Factor 1, alpha Subunit
 - Nitric Oxide Synthase Type III
-- Inflammation
-- Interleukin-6
-- Vascular Endothelial Growth Factor A
-- Disease Models, Animal
-- Electromagnetic Fields
-- Oxidative Stress
 types:
+- research-article
 - Journal Article
 mots_cles:
-- Endothelial dysfunction
 - L-arginine
-- Mitochondrial apoptosis
-- Neuroinflammation
-- Radiofrequency electromagnetic field
 - Subarachnoid hemorrhage
-auteurs: []
-pmcid: ''
+- endothelial dysfunction
+- neuroinflammation
+- Mitochondrial Apoptosis
+- Radiofrequency Electromagnetic Field
+auteurs:
+- Baydar AT
+- Canan M
+- Taner R
+- Kolay O
+- Milletsever A
+- Tepebasi MY
+- Asci H
+- Comlekci S
+- Ozmen O
+pmcid: PMC13388992
 volume: ''
-pages: ''
+pages: '22832'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -59,7 +69,7 @@ theme_indices:
 
 # L arginine and radiofrequency electromagnetic field attenuate inflammatory and apoptotic injury after experimental subarachnoid hemorrhage.
 
-*Scientific reports — 2026*
+*journal non renseigné — 2026*
 
 ## Résumé (texte d'origine)
 

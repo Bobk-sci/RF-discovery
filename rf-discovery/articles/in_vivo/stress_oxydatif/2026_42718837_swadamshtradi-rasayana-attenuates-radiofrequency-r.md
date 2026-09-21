@@ -20,10 +20,16 @@ mots_cles:
 - Sperm Dna Damage
 - Radiofrequency Electromagnetic Radiation
 - Swadamshtradi Rasayana
-auteurs: []
-pmcid: ''
+auteurs:
+- Abdul VR
+- Sudha M
+- Easwaramangalath NP
+- Robin DT
+- Dileep A
+- Madhavan VR
+pmcid: PMC13553956
 volume: ''
-pages: ''
+pages: '1912688'
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

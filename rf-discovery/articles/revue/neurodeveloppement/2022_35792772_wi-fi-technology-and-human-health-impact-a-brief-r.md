@@ -27,10 +27,22 @@ mots_cles:
 - Exposure To Rf Fields
 - Izloženost Rf Poljima
 - Radiofrekvencija
-auteurs: []
-pmcid: ''
+auteurs:
+- Prlić I
+- Šiško J
+- Varnai VM
+- Pavelić L
+- Macan J
+- Kobešćak S
+- Hajdinjak M
+- Jurdana M
+- Cerovac Z
+- Zauner B
+- Mihić MS
+- Avdagić SC
+pmcid: PMC9287836
 volume: ''
-pages: ''
+pages: 94-106
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

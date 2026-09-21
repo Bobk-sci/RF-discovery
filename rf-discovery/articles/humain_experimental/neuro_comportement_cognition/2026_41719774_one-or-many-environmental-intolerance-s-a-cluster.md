@@ -30,10 +30,18 @@ mots_cles:
 - K-prototypes Clustering
 - Lumping Vs. Splitting
 - Symptoms Associated With Environmental Factors
-auteurs: []
+auteurs:
+- Petzke TM
+- Rippe RCA
+- Witthöft M
+- Szemerszky R
+- Köteles F
+- Lemogne C
+- Nordin S
+- Pitron V
 pmcid: ''
 volume: ''
-pages: ''
+pages: '114764'
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

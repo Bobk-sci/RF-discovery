@@ -20,10 +20,24 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Joushomme A
+- Orlacchio R
+- Patrignoni L
+- Canovi A
+- Chappe YL
+- Poulletier De Gannes F
+- Hurtier A
+- Garenne A
+- Lagroye I
+- Moisan F
+- Cario M
+- Lévêque P
+- Arnaud-Cormos D
+- Percherancier Y
+pmcid: PMC10203668
 volume: ''
-pages: ''
+pages: '8305'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

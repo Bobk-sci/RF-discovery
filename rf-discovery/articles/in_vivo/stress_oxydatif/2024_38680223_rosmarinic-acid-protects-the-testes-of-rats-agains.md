@@ -29,10 +29,14 @@ mots_cles:
 - Rosmarinic acid
 - Testes, Oxidative Stress
 - Uhf Waves, Cell Phone
-auteurs: []
-pmcid: ''
+auteurs:
+- Fatahi Asl J
+- Goudarzi M
+- Mansouri E
+- Shoghi H
+pmcid: PMC11053252
 volume: ''
-pages: ''
+pages: 237-246
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

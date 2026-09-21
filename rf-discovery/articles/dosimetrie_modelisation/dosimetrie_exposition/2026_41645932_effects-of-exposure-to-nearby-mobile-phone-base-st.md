@@ -32,10 +32,18 @@ mots_cles:
 - Hematological Parameters
 - Mobile Phone Use
 - Mobile Phone Base Stations (Mpbs)
-auteurs: []
+auteurs:
+- Laldinpuii
+- Sailo L
+- Weller S
+- Varte CL
+- Tochhawng L
+- Bandara P
+- McCredden JE
+- Zothansiama
 pmcid: ''
 volume: ''
-pages: ''
+pages: 231-250
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

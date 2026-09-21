@@ -29,10 +29,16 @@ mots_cles:
 - Human Study
 - Wlan
 - Sleep Study
-auteurs: []
+auteurs:
+- Schmid G
+- Hirtl R
+- Bueno-Lopez A
+- Dorn H
+- Eggert T
+- Danker-Hopfe H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 230-240
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

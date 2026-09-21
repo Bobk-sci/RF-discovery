@@ -19,10 +19,14 @@ mots_cles:
 - Human Exposure
 - 5G
 - Galvanic Skin Reflex
-auteurs: []
+auteurs:
+- Michelant L
+- Hugueville L
+- Leveque P
+- Selmaoui B
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-10
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

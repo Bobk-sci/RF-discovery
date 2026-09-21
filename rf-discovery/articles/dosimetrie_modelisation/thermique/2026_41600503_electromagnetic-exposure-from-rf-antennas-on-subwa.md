@@ -27,10 +27,13 @@ mots_cles:
 - Rf Antenna
 - Occupational Electromagnetic Exposure
 - Station Attendant
-auteurs: []
-pmcid: ''
+auteurs:
+- Li J
+- Zhang Q
+- Lu M
+pmcid: PMC12846054
 volume: ''
-pages: ''
+pages: '709'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

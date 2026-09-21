@@ -20,10 +20,23 @@ mots_cles:
 - Microwave
 - Memory Function
 - Compound Exposure
-auteurs: []
-pmcid: ''
+auteurs:
+- Sun L
+- Wang X
+- Ren K
+- Yao C
+- Wang H
+- Xu X
+- Wang H
+- Dong J
+- Zhang J
+- Yao B
+- Wei X
+- Peng R
+- Zhao L
+pmcid: PMC11760294
 volume: ''
-pages: ''
+pages: e41626
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

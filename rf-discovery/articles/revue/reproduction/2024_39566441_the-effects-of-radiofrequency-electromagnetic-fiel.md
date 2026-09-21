@@ -25,10 +25,24 @@ mots_cles:
 - Experimental studies
 - Systematic review
 - Radiofrequency Electromagnetic Fields
-auteurs: []
+auteurs:
+- Meyer F
+- Bitsch A
+- Forman HJ
+- Fragoulis A
+- Ghezzi P
+- Henschenmacher B
+- Kellner R
+- Kuhne J
+- Ludwig T
+- Sachno D
+- Schmid G
+- Tsaioun K
+- Verbeek J
+- Wright R
 pmcid: ''
 volume: ''
-pages: ''
+pages: '108940'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

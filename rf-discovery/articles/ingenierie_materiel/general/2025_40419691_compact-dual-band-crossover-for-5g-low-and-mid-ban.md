@@ -14,10 +14,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Shallah AB
+- Zubir F
+- Rahim MKA
+- Jizat NM
+- Basit A
+- Yusof KH
+- Majid HA
+pmcid: PMC12106682
 volume: ''
-pages: ''
+pages: '18425'
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []

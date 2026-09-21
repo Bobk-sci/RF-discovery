@@ -17,10 +17,16 @@ mots_cles:
 - Aging
 - Electromagnetic Interference Shielding
 - Rolling
-auteurs: []
-pmcid: ''
+auteurs:
+- Kang M
+- Kim K
+- Kim S
+- Victoria-Hernandez J
+- Letzig D
+- Yi S
+pmcid: PMC13074061
 volume: ''
-pages: ''
+pages: '1383'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

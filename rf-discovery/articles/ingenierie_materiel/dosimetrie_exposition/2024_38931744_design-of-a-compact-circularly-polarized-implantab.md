@@ -23,10 +23,14 @@ mots_cles:
 - Biomedical Telemetry
 - Circular Polarization
 - Wireless Capsule Endoscopy System
-auteurs: []
-pmcid: ''
+auteurs:
+- Song Z
+- Xu X
+- Shi Y
+- Wang L
+pmcid: PMC11207824
 volume: ''
-pages: ''
+pages: '3960'
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

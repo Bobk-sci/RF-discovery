@@ -30,10 +30,16 @@ mots_cles:
 - Wlan
 - Radiofrequency Electromagnetic Fields
 - Sleep Macrostructure
-auteurs: []
+auteurs:
+- Danker-Hopfe H
+- Bueno-Lopez A
+- Dorn H
+- Schmid G
+- Hirtl R
+- Eggert T
 pmcid: ''
 volume: ''
-pages: ''
+pages: '113550'
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:

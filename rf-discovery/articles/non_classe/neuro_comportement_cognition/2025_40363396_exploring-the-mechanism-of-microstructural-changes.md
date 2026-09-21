@@ -19,10 +19,14 @@ mots_cles:
 - C-s-h
 - Microwave Curing
 - Uhpc
-auteurs: []
-pmcid: ''
+auteurs:
+- Chen J
+- Yu K
+- Li S
+- Liu D
+pmcid: PMC12073028
 volume: ''
-pages: ''
+pages: '1892'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

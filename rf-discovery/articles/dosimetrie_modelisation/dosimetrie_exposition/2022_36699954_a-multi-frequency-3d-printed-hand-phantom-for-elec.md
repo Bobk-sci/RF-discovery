@@ -19,10 +19,14 @@ mots_cles:
 - Cellular Phones
 - Electromagnetic Analysis
 - Handset Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Beard BB
+- Iacono MI
+- Guag JW
+- Liu Y
+pmcid: PMC9871728
 volume: ''
-pages: ''
+pages: 49-54
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

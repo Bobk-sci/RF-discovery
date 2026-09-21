@@ -30,10 +30,14 @@ mots_cles:
 - Postural Balance
 - Limits Of Stability
 - 5G
-auteurs: []
-pmcid: ''
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Jaberzadeh S
+pmcid: PMC13307263
 volume: ''
-pages: ''
+pages: '3750'
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires: []

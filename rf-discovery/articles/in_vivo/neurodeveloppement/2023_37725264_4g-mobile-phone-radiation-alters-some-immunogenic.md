@@ -31,10 +31,14 @@ mots_cles:
 - Chick Embryo Model
 - 4G Mobile Radiation
 - Vascular Gene
-auteurs: []
-pmcid: ''
+auteurs:
+- Islam MS
+- Islam MM
+- Rahman MM
+- Islam K
+pmcid: PMC10650348
 volume: ''
-pages: ''
+pages: 2648-2659
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

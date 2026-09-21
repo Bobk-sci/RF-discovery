@@ -19,10 +19,16 @@ mots_cles:
 - Polyolefins
 - Hot-melts
 - Reversible Joining Technology
-auteurs: []
-pmcid: ''
+auteurs:
+- Ciobanu RC
+- Aradoaei M
+- Ursan GA
+- Caramitu AR
+- Marinescu V
+- Eva RL
+pmcid: PMC12845911
 volume: ''
-pages: ''
+pages: '228'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

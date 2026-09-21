@@ -29,10 +29,15 @@ mots_cles:
 - Eme
 - Electromagnetic Exposure
 - 5G
-auteurs: []
-pmcid: ''
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Yavari A
+- Jaberzadeh S
+pmcid: PMC12074369
 volume: ''
-pages: ''
+pages: '2749'
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

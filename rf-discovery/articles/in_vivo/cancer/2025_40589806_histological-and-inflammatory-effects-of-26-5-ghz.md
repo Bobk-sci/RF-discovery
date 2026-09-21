@@ -26,10 +26,19 @@ mots_cles:
 - 5G
 - Localized Exposure
 - Quasi-millimeter Wave
-auteurs: []
-pmcid: ''
+auteurs:
+- Ijima E
+- Nagai A
+- Li K
+- Hikage T
+- Kamizawa N
+- Hidaka E
+- Tsuruta Y
+- Ishitake T
+- Masuda H
+pmcid: PMC12206703
 volume: ''
-pages: ''
+pages: '1580155'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

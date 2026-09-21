@@ -21,10 +21,13 @@ mots_cles:
 - Drag And Surgical Treatment
 - Extremity Frostbites
 - Microwave Chamber
-auteurs: []
-pmcid: ''
+auteurs:
+- Gavrilin EV
+- Dunaevskiy GE
+- Antipov VB
+pmcid: PMC8312917
 volume: ''
-pages: ''
+pages: 108-110
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

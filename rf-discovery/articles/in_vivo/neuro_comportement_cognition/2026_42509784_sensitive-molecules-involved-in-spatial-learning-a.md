@@ -28,10 +28,19 @@ mots_cles:
 - Microwave radiation
 - Rna-seq
 - 4D-dia Proteomics
-auteurs: []
-pmcid: ''
+auteurs:
+- Qian T
+- Cheng W
+- Song L
+- Dong J
+- Wang H
+- Zhang J
+- Zhao L
+- Wang H
+- Peng R
+pmcid: PMC13406997
 volume: ''
-pages: ''
+pages: '990'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

@@ -25,10 +25,11 @@ mots_cles:
 - Electromagnetic Warming
 - Radiofrequency Warming
 - Dielectric Warming
-auteurs: []
+auteurs:
+- Wowk B
 pmcid: ''
 volume: ''
-pages: ''
+pages: '105627'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -17,10 +17,14 @@ mots_cles:
 - Reconfigurable
 - Pin Diode
 - Folded Monopole Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Ibrahim AA
+- Ali WAE
+- Alathbah M
+- Mohamed HA
+pmcid: PMC10056032
 volume: ''
-pages: ''
+pages: '527'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

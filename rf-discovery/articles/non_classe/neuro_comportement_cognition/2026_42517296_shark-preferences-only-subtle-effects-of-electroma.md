@@ -19,7 +19,14 @@ mots_cles:
 - Subsea Power Cable
 - Benthic Shark
 - Mussel Substrate
-auteurs: []
+auteurs:
+- Bouwman LJ
+- Hermans A
+- Hubert J
+- Nijland R
+- Jansen H
+- Schotanus J
+- Winter HV
 pmcid: ''
 volume: ''
 pages: ''

@@ -22,10 +22,15 @@ mots_cles:
 - Long-term Evolution
 - Specific Absorption Rate (Sar)
 - Safety Limits
-auteurs: []
+auteurs:
+- Yang L
+- Zhang C
+- Chen Z
+- Li C
+- Wu T
 pmcid: ''
 volume: ''
-pages: ''
+pages: 5755-5773
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

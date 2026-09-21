@@ -19,10 +19,15 @@ mots_cles:
 - Rat
 - Spatial learning
 - Radio Frequency
-auteurs: []
-pmcid: ''
+auteurs:
+- Bontempi B
+- Lévêque P
+- Dubreuil D
+- Jay TM
+- Edeline JM
+pmcid: PMC11428239
 volume: ''
-pages: ''
+pages: '1954'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

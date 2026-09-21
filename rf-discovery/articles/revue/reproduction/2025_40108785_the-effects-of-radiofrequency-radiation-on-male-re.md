@@ -29,10 +29,12 @@ mots_cles:
 - Biological effects
 - Male Reproductive Health
 - Radiofrequency Radiation Exposure
-auteurs: []
+auteurs:
+- Bektas H
+- Dasdag S
 pmcid: ''
 volume: ''
-pages: ''
+pages: 359-384
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

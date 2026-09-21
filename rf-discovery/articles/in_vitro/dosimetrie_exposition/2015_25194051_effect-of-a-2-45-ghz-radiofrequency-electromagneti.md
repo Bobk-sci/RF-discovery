@@ -32,10 +32,16 @@ mots_cles:
 - Immune response
 - neutrophil
 - Radiofrequency (Rf)
-auteurs: []
-pmcid: ''
+auteurs:
+- Koyama S
+- Narita E
+- Suzuki Y
+- Taki M
+- Shinohara N
+- Miyakoshi J
+pmcid: PMC4572595
 volume: ''
-pages: ''
+pages: 30-36
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:

@@ -24,7 +24,11 @@ mots_cles:
 - Computational Accuracy
 - Volume Conductor Model
 - Staircasing Error
-auteurs: []
+auteurs:
+- Yamada E
+- Diao Y
+- Laakso I
+- Hirata A
 pmcid: ''
 volume: ''
 pages: ''

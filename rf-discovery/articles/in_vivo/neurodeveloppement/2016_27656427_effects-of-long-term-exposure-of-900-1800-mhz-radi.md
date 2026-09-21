@@ -19,10 +19,15 @@ mots_cles:
 - Radiofrequency Radiation
 - Cornu Ammonis
 - Neuronal Density
-auteurs: []
-pmcid: ''
+auteurs:
+- Mugunthan N
+- Shanmugasamy K
+- Anbalagan J
+- Rajanarayanan S
+- Meenachi S
+pmcid: PMC5028475
 volume: ''
-pages: ''
+pages: AF01-6
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

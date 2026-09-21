@@ -29,10 +29,12 @@ mots_cles:
 - Zebrafish embryo
 - Mobile Phone Radiation
 - Non-ionizing Rf-emr
-auteurs: []
+auteurs:
+- Khira R
+- Uggini GK
 pmcid: ''
 volume: ''
-pages: ''
+pages: 156-163
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

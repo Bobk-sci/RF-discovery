@@ -30,10 +30,21 @@ mots_cles:
 - Metabolite
 - Gut Microbiota
 - Radiofrequency Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Wang X
+- Zhou G
+- Lin J
+- Qin T
+- Du J
+- Guo L
+- Lai P
+- Jing Y
+- Zhang Z
+- Zhou Y
+- Ding G
+pmcid: PMC10861445
 volume: ''
-pages: ''
+pages: '3571'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

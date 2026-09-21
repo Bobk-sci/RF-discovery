@@ -26,10 +26,14 @@ mots_cles:
 - Vector Control
 - Radio Frequency
 - Ae. Aegypti
-auteurs: []
-pmcid: ''
+auteurs:
+- Dom NC
+- Dapari R
+- Halim NMHNA
+- Rahman ATA
+pmcid: PMC12368203
 volume: ''
-pages: ''
+pages: '30571'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

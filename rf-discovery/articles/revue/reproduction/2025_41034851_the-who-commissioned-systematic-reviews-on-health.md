@@ -29,10 +29,22 @@ mots_cles:
 - World Health Organization
 - Radiofrequency Radiation
 - Cancer Risk
-auteurs: []
-pmcid: ''
+auteurs:
+- Melnick RL
+- Moskowitz JM
+- Héroux P
+- Mallery-Blythe E
+- McCredden JE
+- Herbert M
+- Hardell L
+- Philips A
+- Belpoggi F
+- Frank JW
+- Scarato T
+- Kelley E
+pmcid: PMC12490090
 volume: ''
-pages: ''
+pages: '70'
 modele: revue
 modele_score: 1008.0
 modele_secondaires:

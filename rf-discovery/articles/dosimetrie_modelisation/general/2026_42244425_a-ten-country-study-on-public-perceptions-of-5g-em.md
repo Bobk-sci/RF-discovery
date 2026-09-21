@@ -31,10 +31,19 @@ mots_cles:
 - Mobile Communications
 - Health Risk Perception
 - Exposure Perception
-auteurs: []
-pmcid: ''
+auteurs:
+- Link SC
+- Grellier J
+- Martin L
+- Eggeling-Böcker M
+- Abacioglu F
+- Schulz C
+- Vaupotič N
+- White MP
+- Boehmert C
+pmcid: PMC13238347
 volume: ''
-pages: ''
+pages: e70058
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

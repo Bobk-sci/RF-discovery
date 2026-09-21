@@ -27,10 +27,21 @@ mots_cles:
 - Inflammation
 - fibrosis
 - Electromagnetic Stressor
-auteurs: []
-pmcid: ''
+auteurs:
+- Savchenko L
+- Martinelli I
+- Marsal D
+- Batkivska O
+- Zhdan V
+- Kaidashev I
+- Pizzinat N
+- Boal F
+- Tronchere H
+- Tao J
+- Kunduzova O
+pmcid: PMC10380359
 volume: ''
-pages: ''
+pages: '11709'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

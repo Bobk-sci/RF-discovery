@@ -27,10 +27,16 @@ mots_cles:
 - Radiofrequency
 - 3D Bioprinting
 - Emulsion Gel
-auteurs: []
-pmcid: ''
+auteurs:
+- Tsubaki S
+- Ide A
+- Slocombe DR
+- Castell O
+- Maamoun I
+- Igura N
+pmcid: PMC12254223
 volume: ''
-pages: ''
+pages: '25023'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

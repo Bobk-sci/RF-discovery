@@ -29,10 +29,26 @@ mots_cles:
 - Wi-fi Offloading
 - Data Upload Rate
 - Uplink Emissions
-auteurs: []
+auteurs:
+- Fontaine M
+- Guida F
+- Moissonnier M
+- Beranger R
+- Lagroye I
+- Orlacchio R
+- Laplanche A
+- Dejardin O
+- Conil E
+- Huss A
+- Mazloum T
+- Wiart J
+- Danjou A
+- Schüz J
+- Bories S
+- Deltour I
 pmcid: ''
 volume: ''
-pages: ''
+pages: '125023'
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:

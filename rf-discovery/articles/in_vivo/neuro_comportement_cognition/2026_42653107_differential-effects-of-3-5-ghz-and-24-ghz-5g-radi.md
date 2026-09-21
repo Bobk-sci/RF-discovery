@@ -34,10 +34,22 @@ mots_cles:
 - Microwave Frequency
 - 5G Technology
 - Millimetre-wave Frequency
-auteurs: []
-pmcid: ''
+auteurs:
+- Hairulazam A
+- Ibrahim SF
+- Osman K
+- Mokhtar MH
+- Zulkefli AF
+- Mat Ros MF
+- Jamaludin N
+- Syed Taha SMA
+- Vijay S
+- Zakaria Z
+- Mohd Bahar AA
+- Jaffar FHF
+pmcid: PMC13513241
 volume: ''
-pages: ''
+pages: '7102'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

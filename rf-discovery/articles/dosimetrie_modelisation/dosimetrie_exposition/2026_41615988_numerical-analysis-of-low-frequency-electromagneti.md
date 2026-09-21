@@ -21,10 +21,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Tian R
+- Luo JY
+- Lu M
+- Cui JJ
+pmcid: PMC12857949
 volume: ''
-pages: ''
+pages: e0340031
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

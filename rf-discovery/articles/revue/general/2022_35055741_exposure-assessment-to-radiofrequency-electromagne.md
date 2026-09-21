@@ -25,10 +25,16 @@ mots_cles:
 - Military Environment
 - Em Fields
 - Military Devices
-auteurs: []
-pmcid: ''
+auteurs:
+- Gallucci S
+- Fiocchi S
+- Bonato M
+- Chiaramello E
+- Tognola G
+- Parazzini M
+pmcid: PMC8776107
 volume: ''
-pages: ''
+pages: '920'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

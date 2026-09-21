@@ -30,10 +30,14 @@ mots_cles:
 - Geospatial Mapping
 - 5 G Networks
 - Emf Regulation
-auteurs: []
-pmcid: ''
+auteurs:
+- Kiouvrekis Y
+- Psomadakis I
+- Christakis C
+- Kalatzis D
+pmcid: PMC13149580
 volume: ''
-pages: ''
+pages: '562'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

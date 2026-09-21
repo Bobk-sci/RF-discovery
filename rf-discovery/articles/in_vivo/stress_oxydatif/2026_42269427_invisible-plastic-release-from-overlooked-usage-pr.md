@@ -28,10 +28,15 @@ mots_cles:
 - Convenience Food
 - Plastic Contamination
 - Nanoplastics
-auteurs: []
+auteurs:
+- Lin PY
+- Hsieh SL
+- Wu IH
+- Hsieh YC
+- Hsieh S
 pmcid: ''
 volume: ''
-pages: ''
+pages: '149912'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

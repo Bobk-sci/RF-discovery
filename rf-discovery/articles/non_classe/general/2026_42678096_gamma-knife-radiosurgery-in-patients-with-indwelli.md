@@ -17,10 +17,13 @@ mots_cles:
 - Gamma Knife Radiosurgery
 - Neuromodulation
 - Functional Neurosurgery
-auteurs: []
+auteurs:
+- Qiang Z
+- Bragg C
+- Yianni J
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-6
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

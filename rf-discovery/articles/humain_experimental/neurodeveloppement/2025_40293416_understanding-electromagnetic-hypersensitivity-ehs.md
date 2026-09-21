@@ -27,10 +27,14 @@ mots_cles:
 - Electromagnetic field
 - Idiopathic Environmental Intolerance
 - Smart Phone
-auteurs: []
+auteurs:
+- Razak NSZM
+- Rahman AA
+- Minhat HS
+- Fauzi FA
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70007
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires:

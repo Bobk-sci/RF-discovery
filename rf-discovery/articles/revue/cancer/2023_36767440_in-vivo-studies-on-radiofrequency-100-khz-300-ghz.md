@@ -30,10 +30,14 @@ mots_cles:
 - Animal Studies
 - Tumor Incidence
 - Radiofrequency-Electromagnetic Fields
-auteurs: []
-pmcid: ''
+auteurs:
+- Pinto R
+- Ardoino L
+- Villani P
+- Marino C
+pmcid: PMC9915925
 volume: ''
-pages: ''
+pages: '2071'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

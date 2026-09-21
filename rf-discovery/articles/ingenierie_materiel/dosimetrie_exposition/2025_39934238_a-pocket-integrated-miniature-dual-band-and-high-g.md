@@ -14,10 +14,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Sharma D
+- Tiwari RN
+- Singh DK
+- Matekovits L
+pmcid: PMC11814098
 volume: ''
-pages: ''
+pages: '5061'
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:

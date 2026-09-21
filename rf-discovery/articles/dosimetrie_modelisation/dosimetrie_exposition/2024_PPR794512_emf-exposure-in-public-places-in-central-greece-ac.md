@@ -13,7 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Softa V
+- Christakis C
+- Kosma F
+- Tyrakis C
+- Theodorou K
+- Kappas AC
 pmcid: ''
 volume: ''
 pages: ''

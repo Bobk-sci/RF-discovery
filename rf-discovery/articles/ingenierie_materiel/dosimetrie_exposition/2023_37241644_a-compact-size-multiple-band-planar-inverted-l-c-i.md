@@ -19,10 +19,13 @@ mots_cles:
 - Implantable Antenna
 - Triple-band
 - Near And Far Fields
-auteurs: []
-pmcid: ''
+auteurs:
+- Salama S
+- Zyoud D
+- Abuelhaija A
+pmcid: PMC10223517
 volume: ''
-pages: ''
+pages: '1021'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:

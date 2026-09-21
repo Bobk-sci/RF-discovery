@@ -19,10 +19,16 @@ mots_cles:
 - Drug resistance
 - Staphylococcus aureus
 - Radiofrequency
-auteurs: []
-pmcid: ''
+auteurs:
+- Amani S
+- Taheri M
+- Movahedi MM
+- Mohebi M
+- Nouri F
+- Mehdizadeh A
+pmcid: PMC8344163
 volume: ''
-pages: ''
+pages: e1580
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

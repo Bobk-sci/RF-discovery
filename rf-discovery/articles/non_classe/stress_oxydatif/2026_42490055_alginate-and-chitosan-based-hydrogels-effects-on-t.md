@@ -30,10 +30,13 @@ mots_cles:
 - Epr Spectroscopy
 - Thermal Treatment
 - Ultrasound Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Tsirigotis-Maniecka M
+- Zoumpanioti M
+- Pawlaczyk-Graja I
+pmcid: PMC13394517
 volume: ''
-pages: ''
+pages: e70230
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

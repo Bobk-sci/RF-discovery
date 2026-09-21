@@ -35,10 +35,16 @@ mots_cles:
 - Anti-inflammation
 - Ginsenosides
 - Elf-emf
-auteurs: []
-pmcid: ''
+auteurs:
+- Choi JY
+- Lee JS
+- Lee SA
+- Moon HW
+- Park SY
+- Hwang KW
+pmcid: PMC12662678
 volume: ''
-pages: ''
+pages: '7870941'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

@@ -17,10 +17,14 @@ mots_cles:
 - Energy consumption
 - Quality Attributes
 - Microwave-assisted Freezing (Maf)
-auteurs: []
-pmcid: ''
+auteurs:
+- Vardanjani MY
+- Hamdami N
+- Dalvi-Isfahan M
+- Le-Bail A
+pmcid: PMC11487412
 volume: ''
-pages: ''
+pages: '2805'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

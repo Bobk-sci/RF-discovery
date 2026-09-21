@@ -2,38 +2,44 @@
 pmid: '37851267'
 doi: 10.1007/s11356-023-30256-7
 annee: 2023
-journal: Environmental science and pollution research international
+journal: ''
 titre: Sex-dependent impact of perinatal 5G electromagnetic field exposure in the
   adolescent rat behavior.
 url: https://pubmed.ncbi.nlm.nih.gov/37851267/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Pregnancy
-- Rats
 - Animals
-- Male
-- Female
 - Humans
-- Electromagnetic Fields
+- Rats
 - Reflex
 - Motor Activity
-- Movement
 - Mothers
+- Pregnancy
+- Movement
+- Electromagnetic Fields
+- Female
+- Male
 types:
 - Journal Article
 mots_cles:
-- 5G communications
-- Behavioural tests
-- Electromagnetic radiation
-- Incisors eruption
 - Neurodevelopment
-- Radiofrequency fields
-auteurs: []
+- Electromagnetic Radiation
+- Radiofrequency Fields
+- Behavioural Tests
+- 5G Communications
+- Incisors Eruption
+auteurs:
+- Bodin R
+- Seewooruttun C
+- Corona A
+- Delanaud S
+- Pelletier A
+- Villégier AS
 pmcid: ''
 volume: ''
-pages: ''
+pages: 113704-113717
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -56,7 +62,7 @@ theme_indices:
 
 # Sex-dependent impact of perinatal 5G electromagnetic field exposure in the adolescent rat behavior.
 
-*Environmental science and pollution research international — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

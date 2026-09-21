@@ -27,10 +27,16 @@ mots_cles:
 - Scoping Review
 - Radiofrequency Fields
 - Quality Of Studies
-auteurs: []
-pmcid: ''
+auteurs:
+- Romeo S
+- Zeni O
+- Scarfì MR
+- Poeta L
+- Lioi MB
+- Sannino A
+pmcid: PMC8877695
 volume: ''
-pages: ''
+pages: '2322'
 modele: revue
 modele_score: 1006.0
 modele_secondaires:

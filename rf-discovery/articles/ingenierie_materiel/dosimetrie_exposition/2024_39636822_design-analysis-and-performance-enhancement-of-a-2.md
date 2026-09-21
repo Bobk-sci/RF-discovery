@@ -23,10 +23,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Gupta A
+- Aljaidi M
+- Bansal S
+- Al Mamlook RE
+- Kumar V
+- Aljohani A
+- Aljohani S
+- Singla MK
+pmcid: PMC11620415
 volume: ''
-pages: ''
+pages: e0311753
 modele: ingenierie_materiel
 modele_score: 3.5
 modele_secondaires:

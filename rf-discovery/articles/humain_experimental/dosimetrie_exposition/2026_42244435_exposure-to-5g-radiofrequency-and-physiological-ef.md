@@ -35,10 +35,20 @@ mots_cles:
 - 5G
 - Heart‐rate Variability
 - Stress‐biomarkers
-auteurs: []
-pmcid: ''
+auteurs:
+- Layla J
+- Lisa M
+- Stéphane D
+- Raphaël B
+- Laurent H
+- Paul M
+- Philippe L
+- Tamara B
+- Erwan SB
+- Brahim S
+pmcid: PMC13238366
 volume: ''
-pages: ''
+pages: e70056
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:

@@ -13,10 +13,24 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Yang F
+- Zhang S
+- Zhang J
+- Tong Y
+- Zhong J
+- Zheng J
+- Li J
+- Hu Y
+- Yuan Y
+- Zhu J
+- Xu K
+- Zhang C
+- Cheng H
+- Song C
+pmcid: PMC13454596
 volume: ''
-pages: ''
+pages: '8041'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

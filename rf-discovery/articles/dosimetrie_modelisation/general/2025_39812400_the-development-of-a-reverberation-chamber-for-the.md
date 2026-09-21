@@ -27,10 +27,18 @@ mots_cles:
 - Computational Modeling
 - Reverberation Chamber
 - Sar Validation
-auteurs: []
-pmcid: ''
+auteurs:
+- Iskra S
+- McIntosh RL
+- McKenzie RJ
+- Frankland JV
+- Deng C
+- Sylvester E
+- Wood AW
+- Croft RJ
+pmcid: PMC11734383
 volume: ''
-pages: ''
+pages: e22539
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:

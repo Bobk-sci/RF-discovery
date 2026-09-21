@@ -13,7 +13,16 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Khurelbaatar L
+- Zhang J
+- Wang J
+- Mokhtarzade A
+- Yalagala B
+- Khosravi P
+- U CW
+- Amjadi M
+- Heidari H
 pmcid: ''
 volume: ''
 pages: ''

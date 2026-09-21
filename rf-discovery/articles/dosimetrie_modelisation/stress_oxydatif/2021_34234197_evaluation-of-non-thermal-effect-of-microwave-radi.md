@@ -23,10 +23,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Shaw P
+- Kumar N
+- Mumtaz S
+- Lim JS
+- Jang JH
+- Kim D
+- Sahu BD
+- Bogaerts A
+- Choi EH
+pmcid: PMC8263747
 volume: ''
-pages: ''
+pages: '14003'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

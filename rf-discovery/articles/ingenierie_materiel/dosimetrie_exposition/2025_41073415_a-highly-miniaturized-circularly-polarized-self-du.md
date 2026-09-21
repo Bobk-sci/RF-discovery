@@ -22,10 +22,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Un Noor SM
+- Shah SAA
+- Shah IA
+- Khan S
+- Nasir J
+- Koziel S
+- Abbasi QH
+pmcid: PMC12514249
 volume: ''
-pages: ''
+pages: '35470'
 modele: ingenierie_materiel
 modele_score: 1005.5
 modele_secondaires:

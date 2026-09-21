@@ -14,10 +14,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Horikoshi S
+- Hachisuga N
+- Serpone N
+pmcid: PMC11413734
 volume: ''
-pages: ''
+pages: 29955-29964
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

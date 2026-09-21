@@ -24,10 +24,14 @@ mots_cles:
 - Non-ionizing Radiation
 - Companion Animals
 - Radiofrequencies
-auteurs: []
-pmcid: ''
+auteurs:
+- Maipas S
+- Vardiambasis IO
+- Nikolopoulos CD
+- Kavantzas N
+pmcid: PMC12120279
 volume: ''
-pages: ''
+pages: '11786302251342972'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

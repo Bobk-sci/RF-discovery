@@ -18,10 +18,19 @@ mots_cles:
 - honey bee
 - field conditions
 - Radiofrequency Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Vilić M
+- Žura Žaja I
+- Tkalec M
+- Tucak P
+- Malarić K
+- Popara N
+- Žura N
+- Pašić S
+- Gajger IT
+pmcid: PMC11122567
 volume: ''
-pages: ''
+pages: '372'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -32,10 +32,15 @@ mots_cles:
 - thyroid hormones
 - Radiofrequency Radiation
 - 5G
-auteurs: []
+auteurs:
+- Bektas H
+- Bese Akgun BB
+- Cakir S
+- Dogu S
+- Ahnas B
 pmcid: ''
 volume: ''
-pages: ''
+pages: 449-460
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

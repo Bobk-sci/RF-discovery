@@ -21,10 +21,18 @@ mots_cles:
 - Specific Absorption Rate
 - Intrinsic Loss Power
 - Phytochemical Reduction
-auteurs: []
-pmcid: ''
+auteurs:
+- Góral-Kowalczyk M
+- Grządka E
+- Orzeł J
+- Góral D
+- Skrzypek T
+- Kobus Z
+- Koval I
+- Marczuk A
+pmcid: PMC13450626
 volume: ''
-pages: ''
+pages: '628375'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

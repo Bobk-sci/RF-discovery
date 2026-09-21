@@ -31,10 +31,21 @@ mots_cles:
 - Blood-Brain Barrier
 - Neuronal Pyroptosis
 - Combined Microwave Exposure
-auteurs: []
+auteurs:
+- Zhou G
+- Guo L
+- Qin T
+- Zhang Z
+- Gao P
+- Wang X
+- Lin J
+- Liu L
+- Zheng B
+- Li J
+- Ding G
 pmcid: ''
 volume: ''
-pages: ''
+pages: '119818'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

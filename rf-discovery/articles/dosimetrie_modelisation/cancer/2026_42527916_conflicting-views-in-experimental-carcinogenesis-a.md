@@ -29,10 +29,13 @@ mots_cles:
 - Japanese-korean Validation Studies
 - Ntp Carcinogenicity Study
 - Radiofrequency Radiaton
-auteurs: []
-pmcid: ''
+auteurs:
+- Melnick RL
+- Moskowitz JM
+- Héroux P
+pmcid: PMC13417848
 volume: ''
-pages: ''
+pages: '66'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

@@ -13,10 +13,17 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Gupta A
+- Kumar V
+- Alsharif MH
+- Uthansakul P
+- Uthansakul M
+- Dhasarathan V
+- Sharma M
 pmcid: ''
 volume: ''
-pages: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires:

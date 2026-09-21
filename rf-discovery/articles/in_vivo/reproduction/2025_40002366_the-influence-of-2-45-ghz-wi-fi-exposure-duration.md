@@ -19,10 +19,15 @@ mots_cles:
 - Sperm quality
 - Duration
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Jamaludin N
+- Ibrahim SF
+- Jaffar FHF
+- Zulkefli AF
+- Osman K
+pmcid: PMC11852241
 volume: ''
-pages: ''
+pages: '179'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

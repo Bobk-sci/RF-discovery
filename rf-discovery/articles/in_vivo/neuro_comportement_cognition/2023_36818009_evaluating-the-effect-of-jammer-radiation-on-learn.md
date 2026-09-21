@@ -17,10 +17,15 @@ mots_cles:
 - Spatial learning
 - Electromagnetic Radiation
 - Non-ionizing Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Yazdanpanahi M
+- Namazi A
+- Shojaeifard MB
+- Nematolahi S
+- Pourahmad S
+pmcid: PMC9923240
 volume: ''
-pages: ''
+pages: 29-38
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

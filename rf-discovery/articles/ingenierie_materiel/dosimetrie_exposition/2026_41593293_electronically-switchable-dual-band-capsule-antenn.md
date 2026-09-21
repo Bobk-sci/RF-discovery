@@ -18,10 +18,16 @@ mots_cles:
 - Ingestible Antenna
 - Dual-band Antenna
 - Switchable Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Gogosh N
+- Khalid S
+- Malik BT
+- Shafique MF
+- Szczepanski S
+- Koziel S
+pmcid: PMC12909823
 volume: ''
-pages: ''
+pages: '6385'
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:

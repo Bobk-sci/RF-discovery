@@ -24,10 +24,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Goh J
+- Suh D
+- Park G
+- Jeon S
+- Lee Y
+- Kim N
+- Song K
+pmcid: PMC11075873
 volume: ''
-pages: ''
+pages: e0302936
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

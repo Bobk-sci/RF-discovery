@@ -20,10 +20,15 @@ mots_cles:
 - Exposure Quotiens
 - Personal Exposimeters
 - Outdoor Multiple Frequency Environments
-auteurs: []
-pmcid: ''
+auteurs:
+- Rufo-Pérez M
+- Antolín-Salazar A
+- Paniagua-Sánchez JM
+- Jiménez-Barco A
+- Rodríguez-Hernández FJ
+pmcid: PMC11902647
 volume: ''
-pages: ''
+pages: '1301'
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

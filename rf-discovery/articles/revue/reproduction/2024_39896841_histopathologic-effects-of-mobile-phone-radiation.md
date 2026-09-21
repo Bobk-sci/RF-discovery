@@ -20,10 +20,12 @@ mots_cles:
 - Sperm Parameters
 - Mobile Phone Radiation
 - Lab Animals
-auteurs: []
-pmcid: ''
+auteurs:
+- Assefa EM
+- Abdu SM
+pmcid: PMC11782230
 volume: ''
-pages: ''
+pages: '1515166'
 modele: revue
 modele_score: 1007.0
 modele_secondaires:

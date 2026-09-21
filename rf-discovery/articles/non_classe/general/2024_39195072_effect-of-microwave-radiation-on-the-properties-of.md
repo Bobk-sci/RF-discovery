@@ -19,10 +19,15 @@ mots_cles:
 - hydrogel
 - Perlite
 - Cork
-auteurs: []
-pmcid: ''
+auteurs:
+- Průša D
+- Šťastník S
+- Svobodová K
+- Šuhajda K
+- Sochorová Z
+pmcid: PMC11353303
 volume: ''
-pages: ''
+pages: '543'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

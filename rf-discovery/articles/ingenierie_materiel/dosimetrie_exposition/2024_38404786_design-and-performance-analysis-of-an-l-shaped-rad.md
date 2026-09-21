@@ -18,10 +18,17 @@ mots_cles:
 - Specific Absorption Rate
 - Implantable Antenna
 - L-Shaped Defected Ground
-auteurs: []
-pmcid: ''
+auteurs:
+- Gupta A
+- Kumar V
+- Alsharif MH
+- Uthansakul P
+- Uthansakul M
+- Dhasarathan V
+- Sharma M
+pmcid: PMC10884931
 volume: ''
-pages: ''
+pages: e26398
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

@@ -21,10 +21,11 @@ mots_cles:
 - Covid-19 Vaccines
 - Directed Energy Weapons
 - Cognitive Warfare
-auteurs: []
-pmcid: ''
+auteurs:
+- Deruelle F
+pmcid: PMC11618680
 volume: ''
-pages: ''
+pages: '439'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

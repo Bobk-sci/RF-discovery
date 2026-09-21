@@ -29,10 +29,19 @@ mots_cles:
 - Electromagnetic Radiation
 - Synganglion
 - Neuropeptide Levels
-auteurs: []
-pmcid: ''
+auteurs:
+- Šofranková L
+- Baňas M
+- Pipová N
+- Majláth I
+- Kurimský J
+- Cimbala R
+- Zbojovský J
+- Šimo L
+- Majláthová V
+pmcid: PMC11339154
 volume: ''
-pages: ''
+pages: '306'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

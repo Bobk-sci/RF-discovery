@@ -33,10 +33,16 @@ mots_cles:
 - Amyotrophic Lateral Sclerosis
 - neuroinflammation
 - Rna-seq
-auteurs: []
-pmcid: ''
+auteurs:
+- Lameth J
+- Arnaud-Cormos D
+- Lévêque P
+- Boillée S
+- Edeline JM
+- Mallat M
+pmcid: PMC7223958
 volume: ''
-pages: ''
+pages: 105-123
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

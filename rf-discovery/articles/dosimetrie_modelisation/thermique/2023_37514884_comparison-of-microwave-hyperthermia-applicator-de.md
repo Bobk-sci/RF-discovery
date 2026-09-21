@@ -20,10 +20,18 @@ mots_cles:
 - Dipole Antenna
 - Connected Array
 - Fractal Octagonal Ring Array
-auteurs: []
-pmcid: ''
+auteurs:
+- Yildiz G
+- Farhat I
+- Farrugia L
+- Bonello J
+- Zarb-Adami K
+- Sammut CV
+- Yilmaz T
+- Akduman I
+pmcid: PMC10383607
 volume: ''
-pages: ''
+pages: '6592'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

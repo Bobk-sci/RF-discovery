@@ -27,10 +27,17 @@ mots_cles:
 - Thermoregulation
 - Adipose tissue
 - Radiofrequency
-auteurs: []
-pmcid: ''
+auteurs:
+- Maalouf J
+- Pelletier A
+- Corona A
+- Gay-Quéheillard J
+- Bach V
+- de Seze R
+- Selmaoui B
+pmcid: PMC10342026
 volume: ''
-pages: ''
+pages: '10628'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

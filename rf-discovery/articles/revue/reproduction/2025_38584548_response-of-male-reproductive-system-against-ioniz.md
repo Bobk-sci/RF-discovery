@@ -28,10 +28,17 @@ mots_cles:
 - Radiofrequency
 - Electromagnetic Radiation
 - Testes.
-auteurs: []
+auteurs:
+- Parashar R
+- Yadav SM
+- Meena P
+- Kumar R
+- Jheeta KS
+- Saini P
+- Patel DD
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-22
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

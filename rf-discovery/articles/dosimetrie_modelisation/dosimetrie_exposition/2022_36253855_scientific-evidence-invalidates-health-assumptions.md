@@ -2,44 +2,45 @@
 pmid: '36253855'
 doi: 10.1186/s12940-022-00900-9
 annee: 2022
-journal: 'Environmental health : a global access science source'
+journal: ''
 titre: 'Scientific evidence invalidates health assumptions underlying the FCC and
   ICNIRP exposure limit determinations for radiofrequency radiation: implications
   for 5G.'
 url: https://pubmed.ncbi.nlm.nih.gov/36253855/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- Semen
 - Animals
-- Cell Phone
-- Child
 - Humans
-- Male
-- Radiation Exposure
-- Radio Waves
 - Rats
 - Reactive Oxygen Species
-- Semen
+- Radio Waves
+- Child
+- Male
+- Radiation Exposure
+- Cell Phone
 types:
 - Letter
 mots_cles:
-- 5G
-- Cell phone*
 - DNA damage
+- reactive oxygen species (ROS)
+- Scientific Integrity
 - Exposure assessment
-- Exposure limits
-- Federal Communications Commission (FCC)
-- International commission on non-ionizing radiation protection (ICNIRP)
-- Mobile phone*
-- Radiation health effects
-- Radiofrequency radiation (RFR)
-- Reactive oxygen species (ROS)
-- Scientific integrity
-auteurs: []
-pmcid: ''
+- Radiation Health Effects
+- Exposure Limits
+- 5G
+- Radiofrequency Radiation (Rfr)
+- Cell Phone*
+- Federal Communications Commission (Fcc)
+- International Commission On Non-ionizing Radiation Protection (Icnirp)
+- Mobile Phone*
+auteurs:
+- International Commission on the Biological Effects of Electromagnetic Fields (ICBE-EMF)
+pmcid: PMC9576312
 volume: ''
-pages: ''
+pages: '92'
 modele: dosimetrie_modelisation
 modele_score: 8.5
 modele_secondaires:
@@ -65,7 +66,7 @@ theme_indices:
 
 # Scientific evidence invalidates health assumptions underlying the FCC and ICNIRP exposure limit determinations for radiofrequency radiation: implications for 5G.
 
-*Environmental health : a global access science source — 2022*
+*journal non renseigné — 2022*
 
 ## Résumé (texte d'origine)
 

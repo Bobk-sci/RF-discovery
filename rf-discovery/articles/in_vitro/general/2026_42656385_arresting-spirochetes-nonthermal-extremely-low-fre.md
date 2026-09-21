@@ -22,10 +22,15 @@ mots_cles:
 - Biophysical Mechanism
 - Motility Suppression
 - Nonthermal Electromagnetic Fields
-auteurs: []
-pmcid: ''
+auteurs:
+- Nilsen EA
+- Adkison H
+- Martinez JR
+- Zubcevik N
+- Embers ME
+pmcid: PMC13506406
 volume: ''
-pages: ''
+pages: '1886935'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

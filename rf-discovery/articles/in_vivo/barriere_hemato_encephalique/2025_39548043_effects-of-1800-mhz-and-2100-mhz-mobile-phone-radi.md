@@ -26,10 +26,14 @@ mots_cles:
 - Blood–brain Barrier
 - New Zealand Rabbit
 - Gsm Frequencies
-auteurs: []
+auteurs:
+- Kizilçay AO
+- Tütüncü B
+- Koçarslan M
+- Gözel MA
 pmcid: ''
 volume: ''
-pages: ''
+pages: 915-932
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

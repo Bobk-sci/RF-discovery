@@ -24,10 +24,14 @@ mots_cles:
 - Human Exposure
 - 5G Networks
 - 'Kriging: Emf Exposure, Measurements, Code‐selective'
-auteurs: []
-pmcid: ''
+auteurs:
+- Najera A
+- Villaescusa-Tebar A
+- Gonzalez-Rubio J
+- Garcia-Pardo C
+pmcid: PMC12365736
 volume: ''
-pages: ''
+pages: e70020
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

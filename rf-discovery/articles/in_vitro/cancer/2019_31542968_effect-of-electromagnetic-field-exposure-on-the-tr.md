@@ -24,10 +24,13 @@ mots_cles:
 - Line
 - Mobile Phone Radiation
 - Alpha Satellite Dna
-auteurs: []
+auteurs:
+- Del Re B
+- Bersani F
+- Giorgi G
 pmcid: ''
 volume: ''
-pages: ''
+pages: 262-270
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

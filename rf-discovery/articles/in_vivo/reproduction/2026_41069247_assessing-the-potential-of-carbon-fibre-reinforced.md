@@ -31,10 +31,18 @@ mots_cles:
 - Electromagnetic Radiation
 - Reproductive Health
 - Carbon Fibre-reinforced Polymer
-auteurs: []
+auteurs:
+- Farindra I
+- Soetjipto
+- Kalanjati VP
+- Sakinah AP
+- Rusdi WE
+- Roesbiantoro A
+- Suwito BE
+- Farmananda IR
 pmcid: ''
 volume: ''
-pages: ''
+pages: 137-148
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

@@ -23,10 +23,22 @@ mots_cles:
 - Proteomics
 - Exosomes
 - Learning And Memory Function
-auteurs: []
-pmcid: ''
+auteurs:
+- Wang H
+- Liu Y
+- Sun Y
+- Dong J
+- Xu X
+- Wang H
+- Zhao X
+- Zhang J
+- Yao B
+- Zhao L
+- Liu S
+- Peng R
+pmcid: PMC9926547
 volume: ''
-pages: ''
+pages: '34'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

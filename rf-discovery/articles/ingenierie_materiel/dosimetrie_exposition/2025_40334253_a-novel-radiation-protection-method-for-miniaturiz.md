@@ -20,10 +20,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Zhou WY
+- Li YX
+- Li W
+- Lu M
+- Xu JJ
+pmcid: PMC12058181
 volume: ''
-pages: ''
+pages: e0323299
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:

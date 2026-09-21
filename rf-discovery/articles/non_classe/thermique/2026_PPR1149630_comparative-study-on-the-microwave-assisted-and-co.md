@@ -13,7 +13,10 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Dağlı R
+- Teker M
+- Usluoğlu A
 pmcid: ''
 volume: ''
 pages: ''

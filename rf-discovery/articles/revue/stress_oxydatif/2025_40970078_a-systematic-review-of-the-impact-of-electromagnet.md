@@ -24,10 +24,13 @@ mots_cles:
 - Physiological Responses
 - Emf Exposure
 - Frequency-dependent Effects
-auteurs: []
-pmcid: ''
+auteurs:
+- Danho S
+- Escobar Huertas JF
+- Schoellhorn WI
+pmcid: PMC12441653
 volume: ''
-pages: ''
+pages: e90355
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

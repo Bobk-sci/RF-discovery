@@ -29,10 +29,18 @@ mots_cles:
 - Biosecurity
 - Radiofrequency Exposure
 - Climate-driven Arbovirus Expansion
-auteurs: []
+auteurs:
+- Defilippo F
+- Moreno A
+- Ciccozzi M
+- Losardo M
+- Bia P
+- Manna A
+- de Gara L
+- Giovanetti M
 pmcid: ''
 volume: ''
-pages: ''
+pages: 343-350
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

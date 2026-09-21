@@ -14,10 +14,20 @@ types:
 - Journal Article
 mots_cles:
 - None
-auteurs: []
+auteurs:
+- Louka AM
+- Martinez DF
+- Zaraska KV
+- Wiens CN
+- Harris CT
+- Germann J
+- Boutet A
+- Kalia SK
+- Valiante TA
+- Connell IRO
 pmcid: ''
 volume: ''
-pages: ''
+pages: '122244'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

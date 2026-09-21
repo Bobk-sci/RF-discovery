@@ -18,10 +18,16 @@ mots_cles:
 - Enterococcus faecalis
 - Gutta Percha Cones
 - Microwave Disinfection
-auteurs: []
-pmcid: ''
+auteurs:
+- Devaraj S
+- Venkatakrishnan S
+- Ramkumar S
+- Bharadwaj SK
+- Balaji D
+- Govindaraju L
+pmcid: PMC12244845
 volume: ''
-pages: ''
+pages: S1823-S1826
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []

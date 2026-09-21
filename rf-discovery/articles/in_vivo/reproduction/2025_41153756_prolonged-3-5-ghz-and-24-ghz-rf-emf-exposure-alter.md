@@ -19,10 +19,21 @@ mots_cles:
 - Sperm quality
 - Testicular Function
 - 5G Rf-emf
-auteurs: []
-pmcid: ''
+auteurs:
+- Syed Taha SMA
+- Jaffar FHF
+- Hairulazam A
+- Vijay S
+- Jamaludin N
+- Zulkifli AF
+- Mat Ros MF
+- Osman K
+- Zakaria Z
+- Mohd Bahar MAA
+- Ibrahim SF
+pmcid: PMC12562081
 volume: ''
-pages: ''
+pages: '2471'
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

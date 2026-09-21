@@ -15,10 +15,24 @@ types:
 - Published Erratum
 - correction
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Brooks AM
+- Vornoli A
+- Kovi RC
+- Ton TVT
+- Xu M
+- Mashal A
+- Tibaldi E
+- Gnudi F
+- Li JL
+- Sills RC
+- Bucher JR
+- Mandrioli D
+- Belpoggi F
+- Pandiri AR
+pmcid: PMC13046171
 volume: ''
-pages: ''
+pages: e0346498
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

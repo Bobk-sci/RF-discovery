@@ -26,10 +26,13 @@ mots_cles:
 - Melatonin
 - Animal model
 - Cell Phone Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Amiri M
+- Khazaie H
+- Mohammadi M
+pmcid: PMC12008444
 volume: ''
-pages: ''
+pages: 629-637
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

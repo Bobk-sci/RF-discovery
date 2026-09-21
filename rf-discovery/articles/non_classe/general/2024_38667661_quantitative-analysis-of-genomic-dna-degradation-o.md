@@ -19,10 +19,13 @@ mots_cles:
 - Microwave
 - Genomic DNA
 - Automated Gel Electrophoresis
-auteurs: []
-pmcid: ''
+auteurs:
+- Pandey A
+- Momeni O
+- Pandey P
+pmcid: PMC11049425
 volume: ''
-pages: ''
+pages: '242'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

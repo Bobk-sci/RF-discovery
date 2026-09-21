@@ -24,10 +24,14 @@ mots_cles:
 - Wi-fi
 - Disc Diffusion
 - Non-thermal Effect
-auteurs: []
-pmcid: ''
+auteurs:
+- I H SS
+- F A J
+- H H Y
+- M E M
+pmcid: PMC6820025
 volume: ''
-pages: ''
+pages: 579-586
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

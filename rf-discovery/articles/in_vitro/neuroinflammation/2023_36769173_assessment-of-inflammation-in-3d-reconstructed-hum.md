@@ -27,10 +27,19 @@ mots_cles:
 - Radiofrequency
 - SKin
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Szilágyi Z
+- Németh Z
+- Bakos J
+- Kubinyi G
+- Necz PP
+- Szabó E
+- Thuróczy G
+- Pinto R
+- Selmaoui B
+pmcid: PMC9917807
 volume: ''
-pages: ''
+pages: '2853'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -20,10 +20,15 @@ mots_cles:
 - Flexible Antenna
 - Human Multilayer Phantom Model
 - Multistubs Resonator
-auteurs: []
-pmcid: ''
+auteurs:
+- Soni GK
+- Yadav D
+- Kumar A
+- Rathi A
+- Yadav SV
+pmcid: PMC12228797
 volume: ''
-pages: ''
+pages: '24013'
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:

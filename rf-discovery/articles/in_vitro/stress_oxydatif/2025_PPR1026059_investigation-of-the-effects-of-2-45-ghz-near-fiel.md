@@ -12,7 +12,12 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Angelova B
+- Paunov M
+- Kitanova M
+- Atanasova G
+- Atanasov N
 pmcid: ''
 volume: ''
 pages: ''

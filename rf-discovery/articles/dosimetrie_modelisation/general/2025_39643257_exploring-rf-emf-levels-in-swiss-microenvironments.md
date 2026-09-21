@@ -26,10 +26,17 @@ mots_cles:
 - Exposure assessment
 - Non-ionizing Radiation
 - New Radio
-auteurs: []
+auteurs:
+- Veludo AF
+- Stroobandt B
+- Van Bladel H
+- Sandoval-Diez N
+- Guxens M
+- Joseph W
+- Röösli M
 pmcid: ''
 volume: ''
-pages: ''
+pages: '120550'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

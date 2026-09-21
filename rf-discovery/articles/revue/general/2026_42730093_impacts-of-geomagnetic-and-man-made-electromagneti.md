@@ -24,10 +24,16 @@ mots_cles:
 - Geomagnetic Field
 - Geomagnetic Activity
 - Bioelectromagnetic
-auteurs: []
-pmcid: ''
+auteurs:
+- Fadlou Allah T
+- Wexler B
+- Green DM
+- Patel YN
+- Chen J
+- Mayrovitz HN
+pmcid: PMC13567157
 volume: ''
-pages: ''
+pages: e114429
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

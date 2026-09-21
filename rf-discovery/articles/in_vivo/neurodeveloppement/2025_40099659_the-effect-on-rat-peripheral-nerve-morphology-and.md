@@ -28,10 +28,16 @@ mots_cles:
 - peripheral nerve
 - Prenatal Exposure
 - Cell Phone
-auteurs: []
+auteurs:
+- Hancı H
+- Yenilmez E
+- Demir S
+- Yıldırım M
+- Gedikli Ö
+- Kaya H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 251-266
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []

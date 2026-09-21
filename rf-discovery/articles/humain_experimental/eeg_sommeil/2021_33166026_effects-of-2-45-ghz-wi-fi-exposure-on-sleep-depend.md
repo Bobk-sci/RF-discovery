@@ -30,10 +30,16 @@ mots_cles:
 - Slow Oscillations
 - Sleep Spindles
 - Eeg Power
-auteurs: []
+auteurs:
+- Bueno-Lopez A
+- Eggert T
+- Dorn H
+- Schmid G
+- Hirtl R
+- Danker-Hopfe H
 pmcid: ''
 volume: ''
-pages: ''
+pages: e13224
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:

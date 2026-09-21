@@ -32,10 +32,13 @@ mots_cles:
 - Biological indicators
 - Microwave radiation
 - Injury Model
-auteurs: []
-pmcid: ''
+auteurs:
+- Lai YF
+- Wang HY
+- Peng RY
+pmcid: PMC7890848
 volume: ''
-pages: ''
+pages: '12'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

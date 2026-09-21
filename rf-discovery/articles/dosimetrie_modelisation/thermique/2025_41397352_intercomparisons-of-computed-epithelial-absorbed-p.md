@@ -28,7 +28,20 @@ mots_cles:
 - Dosimetry Modeling
 - Millimetre-Wave
 - Epithelial/absorbed Power Density
-auteurs: []
+auteurs:
+- Li K
+- Kodera S
+- Poljak D
+- Prokop A
+- Diao Y
+- Zhang S
+- Yao M
+- Li C
+- Wu T
+- Liebig T
+- Simon W
+- Škiljo M
+- Hirata A
 pmcid: ''
 volume: ''
 pages: ''

@@ -28,10 +28,16 @@ mots_cles:
 - Human Skin Bacteria
 - 2.45 Ghz
 - Ism Frequency
-auteurs: []
+auteurs:
+- Tomar AK
+- Jha N
+- Priyadarshini E
+- Gautam R
+- Nirala JP
+- Rajamani P
 pmcid: ''
 volume: ''
-pages: ''
+pages: 634-648
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

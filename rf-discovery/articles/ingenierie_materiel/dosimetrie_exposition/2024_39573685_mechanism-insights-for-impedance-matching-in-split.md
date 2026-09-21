@@ -13,10 +13,18 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Madhavamoorthi S
+- Marishwari M
+- Kashif H
+- Shen S
+- Chen B
+- Xie H
+- Ouyang Z
+- Liu Q
 pmcid: ''
 volume: ''
-pages: ''
+pages: 38422-38436
 modele: ingenierie_materiel
 modele_score: 5.0
 modele_secondaires:

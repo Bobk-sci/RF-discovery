@@ -25,10 +25,13 @@ mots_cles:
 - European Union
 - Precautionary Principle
 - Wireless Emf Guidelines
-auteurs: []
+auteurs:
+- Nyberg R
+- McCredden J
+- Hardell L
 pmcid: ''
 volume: ''
-pages: ''
+pages: 707-719
 modele: revue
 modele_score: 1002.5
 modele_secondaires: []

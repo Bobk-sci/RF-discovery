@@ -14,10 +14,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Singh N
+- Khan T
+- Kumar S
+- Kanaujia BK
+- Choi HC
+- Kim KW
+- Rambabu K
+- Rengarajan SR
+- Kishk AA
+pmcid: PMC10979022
 volume: ''
-pages: ''
+pages: '7447'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:

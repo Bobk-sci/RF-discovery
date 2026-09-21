@@ -28,10 +28,16 @@ mots_cles:
 - Mosquito eggs
 - Radiofrequency
 - Vector Control
-auteurs: []
-pmcid: ''
+auteurs:
+- Dom NC
+- Halim NMHNA
+- Rahman NHA
+- Dapari R
+- Salim H
+- Rahman ATA
+pmcid: PMC13272684
 volume: ''
-pages: ''
+pages: '18767'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

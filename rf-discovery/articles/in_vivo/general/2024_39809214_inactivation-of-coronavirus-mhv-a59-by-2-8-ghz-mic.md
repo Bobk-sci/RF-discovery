@@ -20,10 +20,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Xiao Y
+- Peng R
+- Wang H
+- Wang H
+- Dong J
+- Wang K
+- Liu W
+- Zhao L
+pmcid: PMC11596339
 volume: ''
-pages: ''
+pages: e40341
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

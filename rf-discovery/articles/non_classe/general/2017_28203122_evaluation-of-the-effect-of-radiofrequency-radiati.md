@@ -19,10 +19,16 @@ mots_cles:
 - Radiofrequency Radiation
 - Antibiogram
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Taheri M
+- Mortazavi SM
+- Moradi M
+- Mansouri S
+- Hatam GR
+- Nouri F
+pmcid: PMC5298474
 volume: ''
-pages: ''
+pages: '1559325816688527'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

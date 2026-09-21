@@ -19,10 +19,12 @@ mots_cles:
 - Microwave Annealing
 - Cooperative Jahn‐teller Distortion
 - Phonon‐field Interaction
-auteurs: []
-pmcid: ''
+auteurs:
+- Vashaee D
+- Dsouza K
+pmcid: PMC13336883
 volume: ''
-pages: ''
+pages: e76001
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

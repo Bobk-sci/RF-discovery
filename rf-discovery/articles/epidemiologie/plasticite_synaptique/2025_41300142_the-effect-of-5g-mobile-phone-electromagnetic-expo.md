@@ -20,10 +20,14 @@ mots_cles:
 - Intracortical Excitability
 - Brain Excitability
 - 5G
-auteurs: []
-pmcid: ''
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Jaberzadeh S
+pmcid: PMC12649992
 volume: ''
-pages: ''
+pages: '1134'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

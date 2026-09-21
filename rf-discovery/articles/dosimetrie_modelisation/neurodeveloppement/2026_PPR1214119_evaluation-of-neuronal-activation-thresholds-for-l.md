@@ -13,7 +13,18 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Gázquez J
+- Cadena CC
+- He W
+- Yamada E
+- Alteköster C
+- Soyka F
+- Laakso I
+- Hirata A
+- Joseph W
+- Tarnaud T
+- Tanghe E
 pmcid: ''
 volume: ''
 pages: ''

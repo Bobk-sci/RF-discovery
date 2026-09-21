@@ -28,10 +28,15 @@ mots_cles:
 - Bioenergetics
 - Electromagnetic Radiation
 - Thermal Effects
-auteurs: []
+auteurs:
+- Perez AS
+- Inada NM
+- Mezzacappo NF
+- Vollet-Filho JD
+- Bagnato VS
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1093-1103
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

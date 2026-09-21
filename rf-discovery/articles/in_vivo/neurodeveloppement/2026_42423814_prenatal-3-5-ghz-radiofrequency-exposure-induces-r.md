@@ -31,10 +31,18 @@ mots_cles:
 - Autophagy
 - Radiofrequency Radiation
 - 3.5 Ghz
-auteurs: []
-pmcid: ''
+auteurs:
+- Gelenli Dolanbay E
+- Canturk Tan F
+- Bektas H
+- Koc S
+- Varol S
+- Kilic O
+- Uslu U
+- Dasdag S
+pmcid: PMC13350153
 volume: ''
-pages: ''
+pages: '56'
 modele: in_vivo
 modele_score: 12.5
 modele_secondaires:

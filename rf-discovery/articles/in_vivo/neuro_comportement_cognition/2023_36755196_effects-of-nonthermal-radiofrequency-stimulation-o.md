@@ -2,33 +2,45 @@
 pmid: '36755196'
 doi: 10.1002/advs.202205988
 annee: 2023
-journal: Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+journal: ''
 titre: Effects of Nonthermal Radiofrequency Stimulation on Neuronal Activity and Neural
   Circuit in Mice.
 url: https://pubmed.ncbi.nlm.nih.gov/36755196/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Mice
+- Neurons
 - Animals
+- Mice
+- Phospholipid Ethers
 - Dopamine
 - Radio Waves
-- Neurons
-- Phospholipid Ethers
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles:
-- calcium
-- memory
-- mouse
-- neural circuit
-- radiofrequency
-auteurs: []
-pmcid: ''
+- Calcium
+- Memory
+- Mouse
+- Radiofrequency
+- Neural Circuit
+auteurs:
+- Hao Y
+- Liu W
+- Liu Y
+- Liu Y
+- Xu Z
+- Ye Y
+- Zhou H
+- Deng H
+- Zuo H
+- Yang H
+- Li Y
+pmcid: PMC10104648
 volume: ''
-pages: ''
+pages: e2205988
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -49,7 +61,7 @@ theme_indices:
 
 # Effects of Nonthermal Radiofrequency Stimulation on Neuronal Activity and Neural Circuit in Mice.
 
-*Advanced science (Weinheim, Baden-Wurttemberg, Germany) — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

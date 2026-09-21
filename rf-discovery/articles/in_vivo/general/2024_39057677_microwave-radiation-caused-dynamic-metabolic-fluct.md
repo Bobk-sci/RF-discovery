@@ -2,24 +2,37 @@
 pmid: '39057677'
 doi: 10.3390/metabo14070354
 annee: 2024
-journal: Metabolites
+journal: ''
 titre: Microwave Radiation Caused Dynamic Metabolic Fluctuations in the Mammalian
   Hippocampus.
 url: https://pubmed.ncbi.nlm.nih.gov/39057677/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- hippocampus injury
-- metabolomics
-- microwave radiation
-auteurs: []
-pmcid: ''
+- Microwave radiation
+- Metabolomics
+- Hippocampus Injury
+auteurs:
+- Xin Y
+- Guan ST
+- Ren K
+- Wang H
+- Dong J
+- Wang HY
+- Zhang J
+- Xu XP
+- Yao BW
+- Zhao L
+- Shi CX
+- Peng RY
+pmcid: PMC11278544
 volume: ''
-pages: ''
+pages: '354'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -35,7 +48,7 @@ theme_indices: []
 
 # Microwave Radiation Caused Dynamic Metabolic Fluctuations in the Mammalian Hippocampus.
 
-*Metabolites — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

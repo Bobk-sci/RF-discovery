@@ -18,10 +18,13 @@ mots_cles:
 - Microstrip antenna
 - Flexible Antenna
 - Taguchi Algorithm
-auteurs: []
-pmcid: ''
+auteurs:
+- Tiwari A
+- Khurshid AA
+- Sharma K
+pmcid: PMC11695700
 volume: ''
-pages: ''
+pages: '116'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

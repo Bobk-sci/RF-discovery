@@ -30,10 +30,15 @@ mots_cles:
 - Nitric Oxide (NO)
 - Radiofrequency Radiation (Rfr)
 - Superoxide (So)
-auteurs: []
+auteurs:
+- Jangid P
+- Rai U
+- Sevak JK
+- Singh S
+- Singh R
 pmcid: ''
 volume: ''
-pages: ''
+pages: '117807'
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:

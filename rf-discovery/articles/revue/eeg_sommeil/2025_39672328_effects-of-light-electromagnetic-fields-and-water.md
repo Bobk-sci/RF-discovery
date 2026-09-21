@@ -24,10 +24,16 @@ mots_cles:
 - Light Therapy
 - Metabolic Disorders
 - Chronobiology
-auteurs: []
-pmcid: ''
+auteurs:
+- Martel J
+- Rouleau N
+- Murugan NJ
+- Chin WC
+- Ojcius DM
+- Young JD
+pmcid: PMC12173616
 volume: ''
-pages: ''
+pages: '100824'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

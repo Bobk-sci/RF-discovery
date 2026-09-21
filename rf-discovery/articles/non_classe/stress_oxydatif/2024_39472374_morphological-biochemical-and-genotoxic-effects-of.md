@@ -26,10 +26,13 @@ mots_cles:
 - Power
 - Antioxidative enzymes
 - Electromagnetic Radiation
-auteurs: []
+auteurs:
+- Sharma A
+- Bahel S
+- Katnoria JK
 pmcid: ''
 volume: ''
-pages: ''
+pages: 63225-63238
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

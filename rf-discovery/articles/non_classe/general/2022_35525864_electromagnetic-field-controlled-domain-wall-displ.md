@@ -14,10 +14,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Li D
+- Barrington J
+- James S
+- Ayre D
+- Słoma M
+- Lin MF
+- Yazdani Nezhad H
+pmcid: PMC9079120
 volume: ''
-pages: ''
+pages: '7504'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

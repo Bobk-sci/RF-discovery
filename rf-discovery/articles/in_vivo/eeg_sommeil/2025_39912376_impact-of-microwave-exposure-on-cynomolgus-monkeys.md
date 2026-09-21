@@ -23,10 +23,22 @@ mots_cles:
 - Microwave
 - Monkey
 - ECG
-auteurs: []
+auteurs:
+- Ma L
+- Qiao N
+- Zou Y
+- Wang H
+- Wang Y
+- Zhi W
+- Zhao X
+- Xu X
+- Zhang M
+- Lin Z
+- Hu X
+- Wang L
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70000
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

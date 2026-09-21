@@ -26,10 +26,15 @@ mots_cles:
 - Male fertility
 - Mendelian Randomization
 - Mobile Phone Use
-auteurs: []
-pmcid: ''
+auteurs:
+- Xiang Y
+- Xu L
+- Sun Y
+- Hu C
+- Lv L
+pmcid: PMC12459597
 volume: ''
-pages: ''
+pages: e44668
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

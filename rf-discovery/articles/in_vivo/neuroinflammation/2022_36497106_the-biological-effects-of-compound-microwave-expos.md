@@ -27,10 +27,22 @@ mots_cles:
 - Microwave
 - Proteomic
 - Transcriptomic
-auteurs: []
-pmcid: ''
+auteurs:
+- Yao C
+- Wang H
+- Sun L
+- Ren K
+- Dong J
+- Wang H
+- Zhang J
+- Xu X
+- Yao B
+- Zhou H
+- Zhao L
+- Peng R
+pmcid: PMC9735949
 volume: ''
-pages: ''
+pages: '3849'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

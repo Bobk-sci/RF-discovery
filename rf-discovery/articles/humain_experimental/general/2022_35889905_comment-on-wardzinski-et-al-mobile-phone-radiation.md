@@ -20,10 +20,13 @@ types:
 - letter
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Witthöft M
+- Köteles F
+- Szemerszky R
+pmcid: PMC9316947
 volume: ''
-pages: ''
+pages: '2948'
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []

@@ -19,10 +19,16 @@ mots_cles:
 - Rf Hyperthermia
 - Beauty Device
 - Waveguide Aperture Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Kim I
+- Lee DM
+- Shin JW
+- Lee GJ
+- Kim ES
+- Kim NY
+pmcid: PMC11007180
 volume: ''
-pages: ''
+pages: '1378084'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

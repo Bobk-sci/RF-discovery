@@ -24,10 +24,14 @@ mots_cles:
 - Measurement Time
 - Rf‐emf Exposure Variability
 - Averaging Time Lengths
-auteurs: []
+auteurs:
+- Bhatt CR
+- Henderson S
+- Sanagou M
+- Loughran S
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70030
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

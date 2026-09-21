@@ -34,10 +34,18 @@ mots_cles:
 - Radiofrequency
 - Brown Adipogenesis
 - Ucp1-dependent Thermogenesis
-auteurs: []
-pmcid: ''
+auteurs:
+- Seewooruttun C
+- Bouguila B
+- Corona A
+- Delanaud S
+- Bodin R
+- Bach V
+- Desailloud R
+- Pelletier A
+pmcid: PMC11942954
 volume: ''
-pages: ''
+pages: '2792'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

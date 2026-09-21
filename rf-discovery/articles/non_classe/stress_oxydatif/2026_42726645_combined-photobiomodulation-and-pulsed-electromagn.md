@@ -19,10 +19,18 @@ mots_cles:
 - Chronic Inflammation
 - Photobiomodulation
 - Redox Signaling
-auteurs: []
+auteurs:
+- Thongyoo K
+- Sinthao O
+- Kamoltheptawin K
+- Kodsomboon W
+- Khunnam W
+- Thoradit T
+- Ahmad M
+- Pooam M
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-12
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

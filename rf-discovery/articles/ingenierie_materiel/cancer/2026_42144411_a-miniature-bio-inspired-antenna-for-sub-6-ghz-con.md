@@ -20,10 +20,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Nahar T
+- Rawat S
+- Das V
+- Pathak P
+- Virdee B
+- Singh SK
+pmcid: PMC13376867
 volume: ''
-pages: ''
+pages: '22362'
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:

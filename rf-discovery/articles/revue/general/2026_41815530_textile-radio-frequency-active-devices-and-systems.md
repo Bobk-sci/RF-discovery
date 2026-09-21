@@ -15,10 +15,18 @@ types:
 - Review
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Song W
+- Chen H
+- Kou Z
+- Chen Z
+- Li J
+- Liu T
+- Fan X
+- Lu W
+pmcid: PMC12972507
 volume: ''
-pages: ''
+pages: '1101'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

@@ -38,10 +38,14 @@ mots_cles:
 - Wi-fi
 - Non-ionising Radiation
 - Electropollution
-auteurs: []
-pmcid: ''
+auteurs:
+- Bijlsma N
+- Conduit R
+- Kennedy G
+- Cohen M
+pmcid: PMC11554657
 volume: ''
-pages: ''
+pages: '1481537'
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires:

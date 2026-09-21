@@ -19,10 +19,13 @@ mots_cles:
 - Radiation
 - Mobile phone
 - Health
-auteurs: []
-pmcid: ''
+auteurs:
+- Elyasi H
+- Ghanbari M
+- Nadri F
+pmcid: PMC11111148
 volume: ''
-pages: ''
+pages: 18-22
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

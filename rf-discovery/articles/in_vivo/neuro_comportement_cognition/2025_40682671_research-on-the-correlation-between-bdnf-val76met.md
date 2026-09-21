@@ -28,10 +28,19 @@ mots_cles:
 - Cognitive function
 - Microwave radiation
 - Dendritic Spines
-auteurs: []
+auteurs:
+- Zhang M
+- Wang Y
+- Zou Y
+- Zhi W
+- Zhao X
+- Niu J
+- Du L
+- Ma L
+- Wang L
 pmcid: ''
 volume: ''
-pages: ''
+pages: '238'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

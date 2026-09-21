@@ -20,10 +20,14 @@ mots_cles:
 - Luteinizing hormone (LH)
 - Follicle-stimulating hormone (FSH)
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Maluin SM
+- Osman K
+- Jaffar FHF
+- Ibrahim SF
+pmcid: PMC8497974
 volume: ''
-pages: ''
+pages: '732420'
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

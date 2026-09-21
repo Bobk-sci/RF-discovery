@@ -14,10 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Hasani P
+- Hashemi SM
+- Sadeqi A
+- Ghalibafan J
+- Mashayekhi V
+pmcid: PMC12216417
 volume: ''
-pages: ''
+pages: '22801'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

@@ -20,10 +20,20 @@ mots_cles:
 - Dementia
 - Non-ionizing Radiation
 - Cellphone
-auteurs: []
-pmcid: ''
+auteurs:
+- Shirbandi K
+- Khalafi M
+- J Bevelacqua J
+- Sadeghian N
+- Adiban S
+- Bahaeddini Zarandi F
+- Mortazavi SA
+- Mortazavi SH
+- Mortazavi SMJ
+- S Welsh J
+pmcid: PMC9923247
 volume: ''
-pages: ''
+pages: 3-16
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

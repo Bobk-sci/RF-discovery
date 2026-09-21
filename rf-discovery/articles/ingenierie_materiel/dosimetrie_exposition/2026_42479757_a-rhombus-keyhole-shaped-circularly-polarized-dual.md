@@ -20,10 +20,12 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Vasugi N
+- Karthikeyan M
+pmcid: PMC13387530
 volume: ''
-pages: ''
+pages: e0354130
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:

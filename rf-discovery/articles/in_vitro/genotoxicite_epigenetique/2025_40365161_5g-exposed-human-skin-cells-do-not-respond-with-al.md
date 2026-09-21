@@ -18,10 +18,16 @@ mots_cles:
 - Electromagnetic fields
 - systems biology
 - 5G Radiofrequency
-auteurs: []
-pmcid: ''
+auteurs:
+- Jyoti J
+- Gronau I
+- Cakir E
+- Hütt MT
+- Lerchl A
+- Meyer V
+pmcid: PMC12070386
 volume: ''
-pages: ''
+pages: pgaf127
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []

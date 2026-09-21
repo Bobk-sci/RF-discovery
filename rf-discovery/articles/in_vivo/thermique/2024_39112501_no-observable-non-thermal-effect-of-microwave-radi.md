@@ -18,10 +18,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Hammarin G
+- Norder P
+- Harimoorthy R
+- Chen G
+- Berntsen P
+- Widlund PO
+- Stoij C
+- Rodilla H
+- Swenson J
+- Brändén G
+- Neutze R
+pmcid: PMC11306338
 volume: ''
-pages: ''
+pages: '18286'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

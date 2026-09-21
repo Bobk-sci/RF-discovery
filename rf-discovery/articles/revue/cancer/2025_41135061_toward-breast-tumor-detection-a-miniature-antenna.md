@@ -20,10 +20,14 @@ types:
 - Review
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Amaria S
+- Keltouma N
+- Turkiya A
+- Mehdi D
 pmcid: ''
 volume: ''
-pages: ''
+pages: 47-59
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -19,10 +19,21 @@ mots_cles:
 - Single-cell Analysis
 - Hepatic Zonation
 - Single-cell Transcriptome
-auteurs: []
-pmcid: ''
+auteurs:
+- Zhang M
+- Lv Z
+- Zhao L
+- Zeng Q
+- Wu Y
+- Zhou J
+- Xi J
+- Pei X
+- Wang H
+- Li C
+- Yue W
+pmcid: PMC12245793
 volume: ''
-pages: ''
+pages: '1579121'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

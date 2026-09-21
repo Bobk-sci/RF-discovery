@@ -28,10 +28,14 @@ mots_cles:
 - Electromagnetic field
 - Vegfa
 - Hif1a
-auteurs: []
-pmcid: ''
+auteurs:
+- Çakmak E
+- Bilgici B
+- Engiz BK
+- Kocaman A
+pmcid: PMC12909949
 volume: ''
-pages: ''
+pages: '6387'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

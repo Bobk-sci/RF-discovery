@@ -26,10 +26,15 @@ mots_cles:
 - Meander Line
 - Carrier Link Margin
 - Data Link Margin
-auteurs: []
-pmcid: ''
+auteurs:
+- Ghosh S
+- Ekpo SC
+- Elias F
+- Alabi S
+- Gupta B
+pmcid: PMC12158277
 volume: ''
-pages: ''
+pages: '3498'
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

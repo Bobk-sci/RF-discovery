@@ -13,10 +13,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Ayd R Saad A
+- Hassan WM
+- Ibrahim AA
+pmcid: PMC10163037
 volume: ''
-pages: ''
+pages: '7315'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

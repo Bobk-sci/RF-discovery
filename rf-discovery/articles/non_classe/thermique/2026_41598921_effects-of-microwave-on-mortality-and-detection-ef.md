@@ -20,10 +20,17 @@ mots_cles:
 - lethal effects
 - Oryzaephilus surinamensis
 - Storage Stability Of Paddy
-auteurs: []
-pmcid: ''
+auteurs:
+- Miao S
+- Zhou Y
+- Wang S
+- Yang Z
+- Guverinoma A
+- Zhao Y
+- Lu Y
+pmcid: PMC12841991
 volume: ''
-pages: ''
+pages: '67'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

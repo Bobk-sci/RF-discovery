@@ -28,10 +28,15 @@ mots_cles:
 - Antenna Miniaturization
 - Active Electromagnetic Protective Measure
 - Near‐field Electromagnetic Exposure
-auteurs: []
+auteurs:
+- Zhou WY
+- Luo MF
+- Wang PP
+- Li YX
+- Lu M
 pmcid: ''
 volume: ''
-pages: ''
+pages: e70055
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

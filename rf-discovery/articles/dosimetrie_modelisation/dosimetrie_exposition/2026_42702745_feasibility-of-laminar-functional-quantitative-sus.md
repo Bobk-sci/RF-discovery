@@ -12,7 +12,13 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Straub S
+- Zhou X
+- Tao S
+- Westerhold EM
+- Jin J
+- Middlebrooks EH
 pmcid: ''
 volume: ''
 pages: ''

@@ -26,10 +26,13 @@ mots_cles:
 - Tissue Regeneration
 - Super-low-intensity Microwave Field
 - Weak Electromagnetic Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Artamonov MY
+- Pyatakovich FA
+- Minenko IA
+pmcid: PMC11855362
 volume: ''
-pages: ''
+pages: '1705'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

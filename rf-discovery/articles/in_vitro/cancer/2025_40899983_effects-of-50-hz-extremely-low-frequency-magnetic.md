@@ -22,10 +22,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Tekam CKS
+- Kumari P
+- Sahi AK
+- Gundu S
+- Mahto SK
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1108-1124
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires: []

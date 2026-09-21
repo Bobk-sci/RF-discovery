@@ -2,33 +2,44 @@
 pmid: '32013005'
 doi: 10.3390/ijerph17030819
 annee: 2020
-journal: International journal of environmental research and public health
+journal: ''
 titre: Apoptotic Effect of 1800 MHz Electromagnetic Radiation on NIH/3T3 Cells.
 url: https://pubmed.ncbi.nlm.nih.gov/32013005/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- NIH 3T3 Cells
+- Mitochondria
 - Animals
+- Mice
 - Apoptosis
 - Cell Survival
-- Electromagnetic Radiation
-- Mice
-- Mitochondria
-- NIH 3T3 Cells
 - Tumor Suppressor Protein p53
+- Electromagnetic Radiation
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles:
-- cell apoptosis
-- electromagnetic radiation
-- mitochondria
+- Mitochondria
 - p53
-auteurs: []
-pmcid: ''
+- Cell Apoptosis
+- Electromagnetic Radiation
+auteurs:
+- Li DY
+- Song JD
+- Liang ZY
+- Oskouei K
+- Xiao XQ
+- Hou WZ
+- Li JT
+- Yang YS
+- Wang ML
+- Murbach M
+pmcid: PMC7037840
 volume: ''
-pages: ''
+pages: E819
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:
@@ -53,7 +64,7 @@ theme_indices:
 
 # Apoptotic Effect of 1800 MHz Electromagnetic Radiation on NIH/3T3 Cells.
 
-*International journal of environmental research and public health — 2020*
+*journal non renseigné — 2020*
 
 ## Résumé (texte d'origine)
 

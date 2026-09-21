@@ -19,10 +19,16 @@ mots_cles:
 - Non-ionizing Radiation
 - Radio Frequency Electromagnetic Field
 - Broadcasting Antennas
-auteurs: []
-pmcid: ''
+auteurs:
+- Agrahari M
+- Gupta S
+- Thakur G
+- Tanwar S
+- Gautam R
+- Arora T
+pmcid: PMC13355819
 volume: ''
-pages: ''
+pages: '102705'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

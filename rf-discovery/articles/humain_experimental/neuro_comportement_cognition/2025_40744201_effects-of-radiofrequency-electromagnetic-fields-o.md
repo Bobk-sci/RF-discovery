@@ -32,10 +32,16 @@ mots_cles:
 - Cognitive Performance
 - Digital Radio
 - Rf-emf Exposure
-auteurs: []
+auteurs:
+- Sauter C
+- Dorn H
+- Bueno-Lopez A
+- Eggert T
+- Schmid G
+- Danker-Hopfe H
 pmcid: ''
 volume: ''
-pages: ''
+pages: '122479'
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires:

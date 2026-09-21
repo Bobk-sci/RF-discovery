@@ -27,10 +27,14 @@ mots_cles:
 - Radon
 - Effective dose
 - Occupational Safety
-auteurs: []
+auteurs:
+- Sahmaran T
+- Nur S
+- Atılgan HI
+- Peker H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 449-456
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

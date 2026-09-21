@@ -18,10 +18,14 @@ mots_cles:
 - 5G
 - Wearable Antenna
 - Conductive Fabric
-auteurs: []
-pmcid: ''
+auteurs:
+- Hussain M
+- Awan WA
+- Abbas SM
+- Zhu Y
+pmcid: PMC13534586
 volume: ''
-pages: ''
+pages: '27483'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

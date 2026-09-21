@@ -32,10 +32,19 @@ mots_cles:
 - Sperm quality
 - Emotions
 - Radiofrequency Radiation
-auteurs: []
+auteurs:
+- Zhaowen Z
+- Ling G
+- Guiqiang Z
+- Jiajin L
+- Tongzhou Q
+- Jiangyi L
+- Jing L
+- Fuli W
+- Guirong D
 pmcid: ''
 volume: ''
-pages: ''
+pages: '109139'
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires: []

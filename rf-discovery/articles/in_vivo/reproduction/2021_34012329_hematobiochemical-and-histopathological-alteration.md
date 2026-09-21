@@ -19,10 +19,14 @@ mots_cles:
 - Serum creatinine
 - Haematology
 - Mobile Phone Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Hasan I
+- Amin T
+- Alam MR
+- Islam MR
+pmcid: PMC8117002
 volume: ''
-pages: ''
+pages: 2933-2942
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:

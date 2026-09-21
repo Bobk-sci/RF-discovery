@@ -35,10 +35,20 @@ mots_cles:
 - Mc1r
 - Radiofrequency Electromagnetic Fields
 - Phospho-creb
-auteurs: []
-pmcid: ''
+auteurs:
+- Kim JH
+- Kang DJ
+- Seok JY
+- Kim MH
+- Kim DS
+- Jeon SB
+- Choi HD
+- Moon JI
+- Kim N
+- Kim HR
+pmcid: PMC11595227
 volume: ''
-pages: ''
+pages: '12457'
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

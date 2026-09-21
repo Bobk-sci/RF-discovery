@@ -19,10 +19,12 @@ mots_cles:
 - Low-cost Sensors
 - Participatory Monitoring
 - 5G Rf-emf Monitoring
-auteurs: []
-pmcid: ''
+auteurs:
+- Rathebe PC
+- Kholopo M
+pmcid: PMC12845799
 volume: ''
-pages: ''
+pages: '533'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

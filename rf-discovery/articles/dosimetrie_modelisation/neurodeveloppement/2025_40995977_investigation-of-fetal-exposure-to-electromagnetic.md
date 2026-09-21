@@ -26,10 +26,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- İl N
+- Ateş K
+- Özen Ş
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1188-1200
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

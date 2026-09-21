@@ -21,10 +21,13 @@ mots_cles:
 - Electromagnetic Radiation (Emr)
 - Specific Absorption Rate (Sar)
 - Open Loop Resonator (Olr)
-auteurs: []
+auteurs:
+- L M
+- S A
+- Menon SK
 pmcid: ''
 volume: ''
-pages: ''
+pages: 184-200
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:

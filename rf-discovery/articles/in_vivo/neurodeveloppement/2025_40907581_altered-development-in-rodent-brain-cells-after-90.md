@@ -2,45 +2,56 @@
 pmid: '40907581'
 doi: 10.1016/j.neuro.2025.103312
 annee: 2025
-journal: Neurotoxicology
+journal: ''
 titre: Altered development in rodent brain cells after 900 MHz radiofrequency exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/40907581/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Male
+- Brain
 - Animals
-- Mice
 - Mice, Inbred C57BL
-- Proteomics
+- Mice
+- Rats, Sprague-Dawley
 - Brain-Derived Neurotrophic Factor
 - Bromodeoxyuridine
+- Whole-Body Irradiation
+- Proteomics
 - Cell Proliferation
 - Oxidative Stress
-- Brain
-- Absorption, Radiation
 - Radio Waves
 - Female
-- Rats, Sprague-Dawley
-- Whole-Body Irradiation
-- Cell Phone
+- Male
 - Neurogenesis
+- Absorption, Radiation
 - Oligodendrocyte Precursor Cells
+- Cell Phone
 types:
 - Journal Article
 mots_cles:
+- Proliferation
 - Neurodevelopment
+- Synaptogenesis
+- Stem Cells
 - Neuroproteomics
 - Neurotoxicology
-- Proliferation
-- Radiofrequency fields
-- Stem cells
-- Synaptogenesis
-auteurs: []
+- Radiofrequency Fields
+auteurs:
+- Bodin R
+- Godin L
+- Mougin C
+- Lecomte A
+- Larrigaldie V
+- Feat-Vetel J
+- Méresse S
+- Montécot-Dubourg C
+- Marcelo P
+- Mortaud S
+- Villegier AS
 pmcid: ''
 volume: ''
-pages: ''
+pages: '103312'
 modele: in_vivo
 modele_score: 13.0
 modele_secondaires:
@@ -69,7 +80,7 @@ theme_indices:
 
 # Altered development in rodent brain cells after 900 MHz radiofrequency exposure.
 
-*Neurotoxicology — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

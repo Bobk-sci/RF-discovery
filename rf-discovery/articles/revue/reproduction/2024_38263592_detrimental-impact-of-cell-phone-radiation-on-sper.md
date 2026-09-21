@@ -16,10 +16,14 @@ mots_cles:
 - Sperm quality
 - Infertility, Male
 - Mobile Phone Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Koohestanidehaghi Y
+- Khalili MA
+- Dehghanpour F
+- Seify M
+pmcid: PMC10914500
 volume: ''
-pages: ''
+pages: 13-19
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

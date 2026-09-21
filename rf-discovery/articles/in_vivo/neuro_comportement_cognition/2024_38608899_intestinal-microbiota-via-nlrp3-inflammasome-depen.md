@@ -29,10 +29,22 @@ mots_cles:
 - Radiofrequency Radiation
 - Pyroptosis
 - Gut Microbe
-auteurs: []
+auteurs:
+- Zhou GQ
+- Wang X
+- Gao P
+- Qin TZ
+- Guo L
+- Zhang ZW
+- Huang ZF
+- Lin JJ
+- Jing YT
+- Wang HN
+- Wang CP
+- Ding GR
 pmcid: ''
 volume: ''
-pages: ''
+pages: '172391'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

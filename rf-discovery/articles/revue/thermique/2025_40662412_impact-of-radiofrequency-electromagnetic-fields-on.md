@@ -29,10 +29,12 @@ mots_cles:
 - Heart rate
 - Radiofrequency
 - heart rate variability
-auteurs: []
-pmcid: ''
+auteurs:
+- Michelant L
+- Selmaoui B
+pmcid: PMC12261433
 volume: ''
-pages: ''
+pages: e70014
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

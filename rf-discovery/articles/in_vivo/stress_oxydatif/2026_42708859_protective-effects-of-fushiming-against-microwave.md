@@ -18,10 +18,20 @@ mots_cles:
 - VEGF
 - Microwave radiation
 - Fushiming Capsule
-auteurs: []
+auteurs:
+- Chen Y
+- Wang K
+- Yang S
+- Cao J
+- Ma J
+- Qiao Y
+- Lei L
+- Feng B
+- Liu S
+- Yang Z
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-11
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

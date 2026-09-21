@@ -26,10 +26,17 @@ mots_cles:
 - Health Effects
 - Dose Limits
 - Exposure, Radiofrequency
-auteurs: []
+auteurs:
+- Kojima M
+- Tasaki T
+- Kamijo T
+- Hada A
+- Suzuki Y
+- Ikehata M
+- Sasaki H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 557-564
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

@@ -20,10 +20,16 @@ mots_cles:
 - Wi-max
 - Body-centric Antenna
 - Muti-band Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Awan WA
+- Abbas A
+- Naqvi SI
+- Elkamchouchi DH
+- Aslam M
+- Hussain N
+pmcid: PMC10609033
 volume: ''
-pages: ''
+pages: '1842'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

@@ -19,10 +19,16 @@ mots_cles:
 - Artifacts
 - Radiology
 - Bariatric
-auteurs: []
+auteurs:
+- Martín-Noguerol T
+- Escartín J
+- Vidal-Cameán C
+- Díaz-Carreño JR
+- López-Úbeda P
+- Luna A
 pmcid: ''
 volume: ''
-pages: ''
+pages: S1076-6332(26)00722-1
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

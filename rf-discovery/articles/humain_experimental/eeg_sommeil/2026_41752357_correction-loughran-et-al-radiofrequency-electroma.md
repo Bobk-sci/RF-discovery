@@ -15,10 +15,18 @@ types:
 - Published Erratum
 - correction
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Loughran SP
+- Verrender A
+- Dalecki A
+- Burdon CA
+- Tagami K
+- Park J
+- Taylor NAS
+- Croft RJ
+pmcid: PMC12940856
 volume: ''
-pages: ''
+pages: '157'
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires: []

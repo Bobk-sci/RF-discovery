@@ -26,10 +26,19 @@ mots_cles:
 - Alu
 - Line-1
 - Radiofrequency Electromagnetic Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Ravaioli F
+- Bacalini MG
+- Giuliani C
+- Pellegrini C
+- D'Silva C
+- De Fanti S
+- Pirazzini C
+- Giorgi G
+- Del Re B
+pmcid: PMC10253908
 volume: ''
-pages: ''
+pages: '9380'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

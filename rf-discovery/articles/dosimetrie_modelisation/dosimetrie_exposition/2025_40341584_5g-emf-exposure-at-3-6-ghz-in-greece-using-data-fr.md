@@ -20,10 +20,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Iakovidis S
+- Manassas A
+- Apostolidis C
+- Samaras T
+pmcid: PMC12060845
 volume: ''
-pages: ''
+pages: e70008
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

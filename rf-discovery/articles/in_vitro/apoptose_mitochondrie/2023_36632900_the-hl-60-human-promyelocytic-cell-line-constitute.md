@@ -2,38 +2,43 @@
 pmid: '36632900'
 doi: 10.1016/j.scitotenv.2023.161475
 annee: 2023
-journal: The Science of the total environment
+journal: ''
 titre: The HL-60 human promyelocytic cell line constitutes an effective in vitro model
   for evaluating toxicity, oxidative stress and necrosis/apoptosis after exposure
   to black carbon particles and 2.45 GHz radio frequency.
 url: https://pubmed.ncbi.nlm.nih.gov/36632900/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
 - HL-60 Cells
-- Apoptosis
+- Humans
 - Necrosis
-- Radio Waves
-- Oxidative Stress
 - Carbon
+- Apoptosis
+- Oxidative Stress
 - Electromagnetic Fields
+- Radio Waves
 types:
 - Journal Article
 mots_cles:
-- BCL2a/FASR/CASP3 genes
-- Black carbon
-- Caspase-3/8 proteins
 - Electromagnetic fields
-- Gigahertz transverse electromagnetic cell
-- HL-60 promyelocytic cell line
+- Black Carbon
+- Specific Absorption Rate
 - Necrosis/apoptosis
-- Specific absorption rate
-auteurs: []
+- Gigahertz Transverse Electromagnetic Cell
+- Bcl2a/fasr/casp3 Genes
+- Caspase-3/8 Proteins
+- Hl-60 Promyelocytic Cell Line
+auteurs:
+- Benavides RAS
+- Leiro-Vidal JM
+- Rodriguez-Gonzalez JA
+- Ares-Pena FJ
+- López-Martín E
 pmcid: ''
 volume: ''
-pages: ''
+pages: '161475'
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:
@@ -57,7 +62,7 @@ theme_indices:
 
 # The HL-60 human promyelocytic cell line constitutes an effective in vitro model for evaluating toxicity, oxidative stress and necrosis/apoptosis after exposure to black carbon particles and 2.45 GHz radio frequency.
 
-*The Science of the total environment — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

@@ -19,10 +19,17 @@ mots_cles:
 - reliability
 - Thermal Sensation
 - Perception Threshold
-auteurs: []
-pmcid: ''
+auteurs:
+- Yuasa A
+- Uehara S
+- Ushizawa K
+- Kodera S
+- Arai N
+- Hirata A
+- Otaka Y
+pmcid: PMC10927852
 volume: ''
-pages: ''
+pages: '1331416'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

@@ -33,10 +33,15 @@ mots_cles:
 - Adverse Events
 - Long Term
 - Microwave Therapy
-auteurs: []
+auteurs:
+- Zheng Z
+- Huang L
+- Shang T
+- Ma Y
+- Xu Y
 pmcid: ''
 volume: ''
-pages: ''
+pages: 607-613
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

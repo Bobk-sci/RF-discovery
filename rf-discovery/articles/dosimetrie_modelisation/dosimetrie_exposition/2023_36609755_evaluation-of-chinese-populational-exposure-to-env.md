@@ -28,10 +28,15 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Polynomial Chaos Expansion
 - Deterministic Simulation
-auteurs: []
+auteurs:
+- Jiang Y
+- Wang H
+- Sun X
+- Li C
+- Wu T
 pmcid: ''
 volume: ''
-pages: ''
+pages: 40445-40460
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires:

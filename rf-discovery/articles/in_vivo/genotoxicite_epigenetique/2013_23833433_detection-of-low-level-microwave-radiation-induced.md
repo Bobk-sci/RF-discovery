@@ -18,10 +18,17 @@ mots_cles:
 - Comet assay
 - Microwave radiation
 - Deoxyribonucleic Acid Damage
-auteurs: []
-pmcid: ''
+auteurs:
+- Deshmukh PS
+- Megha K
+- Banerjee BD
+- Ahmed RS
+- Chandna S
+- Abegaonkar MP
+- Tripathi AK
+pmcid: PMC3702122
 volume: ''
-pages: ''
+pages: 19-24
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:

@@ -20,10 +20,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Betzalel N
+- Feldman Y
+- Ben Ishai P
+pmcid: PMC12325998
 volume: ''
-pages: ''
+pages: '28651'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

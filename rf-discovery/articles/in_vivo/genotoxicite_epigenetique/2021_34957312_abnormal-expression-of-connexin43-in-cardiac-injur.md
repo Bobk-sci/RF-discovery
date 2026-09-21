@@ -26,10 +26,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Yin Y
+- Xu X
+- Gao Y
+- Wang J
+- Yao B
+- Zhao L
+- Wang H
+- Wang H
+- Dong J
+- Zhang J
+- Peng R
+pmcid: PMC8709747
 volume: ''
-pages: ''
+pages: '3985697'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:

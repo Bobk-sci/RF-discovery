@@ -20,10 +20,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Dong XW
+- Qian YD
+- Lu M
+pmcid: PMC12077798
 volume: ''
-pages: ''
+pages: e0322735
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

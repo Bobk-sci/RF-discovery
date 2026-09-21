@@ -26,10 +26,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Sirinyildiz F
+- Cesur G
+- Elmas O
+- Elmas S
+- Comlekci S
+- Yazıcı O
+- Keskin A
+- Keskin HE
+pmcid: PMC12131892
 volume: ''
-pages: ''
+pages: e20241812
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

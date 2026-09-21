@@ -19,10 +19,17 @@ mots_cles:
 - Ultra-high Frequency
 - Drying Modelling
 - Electromagnetic Bio Stimulation
-auteurs: []
-pmcid: ''
+auteurs:
+- de Faria RQ
+- Dos Santos ARP
+- Batista TB
+- Gariepy Y
+- da Silva EAA
+- Sartori MMP
+- Raghavan V
+pmcid: PMC10096772
 volume: ''
-pages: ''
+pages: '1477'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

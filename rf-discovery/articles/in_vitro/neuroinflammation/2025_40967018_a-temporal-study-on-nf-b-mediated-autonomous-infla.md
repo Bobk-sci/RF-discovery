@@ -24,10 +24,20 @@ mots_cles:
 - Microwave radiation
 - Inflammatory Factors
 - Ipsc-cms
-auteurs: []
+auteurs:
+- Zhang C
+- Deng W
+- Wang Y
+- Yao B
+- Dong J
+- Liu Z
+- Wang H
+- Xu X
+- Peng R
+- Zhang J
 pmcid: ''
 volume: ''
-pages: ''
+pages: '119067'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -31,10 +31,19 @@ mots_cles:
 - Hpt Axis
 - Rf-emf Exposure
 - Lte Signal
-auteurs: []
-pmcid: ''
+auteurs:
+- Kim HY
+- Son Y
+- Jeong YJ
+- Lee SH
+- Kim N
+- Ahn YH
+- Jeon SB
+- Choi HD
+- Lee HJ
+pmcid: PMC11507962
 volume: ''
-pages: ''
+pages: '10875'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

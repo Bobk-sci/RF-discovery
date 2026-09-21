@@ -18,10 +18,16 @@ mots_cles:
 - Implantable Antenna
 - Ultra-wide Bandwidth
 - Multi-scenario Application
-auteurs: []
-pmcid: ''
+auteurs:
+- Song Z
+- Yang D
+- Wang Y
+- Shi Y
+- Zheng X
+- Wang L
+pmcid: PMC12830933
 volume: ''
-pages: ''
+pages: '3139'
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:

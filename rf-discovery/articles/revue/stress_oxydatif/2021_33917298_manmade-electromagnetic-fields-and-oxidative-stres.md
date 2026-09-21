@@ -33,10 +33,12 @@ mots_cles:
 - Environmental exposure
 - Extremely Low Frequency
 - Environment And Public Health
-auteurs: []
-pmcid: ''
+auteurs:
+- Schuermann D
+- Mevissen M
+pmcid: PMC8038719
 volume: ''
-pages: ''
+pages: '3772'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

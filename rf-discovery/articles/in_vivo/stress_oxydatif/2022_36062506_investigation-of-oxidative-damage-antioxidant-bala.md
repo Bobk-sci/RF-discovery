@@ -2,42 +2,47 @@
 pmid: '36062506'
 doi: 10.1080/15368378.2022.2117187
 annee: 2022
-journal: Electromagnetic biology and medicine
+journal: ''
 titre: Investigation of oxidative damage, antioxidant balance, DNA repair genes, and
   apoptosis due to radiofrequency-induced adaptive response in mice.
 url: https://pubmed.ncbi.nlm.nih.gov/36062506/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
 - Animals
-- Male
 - Mice
+- DNA Damage
+- Reactive Oxygen Species
+- DNA Glycosylases
+- Catalase
+- Superoxide Dismutase
+- Bleomycin
 - Adenosine Diphosphate
 - Antioxidants
 - Apoptosis
-- Bleomycin
-- Catalase
-- DNA Damage
-- DNA Glycosylases
 - DNA Repair
 - Oxidative Stress
-- Poly(ADP-ribose) Polymerase Inhibitors
-- Reactive Oxygen Species
-- Superoxide Dismutase
+- Male
 - Tumor Suppressor Protein p53
+- Poly(ADP-ribose) Polymerase Inhibitors
 types:
 - Journal Article
 mots_cles:
-- DNA oxidative damage
-- Radiofrequency radiation
-- adaptive response
-- bleomycin
-- stress response
-auteurs: []
+- Adaptive response
+- Bleomycin
+- Stress response
+- Radiofrequency Radiation
+- Dna Oxidative Damage
+auteurs:
+- Kucukbagriacik Y
+- Dastouri M
+- Ozgur-Buyukatalay E
+- Akarca Dizakar O
+- Yegin K
 pmcid: ''
 volume: ''
-pages: ''
+pages: 389-401
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -63,7 +68,7 @@ theme_indices:
 
 # Investigation of oxidative damage, antioxidant balance, DNA repair genes, and apoptosis due to radiofrequency-induced adaptive response in mice.
 
-*Electromagnetic biology and medicine — 2022*
+*journal non renseigné — 2022*
 
 ## Résumé (texte d'origine)
 

@@ -2,38 +2,40 @@
 pmid: '41487623'
 doi: 10.3389/fpubh.2025.1677583
 annee: 2025
-journal: Frontiers in public health
+journal: ''
 titre: 'U.S. policy on wireless technologies and public health protection: regulatory
   gaps and proposed reforms.'
 url: https://pubmed.ncbi.nlm.nih.gov/41487623/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
 - Humans
-- United States
 - Public Health
-- Wireless Technology
 - Environmental Exposure
+- Radio Waves
 - Government Regulation
 - Health Policy
-- Radio Waves
+- United States
+- Wireless Technology
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
+- Electromagnetic fields
+- Wireless Technology
+- Cell Phone
 - Federal Communications Commission
-- ICNIRP
-- cell phone
-- cell tower
-- electromagnetic fields
-- non-ionizing
-- radio-frequency
-- wireless technology
-auteurs: []
-pmcid: ''
+- Radio-frequency
+- Non-ionizing
+- Icnirp
+- Cell Tower
+auteurs:
+- Scarato T
+pmcid: PMC12758153
 volume: ''
-pages: ''
+pages: '1677583'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -52,7 +54,7 @@ theme_indices:
 
 # U.S. policy on wireless technologies and public health protection: regulatory gaps and proposed reforms.
 
-*Frontiers in public health — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

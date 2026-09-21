@@ -2,40 +2,55 @@
 pmid: '40243492'
 doi: 10.3390/ijms26072871
 annee: 2025
-journal: International journal of molecular sciences
+journal: ''
 titre: The Impact of 9.375 GHz Microwave Radiation on the Emotional and Cognitive
   Abilities of Mice.
 url: https://pubmed.ncbi.nlm.nih.gov/40243492/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- Brain
 - Animals
-- Microwaves
 - Mice
+- Reactive Oxygen Species
+- Malondialdehyde
+- Catalase
+- Glutathione Peroxidase
+- Superoxide Dismutase
+- Antioxidants
+- Emotions
 - Cognition
 - Oxidative Stress
+- Microwaves
 - Male
-- Emotions
-- Reactive Oxygen Species
-- Glutathione Peroxidase
-- Antioxidants
-- Brain
-- Superoxide Dismutase
-- Catalase
-- Malondialdehyde
 types:
+- research-article
 - Journal Article
 mots_cles:
-- 9.375 GHz
+- Oxidative stress
+- Microwave radiation
 - emotion
-- learning and cognitive ability
-- microwave radiation
-- oxidative stress
-auteurs: []
-pmcid: ''
+- 9.375 Ghz
+- Learning And Cognitive Ability
+auteurs:
+- Wang X
+- Zhao X
+- Xu J
+- Li M
+- Sun B
+- Gao A
+- Zhang L
+- Wu S
+- Liu X
+- Zou D
+- Li Z
+- Dong G
+- Zhang C
+- Wang C
+pmcid: PMC11988873
 volume: ''
-pages: ''
+pages: '2871'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -60,7 +75,7 @@ theme_indices:
 
 # The Impact of 9.375 GHz Microwave Radiation on the Emotional and Cognitive Abilities of Mice.
 
-*International journal of molecular sciences — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

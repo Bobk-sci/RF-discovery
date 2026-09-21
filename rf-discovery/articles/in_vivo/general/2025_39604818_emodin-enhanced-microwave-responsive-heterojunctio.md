@@ -27,10 +27,17 @@ mots_cles:
 - Dielectric Losses
 - Heterogeneous Interfaces
 - Microwave Response
-auteurs: []
-pmcid: ''
+auteurs:
+- Xu T
+- Cheng H
+- Pei H
+- Wang J
+- Shi Y
+- Zhang X
+- Huang D
+pmcid: PMC11744657
 volume: ''
-pages: ''
+pages: e2409979
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

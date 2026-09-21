@@ -22,10 +22,12 @@ mots_cles:
 - Hematological
 - Lte Signals
 - Thermographic Changes
-auteurs: []
-pmcid: ''
+auteurs:
+- Aghaa OB
+- Hameed BK
+pmcid: PMC11682759
 volume: ''
-pages: ''
+pages: 2837-2847
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

@@ -18,10 +18,11 @@ mots_cles:
 - Plastic Waste Recycling Technologies
 - Industrial Electrification
 - Microwave-assisted Processes
-auteurs: []
-pmcid: ''
+auteurs:
+- Niño CG
+pmcid: PMC12891532
 volume: ''
-pages: ''
+pages: '5636'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

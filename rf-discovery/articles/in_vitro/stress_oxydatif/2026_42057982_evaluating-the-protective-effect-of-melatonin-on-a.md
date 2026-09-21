@@ -20,10 +20,14 @@ mots_cles:
 - Fibroblasts
 - Radiofrequency
 - L929 Cells
-auteurs: []
-pmcid: ''
+auteurs:
+- Fardid R
+- Zaker F
+- Haghani M
+- Saberzadeh J
+pmcid: PMC13122364
 volume: ''
-pages: ''
+pages: 131-138
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires: []

@@ -13,7 +13,12 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- TUR K
+- VAROL S
+- ERBAŞ T
+- ASLAN D
+- TAN FC
 pmcid: ''
 volume: ''
 pages: ''

@@ -19,10 +19,17 @@ mots_cles:
 - skin temperature
 - Electromagnetic Fields Exposure
 - 5G
-auteurs: []
-pmcid: ''
+auteurs:
+- Michelant L
+- Delanaud S
+- Hugueville L
+- Leveque P
+- Bach V
+- Tourneux P
+- Selmaoui B
+pmcid: PMC13287763
 volume: ''
-pages: ''
+pages: '19461'
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

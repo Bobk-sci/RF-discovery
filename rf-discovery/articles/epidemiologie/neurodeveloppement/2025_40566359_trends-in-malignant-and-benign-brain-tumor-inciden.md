@@ -36,10 +36,12 @@ mots_cles:
 - incidence
 - Time Trends
 - Seer
-auteurs: []
-pmcid: ''
+auteurs:
+- Zhang L
+- Muscat JE
+pmcid: PMC12193503
 volume: ''
-pages: ''
+pages: '933'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

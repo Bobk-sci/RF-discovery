@@ -13,7 +13,15 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Ahmed AT
+- Binhambali A
+- Umar AH
+- Tekanyi AA
+- Pate AA
+- Nuhu A
+- Ipinlaiye T
+- Magaji RA
 pmcid: ''
 volume: ''
 pages: ''

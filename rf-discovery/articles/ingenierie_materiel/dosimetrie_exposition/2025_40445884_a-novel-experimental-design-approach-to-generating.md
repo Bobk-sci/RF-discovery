@@ -19,10 +19,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Noor SK
+- Ismail AM
+- Elamin NIM
+- Mohd Yasin MN
+- Osman MN
+- Soh PJ
+- Ramli N
+- Rambe AH
+- Ashyap AYI
+pmcid: PMC12124574
 volume: ''
-pages: ''
+pages: e0310113
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

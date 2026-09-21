@@ -18,10 +18,15 @@ mots_cles:
 - Electromagnetic field
 - Corticosterone
 - Fear Memory
-auteurs: []
-pmcid: ''
+auteurs:
+- Dehghani Z
+- Mahdavi SM
+- Modarresi Chahardehi A
+- Mansouri V
+- Jahani Sherafat S
+pmcid: PMC10082905
 volume: ''
-pages: ''
+pages: e52
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

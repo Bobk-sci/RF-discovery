@@ -26,10 +26,18 @@ mots_cles:
 - Wireless Communication
 - 2.4 Ghz Wi-fi Exposure
 - Fatty Acid Composition Of Membrane And Depot Fats
-auteurs: []
+auteurs:
+- Dasdag S
+- Akdag MZ
+- Bashan M
+- Kizmaz V
+- Erdal N
+- Emin Erdal M
+- Tughan Kiziltug M
+- Yegin K
 pmcid: ''
 volume: ''
-pages: ''
+pages: 281-292
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

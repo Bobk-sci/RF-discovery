@@ -19,10 +19,12 @@ mots_cles:
 - Electromagnetic Exposure
 - V2v Communications
 - Monopole Array Antenna
-auteurs: []
-pmcid: ''
+auteurs:
+- Wang S
+- Lu M
+pmcid: PMC12116098
 volume: ''
-pages: ''
+pages: '3247'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

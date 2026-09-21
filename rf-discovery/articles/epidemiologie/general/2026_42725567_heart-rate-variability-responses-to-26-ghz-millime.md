@@ -19,10 +19,18 @@ mots_cles:
 - Heart-rate Variability
 - Electromagnetic Fields Exposure
 - 5G
-auteurs: []
+auteurs:
+- Michelant L
+- Jamal L
+- Stephan Blanchard E
+- Baz T
+- Leveille Nizerolle B
+- Hugueville L
+- Leveque P
+- Selmaoui B
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1-13
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

@@ -20,10 +20,17 @@ mots_cles:
 - Cerebellum
 - Mobile phone
 - Gene Expression
-auteurs: []
-pmcid: ''
+auteurs:
+- Ghatei N
+- Nabavi AS
+- Toosi MHB
+- Azimian H
+- Homayoun M
+- Targhi RG
+- Haghir H
+pmcid: PMC5651457
 volume: ''
-pages: ''
+pages: 1037-1043
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

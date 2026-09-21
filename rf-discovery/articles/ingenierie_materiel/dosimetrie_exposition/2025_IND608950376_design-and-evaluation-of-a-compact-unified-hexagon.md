@@ -13,10 +13,12 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Burra AS
+- Roy B
 pmcid: ''
 volume: ''
-pages: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

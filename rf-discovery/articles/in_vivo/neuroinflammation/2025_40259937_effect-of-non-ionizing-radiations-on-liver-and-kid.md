@@ -20,10 +20,14 @@ mots_cles:
 - Non-ionizing
 - Wi-fi Signals
 - Jammer Signals
-auteurs: []
-pmcid: ''
+auteurs:
+- Farahani S
+- Kadivar F
+- Khajeh F
+- Shojaeifard MB
+pmcid: PMC12009467
 volume: ''
-pages: ''
+pages: 125-136
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

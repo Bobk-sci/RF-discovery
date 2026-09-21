@@ -19,10 +19,14 @@ mots_cles:
 - Radiofrequency
 - Enterococcus faecalis
 - Anti-bacterial Agents
-auteurs: []
-pmcid: ''
+auteurs:
+- Mortazavi SMJ
+- Taheri M
+- Paknahad M
+- Khandadash S
+pmcid: PMC9395628
 volume: ''
-pages: ''
+pages: 387-394
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

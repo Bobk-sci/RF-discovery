@@ -28,10 +28,27 @@ mots_cles:
 - Radiofrequency
 - Mitotic Spindle
 - 1.6 Ghz
-auteurs: []
-pmcid: ''
+auteurs:
+- Massaro L
+- De Sanctis S
+- Franchini V
+- Regalbuto E
+- Alfano G
+- Focaccetti C
+- Benvenuto M
+- Cifaldi L
+- Sgura A
+- Berardinelli F
+- Marinaccio J
+- Barbato F
+- Rossi E
+- Nardozi D
+- Masuelli L
+- Bei R
+- Lista F
+pmcid: PMC11323689
 volume: ''
-pages: ''
+pages: '1419525'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:

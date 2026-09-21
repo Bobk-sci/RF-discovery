@@ -25,10 +25,12 @@ mots_cles:
 - Ehs
 - Electromagnetic Hypersensitivity
 - Cryptochromes
-auteurs: []
+auteurs:
+- Henshaw DL
+- Philips A
 pmcid: ''
 volume: ''
-pages: ''
+pages: 186-204
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

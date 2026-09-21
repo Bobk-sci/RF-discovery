@@ -28,10 +28,19 @@ mots_cles:
 - Reproductive Health
 - Kegg
 - Rf-emfs
-auteurs: []
-pmcid: ''
+auteurs:
+- Miao X
+- Lin Y
+- Guo J
+- Lin J
+- Gao P
+- Zhang W
+- Zeng L
+- Guo G
+- Li J
+pmcid: PMC12493145
 volume: ''
-pages: ''
+pages: '1623701'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

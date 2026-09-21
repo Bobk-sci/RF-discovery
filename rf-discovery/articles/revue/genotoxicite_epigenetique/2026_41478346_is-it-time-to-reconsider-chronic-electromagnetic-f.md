@@ -26,10 +26,13 @@ mots_cles:
 - Electromagnetic fields
 - Mouth neoplasms
 - Cell Phone
-auteurs: []
+auteurs:
+- Krishnasamy N
+- K HS
+- K HS
 pmcid: ''
 volume: ''
-pages: ''
+pages: '102703'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -19,7 +19,18 @@ mots_cles:
 - Electromagnetic Safety
 - Low Frequencies
 - Uniform Magnetic Field
-auteurs: []
+auteurs:
+- Gázquez J
+- Camacho Cadena C
+- He W
+- Yamada E
+- Alteköster C
+- Soyka F
+- Laakso I
+- Hirata A
+- Joseph W
+- Tarnaud T
+- Tanghe E
 pmcid: ''
 volume: ''
 pages: ''

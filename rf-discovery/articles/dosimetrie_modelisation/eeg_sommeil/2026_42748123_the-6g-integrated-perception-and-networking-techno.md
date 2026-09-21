@@ -19,10 +19,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Chen H
+- Wang X
+- Yuan L
+- Gong J
+pmcid: PMC13581032
 volume: ''
-pages: ''
+pages: e0347398
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

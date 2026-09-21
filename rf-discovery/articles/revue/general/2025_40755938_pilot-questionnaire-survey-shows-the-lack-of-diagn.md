@@ -18,10 +18,11 @@ mots_cles:
 - Idiopathic Environmental Intolerance Attributed To Electromagnetic Fields (Iei-emf)
 - Electromagnetic Hypersensitivity (Ehs)
 - Biomarkers Of Ehs
-auteurs: []
-pmcid: ''
+auteurs:
+- Leszczynski D
+pmcid: PMC12314686
 volume: ''
-pages: ''
+pages: '35'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

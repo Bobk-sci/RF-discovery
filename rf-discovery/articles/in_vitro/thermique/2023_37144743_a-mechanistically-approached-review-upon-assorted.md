@@ -25,10 +25,12 @@ mots_cles:
 - Health Effect
 - Carcinoma Treatment
 - Non-thermal Emf
-auteurs: []
-pmcid: ''
+auteurs:
+- Askaripour K
+- Żak A
+pmcid: PMC10228405
 volume: ''
-pages: ''
+pages: 1319-1342
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:

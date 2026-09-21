@@ -27,10 +27,12 @@ mots_cles:
 - Alzheimer’s Disease (Ad)
 - Radiofrequency Radiation Exposure (Rf)
 - Therapy And Harmful Effects
-auteurs: []
+auteurs:
+- Bektas H
+- Dasdag S
 pmcid: ''
 volume: ''
-pages: ''
+pages: 559-571
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

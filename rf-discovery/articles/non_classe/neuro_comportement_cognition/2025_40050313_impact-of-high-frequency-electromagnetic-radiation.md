@@ -25,10 +25,12 @@ mots_cles:
 - Growth Rate
 - Bacterial Sensitivity
 - Extremely High-frequency Electromagnetic Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Hegazy EA
+- El-Antrawy MA
+pmcid: PMC11885522
 volume: ''
-pages: ''
+pages: '7852'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

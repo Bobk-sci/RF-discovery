@@ -23,10 +23,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Christ A
+- Niskala K
+- Joyner KH
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1154-1162
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

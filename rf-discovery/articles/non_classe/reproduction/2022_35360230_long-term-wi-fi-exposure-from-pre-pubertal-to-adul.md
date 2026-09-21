@@ -20,10 +20,15 @@ mots_cles:
 - Children
 - Spermatogonia
 - Wi-fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Jaffar FHF
+- Osman K
+- Hui CK
+- Zulkefli AF
+- Ibrahim SF
+pmcid: PMC8963498
 volume: ''
-pages: ''
+pages: '828578'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

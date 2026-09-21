@@ -22,10 +22,19 @@ mots_cles:
 - Radio-frequency Fields
 - 3.5 Ghz
 - 5G Signal
-auteurs: []
-pmcid: ''
+auteurs:
+- Canovi A
+- Orlacchio R
+- Poulletier de Gannes F
+- Lévêque P
+- Arnaud-Cormos D
+- Lagroye I
+- Garenne A
+- Percherancier Y
+- Lewis N
+pmcid: PMC10441122
 volume: ''
-pages: ''
+pages: '1231360'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

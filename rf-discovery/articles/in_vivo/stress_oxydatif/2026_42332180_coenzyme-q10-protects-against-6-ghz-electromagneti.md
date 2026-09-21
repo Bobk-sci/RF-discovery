@@ -32,10 +32,16 @@ mots_cles:
 - Hepatotoxicity
 - Coenzyme Q10
 - 6 Ghz
-auteurs: []
-pmcid: ''
+auteurs:
+- Akyildiz K
+- Yilmaz H
+- Yilmaz A
+- Mercantepe T
+- Gul F
+- Tumkaya L
+pmcid: PMC13572476
 volume: ''
-pages: ''
+pages: '28567'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

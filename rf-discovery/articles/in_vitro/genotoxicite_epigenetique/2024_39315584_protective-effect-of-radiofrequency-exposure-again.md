@@ -30,10 +30,15 @@ mots_cles:
 - In vitro study
 - Radiofrequency
 - Co‐exposure
-auteurs: []
+auteurs:
+- Sannino A
+- Allocca M
+- Scarfì MR
+- Romeo S
+- Zeni O
 pmcid: ''
 volume: ''
-pages: ''
+pages: 365-374
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:

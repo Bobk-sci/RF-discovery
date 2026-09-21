@@ -21,10 +21,12 @@ mots_cles:
 - Wireless Communication
 - Emfs
 - Cellphone
-auteurs: []
-pmcid: ''
+auteurs:
+- Brown RR
+- Biebrich B
+pmcid: PMC11850513
 volume: ''
-pages: ''
+pages: '1499499'
 modele: in_vivo
 modele_score: 1002.5
 modele_secondaires: []

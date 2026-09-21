@@ -25,10 +25,19 @@ mots_cles:
 - Body temperature
 - Thermometers
 - Radiofrequency Radiation
-auteurs: []
+auteurs:
+- Kim HS
+- Kim Y
+- Jeon SB
+- Choi HD
+- Lee AK
+- Lee HJ
+- Pack JK
+- Kim N
+- Ahn YH
 pmcid: ''
 volume: ''
-pages: ''
+pages: '103350'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

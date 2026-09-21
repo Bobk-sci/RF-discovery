@@ -33,10 +33,23 @@ mots_cles:
 - Carcinogenicity Bioassay
 - 900 Mhz
 - Ntp Validation
-auteurs: []
-pmcid: ''
+auteurs:
+- Kim HS
+- Han KH
+- Kim YB
+- Jeon SB
+- Lee AK
+- Moon JI
+- Choi HD
+- Imaida K
+- Yokohira M
+- Kawabe M
+- Imai N
+- Wang J
+- Ahn YH
+pmcid: PMC13017829
 volume: ''
-pages: ''
+pages: kfag001
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

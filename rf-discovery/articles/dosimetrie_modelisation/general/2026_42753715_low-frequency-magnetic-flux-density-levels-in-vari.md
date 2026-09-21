@@ -13,10 +13,14 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Dobruna J
+- Ibrani M
+- Maloku H
+- Limani Fazliu Z
 pmcid: ''
 volume: ''
-pages: ''
+pages: ncag104
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

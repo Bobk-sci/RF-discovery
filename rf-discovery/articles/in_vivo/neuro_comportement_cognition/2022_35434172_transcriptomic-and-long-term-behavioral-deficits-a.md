@@ -14,10 +14,16 @@ types:
 - rapid-communication
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Dasgupta S
+- Leong C
+- Simonich MT
+- Truong L
+- Liu H
+- Tanguay RL
+pmcid: PMC9009179
 volume: ''
-pages: ''
+pages: 327-332
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

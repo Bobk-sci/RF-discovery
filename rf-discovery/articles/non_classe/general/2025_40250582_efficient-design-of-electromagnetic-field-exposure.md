@@ -22,10 +22,16 @@ mots_cles:
 - Spatial Representation
 - Radio-frequency Electromagnetic Fields
 - Exposure Maps
-auteurs: []
+auteurs:
+- Guillén-Pina J
+- Pérez-Aracil J
+- Chocano-Del-Cerro R
+- Sánchez-Montero R
+- López-Espí PL
+- Salcedo-Sanz S
 pmcid: ''
 volume: ''
-pages: ''
+pages: '121636'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

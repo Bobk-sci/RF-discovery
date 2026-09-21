@@ -19,10 +19,13 @@ mots_cles:
 - Silicon Carbide (Sic)
 - Polycarbosilane (Pcs)
 - Ultrahigh-Temperature Heating
-auteurs: []
-pmcid: ''
+auteurs:
+- Hwang CH
+- Beak JH
+- Kim SY
+pmcid: PMC11989517
 volume: ''
-pages: ''
+pages: '1454'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

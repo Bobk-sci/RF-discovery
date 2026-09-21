@@ -21,10 +21,18 @@ mots_cles:
 - Cd31
 - Claudin-1
 - Radiofrequency- Electromagnetic Fields
-auteurs: []
-pmcid: ''
+auteurs:
+- Ulusoy A
+- Asci H
+- Taner R
+- Tepebasi MY
+- Ilhan I
+- Karabacak P
+- Comlekci S
+- Ozmen O
+pmcid: PMC12829706
 volume: ''
-pages: ''
+pages: 1691-1698
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

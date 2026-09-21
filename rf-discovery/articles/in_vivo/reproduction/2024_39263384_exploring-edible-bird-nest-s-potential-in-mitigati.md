@@ -19,10 +19,16 @@ mots_cles:
 - Radiofrequency Radiation
 - Edible Bird Nest
 - Wi‐fi
-auteurs: []
-pmcid: ''
+auteurs:
+- Maluin SM
+- Jaffar FHF
+- Osman K
+- Zulkefli AF
+- Mat Ros MF
+- Ibrahim SF
+pmcid: PMC11387989
 volume: ''
-pages: ''
+pages: e12606
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

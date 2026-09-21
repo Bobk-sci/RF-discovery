@@ -18,10 +18,15 @@ mots_cles:
 - Radiofrequency Radiation
 - 3.5 Ghz
 - Skin Histomorphometry
-auteurs: []
-pmcid: ''
+auteurs:
+- Geleni Dolanbay E
+- Mert T
+- Kurtoglu RN
+- Uslu U
+- Dasdag S
+pmcid: PMC12758509
 volume: ''
-pages: ''
+pages: 209-216
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:

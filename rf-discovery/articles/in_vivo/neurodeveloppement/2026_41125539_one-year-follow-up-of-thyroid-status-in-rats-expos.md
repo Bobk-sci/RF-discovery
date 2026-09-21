@@ -28,10 +28,17 @@ mots_cles:
 - Wi-fi
 - H2a.x
 - 2.45 Ghz
-auteurs: []
+auteurs:
+- Özyılmaz C
+- Daşdağ S
+- Oktay MF
+- Ulukaya E
+- Erkısa Genel M
+- Emre F
+- Yeğin K
 pmcid: ''
 volume: ''
-pages: ''
+pages: 160-169
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

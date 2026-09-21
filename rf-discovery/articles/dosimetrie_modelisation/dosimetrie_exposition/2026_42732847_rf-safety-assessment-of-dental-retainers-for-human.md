@@ -19,10 +19,14 @@ mots_cles:
 - 9.4 Tesla
 - Vop Compression
 - Dental Retainers
-auteurs: []
+auteurs:
+- Berezko EV
+- Solomakha GA
+- Avdievich NI
+- Scheffler K
 pmcid: ''
 volume: ''
-pages: ''
+pages: '110803'
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:

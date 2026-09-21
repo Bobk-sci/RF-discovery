@@ -19,10 +19,15 @@ mots_cles:
 - Disinfestation
 - Cooking Time
 - Callasobruchus
-auteurs: []
-pmcid: ''
+auteurs:
+- Guru PN
+- Kumar V
+- Nancy M
+- Sharma A
+- Yadav DN
+pmcid: PMC11190097
 volume: ''
-pages: ''
+pages: 1355-1362
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

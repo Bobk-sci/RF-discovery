@@ -25,10 +25,20 @@ mots_cles:
 - Electrical Conduction
 - Ipsc-cm
 - Autophagosome-like Bodies
-auteurs: []
-pmcid: ''
+auteurs:
+- Yin Y
+- Xu X
+- Li D
+- Yao B
+- Wang H
+- Zhao L
+- Wang H
+- Dong J
+- Zhang J
+- Peng R
+pmcid: PMC10454302
 volume: ''
-pages: ''
+pages: '12533'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

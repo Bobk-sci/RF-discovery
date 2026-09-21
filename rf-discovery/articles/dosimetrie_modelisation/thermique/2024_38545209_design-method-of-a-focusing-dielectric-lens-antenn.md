@@ -18,10 +18,14 @@ mots_cles:
 - Dielectric Lens Antenna
 - Human Body Phantom
 - Radio Wave Hyperthermia
-auteurs: []
-pmcid: ''
+auteurs:
+- Abd Rahman A
+- Kamardin K
+- Yamada Y
+- Takahashi M
+pmcid: PMC10965516
 volume: ''
-pages: ''
+pages: e28061
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

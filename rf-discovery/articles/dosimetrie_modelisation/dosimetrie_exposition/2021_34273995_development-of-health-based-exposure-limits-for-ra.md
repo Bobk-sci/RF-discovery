@@ -35,10 +35,12 @@ mots_cles:
 - Specific Absorption Rate
 - Exposure Guidelines
 - Benchmark Modeling
-auteurs: []
-pmcid: ''
+auteurs:
+- Uche UI
+- Naidenko OV
+pmcid: PMC8286570
 volume: ''
-pages: ''
+pages: '84'
 modele: dosimetrie_modelisation
 modele_score: 9.5
 modele_secondaires:

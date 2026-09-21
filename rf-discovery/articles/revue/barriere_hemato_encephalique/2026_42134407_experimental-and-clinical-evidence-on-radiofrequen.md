@@ -25,7 +25,13 @@ mots_cles:
 - Mobile phone
 - Radiofrequency
 - Blood-Brain Barrier
-auteurs: []
+auteurs:
+- Simsek ET
+- Sumser K
+- Mansourinezhad P
+- Kayhan H
+- Paulides MM
+- Buyukatalay EO
 pmcid: ''
 volume: ''
 pages: ''

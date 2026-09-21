@@ -23,10 +23,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Karadayi A
+- Sarsmaz H
+- Çigel A
+- Engiz B
+- Ünal N
+- Ürkmez S
+- Gürgen S
+pmcid: PMC11019611
 volume: ''
-pages: ''
+pages: 157-172
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

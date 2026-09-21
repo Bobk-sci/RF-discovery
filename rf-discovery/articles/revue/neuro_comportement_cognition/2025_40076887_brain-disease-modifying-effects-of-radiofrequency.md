@@ -27,10 +27,14 @@ mots_cles:
 - Cognitive Improvement
 - Radiofrequency Electromagnetic Fields (Rf-emf)
 - Non-contact Neuronal Stimulation (Ncns)
-auteurs: []
-pmcid: ''
+auteurs:
+- Sun S
+- Bok J
+- Jang Y
+- Seo H
+pmcid: PMC11900402
 volume: ''
-pages: ''
+pages: '2268'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -20,10 +20,15 @@ mots_cles:
 - Electromagnetic fields
 - Stem Cells
 - Cell Phones
-auteurs: []
-pmcid: ''
+auteurs:
+- Shahbazi-Gahrouei D
+- Hashemi-Beni B
+- Moradi A
+- Aliakbari M
+- Shahbazi-Gahrouei S
+pmcid: PMC6028991
 volume: ''
-pages: ''
+pages: '51'
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []

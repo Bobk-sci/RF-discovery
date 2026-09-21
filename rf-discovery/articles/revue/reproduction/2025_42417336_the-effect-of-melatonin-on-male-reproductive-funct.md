@@ -25,10 +25,14 @@ mots_cles:
 - Melatonin
 - Oxidative stress
 - Male infertility
-auteurs: []
+auteurs:
+- Neymark A I
+- Davydov A V
+- Yakovlev A V
+- Yershov A V
 pmcid: ''
 volume: ''
-pages: ''
+pages: 128-133
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

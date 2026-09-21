@@ -22,10 +22,17 @@ mots_cles:
 - Biodevices
 - Microwave Diagnosis
 - Antenna Measurements
-auteurs: []
-pmcid: ''
+auteurs:
+- Dessai R
+- Singh D
+- Sonkki M
+- Reponen J
+- Myllylä T
+- Myllymäki S
+- Särestöniemi M
+pmcid: PMC11434447
 volume: ''
-pages: ''
+pages: '1153'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

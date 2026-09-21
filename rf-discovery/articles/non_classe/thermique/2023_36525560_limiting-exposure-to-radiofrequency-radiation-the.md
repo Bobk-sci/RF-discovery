@@ -26,10 +26,15 @@ mots_cles:
 - Non-ionizing Radiation
 - Thermal Model
 - Non-thermal Model
-auteurs: []
+auteurs:
+- Hinrikus H
+- Koppel T
+- Lass J
+- Roosipuu P
+- Bachmann M
 pmcid: ''
 volume: ''
-pages: ''
+pages: 1167-1177
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

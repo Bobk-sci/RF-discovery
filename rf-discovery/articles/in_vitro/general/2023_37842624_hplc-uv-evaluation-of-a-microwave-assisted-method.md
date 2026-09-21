@@ -14,10 +14,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Briones-Márquez LF
+- Navarro-Partida J
+- Herrera-González A
+- García-Bon MA
+- Martínez-Álvarez IA
+- Uribe-Rodríguez D
+- González-Ortiz LJ
+- López-Naranjo EJ
+pmcid: PMC10570584
 volume: ''
-pages: ''
+pages: e20742
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -20,10 +20,15 @@ mots_cles:
 - Noninvasive Sensing
 - Jugular Venous Pulse
 - Mmwave Sensing
-auteurs: []
-pmcid: ''
+auteurs:
+- Das S
+- Afsharan H
+- Dwivedi G
+- Arrow C
+- Kavehei O
+pmcid: PMC12187424
 volume: ''
-pages: ''
+pages: '242231'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

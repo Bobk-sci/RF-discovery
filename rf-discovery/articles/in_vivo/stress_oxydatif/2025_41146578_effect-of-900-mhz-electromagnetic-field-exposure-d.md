@@ -36,10 +36,14 @@ mots_cles:
 - Ferroptosis
 - Glutathione Peroxidase 4 (Gpx4)
 - Transient Receptor Potential Melastatin 2 (Trpm2)
-auteurs: []
+auteurs:
+- Yazğan Y
+- Tüfekci KK
+- Yazğan B
+- Tatar M
 pmcid: ''
 volume: ''
-pages: ''
+pages: e23013
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

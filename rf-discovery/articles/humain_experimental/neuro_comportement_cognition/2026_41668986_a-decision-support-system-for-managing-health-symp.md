@@ -19,10 +19,13 @@ mots_cles:
 - Machine Learning
 - Mobile Phone Base Stations
 - Electromagnetic Hypersensitivity (Ehs)
-auteurs: []
-pmcid: ''
+auteurs:
+- Parsaei H
+- Faraz M
+- Mortazavi SMJ
+pmcid: PMC12883925
 volume: ''
-pages: ''
+pages: 47-56
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

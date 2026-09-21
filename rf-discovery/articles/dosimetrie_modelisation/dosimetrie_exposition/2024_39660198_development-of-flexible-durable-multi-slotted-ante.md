@@ -18,10 +18,17 @@ mots_cles:
 - Specific Absorption Rate
 - Slotted Antenna
 - Wearable Iot Applications
-auteurs: []
-pmcid: ''
+auteurs:
+- Sainath K
+- Gunamony SL
+- Awan WA
+- George NM
+- Sindhu MD
+- Alsunaydih FN
+- Alhassoon K
+pmcid: PMC11629234
 volume: ''
-pages: ''
+pages: e40627
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

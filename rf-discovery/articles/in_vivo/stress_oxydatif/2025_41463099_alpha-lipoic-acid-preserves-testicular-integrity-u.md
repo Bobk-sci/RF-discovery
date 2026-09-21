@@ -19,10 +19,17 @@ mots_cles:
 - Alpha-lipoic Acid
 - Testicular Damage
 - 2.45 Ghz Electromagnetic Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Cakir T
+- Keskin S
+- Keskin S
+- Yildizhan K
+- Bayir MH
+- Altindag F
+- Karaman E
+pmcid: PMC12731164
 volume: ''
-pages: ''
+pages: '3089'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

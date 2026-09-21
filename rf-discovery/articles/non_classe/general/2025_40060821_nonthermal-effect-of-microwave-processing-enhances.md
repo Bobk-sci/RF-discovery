@@ -14,10 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Li SC
+- Chen JR
+- Chiang CC
+- Tsai YS
+- Tien-Hsi Lee B
+pmcid: PMC11886901
 volume: ''
-pages: ''
+pages: 7662-7671
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

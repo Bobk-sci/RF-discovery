@@ -17,10 +17,11 @@ mots_cles:
 - Microwave
 - Power
 - Non-thermal Effects
-auteurs: []
-pmcid: ''
+auteurs:
+- Cripps S
+pmcid: PMC12096102
 volume: ''
-pages: ''
+pages: '20240069'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

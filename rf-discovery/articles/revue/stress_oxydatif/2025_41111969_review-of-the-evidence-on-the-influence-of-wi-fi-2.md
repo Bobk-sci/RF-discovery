@@ -20,10 +20,22 @@ mots_cles:
 - Electromagnetic Radiation
 - Neuronal Damage
 - Wi-fi Exposure Y Neurodegeneration
-auteurs: []
-pmcid: ''
+auteurs:
+- Laván D
+- Argüelles N
+- Lluncor A
+- Huaman D
+- Moyano J
+- Ubillus J
+- Peña M
+- Paredes M
+- Hernández I
+- Guerra A
+- De La Cruz-Vargas J
+- Cruz V
+pmcid: PMC12531076
 volume: ''
-pages: ''
+pages: '1616435'
 modele: revue
 modele_score: 1004.5
 modele_secondaires: []

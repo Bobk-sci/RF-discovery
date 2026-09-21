@@ -33,10 +33,15 @@ mots_cles:
 - Radiofrequency
 - Human Brain Connectivity
 - Gsm 900 Mhz
-auteurs: []
+auteurs:
+- Iranfar S
+- Wallace J
+- Selmaoui B
+- Yahia-Cherif L
+- Yahia-Cherif L
 pmcid: ''
 volume: ''
-pages: ''
+pages: 103-109
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

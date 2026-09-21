@@ -22,10 +22,17 @@ mots_cles:
 - Carbon-based Nanomaterials
 - Shielding Materials
 - Sustainable Nanocomposites
-auteurs: []
-pmcid: ''
+auteurs:
+- Prekodravac Filipovic J
+- Milenkovic M
+- Kepic D
+- Dorontic S
+- Yasir M
+- Nardin B
+- Jovanovic S
+pmcid: PMC12566414
 volume: ''
-pages: ''
+pages: '1558'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

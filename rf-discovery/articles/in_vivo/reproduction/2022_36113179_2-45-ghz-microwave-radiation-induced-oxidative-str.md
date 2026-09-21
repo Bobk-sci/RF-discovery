@@ -30,10 +30,12 @@ mots_cles:
 - Oxidative stress
 - Inflammatory Response And Male Infertility
 - Mw Radiation
-auteurs: []
+auteurs:
+- Gupta V
+- Srivastava R
 pmcid: ''
 volume: ''
-pages: ''
+pages: 61-70
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

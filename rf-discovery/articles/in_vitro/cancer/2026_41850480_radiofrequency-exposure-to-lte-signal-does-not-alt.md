@@ -27,10 +27,16 @@ mots_cles:
 - Human Neuroblastoma Cells
 - 4G-lte Signal
 - Cancer-related Endpoints
-auteurs: []
+auteurs:
+- Allocca M
+- Scarfì MR
+- Romeo S
+- Sannino A
+- Peluso V
+- Zeni O
 pmcid: ''
 volume: ''
-pages: ''
+pages: '124292'
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:

@@ -29,10 +29,14 @@ mots_cles:
 - ATF4
 - Radiofrequency Radiation
 - Ferroptosis
-auteurs: []
+auteurs:
+- Wang H
+- Zou W
+- Ding C
+- Cao Y
 pmcid: ''
 volume: ''
-pages: ''
+pages: 551-565
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

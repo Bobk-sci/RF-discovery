@@ -32,10 +32,14 @@ mots_cles:
 - Stress Biomarkers
 - 5G
 - 26 Ghz
-auteurs: []
+auteurs:
+- Michelant L
+- Hugueville L
+- Lévêque P
+- Selmaoui B
 pmcid: ''
 volume: ''
-pages: ''
+pages: '123439'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

@@ -18,10 +18,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Ali U
+- Ullah S
+- Basir A
+- Yan S
+- Ren H
+- Kamal B
+- Matekovits L
+pmcid: PMC11315293
 volume: ''
-pages: ''
+pages: e0306737
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:

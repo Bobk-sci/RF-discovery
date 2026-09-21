@@ -2,37 +2,44 @@
 pmid: '39245375'
 doi: 10.1016/j.scitotenv.2024.176038
 annee: 2024
-journal: The Science of the total environment
+journal: ''
 titre: Investigating the effect of radiofrequency electromagnetic field exposure on
   molecular pathways related to insulin resistance and adipogenesis in zebrafish embryos
   - A pilot study without quantitative exposure metrics.
 url: https://pubmed.ncbi.nlm.nih.gov/39245375/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
+- Embryo, Nonmammalian
 - Animals
 - Zebrafish
-- Adipogenesis
 - Insulin Resistance
-- Electromagnetic Fields
-- Embryo, Nonmammalian
 - Pilot Projects
-- Radio Waves
 - Oxidative Stress
+- Electromagnetic Fields
+- Radio Waves
+- Adipogenesis
 types:
 - Journal Article
 mots_cles:
 - Insulin
-- Leptin
 - Obesity
 - Oxidative stress
-- Radiofrequency-electromagnetic fields
-- Zebrafish embryos
-auteurs: []
+- Leptin
+- Zebrafish Embryos
+- Radiofrequency-Electromagnetic Fields
+auteurs:
+- Koç IY
+- Beler M
+- Ünal İ
+- Paker S
+- Emekli-Alturfan E
+- Alturfan AA
+- Cansız D
 pmcid: ''
 volume: ''
-pages: ''
+pages: '176038'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -55,7 +62,7 @@ theme_indices:
 
 # Investigating the effect of radiofrequency electromagnetic field exposure on molecular pathways related to insulin resistance and adipogenesis in zebrafish embryos - A pilot study without quantitative exposure metrics.
 
-*The Science of the total environment — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

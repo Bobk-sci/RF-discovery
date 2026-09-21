@@ -29,10 +29,16 @@ mots_cles:
 - Exposure Time
 - A(h5n1) Virus
 - Radiated Microwaves
-auteurs: []
-pmcid: ''
+auteurs:
+- Bia P
+- Losardo M
+- Manna A
+- Brusaferro S
+- Privitera GP
+- Vincentelli AS
+pmcid: PMC11735811
 volume: ''
-pages: ''
+pages: '2021'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

@@ -22,10 +22,17 @@ mots_cles:
 - Bioheat Modeling
 - Wireless Earbuds
 - Electromagnetic–thermal Coupling
-auteurs: []
+auteurs:
+- Horvat ID
+- Vidjak K
+- Wedel J
+- Iljaž J
+- Kamenik B
+- Poljak D
+- Ravnik J
 pmcid: ''
 volume: ''
-pages: ''
+pages: '104570'
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

@@ -19,10 +19,19 @@ mots_cles:
 - Pin Diode
 - Frequency Reconfigurability
 - Bending Investigation
-auteurs: []
-pmcid: ''
+auteurs:
+- Salisu A
+- Elwanis MA
+- Elfergani I
+- Musa U
+- Alfares A
+- Gharbia I
+- Rodriguez J
+- See CH
+- Abd-Alhameed R
+pmcid: PMC12749218
 volume: ''
-pages: ''
+pages: '44912'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

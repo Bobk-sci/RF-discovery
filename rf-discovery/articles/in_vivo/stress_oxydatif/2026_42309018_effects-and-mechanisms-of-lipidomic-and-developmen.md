@@ -30,10 +30,15 @@ mots_cles:
 - ER stress
 - lipid metabolism
 - Elf-emf
-auteurs: []
+auteurs:
+- Sun Y
+- Yan W
+- Guo Y
+- Jia X
+- Zhang Z
 pmcid: ''
 volume: ''
-pages: ''
+pages: '120386'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

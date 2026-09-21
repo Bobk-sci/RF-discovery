@@ -33,10 +33,19 @@ mots_cles:
 - Autonomous Nervous System
 - Fifth Generation
 - Event‐related Responses
-auteurs: []
-pmcid: ''
+auteurs:
+- Jamal L
+- Michelant L
+- Delanaud S
+- Hugueville L
+- Mazet P
+- Lévêque P
+- Baz T
+- Bach V
+- Selmaoui B
+pmcid: PMC11607616
 volume: ''
-pages: ''
+pages: 2122-2133
 modele: humain_experimental
 modele_score: 7.0
 modele_secondaires: []

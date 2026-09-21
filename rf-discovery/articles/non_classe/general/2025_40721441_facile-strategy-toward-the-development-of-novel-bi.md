@@ -18,10 +18,14 @@ mots_cles:
 - binder
 - microwave irradiation
 - Textile Printing
-auteurs: []
-pmcid: ''
+auteurs:
+- Elshemy NS
+- Nassar SH
+- Elhawary NS
+- Ali MM
+pmcid: PMC12304267
 volume: ''
-pages: ''
+pages: '27377'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -28,10 +28,13 @@ mots_cles:
 - Dosimetry
 - Mobile Phones
 - Technical Aspects
-auteurs: []
-pmcid: ''
+auteurs:
+- Bartosova K
+- Neruda M
+- Vojtech L
+pmcid: PMC8656635
 volume: ''
-pages: ''
+pages: '12642'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:

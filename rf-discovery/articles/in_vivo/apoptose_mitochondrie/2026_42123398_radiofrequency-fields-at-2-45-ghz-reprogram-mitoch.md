@@ -37,10 +37,15 @@ mots_cles:
 - necrosis
 - Raw 264.7
 - Sars-cov-2 Spike
-auteurs: []
-pmcid: ''
+auteurs:
+- Sueiro-Benavides RA
+- Leiro-Vidal JM
+- Rodríguez-González JA
+- Ares-Pena FJ
+- López-Martín E
+pmcid: PMC13163750
 volume: ''
-pages: ''
+pages: '3813'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

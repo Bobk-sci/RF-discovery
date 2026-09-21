@@ -21,10 +21,17 @@ mots_cles:
 - Terahertz Spectroscopy
 - Thermophysical Properties
 - Tissue-mimicking Materials
-auteurs: []
-pmcid: ''
+auteurs:
+- Reyes-Vera E
+- Furnieles C
+- Zapata Hernandez C
+- Montoya-Cardona J
+- Ortiz-Santana P
+- Botero-Valencia J
+- Araque J
+pmcid: PMC12985554
 volume: ''
-pages: ''
+pages: '931'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

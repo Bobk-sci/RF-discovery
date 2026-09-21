@@ -19,7 +19,12 @@ mots_cles:
 - Circular Polarization (Cp)
 - Industrial, Scientific, And Medical (Ism)
 - Ultra-miniaturized
-auteurs: []
+auteurs:
+- A Chandran A
+- Kanagasabai M
+- Subbaraj S
+- Mohammed GNA
+- Palaniswamy SK
 pmcid: ''
 volume: ''
 pages: ''

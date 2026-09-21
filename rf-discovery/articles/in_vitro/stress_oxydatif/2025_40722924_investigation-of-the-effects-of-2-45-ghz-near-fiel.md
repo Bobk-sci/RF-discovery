@@ -23,10 +23,15 @@ mots_cles:
 - Rf-emf
 - Non-thermal Effects
 - Electromagnetic Pollution
-auteurs: []
-pmcid: ''
+auteurs:
+- Angelova B
+- Paunov M
+- Kitanova M
+- Atanasova G
+- Atanasov N
+pmcid: PMC12291942
 volume: ''
-pages: ''
+pages: '820'
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

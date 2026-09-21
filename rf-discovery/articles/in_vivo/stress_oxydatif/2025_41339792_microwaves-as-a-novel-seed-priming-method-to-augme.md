@@ -27,10 +27,15 @@ mots_cles:
 - Ornamentals
 - Microwaved Gypsophila Paniculata Seeds
 - Salt Injuries
-auteurs: []
-pmcid: ''
+auteurs:
+- El-Ashwah MA
+- Barsoom MA
+- Saudy HS
+- Aly WA
+- Ibrahim AK
+pmcid: PMC12690845
 volume: ''
-pages: ''
+pages: '1694'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

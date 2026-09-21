@@ -20,10 +20,14 @@ mots_cles:
 - Toxoplasma gondii
 - survivability
 - MAT
-auteurs: []
-pmcid: ''
+auteurs:
+- Shamsaei A
+- Mohammadpour I
+- Mohammadi Z
+- Asgari Q
+pmcid: PMC12133370
 volume: ''
-pages: ''
+pages: '1666892'
 modele: in_vitro
 modele_score: 5.0
 modele_secondaires:

@@ -19,10 +19,23 @@ mots_cles:
 - One‐pot Step‐wise
 - Vinyl‐terminated Liquid Fluororubbers
 - Waste Fluororubbers
-auteurs: []
-pmcid: ''
+auteurs:
+- Li D
+- Yu L
+- Ning S
+- Li P
+- Chen C
+- Zhao D
+- Liao M
+- Meng Q
+- Zhang S
+- Fang Q
+- Kang H
+- Li L
+- Yang J
+pmcid: PMC12376610
 volume: ''
-pages: ''
+pages: e01460
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

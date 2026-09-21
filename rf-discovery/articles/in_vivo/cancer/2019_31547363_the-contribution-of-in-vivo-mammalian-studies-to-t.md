@@ -26,10 +26,15 @@ mots_cles:
 - Radiofrequency Radiation
 - Reproductive/developmental Toxicity
 - In Vivo Experimental Studies
-auteurs: []
-pmcid: ''
+auteurs:
+- Vornoli A
+- Falcioni L
+- Mandrioli D
+- Bua L
+- Belpoggi F
+pmcid: PMC6765993
 volume: ''
-pages: ''
+pages: E3379
 modele: in_vivo
 modele_score: 1004.5
 modele_secondaires:

@@ -13,10 +13,12 @@ mesh:
 types:
 - Editorial
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Lui HS
+- Persson M
+pmcid: PMC10892428
 volume: ''
-pages: ''
+pages: '1059'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -23,10 +23,16 @@ mots_cles:
 - Future Exposure
 - 5G Massive‐mimo
 - Typical Utilization Rates
-auteurs: []
-pmcid: ''
+auteurs:
+- Schiffarth AM
+- Ta TJ
+- Bornkessel C
+- Schilling LM
+- Hein M
+- Heberling D
+pmcid: PMC12579388
 volume: ''
-pages: ''
+pages: e70029
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires: []

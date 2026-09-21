@@ -30,10 +30,25 @@ mots_cles:
 - Systematic review
 - Animal Studies
 - Radiofrequency Electromagnetic Fields
-auteurs: []
+auteurs:
+- Cordelli E
+- Ardoino L
+- Benassi B
+- Consales C
+- Eleuteri P
+- Marino C
+- Sciortino M
+- Villani P
+- Brinkworth MH
+- Chen G
+- McNamee JP
+- Wood AW
+- Belackova L
+- Verbeek J
+- Pacchierotti F
 pmcid: ''
 volume: ''
-pages: ''
+pages: '108178'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

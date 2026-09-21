@@ -32,10 +32,21 @@ mots_cles:
 - Tryptophan Metabolism
 - Gut–brain Axis
 - Neuronal Pyroptosis
-auteurs: []
+auteurs:
+- Zhou G
+- Wang X
+- Qin T
+- Guo L
+- Lin J
+- Zhang Z
+- Gao P
+- Zhou Y
+- He W
+- Li J
+- Ding G
 pmcid: ''
 volume: ''
-pages: ''
+pages: '138'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

@@ -21,10 +21,17 @@ mots_cles:
 - Microwave Exposure
 - C-s-h
 - Material Drying
-auteurs: []
-pmcid: ''
+auteurs:
+- Průša D
+- Šťastník S
+- Šuhajda K
+- Svobodová K
+- Žajdlík T
+- Hobzová K
+- Novotný M
+pmcid: PMC10671405
 volume: ''
-pages: ''
+pages: '889'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

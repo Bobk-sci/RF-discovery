@@ -26,10 +26,44 @@ mots_cles:
 - Radio Frequency (Rf)
 - Public And Environmental Health
 - Communication Engineering And Systems Telecommunications
-auteurs: []
-pmcid: ''
+auteurs:
+- Petroulakis N
+- Mattsson MO
+- Chatziadam P
+- Simko M
+- Gavrielides A
+- Yiorkas AM
+- Zeni O
+- Scarfi MR
+- Soudah E
+- Otin R
+- Schettino F
+- Migliore MD
+- Miaoudakis A
+- Spanoudakis G
+- Bolte J
+- Korkmaz E
+- Theodorou V
+- Zarogianni E
+- Lagorio S
+- Biffoni M
+- Schiavoni A
+- Boldi MR
+- Feldman Y
+- Bilik I
+- Laromaine A
+- Gich M
+- Spirito M
+- Ledent M
+- Segers S
+- Vargas F
+- Colussi L
+- Pruppers M
+- Baaken D
+- Bogdanova A
+pmcid: PMC10298460
 volume: ''
-pages: ''
+pages: '6085'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

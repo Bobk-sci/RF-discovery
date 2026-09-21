@@ -29,10 +29,16 @@ mots_cles:
 - heart rate variability
 - Cellular Phone
 - Heart Rate Asymmetry
-auteurs: []
-pmcid: ''
+auteurs:
+- Béres S
+- Németh Á
+- Ajtay Z
+- Kiss I
+- Németh B
+- Hejjel L
+pmcid: PMC6199582
 volume: ''
-pages: ''
+pages: 1145-1153
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:

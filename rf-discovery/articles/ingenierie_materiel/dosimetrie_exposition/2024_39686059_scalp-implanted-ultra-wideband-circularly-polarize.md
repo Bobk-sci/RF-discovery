@@ -19,10 +19,14 @@ mots_cles:
 - Ultra Wideband
 - Multiple-input Multiple-output
 - Polarization Diversity
-auteurs: []
-pmcid: ''
+auteurs:
+- Song Z
+- Shi Y
+- Zheng X
+- Wang Y
+pmcid: PMC11644157
 volume: ''
-pages: ''
+pages: '7522'
 modele: ingenierie_materiel
 modele_score: 1008.0
 modele_secondaires:

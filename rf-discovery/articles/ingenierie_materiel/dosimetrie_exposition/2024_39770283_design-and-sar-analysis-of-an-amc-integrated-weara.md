@@ -18,10 +18,13 @@ mots_cles:
 - Textile Antenna
 - Artificial Magnetic Conductor
 - Substrate Integrated Waveguide
-auteurs: []
-pmcid: ''
+auteurs:
+- Thangavelu Y
+- Thangaraju B
+- Maheswar R
+pmcid: PMC11676499
 volume: ''
-pages: ''
+pages: '1530'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:

@@ -23,10 +23,20 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Osei S
+- Quarshie E
+- Azah CK
+- Fuseini AR
+- Dogbey R
+- Deatanyah P
+- Hagan GB
+- Modupeh Hodasi JA
+- Sam F
+- Amoako JK
 pmcid: ''
 volume: ''
-pages: ''
+pages: 701-708
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

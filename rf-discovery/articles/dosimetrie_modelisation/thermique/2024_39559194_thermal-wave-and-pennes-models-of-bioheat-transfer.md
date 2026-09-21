@@ -2,27 +2,30 @@
 pmid: '39559194'
 doi: 10.1016/j.heliyon.2024.e40109
 annee: 2024
-journal: Heliyon
+journal: ''
 titre: 'Thermal wave and Pennes'' models of bioheat transfer in human skin: A transient
   comparative analysis.'
 url: https://pubmed.ncbi.nlm.nih.gov/39559194/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- FEM
-- Human skin tissue
-- MW radiation
-- Pennes' model
 - Relaxation time
-- TWMBT
-auteurs: []
-pmcid: ''
+- FEM
+- Human Skin Tissue
+- Mw Radiation
+- Pennes' Model
+- Twmbt
+auteurs:
+- Tasnim ZJ
+- Nasrin R
+pmcid: PMC11570517
 volume: ''
-pages: ''
+pages: e40109
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -41,7 +44,7 @@ theme_indices:
 
 # Thermal wave and Pennes' models of bioheat transfer in human skin: A transient comparative analysis.
 
-*Heliyon — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

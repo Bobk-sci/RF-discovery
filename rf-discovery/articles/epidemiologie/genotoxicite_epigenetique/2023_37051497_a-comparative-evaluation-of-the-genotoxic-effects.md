@@ -18,10 +18,14 @@ mots_cles:
 - micronuclei
 - Buccal Mucosa
 - Cell Phone
-auteurs: []
-pmcid: ''
+auteurs:
+- Kadeh H
+- Saravani S
+- Moradi M
+- Alimanesh N
+pmcid: PMC10084556
 volume: ''
-pages: ''
+pages: 118-124
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

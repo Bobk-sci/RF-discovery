@@ -29,10 +29,12 @@ mots_cles:
 - Inflammatory Response
 - Erα
 - Ashwagandha Root Extract
-auteurs: []
+auteurs:
+- Gupta V
+- Srivastava R
 pmcid: ''
 volume: ''
-pages: ''
+pages: 455-466
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

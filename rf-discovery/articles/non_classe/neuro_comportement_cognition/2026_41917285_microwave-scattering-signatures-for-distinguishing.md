@@ -25,10 +25,12 @@ mots_cles:
 - Date Palm Trees
 - Radar Cross-section
 - Microwave Response
-auteurs: []
-pmcid: ''
+auteurs:
+- Moradi A
+- Bait-Suwailam MM
+pmcid: PMC13180994
 volume: ''
-pages: ''
+pages: '15274'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

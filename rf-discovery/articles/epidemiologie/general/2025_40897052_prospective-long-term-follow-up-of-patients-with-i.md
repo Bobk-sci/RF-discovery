@@ -30,10 +30,12 @@ mots_cles:
 - Environmental Illness
 - Nocebo Effects
 - Modern Health Worries
-auteurs: []
+auteurs:
+- Li KH
+- Guo HR
 pmcid: ''
 volume: ''
-pages: ''
+pages: '118944'
 modele: epidemiologie
 modele_score: 1002.0
 modele_secondaires:

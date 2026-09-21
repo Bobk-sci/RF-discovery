@@ -23,10 +23,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Dunaevskiy G
+- Gavrilin E
+- Pomytkin A
+- Sorokin R
+- Kuznetsov A
+- Antipov V
+- Nechaev A
+pmcid: PMC9873917
 volume: ''
-pages: ''
+pages: '1362'
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []

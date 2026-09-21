@@ -31,10 +31,20 @@ mots_cles:
 - spatial memory
 - Cognitive Functions
 - Dose-dependent Effect
-auteurs: []
-pmcid: ''
+auteurs:
+- Wang H
+- Song L
+- Zhao L
+- Wang H
+- Xu X
+- Dong J
+- Zhang J
+- Yao B
+- Zhao X
+- Peng R
+pmcid: PMC9792922
 volume: ''
-pages: ''
+pages: 37427-37439
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:

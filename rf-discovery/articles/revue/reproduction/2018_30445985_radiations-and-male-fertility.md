@@ -2,31 +2,35 @@
 pmid: '30445985'
 doi: 10.1186/s12958-018-0431-1
 annee: 2018
-journal: 'Reproductive biology and endocrinology : RB&E'
+journal: ''
 titre: Radiations and male fertility.
 url: https://pubmed.ncbi.nlm.nih.gov/30445985/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Cell Phone
-- Electromagnetic Fields
-- Environmental Exposure
-- Fertility
+- Spermatozoa
 - Humans
 - Infertility, Male
-- Male
+- Environmental Exposure
 - Oxidative Stress
+- Fertility
+- Electromagnetic Fields
 - Radio Waves
-- Spermatozoa
+- Male
+- Cell Phone
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Kesari KK
+- Agarwal A
+- Henkel R
+pmcid: PMC6240172
 volume: ''
-pages: ''
+pages: '118'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -48,7 +52,7 @@ theme_indices:
 
 # Radiations and male fertility.
 
-*Reproductive biology and endocrinology : RB&E — 2018*
+*journal non renseigné — 2018*
 
 ## Résumé (texte d'origine)
 

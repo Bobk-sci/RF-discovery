@@ -35,10 +35,20 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Pulsed Magnetic Field
 - Male Reproductive Tissues
-auteurs: []
+auteurs:
+- Ascı H
+- Comlekcı S
+- Taner R
+- Tepebası MY
+- Imecı OB
+- Selçuk E
+- Aslankoc R
+- Gultekın S
+- Comlekcı C
+- Ozmen O
 pmcid: ''
 volume: ''
-pages: ''
+pages: '63'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

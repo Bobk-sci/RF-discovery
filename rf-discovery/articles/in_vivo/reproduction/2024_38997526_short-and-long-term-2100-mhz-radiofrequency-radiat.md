@@ -27,10 +27,16 @@ mots_cles:
 - endoplasmic reticulum stress
 - Radiofrequency Radiation
 - Grp78
-auteurs: []
-pmcid: ''
+auteurs:
+- Kirimlioglu E
+- Oflamaz AO
+- Hidisoglu E
+- Ozen S
+- Yargicoglu P
+- Demir N
+pmcid: PMC11364557
 volume: ''
-pages: ''
+pages: 311-321
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

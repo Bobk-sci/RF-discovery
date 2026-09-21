@@ -29,10 +29,14 @@ mots_cles:
 - Tilted Antenna
 - Triple-band Antenna
 - Compact Size
-auteurs: []
-pmcid: ''
+auteurs:
+- Benkalfate C
+- Ouslimani A
+- Kasbari AE
+- Feham M
+pmcid: PMC9610987
 volume: ''
-pages: ''
+pages: '8009'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:

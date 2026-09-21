@@ -27,7 +27,11 @@ mots_cles:
 - Tumor Treating Fields
 - Field Orientation
 - Electroculture Platform
-auteurs: []
+auteurs:
+- Senturk F
+- Kocum IC
+- Aksan ES
+- Duzen U
 pmcid: ''
 volume: ''
 pages: ''

@@ -13,7 +13,10 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
-auteurs: []
+auteurs:
+- Vargas E
+- Pantoya ML
+- Saed MA
 pmcid: ''
 volume: ''
 pages: ''

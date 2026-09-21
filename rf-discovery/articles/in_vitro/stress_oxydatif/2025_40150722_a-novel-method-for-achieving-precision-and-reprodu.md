@@ -22,10 +22,23 @@ mots_cles:
 - Telecommunications
 - Radiofrequency Fields
 - Human Cell Culture
-auteurs: []
-pmcid: ''
+auteurs:
+- Dahon C
+- Aguida B
+- Lebon Y
+- Le Guen P
+- Dangremont A
+- Meyer O
+- Citerne JM
+- Pooam M
+- Raad H
+- Thoradit T
+- Jourdan N
+- Bertagna F
+- Ahmad M
+pmcid: PMC11939444
 volume: ''
-pages: ''
+pages: '257'
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:

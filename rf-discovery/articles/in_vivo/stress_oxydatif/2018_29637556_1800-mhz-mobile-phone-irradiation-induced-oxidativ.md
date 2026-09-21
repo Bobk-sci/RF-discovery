@@ -42,10 +42,13 @@ mots_cles:
 - Oxidative stress
 - Nitrosative Stress
 - Mobile Phone Radiation
-auteurs: []
-pmcid: ''
+auteurs:
+- Shahin S
+- Singh SP
+- Chaturvedi CM
+pmcid: PMC13482464
 volume: ''
-pages: ''
+pages: 7253-7267
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

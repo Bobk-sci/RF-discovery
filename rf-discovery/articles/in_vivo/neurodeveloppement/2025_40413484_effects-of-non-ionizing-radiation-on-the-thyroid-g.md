@@ -27,10 +27,14 @@ mots_cles:
 - Thyroid Hormone Metabolism
 - Electromagnetic Fields (Emf)
 - Thyroid Gland Physiology
-auteurs: []
-pmcid: ''
+auteurs:
+- Sarhad ZS
+- Ebrahimbabaei A
+- Tavassoli A
+- Shojaeifard M
+pmcid: PMC12103772
 volume: ''
-pages: ''
+pages: '231'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

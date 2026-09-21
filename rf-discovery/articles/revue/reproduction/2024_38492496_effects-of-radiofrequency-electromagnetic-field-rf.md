@@ -31,10 +31,25 @@ mots_cles:
 - Animal Studies
 - Radiofrequency Electromagnetic Fields
 - Reproductive Organ Toxicity
-auteurs: []
+auteurs:
+- Cordelli E
+- Ardoino L
+- Benassi B
+- Consales C
+- Eleuteri P
+- Marino C
+- Sciortino M
+- Villani P
+- H Brinkworth M
+- Chen G
+- P McNamee J
+- Wood AW
+- Belackova L
+- Verbeek J
+- Pacchierotti F
 pmcid: ''
 volume: ''
-pages: ''
+pages: '108509'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

@@ -19,10 +19,17 @@ mots_cles:
 - invasive weed
 - Non-chemical Weed Control
 - Electromagnetic Microwaves
-auteurs: []
-pmcid: ''
+auteurs:
+- Słowiński K
+- Grygierzec B
+- Baran A
+- Tabor S
+- Piatti D
+- Maggi F
+- Synowiec A
+pmcid: PMC10818956
 volume: ''
-pages: ''
+pages: '152'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

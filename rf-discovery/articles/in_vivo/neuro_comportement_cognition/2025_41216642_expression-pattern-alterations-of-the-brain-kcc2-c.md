@@ -33,10 +33,17 @@ mots_cles:
 - Oxidative Parameters
 - Kcc2 Chloride Transporter
 - Extremely Low‐frequency Magnetic Fields (Elf‐mfs)
-auteurs: []
+auteurs:
+- Nemati M
+- Nozari M
+- Darvishzadeh-Mahani F
+- Ahmadi-Zeidabadi M
+- Ganjalikhan-Hakemi S
+- Bashiri H
+- Haratizadeh S
 pmcid: ''
 volume: ''
-pages: ''
+pages: e2546
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

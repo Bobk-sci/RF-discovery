@@ -20,10 +20,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Arslan A
+- Acer N
+- Kesici H
+- Sonmez MF
+- Ertekin T
+- Gultekin M
+- Dagdelen U
+- Saracoglu OG
 pmcid: ''
 volume: ''
-pages: ''
+pages: 618-624
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

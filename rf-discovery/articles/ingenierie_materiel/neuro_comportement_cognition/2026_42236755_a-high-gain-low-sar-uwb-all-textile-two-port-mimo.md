@@ -22,10 +22,13 @@ mots_cles:
 - Wearable Multi-input–multi-output (Mimo) Antenna
 - 5G Communications
 - Textile Materials
-auteurs: []
-pmcid: ''
+auteurs:
+- Douhi S
+- Zahriladha Z
+- Eddiai A
+pmcid: PMC13473450
 volume: ''
-pages: ''
+pages: '25405'
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

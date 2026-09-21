@@ -27,10 +27,14 @@ mots_cles:
 - Electromagnetic Pollution
 - Intercellular Ros
 - Double And Single Dna Strand Break
-auteurs: []
+auteurs:
+- Jooyan N
+- Mortazavi SMJ
+- Goliaei B
+- Faraji-Dana R
 pmcid: ''
 volume: ''
-pages: ''
+pages: '140942'
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires:

@@ -28,10 +28,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Puginier E
+- Leclercq L
+- Poulletier de Gannes F
+- Hurtier A
+- Orlacchio R
+- Nabos P
+- Tijou H
+- Lévêque P
+- Arnaud-Cormos D
+- Percherancier Y
+- Lagroye I
+pmcid: PMC13039490
 volume: ''
-pages: ''
+pages: '10767'
 modele: in_vitro
 modele_score: 1010.0
 modele_secondaires:

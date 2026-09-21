@@ -18,10 +18,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Hou WQ
+- Li YX
+- Luo MF
+- Zhou WY
+- Lu M
+pmcid: PMC12803447
 volume: ''
-pages: ''
+pages: e0340681
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:

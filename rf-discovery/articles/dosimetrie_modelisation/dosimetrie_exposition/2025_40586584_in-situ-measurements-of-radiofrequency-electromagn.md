@@ -22,10 +22,13 @@ mots_cles:
 - Telecommunications
 - Exposure assessment
 - Public Exposure
-auteurs: []
-pmcid: ''
+auteurs:
+- Calderon C
+- Addison D
+- Peyman A
+pmcid: PMC12207951
 volume: ''
-pages: ''
+pages: e70012
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

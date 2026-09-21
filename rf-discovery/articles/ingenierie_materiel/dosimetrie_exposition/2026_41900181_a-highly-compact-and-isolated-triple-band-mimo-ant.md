@@ -20,10 +20,15 @@ mots_cles:
 - Implantable Antenna
 - Leadless Pacemaker
 - Triple-band
-auteurs: []
-pmcid: ''
+auteurs:
+- Bashir T
+- Feng G
+- Chen S
+- Cao Y
+- Li W
+pmcid: PMC13028627
 volume: ''
-pages: ''
+pages: '296'
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:

@@ -27,10 +27,11 @@ mots_cles:
 - Layered Tissues
 - Power Reflection
 - Te/tm Oblique Incidence
-auteurs: []
-pmcid: ''
+auteurs:
+- Gasmelseed A
+pmcid: PMC12835268
 volume: ''
-pages: ''
+pages: '3445'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

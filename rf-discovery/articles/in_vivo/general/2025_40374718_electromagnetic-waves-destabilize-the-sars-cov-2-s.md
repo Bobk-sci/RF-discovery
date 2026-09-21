@@ -27,10 +27,20 @@ mots_cles:
 - Coplanar Waveguide
 - Electromagnetic Waves
 - Sars-cov-2
-auteurs: []
-pmcid: ''
+auteurs:
+- Pantoja C
+- Acosta FM
+- Granatir S
+- Anderson M
+- Wyr M
+- Tailor J
+- Fuori A
+- Dower W
+- Marr HB
+- Ramirez PW
+pmcid: PMC12081674
 volume: ''
-pages: ''
+pages: '16836'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

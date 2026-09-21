@@ -19,10 +19,12 @@ types:
 - Review
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Risling M
+- Günther M
+pmcid: PMC13542620
 volume: ''
-pages: ''
+pages: e1858-e1863
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

@@ -26,10 +26,25 @@ mots_cles:
 - Radiofrequency Radiation
 - Hematopoietic Stem And Progenitor Cells
 - Calcium Efflux
-auteurs: []
-pmcid: ''
+auteurs:
+- Lv Z
+- Zhao K
+- Li J
+- Li S
+- Zhao X
+- Xu A
+- Wu Y
+- Gao H
+- Li J
+- Sun H
+- Xue Y
+- Li S
+- Xiang S
+- Yang X
+- Li C
+pmcid: PMC13011509
 volume: ''
-pages: ''
+pages: '115'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

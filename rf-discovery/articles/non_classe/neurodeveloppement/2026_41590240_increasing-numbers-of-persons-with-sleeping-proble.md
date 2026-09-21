@@ -17,10 +17,12 @@ mots_cles:
 - Sweden
 - Radiofrequency Radiation
 - Sleeping Problems
-auteurs: []
-pmcid: ''
+auteurs:
+- Nilsson M
+- Hardell L
+pmcid: PMC12839934
 volume: ''
-pages: ''
+pages: '25'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

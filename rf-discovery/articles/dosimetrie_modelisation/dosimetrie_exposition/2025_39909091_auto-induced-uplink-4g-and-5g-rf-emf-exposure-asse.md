@@ -28,10 +28,25 @@ mots_cles:
 - Uplink
 - Transmit Power
 - 5G
-auteurs: []
+auteurs:
+- Stroobandt B
+- Van Bladel H
+- Veludo AF
+- Deprez K
+- Aerts S
+- Verloock L
+- Thuróczy G
+- Politanski P
+- Polanska K
+- Tognola G
+- Parazzini M
+- Wiart J
+- Guxens M
+- Röösli M
+- Joseph W
 pmcid: ''
 volume: ''
-pages: ''
+pages: '121029'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

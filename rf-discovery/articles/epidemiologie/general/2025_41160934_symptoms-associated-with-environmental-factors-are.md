@@ -31,10 +31,14 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Environmental Sensitivity
 - Idiopathic Environmental Intolerances
-auteurs: []
+auteurs:
+- Reddington K
+- Witthöft M
+- Köteles F
+- Szemerszky R
 pmcid: ''
 volume: ''
-pages: ''
+pages: '112425'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:

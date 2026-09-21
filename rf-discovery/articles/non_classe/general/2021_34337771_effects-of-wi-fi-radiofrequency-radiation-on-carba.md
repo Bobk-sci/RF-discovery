@@ -22,10 +22,16 @@ mots_cles:
 - transmission electron microscopy
 - Klebsiella Pneumonia
 - Wireless Fidelity
-auteurs: []
+auteurs:
+- Said-Salman I
+- Yassine W
+- Rammal A
+- Hneino M
+- Yusef H
+- Moustafa M
 pmcid: ''
 volume: ''
-pages: ''
+pages: 575-582
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -2,24 +2,31 @@
 pmid: '38433903'
 doi: 10.1016/j.isci.2024.109201
 annee: 2024
-journal: iScience
+journal: ''
 titre: Interactions between electromagnetic radiation and biological systems.
 url: https://pubmed.ncbi.nlm.nih.gov/38433903/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
 - Biological sciences
-- Electromagnetics
 - Physics
-auteurs: []
-pmcid: ''
+- Electromagnetics
+auteurs:
+- Liu L
+- Huang B
+- Lu Y
+- Zhao Y
+- Tang X
+- Shi Y
+pmcid: PMC10906530
 volume: ''
-pages: ''
+pages: '109201'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -36,7 +43,7 @@ theme_indices: []
 
 # Interactions between electromagnetic radiation and biological systems.
 
-*iScience — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

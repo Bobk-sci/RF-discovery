@@ -29,10 +29,21 @@ mots_cles:
 - Electromagnetic fields
 - Reproductive Health
 - Non-ionizing
-auteurs: []
-pmcid: ''
+auteurs:
+- Syed Taha SMA
+- Jaffar FHF
+- Hairulazam A
+- Vijay S
+- Jamaludin N
+- Zulkefli AF
+- Mat Ros MF
+- Osman K
+- Zakaria Z
+- Mohd Bahar MAA
+- Ibrahim SF
+pmcid: PMC13115579
 volume: ''
-pages: ''
+pages: '3452'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

@@ -32,10 +32,13 @@ mots_cles:
 - Pain
 - Plantar Fasciitis
 - Pulsed Electromagnetic Field
-auteurs: []
-pmcid: ''
+auteurs:
+- Arani ZSY
+- Taheri N
+- Tarrahi MJ
+pmcid: PMC13552193
 volume: ''
-pages: ''
+pages: e70061
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

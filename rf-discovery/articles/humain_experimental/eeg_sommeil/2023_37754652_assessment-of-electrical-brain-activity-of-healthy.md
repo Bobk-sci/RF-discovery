@@ -29,10 +29,17 @@ mots_cles:
 - Electrical Brain Activity
 - 5G
 - Resting Wake State
-auteurs: []
-pmcid: ''
+auteurs:
+- Jamal L
+- Yahia-Cherif L
+- Yahia-Cherif L
+- Hugueville L
+- Mazet P
+- Lévêque P
+- Selmaoui B
+pmcid: PMC10530694
 volume: ''
-pages: ''
+pages: '6793'
 modele: humain_experimental
 modele_score: 5.0
 modele_secondaires:

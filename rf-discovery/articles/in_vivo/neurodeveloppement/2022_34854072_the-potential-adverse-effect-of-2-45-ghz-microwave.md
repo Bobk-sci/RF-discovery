@@ -23,10 +23,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Andrašková S
+- Holovská K
+- Ševčíková Z
+- Andrejčáková Z
+- Tóth Š
+- Martončíková M
+- Račeková E
+- Almášiová V
 pmcid: ''
 volume: ''
-pages: ''
+pages: 287-299
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

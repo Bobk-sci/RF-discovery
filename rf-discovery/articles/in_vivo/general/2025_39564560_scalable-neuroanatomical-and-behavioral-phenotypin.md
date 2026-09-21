@@ -18,10 +18,18 @@ mots_cles:
 - High-throughput Analysis
 - Behavioral Effects
 - Electromagnetic Exposure
-auteurs: []
-pmcid: ''
+auteurs:
+- Wu X
+- Chan YS
+- Xiang B
+- Zhang W
+- Luk KM
+- Cheng SH
+- Leung YF
+- Chan RHM
+pmcid: PMC11573389
 volume: ''
-pages: ''
+pages: 89-99
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:

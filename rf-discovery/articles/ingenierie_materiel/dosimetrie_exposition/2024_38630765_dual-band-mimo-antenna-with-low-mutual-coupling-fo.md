@@ -18,10 +18,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Awan WA
+- Islam T
+- N Alsunaydih F
+- Alsaleem F
+- Alhassoonc K
+pmcid: PMC11023486
 volume: ''
-pages: ''
+pages: e0301924
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:

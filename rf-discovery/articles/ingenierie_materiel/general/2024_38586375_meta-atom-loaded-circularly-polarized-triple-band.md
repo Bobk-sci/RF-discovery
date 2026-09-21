@@ -19,10 +19,16 @@ mots_cles:
 - Circular Polarization
 - Stub
 - Meta-atom
-auteurs: []
-pmcid: ''
+auteurs:
+- Angadi S
+- Viswanadha K
+- Chinthaginjala R
+- C D
+- Tai-Hoon K
+- S K
+pmcid: PMC10998109
 volume: ''
-pages: ''
+pages: e28906
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires: []

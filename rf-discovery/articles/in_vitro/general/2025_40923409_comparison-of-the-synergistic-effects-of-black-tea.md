@@ -26,10 +26,14 @@ mots_cles:
 - gentamicin
 - Radio Frequency
 - Black Tea
-auteurs: []
+auteurs:
+- Eslamirad Z
+- Hajihoseein R
+- Fathi Y
+- Soleimani H
 pmcid: ''
 volume: ''
-pages: ''
+pages: 93-100
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []

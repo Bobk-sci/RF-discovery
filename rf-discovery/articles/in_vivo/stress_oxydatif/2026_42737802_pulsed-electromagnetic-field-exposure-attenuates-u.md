@@ -39,10 +39,17 @@ mots_cles:
 - A2a Adenosine Receptor
 - Pulsed Electromagnetic Field
 - Nlrp3 Phosphorylation
-auteurs: []
-pmcid: ''
+auteurs:
+- Byun KA
+- Lee JI
+- Oh S
+- Kim SE
+- Seo SB
+- Son KH
+- Byun K
+pmcid: PMC13566763
 volume: ''
-pages: ''
+pages: '7904'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires:

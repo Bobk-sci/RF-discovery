@@ -13,10 +13,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Bok J
+- Kim ES
+- Ha J
+- Lee DM
+- Ahn BJ
+- Lee SW
+- Cho SH
+- Kim NY
+- Jang Y
+pmcid: PMC12367325
 volume: ''
-pages: ''
+pages: '036112'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

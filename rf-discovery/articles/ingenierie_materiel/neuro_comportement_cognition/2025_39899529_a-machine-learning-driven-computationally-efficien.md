@@ -24,10 +24,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
-auteurs: []
-pmcid: ''
+auteurs:
+- Rasool Khan U
+- Sheikh JA
+- Junaid A
+- Ashraf S
+- Balkhi AA
+pmcid: PMC11790105
 volume: ''
-pages: ''
+pages: e0305203
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

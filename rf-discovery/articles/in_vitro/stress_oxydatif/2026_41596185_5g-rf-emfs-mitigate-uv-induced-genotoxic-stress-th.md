@@ -20,10 +20,22 @@ mots_cles:
 - Hacat
 - B16
 - Radiofrequency Electromagnetic Fields
-auteurs: []
-pmcid: ''
+auteurs:
+- Kim JH
+- Jin H
+- Jang KM
+- Lee JE
+- Na S
+- Jeon S
+- Choi HD
+- Moon JI
+- Kim N
+- Lim KM
+- Kim HR
+- Lee YS
+pmcid: PMC12837458
 volume: ''
-pages: ''
+pages: '127'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

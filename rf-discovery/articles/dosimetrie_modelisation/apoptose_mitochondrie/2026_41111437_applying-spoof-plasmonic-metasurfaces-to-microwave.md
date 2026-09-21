@@ -15,10 +15,19 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
-auteurs: []
+auteurs:
+- Nichols ZE
+- Zhang M
+- Agarwal V
+- Koepp B
+- Denny E
+- Al-Anesi A
+- Gunasekara S
+- Mutasim A
+- Geddes CD
 pmcid: ''
 volume: ''
-pages: ''
+pages: 924-939
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:

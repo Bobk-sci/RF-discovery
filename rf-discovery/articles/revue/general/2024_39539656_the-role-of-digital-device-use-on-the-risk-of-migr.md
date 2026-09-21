@@ -19,10 +19,14 @@ mots_cles:
 - Casual Effect
 - Multivariable Mendelian Randomization Study
 - Univariable Mendelian Randomization Study
-auteurs: []
-pmcid: ''
+auteurs:
+- He Z
+- Qiu F
+- Yang J
+- Zhao M
+pmcid: PMC11557339
 volume: ''
-pages: ''
+pages: '1462414'
 modele: revue
 modele_score: 2.0
 modele_secondaires:

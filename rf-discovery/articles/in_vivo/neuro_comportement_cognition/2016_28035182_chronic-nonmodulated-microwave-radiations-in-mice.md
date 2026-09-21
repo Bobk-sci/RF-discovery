@@ -19,10 +19,13 @@ mots_cles:
 - Anxiety
 - Modulated Microwave
 - Nonmodulated Microwave
-auteurs: []
-pmcid: ''
+auteurs:
+- Kumar M
+- Singh SP
+- Chaturvedi CM
+pmcid: PMC5195817
 volume: ''
-pages: ''
+pages: 318-327
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
