@@ -13,6 +13,10 @@
 - [[non_classe]] (285)
 - [[revue]] (193)
 
+## Dernières veilles
+
+- [[veille-2026-09-21]]
+
 ## Étiquettes
 
 Chaque fiche porte `modele/…`, `theme/…` et `annee/…` : le panneau des
