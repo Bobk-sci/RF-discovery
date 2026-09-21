@@ -93,15 +93,21 @@ def _entete(meta: dict[str, Any]) -> str:
 
 
 def fetch_all(records: list[dict[str, Any]], out: Path, *, limit: int | None = None,
-              pause_s: float = 0.5, fetcher=None, sleep=time.sleep) -> dict[str, int]:
-    """Écrit un fichier par article dont Europe PMC fournit le texte intégral."""
+              pause_s: float = 0.5, fetcher=None, sleep=time.sleep,
+              pas_avancement: int = 25) -> dict[str, int]:
+    """Écrit un fichier par article dont Europe PMC fournit le texte intégral.
+
+    L'avancement est journalisé régulièrement : sur un millier d'articles, une commande
+    muette pendant vingt minutes est indiscernable d'une commande bloquée.
+    """
     out.mkdir(parents=True, exist_ok=True)
     counts = {"deja_present": 0, "recuperes": 0, "sans_pmcid": 0, "non_disponible": 0}
-    for meta in records[:limit]:
-        pmcid = str(meta.get("pmcid") or "").strip()
-        if not pmcid:
-            counts["sans_pmcid"] += 1
-            continue
+    eligibles = [m for m in records[:limit] if str(m.get("pmcid") or "").strip()]
+    counts["sans_pmcid"] = len(records[:limit]) - len(eligibles)
+    log.info("%d articles, dont %d avec un PMCID à interroger", len(records[:limit]),
+             len(eligibles))
+    for rang, meta in enumerate(eligibles, start=1):
+        pmcid = str(meta["pmcid"]).strip()
         cible = out / f"{meta.get('pmid') or pmcid}.md"
         if cible.exists():
             counts["deja_present"] += 1
@@ -112,6 +118,9 @@ def fetch_all(records: list[dict[str, Any]], out: Path, *, limit: int | None = N
         else:
             cible.write_text(_entete(meta) + "\n" + corps + "\n", encoding="utf-8")
             counts["recuperes"] += 1
+        if rang % pas_avancement == 0:
+            log.info("  %d/%d traités — %d textes récupérés", rang, len(eligibles),
+                     counts["recuperes"] + counts["deja_present"])
         sleep(pause_s)
     return counts
 
