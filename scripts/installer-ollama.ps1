@@ -1,4 +1,4 @@
-# Installe Ollama sur Windows, range ses modèles sur E: et télécharge ceux qu'il faut
+﻿# Installe Ollama sur Windows, range ses modèles sur E: et télécharge ceux qu'il faut
 # pour la bibliothèque RF.
 #
 #   powershell -ExecutionPolicy Bypass -File installer-ollama.ps1
@@ -13,6 +13,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+function Verifier($quoi) { if ($LASTEXITCODE -ne 0) { throw "$quoi a échoué (code $LASTEXITCODE)." } }
 function Etape($texte) { Write-Host "`n=== $texte ===" -ForegroundColor Cyan }
 
 Etape "Dossier des modèles : $ModelesOllama"
@@ -57,7 +58,9 @@ Write-Host "Ollama répond sur http://localhost:11434"
 
 Etape "Téléchargement des modèles (~5 Go)"
 ollama pull $ModeleEmpreintes
+Verifier "ollama pull $ModeleEmpreintes"
 ollama pull $ModeleDialogue
+Verifier "ollama pull $ModeleDialogue"
 
 Etape "Vérification"
 $installes = (ollama list | Out-String)
