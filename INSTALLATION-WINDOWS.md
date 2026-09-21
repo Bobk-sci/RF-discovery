@@ -104,14 +104,34 @@ minutes après la dernière question.
 
 ---
 
-## 4. EndNote
+## 4. Zotero
 
-*File → Import → File* → `E:\rf-library\rf-discovery\articles\bibliotheque-rf.ris`,
-type **Reference Manager (RIS)**.
+Installez [Zotero](https://www.zotero.org/download/) (gratuit), puis **avant tout import**,
+déplacez ses données sur `E:` : *Édition → Paramètres → Avancé → Fichiers et dossiers →
+Emplacement du répertoire de données* → `E:\zotero-data`. Zotero redémarre et déplace ce
+qu'il a déjà. Fait après coup, vous vous retrouvez avec une bibliothèque coupée en deux.
 
-Les champs `L1` contiennent le chemin des PDF téléchargés : EndNote attache les fichiers
-aux références à l'import. Les étiquettes `modele:` et `theme:` arrivent dans les
-*keywords*.
+Ensuite : *Fichier → Importer → Un fichier* →
+`E:\rf-library\rf-discovery\articles\bibliotheque-rf.ris`
+
+Cochez **« Placer les collections et éléments importés dans une nouvelle collection »** :
+les 1 370 articles arrivent groupés, sans se mélanger à vos références existantes.
+
+Ce que vous récupérez :
+
+- les **étiquettes** `modele:in_vivo`, `theme:neurodeveloppement` et les mots-clés
+  d'auteur — le panneau des étiquettes reconstitue le classement ;
+- les **PDF déjà téléchargés**, attachés à leur référence (champ `L1` en URI `file://`,
+  la seule forme que Zotero sache résoudre) ;
+- le résumé, le DOI, le PMID dans le champ *Extra*.
+
+Pour les articles sous abonnement : *Édition → Paramètres → Général → « Rechercher les PDF
+disponibles »*, et si votre université a un proxy, déclarez-le dans *Avancé → Proxys*.
+Sélectionnez ensuite tout, clic droit → **« Trouver le PDF disponible »**. Zotero ira les
+chercher avec vos droits d'accès — ce qu'aucun script ne peut faire à votre place.
+
+> Vous aviez parlé d'EndNote : le même fichier RIS s'y importe par *File → Import → File*,
+> type **Reference Manager (RIS)**. Rien dans le dépôt n'est lié à l'un ou l'autre.
 
 ---
 
