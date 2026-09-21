@@ -71,11 +71,32 @@ jobs:
           # relève seulement le quota. Tout passe par les secrets, jamais par le YAML.
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        # `[tout]` dans le message de commit force une re-collecte complète : utile quand
+        # les fiches doivent être réécrites (nouveau champ, par exemple les auteurs).
+        # Un push ne peut pas passer d'`inputs`, d'où ce signal dans le commit.
         run: |
+          TOUT=""
+          if [ "${{ inputs.tout }}" = "true" ] || \
+             printf '%s' "${{ github.event.head_commit.message }}" | grep -q '\[tout\]'; then
+            TOUT="--tout"
+          fi
           python -m collect_library \
             --sources "${{ inputs.sources || 'europepmc,pubmed' }}" \
             --max-results "${{ inputs.max_results || '1000' }}" \
-            ${{ inputs.tout == true && '--tout' || '' }} | tee library.json
+            $TOUT | tee library.json
+
+      - name: Complete missing metadata
+        # Une fiche sans auteurs est inutilisable dans EndNote/Zotero : on relit sa
+        # notice PubMed par identifiant (quelques appels), au lieu d'espérer qu'une
+        # nouvelle recherche la ramène.
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python -m collect_library --completer | tee completion.json
+
+      - name: Export references (RIS / BibTeX)
+        # Formats lus par EndNote et Zotero ; régénérés à chaque run pour rester à jour.
+        run: python -m export_refs | tee refs.json
 
       - name: Commit library
         run: |

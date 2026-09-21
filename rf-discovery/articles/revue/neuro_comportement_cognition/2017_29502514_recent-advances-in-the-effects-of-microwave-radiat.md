@@ -26,6 +26,13 @@ mots_cles:
 - Central nervous system
 - Microwave
 - Dysfunction Of Learning And Memory Abilities
+auteurs:
+- Zhi WJ
+- Wang LF
+- Hu XJ
+pmcid: PMC5607572
+volume: ''
+pages: '29'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -43,6 +50,16 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Recent advances in the effects of microwave radiation on brains.

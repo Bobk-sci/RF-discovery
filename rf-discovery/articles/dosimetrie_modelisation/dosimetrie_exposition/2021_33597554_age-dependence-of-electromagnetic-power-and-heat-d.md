@@ -14,6 +14,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Sacco G
+- Pisa S
+- Zhadobov M
+pmcid: PMC7889919
+volume: '11'
+pages: '3983'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -29,6 +36,12 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2021
 ---
 
 # Age-dependence of electromagnetic power and heat deposition in near-surface tissues in emerging 5G bands.

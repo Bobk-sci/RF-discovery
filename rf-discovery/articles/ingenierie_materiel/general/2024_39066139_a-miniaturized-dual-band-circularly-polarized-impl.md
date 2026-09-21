@@ -26,6 +26,14 @@ mots_cles:
 - Arteriovenous Grafts
 - Circularly Polarized
 - Dual-band Antenna
+auteurs:
+- Song Z
+- Wang Y
+- Shi Y
+- Zheng X
+pmcid: PMC11280927
+volume: ''
+pages: '4743'
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires: []
@@ -37,6 +45,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2024
 ---
 
 # A Miniaturized Dual-Band Circularly Polarized Implantable Antenna for Use in Hemodialysis.

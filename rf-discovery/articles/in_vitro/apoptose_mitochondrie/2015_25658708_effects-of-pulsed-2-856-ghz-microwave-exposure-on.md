@@ -30,6 +30,21 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Wang C
+- Wang X
+- Zhou H
+- Dong G
+- Guan X
+- Wang L
+- Xu X
+- Wang S
+- Chen P
+- Peng R
+- Hu X
+pmcid: PMC4319787
+volume: '10'
+pages: e0117550
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires:
@@ -49,6 +64,14 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Effects of pulsed 2.856 GHz microwave exposure on BM-MSCs isolated from C57BL/6 mice.

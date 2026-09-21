@@ -24,6 +24,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Pelletier A
+- Delanaud S
+- de Seze R
+- Bach V
+- Libert JP
+- Loos N
+pmcid: PMC4048227
+volume: '9'
+pages: e99007
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -40,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - sleep
 - slow wave
+tags:
+- rf
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Does exposure to a radiofrequency electromagnetic field modify thermal preference in juvenile rats?

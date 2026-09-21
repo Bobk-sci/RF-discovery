@@ -29,6 +29,16 @@ mots_cles:
 - Ki67
 - Radiofrequency Radiation
 - Paricalcitol
+auteurs:
+- Demirbağ B
+- Aktaş S
+- Çömelekoğlu Ü
+- Kara İ
+- Yildirim M
+- Yildirim DD
+pmcid: ''
+volume: ''
+pages: 42-50
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -47,6 +57,12 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2023
 ---
 
 # Protective effect of paricalcitol in rat testicular damage induced by subchronic 1800 MHz radiofrequency radiation.

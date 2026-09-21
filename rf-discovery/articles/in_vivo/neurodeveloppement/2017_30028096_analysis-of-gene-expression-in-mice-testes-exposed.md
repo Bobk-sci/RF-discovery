@@ -29,6 +29,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Lee JY
+- Hwang JY
+pmcid: ''
+volume: '62'
+pages: 324-8
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:
@@ -47,6 +53,15 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2017
 ---
 
 # Analysis of Gene Expression in Mice Testes Exposed to 1.765 GHz Microwave in Utero.

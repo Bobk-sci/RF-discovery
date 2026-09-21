@@ -19,6 +19,16 @@ mots_cles:
 - Rf Hyperthermia
 - Beauty Device
 - Waveguide Aperture Antenna
+auteurs:
+- Kim I
+- Lee DM
+- Shin JW
+- Lee GJ
+- Kim ES
+- Kim NY
+pmcid: PMC11007180
+volume: ''
+pages: '1378084'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -30,6 +40,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- annee/2024
 ---
 
 # Radio frequency hyperthermia system for skin tightening effect by filled waveguide aperture antenna with compact metamaterials.

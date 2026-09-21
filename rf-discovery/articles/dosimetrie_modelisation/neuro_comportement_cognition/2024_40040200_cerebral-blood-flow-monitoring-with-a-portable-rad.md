@@ -20,6 +20,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Anwar U
+- Arslan T
+- Lomax P
+pmcid: ''
+volume: '2024'
+pages: 1-5
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -32,6 +39,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Cerebral Blood Flow Monitoring with a Portable Radio Frequency Sensing System.

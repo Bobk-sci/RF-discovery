@@ -29,6 +29,11 @@ mots_cles:
 - genotoxicity
 - mutagenicity
 - nanomaterials
+auteurs:
+- Elespuru RK
+pmcid: ''
+volume: '65'
+pages: 301-314
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -41,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/revue
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2024
 ---
 
 # Hollaender award 2023: Adventures in applied genetic toxicology.

@@ -19,6 +19,14 @@ mots_cles:
 - Radiofrequency
 - Enterococcus faecalis
 - Anti-bacterial Agents
+auteurs:
+- Mortazavi SMJ
+- Taheri M
+- Paknahad M
+- Khandadash S
+pmcid: PMC9395628
+volume: ''
+pages: 387-394
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2022
 ---
 
 # Effects of Radiofrequency Electromagnetic Fields Emitted from Mobile Phones and Wi-Fi Router on the Growth Rate and Susceptibility of <i>Enterococcus faecalis to Antibiotics</i>.

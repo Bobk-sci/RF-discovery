@@ -18,6 +18,17 @@ mots_cles:
 - Comet assay
 - Microwave radiation
 - Deoxyribonucleic Acid Damage
+auteurs:
+- Deshmukh PS
+- Megha K
+- Banerjee BD
+- Ahmed RS
+- Chandna S
+- Abegaonkar MP
+- Tripathi AK
+pmcid: PMC3702122
+volume: ''
+pages: 19-24
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
@@ -33,6 +44,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Detection of Low Level Microwave Radiation Induced Deoxyribonucleic Acid Damage Vis-à-vis Genotoxicity in Brain of Fischer Rats.

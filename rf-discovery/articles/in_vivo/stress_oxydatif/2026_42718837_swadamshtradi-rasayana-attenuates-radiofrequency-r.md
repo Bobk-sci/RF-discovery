@@ -20,6 +20,16 @@ mots_cles:
 - Sperm Dna Damage
 - Radiofrequency Electromagnetic Radiation
 - Swadamshtradi Rasayana
+auteurs:
+- Abdul VR
+- Sudha M
+- Easwaramangalath NP
+- Robin DT
+- Dileep A
+- Madhavan VR
+pmcid: PMC13553956
+volume: ''
+pages: '1912688'
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -37,6 +47,13 @@ theme_indices:
 - ROS
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Swadamshtradi rasayana attenuates radiofrequency radiation-induced oxidative stress and improves sperm parameters in Swiss albino mice.

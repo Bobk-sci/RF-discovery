@@ -19,6 +19,15 @@ types:
 - Research Support, Non-U.S. Gov't
 - Journal Article
 mots_cles: []
+auteurs:
+- Modak S
+- Kaim V
+- Zaidi AM
+- Kanaujia BK
+- Rambabu K
+pmcid: ''
+volume: ''
+pages: 3402-3412
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:
@@ -31,6 +40,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design of Electrically Small Intraocular Antenna for Retinal Prosthesis System and Its Validation.

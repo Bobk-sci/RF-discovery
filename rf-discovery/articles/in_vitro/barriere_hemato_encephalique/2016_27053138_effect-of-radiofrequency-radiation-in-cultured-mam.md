@@ -28,6 +28,12 @@ mots_cles:
 - gene expression
 - morphology
 - viability
+auteurs:
+- Manna D
+- Ghosh R
+pmcid: ''
+volume: '35'
+pages: 265-301
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:
@@ -48,6 +54,17 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vitro
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # Effect of radiofrequency radiation in cultured mammalian cells: A review.

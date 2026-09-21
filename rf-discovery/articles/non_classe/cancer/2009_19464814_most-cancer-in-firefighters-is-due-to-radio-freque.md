@@ -20,6 +20,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Milham S
+pmcid: ''
+volume: '73'
+pages: 788-9
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - leukemia
 - cancer risk
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2009
 ---
 
 # Most cancer in firefighters is due to radio-frequency radiation exposure not inhaled carcinogens.

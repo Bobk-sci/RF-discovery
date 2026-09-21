@@ -17,6 +17,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Mild KH
+- Andersen JB
+- Pedersen GF
+pmcid: ''
+volume: '31'
+pages: 52-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -28,6 +35,12 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/reproduction
+- annee/2012
 ---
 
 # Is there any exposure from a mobile phone in stand-by mode?

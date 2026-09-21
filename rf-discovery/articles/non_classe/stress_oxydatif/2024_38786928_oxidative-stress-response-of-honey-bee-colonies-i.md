@@ -18,6 +18,19 @@ mots_cles:
 - honey bee
 - field conditions
 - Radiofrequency Radiation
+auteurs:
+- Vilić M
+- Žura Žaja I
+- Tkalec M
+- Tucak P
+- Malarić K
+- Popara N
+- Žura N
+- Pašić S
+- Gajger IT
+pmcid: PMC11122567
+volume: ''
+pages: '372'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +44,11 @@ theme_indices:
 - catalase
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Oxidative Stress Response of Honey Bee Colonies (<i>Apis mellifera</i> L.) during Long-Term Exposure at a Frequency of 900 MHz under Field Conditions.

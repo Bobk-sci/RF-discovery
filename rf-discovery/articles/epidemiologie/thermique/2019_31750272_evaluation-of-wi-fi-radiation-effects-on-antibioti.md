@@ -24,6 +24,14 @@ mots_cles:
 - Wi-fi
 - Disc Diffusion
 - Non-thermal Effect
+auteurs:
+- I H SS
+- F A J
+- H H Y
+- M E M
+pmcid: PMC6820025
+volume: ''
+pages: 579-586
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/epidemiologie
+- theme/thermique
+- annee/2019
 ---
 
 # Evaluation of Wi-Fi Radiation Effects on Antibiotic Susceptibility, Metabolic Activity and Biofilm Formation by Escherichia <i>Coli</i> 0157H7, <i>Staphylococcus Aureus</i> and <i>Staphylococcus Epidermis</i>.

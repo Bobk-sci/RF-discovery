@@ -24,6 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Erwin DN
+pmcid: ''
+volume: '59'
+pages: A21-31
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -37,6 +42,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - fertility
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/thermique
+- annee/1988
 ---
 
 # Mechanisms of biological effects of radiofrequency electromagnetic fields: an overview.

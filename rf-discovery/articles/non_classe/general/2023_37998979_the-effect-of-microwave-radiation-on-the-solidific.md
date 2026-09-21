@@ -21,6 +21,17 @@ mots_cles:
 - Microwave Exposure
 - C-s-h
 - Material Drying
+auteurs:
+- Průša D
+- Šťastník S
+- Šuhajda K
+- Svobodová K
+- Žajdlík T
+- Hobzová K
+- Novotný M
+pmcid: PMC10671405
+volume: ''
+pages: '889'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -29,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2023
 ---
 
 # The Effect of Microwave Radiation on the Solidification of C-S-H Gels: Its Influence on the Solidified Cement Mixtures.

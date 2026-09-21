@@ -13,6 +13,16 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Guillén-Pina J
+- Pérez-Aracil J
+- Chocano-del-Cerro R
+- Sánchez-Montero R
+- López-Espí PL
+- Salcedo-Sanz S
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -21,6 +31,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Efficient design of electromagnetic field exposure maps with multi-method evolutionary ensembles

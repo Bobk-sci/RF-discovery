@@ -18,6 +18,16 @@ mots_cles:
 - Implantable Antenna
 - Ultra-wide Bandwidth
 - Multi-scenario Application
+auteurs:
+- Song Z
+- Yang D
+- Wang Y
+- Shi Y
+- Zheng X
+- Wang L
+pmcid: PMC12830933
+volume: ''
+pages: '3139'
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:
@@ -30,6 +40,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # A compact circularly polarized ultra-wide bandwidth implantable antenna for multiple scenarios.

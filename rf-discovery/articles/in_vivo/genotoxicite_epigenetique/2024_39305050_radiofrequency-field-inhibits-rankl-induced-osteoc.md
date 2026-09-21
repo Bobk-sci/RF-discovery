@@ -30,6 +30,16 @@ mots_cles:
 - Raw 264.7 Cells
 - Osteoclast Differentiation
 - Radiofrequency Field
+auteurs:
+- Ding C
+- Wang H
+- Yang C
+- Hang Y
+- Zhu S
+- Cao Y
+pmcid: ''
+volume: ''
+pages: 292-302
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -45,6 +55,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Radiofrequency field inhibits RANKL-induced osteoclast differentiation in RAW264.7 cells via modulating the NF-κB signaling pathway.

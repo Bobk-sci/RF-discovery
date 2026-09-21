@@ -35,6 +35,20 @@ mots_cles:
 - Mc1r
 - Radiofrequency Electromagnetic Fields
 - Phospho-creb
+auteurs:
+- Kim JH
+- Kang DJ
+- Seok JY
+- Kim MH
+- Kim DS
+- Jeon SB
+- Choi HD
+- Moon JI
+- Kim N
+- Kim HR
+pmcid: PMC11595227
+volume: ''
+pages: '12457'
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:
@@ -50,6 +64,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Exposure to Radiofrequency Electromagnetic Fields Enhances Melanin Synthesis by Activating the P53 Signaling Pathway in Mel-Ab Melanocytes.

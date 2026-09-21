@@ -27,6 +27,21 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Wang L
+- Peng R
+- Hu X
+- Gao Y
+- Wang S
+- Zhao L
+- Dong J
+- Su Z
+- Xu X
+- Gao R
+- Lei C
+pmcid: ''
+volume: '63'
+pages: 1010-6
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -43,6 +58,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2009
 ---
 
 # Abnormality of synaptic vesicular associated proteins in cerebral cortex and hippocampus after microwave exposure.

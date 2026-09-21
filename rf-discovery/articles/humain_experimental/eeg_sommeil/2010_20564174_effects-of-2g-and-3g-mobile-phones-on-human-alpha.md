@@ -28,6 +28,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Croft RJ
+- Leung S
+- McKenzie RJ
+- Loughran SP
+- Iskra S
+- Hamblin DL
+- Cooper NR
+pmcid: ''
+volume: '31'
+pages: 434-44
 modele: humain_experimental
 modele_score: 4.5
 modele_secondaires: []
@@ -42,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2010
 ---
 
 # Effects of 2G and 3G mobile phones on human alpha rhythms: Resting EEG in adolescents, young adults, and the elderly.

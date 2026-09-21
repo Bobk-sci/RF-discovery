@@ -19,6 +19,13 @@ mots_cles:
 - massive MIMO
 - power density
 - total exposure ratio
+auteurs:
+- Elbasheir MS
+- Saeed RA
+- Edam S
+pmcid: PMC9919820
+volume: '23'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:
@@ -34,6 +41,12 @@ theme_secondaires: []
 theme_indices:
 - power density
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Multi-Technology Multi-Operator Site Sharing: Compliance Distance Analysis for EMF Exposure.

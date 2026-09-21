@@ -33,6 +33,23 @@ mots_cles:
 - NSCs
 - Hnrnpa2b1
 - Trkb M(6)a Modification
+auteurs:
+- Zhi W
+- Tang J
+- Zhang M
+- Zou Y
+- Qiao S
+- Ma L
+- Dong J
+- Yao B
+- Zhao X
+- Yang Z
+- Lin Z
+- Hu X
+- Wang L
+pmcid: ''
+volume: ''
+pages: '117907'
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires: []
@@ -52,6 +69,13 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Mechanistic insights into microwave radiation induced cognitive impairments: The role of m&lt;sup&gt;6&lt;/sup&gt;A epigenetic modifications and HNRNPA2B1 in TrkB regulation.

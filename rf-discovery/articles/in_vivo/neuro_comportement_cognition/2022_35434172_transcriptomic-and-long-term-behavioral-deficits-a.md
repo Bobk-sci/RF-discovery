@@ -14,6 +14,16 @@ types:
 - rapid-communication
 - Journal Article
 mots_cles: []
+auteurs:
+- Dasgupta S
+- Leong C
+- Simonich MT
+- Truong L
+- Liu H
+- Tanguay RL
+pmcid: PMC9009179
+volume: ''
+pages: 327-332
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -24,6 +34,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Transcriptomic and Long-Term Behavioral Deficits Associated with Developmental 3.5 GHz Radiofrequency Radiation Exposures in Zebrafish.

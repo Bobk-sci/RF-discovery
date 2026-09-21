@@ -19,6 +19,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Chen H
+- Wang X
+- Yuan L
+- Gong J
+pmcid: PMC13581032
+volume: ''
+pages: e0347398
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +38,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # The 6G integrated perception and networking technology enables the low-altitude economy to achieve carbon neutrality: Dynamic sleep strategy for eVTOL wireless charging based on time-energy-carbon coupling.

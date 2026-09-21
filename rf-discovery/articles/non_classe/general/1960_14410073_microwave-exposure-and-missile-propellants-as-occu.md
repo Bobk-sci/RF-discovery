@@ -22,6 +22,11 @@ mots_cles:
 - INDUSTRIAL MEDICINE
 - RADAR
 - RADIATION EFFECTS
+auteurs:
+- KNAUF GM
+pmcid: PMC1373173
+volume: '50'
+pages: 364-7
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/1960
 ---
 
 # Microwave exposure and missile propellants as occupational health problems.
@@ -38,6 +48,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/14410073/)

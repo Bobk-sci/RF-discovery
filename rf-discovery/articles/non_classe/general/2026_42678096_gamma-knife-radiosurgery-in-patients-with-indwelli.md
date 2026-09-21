@@ -17,6 +17,13 @@ mots_cles:
 - Gamma Knife Radiosurgery
 - Neuromodulation
 - Functional Neurosurgery
+auteurs:
+- Qiang Z
+- Bragg C
+- Yianni J
+pmcid: ''
+volume: ''
+pages: 1-6
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +32,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Gamma Knife radiosurgery in patients with indwelling deep brain stimulator systems.

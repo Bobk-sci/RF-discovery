@@ -2,33 +2,50 @@
 pmid: '36833719'
 doi: 10.3390/ijerph20043025
 annee: 2023
-journal: International journal of environmental research and public health
+journal: ''
 titre: Pilot Study of the Long-Term Effects of Radiofrequency Electromagnetic Radiation
   Exposure on the Mouse Brain.
 url: https://pubmed.ncbi.nlm.nih.gov/36833719/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Mice
-- Animals
-- Pilot Projects
-- Radio Waves
 - Brain
-- Time
-- Radiation Exposure
+- Animals
+- Mice
+- Pilot Projects
 - Electromagnetic Fields
+- Radio Waves
+- Time
 - Electromagnetic Radiation
+- Radiation Exposure
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles:
+- Mice
+- Brain
 - DNA methylation
-- behavioral tests
-- brain
-- electromagnetic radiation
-- mice
-- radiofrequency
+- Radiofrequency
+- Electromagnetic Radiation
+- Behavioral Tests
+auteurs:
+- Spandole-Dinu S
+- Catrina AM
+- Voinea OC
+- Andone A
+- Radu S
+- Haidoiu C
+- Călborean O
+- Popescu DM
+- Suhăianu V
+- Baltag O
+- Tuță L
+- Roșu G
+pmcid: PMC9961585
+volume: ''
+pages: '3025'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -43,11 +60,17 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - DNA methylation
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Pilot Study of the Long-Term Effects of Radiofrequency Electromagnetic Radiation Exposure on the Mouse Brain.
 
-*International journal of environmental research and public health — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

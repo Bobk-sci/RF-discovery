@@ -20,6 +20,17 @@ mots_cles:
 - lethal effects
 - Oryzaephilus surinamensis
 - Storage Stability Of Paddy
+auteurs:
+- Miao S
+- Zhou Y
+- Wang S
+- Yang Z
+- Guverinoma A
+- Zhao Y
+- Lu Y
+pmcid: PMC12841991
+volume: ''
+pages: '67'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -29,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Effects of Microwave on Mortality and Detection Efficiency of Three Stored Grain Insect Adults in Stored Paddy, and on Grain Quality.

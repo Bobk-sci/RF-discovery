@@ -33,6 +33,16 @@ mots_cles:
 - Testis development
 - Insulin-like Growth Factor-1 (Igf1)
 - The Src Homology 3 (Sh3) And Multiple Ankyrin Repeat Domain (Shank3)
+auteurs:
+- Ersoy N
+- Acikgoz B
+- Aksu I
+- Kiray A
+- Bagriyanik HA
+- Kiray M
+pmcid: PMC9867318
+volume: ''
+pages: '71'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []
@@ -52,6 +62,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # The Effects of Prenatal and Postnatal Exposure to 50-Hz and 3 mT Electromagnetic Field on Rat Testicular Development.

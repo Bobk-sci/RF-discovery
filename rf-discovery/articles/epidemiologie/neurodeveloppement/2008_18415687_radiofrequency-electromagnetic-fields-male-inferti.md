@@ -33,6 +33,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Baste V
+- Riise T
+- Moen BE
+pmcid: ''
+volume: '23'
+pages: 369-77
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:
@@ -49,6 +56,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2008
 ---
 
 # Radiofrequency electromagnetic fields; male infertility and sex ratio of offspring.

@@ -1,35 +1,48 @@
 ---
 pmid: '39911027'
-doi: 10.1667/RADE-23-00103.1
+doi: 10.1667/rade-23-00103.1
 annee: 2025
-journal: Radiation research
+journal: ''
 titre: Protective Effects and Mechanisms of Astragaloside on Microwave Radiation-induced
   Cardiac Injury.
 url: https://pubmed.ncbi.nlm.nih.gov/39911027/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Saponins
-- Microwaves
-- Triterpenes
-- Rats
-- Male
-- Reactive Oxygen Species
-- Glycogen Synthase Kinase 3 beta
-- Cell Line
-- Rats, Sprague-Dawley
-- Radiation-Protective Agents
-- Membrane Potential, Mitochondrial
 - Heart
+- Cell Line
+- Animals
+- Rats
+- Rats, Sprague-Dawley
 - Heart Injuries
+- Reactive Oxygen Species
+- Triterpenes
+- Saponins
 - Adenosine Triphosphate
+- Radiation-Protective Agents
 - Phosphorylation
+- Microwaves
+- Male
+- Membrane Potential, Mitochondrial
+- Glycogen Synthase Kinase 3 beta
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- Journal Article
 mots_cles: []
+auteurs:
+- Zhang X
+- Zhao L
+- Hu S
+- Miao C
+- Dong J
+- Zhang J
+- Yao B
+- Lv Y
+- Peng R
+pmcid: ''
+volume: ''
+pages: 142-154
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:
@@ -45,11 +58,18 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Protective Effects and Mechanisms of Astragaloside on Microwave Radiation-induced Cardiac Injury.
 
-*Radiation research — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

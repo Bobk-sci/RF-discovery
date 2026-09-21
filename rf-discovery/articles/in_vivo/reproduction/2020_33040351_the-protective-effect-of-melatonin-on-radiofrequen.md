@@ -29,6 +29,14 @@ mots_cles:
 - melatonin
 - oxidative stress
 - testicular toxicity
+auteurs:
+- Shokri M
+- Shamsaei ME
+- Malekshah AK
+- Amiri FT
+pmcid: ''
+volume: '52'
+pages: e13834
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -45,6 +53,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # The protective effect of melatonin on radiofrequency electromagnetic fields of mobile phone-induced testicular damage in an experimental mouse model.

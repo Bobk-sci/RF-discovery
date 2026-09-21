@@ -24,6 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Ring EF
+pmcid: ''
+volume: 11 Suppl A
+pages: 87-95
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -34,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/1990
 ---
 
 # Quantitative thermal imaging.

@@ -29,6 +29,16 @@ mots_cles:
 - Human Study
 - Wlan
 - Sleep Study
+auteurs:
+- Schmid G
+- Hirtl R
+- Bueno-Lopez A
+- Dorn H
+- Eggert T
+- Danker-Hopfe H
+pmcid: ''
+volume: ''
+pages: 230-240
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:
@@ -45,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - EEG
 - sleep
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Design and Dosimetric Analysis of an Exposure Facility for Investigating Possible Effects of 2.45 GHz Wi-Fi Signals on Human Sleep.

@@ -26,6 +26,13 @@ mots_cles:
 - Power
 - Antioxidative enzymes
 - Electromagnetic Radiation
+auteurs:
+- Sharma A
+- Bahel S
+- Katnoria JK
+pmcid: ''
+volume: ''
+pages: 63225-63238
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -39,6 +46,12 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Morphological, biochemical and genotoxic effects of non-ionizing radiation at 1800 MHz and 2400 MHz frequencies in Allium cepa L.

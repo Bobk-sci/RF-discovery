@@ -21,6 +21,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Dutton MS
+- Galvin MJ
+- McRee DI
+pmcid: ''
+volume: '5'
+pages: 39-45
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:
@@ -35,6 +42,13 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/plasticite_synaptique
+- annee/1984
 ---
 
 # In vitro effects of microwave radiation on rat liver mitochondria.

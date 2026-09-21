@@ -18,6 +18,15 @@ mots_cles:
 - Ebg
 - Monopole Antenna
 - Wearable Antenna
+auteurs:
+- Li R
+- Wu C
+- Sun X
+- Zhao Y
+- Luo W
+pmcid: PMC9693111
+volume: ''
+pages: '1938'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:
@@ -29,6 +38,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # An EBG-Based Triple-Band Wearable Antenna for WBAN Applications.

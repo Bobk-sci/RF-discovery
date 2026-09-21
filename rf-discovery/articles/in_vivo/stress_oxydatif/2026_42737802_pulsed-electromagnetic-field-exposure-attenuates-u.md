@@ -39,6 +39,17 @@ mots_cles:
 - A2a Adenosine Receptor
 - Pulsed Electromagnetic Field
 - Nlrp3 Phosphorylation
+auteurs:
+- Byun KA
+- Lee JI
+- Oh S
+- Kim SE
+- Seo SB
+- Son KH
+- Byun K
+pmcid: PMC13566763
+volume: ''
+pages: '7904'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires:
@@ -53,6 +64,13 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Pulsed Electromagnetic Field Exposure Attenuates Ultraviolet B-Induced Dermal Collagen Loss in Association with A2A Adenosine Receptor Signaling.

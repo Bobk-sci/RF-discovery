@@ -20,6 +20,14 @@ types:
 - Review
 - Journal Article
 mots_cles: []
+auteurs:
+- Amaria S
+- Keltouma N
+- Turkiya A
+- Mehdi D
+pmcid: ''
+volume: ''
+pages: 47-59
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -34,6 +42,14 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Toward Breast Tumor Detection: A Miniature Antenna for Industrial, Scientific, and Medical (ISM) Band Implantation.

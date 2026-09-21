@@ -24,6 +24,17 @@ mots_cles:
 - Electromagnetic Stimulation
 - Neprilysin
 - Amyloid-beta Degrading Enzyme
+auteurs:
+- Bhattacharjee S
+- Choi J
+- Lee MQ
+- Kim M
+- Shah YH
+- Hadee A
+- Cho CS
+pmcid: ''
+volume: ''
+pages: 1742-1750
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -35,6 +46,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - neuroinflammation
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # Electromagnetic field induced activation of amyloid-β degrading enzyme, neprilysin, for accelerated Alzheimer's disease therapy.

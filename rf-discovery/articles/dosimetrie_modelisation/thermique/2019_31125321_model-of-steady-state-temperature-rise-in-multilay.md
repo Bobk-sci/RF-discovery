@@ -23,6 +23,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Gajda GB
+- Lemay E
+- Paradis J
+pmcid: ''
+volume: '117'
+pages: 254-266
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -34,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Model of Steady-state Temperature Rise in Multilayer Tissues Due to Narrow-beam Millimeter-wave Radiofrequency Field Exposure.

@@ -13,6 +13,16 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Softa V
+- Christakis C
+- Kosma F
+- Tyrakis C
+- Theodorou K
+- Kappas AC
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -24,6 +34,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # EMF Exposure in Public Places in Central Greece. Active versus Non Active Users 5G Exposure

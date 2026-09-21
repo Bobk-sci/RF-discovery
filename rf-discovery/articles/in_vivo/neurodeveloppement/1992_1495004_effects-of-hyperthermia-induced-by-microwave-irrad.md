@@ -24,6 +24,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Fukui Y
+- Hoshino K
+- Inouye M
+- Kameyama Y
+pmcid: ''
+volume: '33'
+pages: 1-10
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -41,6 +49,12 @@ theme_indices:
 - brain development
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/thermique
+- annee/1992
 ---
 
 # Effects of hyperthermia induced by microwave irradiation on brain development in mice.

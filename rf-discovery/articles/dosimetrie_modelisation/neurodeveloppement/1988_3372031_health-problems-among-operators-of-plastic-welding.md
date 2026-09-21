@@ -29,6 +29,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Kolmodin-Hedman B
+- Hansson Mild K
+- Hagberg M
+- Jönsson E
+- Andersson MC
+- Eriksson A
+pmcid: ''
+volume: '60'
+pages: 243-7
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -41,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/1988
 ---
 
 # Health problems among operators of plastic welding machines and exposure to radiofrequency electromagnetic fields.

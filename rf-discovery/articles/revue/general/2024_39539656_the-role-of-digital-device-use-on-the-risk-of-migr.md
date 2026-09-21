@@ -19,6 +19,14 @@ mots_cles:
 - Casual Effect
 - Multivariable Mendelian Randomization Study
 - Univariable Mendelian Randomization Study
+auteurs:
+- He Z
+- Qiu F
+- Yang J
+- Zhao M
+pmcid: PMC11557339
+volume: ''
+pages: '1462414'
 modele: revue
 modele_score: 2.0
 modele_secondaires:
@@ -30,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # The role of digital device use on the risk of migraine: a univariable and multivariable Mendelian randomization study.

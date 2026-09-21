@@ -25,6 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Atlas A
+- Muru-Lanning M
+- Moyes S
+- Kerse N
+- Jatrana S
+pmcid: ''
+volume: '12'
+pages: 35-40
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -36,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cognition
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Cell phone and technology use by octogenarians.

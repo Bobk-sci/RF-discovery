@@ -29,6 +29,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Krevsky MA
+- Zinina ES
+- Koshurinov Y
+- Ovechkin AM
+- Tkachenko YA
+- Han W
+- Lee SM
+- Yoon G
+pmcid: ''
+volume: '31'
+pages: 1-12
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -38,6 +50,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2006
 ---
 
 # Microwave propagation on acupuncture channels.

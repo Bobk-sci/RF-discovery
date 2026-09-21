@@ -18,6 +18,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Carpenter DO
+pmcid: ''
+volume: '30'
+pages: 217-22
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -31,6 +36,12 @@ theme_secondaires:
 theme_indices:
 - memory
 - anxiety
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2015
 ---
 
 # The microwave syndrome or electro-hypersensitivity: historical background.

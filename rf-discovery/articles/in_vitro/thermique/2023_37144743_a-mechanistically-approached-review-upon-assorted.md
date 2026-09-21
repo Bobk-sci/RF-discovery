@@ -25,6 +25,12 @@ mots_cles:
 - Health Effect
 - Carcinoma Treatment
 - Non-thermal Emf
+auteurs:
+- Askaripour K
+- Żak A
+pmcid: PMC10228405
+volume: ''
+pages: 1319-1342
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:
@@ -43,6 +49,16 @@ theme_secondaires:
 theme_indices:
 - non-thermal
 - athermal
+tags:
+- rf
+- modele/in_vitro
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # A mechanistically approached review upon assorted cell lines stimulated by athermal electromagnetic irradiation.

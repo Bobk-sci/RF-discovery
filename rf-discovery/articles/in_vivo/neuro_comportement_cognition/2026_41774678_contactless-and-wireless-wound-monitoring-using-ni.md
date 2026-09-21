@@ -29,6 +29,18 @@ mots_cles:
 - N-doped Graphene
 - Wound Monitoring
 - Antenna Sensor
+auteurs:
+- Hu J
+- Li M
+- Xuan X
+- Li W
+- Li H
+- Liu C
+- Li C
+- Li H
+pmcid: ''
+volume: ''
+pages: 2271-2281
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -41,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Contactless and Wireless Wound Monitoring Using Nitrogen-Doped Graphene Antenna Sensor.

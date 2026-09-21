@@ -2,24 +2,30 @@
 pmid: '36869795'
 doi: 10.1093/rpd/ncad056
 annee: 2023
-journal: ''
+journal: Radiation protection dosimetry
 titre: A SURVEY OF THE RADIOFREQUENCY ELECTROMAGNETIC ENERGY ENVIRONMENT IN MELBOURNE,
   AUSTRALIA.
 url: https://pubmed.ncbi.nlm.nih.gov/36869795/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Environmental Exposure
-- Electromagnetic Fields
-- Radio Waves
 - Australia
+- Electromagnetic Fields
+- Environmental Exposure
 - Electromagnetic Radiation
+- Radio Waves
 - Cell Phone
 types:
-- research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Henderson S
+- Bhatt C
+- Loughran S
+pmcid: PMC10114287
+volume: '199'
+pages: 519-526
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,11 +34,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2023
 ---
 
 # A SURVEY OF THE RADIOFREQUENCY ELECTROMAGNETIC ENERGY ENVIRONMENT IN MELBOURNE, AUSTRALIA.
 
-*journal non renseigné — 2023*
+*Radiation protection dosimetry — 2023*
 
 ## Résumé (texte d'origine)
 

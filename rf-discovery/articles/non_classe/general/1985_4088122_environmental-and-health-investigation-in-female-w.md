@@ -25,6 +25,20 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
+auteurs:
+- Desideri E
+- Fantacci M
+- Micco L
+- Bini M
+- Checcucci A
+- Ignesti A
+- Millanta L
+- Cassitto MG
+- Resti C
+- Camerino D
+pmcid: ''
+volume: '76'
+pages: 399-411
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -33,6 +47,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/1985
 ---
 
 # [Environmental and health investigation in female workers exposed to a radiofrequency electromagnetic field].
@@ -41,6 +60,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/4088122/)

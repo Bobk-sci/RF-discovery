@@ -19,6 +19,12 @@ mots_cles:
 - Small for gestational age
 - Specific Absorption Rate
 - Radiofrequency Electromagnetic Field
+auteurs:
+- Büyükeren M
+- Karanfil Yaman F
+pmcid: PMC10921072
+volume: ''
+pages: 7-12
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires:
@@ -33,6 +39,13 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Evaluation of neonatal outcomes according to the specific absorption rate values of phones used during pregnancy.

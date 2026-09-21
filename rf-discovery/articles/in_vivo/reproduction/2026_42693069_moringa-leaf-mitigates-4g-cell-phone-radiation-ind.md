@@ -18,6 +18,12 @@ mots_cles:
 - Histology
 - Electromagnetic fields
 - Moringa Oleifera
+auteurs:
+- Ramalingam S
+- Somanath D
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -33,6 +39,12 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # Moringa leaf mitigates 4G cell phone radiation-induced alterations in testicular histomorphometry and spermatogenesis during sexual maturation in Wistar rats.

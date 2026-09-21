@@ -26,6 +26,26 @@ types:
 - Research Support, N.I.H., Extramural
 - Systematic Review
 mots_cles: []
+auteurs:
+- Farge D
+- Frere C
+- Connors JM
+- Ay C
+- Khorana AA
+- Munoz A
+- Brenner B
+- Kakkar A
+- Rafii H
+- Solymoss S
+- Brilhante D
+- Monreal M
+- Bounameaux H
+- Pabinger I
+- Douketis J
+- International Initiative on Thrombosis and Cancer (ITAC) advisory panel
+pmcid: ''
+volume: '20'
+pages: e566-e581
 modele: revue
 modele_score: 1004.0
 modele_secondaires: []
@@ -38,6 +58,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2019
 ---
 
 # 2019 international clinical practice guidelines for the treatment and prophylaxis of venous thromboembolism in patients with cancer.

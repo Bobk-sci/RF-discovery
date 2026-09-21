@@ -19,6 +19,13 @@ mots_cles:
 - Silicon Carbide (Sic)
 - Polycarbosilane (Pcs)
 - Ultrahigh-Temperature Heating
+auteurs:
+- Hwang CH
+- Beak JH
+- Kim SY
+pmcid: PMC11989517
+volume: ''
+pages: '1454'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +35,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2025
 ---
 
 # Influence of Carbon Nanotube Addition on Microstructure and Microwave Heating Performance of Polycarbosilane-Based Silicon Carbide.

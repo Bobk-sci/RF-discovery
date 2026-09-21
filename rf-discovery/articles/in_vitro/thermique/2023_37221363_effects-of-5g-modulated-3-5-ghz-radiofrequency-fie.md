@@ -20,6 +20,24 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Joushomme A
+- Orlacchio R
+- Patrignoni L
+- Canovi A
+- Chappe YL
+- Poulletier De Gannes F
+- Hurtier A
+- Garenne A
+- Lagroye I
+- Moisan F
+- Cario M
+- Lévêque P
+- Arnaud-Cormos D
+- Percherancier Y
+pmcid: PMC10203668
+volume: ''
+pages: '8305'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -35,6 +53,15 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Effects of 5G-modulated 3.5 GHz radiofrequency field exposures on HSF1, RAS, ERK, and PML activation in live fibroblasts and keratinocytes cells.

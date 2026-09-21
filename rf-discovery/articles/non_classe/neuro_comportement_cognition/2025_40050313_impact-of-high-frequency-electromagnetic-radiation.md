@@ -25,6 +25,12 @@ mots_cles:
 - Growth Rate
 - Bacterial Sensitivity
 - Extremely High-frequency Electromagnetic Field
+auteurs:
+- Hegazy EA
+- El-Antrawy MA
+pmcid: PMC11885522
+volume: ''
+pages: '7852'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -34,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Impact of high frequency electromagnetic radiation on bacterial survival and antibiotic activity in exposed bacteria.

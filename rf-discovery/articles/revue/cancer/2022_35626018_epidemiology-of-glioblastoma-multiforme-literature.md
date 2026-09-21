@@ -19,6 +19,17 @@ mots_cles:
 - glioblastoma multiforme
 - protective factor
 - risk factor
+auteurs:
+- Grochans S
+- Cybulska AM
+- Simińska D
+- Korbecki J
+- Kojder K
+- Chlubek D
+- Baranowska-Bosiacka I
+pmcid: PMC9139611
+volume: '14'
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -32,6 +43,12 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2022
 ---
 
 # Epidemiology of Glioblastoma Multiforme-Literature Review.

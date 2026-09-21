@@ -21,6 +21,13 @@ mots_cles:
 - Drag And Surgical Treatment
 - Extremity Frostbites
 - Microwave Chamber
+auteurs:
+- Gavrilin EV
+- Dunaevskiy GE
+- Antipov VB
+pmcid: PMC8312917
+volume: ''
+pages: 108-110
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2021
 ---
 
 # Microwave Treatment of Cold Injuries.

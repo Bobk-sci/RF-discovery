@@ -29,6 +29,17 @@ mots_cles:
 - remote monitoring
 - skin hydration
 - time domain reflectometry
+auteurs:
+- Schiavoni R
+- Monti G
+- Piuzzi E
+- Tarricone L
+- Tedesco A
+- De Benedetto E
+- Cataldo A
+pmcid: PMC7284366
+volume: '20'
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2020
 ---
 
 # Feasibility of a Wearable Reflectometric System for Sensing Skin Hydration.

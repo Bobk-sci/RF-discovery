@@ -26,6 +26,15 @@ mots_cles:
 - LTE
 - Power spectrum
 - mobile phone
+auteurs:
+- Nakatani-Enomoto S
+- Yamazaki M
+- Nishiura K
+- Enomoto H
+- Ugawa Y
+pmcid: ''
+volume: '156'
+pages: 102-107
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -41,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effects of electromagnetic fields from long-term evolution on awake electroencephalogram in healthy humans.

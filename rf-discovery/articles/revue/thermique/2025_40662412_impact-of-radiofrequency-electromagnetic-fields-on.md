@@ -29,6 +29,12 @@ mots_cles:
 - Heart rate
 - Radiofrequency
 - heart rate variability
+auteurs:
+- Michelant L
+- Selmaoui B
+pmcid: PMC12261433
+volume: ''
+pages: e70014
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -46,6 +52,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Impact of Radiofrequency Electromagnetic Fields on Cardiac Activity at Rest: A Systematic Review of Healthy Human Studies.

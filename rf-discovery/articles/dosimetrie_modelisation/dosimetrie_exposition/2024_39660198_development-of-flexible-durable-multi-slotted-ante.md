@@ -18,6 +18,17 @@ mots_cles:
 - Specific Absorption Rate
 - Slotted Antenna
 - Wearable Iot Applications
+auteurs:
+- Sainath K
+- Gunamony SL
+- Awan WA
+- George NM
+- Sindhu MD
+- Alsunaydih FN
+- Alhassoon K
+pmcid: PMC11629234
+volume: ''
+pages: e40627
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -29,6 +40,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Development of flexible durable multi-slotted antenna for wearable applications.

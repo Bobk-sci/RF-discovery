@@ -25,6 +25,16 @@ mots_cles:
 - Mobile phone
 - Radiofrequency
 - Blood-Brain Barrier
+auteurs:
+- Simsek ET
+- Sumser K
+- Mansourinezhad P
+- Kayhan H
+- Paulides MM
+- Buyukatalay EO
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -45,6 +55,16 @@ theme_indices:
 - blood brain barrier
 - BBB permeability
 - tight junction
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2026
 ---
 
 # Experimental and clinical evidence on radiofrequency electromagnetic field effects on the blood-brain barrier: a scoping review.

@@ -26,6 +26,20 @@ mots_cles:
 - histology of brain cancer
 - mobile phone subscribers
 - topology of brain cancer
+auteurs:
+- Choi KH
+- Ha J
+- Bae S
+- Lee AK
+- Choi HD
+- Ahn YH
+- Ha M
+- Joo H
+- Kwon HJ
+- Jung KW
+pmcid: ''
+volume: '42'
+pages: 629-648
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,6 +49,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2021
 ---
 
 # Mobile Phone Use and Time Trend of Brain Cancer Incidence Rate in Korea.

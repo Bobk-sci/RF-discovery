@@ -26,6 +26,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Shaw PB
+- Snyder DL
+- Edwards RM
+pmcid: ''
+volume: '17'
+pages: 31-9
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -41,6 +50,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/thermique
+- annee/1997
 ---
 
 # Interactions of radiofrequency radiation on 2-methoxyethanol teratogenicity in rats.

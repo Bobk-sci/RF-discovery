@@ -31,6 +31,16 @@ mots_cles:
 - Microwave reaction
 - Perkin-condensation
 - Phenanthrene fused-tetrahydrodibenzo-acridinones
+auteurs:
+- Kumar NP
+- Sharma P
+- Reddy TS
+- Shankaraiah N
+- Bhargava SK
+- Kamal A
+pmcid: ''
+volume: '151'
+pages: 173-185
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires: []
@@ -51,6 +61,13 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Microwave-assisted one-pot synthesis of new phenanthrene fused-tetrahydrodibenzo-acridinones as potential cytotoxic and apoptosis inducing agents.
@@ -59,6 +76,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-An expeditious microwave-assisted one-pot synthesis of new cytotoxic phenanthrene fused-tetrahydrodibenzo-acridinones has been successfully accomplished. This protocol offers wide substrate scope, catalyst-free synthesis, atom-economy, simple recrystallization, high yields, and ethanol was used as green solvent. These new compounds were tested for their in vitro cytotoxicity against cervical (HeLa), prostate (PC-3), fibrosarcoma (HT-1080), ovarian (SKOV-3) cancer cells, and were safer to normal (Hek-293T) kidney cell line. All the compounds have displayed significant cytotoxicity profile, among them 8m being the most potent compound with an IC0.24 ± 0.05 μM against SKOV-3 ovarian cancer cells. Flow cytometry analysis revealed that cells were blocked at the G2/M phase of the cell cycle. The effect of 8m on F-actin polymerisation was also studied. Hoechst staining clearly showed the decreased number of viable cells and indicated apoptosis progression. Compound 8m caused the collapse of mitochondrial membrane potential as observed via JC-1 staining and also enhanced the generation of reactive oxygen species. The increase of caspase-3 activation by 3.7 folds supported the strong apoptosis induction. In addition, an in vitro 3D-spheroid progression assay was performed with 8m that significantly suppressed the tumor cells.
+An expeditious microwave-assisted one-pot synthesis of new cytotoxic phenanthrene fused-tetrahydrodibenzo-acridinones has been successfully accomplished. This protocol offers wide substrate scope, catalyst-free synthesis, atom-economy, simple recrystallization, high yields, and ethanol was used as green solvent. These new compounds were tested for their in vitro cytotoxicity against cervical (HeLa), prostate (PC-3), fibrosarcoma (HT-1080), ovarian (SKOV-3) cancer cells, and were safer to normal (Hek-293T) kidney cell line. All the compounds have displayed significant cytotoxicity profile, among them 8m being the most potent compound with an IC50 0.24 ± 0.05 μM against SKOV-3 ovarian cancer cells. Flow cytometry analysis revealed that cells were blocked at the G2/M phase of the cell cycle. The effect of 8m on F-actin polymerisation was also studied. Hoechst staining clearly showed the decreased number of viable cells and indicated apoptosis progression. Compound 8m caused the collapse of mitochondrial membrane potential as observed via JC-1 staining and also enhanced the generation of reactive oxygen species. The increase of caspase-3 activation by 3.7 folds supported the strong apoptosis induction. In addition, an in vitro 3D-spheroid progression assay was performed with 8m that significantly suppressed the tumor cells.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/29609122/)

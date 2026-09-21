@@ -18,6 +18,20 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Deprez K
+- Verloock L
+- Colussi L
+- Aerts S
+- Van den Bossche M
+- Kamer J
+- Bolte J
+- Martens L
+- Plets D
+- Joseph W
+pmcid: ''
+volume: '198'
+pages: 358-369
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -30,6 +44,11 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # IN-SITU 5G NR BASE STATION EXPOSURE OF THE GENERAL PUBLIC: COMPARISON OF ASSESSMENT METHODS.

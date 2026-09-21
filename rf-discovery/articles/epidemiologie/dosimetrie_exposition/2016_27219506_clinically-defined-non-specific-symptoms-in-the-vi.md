@@ -34,6 +34,19 @@ mots_cles:
 - Epidemiology
 - General practice
 - Non-specific symptoms
+auteurs:
+- Baliatsas C
+- van Kamp I
+- Bolte J
+- Kelfkens G
+- van Dijk C
+- Spreeuwenberg P
+- Hooiveld M
+- Lebret E
+- Yzermans J
+pmcid: ''
+volume: '565'
+pages: 714-720
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:
@@ -49,6 +62,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Clinically defined non-specific symptoms in the vicinity of mobile phone base stations: A retrospective before-after study.

@@ -20,6 +20,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- International Commission on Non-Ionizing Radiation Protection (ICNIRP)
+pmcid: ''
+volume: '118'
+pages: 483-524
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +35,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 300 GHz).

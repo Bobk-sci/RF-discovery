@@ -21,6 +21,14 @@ mots_cles:
 - X-band
 - Specific Absorption Rate (Sar)
 - And Medical (Ism) Band
+auteurs:
+- Abdulkawi WM
+- Masood A
+- Nizam-Uddin N
+- Alnakhli M
+pmcid: PMC10141759
+volume: ''
+pages: '819'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:
@@ -32,6 +40,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A Simulation Study of Triband Low SAR Wearable Antenna.

@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Vargas E
+- Pantoya ML
+- Saed MA
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +29,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Density-Dependent Microwave Heating of Aluminum Nanoparticle Compacts: Experimental Thermography, HFSS Simulation, and Effective-Medium Modeling

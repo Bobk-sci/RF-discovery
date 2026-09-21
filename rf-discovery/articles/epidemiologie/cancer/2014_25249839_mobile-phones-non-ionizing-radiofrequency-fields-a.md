@@ -17,6 +17,12 @@ mots_cles:
 - Brain Cancer
 - Mobile Phones
 - Radiofrequency fields
+auteurs:
+- Vijayalaxmi
+- Prihoda TJ
+pmcid: PMC4146338
+volume: '12'
+pages: 509-14
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:
@@ -30,6 +36,12 @@ theme_secondaires: []
 theme_indices:
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2014
 ---
 
 # Mobile phones, non-ionizing radiofrequency fields and brain cancer: is there an adaptive response?

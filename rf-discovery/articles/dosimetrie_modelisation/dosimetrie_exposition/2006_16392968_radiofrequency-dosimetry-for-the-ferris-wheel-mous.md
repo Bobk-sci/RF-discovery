@@ -26,6 +26,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Faraone A
+- Luengas W
+- Chebrolu S
+- Ballen M
+- Bit-Babik G
+- Gessner AV
+- Kanda MY
+- Babij T
+- Swicord ML
+- Chou CK
+pmcid: ''
+volume: '165'
+pages: 105-12
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:
@@ -40,6 +54,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2006
 ---
 
 # Radiofrequency dosimetry for the Ferris-wheel mouse exposure system.

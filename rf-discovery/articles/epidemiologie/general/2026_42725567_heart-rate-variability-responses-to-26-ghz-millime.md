@@ -19,6 +19,18 @@ mots_cles:
 - Heart-rate Variability
 - Electromagnetic Fields Exposure
 - 5G
+auteurs:
+- Michelant L
+- Jamal L
+- Stephan Blanchard E
+- Baz T
+- Leveille Nizerolle B
+- Hugueville L
+- Leveque P
+- Selmaoui B
+pmcid: ''
+volume: ''
+pages: 1-13
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -30,6 +42,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Heart rate variability responses to 26 GHz millimeter-wave exposure in healthy young adults.

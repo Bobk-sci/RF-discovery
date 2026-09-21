@@ -21,6 +21,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Tian R
+- Luo JY
+- Lu M
+- Cui JJ
+pmcid: PMC12857949
+volume: ''
+pages: e0340031
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -32,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Numerical analysis of low-frequency electromagnetic field effects from three-phase transformer on coronary stents and cardiac tissues.

@@ -27,6 +27,19 @@ mots_cles:
 - Radiofrequency
 - SKin
 - Wi-fi
+auteurs:
+- Szilágyi Z
+- Németh Z
+- Bakos J
+- Kubinyi G
+- Necz PP
+- Szabó E
+- Thuróczy G
+- Pinto R
+- Selmaoui B
+pmcid: PMC9917807
+volume: ''
+pages: '2853'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -38,6 +51,11 @@ theme_secondaires: []
 theme_indices:
 - cytokine
 - interleukin
+tags:
+- rf
+- modele/in_vitro
+- theme/neuroinflammation
+- annee/2023
 ---
 
 # Assessment of Inflammation in 3D Reconstructed Human Skin Exposed to Combined Exposure to Ultraviolet and Wi-Fi Radiation.

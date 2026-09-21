@@ -20,6 +20,13 @@ types:
 - letter
 - Journal Article
 mots_cles: []
+auteurs:
+- Witthöft M
+- Köteles F
+- Szemerszky R
+pmcid: PMC9316947
+volume: ''
+pages: '2948'
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []
@@ -29,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2022
 ---
 
 # Comment on Wardzinski et al. Mobile Phone Radiation Deflects Brain Energy Homeostasis and Prompts Human Food Ingestion. <i>Nutrients</i> 2022, <i>14</i>, 339.

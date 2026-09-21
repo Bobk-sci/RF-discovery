@@ -1,6 +1,6 @@
 ---
 pmid: '28144597'
-doi: ''
+doi: 10.1016/j.beem.2010.08.006
 annee: 2016
 journal: Journal of biomedical physics & engineering
 titre: The Fundamental Reasons Why Laptop Computers should not be Used on Your Lap.
@@ -17,6 +17,17 @@ mots_cles:
 - Posture
 - Safety
 - Laptop Computers
+auteurs:
+- Mortazavi SA
+- Taeb S
+- Mortazavi SM
+- Zarei S
+- Haghani M
+- Habibzadeh P
+- Shojaei-Fard MB
+pmcid: PMC5219578
+volume: '6'
+pages: 279-284
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +39,12 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/non_classe
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- annee/2016
 ---
 
 # The Fundamental Reasons Why Laptop Computers should not be Used on Your Lap.

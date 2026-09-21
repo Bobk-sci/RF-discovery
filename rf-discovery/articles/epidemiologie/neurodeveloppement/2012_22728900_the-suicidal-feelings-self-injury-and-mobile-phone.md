@@ -26,6 +26,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Oshima N
+- Nishida A
+- Shimodera S
+- Tochigi M
+- Ando S
+- Yamasaki S
+- Okazaki Y
+- Sasaki T
+pmcid: ''
+volume: '37'
+pages: 1023-30
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []
@@ -40,6 +52,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2012
 ---
 
 # The suicidal feelings, self-injury, and mobile phone use after lights out in adolescents.
@@ -48,12 +67,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To study association between nocturnal mobile phone use and mental health, suicidal feelings, and self-injury in adolescents.
+OBJECTIVE: To study association between nocturnal mobile phone use and mental health, suicidal feelings, and self-injury in adolescents.
 
-Associations of mobile phone use after lights out with mental health, suicidal feelings, and self-injury were cross-sectionally examined in 17,920 adolescents using a self-report questionnaire. A series of logistic regression analyses were separately conducted for early (grades 7-9) and late (grades 10-12) adolescents.
+METHODS: Associations of mobile phone use after lights out with mental health, suicidal feelings, and self-injury were cross-sectionally examined in 17,920 adolescents using a self-report questionnaire. A series of logistic regression analyses were separately conducted for early (grades 7-9) and late (grades 10-12) adolescents.
 
-Sleep length was significantly associated with the mobile phone use only in early adolescents. Logistic regression showed significant associations of the nocturnal mobile phone use with poor mental health, suicidal feelings, and self-injury after controlling for sleep length and other confounders.
+RESULTS: Sleep length was significantly associated with the mobile phone use only in early adolescents. Logistic regression showed significant associations of the nocturnal mobile phone use with poor mental health, suicidal feelings, and self-injury after controlling for sleep length and other confounders.
 
-Mobile phone use after lights out may be associated with poor mental health, suicidal feelings, and self-injury in both early and late adolescents. Association between reduced sleep and the mobile phone use was confined to early adolescents.
+CONCLUSIONS: Mobile phone use after lights out may be associated with poor mental health, suicidal feelings, and self-injury in both early and late adolescents. Association between reduced sleep and the mobile phone use was confined to early adolescents.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/22728900/)

@@ -19,6 +19,13 @@ mots_cles:
 - Calcium phosphate
 - microwave treatment
 - Tio2 Nanoflower
+auteurs:
+- Park KH
+- Song HJ
+- Park YJ
+pmcid: PMC9316246
+volume: ''
+pages: '4773'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -29,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Microwave Treatment of Calcium Phosphate/Titanium Dioxide Composite to Improve Protein Adsorption.

@@ -26,6 +26,14 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Weyandt TB
+- Schrader SM
+- Turner TW
+- Simon SD
+pmcid: ''
+volume: '10'
+pages: 521-8
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:
@@ -41,6 +49,12 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- annee/1996
 ---
 
 # Semen analysis of military personnel associated with military duty assignments.

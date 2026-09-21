@@ -15,6 +15,12 @@
           <AbstractText Label="BACKGROUND">Pregnant Wistar rats were exposed in vivo.</AbstractText>
           <AbstractText Label="RESULTS">Oxidative stress markers increased in offspring.</AbstractText>
         </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author><LastName>Durand</LastName><ForeName>Alice</ForeName><Initials>A</Initials></Author>
+          <Author><LastName>Nowak</LastName><ForeName>Karel</ForeName><Initials>K</Initials></Author>
+          <Author><CollectiveName>Fixture Study Group</CollectiveName></Author>
+        </AuthorList>
+        <Pagination><MedlinePgn>45-53</MedlinePgn></Pagination>
         <ELocationID EIdType="doi" ValidYN="Y">10.1000/fixture.2019.01</ELocationID>
       </Article>
     </MedlineCitation>

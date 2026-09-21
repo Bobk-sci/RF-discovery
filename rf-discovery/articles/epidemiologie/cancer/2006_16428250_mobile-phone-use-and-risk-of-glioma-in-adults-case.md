@@ -25,14 +25,25 @@ types:
 - Journal Article
 - Multicenter Study
 mots_cles: []
+auteurs:
+- Hepworth SJ
+- Schoemaker MJ
+- Muir KR
+- Swerdlow AJ
+- van Tongeren MJ
+- McKinney PA
+pmcid: PMC1440611
+volume: '332'
+pages: 883-7
 modele: epidemiologie
-modele_score: 7.0
+modele_score: 8.0
 modele_secondaires: []
 modele_indices:
 - case-control
 - case control
 - odds ratio
 - confidence interval
+- participants
 theme: cancer
 theme_score: 3.5
 theme_secondaires:
@@ -40,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - tumour
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- theme/neurodeveloppement
+- annee/2006
 ---
 
 # Mobile phone use and risk of glioma in adults: case-control study.
@@ -48,18 +65,18 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To investigate the risk of glioma in adults in relation to mobile phone use.
+OBJECTIVE: To investigate the risk of glioma in adults in relation to mobile phone use.
 
-Population based case-control study with collection of personal interview data.
+DESIGN: Population based case-control study with collection of personal interview data.
 
-Five areas of the United Kingdom.
+SETTING: Five areas of the United Kingdom.
 
-966 people aged 18 to 69 years diagnosed with a glioma from 1 December 2000 to 29 February 2004 and 1716 controls randomly selected from general practitioner lists.
+PARTICIPANTS: 966 people aged 18 to 69 years diagnosed with a glioma from 1 December 2000 to 29 February 2004 and 1716 controls randomly selected from general practitioner lists.
 
-Odds ratios for risk of glioma in relation to mobile phone use.
+MAIN OUTCOME MEASURES: Odds ratios for risk of glioma in relation to mobile phone use.
 
-The overall odds ratio for regular phone use was 0.94 (95% confidence interval 0.78 to 1.13). There was no relation for risk of glioma and time since first use, lifetime years of use, and cumulative number of calls and hours of use. A significant excess risk for reported phone use ipsilateral to the tumour (1.24, 1.02 to 1.52) was paralleled by a significant reduction in risk (0.75, 0.61 to 0.93) for contralateral use.
+RESULTS: The overall odds ratio for regular phone use was 0.94 (95% confidence interval 0.78 to 1.13). There was no relation for risk of glioma and time since first use, lifetime years of use, and cumulative number of calls and hours of use. A significant excess risk for reported phone use ipsilateral to the tumour (1.24, 1.02 to 1.52) was paralleled by a significant reduction in risk (0.75, 0.61 to 0.93) for contralateral use.
 
-Use of a mobile phone, either in the short or medium term, is not associated with an increased risk of glioma. This is consistent with most but not all published studies. The complementary positive and negative risks associated with ipsilateral and contralateral use of the phone in relation to the side of the tumour might be due to recall bias.
+CONCLUSIONS: Use of a mobile phone, either in the short or medium term, is not associated with an increased risk of glioma. This is consistent with most but not all published studies. The complementary positive and negative risks associated with ipsilateral and contralateral use of the phone in relation to the side of the tumour might be due to recall bias.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/16428250/)

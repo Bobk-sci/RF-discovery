@@ -22,6 +22,23 @@ mots_cles:
 - Telecommunications
 - Radiofrequency Fields
 - Human Cell Culture
+auteurs:
+- Dahon C
+- Aguida B
+- Lebon Y
+- Le Guen P
+- Dangremont A
+- Meyer O
+- Citerne JM
+- Pooam M
+- Raad H
+- Thoradit T
+- Jourdan N
+- Bertagna F
+- Ahmad M
+pmcid: PMC11939444
+volume: ''
+pages: '257'
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:
@@ -40,6 +57,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/thermique
+- annee/2025
 ---
 
 # A Novel Method for Achieving Precision and Reproducibility in a 1.8 GHz Radiofrequency Exposure System That Modulates Intracellular ROS as a Function of Signal Amplitude in Human Cell Cultures.

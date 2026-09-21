@@ -19,6 +19,18 @@ mots_cles:
 - Radioadaptive Response
 - Cell Phone
 - Radiofrequency Radiation (Rf)
+auteurs:
+- Borzoueisileh S
+- Shabestani Monfared A
+- Mortazavi SMJ
+- Zabihi E
+- Pouramir M
+- Niksirat F
+- Seyfizadeh N
+- Shafiee M
+pmcid: PMC9589077
+volume: ''
+pages: 505-512
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
@@ -30,6 +42,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # Pre-Exposure to Radiofrequency Electromagnetic Fields and Induction of Radioadaptive Response in Rats Irradiated with High Doses of X-Rays.

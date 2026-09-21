@@ -27,6 +27,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Deniz ÖG
+- Altun G
+- Kaplan S
+pmcid: PMC12461266
+volume: ''
+pages: 2789-2800
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []
@@ -44,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Melatonin and omega-3 neuroprotection in prenatal rat spinal cord exposed to 900 MHz electromagnetic field.

@@ -27,6 +27,17 @@ mots_cles:
 - adiponectin
 - Hfd
 - Multi-frequency Rf-emr
+auteurs:
+- Xu J
+- Wang X
+- Li M
+- Zhang L
+- Zhao X
+- Dong G
+- Wang C
+pmcid: ''
+volume: ''
+pages: '119016'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Multi-frequency electromagnetic radiation promoted hepatic lipid metabolism via the adiponectin pathway in mice.

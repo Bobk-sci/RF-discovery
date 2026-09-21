@@ -30,6 +30,15 @@ mots_cles:
 - ER stress
 - lipid metabolism
 - Elf-emf
+auteurs:
+- Sun Y
+- Yan W
+- Guo Y
+- Jia X
+- Zhang Z
+pmcid: ''
+volume: ''
+pages: '120386'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -43,6 +52,11 @@ theme_indices:
 - malondialdehyde
 - superoxide dismutase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Effects and mechanisms of lipidomic and development alterations in ire-1 mutant Caenorhabditis elegans under extremely low-frequency electromagnetic field exposure.

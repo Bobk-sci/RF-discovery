@@ -25,6 +25,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Mohler E
+- Frei P
+- Braun-Fahrländer C
+- Fröhlich J
+- Neubauer G
+- Röösli M
+- Qualifex Team
+pmcid: ''
+volume: '174'
+pages: 347-56
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2010
 ---
 
 # Effects of everyday radiofrequency electromagnetic-field exposure on sleep quality: a cross-sectional study.

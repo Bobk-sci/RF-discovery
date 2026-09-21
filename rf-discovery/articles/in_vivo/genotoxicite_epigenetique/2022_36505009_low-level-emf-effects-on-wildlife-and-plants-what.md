@@ -26,6 +26,13 @@ mots_cles:
 - Non-ionizing Electromagnetic Fields
 - Electro/Magnetoreception
 - Static/Extremely-Low Frequency Electromagnetic Fields
+auteurs:
+- Levitt BB
+- Lai HC
+- Manville AM 2nd
+pmcid: PMC9732734
+volume: ''
+pages: '1000840'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -36,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Low-level EMF effects on wildlife and plants: What research tells us about an ecosystem approach.

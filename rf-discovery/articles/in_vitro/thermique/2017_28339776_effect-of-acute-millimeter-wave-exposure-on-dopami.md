@@ -26,6 +26,16 @@ mots_cles:
 - dopamine turnover
 - in vitro
 - neuron-like model
+auteurs:
+- Haas AJ
+- Le Page Y
+- Zhadobov M
+- Sauleau R
+- Dréan YL
+- Saligaut C
+pmcid: PMC5569975
+volume: '58'
+pages: 439-445
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:
@@ -42,6 +52,14 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - non-thermal
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Effect of acute millimeter wave exposure on dopamine metabolism of NGF-treated PC12 cells.

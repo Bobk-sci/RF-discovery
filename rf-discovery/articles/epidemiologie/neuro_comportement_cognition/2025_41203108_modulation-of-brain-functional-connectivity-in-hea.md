@@ -33,6 +33,15 @@ mots_cles:
 - Radiofrequency
 - Human Brain Connectivity
 - Gsm 900 Mhz
+auteurs:
+- Iranfar S
+- Wallace J
+- Selmaoui B
+- Yahia-Cherif L
+- Yahia-Cherif L
+pmcid: ''
+volume: ''
+pages: 103-109
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -44,6 +53,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # Modulation of brain functional connectivity in healthy young adults following GSM radiofrequency exposure: A magnetoencephalography and magnetic resonance imaging study.

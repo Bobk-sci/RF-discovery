@@ -35,6 +35,18 @@ mots_cles:
 - Electromagnetic fields
 - Heart and brain magnetic nanoparticles
 - Magnetic motion
+auteurs:
+- Calderón-Garcidueñas L
+- Cejudo-Ruiz FR
+- González-Maciel A
+- Reynoso-Robles R
+- Ramos-Morales A
+- Pérez-Guille BE
+- Soriano-Rosales RE
+- Torres-Jardón R
+pmcid: ''
+volume: '285'
+pages: '122558'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -50,6 +62,14 @@ theme_indices:
 - fetal
 - child
 - children
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2025
 ---
 
 # Cardiovascular damage, arrhythmogenesis and overlapping Alzheimer and Parkinson's diseases and TDP-43 pathology start in pediatric and young adult urban populations: Magnetic ultrafine particulate matter and industrial particles with motion behavior play a key role.

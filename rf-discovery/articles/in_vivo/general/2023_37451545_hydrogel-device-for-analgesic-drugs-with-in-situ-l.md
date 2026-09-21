@@ -30,6 +30,21 @@ mots_cles:
 - Orthopaedics
 - PEG
 - PLA
+auteurs:
+- Grindy S
+- Gil D
+- Suhardi J
+- Fan Y
+- Moore K
+- Hugard S
+- Leape C
+- Randolph M
+- Asik MD
+- Muratoglu O
+- Oral E
+pmcid: ''
+volume: '361'
+pages: 20-28
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:
@@ -40,6 +55,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2023
 ---
 
 # Hydrogel device for analgesic drugs with in-situ loading and polymerization.

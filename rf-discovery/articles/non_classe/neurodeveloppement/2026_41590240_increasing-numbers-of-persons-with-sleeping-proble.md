@@ -17,6 +17,12 @@ mots_cles:
 - Sweden
 - Radiofrequency Radiation
 - Sleeping Problems
+auteurs:
+- Nilsson M
+- Hardell L
+pmcid: PMC12839934
+volume: ''
+pages: '25'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +33,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - children
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Increasing Numbers of Persons with Sleeping Problems in Sweden.

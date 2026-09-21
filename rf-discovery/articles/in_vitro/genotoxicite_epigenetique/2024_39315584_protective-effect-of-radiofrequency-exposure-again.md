@@ -30,6 +30,15 @@ mots_cles:
 - In vitro study
 - Radiofrequency
 - Co‐exposure
+auteurs:
+- Sannino A
+- Allocca M
+- Scarfì MR
+- Romeo S
+- Zeni O
+pmcid: ''
+volume: ''
+pages: 365-374
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:
@@ -51,6 +60,15 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - heat shock protein
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Protective effect of radiofrequency exposure against menadione-induced oxidative DNA damage in human neuroblastoma cells: The role of exposure duration and investigation on key molecular targets.

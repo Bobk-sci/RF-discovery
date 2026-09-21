@@ -13,6 +13,17 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Sivadasan G
+- Urala AS
+- Venugopal A
+- Pentapati KC
+- Ginjupalli K
+- A.T P
+- Siddalingappa D
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []
@@ -22,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2026
 ---
 
 # Effect of Cellular Radiation on Nickel Release from Fixed Orthodontic wires: An In Vitro Study

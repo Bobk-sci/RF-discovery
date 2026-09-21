@@ -25,6 +25,18 @@ mots_cles:
 - mmWave
 - propagation modeling
 - radiofrequency electromagnetic fields (RF-EMF)
+auteurs:
+- Celaya-Echarri M
+- Azpilicueta L
+- Rodríguez-Corbo FA
+- Lopez-Iturri P
+- Ramos V
+- Alibakhshikenari M
+- Shubair RM
+- Falcone F
+pmcid: PMC8709191
+volume: '21'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:
@@ -37,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Towards Environmental RF-EMF Assessment of mmWave High-Node Density Complex Heterogeneous Environments.

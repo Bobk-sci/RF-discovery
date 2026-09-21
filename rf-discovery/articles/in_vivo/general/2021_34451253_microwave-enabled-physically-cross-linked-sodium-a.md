@@ -18,6 +18,19 @@ mots_cles:
 - microwave
 - nanoparticles-film combined application
 - polymeric film
+auteurs:
+- Basit HM
+- Ali M
+- Shah MM
+- Shah SU
+- Wahab A
+- Albarqi HA
+- Alqahtani AA
+- Walbi IA
+- Khan NR
+pmcid: PMC8399952
+volume: '13'
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -28,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2021
 ---
 
 # Microwave Enabled Physically Cross Linked Sodium Alginate and Pectin Film and Their Application in Combination with Modified Chitosan-Curcumin Nanoparticles. A Novel Strategy for 2nd Degree Burns Wound Healing in Animals.

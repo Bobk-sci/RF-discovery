@@ -29,6 +29,17 @@ mots_cles:
 - oxidative stress
 - reactive oxygen species (ROS)
 - serum toxicity
+auteurs:
+- Zosangzuali M
+- Lalremruati M
+- Lalmuansangi C
+- Nghakliana F
+- Pachuau L
+- Bandara P
+- Zothan Siama
+pmcid: ''
+volume: '40'
+pages: 393-407
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -48,6 +59,12 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of radiofrequency electromagnetic radiation emitted from a mobile phone base station on the redox homeostasis in different organs of Swiss albino mice.

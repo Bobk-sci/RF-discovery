@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Vargas E
+- Malek MI
+- Pantoya M
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +29,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2025
 ---
 
 # Controlling Microwave Energy Absorption in Aluminum Particle Compacts by Tuning the Crystallinity of the Alumina Shell

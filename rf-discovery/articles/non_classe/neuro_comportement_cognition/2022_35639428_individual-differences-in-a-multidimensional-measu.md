@@ -25,6 +25,13 @@ mots_cles:
 - gender
 - mobile phones
 - self-efficacy
+auteurs:
+- Krishnan A
+- Khurana P
+- Yang F
+pmcid: ''
+volume: '25'
+pages: 471-475
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Individual Differences in a Multidimensional Measure of Compulsive Mobile Phone Use.

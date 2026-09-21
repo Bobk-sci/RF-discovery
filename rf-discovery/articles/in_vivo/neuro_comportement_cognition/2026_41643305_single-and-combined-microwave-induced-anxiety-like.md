@@ -31,6 +31,21 @@ mots_cles:
 - Blood-Brain Barrier
 - Neuronal Pyroptosis
 - Combined Microwave Exposure
+auteurs:
+- Zhou G
+- Guo L
+- Qin T
+- Zhang Z
+- Gao P
+- Wang X
+- Lin J
+- Liu L
+- Zheng B
+- Li J
+- Ding G
+pmcid: ''
+volume: ''
+pages: '119818'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -48,6 +63,14 @@ theme_indices:
 - cognitive
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/barriere_hemato_encephalique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Single and combined microwave induced anxiety-like behavior via NLRP3 dependent neuronal pyroptosis in hippocampus and amygdala in mice.

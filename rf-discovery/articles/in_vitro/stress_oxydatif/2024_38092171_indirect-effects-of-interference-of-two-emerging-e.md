@@ -27,6 +27,14 @@ mots_cles:
 - Electromagnetic Pollution
 - Intercellular Ros
 - Double And Single Dna Strand Break
+auteurs:
+- Jooyan N
+- Mortazavi SMJ
+- Goliaei B
+- Faraji-Dana R
+pmcid: ''
+volume: ''
+pages: '140942'
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires:
@@ -43,6 +51,14 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2024
 ---
 
 # Indirect effects of interference of two emerging environmental contaminants on cell health: Radiofrequency radiation and gold nanoparticles.

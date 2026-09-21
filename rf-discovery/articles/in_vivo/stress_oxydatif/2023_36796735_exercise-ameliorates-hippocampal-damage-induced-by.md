@@ -26,6 +26,14 @@ mots_cles:
 - SOD
 - Wi-Fi
 - ZO-1
+auteurs:
+- Mohamed AO
+- Hafez SMNA
+- Ibrahim RA
+- Rifaai RA
+pmcid: ''
+volume: '129'
+pages: '102252'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -39,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # Exercise ameliorates hippocampal damage induced by Wi-Fi radiation; a biochemical, histological, and immunohistochemical study.
@@ -47,14 +60,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Nowadays, using electromagnetic devices (EMD) has been increased. However, the control of EMD hazards was poorly evaluated, especially those affected the hippocampus. Regular physical exercises are safe, easily, inexpensive, and acceptable for long-term use. It is reported that exercise protects against many health problems.
+INTRODUCTION: Nowadays, using electromagnetic devices (EMD) has been increased. However, the control of EMD hazards was poorly evaluated, especially those affected the hippocampus. Regular physical exercises are safe, easily, inexpensive, and acceptable for long-term use. It is reported that exercise protects against many health problems.
 
-is to investigate the hypothesis of the possible prophylactic effect of exercise on the hippocampal damage induced by electromagnetic waves of Wi-Fi.
+AIM: is to investigate the hypothesis of the possible prophylactic effect of exercise on the hippocampal damage induced by electromagnetic waves of Wi-Fi.
 
-Adult male albino rats were divided into four groups: group I (control), group II (exercise), group III (Wi-Fi), and group IV (exercise -Wi-Fi). Hippocampi were subjected to biochemical, histological, and immunohistochemical techniques.
+MATERIAL AND METHODS: Adult male albino rats were divided into four groups: group I (control), group II (exercise), group III (Wi-Fi), and group IV (exercise -Wi-Fi). Hippocampi were subjected to biochemical, histological, and immunohistochemical techniques.
 
-In group III, a significant increase in the oxidative enzymes as well as decrease in antioxidant enzymes were detected in rat hippocampus. Additionally, the hippocampus showed degenerated pyramidal and granular neurons. An evident decrease in both PCNA and ZO-1 immunoreactivity was also noticed. In group IV, physical exercise alleviates the effect of Wi-Fi on previously mentioned parameters.
+RESULTS: In group III, a significant increase in the oxidative enzymes as well as decrease in antioxidant enzymes were detected in rat hippocampus. Additionally, the hippocampus showed degenerated pyramidal and granular neurons. An evident decrease in both PCNA and ZO-1 immunoreactivity was also noticed. In group IV, physical exercise alleviates the effect of Wi-Fi on previously mentioned parameters.
 
-Regular physical exercise performance significantly minimizes the hippocampal damage and protects against the hazarders of chronic Wi-Fi radiation exposure.
+CONCLUSION: Regular physical exercise performance significantly minimizes the hippocampal damage and protects against the hazarders of chronic Wi-Fi radiation exposure.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/36796735/)

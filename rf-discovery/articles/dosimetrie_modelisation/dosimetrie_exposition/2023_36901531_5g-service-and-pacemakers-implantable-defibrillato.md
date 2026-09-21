@@ -21,6 +21,16 @@ mots_cles:
 - ICDs
 - exposure assessment
 - pacemakers
+auteurs:
+- Vivarelli C
+- Censi F
+- Calcagnini G
+- De Ruvo E
+- Calò L
+- Mattei E
+pmcid: PMC10001652
+volume: '20'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -31,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # 5G Service and Pacemakers/Implantable Defibrillators: What Is the Actual Risk?

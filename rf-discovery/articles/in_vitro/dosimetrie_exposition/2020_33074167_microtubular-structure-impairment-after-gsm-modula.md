@@ -2,27 +2,35 @@
 pmid: '33074167'
 doi: 10.2478/aiht-2020-71-3267
 annee: 2020
-journal: Arhiv za higijenu rada i toksikologiju
+journal: ''
 titre: Microtubular structure impairment after GSM-modulated RF radiation exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/33074167/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Cell Phone
+- Microtubules
 - Cell Proliferation
 - Electromagnetic Fields
-- Microtubules
-- Radiation Exposure
 - Radio Waves
+- Radiation Exposure
+- Cell Phone
 types:
+- research-article
 - Journal Article
 mots_cles:
-- 915 MHz
-- cell growth
-- cytoskeleton
-- in vitro
-- mobile phone radiation
+- In vitro
+- Cytoskeleton
+- Cell growth
+- Mobile Phone Radiation
+- 915 Mhz
+auteurs:
+- Čermak AMM
+- Ilić K
+- Pavičić I
+pmcid: PMC7968504
+volume: ''
+pages: 205-210
 modele: in_vitro
 modele_score: 4.0
 modele_secondaires:
@@ -37,11 +45,18 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - electric field strength
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Microtubular structure impairment after GSM-modulated RF radiation exposure.
 
-*Arhiv za higijenu rada i toksikologiju — 2020*
+*journal non renseigné — 2020*
 
 ## Résumé (texte d'origine)
 

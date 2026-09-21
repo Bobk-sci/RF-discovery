@@ -35,6 +35,25 @@ mots_cles:
 - Microwave Exposure
 - Slc7a11
 - Reproductive Damage
+auteurs:
+- Gao J
+- Li X
+- Hou Y
+- Li Y
+- Pang Y
+- Wu X
+- Zhao L
+- Zhang J
+- Wang H
+- Wang H
+- Dong J
+- Xu X
+- Peng R
+- Wang Y
+- Yao B
+pmcid: ''
+volume: ''
+pages: '118523'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -56,6 +75,14 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - Nrf2
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Microwave exposure induced ferroptosis by inhibiting the Nrf2 pathway and affected reproductive function in male mice.

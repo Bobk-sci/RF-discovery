@@ -14,6 +14,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Asano M
+- Tanaka S
+- Sakaguchi M
+- Matsumura H
+- Yamaguchi T
+- Fujita Y
+- Tabuse K
+pmcid: PMC5595850
+volume: '7'
+pages: '11406'
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires: []
@@ -31,6 +42,14 @@ theme_indices:
 - caspase
 - mitochondrial
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2017
 ---
 
 # Normothermic Microwave Irradiation Induces Death of HL-60 Cells through Heat-Independent Apoptosis.

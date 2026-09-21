@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Douka K
+- Skoulakis EMC
+- Turin L
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
@@ -24,6 +31,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # A candidate electromagnetic channel for coordination between physically separated Drosophila

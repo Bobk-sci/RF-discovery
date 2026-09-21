@@ -26,6 +26,11 @@ mots_cles:
 - Impact of pulsation and polarization
 - Testis/sperm count and quality
 - Wi-Fi or WiFi
+auteurs:
+- Pall ML
+pmcid: ''
+volume: '164'
+pages: 405-416
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -41,6 +46,14 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Wi-Fi is an important threat to human health.

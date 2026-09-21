@@ -21,6 +21,18 @@ mots_cles:
 - Specific Absorption Rate
 - Intrinsic Loss Power
 - Phytochemical Reduction
+auteurs:
+- Góral-Kowalczyk M
+- Grządka E
+- Orzeł J
+- Góral D
+- Skrzypek T
+- Kobus Z
+- Koval I
+- Marczuk A
+pmcid: PMC13450626
+volume: ''
+pages: '628375'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:
@@ -36,6 +48,14 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- modele/in_vivo
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Biogenic Nickel Ferrite Nanoparticles Synthesized From Agro-Waste: Green Synthesis, Physicochemical Characterization, and Potential for Magnetic Hyperthermia Applications.

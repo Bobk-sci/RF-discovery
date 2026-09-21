@@ -38,6 +38,16 @@ mots_cles:
 - Glial fibrillary acidic protein
 - Myelin basic protein
 - Open field
+auteurs:
+- Barthélémy A
+- Mouchard A
+- Bouji M
+- Blazy K
+- Puigsegur R
+- Villégier AS
+pmcid: ''
+volume: '23'
+pages: 25343-25355
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -56,6 +66,15 @@ theme_secondaires:
 theme_indices:
 - memory
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Glial markers and emotional memory in rats following acute cerebral radiofrequency exposures.

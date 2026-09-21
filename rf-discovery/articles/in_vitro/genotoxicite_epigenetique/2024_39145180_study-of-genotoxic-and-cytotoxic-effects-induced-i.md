@@ -28,6 +28,27 @@ mots_cles:
 - Radiofrequency
 - Mitotic Spindle
 - 1.6 Ghz
+auteurs:
+- Massaro L
+- De Sanctis S
+- Franchini V
+- Regalbuto E
+- Alfano G
+- Focaccetti C
+- Benvenuto M
+- Cifaldi L
+- Sgura A
+- Berardinelli F
+- Marinaccio J
+- Barbato F
+- Rossi E
+- Nardozi D
+- Masuelli L
+- Bei R
+- Lista F
+pmcid: PMC11323689
+volume: ''
+pages: '1419525'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:
@@ -48,6 +69,16 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/eeg_sommeil
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Study of genotoxic and cytotoxic effects induced in human fibroblasts by exposure to pulsed and continuous 1.6 GHz radiofrequency.

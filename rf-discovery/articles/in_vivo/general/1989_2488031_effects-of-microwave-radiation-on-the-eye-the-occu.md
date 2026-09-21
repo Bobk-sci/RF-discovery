@@ -22,6 +22,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Cutz A
+pmcid: ''
+volume: '6'
+pages: 379-86
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -32,6 +37,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/1989
 ---
 
 # Effects of microwave radiation on the eye: the occupational health perspective.

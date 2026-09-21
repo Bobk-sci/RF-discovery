@@ -27,6 +27,19 @@ mots_cles:
 - Indoor
 - Modelling
 - Radio wave propagation
+auteurs:
+- Beekhuizen J
+- Vermeulen R
+- van Eijsden M
+- van Strien R
+- Bürgi A
+- Loomans E
+- Guxens M
+- Kromhout H
+- Huss A
+pmcid: ''
+volume: '67'
+pages: 22-6
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:
@@ -38,6 +51,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Modelling indoor electromagnetic fields (EMF) from mobile phone base stations for epidemiological studies.

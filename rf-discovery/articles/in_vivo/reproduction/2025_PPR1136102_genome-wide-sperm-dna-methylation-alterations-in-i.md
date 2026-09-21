@@ -13,6 +13,12 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Ma Y
+- Tang Z
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -25,6 +31,12 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Genome-wide sperm DNA methylation alterations in individuals exposed to radar electromagnetic radiation

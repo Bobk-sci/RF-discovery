@@ -22,6 +22,16 @@ mots_cles:
 - Spatial Representation
 - Radio-frequency Electromagnetic Fields
 - Exposure Maps
+auteurs:
+- Guillén-Pina J
+- Pérez-Aracil J
+- Chocano-Del-Cerro R
+- Sánchez-Montero R
+- López-Espí PL
+- Salcedo-Sanz S
+pmcid: ''
+volume: ''
+pages: '121636'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Efficient design of electromagnetic field exposure maps with multi-method evolutionary ensembles.

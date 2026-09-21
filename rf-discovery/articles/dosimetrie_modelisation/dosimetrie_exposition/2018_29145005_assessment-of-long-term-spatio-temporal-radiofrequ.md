@@ -26,6 +26,14 @@ mots_cles:
 - Radiofrequency electromagnetic fields
 - Spatio-temporal exposure assessment
 - Telecommunications
+auteurs:
+- Aerts S
+- Wiart J
+- Martens L
+- Joseph W
+pmcid: ''
+volume: '161'
+pages: 136-143
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -38,6 +46,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Assessment of long-term spatio-temporal radiofrequency electromagnetic field exposure.

@@ -31,6 +31,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Oral B
+- Guney M
+- Ozguner F
+- Karahan N
+- Mungan T
+- Comlekci S
+- Cesur G
+pmcid: ''
+volume: '23'
+pages: 957-73
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -49,6 +60,12 @@ theme_indices:
 - malondialdehyde
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2006
 ---
 
 # Endometrial apoptosis induced by a 900-MHz mobile phone: preventive effects of vitamins E and C.

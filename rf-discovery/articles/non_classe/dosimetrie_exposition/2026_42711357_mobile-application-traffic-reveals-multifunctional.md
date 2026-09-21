@@ -2,21 +2,31 @@
 pmid: '42711357'
 doi: 10.1038/s41598-026-61506-6
 annee: 2026
-journal: ''
+journal: Scientific reports
 titre: Mobile application traffic reveals multifunctional use patterns in Parisian
   parks.
 url: https://pubmed.ncbi.nlm.nih.gov/42711357/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
+- Parks, Recreational
 - Paris
 - Mobile Applications
-- Parks, Recreational
+- Humans
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Zanella AF
+- Dietz LW
+- Šćepanović S
+- Zhou K
+- Smoreda Z
+- Quercia D
+pmcid: PMC13554209
+volume: '16'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -26,11 +36,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Mobile application traffic reveals multifunctional use patterns in Parisian parks.
 
-*journal non renseigné — 2026*
+*Scientific reports — 2026*
 
 ## Résumé (texte d'origine)
 

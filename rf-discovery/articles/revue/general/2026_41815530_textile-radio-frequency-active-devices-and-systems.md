@@ -15,6 +15,18 @@ types:
 - Review
 - Journal Article
 mots_cles: []
+auteurs:
+- Song W
+- Chen H
+- Kou Z
+- Chen Z
+- Li J
+- Liu T
+- Fan X
+- Lu W
+pmcid: PMC12972507
+volume: ''
+pages: '1101'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -25,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2026
 ---
 
 # Textile Radio-Frequency Active Devices and Systems: Wireless Communication and Energy Harvesting.

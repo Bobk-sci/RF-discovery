@@ -31,6 +31,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Krieg EF
+- Snyder DL
+- Edwards RM
+pmcid: ''
+volume: '18'
+pages: 349-59
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:
@@ -48,6 +57,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/neurodeveloppement
+- annee/1997
 ---
 
 # Interactions of radiofrequency radiation-induced hyperthermia and 2-methoxyethanol teratogenicity in rats.

@@ -26,6 +26,14 @@ mots_cles:
 - Vector Control
 - Radio Frequency
 - Ae. Aegypti
+auteurs:
+- Dom NC
+- Dapari R
+- Halim NMHNA
+- Rahman ATA
+pmcid: PMC12368203
+volume: ''
+pages: '30571'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -36,6 +44,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Combined effects of constant temperature and radio frequency exposure on Aedes mosquito development.

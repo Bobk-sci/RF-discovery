@@ -23,6 +23,12 @@ mots_cles:
 - Amc Metasurface
 - On-Body Applications
 - Uhf-Rfid System
+auteurs:
+- Bansal A
+- Casula GA
+pmcid: PMC13030132
+volume: ''
+pages: '1922'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -34,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Compact AMC-Backed Flexible UHF RFID Tag Antenna for On-Body Biomedical Applications.

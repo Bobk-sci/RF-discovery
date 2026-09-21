@@ -18,6 +18,13 @@ mots_cles:
 - Magnetic Hyperthermia
 - Specific Absorption Rate (Sar)
 - Dipole–dipole Magnetic Interaction
+auteurs:
+- Moisiuc VM
+- Astefanoaei I
+- Stancu A
+pmcid: PMC13567240
+volume: ''
+pages: '1069'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -31,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # From Dipolar Interactions to Tissue Heating: A Multiscale Model for Magnetic Hyperthermia.

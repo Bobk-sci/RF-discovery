@@ -34,6 +34,13 @@ mots_cles:
 - Microwave
 - Oleic acid
 - Transdermal
+auteurs:
+- Harjoh N
+- Wong TW
+- Caramella C
+pmcid: ''
+volume: '584'
+pages: '119416'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -47,6 +54,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2020
 ---
 
 # Transdermal insulin delivery with microwave and fatty acids as permeation enhancers.

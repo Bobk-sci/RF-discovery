@@ -15,6 +15,19 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Nichols ZE
+- Zhang M
+- Agarwal V
+- Koepp B
+- Denny E
+- Al-Anesi A
+- Gunasekara S
+- Mutasim A
+- Geddes CD
+pmcid: ''
+volume: ''
+pages: 924-939
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:
@@ -28,6 +41,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2026
 ---
 
 # Applying spoof-plasmonic metasurfaces to microwave sample preparation of biological samples.

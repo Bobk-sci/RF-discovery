@@ -26,6 +26,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Yin Y
+- Xu X
+- Gao Y
+- Wang J
+- Yao B
+- Zhao L
+- Wang H
+- Wang H
+- Dong J
+- Zhang J
+- Peng R
+pmcid: PMC8709747
+volume: ''
+pages: '3985697'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:
@@ -40,6 +55,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Abnormal Expression of Connexin43 in Cardiac Injury Induced by S-Band and X-Band Microwave Exposure in Rats.

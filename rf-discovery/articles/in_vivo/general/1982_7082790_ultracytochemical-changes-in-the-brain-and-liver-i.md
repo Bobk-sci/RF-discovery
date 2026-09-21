@@ -23,6 +23,13 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
+auteurs:
+- Belokrinitskiĭ VS
+- Tomashevskaia LA
+- Konobeeva GI
+pmcid: ''
+volume: '93'
+pages: 112-6
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -33,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/1982
 ---
 
 # [Ultracytochemical changes in the brain and liver in exposure to low-intensity nonionizing microwave radiation].

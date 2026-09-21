@@ -17,6 +17,15 @@ mots_cles:
 - Smartwatch Electromagnetic Exposure
 - Electromagnetic Radiation Protection
 - Metamaterial Protection Layer
+auteurs:
+- Zhou WY
+- Hou WQ
+- Luo MF
+- Lu M
+- Hu YW
+pmcid: ''
+volume: ''
+pages: 1-10
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -32,6 +41,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # Smartwatch low-SAR approach based on antenna integrated with metamaterial protection layer.

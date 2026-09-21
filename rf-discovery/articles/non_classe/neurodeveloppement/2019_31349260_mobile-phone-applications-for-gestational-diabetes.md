@@ -25,6 +25,17 @@ mots_cles:
 - Gestational Diabetes
 - Mobile applications
 - Smart phone
+auteurs:
+- Nikolopoulos M
+- Karampela I
+- Antonakos G
+- Tzortzis E
+- Stratigou T
+- Diomidous M
+- Dalamaga M
+pmcid: ''
+volume: '262'
+pages: 39-42
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -36,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - neonatal
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Mobile Phone Applications for Gestational Diabetes Mellitus: Appraisal and Perspectives.

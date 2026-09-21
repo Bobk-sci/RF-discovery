@@ -21,6 +21,15 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
+auteurs:
+- Vijayalaxmi
+- Leal BZ
+- Szilagyi M
+- Prihoda TJ
+- Meltz ML
+pmcid: ''
+volume: '153'
+pages: 479-86
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires:
@@ -38,6 +47,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2000
 ---
 
 # Primary DNA damage in human blood lymphocytes exposed in vitro to 2450 MHz radiofrequency radiation.

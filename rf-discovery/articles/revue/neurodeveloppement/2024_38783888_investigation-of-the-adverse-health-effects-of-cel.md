@@ -19,6 +19,13 @@ mots_cles:
 - Radiation
 - Mobile phone
 - Health
+auteurs:
+- Elyasi H
+- Ghanbari M
+- Nadri F
+pmcid: PMC11111148
+volume: ''
+pages: 18-22
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []
@@ -34,6 +41,13 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+tags:
+- rf
+- modele/revue
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Investigation of the Adverse Health Effects of Cell Phone Radiation and Propose Solutions to Minimize Them: A Systematic Review.

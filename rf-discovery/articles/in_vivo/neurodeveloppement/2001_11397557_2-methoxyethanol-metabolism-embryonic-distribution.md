@@ -32,6 +32,17 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
+auteurs:
+- Cheever KL
+- Swearengin TF
+- Edwards RM
+- Nelson BK
+- Werren DW
+- Conover DL
+- DeBord DG
+pmcid: ''
+volume: '122'
+pages: 53-67
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []
@@ -49,6 +60,12 @@ theme_indices:
 - pregnancy
 - fetal
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2001
 ---
 
 # 2-Methoxyethanol metabolism, embryonic distribution, and macromolecular adduct formation in the rat: the effect of radiofrequency radiation-induced hyperthermia.

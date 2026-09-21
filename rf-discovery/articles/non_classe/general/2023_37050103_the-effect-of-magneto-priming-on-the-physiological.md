@@ -19,6 +19,17 @@ mots_cles:
 - Ultra-high Frequency
 - Drying Modelling
 - Electromagnetic Bio Stimulation
+auteurs:
+- de Faria RQ
+- Dos Santos ARP
+- Batista TB
+- Gariepy Y
+- da Silva EAA
+- Sartori MMP
+- Raghavan V
+pmcid: PMC10096772
+volume: ''
+pages: '1477'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2023
 ---
 
 # The Effect of Magneto-Priming on the Physiological Quality of Soybean Seeds.

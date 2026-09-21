@@ -19,6 +19,19 @@ mots_cles:
 - Pin Diode
 - Frequency Reconfigurability
 - Bending Investigation
+auteurs:
+- Salisu A
+- Elwanis MA
+- Elfergani I
+- Musa U
+- Alfares A
+- Gharbia I
+- Rodriguez J
+- See CH
+- Abd-Alhameed R
+pmcid: PMC12749218
+volume: ''
+pages: '44912'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:
@@ -36,6 +49,14 @@ theme_indices:
 - specific absorption rate
 - SAR value
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- modele/revue
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Machine learning-optimized compact wearable frequency reconfigurable antenna for sub-6 GHz/mm-wave 5G integration.

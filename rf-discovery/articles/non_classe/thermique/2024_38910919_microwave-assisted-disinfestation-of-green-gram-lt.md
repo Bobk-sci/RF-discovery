@@ -19,6 +19,15 @@ mots_cles:
 - Disinfestation
 - Cooking Time
 - Callasobruchus
+auteurs:
+- Guru PN
+- Kumar V
+- Nancy M
+- Sharma A
+- Yadav DN
+pmcid: PMC11190097
+volume: ''
+pages: 1355-1362
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +37,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2024
 ---
 
 # Microwave assisted disinfestation of green gram (&lt;i&gt;Vigna radiata&lt;/i&gt; L.) infested with pulse beetle, &lt;i&gt;Callasobruchus maculatus&lt;/i&gt; (F.).

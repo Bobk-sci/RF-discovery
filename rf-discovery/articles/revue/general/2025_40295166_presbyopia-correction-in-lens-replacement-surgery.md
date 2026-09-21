@@ -25,6 +25,12 @@ mots_cles:
 - monovision
 - multifocal intraocular lenses
 - presbyopia
+auteurs:
+- Stern B
+- Gatinel D
+pmcid: PMC12326228
+volume: '53'
+pages: 668-681
 modele: revue
 modele_score: 1002.5
 modele_secondaires: []
@@ -35,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2025
 ---
 
 # Presbyopia Correction in Lens Replacement Surgery: A Review.

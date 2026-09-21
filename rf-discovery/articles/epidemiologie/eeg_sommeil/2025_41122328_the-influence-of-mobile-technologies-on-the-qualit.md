@@ -17,6 +17,14 @@ mots_cles:
 - Mobile Phones
 - Radiofrequency
 - Sleep Quality
+auteurs:
+- Slezáková Z
+- Baláž J
+- Wimmerová S
+- Valachovičová M
+pmcid: PMC12536906
+volume: '15'
+pages: 491-496
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -29,6 +37,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # The Influence of Mobile Technologies on the Quality of Sleep.

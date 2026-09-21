@@ -18,6 +18,17 @@ mots_cles:
 - Circularly Polarized Antenna
 - Button Antennas
 - Wireless Body-area Networks (Wbans)
+auteurs:
+- Li XP
+- Dong ZY
+- Yang XQ
+- Yang MB
+- Li XY
+- Wu XQ
+- Li W
+pmcid: PMC12843944
+volume: ''
+pages: '28'
 modele: ingenierie_materiel
 modele_score: 1005.5
 modele_secondaires:
@@ -32,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A Compact Button Antenna with Dual-Band and Dual-Polarization for Wearable Body Area Networks.

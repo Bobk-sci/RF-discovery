@@ -27,6 +27,11 @@ types:
 - Evaluation Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Sidhu KS
+pmcid: ''
+volume: '38'
+pages: 336-44
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -38,6 +43,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/cancer
+- annee/2003
 ---
 
 # Health benefits and potential risks related to consumption of fish or fish oil.

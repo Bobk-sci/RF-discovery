@@ -24,6 +24,19 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Zheng F
+- Gao P
+- He M
+- Li M
+- Wang C
+- Zeng Q
+- Zhou Z
+- Yu Z
+- Zhang L
+pmcid: PMC4190308
+volume: '14'
+pages: '1022'
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires: []
@@ -40,6 +53,12 @@ theme_indices:
 - ADHD
 - attention deficit
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2014
 ---
 
 # Association between mobile phone use and inattention in 7102 Chinese adolescents: a population-based cross-sectional study.
@@ -48,12 +67,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The dramatic growth of mobile phone (MP) use among young people has increased interest in its possible health hazards in this age group. The aim of this cross-sectional study was to investigate the association between MP use and inattention in adolescents.
+BACKGROUND: The dramatic growth of mobile phone (MP) use among young people has increased interest in its possible health hazards in this age group. The aim of this cross-sectional study was to investigate the association between MP use and inattention in adolescents.
 
-A total of 7720 middle school students were involved in this cross-sectional study. Inattention was assessed as defined for the Attention Deficit component of Attention deficit/Hyperactivity disorder (ADHD) by the Diagnostic and Statistical Manual of Mental Disorders (4th ed., text rev. [DSM-IV-TR]). The demographic characteristics and information on MP use were included in the questionnaire. Chi-square tests and logistic regression models were used to analyze the data.
+METHODS: A total of 7720 middle school students were involved in this cross-sectional study. Inattention was assessed as defined for the Attention Deficit component of Attention deficit/Hyperactivity disorder (ADHD) by the Diagnostic and Statistical Manual of Mental Disorders (4th ed., text rev. [DSM-IV-TR]). The demographic characteristics and information on MP use were included in the questionnaire. Chi-square tests and logistic regression models were used to analyze the data.
 
-In total, 7102 (91.99%) valid questionnaires were obtained. After adjusted for confounders, inattention in adolescents was significantly associated with MP ownership, the time spent on entertainment on MP per day, the position of the MP during the day and the mode of the MP at night. The strongest association between inattention and the time spent on the MP was among students who spent more than 60 minutes per day playing on their MP.
+RESULTS: In total, 7102 (91.99%) valid questionnaires were obtained. After adjusted for confounders, inattention in adolescents was significantly associated with MP ownership, the time spent on entertainment on MP per day, the position of the MP during the day and the mode of the MP at night. The strongest association between inattention and the time spent on the MP was among students who spent more than 60 minutes per day playing on their MP.
 
-Our study shows some associations between MP use and inattention in Chinese adolescents. Decreasing MP usage to less than 60 minutes per day may help adolescents to stay focused and centered.
+CONCLUSIONS: Our study shows some associations between MP use and inattention in Chinese adolescents. Decreasing MP usage to less than 60 minutes per day may help adolescents to stay focused and centered.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/25273315/)

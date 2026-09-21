@@ -34,6 +34,13 @@ mots_cles:
 - Personal measurements
 - Radiofrequency electromagnetic fields
 - Switzerland
+auteurs:
+- Roser K
+- Schoeni A
+- Röösli M
+pmcid: ''
+volume: '219'
+pages: 759-769
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []
@@ -51,6 +58,12 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2016
 ---
 
 # Mobile phone use, behavioural problems and concentration capacity in adolescents: A prospective study.

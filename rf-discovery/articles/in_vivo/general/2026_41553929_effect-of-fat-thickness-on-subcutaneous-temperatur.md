@@ -26,6 +26,15 @@ mots_cles:
 - Fat Thickness
 - Monopolar Radiofrequency
 - Subcutaneous Temperature Change
+auteurs:
+- Ye P
+- Zong J
+- Kang Q
+- Liu C
+- Han B
+pmcid: ''
+volume: ''
+pages: 82-92
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -36,6 +45,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2026
 ---
 
 # Effect of fat thickness on subcutaneous temperature field under monopolar radiofrequency.

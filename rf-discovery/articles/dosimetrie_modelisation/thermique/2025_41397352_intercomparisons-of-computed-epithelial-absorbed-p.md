@@ -28,6 +28,23 @@ mots_cles:
 - Dosimetry Modeling
 - Millimetre-Wave
 - Epithelial/absorbed Power Density
+auteurs:
+- Li K
+- Kodera S
+- Poljak D
+- Prokop A
+- Diao Y
+- Zhang S
+- Yao M
+- Li C
+- Wu T
+- Liebig T
+- Simon W
+- Škiljo M
+- Hirata A
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires:
@@ -43,6 +60,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Intercomparisons of computed epithelial/absorbed power density and temperature rise in anatomical human face models under localized exposures at 10 GHz and 30 GHz.

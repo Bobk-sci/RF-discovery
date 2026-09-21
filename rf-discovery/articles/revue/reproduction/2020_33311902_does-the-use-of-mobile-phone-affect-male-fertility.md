@@ -1,22 +1,28 @@
 ---
 pmid: '33311902'
-doi: 10.4103/jhrs.JHRS_126_19
+doi: 10.4103/jhrs.jhrs_126_19
 annee: 2020
-journal: Journal of human reproductive sciences
+journal: ''
 titre: Does the Use of Mobile Phone Affect Male Fertility? A Mini-Review.
 url: https://pubmed.ncbi.nlm.nih.gov/33311902/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
+- Mobile phone
 - Electromagnetic fields
-- male reproductive health
-- mobile phone
-- wireless technology
+- Wireless Technology
+- Male Reproductive Health
+auteurs:
+- Okechukwu CE
+pmcid: PMC7727890
+volume: ''
+pages: 174-183
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -32,11 +38,18 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2020
 ---
 
 # Does the Use of Mobile Phone Affect Male Fertility? A Mini-Review.
 
-*Journal of human reproductive sciences — 2020*
+*journal non renseigné — 2020*
 
 ## Résumé (texte d'origine)
 

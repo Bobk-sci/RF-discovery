@@ -26,6 +26,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Sirinyildiz F
+- Cesur G
+- Elmas O
+- Elmas S
+- Comlekci S
+- Yazıcı O
+- Keskin A
+- Keskin HE
+pmcid: PMC12131892
+volume: ''
+pages: e20241812
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -37,6 +49,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Effect of short-term extremely low-frequency electromagnetic field on respiratory functions.

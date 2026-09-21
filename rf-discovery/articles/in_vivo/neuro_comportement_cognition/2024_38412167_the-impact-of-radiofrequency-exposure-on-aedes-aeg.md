@@ -21,6 +21,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Nik Abdull Halim NMH
+- Mohd Jamili AF
+- Che Dom N
+- Abd Rahman NH
+- Jamal Kareem Z
+- Dapari R
+pmcid: PMC10898727
+volume: ''
+pages: e0298738
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -32,6 +42,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2024
 ---
 
 # The impact of radiofrequency exposure on Aedes aegypti (Diptera: Culicidae) development.

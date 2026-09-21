@@ -17,6 +17,14 @@ mots_cles:
 - Energy consumption
 - Quality Attributes
 - Microwave-assisted Freezing (Maf)
+auteurs:
+- Vardanjani MY
+- Hamdami N
+- Dalvi-Isfahan M
+- Le-Bail A
+pmcid: PMC11487412
+volume: ''
+pages: '2805'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2024
 ---
 
 # Enhancing Mushroom Freezing Quality Using Microwave-Assisted Technology.

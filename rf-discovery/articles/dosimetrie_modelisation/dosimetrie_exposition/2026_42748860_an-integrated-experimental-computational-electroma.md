@@ -22,6 +22,17 @@ mots_cles:
 - Bioheat Modeling
 - Wireless Earbuds
 - Electromagnetic–thermal Coupling
+auteurs:
+- Horvat ID
+- Vidjak K
+- Wedel J
+- Iljaž J
+- Kamenik B
+- Poljak D
+- Ravnik J
+pmcid: ''
+volume: ''
+pages: '104570'
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []
@@ -34,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # An integrated experimental-computational electromagnetic-thermal framework for predicting bioheat response of the human head to wearable wireless devices.

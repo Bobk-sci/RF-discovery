@@ -20,6 +20,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Albert EN
+- Sherif M
+pmcid: ''
+volume: '257'
+pages: 135-51
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:
@@ -35,6 +41,13 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- theme/neurodeveloppement
+- annee/1988
 ---
 
 # Morphological changes in cerebellum of neonatal rats exposed to 2.45 GHz microwaves.

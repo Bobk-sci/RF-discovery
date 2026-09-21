@@ -19,6 +19,16 @@ mots_cles:
 - Hot-melt Adhesives
 - Metallic Insertions
 - Polyolefin/aluminum Bonding Technology
+auteurs:
+- Ciobanu RC
+- Damian RF
+- Aradoaei M
+- Schreiner CM
+- Caramitu AR
+- Ursache G
+pmcid: PMC13119971
+volume: ''
+pages: '930'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -32,6 +42,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Modeling of Polyolefin-Aluminum Bonding Technology Under Electromagnetic Energy: Using Hot-Melt Adhesives with Metallic Micro-Additives.

@@ -21,6 +21,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Fallah Yekta M
+- Soltani S
+- Shayanfar M
+- Benisi-Kohansal S
+- Mohammad-Shirazi M
+- Sharifi G
+- Esmaillzadeh A
+pmcid: ''
+volume: '30'
+pages: 322-327
 modele: epidemiologie
 modele_score: 1010.0
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2021
 ---
 
 # A case-control study on dietary calcium intake and risk of glioma.

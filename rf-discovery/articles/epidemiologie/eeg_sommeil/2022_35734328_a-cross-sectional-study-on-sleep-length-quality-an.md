@@ -27,6 +27,12 @@ mots_cles:
 - mobile phone
 - sleep length
 - sleep quality
+auteurs:
+- Moustakbal M
+- Maataoui SB
+pmcid: PMC9187978
+volume: '41'
+pages: '252'
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -42,6 +48,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # A cross-sectional study on sleep length, quality, and mobile phone use among Moroccan adolescents.
@@ -50,12 +63,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-sleep plays an important role in learning and the formation of memories among adolescents, and lack of sleep affects their health, safety, and school performance, especially in the age of mobile phones. This study´s aim was to investigate sleep length and sleep quality among Moroccan adolescents and assess their relationship to mobile phone use.
+INTRODUCTION: sleep plays an important role in learning and the formation of memories among adolescents, and lack of sleep affects their health, safety, and school performance, especially in the age of mobile phones. This study´s aim was to investigate sleep length and sleep quality among Moroccan adolescents and assess their relationship to mobile phone use.
 
-the population of this cross-sectional study included all the adolescent students aged 12-20 years, living in the Settat region, Morocco. We used proportionate stratified random sampling to select 800 participants from schools in the region. The researchers used a self-developed questionnaire coupled with the Pittsburgh Sleep Quality Index questionnaire to measure sleep length and evaluate sleep quality, respectively. We performed the statistical analysis using a combination of parametric and nonparametric tests to assess sleep length variables and PSQI score relationship to different independent variables.
+METHODS: the population of this cross-sectional study included all the adolescent students aged 12-20 years, living in the Settat region, Morocco. We used proportionate stratified random sampling to select 800 participants from schools in the region. The researchers used a self-developed questionnaire coupled with the Pittsburgh Sleep Quality Index questionnaire to measure sleep length and evaluate sleep quality, respectively. We performed the statistical analysis using a combination of parametric and nonparametric tests to assess sleep length variables and PSQI score relationship to different independent variables.
 
-participation rate was 91.2% (n = 730). The mean total sleep time was 8.01 hrs (SD = 1.46 hrs). Wake-up time was 8:17 a.m. (SD = 2.33 hrs), among late-night mobile phone users and 8:00 a.m. (SD = 2.11 hrs) among non-users. Overall, 76.7% of students from rural schools and 66.5% of students from urban schools reported poor sleep quality (p-value = 0.002). Most late-night mobile phone users (78%; p-value = 0.001) had poor sleep quality. Sleep quality decreased by age and in physically and psychologically unhealthy adolescents (p-value <0.001).
+RESULTS: participation rate was 91.2% (n = 730). The mean total sleep time was 8.01 hrs (SD = 1.46 hrs). Wake-up time was 8:17 a.m. (SD = 2.33 hrs), among late-night mobile phone users and 8:00 a.m. (SD = 2.11 hrs) among non-users. Overall, 76.7% of students from rural schools and 66.5% of students from urban schools reported poor sleep quality (p-value = 0.002). Most late-night mobile phone users (78%; p-value = 0.001) had poor sleep quality. Sleep quality decreased by age and in physically and psychologically unhealthy adolescents (p-value <0.001).
 
-a high percentage of adolescents in the Settat region suffer from poor sleep quality and sleep deprivation, especially among those who use cell phones before going to sleep. We advise parents and the Moroccan education system to promote good sleep habits and reduce the use of such devices in the bedroom by adolescents.
+CONCLUSION: a high percentage of adolescents in the Settat region suffer from poor sleep quality and sleep deprivation, especially among those who use cell phones before going to sleep. We advise parents and the Moroccan education system to promote good sleep habits and reduce the use of such devices in the bedroom by adolescents.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35734328/)

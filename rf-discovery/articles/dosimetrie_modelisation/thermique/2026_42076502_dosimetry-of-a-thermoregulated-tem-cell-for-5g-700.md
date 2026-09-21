@@ -19,6 +19,18 @@ mots_cles:
 - Radiofrequencies
 - 5G Frequencies
 - Transverse Electromagnetic (Tem) Cell
+auteurs:
+- Nasri A
+- Michard L
+- Serradeill L
+- Orlacchio R
+- Percherancier Y
+- Leveque P
+- Dalmay C
+- Arnaud-Cormos D
+pmcid: PMC13119816
+volume: ''
+pages: '2393'
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:
@@ -35,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - heating
 - thermoregulation
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Dosimetry of a Thermoregulated TEM Cell for 5G 700 MHz and 3.5 GHz Band Frequencies for Bioelectromagnetic Investigations.

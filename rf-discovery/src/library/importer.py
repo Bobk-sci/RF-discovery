@@ -48,6 +48,21 @@ def _listify(value: Any) -> list[str]:
     return [str(value)] if value else []
 
 
+def _authors(rec: dict[str, Any]) -> list[str]:
+    """Auteurs « Nom I. », que l'export les donne structurés ou déjà mis en forme."""
+    names = []
+    for entry in rec.get("authors") or []:
+        if isinstance(entry, dict):
+            last = str(entry.get("last_name") or entry.get("lastName") or "").strip()
+            initials = str(entry.get("initials") or "").strip()
+            name = f"{last} {initials}".strip() or str(entry.get("name") or "").strip()
+        else:
+            name = str(entry).strip()
+        if name:
+            names.append(name)
+    return names
+
+
 def to_paper(rec: dict[str, Any], domain: str = "", source: str = "import") -> Paper | None:
     """Notice brute -> ``Paper`` ; ``None`` si elle ne porte aucun identifiant ni titre."""
     if "resultList" in rec or ("pubYear" in rec and "title" in rec):
@@ -73,6 +88,12 @@ def to_paper(rec: dict[str, Any], domain: str = "", source: str = "import") -> P
             "mesh": _listify(rec.get("mesh_terms") or rec.get("mesh")),
             "types": _listify(rec.get("article_types") or rec.get("types")),
             "keywords": _listify(rec.get("keywords")),
+            "authors": _authors(rec),
+            "pmcid": str(ids.get("pmc") or rec.get("pmcid") or ""),
+            "volume": str((rec.get("citation") or {}).get("volume", "")
+                          if isinstance(rec.get("citation"), dict) else ""),
+            "pages": str((rec.get("citation") or {}).get("pages", "")
+                         if isinstance(rec.get("citation"), dict) else ""),
         },
     )
 

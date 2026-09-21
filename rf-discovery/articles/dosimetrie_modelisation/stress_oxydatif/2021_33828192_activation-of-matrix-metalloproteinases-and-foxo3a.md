@@ -2,30 +2,44 @@
 pmid: '33828192'
 doi: 10.1038/s41598-021-87263-2
 annee: 2021
-journal: Scientific reports
+journal: ''
 titre: Activation of matrix metalloproteinases and FoxO3a in HaCaT keratinocytes by
   radiofrequency electromagnetic field exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/33828192/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Electromagnetic Fields
+- Keratinocytes
+- Humans
+- Reactive Oxygen Species
+- Matrix Metalloproteinases
+- MAP Kinase Signaling System
 - Enzyme Activation
+- Phosphorylation
+- Skin Aging
+- Electromagnetic Fields
+- Radio Waves
 - Forkhead Box Protein O3
 - HaCaT Cells
-- Humans
-- Keratinocytes
-- MAP Kinase Signaling System
-- Matrix Metalloproteinases
-- Phosphorylation
-- Radio Waves
-- Reactive Oxygen Species
-- Skin Aging
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles: []
+auteurs:
+- Kim JH
+- Kang DJ
+- Bae JS
+- Lee JH
+- Jeon S
+- Choi HD
+- Kim N
+- Kim HG
+- Kim HR
+pmcid: PMC8027011
+volume: ''
+pages: '7680'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -39,11 +53,17 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Activation of matrix metalloproteinases and FoxO3a in HaCaT keratinocytes by radiofrequency electromagnetic field exposure.
 
-*Scientific reports — 2021*
+*journal non renseigné — 2021*
 
 ## Résumé (texte d'origine)
 

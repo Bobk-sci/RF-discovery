@@ -18,6 +18,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Mohamadi F
+- Zolghadri M
+pmcid: ''
+volume: ''
+pages: 1-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -27,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Utilizing Microwave Radiation for the Eradication of Bacteria and Fungi.

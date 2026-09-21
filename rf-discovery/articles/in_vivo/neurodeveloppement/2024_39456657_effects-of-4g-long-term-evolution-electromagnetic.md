@@ -31,6 +31,19 @@ mots_cles:
 - Hpt Axis
 - Rf-emf Exposure
 - Lte Signal
+auteurs:
+- Kim HY
+- Son Y
+- Jeong YJ
+- Lee SH
+- Kim N
+- Ahn YH
+- Jeon SB
+- Choi HD
+- Lee HJ
+pmcid: PMC11507962
+volume: ''
+pages: '10875'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -49,6 +62,15 @@ theme_indices:
 - brain development
 - children
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of 4G Long-Term Evolution Electromagnetic Fields on Thyroid Hormone Dysfunction and Behavioral Changes in Adolescent Male Mice.

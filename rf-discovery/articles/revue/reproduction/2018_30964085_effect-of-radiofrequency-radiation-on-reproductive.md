@@ -1,31 +1,40 @@
 ---
 pmid: '30964085'
-doi: 10.4103/ijmr.IJMR_1056_18
+doi: 10.4103/ijmr.ijmr_1056_18
 annee: 2018
-journal: The Indian journal of medical research
+journal: ''
 titre: Effect of radiofrequency radiation on reproductive health.
 url: https://pubmed.ncbi.nlm.nih.gov/30964085/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
 - Animals
-- Cell Phone
-- DNA Damage
 - Humans
-- Radio Waves
+- DNA Damage
 - Reproduction
+- Radio Waves
 - Reproductive Health
+- Cell Phone
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
+- Electromagnetic field
+- Mobile phone
 - Biological effect
-- electromagnetic field
-- mobile phone
-- mobile phone base station
-- radiofrequency radiation
-- thermal and non-thermal effects
+- Radiofrequency Radiation
+- Thermal And Non-thermal Effects
+- Mobile Phone Base Station
+auteurs:
+- Singh R
+- Nath R
+- Mathur AK
+- Sharma RS
+pmcid: PMC6469375
+volume: ''
+pages: S92-S99
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,11 +51,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Effect of radiofrequency radiation on reproductive health.
 
-*The Indian journal of medical research — 2018*
+*journal non renseigné — 2018*
 
 ## Résumé (texte d'origine)
 

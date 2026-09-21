@@ -30,6 +30,18 @@ mots_cles:
 - K-prototypes Clustering
 - Lumping Vs. Splitting
 - Symptoms Associated With Environmental Factors
+auteurs:
+- Petzke TM
+- Rippe RCA
+- Witthöft M
+- Szemerszky R
+- Köteles F
+- Lemogne C
+- Nordin S
+- Pitron V
+pmcid: ''
+volume: ''
+pages: '114764'
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -43,6 +55,13 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # One or many environmental intolerance(s)? A cluster analysis over two representative samples.

@@ -24,6 +24,19 @@ mots_cles:
 - gold nanoclusters
 - hyperthermia
 - microwave frequency
+auteurs:
+- Cifuentes-Rius A
+- Ivask A
+- Das S
+- Penya-Auladell N
+- Fabregas L
+- Fletcher NL
+- Houston ZH
+- Thurecht KJ
+- Voelcker NH
+pmcid: ''
+volume: '9'
+pages: 41159-41167
 modele: in_vitro
 modele_score: 5.0
 modele_secondaires:
@@ -40,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/thermique
+- theme/apoptose_mitochondrie
+- annee/2017
 ---
 
 # Gold Nanocluster-Mediated Cellular Death under Electromagnetic Radiation.

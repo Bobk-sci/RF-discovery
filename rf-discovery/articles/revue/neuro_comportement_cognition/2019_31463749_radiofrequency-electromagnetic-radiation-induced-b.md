@@ -34,6 +34,16 @@ mots_cles:
 - Locomotion
 - Mobile phone
 - Radiofrequency electromagnetic radiation
+auteurs:
+- Narayanan SN
+- Jetti R
+- Kesari KK
+- Kumar RS
+- Nayak SB
+- Bhat PG
+pmcid: ''
+volume: '26'
+pages: 30693-30710
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -51,6 +61,14 @@ theme_indices:
 - learning
 - anxiety
 - behavior
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/barriere_hemato_encephalique
+- theme/thermique
+- annee/2019
 ---
 
 # Radiofrequency electromagnetic radiation-induced behavioral changes and their possible basis.

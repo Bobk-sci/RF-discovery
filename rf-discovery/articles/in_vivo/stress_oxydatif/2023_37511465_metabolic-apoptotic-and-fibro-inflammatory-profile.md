@@ -27,6 +27,21 @@ mots_cles:
 - Inflammation
 - fibrosis
 - Electromagnetic Stressor
+auteurs:
+- Savchenko L
+- Martinelli I
+- Marsal D
+- Batkivska O
+- Zhdan V
+- Kaidashev I
+- Pizzinat N
+- Boal F
+- Tronchere H
+- Tao J
+- Kunduzova O
+pmcid: PMC10380359
+volume: ''
+pages: '11709'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -41,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Metabolic, Apoptotic and Fibro-Inflammatory Profiles of the Heart Exposed to Environmental Electromagnetic Fields.

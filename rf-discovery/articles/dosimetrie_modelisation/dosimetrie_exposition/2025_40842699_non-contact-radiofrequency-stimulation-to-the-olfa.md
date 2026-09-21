@@ -13,6 +13,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Bok J
+- Kim ES
+- Ha J
+- Lee DM
+- Ahn BJ
+- Lee SW
+- Cho SH
+- Kim NY
+- Jang Y
+pmcid: PMC12367325
+volume: ''
+pages: '036112'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -23,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Non-contact radiofrequency stimulation to the olfactory nerve of human subjects.

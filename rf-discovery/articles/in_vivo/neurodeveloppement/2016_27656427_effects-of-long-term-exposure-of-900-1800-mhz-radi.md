@@ -19,6 +19,15 @@ mots_cles:
 - Radiofrequency Radiation
 - Cornu Ammonis
 - Neuronal Density
+auteurs:
+- Mugunthan N
+- Shanmugasamy K
+- Anbalagan J
+- Rajanarayanan S
+- Meenachi S
+pmcid: PMC5028475
+volume: ''
+pages: AF01-6
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -30,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2016
 ---
 
 # Effects of Long Term Exposure of 900-1800 MHz Radiation Emitted from 2G Mobile Phone on Mice Hippocampus- A Histomorphometric Study.

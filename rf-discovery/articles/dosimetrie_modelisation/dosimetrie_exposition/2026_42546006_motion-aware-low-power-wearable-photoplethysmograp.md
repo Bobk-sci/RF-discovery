@@ -13,6 +13,19 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Khurelbaatar L
+- Zhang J
+- Wang J
+- Mokhtarzade A
+- Yalagala B
+- Khosravi P
+- U CW
+- Amjadi M
+- Heidari H
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -24,6 +37,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Motion-Aware Low-Power Wearable Photoplethysmography System with Metamaterial-Enhanced Wireless Telemetry.

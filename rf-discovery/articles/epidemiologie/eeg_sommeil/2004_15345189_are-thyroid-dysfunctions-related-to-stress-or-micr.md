@@ -23,6 +23,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Bergamaschi A
+- Magrini A
+- Ales G
+- Coppeta L
+- Somma G
+pmcid: ''
+volume: '17'
+pages: 31-6
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -33,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2004
 ---
 
 # Are thyroid dysfunctions related to stress or microwave exposure (900 MHz)?

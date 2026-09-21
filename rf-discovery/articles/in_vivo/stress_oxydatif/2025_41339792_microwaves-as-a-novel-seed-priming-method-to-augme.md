@@ -27,6 +27,15 @@ mots_cles:
 - Ornamentals
 - Microwaved Gypsophila Paniculata Seeds
 - Salt Injuries
+auteurs:
+- El-Ashwah MA
+- Barsoom MA
+- Saudy HS
+- Aly WA
+- Ibrahim AK
+pmcid: PMC12690845
+volume: ''
+pages: '1694'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -41,6 +50,12 @@ theme_indices:
 - malondialdehyde
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Microwaves as a novel seed priming method to augment salinity tolerance via regulating the physiological homeostasis and oxidative defense modes in Gypsophila paniculata plants.

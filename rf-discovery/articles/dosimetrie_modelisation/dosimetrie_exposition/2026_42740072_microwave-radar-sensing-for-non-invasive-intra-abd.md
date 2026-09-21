@@ -27,6 +27,16 @@ mots_cles:
 - Non-invasive Measurement
 - Phantom Testing
 - Transient Microwave Reflectometry
+auteurs:
+- Tayebi S
+- Zarghami A
+- Chen C
+- Dabrowski W
+- Malbrain MLNG
+- Stiens J
+pmcid: PMC13568345
+volume: ''
+pages: '5452'
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires: []
@@ -41,6 +51,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Microwave Radar Sensing for Non-Invasive Intra-Abdominal Pressure Monitoring: A Simulation-Based Analysis with Phantom Testing.

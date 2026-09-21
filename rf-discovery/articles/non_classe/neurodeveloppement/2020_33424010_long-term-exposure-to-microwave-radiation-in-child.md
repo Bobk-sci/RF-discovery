@@ -20,6 +20,12 @@ mesh:
 types:
 - Letter
 mots_cles: []
+auteurs:
+- Zaroushani V
+- Khajehnasiri F
+pmcid: PMC8695782
+volume: ''
+pages: e00501
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +36,11 @@ theme_secondaires: []
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Long Term Exposure to Microwave Radiation in Children Due to COVID-19 Pandemic; a Carcinogen Challenge.

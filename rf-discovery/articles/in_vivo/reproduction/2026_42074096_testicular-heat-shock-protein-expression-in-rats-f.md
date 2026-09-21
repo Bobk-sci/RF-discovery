@@ -29,6 +29,21 @@ mots_cles:
 - Electromagnetic fields
 - Reproductive Health
 - Non-ionizing
+auteurs:
+- Syed Taha SMA
+- Jaffar FHF
+- Hairulazam A
+- Vijay S
+- Jamaludin N
+- Zulkefli AF
+- Mat Ros MF
+- Osman K
+- Zakaria Z
+- Mohd Bahar MAA
+- Ibrahim SF
+pmcid: PMC13115579
+volume: ''
+pages: '3452'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -48,6 +63,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Testicular Heat-Shock Protein Expression in Rats Following 3.5 GHz and 24 GHz RF-EMF Exposure.

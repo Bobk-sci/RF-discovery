@@ -18,6 +18,15 @@ mots_cles:
 - Oxidative stress
 - ROS
 - EMF
+auteurs:
+- Kıvrak EG
+- Yurt KK
+- Kaplan AA
+- Alkan I
+- Altun G
+pmcid: PMC6025786
+volume: ''
+pages: 167-176
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -39,6 +48,13 @@ theme_indices:
 - glutathione
 - antioxidant
 - redox
+tags:
+- rf
+- modele/revue
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2017
 ---
 
 # Effects of electromagnetic fields exposure on the antioxidant defense system.

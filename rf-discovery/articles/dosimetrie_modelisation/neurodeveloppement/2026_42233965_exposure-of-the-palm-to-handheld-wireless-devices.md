@@ -23,6 +23,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Christ A
+- Niskala K
+- Joyner KH
+pmcid: ''
+volume: ''
+pages: 1154-1162
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -36,6 +43,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Exposure of the palm to handheld wireless devices operating at frequencies from 900 MHz to 6 GHz.

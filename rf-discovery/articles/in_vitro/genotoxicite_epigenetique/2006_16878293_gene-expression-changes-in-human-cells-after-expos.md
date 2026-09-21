@@ -19,6 +19,29 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Remondini D
+- Nylund R
+- Reivinen J
+- Poulletier de Gannes F
+- Veyret B
+- Lagroye I
+- Haro E
+- Trillo MA
+- Capri M
+- Franceschi C
+- Schlatterer K
+- Gminski R
+- Fitzner R
+- Tauber R
+- Schuderer J
+- Kuster N
+- Leszczynski D
+- Bersani F
+- Maercker C
+pmcid: ''
+volume: '6'
+pages: 4745-54
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []
@@ -34,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2006
 ---
 
 # Gene expression changes in human cells after exposure to mobile phone microwaves.

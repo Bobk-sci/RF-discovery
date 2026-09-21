@@ -21,6 +21,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Mandal B
+- Shaw T
+- Rangaiah PKB
+- Joseph L
+- Chezhian AS
+- Mani M
+- Karlsson RL
+- Augustine R
+pmcid: PMC13230745
+volume: ''
+pages: '16984'
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -34,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Fat-intra-body communication system using flexible wearable antennas with human and torso phantom validation for biomedical applications.

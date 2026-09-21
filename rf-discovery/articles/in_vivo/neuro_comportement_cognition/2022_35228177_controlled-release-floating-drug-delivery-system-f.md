@@ -21,6 +21,20 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Murad S
+- Mudassir J
+- Faiz S
+- Zahra A
+- Usman F
+- Farhan M
+- Arshad MS
+- Abbas N
+- Hussain A
+- Faran Ashraf Baig MM
+pmcid: ''
+volume: '35'
+pages: 195-201
 modele: in_vivo
 modele_score: 1008.5
 modele_secondaires:
@@ -36,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Controlled release floating drug delivery system for proton pump inhibitors lansoprazole: In-vitro, In-vivo floating and pharmacokinetic evaluation.

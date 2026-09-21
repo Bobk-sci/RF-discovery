@@ -19,6 +19,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Noor SK
+- Ismail AM
+- Elamin NIM
+- Mohd Yasin MN
+- Osman MN
+- Soh PJ
+- Ramli N
+- Rambe AH
+- Ashyap AYI
+pmcid: PMC12124574
+volume: ''
+pages: e0310113
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:
@@ -31,6 +44,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A novel experimental design approach to generating orbital angular momentum waves using wearable textile antenna for sub-6 GHz 5G.

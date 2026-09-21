@@ -23,6 +23,17 @@ mots_cles:
 - graphene
 - hydrogels
 - microwave-responsive
+auteurs:
+- Leganés Bayón J
+- Sánchez-Migallón A
+- Díaz-Ortiz Á
+- Castillo CA
+- Ballesteros-Yáñez I
+- Merino S
+- Vázquez E
+pmcid: ''
+volume: '26'
+pages: 17069-17080
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []
@@ -33,6 +44,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2020
 ---
 
 # On-Demand Hydrophobic Drug Release Based on Microwave-Responsive Graphene Hydrogel Scaffolds.

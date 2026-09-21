@@ -23,6 +23,22 @@ mots_cles:
 - Proteomics
 - Exosomes
 - Learning And Memory Function
+auteurs:
+- Wang H
+- Liu Y
+- Sun Y
+- Dong J
+- Xu X
+- Wang H
+- Zhao X
+- Zhang J
+- Yao B
+- Zhao L
+- Liu S
+- Peng R
+pmcid: PMC9926547
+volume: ''
+pages: '34'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -39,6 +55,12 @@ theme_indices:
 - memory
 - learning
 - attention
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Changes in cognitive function, synaptic structure and protein expression after long-term exposure to 2.856 and 9.375 GHz microwaves.

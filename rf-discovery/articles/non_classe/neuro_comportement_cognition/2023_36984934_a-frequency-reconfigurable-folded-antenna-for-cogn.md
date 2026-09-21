@@ -17,6 +17,14 @@ mots_cles:
 - Reconfigurable
 - Pin Diode
 - Folded Monopole Antenna
+auteurs:
+- Ibrahim AA
+- Ali WAE
+- Alathbah M
+- Mohamed HA
+pmcid: PMC10056032
+volume: ''
+pages: '527'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -26,6 +34,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # A Frequency Reconfigurable Folded Antenna for Cognitive Radio Communication.

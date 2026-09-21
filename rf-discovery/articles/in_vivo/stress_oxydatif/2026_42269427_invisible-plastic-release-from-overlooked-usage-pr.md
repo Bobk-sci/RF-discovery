@@ -28,6 +28,15 @@ mots_cles:
 - Convenience Food
 - Plastic Contamination
 - Nanoplastics
+auteurs:
+- Lin PY
+- Hsieh SL
+- Wu IH
+- Hsieh YC
+- Hsieh S
+pmcid: ''
+volume: ''
+pages: '149912'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -41,6 +50,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Invisible plastic release from overlooked usage practices in microwaved food packaging.

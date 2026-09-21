@@ -24,6 +24,15 @@ mots_cles:
 - Radio-resistance
 - Bacterial Adaptation
 - Radioadaptation
+auteurs:
+- Said-Salman I
+- Mortazavi SMJ
+- Khatib SE
+- Mortazavi SA
+- Sihver L
+pmcid: PMC13263384
+volume: ''
+pages: 245-258
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -34,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2026
 ---
 
 # Bacterial Adaptation to Radiofrequency Electromagnetic Fields Based on Experiences from Ionizing Radiation.

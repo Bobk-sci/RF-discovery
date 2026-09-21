@@ -20,6 +20,14 @@ mots_cles:
 - Luteinizing hormone (LH)
 - Follicle-stimulating hormone (FSH)
 - Wi-fi
+auteurs:
+- Maluin SM
+- Osman K
+- Jaffar FHF
+- Ibrahim SF
+pmcid: PMC8497974
+volume: ''
+pages: '732420'
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -39,6 +47,15 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hormones: A Systematic Review.

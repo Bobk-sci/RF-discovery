@@ -19,6 +19,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Olsen RG
+- Griner TA
+pmcid: ''
+volume: '64'
+pages: 633-7
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -32,6 +38,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/1993
 ---
 
 # Specific absorption rate and radiofrequency current-to-ground in human models exposed to near-field irradiation.

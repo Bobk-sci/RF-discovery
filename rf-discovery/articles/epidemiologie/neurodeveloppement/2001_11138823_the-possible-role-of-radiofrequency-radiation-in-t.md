@@ -29,6 +29,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Stang A
+- Anastassiou G
+- Ahrens W
+- Bromen K
+- Bornfeld N
+- Jöckel KH
+pmcid: ''
+volume: '12'
+pages: 7-12
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []
@@ -42,6 +52,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2001
 ---
 
 # The possible role of radiofrequency radiation in the development of uveal melanoma.

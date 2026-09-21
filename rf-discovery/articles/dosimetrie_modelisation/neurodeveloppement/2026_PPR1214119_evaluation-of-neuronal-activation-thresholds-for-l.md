@@ -13,6 +13,21 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Gázquez J
+- Cadena CC
+- He W
+- Yamada E
+- Alteköster C
+- Soyka F
+- Laakso I
+- Hirata A
+- Joseph W
+- Tarnaud T
+- Tanghe E
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -27,6 +42,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Evaluation of Neuronal Activation Thresholds for Low-Frequency Electromagnetic Exposure Using Morphologically Realistic Neuron Models

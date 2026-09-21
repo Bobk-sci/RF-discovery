@@ -27,6 +27,15 @@ mots_cles:
 - Testicular Toxicity
 - Radiofrequency Electromagnetic Fields
 - Gsm‐modulated 3.5 Ghz
+auteurs:
+- Bektas H
+- Yildirim S
+- Cakir S
+- Dogu S
+- Altindag F
+pmcid: ''
+volume: ''
+pages: e70043
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -44,6 +53,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Ameliorative Role of Coenzyme Q10 in RF Radiation-Associated Testicular and Oxidative Impairments in a 3.5-GHz Exposure Model.

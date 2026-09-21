@@ -21,6 +21,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Israel M
+- Zaryabova V
+- Ivanova M
+pmcid: ''
+volume: '32'
+pages: 145-54
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -32,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2013
 ---
 
 # Electromagnetic field occupational exposure: non-thermal vs. thermal effects.

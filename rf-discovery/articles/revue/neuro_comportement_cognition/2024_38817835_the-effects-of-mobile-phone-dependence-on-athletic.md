@@ -18,6 +18,15 @@ mots_cles:
 - neurobiological mechanism
 - sports performance
 - theoretical model
+auteurs:
+- Mei Z
+- Zhang Y
+- Fan Q
+- Luo S
+- Luo S
+pmcid: PMC11138105
+volume: '15'
+pages: '1391258'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -30,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # The effects of mobile phone dependence on athletic performance and its mechanisms.

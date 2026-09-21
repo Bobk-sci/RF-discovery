@@ -22,6 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Christ A
+- Keshvari J
+pmcid: ''
+volume: ''
+pages: 1294-1305
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -34,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # On the uncertainty in numerical modeling of wireless communication devices operating at frequencies of 900 MHz, 1800 MHz, and 28 GHz.

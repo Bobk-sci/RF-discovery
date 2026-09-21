@@ -35,6 +35,20 @@ mots_cles:
 - 5G
 - Heart‐rate Variability
 - Stress‐biomarkers
+auteurs:
+- Layla J
+- Lisa M
+- Stéphane D
+- Raphaël B
+- Laurent H
+- Paul M
+- Philippe L
+- Tamara B
+- Erwan SB
+- Brahim S
+pmcid: PMC13238366
+volume: ''
+pages: e70056
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:
@@ -48,6 +62,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Exposure to 5G Radiofrequency and Physiological Effects in Healthy Young Adults: Insights Into Heart Rate Variability and Salivary Stress Biomarkers.

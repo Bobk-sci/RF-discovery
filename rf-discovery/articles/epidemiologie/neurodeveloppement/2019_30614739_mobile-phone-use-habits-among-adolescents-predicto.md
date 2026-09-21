@@ -24,6 +24,18 @@ mots_cles:
 - children
 - extensive use
 - mobile phone
+auteurs:
+- Hirsh-Yechezkel G
+- Mandelzweig L
+- Novikov I
+- Bar-Yosef N
+- Livneh I
+- Oren M
+- Waysberg R
+- Sadetzki S
+pmcid: ''
+volume: '22'
+pages: 212-219
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:
@@ -39,6 +51,13 @@ theme_secondaires:
 theme_indices:
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2019
 ---
 
 # Mobile Phone-Use Habits Among Adolescents: Predictors of Intensive Use.

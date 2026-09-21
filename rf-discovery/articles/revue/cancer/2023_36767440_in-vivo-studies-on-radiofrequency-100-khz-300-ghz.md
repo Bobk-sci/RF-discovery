@@ -30,6 +30,14 @@ mots_cles:
 - Animal Studies
 - Tumor Incidence
 - Radiofrequency-Electromagnetic Fields
+auteurs:
+- Pinto R
+- Ardoino L
+- Villani P
+- Marino C
+pmcid: PMC9915925
+volume: ''
+pages: '2071'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:
@@ -48,6 +56,12 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/cancer
+- annee/2023
 ---
 
 # In Vivo Studies on Radiofrequency (100 kHz-300 GHz) Electromagnetic Field Exposure and Cancer: A Systematic Review.

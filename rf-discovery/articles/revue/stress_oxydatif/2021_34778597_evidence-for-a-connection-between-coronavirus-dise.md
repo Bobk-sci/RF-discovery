@@ -30,6 +30,12 @@ mots_cles:
 - Covid-19
 - Coronavirus 2
 - Coronavirus Disease-19
+auteurs:
+- Rubik B
+- Brown RR
+pmcid: PMC8580522
+volume: ''
+pages: 666-681
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +48,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Evidence for a connection between coronavirus disease-19 and exposure to radiofrequency radiation from wireless communications including 5G.

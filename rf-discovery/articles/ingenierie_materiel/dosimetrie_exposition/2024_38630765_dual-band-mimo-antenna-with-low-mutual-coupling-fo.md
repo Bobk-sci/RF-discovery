@@ -18,6 +18,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Awan WA
+- Islam T
+- N Alsunaydih F
+- Alsaleem F
+- Alhassoonc K
+pmcid: PMC11023486
+volume: ''
+pages: e0301924
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:
@@ -32,6 +41,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Dual-band MIMO antenna with low mutual coupling for 2.4/5.8 GHz communication and wearable technologies.

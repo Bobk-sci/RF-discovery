@@ -38,6 +38,20 @@ mots_cles:
 - Acute Kidney Injury
 - Pulsed Magnetic Field (Pmf)
 - Radiofrequency Electromagnetic Field (Rf-emf)
+auteurs:
+- Balci Ç
+- Özcan MS
+- Aşci H
+- Karabacak P
+- Kuruşçu O
+- Taner R
+- Özmen Ö
+- Tepebaşi MY
+- İlhan İ
+- Çömlekçi S
+pmcid: PMC11857468
+volume: ''
+pages: '238'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -55,6 +69,14 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Radiofrequency Electromagnetic and Pulsed Magnetic Fields Protected the Kidney Against Lipopolysaccharide-Induced Acute Systemic Inflammation, Oxidative Stress, and Apoptosis by Regulating the IL-6/HIF1α/eNOS and Bcl2/Bax/Cas-9 Pathways.

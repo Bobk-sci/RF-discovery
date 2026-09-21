@@ -26,6 +26,13 @@ mots_cles:
 - mobile phone
 - neuroimaging
 - radiofrequency electromagnetic field
+auteurs:
+- Zhang J
+- Sumich A
+- Wang GY
+pmcid: ''
+volume: '38'
+pages: 329-338
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -40,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - reaction time
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- annee/2017
 ---
 
 # Acute effects of radiofrequency electromagnetic field emitted by mobile phone on brain function.

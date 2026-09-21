@@ -25,6 +25,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Krivova NA
+- Kudabaeva MS
+- Zaeva OB
+- Borodina SV
+- Lepekhina TB
+- Pavlenko OA
+- Makhmanazarov RM
+- Kokin DS
+- Shipilov SE
+pmcid: PMC11069554
+volume: ''
+pages: '10283'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -42,6 +55,13 @@ theme_indices:
 - cognition
 - cognitive
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # The effect of exposure to RF-EMF from the laboratory simulator of 5G NR base station on physiological parameters and cognitive abilities of male wistar rats of different ages.

@@ -27,6 +27,19 @@ mots_cles:
 - Radiofrequency Fields
 - Cooperative Effects
 - 5G Communications
+auteurs:
+- Sannino A
+- Allocca M
+- Scarfì MR
+- Romeo S
+- Peluso V
+- Panariello G
+- Schettino F
+- Chirico G
+- Zeni O
+pmcid: PMC12214929
+volume: ''
+pages: '20614'
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:
@@ -44,6 +57,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affect key cellular endpoints of human neuroblastoma cells.

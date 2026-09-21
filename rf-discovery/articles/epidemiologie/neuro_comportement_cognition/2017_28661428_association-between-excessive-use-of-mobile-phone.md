@@ -26,6 +26,14 @@ mots_cles:
 - depression
 - insomnia
 - mobile phone
+auteurs:
+- Tamura H
+- Nishida T
+- Tsuji A
+- Sakakibara H
+pmcid: PMC5551139
+volume: '14'
+pages: ''
 modele: epidemiologie
 modele_score: 1002.0
 modele_secondaires: []
@@ -39,6 +47,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - depression
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2017
 ---
 
 # Association between Excessive Use of Mobile Phone and Insomnia and Depression among Japanese Adolescents.

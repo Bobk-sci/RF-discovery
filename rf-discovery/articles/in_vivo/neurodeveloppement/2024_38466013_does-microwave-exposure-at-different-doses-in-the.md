@@ -23,6 +23,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Karadayi A
+- Sarsmaz H
+- Çigel A
+- Engiz B
+- Ünal N
+- Ürkmez S
+- Gürgen S
+pmcid: PMC11019611
+volume: ''
+pages: 157-172
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -36,6 +47,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Does Microwave Exposure at Different Doses in the Pre/Postnatal Period Affect Growing Rat Bone Development?

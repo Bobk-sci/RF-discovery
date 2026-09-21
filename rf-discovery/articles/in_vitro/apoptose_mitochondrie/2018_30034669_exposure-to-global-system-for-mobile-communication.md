@@ -20,6 +20,15 @@ mots_cles:
 - Electromagnetic fields
 - Stem Cells
 - Cell Phones
+auteurs:
+- Shahbazi-Gahrouei D
+- Hashemi-Beni B
+- Moradi A
+- Aliakbari M
+- Shahbazi-Gahrouei S
+pmcid: PMC6028991
+volume: ''
+pages: '51'
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []
@@ -31,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Exposure to Global System for Mobile Communication 900 MHz Cellular Phone Radiofrequency Alters Growth, Proliferation and Morphology of Michigan Cancer Foundation-7 Cells and Mesenchymal Stem Cells.

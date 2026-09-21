@@ -25,6 +25,12 @@ mots_cles:
 - Date Palm Trees
 - Radar Cross-section
 - Microwave Response
+auteurs:
+- Moradi A
+- Bait-Suwailam MM
+pmcid: PMC13180994
+volume: ''
+pages: '15274'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -34,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Microwave scattering signatures for distinguishing healthy and infested date palm trees.

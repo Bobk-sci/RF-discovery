@@ -30,6 +30,25 @@ mots_cles:
 - Systematic review
 - Animal Studies
 - Radiofrequency Electromagnetic Fields
+auteurs:
+- Cordelli E
+- Ardoino L
+- Benassi B
+- Consales C
+- Eleuteri P
+- Marino C
+- Sciortino M
+- Villani P
+- Brinkworth MH
+- Chen G
+- McNamee JP
+- Wood AW
+- Belackova L
+- Verbeek J
+- Pacchierotti F
+pmcid: ''
+volume: ''
+pages: '108178'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:
@@ -54,6 +73,16 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2023
 ---
 
 # Effects of Radiofrequency Electromagnetic Field (RF-EMF) exposure on pregnancy and birth outcomes: A systematic review of experimental studies on non-human mammals.

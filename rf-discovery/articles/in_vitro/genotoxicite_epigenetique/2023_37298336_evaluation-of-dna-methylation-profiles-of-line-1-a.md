@@ -26,6 +26,19 @@ mots_cles:
 - Alu
 - Line-1
 - Radiofrequency Electromagnetic Field
+auteurs:
+- Ravaioli F
+- Bacalini MG
+- Giuliani C
+- Pellegrini C
+- D'Silva C
+- De Fanti S
+- Pirazzini C
+- Giorgi G
+- Del Re B
+pmcid: PMC10253908
+volume: ''
+pages: '9380'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []
@@ -40,6 +53,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - DNA methylation
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2023
 ---
 
 # Evaluation of DNA Methylation Profiles of LINE-1, Alu and Ribosomal DNA Repeats in Human Cell Lines Exposed to Radiofrequency Radiation.

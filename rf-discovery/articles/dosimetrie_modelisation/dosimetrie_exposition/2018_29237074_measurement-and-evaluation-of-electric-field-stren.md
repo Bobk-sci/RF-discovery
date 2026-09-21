@@ -21,6 +21,13 @@ types:
 - Evaluation Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Kurnaz C
+- Korunur Engiz B
+- Bozkurt MC
+pmcid: ''
+volume: '179'
+pages: 282-290
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []
@@ -34,6 +41,11 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # MEASUREMENT AND EVALUATION OF ELECTRIC FIELD STRENGTH LEVELS IN PRIMARY AND SECONDARY SCHOOLS IN A PILOT REGION.

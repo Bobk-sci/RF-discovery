@@ -25,6 +25,12 @@ mots_cles:
 - Symptoms
 - Radiofrequency Radiation
 - Electromagnetic Hypersensitivity
+auteurs:
+- Hardell L
+- Koppel T
+pmcid: ''
+volume: ''
+pages: 219-228
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -37,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - memory
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Electromagnetic hypersensitivity close to mobile phone base stations - a case study in Stockholm, Sweden.

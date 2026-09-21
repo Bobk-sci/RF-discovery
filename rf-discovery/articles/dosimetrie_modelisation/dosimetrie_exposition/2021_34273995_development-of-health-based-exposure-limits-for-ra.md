@@ -35,6 +35,12 @@ mots_cles:
 - Specific Absorption Rate
 - Exposure Guidelines
 - Benchmark Modeling
+auteurs:
+- Uche UI
+- Naidenko OV
+pmcid: PMC8286570
+volume: ''
+pages: '84'
 modele: dosimetrie_modelisation
 modele_score: 9.5
 modele_secondaires:
@@ -53,6 +59,15 @@ theme_secondaires:
 - cancer
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2021
 ---
 
 # Development of health-based exposure limits for radiofrequency radiation from wireless devices using a benchmark dose approach.

@@ -29,6 +29,17 @@ mots_cles:
 - Mobile Phones
 - Total Oxidant Level
 - Total Antioxidant Level
+auteurs:
+- Ozergin Coskun Z
+- Tumkaya L
+- Yilmaz A
+- Dursun E
+- Mercantepe T
+- Kalkan Y
+- Ersoz S
+pmcid: ''
+volume: ''
+pages: 75S-82S
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -42,6 +53,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Does Radiofrequency Radiation From Mobile Phones Affect the Formation of Parotid Gland Malignancy? An Experimental Study.

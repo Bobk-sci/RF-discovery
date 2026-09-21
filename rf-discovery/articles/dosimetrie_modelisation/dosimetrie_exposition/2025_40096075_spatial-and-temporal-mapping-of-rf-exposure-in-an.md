@@ -20,6 +20,15 @@ mots_cles:
 - Exposure Quotiens
 - Personal Exposimeters
 - Outdoor Multiple Frequency Environments
+auteurs:
+- Rufo-Pérez M
+- Antolín-Salazar A
+- Paniagua-Sánchez JM
+- Jiménez-Barco A
+- Rodríguez-Hernández FJ
+pmcid: PMC11902647
+volume: ''
+pages: '1301'
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -32,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Spatial and Temporal Mapping of RF Exposure in an Urban Core Using Exposimeter and GIS.

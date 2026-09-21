@@ -19,6 +19,13 @@ mots_cles:
 - Implantable Antenna
 - Triple-band
 - Near And Far Fields
+auteurs:
+- Salama S
+- Zyoud D
+- Abuelhaija A
+pmcid: PMC10223517
+volume: ''
+pages: '1021'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:
@@ -32,6 +39,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A Compact-Size Multiple-Band Planar Inverted L-C Implantable Antenna Used for Biomedical Applications.

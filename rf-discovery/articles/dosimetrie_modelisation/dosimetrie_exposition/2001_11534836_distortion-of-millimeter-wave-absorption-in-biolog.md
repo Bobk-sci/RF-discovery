@@ -26,6 +26,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Alekseev SI
+- Ziskin MC
+pmcid: ''
+volume: '48'
+pages: 1013-9
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -39,6 +45,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2001
 ---
 
 # Distortion of millimeter-wave absorption in biological media due to presence of thermocouples and other objects.

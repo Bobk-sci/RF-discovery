@@ -27,6 +27,15 @@ mots_cles:
 - sleep classification
 - sleep trackers
 - wrist-worn devices
+auteurs:
+- Ameen MS
+- Cheung LM
+- Hauser T
+- Hahn MA
+- Schabus M
+pmcid: PMC6806072
+volume: '19'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -37,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2019
 ---
 
 # About the Accuracy and Problems of Consumer Devices in the Assessment of Sleep.

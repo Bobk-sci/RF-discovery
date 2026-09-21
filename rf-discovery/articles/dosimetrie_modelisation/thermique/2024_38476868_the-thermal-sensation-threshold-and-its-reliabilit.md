@@ -19,6 +19,17 @@ mots_cles:
 - reliability
 - Thermal Sensation
 - Perception Threshold
+auteurs:
+- Yuasa A
+- Uehara S
+- Ushizawa K
+- Kodera S
+- Arai N
+- Hirata A
+- Otaka Y
+pmcid: PMC10927852
+volume: ''
+pages: '1331416'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -33,6 +44,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - thermal effect
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # The thermal sensation threshold and its reliability induced by the exposure to 28 GHz millimeter-wave.

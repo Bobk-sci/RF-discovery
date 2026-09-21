@@ -29,6 +29,16 @@ mots_cles:
 - Comet assay
 - DNA damage
 - Wi-Fi
+auteurs:
+- Akdag MZ
+- Dasdag S
+- Canturk F
+- Karabulut D
+- Caner Y
+- Adalier N
+pmcid: ''
+volume: '75'
+pages: 116-22
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -46,6 +56,14 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # Does prolonged radiofrequency radiation emitted from Wi-Fi devices induce DNA damage in various tissues of rats?

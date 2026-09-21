@@ -28,6 +28,15 @@ mots_cles:
 - Bioenergetics
 - Electromagnetic Radiation
 - Thermal Effects
+auteurs:
+- Perez AS
+- Inada NM
+- Mezzacappo NF
+- Vollet-Filho JD
+- Bagnato VS
+pmcid: ''
+volume: ''
+pages: 1093-1103
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -42,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2024
 ---
 
 # Microwave radiation and thermal effects on the bioenergetics of isolated mitochondria.

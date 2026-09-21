@@ -20,6 +20,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Nahar T
+- Rawat S
+- Das V
+- Pathak P
+- Virdee B
+- Singh SK
+pmcid: PMC13376867
+volume: ''
+pages: '22362'
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:
@@ -32,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/cancer
+- annee/2026
 ---
 
 # A miniature bio-inspired antenna for sub-6 GHz consumer wireless and biomedical diagnostic applications.

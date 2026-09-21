@@ -29,6 +29,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Kesari KK
+- Kumar S
+- Behari J
+pmcid: ''
+volume: '30'
+pages: 219-34
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:
@@ -51,6 +58,15 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- annee/2011
 ---
 
 # 900-MHz microwave radiation promotes oxidation in rat brain.

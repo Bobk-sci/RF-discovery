@@ -31,6 +31,22 @@ mots_cles:
 - Neuronal Electrical Activity
 - 5G And Gsm Co‐exposure
 - Radiofrequency Electromagnetic Fields (Rf‐emf)
+auteurs:
+- Hurtier A
+- Patrignoni L
+- Canovi A
+- Orlacchio R
+- Tjiou H
+- Gannes FP
+- Garenne A
+- Lévêque P
+- Arnaud-Cormos D
+- Lagroye I
+- Lewis N
+- Percherancier Y
+pmcid: ''
+volume: ''
+pages: e70026
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires:
@@ -45,6 +61,13 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Effects of Simultaneous In-Vitro Exposure to 5G-Modulated 3.5 GHz and GSM-Modulated 1.8 GHz Radio-Frequency Electromagnetic Fields on Neuronal Network Electrical Activity and Cellular Stress in Skin Fibroblast Cells.

@@ -26,6 +26,16 @@ mots_cles:
 - postmastectomy radiation therapy
 - radiofrequency identification
 - tissue expander
+auteurs:
+- Matsubayashi F
+- Takahashi T
+- Miyauchi H
+- Ito Y
+- Harada A
+- Yoshioka Y
+pmcid: PMC11115439
+volume: '65'
+pages: 360-368
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:
@@ -36,6 +46,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Modeling of a tissue expander with a radiofrequency identification port in postmastectomy radiation therapy planning.

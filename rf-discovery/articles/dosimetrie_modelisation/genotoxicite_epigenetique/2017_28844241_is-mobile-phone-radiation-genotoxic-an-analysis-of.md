@@ -33,6 +33,13 @@ mots_cles:
 - Genotoxicity
 - Micronuclei
 - Mobile phones
+auteurs:
+- de Oliveira FM
+- Carmona AM
+- Ladeira C
+pmcid: ''
+volume: '822'
+pages: 41-46
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -47,6 +54,13 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2017
 ---
 
 # Is mobile phone radiation genotoxic? An analysis of micronucleus frequency in exfoliated buccal cells.

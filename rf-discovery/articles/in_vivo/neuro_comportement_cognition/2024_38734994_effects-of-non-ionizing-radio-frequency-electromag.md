@@ -29,6 +29,12 @@ mots_cles:
 - Zebrafish embryo
 - Mobile Phone Radiation
 - Non-ionizing Rf-emr
+auteurs:
+- Khira R
+- Uggini GK
+pmcid: ''
+volume: ''
+pages: 156-163
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -44,6 +50,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of non-ionizing radio frequency electromagnetic radiation on the development and behavior of early embryos of <i>Danio rerio</i>.

@@ -28,6 +28,19 @@ mots_cles:
 - Microwave radiation
 - Rna-seq
 - 4D-dia Proteomics
+auteurs:
+- Qian T
+- Cheng W
+- Song L
+- Dong J
+- Wang H
+- Zhang J
+- Zhao L
+- Wang H
+- Peng R
+pmcid: PMC13406997
+volume: ''
+pages: '990'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []
@@ -44,6 +57,11 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Sensitive Molecules Involved in Spatial Learning and Memory Impairment of Mice Induced by 4.3 GHz Microwave Radiation.

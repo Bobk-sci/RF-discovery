@@ -28,6 +28,16 @@ mots_cles:
 - blue light filter application
 - sleep quality
 - the circadian system
+auteurs:
+- Rabiei M
+- Masoumi SJ
+- Haghani M
+- Nematolahi S
+- Rabiei R
+- Mortazavi SMJ
+pmcid: ''
+volume: '43'
+pages: 107-116
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:
@@ -42,6 +52,12 @@ theme_indices:
 - sleep
 - melatonin
 - circadian
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- annee/2024
 ---
 
 # Do blue light filter applications improve sleep outcomes? A study of smartphone users' sleep quality in an observational setting.

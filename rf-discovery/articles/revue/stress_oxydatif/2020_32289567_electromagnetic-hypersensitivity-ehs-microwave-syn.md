@@ -38,6 +38,12 @@ mots_cles:
 - Public health
 - RF
 - Radiofrequency
+auteurs:
+- Stein Y
+- Udasin IG
+pmcid: ''
+volume: '186'
+pages: '109445'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -56,6 +62,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/barriere_hemato_encephalique
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Electromagnetic hypersensitivity (EHS, microwave syndrome) - Review of mechanisms.

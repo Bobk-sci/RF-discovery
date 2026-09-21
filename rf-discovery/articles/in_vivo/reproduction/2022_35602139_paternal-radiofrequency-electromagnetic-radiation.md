@@ -28,6 +28,19 @@ mots_cles:
 - fertility
 - glucose metabolism
 - offspring
+auteurs:
+- Yan S
+- Ju Y
+- Dong J
+- Lei H
+- Wang J
+- Xu Q
+- Ma Y
+- Wang J
+- Wang X
+pmcid: PMC9120541
+volume: '10'
+pages: '872198'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -47,6 +60,15 @@ theme_indices:
 - sperm
 - testis
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Paternal Radiofrequency Electromagnetic Radiation Exposure Causes Sex-Specific Differences in Body Weight Trajectory and Glucose Metabolism in Offspring Mice.
@@ -55,6 +77,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Nowadays, concerns about the harmful effects of radiofrequency electromagnetic radiation (RF-EMR) on male fertility and offspring health are growing. In the present study, we investigated the effects of long-term exposure (at least 10 weeks) to the RF-EMR [2.0 GHz; power density, 2.5 W/m; whole-body specific absorption rate (SAR), 0.125-0.5 W/kg] on male mice fertility and F1 growth and glucose metabolism. No significant injuries were observed in testis organization, sperm quality, and pregnancy rate. However, mice exposed to RF-EMR exhibited a significantly elevated apoptosis rate in testis germ cells. Interestingly, paternal RF-EMR exposure resulted in sex-specific weight trajectory differences and glucose metabolism changes in male F1 mice but not in female F1 mice. The changed glucose metabolism in F1 male may result from the altered gene expression of liver Gck. These data collectively suggested that 2.0 GHz RF-EMR whole-body exposure of male mice does not cause obvious impairment in testis, sperm quality, and pregnancy rate. Paternal RF-EMR exposure causes male-specific alterations in body weight trajectories and glucose metabolism of F1.
+Nowadays, concerns about the harmful effects of radiofrequency electromagnetic radiation (RF-EMR) on male fertility and offspring health are growing. In the present study, we investigated the effects of long-term exposure (at least 10 weeks) to the RF-EMR [2.0 GHz; power density, 2.5 W/m2; whole-body specific absorption rate (SAR), 0.125-0.5 W/kg] on male mice fertility and F1 growth and glucose metabolism. No significant injuries were observed in testis organization, sperm quality, and pregnancy rate. However, mice exposed to RF-EMR exhibited a significantly elevated apoptosis rate in testis germ cells. Interestingly, paternal RF-EMR exposure resulted in sex-specific weight trajectory differences and glucose metabolism changes in male F1 mice but not in female F1 mice. The changed glucose metabolism in F1 male may result from the altered gene expression of liver Gck. These data collectively suggested that 2.0 GHz RF-EMR whole-body exposure of male mice does not cause obvious impairment in testis, sperm quality, and pregnancy rate. Paternal RF-EMR exposure causes male-specific alterations in body weight trajectories and glucose metabolism of F1.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/35602139/)

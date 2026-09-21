@@ -2,22 +2,33 @@
 pmid: '39286040'
 doi: 10.1016/j.ibneur.2024.08.007
 annee: 2024
-journal: IBRO neuroscience reports
+journal: ''
 titre: Effect of microwave radiation on adult neurogenesis and behavior of prenatally
   exposed rats.
 url: https://pubmed.ncbi.nlm.nih.gov/39286040/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- Dentate gyrus
 - Microwave radiation
-- Postnatal neurogenesis
-- Prenatal irradiation
-- Rostral migratory stream
+- rostral migratory stream
+- dentate gyrus
+- Postnatal Neurogenesis
+- Prenatal Irradiation
+auteurs:
+- Popovičová A
+- Račeková E
+- Martončíková M
+- Fabianová K
+- Raček A
+- Žideková M
+pmcid: PMC11404077
+volume: ''
+pages: 235-244
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -36,11 +47,18 @@ theme_indices:
 - neurogenesis
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Effect of microwave radiation on adult neurogenesis and behavior of prenatally exposed rats.
 
-*IBRO neuroscience reports — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

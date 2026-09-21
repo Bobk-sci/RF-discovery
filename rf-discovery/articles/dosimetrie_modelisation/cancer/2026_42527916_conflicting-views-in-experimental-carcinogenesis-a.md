@@ -29,6 +29,13 @@ mots_cles:
 - Japanese-korean Validation Studies
 - Ntp Carcinogenicity Study
 - Radiofrequency Radiaton
+auteurs:
+- Melnick RL
+- Moskowitz JM
+- Héroux P
+pmcid: PMC13417848
+volume: ''
+pages: '66'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -44,6 +51,13 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - schwannoma
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Conflicting views in experimental carcinogenesis: a commentary on design and methodological deficiencies in the follow-up validation studies on radiofrequency radiation.

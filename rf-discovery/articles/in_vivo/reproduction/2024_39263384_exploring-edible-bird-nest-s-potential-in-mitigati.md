@@ -19,6 +19,16 @@ mots_cles:
 - Radiofrequency Radiation
 - Edible Bird Nest
 - Wi‐fi
+auteurs:
+- Maluin SM
+- Jaffar FHF
+- Osman K
+- Zulkefli AF
+- Mat Ros MF
+- Ibrahim SF
+pmcid: PMC11387989
+volume: ''
+pages: e12606
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - sperm
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- annee/2024
 ---
 
 # Exploring edible bird nest's potential in mitigating Wi-Fi's impact on male reproductive health.

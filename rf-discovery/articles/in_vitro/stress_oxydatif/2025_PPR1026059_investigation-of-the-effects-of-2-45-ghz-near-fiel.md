@@ -12,6 +12,15 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Angelova B
+- Paunov M
+- Kitanova M
+- Atanasova G
+- Atanasov N
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -26,6 +35,13 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/thermique
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Investigation of the Effects of 2.45 GHz Near-Field EMF on Yeast

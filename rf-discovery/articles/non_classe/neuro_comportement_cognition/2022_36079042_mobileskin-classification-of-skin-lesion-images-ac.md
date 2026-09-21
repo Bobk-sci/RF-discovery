@@ -18,6 +18,16 @@ mots_cles:
 - lightweight architectures
 - mobile phone
 - skin cancer
+auteurs:
+- Yilmaz A
+- Gencoglan G
+- Varol R
+- Demircali AA
+- Keshavarz M
+- Uvet H
+pmcid: PMC9457478
+volume: '11'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +37,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # MobileSkin: Classification of Skin Lesion Images Acquired Using Mobile Phone-Attached Hand-Held Dermoscopes.

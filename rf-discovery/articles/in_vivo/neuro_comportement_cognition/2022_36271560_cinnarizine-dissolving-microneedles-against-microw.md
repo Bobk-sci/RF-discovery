@@ -30,6 +30,20 @@ mots_cles:
 - Microneedle
 - Microwave
 - Polyvinylpyrrolidone K90
+auteurs:
+- Zhang Y
+- Li Q
+- Wang C
+- Zhu L
+- Wang F
+- Jiao W
+- Zhuang X
+- Xie F
+- Du L
+- Jin Y
+pmcid: ''
+volume: '155'
+pages: '113779'
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -45,6 +59,11 @@ theme_indices:
 - learning
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Cinnarizine dissolving microneedles against microwave-induced brain injury.

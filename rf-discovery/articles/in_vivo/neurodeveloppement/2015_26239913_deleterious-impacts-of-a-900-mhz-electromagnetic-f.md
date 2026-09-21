@@ -29,6 +29,18 @@ mots_cles:
 - Hippocampus
 - Male rat
 - Pyramidal neuron
+auteurs:
+- Şahin A
+- Aslan A
+- Baş O
+- İkinci A
+- Özyılmaz C
+- Fikret Sönmez O
+- Çolakoğlu S
+- Odacı E
+pmcid: ''
+volume: '1624'
+pages: 232-238
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []
@@ -44,6 +56,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Deleterious impacts of a 900-MHz electromagnetic field on hippocampal pyramidal neurons of 8-week-old Sprague Dawley male rats.

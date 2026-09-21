@@ -28,6 +28,11 @@ mots_cles:
 - RF radiation
 - Radar
 - Radio antennas
+auteurs:
+- Balmori A
+pmcid: ''
+volume: '214'
+pages: '113851'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -40,6 +45,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Evidence for a health risk by RF on humans living around mobile phone base stations: From radiofrequency sickness to cancer.

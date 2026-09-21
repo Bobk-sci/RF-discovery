@@ -24,6 +24,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Nittby H
+- Grafström G
+- Tian DP
+- Malmgren L
+- Brun A
+- Persson BR
+- Salford LG
+- Eberhardt J
+pmcid: ''
+volume: '29'
+pages: 219-32
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -42,6 +54,12 @@ theme_indices:
 - memory
 - behaviour
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2008
 ---
 
 # Cognitive impairment in rats after long-term exposure to GSM-900 mobile phone radiation.

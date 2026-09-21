@@ -29,6 +29,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Lönn S
+- Ahlbom A
+- Christensen HC
+- Johansen C
+- Schüz J
+- Edström S
+- Henriksson G
+- Lundgren J
+- Wennerberg J
+- Feychting M
+pmcid: ''
+volume: '164'
+pages: 637-43
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires: []
@@ -43,6 +57,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2006
 ---
 
 # Mobile phone use and risk of parotid gland tumor.

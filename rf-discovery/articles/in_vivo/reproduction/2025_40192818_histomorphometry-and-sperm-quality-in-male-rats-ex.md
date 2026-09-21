@@ -30,6 +30,19 @@ mots_cles:
 - Seminal vesicle
 - Wi-fi
 - Rf-emf
+auteurs:
+- Vijay S
+- Ibrahim SF
+- Osman K
+- Zulkefli AF
+- Mat Ros MF
+- Jamaludin N
+- Syed Taha SMA
+- Hairulazam A
+- Jaffar FHF
+pmcid: PMC12023345
+volume: ''
+pages: e250048
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -48,6 +61,13 @@ theme_indices:
 - testis
 - fertility
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Histomorphometry and sperm quality in male rats exposed to 2.45 GHz Wi-Fi.

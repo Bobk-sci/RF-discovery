@@ -17,6 +17,16 @@ mots_cles:
 - microwave
 - rat
 - traumatic brain injury
+auteurs:
+- Igarashi Y
+- Matsuda Y
+- Fuse A
+- Ishiwata T
+- Naito Z
+- Yokota H
+pmcid: PMC4487000
+volume: '3'
+pages: 468-472
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -30,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # Pathophysiology of microwave-induced traumatic brain injury.

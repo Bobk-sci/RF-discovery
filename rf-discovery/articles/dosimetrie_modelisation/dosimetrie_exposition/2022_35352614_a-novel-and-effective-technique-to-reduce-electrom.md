@@ -21,6 +21,13 @@ mots_cles:
 - Electromagnetic Radiation (Emr)
 - Specific Absorption Rate (Sar)
 - Open Loop Resonator (Olr)
+auteurs:
+- L M
+- S A
+- Menon SK
+pmcid: ''
+volume: ''
+pages: 184-200
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:
@@ -35,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A novel and effective technique to reduce electromagnetic radiation absorption on biotic components at 2.45 GHz.

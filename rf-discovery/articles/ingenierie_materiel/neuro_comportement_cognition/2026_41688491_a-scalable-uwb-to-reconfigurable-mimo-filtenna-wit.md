@@ -19,6 +19,13 @@ mots_cles:
 - Filtenna
 - Multiple-input-multiple-output (Mimo)
 - Fifth Generation (5G)
+auteurs:
+- Fouda HS
+- Hamoud AS
+- Attia MA
+pmcid: PMC12909951
+volume: ''
+pages: '6525'
 modele: ingenierie_materiel
 modele_score: 4.5
 modele_secondaires: []
@@ -32,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # A scalable UWB-to-reconfigurable MIMO filtenna with single-varactor tuning and enhanced isolation for adaptive 5G and cognitive radio systems.

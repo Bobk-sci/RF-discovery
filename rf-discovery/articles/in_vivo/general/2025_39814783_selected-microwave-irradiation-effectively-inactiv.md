@@ -29,6 +29,16 @@ mots_cles:
 - Exposure Time
 - A(h5n1) Virus
 - Radiated Microwaves
+auteurs:
+- Bia P
+- Losardo M
+- Manna A
+- Brusaferro S
+- Privitera GP
+- Vincentelli AS
+pmcid: PMC11735811
+volume: ''
+pages: '2021'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -38,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Selected microwave irradiation effectively inactivates airborne avian influenza A(H5N1) virus.

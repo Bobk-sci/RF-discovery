@@ -29,6 +29,19 @@ mots_cles:
 - cell proliferation
 - mTOR
 - pRb
+auteurs:
+- Kim JH
+- Jeon S
+- Choi HD
+- Lee JH
+- Bae JS
+- Kim N
+- Kim HG
+- Kim KB
+- Kim HR
+pmcid: ''
+volume: '84'
+pages: 846-857
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires:
@@ -43,6 +56,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Exposure to long-term evolution radiofrequency electromagnetic fields decreases neuroblastoma cell proliferation via Akt/mTOR-mediated cellular senescence.

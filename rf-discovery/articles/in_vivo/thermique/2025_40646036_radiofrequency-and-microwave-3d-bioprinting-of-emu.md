@@ -27,6 +27,16 @@ mots_cles:
 - Radiofrequency
 - 3D Bioprinting
 - Emulsion Gel
+auteurs:
+- Tsubaki S
+- Ide A
+- Slocombe DR
+- Castell O
+- Maamoun I
+- Igura N
+pmcid: PMC12254223
+volume: ''
+pages: '25023'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -37,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2025
 ---
 
 # Radiofrequency and microwave 3D bioprinting of emulsion gel for dysphagia diets.

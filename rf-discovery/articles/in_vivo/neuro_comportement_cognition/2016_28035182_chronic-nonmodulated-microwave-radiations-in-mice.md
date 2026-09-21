@@ -19,6 +19,13 @@ mots_cles:
 - Anxiety
 - Modulated Microwave
 - Nonmodulated Microwave
+auteurs:
+- Kumar M
+- Singh SP
+- Chaturvedi CM
+pmcid: PMC5195817
+volume: ''
+pages: 318-327
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
@@ -35,6 +42,15 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- theme/stress_oxydatif
+- theme/calcium_canaux_ioniques
+- annee/2016
 ---
 
 # Chronic Nonmodulated Microwave Radiations in Mice Produce Anxiety-like and Depression-like Behaviours and Calcium- and NO-related Biochemical Changes in the Brain.

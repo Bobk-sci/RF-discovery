@@ -40,6 +40,18 @@ mots_cles:
 - In vivo delivery
 - Polyethyleneimine
 - RNA interference
+auteurs:
+- Pierrat P
+- Wang R
+- Kereselidze D
+- Lux M
+- Didier P
+- Kichler A
+- Pons F
+- Lebeau L
+pmcid: ''
+volume: '51'
+pages: 290-302
 modele: in_vivo
 modele_score: 1006.5
 modele_secondaires:
@@ -55,6 +67,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2015
 ---
 
 # Efficient in vitro and in vivo pulmonary delivery of nucleic acid by carbon dot-based nanocarriers.

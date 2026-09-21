@@ -19,6 +19,18 @@ mots_cles:
 - Chronic Inflammation
 - Photobiomodulation
 - Redox Signaling
+auteurs:
+- Thongyoo K
+- Sinthao O
+- Kamoltheptawin K
+- Kodsomboon W
+- Khunnam W
+- Thoradit T
+- Ahmad M
+- Pooam M
+pmcid: ''
+volume: ''
+pages: 1-12
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +42,12 @@ theme_secondaires:
 theme_indices:
 - nitric oxide
 - redox
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # Combined photobiomodulation and pulsed electromagnetic field exposure attenuates nitric oxide production in high-glucose/LPS-stimulated RAW264.7 macrophages.

@@ -2,25 +2,36 @@
 pmid: '37282482'
 doi: 10.4103/1673-5374.371379
 annee: 2023
-journal: Neural regeneration research
+journal: ''
 titre: Long-term radiofrequency electromagnetic fields exposure attenuates cognitive
   dysfunction in 5×FAD mice by regulating microglial function.
 url: https://pubmed.ncbi.nlm.nih.gov/37282482/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- 5×FAD
+- Therapeutic effect
 - Alzheimer’s disease
-- CSF1R
-- long term exposure
-- microglial function
 - neuroinflammation
-- radiofrequency electromagnetic fields
-- therapeutic effect
+- Csf1r
+- Radiofrequency Electromagnetic Fields
+- Long Term Exposure
+- Microglial Function
+- 5×Fad
+auteurs:
+- Son Y
+- Park HJ
+- Jeong YJ
+- Choi HD
+- Kim N
+- Lee HJ
+pmcid: PMC10360091
+volume: ''
+pages: 2497-2503
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -40,11 +51,20 @@ theme_indices:
 - microglia
 - glial
 - cytokine
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Long-term radiofrequency electromagnetic fields exposure attenuates cognitive dysfunction in 5×FAD mice by regulating microglial function.
 
-*Neural regeneration research — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

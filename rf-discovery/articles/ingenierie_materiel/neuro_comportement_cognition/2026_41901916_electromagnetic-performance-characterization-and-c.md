@@ -31,6 +31,15 @@ mots_cles:
 - Sar Analysis
 - Implantable Technology
 - Phantom Modeling
+auteurs:
+- Ali W
+- Nizam-Uddin N
+- Ullah U
+- Zahid M
+- Shoaib S
+pmcid: PMC13030409
+volume: ''
+pages: '1744'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:
@@ -44,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electromagnetic Performance Characterization and Circuit-Level Modeling of a Miniaturized Meander-Line Antenna for Implantable and Wearable RFID Applications.

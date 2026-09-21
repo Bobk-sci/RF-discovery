@@ -23,6 +23,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Preece AW
+- Goodfellow S
+- Wright MG
+- Butler SR
+- Dunn EJ
+- Johnson Y
+- Manktelow TC
+- Wesnes K
+pmcid: ''
+volume: Suppl 7
+pages: S138-43
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []
@@ -36,6 +48,12 @@ theme_indices:
 - cognition
 - cognitive
 - reaction time
+tags:
+- rf
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2005
 ---
 
 # Effect of 902 MHz mobile phone transmission on cognitive function in children.

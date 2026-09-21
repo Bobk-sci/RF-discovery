@@ -2,35 +2,47 @@
 pmid: '33375304'
 doi: 10.3390/ijms22010170
 annee: 2020
-journal: International journal of molecular sciences
+journal: ''
 titre: Effects of Electromagnetic Waves with LTE and 5G Bandwidth on the Skin Pigmentation
   In Vitro.
 url: https://pubmed.ncbi.nlm.nih.gov/33375304/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- Keratinocytes
+- Melanocytes
 - Animals
+- Mice, Inbred C57BL
+- Humans
+- Mice
+- Melanins
+- Skin Pigmentation
 - Cell Proliferation
 - Electromagnetic Fields
-- Humans
-- In Vitro Techniques
-- Keratinocytes
-- Melanins
-- Melanocytes
-- Mice
-- Mice, Inbred C57BL
 - Radio Waves
-- Skin Pigmentation
+- In Vitro Techniques
 types:
+- research-article
 - Journal Article
 mots_cles:
+- Skin pigmentation
+- Melanogenesis
+- Electromagnetic Waves
+- Lte
 - 5G
-- LTE
-- artificial human epidermis
-- electromagnetic waves
-- melanogenesis
-- skin pigmentation
+- Artificial Human Epidermis
+auteurs:
+- Kim K
+- Lee YS
+- Kim N
+- Choi HD
+- Kang DJ
+- Kim HR
+- Lim KM
+pmcid: PMC7794711
+volume: ''
+pages: E170
 modele: in_vitro
 modele_score: 1008.5
 modele_secondaires:
@@ -49,11 +61,19 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - attention
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # Effects of Electromagnetic Waves with LTE and 5G Bandwidth on the Skin Pigmentation In Vitro.
 
-*International journal of molecular sciences — 2020*
+*journal non renseigné — 2020*
 
 ## Résumé (texte d'origine)
 

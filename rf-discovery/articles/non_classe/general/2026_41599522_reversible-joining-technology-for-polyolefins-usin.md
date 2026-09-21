@@ -19,6 +19,16 @@ mots_cles:
 - Polyolefins
 - Hot-melts
 - Reversible Joining Technology
+auteurs:
+- Ciobanu RC
+- Aradoaei M
+- Ursan GA
+- Caramitu AR
+- Marinescu V
+- Eva RL
+pmcid: PMC12845911
+volume: ''
+pages: '228'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Reversible Joining Technology for Polyolefins Using Electromagnetic Energy and Homologous Hot-Melt Adhesives Containing Metallic and Ferrite Additives.

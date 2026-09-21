@@ -21,6 +21,12 @@ mots_cles:
 - Wireless Communication
 - Emfs
 - Cellphone
+auteurs:
+- Brown RR
+- Biebrich B
+pmcid: PMC11850513
+volume: ''
+pages: '1499499'
 modele: in_vivo
 modele_score: 1002.5
 modele_secondaires: []
@@ -31,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Hypothesis: ultrasonography can document dynamic &lt;i&gt;in vivo&lt;/i&gt; rouleaux formation due to mobile phone exposure.

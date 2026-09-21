@@ -19,6 +19,20 @@ mots_cles:
 - Electromagnetic fields
 - Mobile Phones
 - Wi-fi
+auteurs:
+- Baldini GM
+- Lot D
+- Ferri D
+- Montano L
+- Tartagni MV
+- Malvasi A
+- Laganà AS
+- Palumbo M
+- Baldini D
+- Trojano G
+pmcid: PMC12197507
+volume: ''
+pages: '510'
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:
@@ -33,6 +47,13 @@ theme_indices:
 - sperm
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Does Electromagnetic Pollution in the ART Laboratory Affect Sperm Quality? A Cross-Sectional Observational Study.

@@ -20,6 +20,14 @@ mots_cles:
 - risk assessment
 - Mobile Phones
 - Radiowaves
+auteurs:
+- Meena JK
+- Verma A
+- Kohli C
+- Ingle GK
+pmcid: PMC4922278
+volume: ''
+pages: 5-9
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -35,6 +43,12 @@ theme_indices:
 - carcinogenesis
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- annee/2016
 ---
 
 # Mobile phone use and possible cancer risk: Current perspectives in India.

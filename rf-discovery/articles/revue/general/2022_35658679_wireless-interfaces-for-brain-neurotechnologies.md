@@ -20,6 +20,12 @@ mots_cles:
 - neurotechnology
 - wireless communication
 - wireless power transfer
+auteurs:
+- Kim HJ
+- Ho JS
+pmcid: ''
+volume: '380'
+pages: '20210020'
 modele: revue
 modele_score: 1003.0
 modele_secondaires:
@@ -32,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/ingenierie_materiel
+- theme/general
+- annee/2022
 ---
 
 # Wireless interfaces for brain neurotechnologies.

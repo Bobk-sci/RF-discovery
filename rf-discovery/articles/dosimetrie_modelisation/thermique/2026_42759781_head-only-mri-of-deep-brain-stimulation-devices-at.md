@@ -14,6 +14,20 @@ types:
 - Journal Article
 mots_cles:
 - None
+auteurs:
+- Louka AM
+- Martinez DF
+- Zaraska KV
+- Wiens CN
+- Harris CT
+- Germann J
+- Boutet A
+- Kalia SK
+- Valiante TA
+- Connell IRO
+pmcid: ''
+volume: ''
+pages: '122244'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -27,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Head-only MRI of Deep Brain Stimulation devices at 0.5 T: Patient-derived approaches for estimating radiofrequency heating.

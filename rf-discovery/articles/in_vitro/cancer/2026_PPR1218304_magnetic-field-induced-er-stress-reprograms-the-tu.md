@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Sharma V
+- Khantwal C
+- Konwar K
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:
@@ -27,6 +34,13 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # Magnetic field-induced ER stress reprograms the tumor microenvironment to improve triple-negative breast cancer survival

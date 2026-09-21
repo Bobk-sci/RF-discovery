@@ -24,6 +24,16 @@ mots_cles:
 - Metamaterial-Inspired Antennas
 - Miniaturized Antenna Design
 - Self-Powered Iot Sensor
+auteurs:
+- Albaihani Y
+- Akram R
+- Almohaimeed AM
+- Almohaimeed ZM
+- Buhari LO
+- Shaban M
+pmcid: PMC12349637
+volume: ''
+pages: '4777'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires: []
@@ -36,6 +46,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Miniaturized EBG Antenna for Efficient 5.8 GHz RF Energy Harvesting in Self-Powered IoT and Medical Sensors.

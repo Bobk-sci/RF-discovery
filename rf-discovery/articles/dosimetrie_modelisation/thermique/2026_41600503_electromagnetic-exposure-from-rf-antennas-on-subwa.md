@@ -27,6 +27,13 @@ mots_cles:
 - Rf Antenna
 - Occupational Electromagnetic Exposure
 - Station Attendant
+auteurs:
+- Li J
+- Zhang Q
+- Lu M
+pmcid: PMC12846054
+volume: ''
+pages: '709'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -41,6 +48,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electromagnetic Exposure from RF Antennas on Subway Station Attendant: A Thermal Analysis.

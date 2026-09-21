@@ -26,6 +26,14 @@ mots_cles:
 - millimeter-wave
 - passive imaging
 - radiometry
+auteurs:
+- Owda AY
+- Salmon N
+- Shylo S
+- Owda M
+pmcid: PMC6651191
+volume: '19'
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2019
 ---
 
 # Assessment of Bandaged Burn Wounds Using Porcine Skin and Millimetric Radiometry.

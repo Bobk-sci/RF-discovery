@@ -28,6 +28,17 @@ mots_cles:
 - melatonin
 - oxidative stress
 - radiofrequency radiation
+auteurs:
+- Delen K
+- Sırav B
+- Oruç S
+- Seymen CM
+- Kuzay D
+- Yeğin K
+- Take Kaplanoğlu G
+pmcid: ''
+volume: '42'
+pages: 159-172
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -44,6 +55,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Effects of 2600 MHz Radiofrequency Radiation in Brain Tissue of Male Wistar Rats and Neuroprotective Effects of Melatonin.

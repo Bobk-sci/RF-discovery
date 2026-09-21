@@ -29,6 +29,26 @@ mots_cles:
 - Wi-fi Offloading
 - Data Upload Rate
 - Uplink Emissions
+auteurs:
+- Fontaine M
+- Guida F
+- Moissonnier M
+- Beranger R
+- Lagroye I
+- Orlacchio R
+- Laplanche A
+- Dejardin O
+- Conil E
+- Huss A
+- Mazloum T
+- Wiart J
+- Danjou A
+- Schüz J
+- Bories S
+- Deltour I
+pmcid: ''
+volume: ''
+pages: '125023'
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:
@@ -43,6 +63,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2026
 ---
 
 # Determinants of radiofrequency electromagnetic fields emitted by smartphones in French cellular telephony networks.

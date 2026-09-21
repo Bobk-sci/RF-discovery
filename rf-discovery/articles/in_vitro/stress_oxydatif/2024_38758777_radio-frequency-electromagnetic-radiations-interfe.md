@@ -2,30 +2,38 @@
 pmid: '38758777'
 doi: 10.1371/journal.pone.0299017
 annee: 2024
-journal: PloS one
+journal: ''
 titre: Radio frequency electromagnetic radiations interfere with the Leydig cell functions
   in-vitro.
 url: https://pubmed.ncbi.nlm.nih.gov/38758777/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Male
 - Leydig Cells
+- Cell Line
 - Animals
 - Mice
 - Reactive Oxygen Species
-- Radio Waves
-- Cell Proliferation
 - Testosterone
+- Cell Proliferation
 - Cell Survival
-- Cell Line
-- Cell Phone
+- Radio Waves
+- Male
 - Electromagnetic Radiation
+- Cell Phone
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles: []
+auteurs:
+- Jangid P
+- Rai U
+- Singh R
+pmcid: PMC11101099
+volume: ''
+pages: e0299017
 modele: in_vitro
 modele_score: 1007.5
 modele_secondaires:
@@ -44,11 +52,19 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Radio frequency electromagnetic radiations interfere with the Leydig cell functions in-vitro.
 
-*PloS one — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

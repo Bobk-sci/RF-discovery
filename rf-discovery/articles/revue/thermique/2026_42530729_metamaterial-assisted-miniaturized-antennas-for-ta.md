@@ -19,6 +19,14 @@ mots_cles:
 - Metamaterial
 - Targeted Tumor Therapy
 - Miniaturized Antennas
+auteurs:
+- Zuo J
+- Ye J
+- Xu C
+- Zhu H
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -34,6 +42,14 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Metamaterial-Assisted Miniaturized Antennas for Targeted Microwave Hyperthermia: From Deep Tissue Focus to Energy Efficiency.

@@ -27,6 +27,17 @@ mots_cles:
 - Radiofrequency radiation
 - Reactive oxygen species
 - TP53 mutations
+auteurs:
+- Gulati S
+- Kosik P
+- Durdik M
+- Skorvaga M
+- Jakl L
+- Markova E
+- Belyaev I
+pmcid: ''
+volume: '267'
+pages: '115632'
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires: []
@@ -43,6 +54,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2020
 ---
 
 # Effects of different mobile phone UMTS signals on DNA, apoptosis and oxidative stress in human lymphocytes.

@@ -32,6 +32,13 @@ mots_cles:
 - antioxidants activity
 - human albumin
 - lipid membrane
+auteurs:
+- Strugała P
+- Dudra A
+- Gabrielska J
+pmcid: ''
+volume: '64'
+pages: 7414-7422
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -42,6 +49,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2016
 ---
 
 # Interaction between Mimic Lipid Membranes and Acylated and Nonacylated Cyanidin and Its Bioactivity.

@@ -18,6 +18,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Ashraf MA
+- Mahmood A
+- Mahboob MA
+pmcid: ''
+volume: '198'
+pages: 491-502
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []
@@ -29,6 +36,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # NUMERICAL EVALUATION OF SPECIFIC ABSORPTION RATE IN HUMAN HEAD AND TORSO FOR WEARABLE WIRELESS DEVICES IN UNDERGROUND MINE SCENARIOS.

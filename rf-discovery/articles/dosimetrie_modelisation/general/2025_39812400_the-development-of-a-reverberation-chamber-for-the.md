@@ -27,6 +27,18 @@ mots_cles:
 - Computational Modeling
 - Reverberation Chamber
 - Sar Validation
+auteurs:
+- Iskra S
+- McIntosh RL
+- McKenzie RJ
+- Frankland JV
+- Deng C
+- Sylvester E
+- Wood AW
+- Croft RJ
+pmcid: PMC11734383
+volume: ''
+pages: e22539
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:
@@ -40,6 +52,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # The Development of a Reverberation Chamber for the Assessment of Biological Effects of Electromagnetic Energy Absorption in Mice.

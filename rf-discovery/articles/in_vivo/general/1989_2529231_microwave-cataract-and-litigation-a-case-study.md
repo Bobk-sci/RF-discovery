@@ -24,6 +24,11 @@ types:
 - Case Reports
 - Journal Article
 mots_cles: []
+auteurs:
+- Joyner KH
+pmcid: ''
+volume: '57'
+pages: 545-9
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -37,6 +42,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/1989
 ---
 
 # Microwave cataract and litigation: a case study.

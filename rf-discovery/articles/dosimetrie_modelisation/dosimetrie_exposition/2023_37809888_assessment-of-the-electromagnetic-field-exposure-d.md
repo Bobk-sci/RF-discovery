@@ -20,6 +20,13 @@ mots_cles:
 - Higher Education Institution
 - Icnirp
 - Band-Selective Measurement
+auteurs:
+- Suarez FL
+- Yepes SM
+- Escobar A
+pmcid: PMC10560042
+volume: ''
+pages: e20323
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -31,6 +38,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Assessment of the electromagnetic field exposure due to wireless communication technologies in two university campuses of medellin, Colombia.

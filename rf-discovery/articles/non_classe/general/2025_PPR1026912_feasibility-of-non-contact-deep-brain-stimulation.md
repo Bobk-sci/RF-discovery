@@ -13,6 +13,12 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Farzin A
+- Pooyan M
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -21,6 +27,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Feasibility of Non-Contact Deep Brain Stimulation Through Temporal Interference Waves: Neural Activity

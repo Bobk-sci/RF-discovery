@@ -29,6 +29,14 @@ mots_cles:
 - Tilted Antenna
 - Triple-band Antenna
 - Compact Size
+auteurs:
+- Benkalfate C
+- Ouslimani A
+- Kasbari AE
+- Feham M
+pmcid: PMC9610987
+volume: ''
+pages: '8009'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:
@@ -41,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A New Compact Triple-Band Triangular Patch Antenna for RF Energy Harvesting Applications in IoT Devices.

@@ -18,6 +18,15 @@ mots_cles:
 - Electromagnetic field
 - Corticosterone
 - Fear Memory
+auteurs:
+- Dehghani Z
+- Mahdavi SM
+- Modarresi Chahardehi A
+- Mansouri V
+- Jahani Sherafat S
+pmcid: PMC10082905
+volume: ''
+pages: e52
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -34,6 +43,13 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # The Effect of 2.45 GHz Electromagnetic Fields on Fear Memory Extinction in Male Rats.

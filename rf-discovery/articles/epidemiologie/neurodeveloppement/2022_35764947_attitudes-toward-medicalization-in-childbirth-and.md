@@ -25,6 +25,16 @@ mots_cles:
 - Coping
 - Locus of control
 - Pregnancy
+auteurs:
+- Espinosa M
+- Artieta-Pinedo I
+- Paz-Pascual C
+- Bully-Garay P
+- García-Álvarez A
+- ema-Q. Group
+pmcid: PMC9241227
+volume: '22'
+pages: '529'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []
@@ -38,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Attitudes toward medicalization in childbirth and their relationship with locus of control and coping in a Spanish population.

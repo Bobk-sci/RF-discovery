@@ -26,6 +26,13 @@ mots_cles:
 - Melatonin
 - Animal model
 - Cell Phone Radiation
+auteurs:
+- Amiri M
+- Khazaie H
+- Mohammadi M
+pmcid: PMC12008444
+volume: ''
+pages: 629-637
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -43,6 +50,15 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # The protective effects of melatonin against electromagnetic waves of cell phones in animal models: A systematic review.

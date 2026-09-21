@@ -38,6 +38,16 @@ mots_cles:
 - sex differences
 - sleep disruption
 - university students
+auteurs:
+- Wang X
+- Zhang L
+- Wu M
+- Yuan X
+- Ma L
+- Wang W
+pmcid: PMC12579296
+volume: '27'
+pages: e70819
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -53,6 +63,13 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # The Association Between Presleep and Postwake Mobile Phone Use and Nonsuicidal Self-Injury Among University Students: Cross-Sectional Study.
@@ -61,14 +78,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Nonsuicidal self-injury (NSSI) is a critical public health concern among university students, often considered a gateway behavior to suicide. With the widespread use of mobile phones, understanding the association between specific mobile phone use behaviors (eg, presleep and postwake mobile phone use) and NSSI has become increasingly important for targeted prevention.
+BACKGROUND: Nonsuicidal self-injury (NSSI) is a critical public health concern among university students, often considered a gateway behavior to suicide. With the widespread use of mobile phones, understanding the association between specific mobile phone use behaviors (eg, presleep and postwake mobile phone use) and NSSI has become increasingly important for targeted prevention.
 
-This study aimed to explore the association between presleep and postwake mobile phone use and NSSI among Chinese university students, examining potential dose-response relationships and sex differences.
+OBJECTIVE: This study aimed to explore the association between presleep and postwake mobile phone use and NSSI among Chinese university students, examining potential dose-response relationships and sex differences.
 
-A multistage random cluster sampling survey was conducted across 6 universities in Shaanxi province (northwest China) from October 2022 to November 2022. A total of 18,585 undergraduates were included in the final analysis. Binary logistic regression models were used to examine the association between presleep and postwake mobile phone use duration and past-month NSSI, whereas restricted cubic spline regression was applied to assess dose-response relationships.
+METHODS: A multistage random cluster sampling survey was conducted across 6 universities in Shaanxi province (northwest China) from October 2022 to November 2022. A total of 18,585 undergraduates were included in the final analysis. Binary logistic regression models were used to examine the association between presleep and postwake mobile phone use duration and past-month NSSI, whereas restricted cubic spline regression was applied to assess dose-response relationships.
 
-The prevalence of past-month NSSI among participants was 3.81% (709/18,585). Compared with individuals who reported lower presleep mobile phone use (0-30 minutes per day), those with higher presleep mobile phone use had substantially increased odds of NSSI, with odds ratios of 1.34 (95% CI 1.07-1.66) for the group with 61 to 120 minutes per day of use and 1.93 (95% CI 1.53-2.42) for the group with ≥120 minutes per day of use. For postwake mobile phone use, compared with the group with 0 to 1 minute per day of use, the participants in the group with >30 minutes per day of use showed a significant association with NSSI (odds ratio 1.27, 95% CI 1.02-1.58) in the fully adjusted model. Continuous variable analyses revealed that each 10-minute increase in presleep and postwake use was associated with a 3% and 2% higher NSSI risk, respectively. Restricted cubic spline analysis confirmed linear dose-response relationships for both presleep and postwake use (P>.05 for nonlinearity). No significant sex differences were observed in these associations.
+RESULTS: The prevalence of past-month NSSI among participants was 3.81% (709/18,585). Compared with individuals who reported lower presleep mobile phone use (0-30 minutes per day), those with higher presleep mobile phone use had substantially increased odds of NSSI, with odds ratios of 1.34 (95% CI 1.07-1.66) for the group with 61 to 120 minutes per day of use and 1.93 (95% CI 1.53-2.42) for the group with ≥120 minutes per day of use. For postwake mobile phone use, compared with the group with 0 to 1 minute per day of use, the participants in the group with >30 minutes per day of use showed a significant association with NSSI (odds ratio 1.27, 95% CI 1.02-1.58) in the fully adjusted model. Continuous variable analyses revealed that each 10-minute increase in presleep and postwake use was associated with a 3% and 2% higher NSSI risk, respectively. Restricted cubic spline analysis confirmed linear dose-response relationships for both presleep and postwake use (P>.05 for nonlinearity). No significant sex differences were observed in these associations.
 
-Prolonged presleep and postwake mobile phone use exhibited linear associations with NSSI among Chinese university students, with no significant sex disparities. These findings underscore the necessity of longitudinal studies to establish causality, elucidate underlying mechanisms, and inform targeted interventions.
+CONCLUSIONS: Prolonged presleep and postwake mobile phone use exhibited linear associations with NSSI among Chinese university students, with no significant sex disparities. These findings underscore the necessity of longitudinal studies to establish causality, elucidate underlying mechanisms, and inform targeted interventions.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/41105948/)

@@ -20,6 +20,16 @@ mots_cles:
 - Male infertility
 - Sperm quality
 - Endocrine Disruptors
+auteurs:
+- Qi Y
+- Shi J
+- Zhang Q
+- Xuan Y
+- Zhang H
+- Duan Y
+pmcid: PMC12968862
+volume: ''
+pages: '64'
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []
@@ -36,6 +46,13 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Environmental and microbiome determinants of sperm quality: a narrative review on male health.

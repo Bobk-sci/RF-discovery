@@ -23,6 +23,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Gupta A
+- Aljaidi M
+- Bansal S
+- Al Mamlook RE
+- Kumar V
+- Aljohani A
+- Aljohani S
+- Singla MK
+pmcid: PMC11620415
+volume: ''
+pages: e0311753
 modele: ingenierie_materiel
 modele_score: 3.5
 modele_secondaires:
@@ -37,6 +49,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design analysis and performance enhancement of a 2-element MIMO skin-implantable antenna for IoT-based health monitoring devices.

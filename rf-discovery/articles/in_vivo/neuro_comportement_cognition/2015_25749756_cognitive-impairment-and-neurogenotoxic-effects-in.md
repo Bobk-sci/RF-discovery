@@ -41,6 +41,19 @@ mots_cles:
 - cognitive function
 - comet assay
 - microwave exposure
+auteurs:
+- Deshmukh PS
+- Nasare N
+- Megha K
+- Banerjee BD
+- Ahmed RS
+- Singh D
+- Abegaonkar MP
+- Tripathi AK
+- Mediratta PK
+pmcid: ''
+volume: '34'
+pages: 284-90
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -64,6 +77,16 @@ theme_indices:
 - learning
 - behavior
 - spatial memory
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Cognitive impairment and neurogenotoxic effects in rats exposed to low-intensity microwave radiation.

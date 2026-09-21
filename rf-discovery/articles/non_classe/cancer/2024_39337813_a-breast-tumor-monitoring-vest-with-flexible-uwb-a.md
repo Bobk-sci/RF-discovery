@@ -22,6 +22,17 @@ mots_cles:
 - Biodevices
 - Microwave Diagnosis
 - Antenna Measurements
+auteurs:
+- Dessai R
+- Singh D
+- Sonkki M
+- Reponen J
+- Myllylä T
+- Myllymäki S
+- Särestöniemi M
+pmcid: PMC11434447
+volume: ''
+pages: '1153'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +42,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2024
 ---
 
 # A Breast Tumor Monitoring Vest with Flexible UWB Antennas-A Proof-of-Concept Study Using Realistic Breast Phantoms.

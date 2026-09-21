@@ -30,6 +30,15 @@ mots_cles:
 - Electromagnetic Hypersensitivity (Ehs)
 - Idiopathic Environmental Intolerance Attributed To Rf-emfs (Iei-rf)
 - Radiofrequency Electromagnetic Fields (Rf-emfs)
+auteurs:
+- Traini E
+- Martens AL
+- Slottje P
+- Vermeulen RCH
+- Huss A
+pmcid: ''
+volume: ''
+pages: '159240'
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires:
@@ -44,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Time course of health complaints attributed to RF-EMF exposure and predictors of electromagnetic hypersensitivity over 10 years in a prospective cohort of Dutch adults.

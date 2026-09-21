@@ -20,6 +20,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
+auteurs:
+- D'Andrea JA
+- Cobb BL
+- de Lorge JO
+pmcid: ''
+volume: '10'
+pages: 65-76
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -32,6 +39,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/1989
 ---
 
 # Lack of behavioral effects in the rhesus monkey: high peak microwave pulses at 1.3 GHz.

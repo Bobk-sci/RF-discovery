@@ -20,6 +20,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Iakovidis S
+- Manassas A
+- Apostolidis C
+- Samaras T
+pmcid: PMC12060845
+volume: ''
+pages: e70008
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -34,6 +42,11 @@ theme_indices:
 - power density
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # 5G EMF Exposure at 3.6 GHz in Greece Using Data From Frequency-Selective Monitoring Sensors.

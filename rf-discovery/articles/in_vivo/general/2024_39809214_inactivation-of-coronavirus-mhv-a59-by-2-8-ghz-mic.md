@@ -20,6 +20,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Xiao Y
+- Peng R
+- Wang H
+- Wang H
+- Dong J
+- Wang K
+- Liu W
+- Zhao L
+pmcid: PMC11596339
+volume: ''
+pages: e40341
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -29,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2024
 ---
 
 # Inactivation of β-coronavirus MHV-A59 by 2.8 GHz microwave.

@@ -13,6 +13,12 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Burra AS
+- Roy B
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:
@@ -27,6 +33,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Design and evaluation of a compact unified hexagonal dual-band wearable patch antenna

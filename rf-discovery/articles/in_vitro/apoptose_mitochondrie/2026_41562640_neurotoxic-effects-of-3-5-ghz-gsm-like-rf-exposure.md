@@ -32,6 +32,14 @@ mots_cles:
 - Apoptotic Pathways
 - Neurotrophin Receptor P75
 - Radiofrequency (3.5 Ghz)
+auteurs:
+- Bektas H
+- Seker A
+- Ustun R
+- Dogu S
+pmcid: ''
+volume: ''
+pages: 421-434
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:
@@ -52,6 +60,15 @@ theme_indices:
 - Bcl-2
 - cell viability
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Neurotoxic effects of 3.5 GHz GSM-like RF exposure on cultured DRG neurons: a mechanistic insight into oxidative and apoptotic pathways.

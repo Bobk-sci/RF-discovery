@@ -18,6 +18,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Alam MT
+- Barthakur N
+- Lambert NG
+- Kasatiya SS
+pmcid: ''
+volume: '20'
+pages: 23-30
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []
@@ -29,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/1978
 ---
 
 # Cytological effects of microwave radiation in Chinese hamster cells in vitro.

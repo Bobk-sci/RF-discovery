@@ -26,6 +26,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Lowden A
+- Akerstedt T
+- Ingre M
+- Wiholm C
+- Hillert L
+- Kuster N
+- Nilsson JP
+- Arnetz B
+pmcid: ''
+volume: '32'
+pages: 4-14
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires:
@@ -41,6 +53,14 @@ theme_indices:
 - EEG
 - sleep
 - slow wave
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2011
 ---
 
 # Sleep after mobile phone exposure in subjects with mobile phone-related symptoms.

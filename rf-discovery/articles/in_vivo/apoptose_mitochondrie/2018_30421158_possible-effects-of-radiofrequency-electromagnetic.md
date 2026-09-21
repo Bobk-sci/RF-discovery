@@ -26,6 +26,18 @@ mots_cles:
 - Glioblastoma
 - Immune cell invasion
 - Radiofrequencies
+auteurs:
+- Ouadah NS
+- Lecomte A
+- Robidel F
+- Olsson A
+- Deltour I
+- Schüz J
+- Blazy K
+- Villégier AS
+pmcid: ''
+volume: '140'
+pages: 539-546
 modele: in_vivo
 modele_score: 1009.5
 modele_secondaires:
@@ -45,6 +57,15 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Possible effects of radiofrequency electromagnetic fields on in vivo C6 brain tumors in Wistar rats.
@@ -53,12 +74,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Glioblastoma is a malignant brain tumor which has one of the poorest prognosis. It is not clear if toxic environmental factors can influence its aggressiveness. Recently, it was suggested that brain cancer patients with heavy cell phone use showed reduced survival. Here we aimed to assess the effect of controlled brain averaged specific absorption rate (BASAR) from heavy use of cell phone radiofrequency electromagnetic fields (RF-EMF) on in vivo C6 brain tumors in Wistar rats.
+PURPOSE: Glioblastoma is a malignant brain tumor which has one of the poorest prognosis. It is not clear if toxic environmental factors can influence its aggressiveness. Recently, it was suggested that brain cancer patients with heavy cell phone use showed reduced survival. Here we aimed to assess the effect of controlled brain averaged specific absorption rate (BASAR) from heavy use of cell phone radiofrequency electromagnetic fields (RF-EMF) on in vivo C6 brain tumors in Wistar rats.
 
-C6 cells grafted male rats were exposed to GSM 900 MHz signal at environmental BASAR, 0 (sham), 0.25 or 0.5 W/kg (5 days a week, 45 min a day in restraint), or were cage controls (no restraint). At death, tumor volume and immunohistochemistry for CD31, cleaved caspase (CC) 3 and Ki67 were assessed to examine vascularization, apoptosis and cellular divisions, respectively. Moreover, immune cell invasion, necrosis and mitotic index were determined.
+METHODS: C6 cells grafted male rats were exposed to GSM 900 MHz signal at environmental BASAR, 0 (sham), 0.25 or 0.5 W/kg (5 days a week, 45 min a day in restraint), or were cage controls (no restraint). At death, tumor volume and immunohistochemistry for CD31, cleaved caspase (CC) 3 and Ki67 were assessed to examine vascularization, apoptosis and cellular divisions, respectively. Moreover, immune cell invasion, necrosis and mitotic index were determined.
 
-Results showed no BASAR effect on survival (31 days post-graft median), tumor volume, mitotic index, vascularization, infiltration, necrosis or cell division. However, results suggested a BASAR-dependent reduction of immune cell invasion and apoptosis.
+RESULTS: Results showed no BASAR effect on survival (31 days post-graft median), tumor volume, mitotic index, vascularization, infiltration, necrosis or cell division. However, results suggested a BASAR-dependent reduction of immune cell invasion and apoptosis.
 
-Our data suggested an action of RF-EMF by reducing immune cell invasion and glioblastoma cell apoptosis, at probably too low amplitude to impact survival. Further replication studies are needed to confirm these observations.
+CONCLUSIONS: Our data suggested an action of RF-EMF by reducing immune cell invasion and glioblastoma cell apoptosis, at probably too low amplitude to impact survival. Further replication studies are needed to confirm these observations.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/30421158/)

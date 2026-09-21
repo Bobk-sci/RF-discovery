@@ -18,6 +18,16 @@ mots_cles:
 - Ingestible Antenna
 - Dual-band Antenna
 - Switchable Antenna
+auteurs:
+- Gogosh N
+- Khalid S
+- Malik BT
+- Shafique MF
+- Szczepanski S
+- Koziel S
+pmcid: PMC12909823
+volume: ''
+pages: '6385'
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:
@@ -31,6 +41,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electronically switchable dual-band capsule antenna for wireless endoscopic applications.

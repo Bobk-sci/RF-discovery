@@ -24,6 +24,14 @@ mots_cles:
 - Measurement Time
 - Rf‐emf Exposure Variability
 - Averaging Time Lengths
+auteurs:
+- Bhatt CR
+- Henderson S
+- Sanagou M
+- Loughran S
+pmcid: ''
+volume: ''
+pages: e70030
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -32,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Exposure Variability Between 1- or 6-Minute and 30-Minute Averaging Time Lengths in Radiofrequency-Electromagnetic Field Exposure Monitoring.

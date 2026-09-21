@@ -27,6 +27,15 @@ mots_cles:
 - antiapoptotic factors
 - proapoptotic factors
 - radiofrequency
+auteurs:
+- Gökçen S
+- Kurt B
+- Küçükbağrıaçık Y
+- Ozgur-Buyukatalay E
+- Kismali G
+pmcid: ''
+volume: '41'
+pages: 325-334
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []
@@ -42,6 +51,11 @@ theme_indices:
 - Bcl-2
 - cell viability
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Effects of radiofrequency radiation on apoptotic and antiapoptotic factors in colorectal cancer cells.

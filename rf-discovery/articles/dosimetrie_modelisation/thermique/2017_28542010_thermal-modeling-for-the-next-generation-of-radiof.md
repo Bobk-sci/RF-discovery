@@ -30,6 +30,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Foster KR
+- Ziskin MC
+- Balzano Q
+pmcid: ''
+volume: '113'
+pages: 41-53
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []
@@ -45,6 +52,12 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Thermal Modeling for the Next Generation of Radiofrequency Exposure Limits: Commentary.

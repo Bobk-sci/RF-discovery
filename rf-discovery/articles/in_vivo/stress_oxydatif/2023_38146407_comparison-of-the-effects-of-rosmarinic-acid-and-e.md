@@ -20,6 +20,13 @@ mots_cles:
 - Rosmarinic acid
 - Cell Phone
 - Ultrahigh-frequency Wave
+auteurs:
+- Goudarzi M
+- Fatahi Asl J
+- Shoghi H
+pmcid: PMC10748653
+volume: ''
+pages: 207-213
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -39,6 +46,11 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2023
 ---
 
 # Comparison of the Effects of Rosmarinic Acid and Electromagnetic Radiation-Induced Cardiotoxicity on Rats.

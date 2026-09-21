@@ -23,6 +23,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Al-Qahtani K
+pmcid: ''
+volume: '1'
+pages: 71-8
 modele: epidemiologie
 modele_score: 1007.0
 modele_secondaires: []
@@ -37,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2016
 ---
 
 # Mobile Phone Use and the Risk of Parotid Gland Tumors: A Retrospective Case-Control Study.
@@ -45,12 +55,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Mobile phones are integral part of the modern lifestyle. As they emit radio frequency electromagnetic field, their role in carcinogenesis needs to be ascertained. The goal of this study was to investigate the association between the use of cellular phones and the risk for parotid gland tumors.
+BACKGROUND: Mobile phones are integral part of the modern lifestyle. As they emit radio frequency electromagnetic field, their role in carcinogenesis needs to be ascertained. The goal of this study was to investigate the association between the use of cellular phones and the risk for parotid gland tumors.
 
-A total of 26 patients diagnosed with parotid gland tumors and 61 healthy controls were enrolled through a hospital-based retrospective case-control study. The patients were referred and admitted to a tertiary hospital from January 1996 to March 2013.
+MATERIALS AND METHODS: A total of 26 patients diagnosed with parotid gland tumors and 61 healthy controls were enrolled through a hospital-based retrospective case-control study. The patients were referred and admitted to a tertiary hospital from January 1996 to March 2013.
 
-The Odds of exposure were 3.47 times higher among patients compared to their controls. 95% CI suggested that the true Odds Ratio (OR) at the population level could be somewhere between 1.3 and 9.23 and so the observed OR was statistically significant at 5% level of significance.
+RESULTS: The Odds of exposure were 3.47 times higher among patients compared to their controls. 95% CI suggested that the true Odds Ratio (OR) at the population level could be somewhere between 1.3 and 9.23 and so the observed OR was statistically significant at 5% level of significance.
 
-Overall, an association between the exposure of cellular phone use for more than 1 hour daily and parotid tumor was observed. This association should be interpreted with caution because of the relatively small sample size.
+CONCLUSIONS: Overall, an association between the exposure of cellular phone use for more than 1 hour daily and parotid tumor was observed. This association should be interpreted with caution because of the relatively small sample size.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/27050182/)

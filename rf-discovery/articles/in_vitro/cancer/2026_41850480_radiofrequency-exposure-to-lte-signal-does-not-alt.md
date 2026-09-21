@@ -27,6 +27,16 @@ mots_cles:
 - Human Neuroblastoma Cells
 - 4G-lte Signal
 - Cancer-related Endpoints
+auteurs:
+- Allocca M
+- Scarfì MR
+- Romeo S
+- Sannino A
+- Peluso V
+- Zeni O
+pmcid: ''
+volume: ''
+pages: '124292'
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:
@@ -47,6 +57,15 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2026
 ---
 
 # Radiofrequency exposure to LTE signal does not alter cancer-related endpoints in human neuroblastoma cell model either alone, or co-exposed to menadione or Wi-Fi signal.

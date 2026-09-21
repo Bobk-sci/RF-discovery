@@ -28,6 +28,13 @@ mots_cles:
 - children
 - epidemiology
 - standardized ownership ratio
+auteurs:
+- Sato Y
+- Kojimahara N
+- Yamaguchi N
+pmcid: ''
+volume: '38'
+pages: 349-355
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires: []
@@ -41,6 +48,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2017
 ---
 
 # Analysis of mobile phone use among young patients with brain tumors in Japan.

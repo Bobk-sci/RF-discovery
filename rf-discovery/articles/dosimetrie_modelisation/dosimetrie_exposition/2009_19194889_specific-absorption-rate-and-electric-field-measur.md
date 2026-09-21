@@ -21,6 +21,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Toivonen T
+- Toivo T
+- Puranen L
+- Jokela K
+pmcid: ''
+volume: '30'
+pages: 307-12
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:
@@ -39,6 +47,12 @@ theme_indices:
 - ICNIRP
 - compliance
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Specific absorption rate and electric field measurements in the near field of six mobile phone base station antennas.

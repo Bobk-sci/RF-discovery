@@ -14,6 +14,18 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Briones-Márquez LF
+- Navarro-Partida J
+- Herrera-González A
+- García-Bon MA
+- Martínez-Álvarez IA
+- Uribe-Rodríguez D
+- González-Ortiz LJ
+- López-Naranjo EJ
+pmcid: PMC10570584
+volume: ''
+pages: e20742
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -23,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2023
 ---
 
 # HPLC-UV evaluation of a microwave assisted method as an active drug loading technique for exosome-based drug delivery system.

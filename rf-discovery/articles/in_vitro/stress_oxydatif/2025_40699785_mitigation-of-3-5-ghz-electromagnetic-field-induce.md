@@ -22,6 +22,15 @@ mots_cles:
 - Polydeoxyribonucleotide (Pdrn)
 - 3.5 Ghz
 - Oxidative Stress (Ros)
+auteurs:
+- Pachhapure S
+- Mufida A
+- Wei Q
+- Choi JS
+- Jang BC
+pmcid: PMC12192555
+volume: ''
+pages: '386'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -37,6 +46,14 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2025
 ---
 
 # Mitigation of 3.5 GHz Electromagnetic Field-Induced BV2 Microglial Cytotoxicity by Polydeoxyribonucleotide.

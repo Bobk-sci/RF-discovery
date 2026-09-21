@@ -21,6 +21,14 @@ mots_cles:
 - Wilkinson Power Divider
 - Filtering Power Divider
 - Compact Resonator
+auteurs:
+- Roshani S
+- Yahya SI
+- Mohamadpour G
+- Roshani S
+pmcid: PMC12942332
+volume: ''
+pages: '158'
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires: []
@@ -33,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2026
 ---
 
 # Design of a Compact UHF Wilkinson Power Divider Using a Combined T-Shaped-CCMRC Resonator for Harmonic Suppression.

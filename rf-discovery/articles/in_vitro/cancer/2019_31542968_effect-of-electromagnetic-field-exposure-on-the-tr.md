@@ -24,6 +24,13 @@ mots_cles:
 - Line
 - Mobile Phone Radiation
 - Alpha Satellite Dna
+auteurs:
+- Del Re B
+- Bersani F
+- Giorgi G
+pmcid: ''
+volume: ''
+pages: 262-270
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:
@@ -40,6 +47,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Effect of electromagnetic field exposure on the transcription of repetitive DNA elements in human cells.

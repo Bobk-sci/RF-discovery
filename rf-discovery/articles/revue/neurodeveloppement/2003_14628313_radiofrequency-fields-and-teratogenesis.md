@@ -28,6 +28,12 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Heynick LN
+- Merritt JH
+pmcid: ''
+volume: Suppl 6
+pages: S174-86
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,6 +50,14 @@ theme_indices:
 - perinatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2003
 ---
 
 # Radiofrequency fields and teratogenesis.

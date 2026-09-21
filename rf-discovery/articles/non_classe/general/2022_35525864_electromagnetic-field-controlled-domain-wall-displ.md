@@ -14,6 +14,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Li D
+- Barrington J
+- James S
+- Ayre D
+- Słoma M
+- Lin MF
+- Yazdani Nezhad H
+pmcid: PMC9079120
+volume: ''
+pages: '7504'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2022
 ---
 
 # Electromagnetic field controlled domain wall displacement for induced strain tailoring in BaTiO<sub>3</sub>-epoxy nanocomposite.

@@ -28,6 +28,17 @@ mots_cles:
 - Wi-fi
 - H2a.x
 - 2.45 Ghz
+auteurs:
+- Özyılmaz C
+- Daşdağ S
+- Oktay MF
+- Ulukaya E
+- Erkısa Genel M
+- Emre F
+- Yeğin K
+pmcid: ''
+volume: ''
+pages: 160-169
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:
@@ -46,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # One-year follow-up of thyroid status in rats exposed to 2.45 Ghz radiofrequency radiation during the prenatal period.

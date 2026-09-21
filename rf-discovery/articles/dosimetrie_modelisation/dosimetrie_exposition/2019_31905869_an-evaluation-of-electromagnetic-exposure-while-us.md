@@ -20,6 +20,14 @@ mots_cles:
 - public health
 - radiofrequency sensor
 - specific energy absorption rate (SAR)
+auteurs:
+- Zradziński P
+- Karpowicz J
+- Gryz K
+- Ramos V
+pmcid: PMC6982864
+volume: '20'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires: []
@@ -36,6 +44,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # An Evaluation of Electromagnetic Exposure While Using Ultra-High Frequency Radiofrequency Identification (UHF RFID) Guns.

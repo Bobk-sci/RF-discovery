@@ -24,6 +24,15 @@ mots_cles:
 - Sperm quality
 - Radiofrequency Radiation
 - Wi-fi
+auteurs:
+- Jaffar FHF
+- Osman K
+- Ismail NH
+- Chin KY
+- Ibrahim SF
+pmcid: ''
+volume: ''
+pages: 169-179
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -44,6 +53,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2019
 ---
 
 # Adverse Effects of Wi-Fi Radiation on Male Reproductive System: A Systematic Review.

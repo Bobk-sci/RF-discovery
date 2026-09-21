@@ -26,6 +26,13 @@ mots_cles:
 - Specific Absorption Rate
 - Non-ionizing Dosimetry
 - Metal-rim Spectacles
+auteurs:
+- İl N
+- Ateş K
+- Özen Ş
+pmcid: ''
+volume: ''
+pages: 114-122
 modele: dosimetrie_modelisation
 modele_score: 6.0
 modele_secondaires: []
@@ -40,6 +47,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - electric field strength
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Electromagnetic field exposure to human head model with various metal objects at sub-6 GHz frequencies.

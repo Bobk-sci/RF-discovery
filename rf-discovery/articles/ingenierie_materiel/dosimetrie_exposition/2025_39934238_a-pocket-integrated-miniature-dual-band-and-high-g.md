@@ -14,6 +14,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Sharma D
+- Tiwari RN
+- Singh DK
+- Matekovits L
+pmcid: PMC11814098
+volume: ''
+pages: '5061'
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:
@@ -29,6 +37,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A pocket-integrated miniature, dual-band, and high gain textile MIMO antenna for 5G and WiFi wearable applications.

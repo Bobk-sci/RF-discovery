@@ -20,6 +20,16 @@ mots_cles:
 - Wi-max
 - Body-centric Antenna
 - Muti-band Antenna
+auteurs:
+- Awan WA
+- Abbas A
+- Naqvi SI
+- Elkamchouchi DH
+- Aslam M
+- Hussain N
+pmcid: PMC10609033
+volume: ''
+pages: '1842'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -32,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A Conformal Tri-Band Antenna for Flexible Devices and Body-Centric Wireless Communications.

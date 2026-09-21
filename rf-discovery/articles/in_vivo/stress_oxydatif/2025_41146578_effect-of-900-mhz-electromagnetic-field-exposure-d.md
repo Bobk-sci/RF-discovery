@@ -36,6 +36,14 @@ mots_cles:
 - Ferroptosis
 - Glutathione Peroxidase 4 (Gpx4)
 - Transient Receptor Potential Melastatin 2 (Trpm2)
+auteurs:
+- Yazğan Y
+- Tüfekci KK
+- Yazğan B
+- Tatar M
+pmcid: ''
+volume: ''
+pages: e23013
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []
@@ -58,6 +66,12 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # Effect of 900 MHz Electromagnetic Field Exposure During Different Trimesters of Pregnancy on TRPM2-Mediated Ferroptosis and Neurotoxicity in the Trigeminal Ganglion of Rats: Protective Role of Ferrostatin-1.

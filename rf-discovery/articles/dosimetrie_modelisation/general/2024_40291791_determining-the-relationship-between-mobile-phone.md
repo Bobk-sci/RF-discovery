@@ -21,6 +21,21 @@ mots_cles:
 - Conversion Functions
 - Radiofrequency Electromagnetic Field (Rf-Emf) Exposure
 - Signal Strength Indicators
+auteurs:
+- Sandoval-Diez N
+- Belácková L
+- Fernandes Veludo A
+- Jalilian H
+- Guida F
+- Deltour I
+- Thielens A
+- Zahner M
+- Fröhlich J
+- Huss A
+- Röösli M
+pmcid: PMC12032521
+volume: ''
+pages: '206'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +45,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Determining the relationship between mobile phone network signal strength and radiofrequency electromagnetic field exposure: protocol and pilot study to derive conversion functions.

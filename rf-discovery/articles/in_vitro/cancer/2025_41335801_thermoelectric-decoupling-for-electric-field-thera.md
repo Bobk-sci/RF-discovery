@@ -18,6 +18,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Cao B
+- Wei L
+- Wang H
+- Zhao S
+- Zhang A
+pmcid: ''
+volume: ''
+pages: 1-5
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires: []
@@ -32,6 +41,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/thermique
+- annee/2025
 ---
 
 # Thermoelectric Decoupling for Electric Field Therapy in Glioblastoma.

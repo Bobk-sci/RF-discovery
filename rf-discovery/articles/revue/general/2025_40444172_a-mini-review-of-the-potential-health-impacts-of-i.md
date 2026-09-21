@@ -24,6 +24,14 @@ mots_cles:
 - Non-ionizing Radiation
 - Companion Animals
 - Radiofrequencies
+auteurs:
+- Maipas S
+- Vardiambasis IO
+- Nikolopoulos CD
+- Kavantzas N
+pmcid: PMC12120279
+volume: ''
+pages: '11786302251342972'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -35,6 +43,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # A Mini-Review of the Potential Health Impacts of Indoor Radiation Exposure in Companion Animals.

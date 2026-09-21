@@ -31,6 +31,20 @@ mots_cles:
 - cohort study
 - mobile phone use characteristics; UK Biobank
 - older people
+auteurs:
+- Zhang J
+- Zou J
+- He Y
+- Shen J
+- Jing K
+- An R
+- Wang Z
+- Yao X
+- Ren C
+- Xia Y
+pmcid: ''
+volume: '54'
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires: []
@@ -42,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2025
 ---
 
 # Mobile phone use characteristics, genetic predisposition and the risk of Parkinson's disease: a prospective cohort study.

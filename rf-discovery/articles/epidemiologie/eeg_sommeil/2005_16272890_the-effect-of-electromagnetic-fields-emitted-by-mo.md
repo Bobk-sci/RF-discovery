@@ -25,6 +25,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Loughran SP
+- Wood AW
+- Barton JM
+- Croft RJ
+- Thompson B
+- Stough C
+pmcid: ''
+volume: '16'
+pages: 1973-6
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -37,6 +47,12 @@ theme_secondaires:
 theme_indices:
 - electroencephalogram
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- annee/2005
 ---
 
 # The effect of electromagnetic fields emitted by mobile phones on human sleep.

@@ -19,6 +19,17 @@ mots_cles:
 - Microwave
 - Autophagy
 - Ipsc-cms
+auteurs:
+- Zhang C
+- Liu Z
+- Wang Y
+- Deng W
+- Wang H
+- Zhang J
+- Feng Q
+pmcid: PMC12990254
+volume: ''
+pages: '100288'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +42,11 @@ theme_indices:
 - mitochondria
 - membrane potential
 - autophagy
+tags:
+- rf
+- modele/non_classe
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # The role of autophagy in microwave radiation induced toxicity in iPSC-derived cardiomyocytes.

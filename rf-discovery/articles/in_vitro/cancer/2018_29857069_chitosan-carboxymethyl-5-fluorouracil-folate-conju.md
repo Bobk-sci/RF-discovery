@@ -28,6 +28,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Nawaz A
+- Wong TW
+pmcid: ''
+volume: '138'
+pages: 2412-2422
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:
@@ -43,6 +49,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- annee/2018
 ---
 
 # Chitosan-Carboxymethyl-5-Fluorouracil-Folate Conjugate Particles: Microwave Modulated Uptake by Skin and Melanoma Cells.

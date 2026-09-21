@@ -28,6 +28,17 @@ mots_cles:
 - malignant lesions
 - permittivity
 - vascularization
+auteurs:
+- Owda AY
+- Salmon N
+- Harmer SW
+- Shylo S
+- Bowring NJ
+- Rezgui ND
+- Shah M
+pmcid: PMC5638105
+volume: '38'
+pages: 559-569
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -40,6 +51,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2017
 ---
 
 # Millimeter-wave emissivity as a metric for the non-contact diagnosis of human skin conditions.

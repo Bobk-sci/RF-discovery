@@ -24,6 +24,14 @@ mots_cles:
 - Computational Accuracy
 - Volume Conductor Model
 - Staircasing Error
+auteurs:
+- Yamada E
+- Diao Y
+- Laakso I
+- Hirata A
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []
@@ -34,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Tensor-based SPFD method for accurate low-frequency magnetic field dosimetry in anatomical models.

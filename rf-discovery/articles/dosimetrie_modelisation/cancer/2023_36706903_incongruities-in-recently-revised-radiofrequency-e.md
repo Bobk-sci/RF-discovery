@@ -18,6 +18,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Lin JC
+pmcid: ''
+volume: '222'
+pages: '115369'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -30,6 +35,12 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - IARC
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/thermique
+- annee/2023
 ---
 
 # Incongruities in recently revised radiofrequency exposure guidelines and standards.

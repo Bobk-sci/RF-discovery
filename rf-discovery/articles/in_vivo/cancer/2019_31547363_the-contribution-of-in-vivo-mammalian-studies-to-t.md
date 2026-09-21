@@ -26,6 +26,15 @@ mots_cles:
 - Radiofrequency Radiation
 - Reproductive/developmental Toxicity
 - In Vivo Experimental Studies
+auteurs:
+- Vornoli A
+- Falcioni L
+- Mandrioli D
+- Bua L
+- Belpoggi F
+pmcid: PMC6765993
+volume: ''
+pages: E3379
 modele: in_vivo
 modele_score: 1004.5
 modele_secondaires:
@@ -42,6 +51,14 @@ theme_secondaires:
 theme_indices:
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/in_vivo
+- modele/revue
+- theme/cancer
+- theme/reproduction
+- theme/neuroinflammation
+- annee/2019
 ---
 
 # The Contribution of In Vivo Mammalian Studies to the Knowledge of Adverse Effects of Radiofrequency Radiation on Human Health.

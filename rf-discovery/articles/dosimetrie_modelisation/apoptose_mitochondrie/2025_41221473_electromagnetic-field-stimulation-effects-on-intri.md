@@ -20,6 +20,15 @@ mots_cles:
 - Intrinsically Disordered Proteins
 - Posttranslational Modifications
 - Electromagnetic Fields Stimulation
+auteurs:
+- Perez FP
+- Bandeira J
+- Morisaki J
+- Kanakri H
+- Rizkalla M
+pmcid: PMC12599974
+volume: ''
+pages: 408-438
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -32,6 +41,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - autophagy
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Electromagnetic Field Stimulation Effects on Intrinsically Disordered Proteins and Their Role in Aging and Neurodegeneration.

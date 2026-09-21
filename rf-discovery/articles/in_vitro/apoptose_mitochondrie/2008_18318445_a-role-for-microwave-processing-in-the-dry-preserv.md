@@ -24,6 +24,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Chakraborty N
+- Biswas D
+- Parker W
+- Moyer P
+- Elliott GD
+pmcid: ''
+volume: '100'
+pages: 782-96
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:
@@ -37,6 +46,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - apoptosis
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2008
 ---
 
 # A role for microwave processing in the dry preservation of mammalian cells.

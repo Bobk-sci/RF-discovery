@@ -22,6 +22,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Un Noor SM
+- Shah SAA
+- Shah IA
+- Khan S
+- Nasir J
+- Koziel S
+- Abbasi QH
+pmcid: PMC12514249
+volume: ''
+pages: '35470'
 modele: ingenierie_materiel
 modele_score: 1005.5
 modele_secondaires:
@@ -39,6 +50,13 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A highly miniaturized circularly polarized self-duplexing implantable antenna with enhanced performance for wireless capsule endoscopy applications.

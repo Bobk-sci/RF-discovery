@@ -19,6 +19,17 @@ mots_cles:
 - polyarginine
 - thermoacoustic imaging
 - thermoacoustic therapy
+auteurs:
+- Zhai S
+- Hu X
+- Ji Z
+- Qin H
+- Wang Z
+- Hu Y
+- Xing D
+pmcid: ''
+volume: '19'
+pages: 1728-1735
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:
@@ -32,6 +43,12 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2019
 ---
 
 # Pulsed Microwave-Pumped Drug-Free Thermoacoustic Therapy by Highly Biocompatible and Safe Metabolic Polyarginine Probes.

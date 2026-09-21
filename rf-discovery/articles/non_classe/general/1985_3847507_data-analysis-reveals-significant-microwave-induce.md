@@ -23,6 +23,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Frey AH
+pmcid: ''
+volume: '20'
+pages: 53-5
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/1985
 ---
 
 # Data analysis reveals significant microwave-induced eye damage in humans.

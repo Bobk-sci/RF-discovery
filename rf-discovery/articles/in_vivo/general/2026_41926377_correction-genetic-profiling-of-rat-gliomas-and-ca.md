@@ -15,6 +15,24 @@ types:
 - Published Erratum
 - correction
 mots_cles: []
+auteurs:
+- Brooks AM
+- Vornoli A
+- Kovi RC
+- Ton TVT
+- Xu M
+- Mashal A
+- Tibaldi E
+- Gnudi F
+- Li JL
+- Sills RC
+- Bucher JR
+- Mandrioli D
+- Belpoggi F
+- Pandiri AR
+pmcid: PMC13046171
+volume: ''
+pages: e0346498
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -24,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2026
 ---
 
 # Correction: Genetic profiling of rat gliomas and cardiac schwannomas from life-time radiofrequency radiation exposure study using a targeted next-generation sequencing gene panel.

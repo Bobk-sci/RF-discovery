@@ -14,6 +14,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Shallah AB
+- Zubir F
+- Rahim MKA
+- Jizat NM
+- Basit A
+- Yusof KH
+- Majid HA
+pmcid: PMC12106682
+volume: ''
+pages: '18425'
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []
@@ -23,6 +34,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Compact dual band crossover for 5G low and mid band applications using a metamaterial branch line coupler.

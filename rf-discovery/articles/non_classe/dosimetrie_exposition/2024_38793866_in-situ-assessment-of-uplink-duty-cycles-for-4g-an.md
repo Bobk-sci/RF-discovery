@@ -2,22 +2,30 @@
 pmid: '38793866'
 doi: 10.3390/s24103012
 annee: 2024
-journal: ''
+journal: Sensors (Basel, Switzerland)
 titre: In Situ Assessment of Uplink Duty Cycles for 4G and 5G Wireless Communications.
 url: https://pubmed.ncbi.nlm.nih.gov/38793866/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Duty Cycle
-- Smartphone
-- Emf Exposure
-- Uplink
-- 5G Nr
+- 5G NR
+- EMF exposure
+- duty cycle
+- smartphone
+- uplink
+auteurs:
+- Vermeeren G
+- Verloock L
+- Aerts S
+- Martens L
+- Joseph W
+pmcid: PMC11124896
+volume: '24'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,11 +35,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # In Situ Assessment of Uplink Duty Cycles for 4G and 5G Wireless Communications.
 
-*journal non renseigné — 2024*
+*Sensors (Basel, Switzerland) — 2024*
 
 ## Résumé (texte d'origine)
 

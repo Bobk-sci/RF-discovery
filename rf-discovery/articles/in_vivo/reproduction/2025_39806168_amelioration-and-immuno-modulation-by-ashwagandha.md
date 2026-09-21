@@ -29,6 +29,12 @@ mots_cles:
 - Inflammatory Response
 - Erα
 - Ashwagandha Root Extract
+auteurs:
+- Gupta V
+- Srivastava R
+pmcid: ''
+volume: ''
+pages: 455-466
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -46,6 +52,15 @@ theme_indices:
 - testis
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Amelioration and Immuno-modulation by Ashwagandha on Wi-fi Induced Oxidative Stress in Regulating Reproduction Via Estrogen Receptor Alpha in Male Japanese Quail.

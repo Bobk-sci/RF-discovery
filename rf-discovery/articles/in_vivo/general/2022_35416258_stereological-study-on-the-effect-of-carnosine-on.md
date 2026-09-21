@@ -20,6 +20,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Arslan A
+- Acer N
+- Kesici H
+- Sonmez MF
+- Ertekin T
+- Gultekin M
+- Dagdelen U
+- Saracoglu OG
+pmcid: ''
+volume: ''
+pages: 618-624
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -30,6 +42,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2022
 ---
 
 # Stereological Study on the Effect of Carnosine on of Purkinje Cells in the Cerebellum of Rats Exposed to 900 MHz Electromagnetic Field.

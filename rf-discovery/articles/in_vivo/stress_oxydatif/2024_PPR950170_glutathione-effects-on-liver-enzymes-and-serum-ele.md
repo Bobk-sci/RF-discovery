@@ -13,6 +13,11 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- BINHAMBALI A
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -24,6 +29,11 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # Glutathione Effects on Liver Enzymes and Serum Electrolyte in Mice Exposed to 850–1900 MHz Mobile Phone Radiation

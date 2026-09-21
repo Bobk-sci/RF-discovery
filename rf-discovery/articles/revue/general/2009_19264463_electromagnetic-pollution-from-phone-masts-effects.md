@@ -13,6 +13,11 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Balmori A
+pmcid: ''
+volume: '16'
+pages: 191-9
 modele: revue
 modele_score: 1.0
 modele_secondaires:
@@ -23,6 +28,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/general
+- annee/2009
 ---
 
 # Electromagnetic pollution from phone masts. Effects on wildlife.

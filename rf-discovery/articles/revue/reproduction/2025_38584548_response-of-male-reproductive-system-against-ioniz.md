@@ -28,6 +28,17 @@ mots_cles:
 - Radiofrequency
 - Electromagnetic Radiation
 - Testes.
+auteurs:
+- Parashar R
+- Yadav SM
+- Meena P
+- Kumar R
+- Jheeta KS
+- Saini P
+- Patel DD
+pmcid: ''
+volume: ''
+pages: 1-22
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,6 +55,14 @@ theme_indices:
 - testis
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/eeg_sommeil
+- theme/cancer
+- annee/2025
 ---
 
 # Response of Male Reproductive System against Ionizing Radiation and Available Radio-protective Agents: Cellular and Molecular Insight.

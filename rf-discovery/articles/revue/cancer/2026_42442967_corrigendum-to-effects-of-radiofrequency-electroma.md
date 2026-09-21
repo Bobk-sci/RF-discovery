@@ -20,6 +20,18 @@ mots_cles:
 - Radiofrequency Electromagnetic Fields
 - Radiofrequency Exposure
 - Carcinogenesis, Toxicity, Systematic Review
+auteurs:
+- Mevissen M
+- Ducray A
+- Ward JM
+- Kopp-Schneider A
+- McNamee JP
+- Wood AW
+- Rivero TM
+- Straif K
+pmcid: ''
+volume: ''
+pages: '110368'
 modele: revue
 modele_score: 1007.0
 modele_secondaires:
@@ -43,6 +55,15 @@ theme_indices:
 - tumor
 - glioma
 - IARC
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/neuroinflammation
+- theme/reproduction
+- annee/2026
 ---
 
 # Corrigendum to "Effects of radiofrequency electromagnetic field exposure on cancer in laboratory animal studies, a systematic review" [Environ. Int. 199 (2025) 109482].

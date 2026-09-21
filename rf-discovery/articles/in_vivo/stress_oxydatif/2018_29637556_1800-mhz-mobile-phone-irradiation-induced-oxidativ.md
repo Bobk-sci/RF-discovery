@@ -42,6 +42,13 @@ mots_cles:
 - Oxidative stress
 - Nitrosative Stress
 - Mobile Phone Radiation
+auteurs:
+- Shahin S
+- Singh SP
+- Chaturvedi CM
+pmcid: PMC13482464
+volume: ''
+pages: 7253-7267
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -62,6 +69,14 @@ theme_indices:
 - antioxidant
 - nitric oxide
 - redox
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2018
 ---
 
 # 1800 MHz mobile phone irradiation induced oxidative and nitrosative stress leads to p53 dependent Bax mediated testicular apoptosis in mice, Mus musculus.

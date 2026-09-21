@@ -27,6 +27,22 @@ mots_cles:
 - Exposure To Rf Fields
 - Izloženost Rf Poljima
 - Radiofrekvencija
+auteurs:
+- Prlić I
+- Šiško J
+- Varnai VM
+- Pavelić L
+- Macan J
+- Kobešćak S
+- Hajdinjak M
+- Jurdana M
+- Cerovac Z
+- Zauner B
+- Mihić MS
+- Avdagić SC
+pmcid: PMC9287836
+volume: ''
+pages: 94-106
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -44,6 +60,15 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2022
 ---
 
 # Wi-Fi technology and human health impact: a brief review of current knowledge.

@@ -26,6 +26,13 @@ mots_cles:
 - Tissue Regeneration
 - Super-low-intensity Microwave Field
 - Weak Electromagnetic Field
+auteurs:
+- Artamonov MY
+- Pyatakovich FA
+- Minenko IA
+pmcid: PMC11855362
+volume: ''
+pages: '1705'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +49,15 @@ theme_secondaires:
 theme_indices:
 - ion channel
 - calcium signaling
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/calcium_canaux_ioniques
+- theme/apoptose_mitochondrie
+- theme/thermique
+- annee/2025
 ---
 
 # Influence of Super-Low-Intensity Microwave Radiation on Mesenchymal Stem Cells.

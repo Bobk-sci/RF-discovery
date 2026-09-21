@@ -19,6 +19,16 @@ mots_cles:
 - Optical Interference
 - Irradiation Disinfection
 - Microbiota On Surfaces
+auteurs:
+- Martínez Antón JC
+- Navarrete MC
+- Alda J
+- Rodriguez-Schwendtner E
+- Quintana Benito J
+- Diaz Herrera N
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Consideration of electromagnetic wave interference on microorganism inactivation on reflective surfaces.

@@ -25,6 +25,15 @@ mots_cles:
 - Protective effect
 - Radiofrequency
 - hsp70 levels
+auteurs:
+- Zeni O
+- Romeo S
+- Sannino A
+- Palumbo R
+- Scarfì MR
+pmcid: ''
+volume: '196'
+pages: '110935'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires: []
@@ -40,6 +49,11 @@ theme_secondaires: []
 theme_indices:
 - DNA damage
 - heat shock protein
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2021
 ---
 
 # Evidence of bystander effect induced by radiofrequency radiation in a human neuroblastoma cell line.

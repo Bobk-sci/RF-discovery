@@ -22,6 +22,12 @@ types:
 mots_cles:
 - Children protection
 - Wi-Fi radiation
+auteurs:
+- Markov M
+- Grigoriev Y
+pmcid: ''
+volume: '34'
+pages: 251-6
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,6 +41,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Protect children from EMF.

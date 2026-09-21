@@ -31,6 +31,19 @@ mots_cles:
 - Mobile Communications
 - Health Risk Perception
 - Exposure Perception
+auteurs:
+- Link SC
+- Grellier J
+- Martin L
+- Eggeling-Böcker M
+- Abacioglu F
+- Schulz C
+- Vaupotič N
+- White MP
+- Boehmert C
+pmcid: PMC13238347
+volume: ''
+pages: e70058
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -41,6 +54,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # A Ten-Country Study on Public Perceptions of 5G EMF Emissions: Who Feels Exposed, and Why?

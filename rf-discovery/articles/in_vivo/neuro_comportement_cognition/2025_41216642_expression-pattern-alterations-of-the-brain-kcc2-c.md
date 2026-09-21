@@ -33,6 +33,17 @@ mots_cles:
 - Oxidative Parameters
 - Kcc2 Chloride Transporter
 - Extremely Low‐frequency Magnetic Fields (Elf‐mfs)
+auteurs:
+- Nemati M
+- Nozari M
+- Darvishzadeh-Mahani F
+- Ahmadi-Zeidabadi M
+- Ganjalikhan-Hakemi S
+- Bashiri H
+- Haratizadeh S
+pmcid: ''
+volume: ''
+pages: e2546
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -49,6 +60,13 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Expression Pattern Alterations of the Brain KCC2 Chloride Transporter in Male Rats Following Postnatal Extremely Low-Frequency Electromagnetic Field Exposure Associated With Behavioral Outcomes.

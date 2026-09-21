@@ -30,6 +30,15 @@ mots_cles:
 - knowledge
 - marriage age
 - practice
+auteurs:
+- Andriani L
+- Simbolon D
+- Riastuti F
+- Villia A
+- Muslim Z
+pmcid: ''
+volume: '28'
+pages: 47-54
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -42,6 +51,12 @@ theme_secondaires: []
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Jalinan Kasih android mobile phone application improves knowledge, attitude, and practice regarding early marriage among high school students: Evidence from quasi-experimental study.

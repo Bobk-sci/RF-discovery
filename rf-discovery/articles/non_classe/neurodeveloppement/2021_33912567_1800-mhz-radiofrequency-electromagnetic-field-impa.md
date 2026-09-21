@@ -19,6 +19,23 @@ mots_cles:
 - Neurite Outgrowth
 - Epha5
 - Radiofrequency Electromagnetic Fields
+auteurs:
+- Chen C
+- Ma Q
+- Deng P
+- Lin M
+- Gao P
+- He M
+- Lu Y
+- Pi H
+- He Z
+- Zhou C
+- Zhang Y
+- Yu Z
+- Zhang L
+pmcid: PMC8075058
+volume: ''
+pages: '657623'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - brain development
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # 1800 MHz Radiofrequency Electromagnetic Field Impairs Neurite Outgrowth Through Inhibiting EPHA5 Signaling.

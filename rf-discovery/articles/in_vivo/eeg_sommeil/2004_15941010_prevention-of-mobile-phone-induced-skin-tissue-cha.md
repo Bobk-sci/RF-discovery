@@ -24,6 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Ozguner F
+- Aydin G
+- Mollaoglu H
+- Gökalp O
+- Koyu A
+- Cesur G
+pmcid: ''
+volume: '20'
+pages: 133-9
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -38,6 +48,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - melatonin
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/eeg_sommeil
+- annee/2004
 ---
 
 # Prevention of mobile phone induced skin tissue changes by melatonin in rat: an experimental study.

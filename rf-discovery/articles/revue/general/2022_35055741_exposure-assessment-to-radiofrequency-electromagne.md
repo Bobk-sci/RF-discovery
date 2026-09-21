@@ -25,6 +25,16 @@ mots_cles:
 - Military Environment
 - Em Fields
 - Military Devices
+auteurs:
+- Gallucci S
+- Fiocchi S
+- Bonato M
+- Chiaramello E
+- Tognola G
+- Parazzini M
+pmcid: PMC8776107
+volume: ''
+pages: '920'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -36,6 +46,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Exposure Assessment to Radiofrequency Electromagnetic Fields in Occupational Military Scenarios: A Review.

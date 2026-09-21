@@ -13,6 +13,17 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Gupta A
+- Kumar V
+- Alsharif MH
+- Uthansakul P
+- Uthansakul M
+- Dhasarathan V
+- Sharma M
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires:
@@ -25,6 +36,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design and performance analysis of an L-shaped radiator and defected ground antenna for enhancing wireless connectivity in brain implants

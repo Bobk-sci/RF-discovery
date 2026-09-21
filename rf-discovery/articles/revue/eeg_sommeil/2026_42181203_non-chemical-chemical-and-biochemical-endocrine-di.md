@@ -28,6 +28,11 @@ mots_cles:
 - Electromagnetic Field-induced Endocrine Disruption
 - Noise-induced Endocrine Disruption
 - Thermal Stress-induced Endocrine Disruption
+auteurs:
+- Ulusu NN
+pmcid: PMC13193988
+volume: ''
+pages: '1813234'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -43,6 +48,15 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - circadian
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2026
 ---
 
 # Non-chemical, chemical, and biochemical, endocrine disruptors: biphasic health effects and pathophysiological insights.

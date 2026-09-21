@@ -18,6 +18,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Hammarin G
+- Norder P
+- Harimoorthy R
+- Chen G
+- Berntsen P
+- Widlund PO
+- Stoij C
+- Rodilla H
+- Swenson J
+- Brändén G
+- Neutze R
+pmcid: PMC11306338
+volume: ''
+pages: '18286'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -28,6 +43,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2024
 ---
 
 # No observable non-thermal effect of microwave radiation on the growth of microtubules.

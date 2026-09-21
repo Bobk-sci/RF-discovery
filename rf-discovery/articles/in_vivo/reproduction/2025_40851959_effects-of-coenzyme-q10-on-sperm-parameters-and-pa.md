@@ -18,6 +18,19 @@ mots_cles:
 - Coenzyme Q10
 - Pathological changes
 - Sperm Parameters
+auteurs:
+- Safaeinezhad A
+- Mousapour E
+- Baba Ahmadi AK
+- Ebrahimi S
+- Rahimi K
+- Rezaie A
+- Dehvari M
+- Givi ME
+- Sasani A
+pmcid: PMC12369732
+volume: ''
+pages: 4073-4079
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -30,6 +43,11 @@ theme_indices:
 - sperm
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- annee/2025
 ---
 
 # Effects of coenzyme Q10 on sperm parameters and pathological changes induced by Wi-Fi waves in the testicular tissue of rats.

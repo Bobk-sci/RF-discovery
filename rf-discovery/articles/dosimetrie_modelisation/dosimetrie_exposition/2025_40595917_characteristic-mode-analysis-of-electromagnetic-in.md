@@ -14,6 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Hasani P
+- Hashemi SM
+- Sadeqi A
+- Ghalibafan J
+- Mashayekhi V
+pmcid: PMC12216417
+volume: ''
+pages: '22801'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -24,6 +33,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Characteristic mode analysis of electromagnetic interference susceptibility in motor driven unmanned drones for enhanced design and performance.

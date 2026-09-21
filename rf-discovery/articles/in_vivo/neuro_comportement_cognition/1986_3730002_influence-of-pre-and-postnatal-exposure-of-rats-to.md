@@ -27,6 +27,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Galvin MJ
+- Tilson HA
+- Mitchell CL
+- Peterson J
+- McRee DI
+pmcid: ''
+volume: '7'
+pages: 57-71
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []
@@ -42,6 +51,12 @@ theme_indices:
 - behavior
 - locomotor activity
 - neurobehavioral
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/1986
 ---
 
 # Influence of pre- and postnatal exposure of rats to 2.45-GHz microwave radiation on neurobehavioral function.

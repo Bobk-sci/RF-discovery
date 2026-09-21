@@ -26,6 +26,15 @@ mots_cles:
 - Non-ionizing Radiation
 - Thermal Model
 - Non-thermal Model
+auteurs:
+- Hinrikus H
+- Koppel T
+- Lass J
+- Roosipuu P
+- Bachmann M
+pmcid: ''
+volume: ''
+pages: 1167-1177
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -36,6 +45,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2023
 ---
 
 # Limiting exposure to radiofrequency radiation: the principles and possible criteria for health protection.

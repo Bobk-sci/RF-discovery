@@ -24,6 +24,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Elmoslemany AM
+- Ghamry HI
+- Awad AA
+- El-Kholy RI
+- Almami ISM
+- Alyamani NM
+- Zedan AMG
+pmcid: PMC10020533
+volume: '13'
+pages: '4406'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []
@@ -38,6 +49,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Liver tissues oxidative status, epigenetic and molecular characteristics in rats administered magnetic and microwave treated water.

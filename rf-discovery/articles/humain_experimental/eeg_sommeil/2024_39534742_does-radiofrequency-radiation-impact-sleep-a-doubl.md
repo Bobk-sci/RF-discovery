@@ -38,6 +38,14 @@ mots_cles:
 - Wi-fi
 - Non-ionising Radiation
 - Electropollution
+auteurs:
+- Bijlsma N
+- Conduit R
+- Kennedy G
+- Cohen M
+pmcid: PMC11554657
+volume: ''
+pages: '1481537'
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires:
@@ -52,6 +60,14 @@ theme_secondaires:
 theme_indices:
 - EEG
 - sleep
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Does radiofrequency radiation impact sleep? A double-blind, randomised, placebo-controlled, crossover pilot study.

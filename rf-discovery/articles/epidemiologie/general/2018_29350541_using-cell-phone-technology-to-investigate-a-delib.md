@@ -29,6 +29,16 @@ mots_cles:
 - Epidemiologic investigation
 - National security
 - Outbreak
+auteurs:
+- Eisenkraft A
+- Afriat A
+- Hubary Y
+- Lev R
+- Shaul H
+- Balicer RD
+pmcid: ''
+volume: '16'
+pages: 22-29
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -39,6 +49,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2018
 ---
 
 # Using Cell Phone Technology to Investigate a Deliberate Bacillus anthracis Release Scenario.

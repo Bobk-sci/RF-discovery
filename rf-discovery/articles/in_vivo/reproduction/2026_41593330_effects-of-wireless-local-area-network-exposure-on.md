@@ -28,6 +28,14 @@ mots_cles:
 - Electromagnetic field
 - Vegfa
 - Hif1a
+auteurs:
+- Çakmak E
+- Bilgici B
+- Engiz BK
+- Kocaman A
+pmcid: PMC12909949
+volume: ''
+pages: '6387'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -44,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Effects of wireless local area network exposure on testicular morphology and VEGF levels.

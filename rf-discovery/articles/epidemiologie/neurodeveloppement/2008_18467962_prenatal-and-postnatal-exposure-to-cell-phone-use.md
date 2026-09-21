@@ -30,6 +30,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Divan HA
+- Kheifets L
+- Obel C
+- Olsen J
+pmcid: ''
+volume: '19'
+pages: 523-9
 modele: epidemiologie
 modele_score: 5.0
 modele_secondaires:
@@ -48,6 +56,13 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2008
 ---
 
 # Prenatal and postnatal exposure to cell phone use and behavioral problems in children.
@@ -56,12 +71,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The World Health Organization has emphasized the need for research into the possible effects of radiofrequency fields in children. We examined the association between prenatal and postnatal exposure to cell phones and behavioral problems in young children.
+BACKGROUND: The World Health Organization has emphasized the need for research into the possible effects of radiofrequency fields in children. We examined the association between prenatal and postnatal exposure to cell phones and behavioral problems in young children.
 
-Mothers were recruited to the Danish National Birth Cohort early in pregnancy. When the children of those pregnancies reached 7 years of age in 2005 and 2006, mothers were asked to complete a questionnaire regarding the current health and behavioral status of children, as well as past exposure to cell phone use. Mothers evaluated the child's behavior problems using the Strength and Difficulties Questionnaire.
+METHODS: Mothers were recruited to the Danish National Birth Cohort early in pregnancy. When the children of those pregnancies reached 7 years of age in 2005 and 2006, mothers were asked to complete a questionnaire regarding the current health and behavioral status of children, as well as past exposure to cell phone use. Mothers evaluated the child's behavior problems using the Strength and Difficulties Questionnaire.
 
-Mothers of 13,159 children completed the follow-up questionnaire reporting their use of cell phones during pregnancy as well as current cell phone use by the child. Greater odds ratios for behavioral problems were observed for children who had possible prenatal or postnatal exposure to cell phone use. After adjustment for potential confounders, the odds ratio for a higher overall behavioral problems score was 1.80 (95% confidence interval = 1.45-2.23) in children with both prenatal and postnatal exposure to cell phones.
+RESULTS: Mothers of 13,159 children completed the follow-up questionnaire reporting their use of cell phones during pregnancy as well as current cell phone use by the child. Greater odds ratios for behavioral problems were observed for children who had possible prenatal or postnatal exposure to cell phone use. After adjustment for potential confounders, the odds ratio for a higher overall behavioral problems score was 1.80 (95% confidence interval = 1.45-2.23) in children with both prenatal and postnatal exposure to cell phones.
 
-Exposure to cell phones prenatally-and, to a lesser degree, postnatally-was associated with behavioral difficulties such as emotional and hyperactivity problems around the age of school entry. These associations may be noncausal and may be due to unmeasured confounding. If real, they would be of public health concern given the widespread use of this technology.
+CONCLUSIONS: Exposure to cell phones prenatally-and, to a lesser degree, postnatally-was associated with behavioral difficulties such as emotional and hyperactivity problems around the age of school entry. These associations may be noncausal and may be due to unmeasured confounding. If real, they would be of public health concern given the widespread use of this technology.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/18467962/)

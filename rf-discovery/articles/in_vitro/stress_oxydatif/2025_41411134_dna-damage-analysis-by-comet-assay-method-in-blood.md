@@ -14,6 +14,15 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Karaman IP
+- Coskun O
+- Senol N
+- Aslankoc R
+- Comlekci S
+pmcid: ''
+volume: ''
+pages: AT7599
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires:
@@ -30,6 +39,13 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # DNA Damage Analysis by Comet Assay Method in Blood Tissue and Physiopathological Evaluation of the Effect of Quercetin on Kidney Tissue in 2600 MHz Electromagnetic Field Exposure.

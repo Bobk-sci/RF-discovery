@@ -28,6 +28,16 @@ mots_cles:
 - peripheral nerve
 - Prenatal Exposure
 - Cell Phone
+auteurs:
+- Hancı H
+- Yenilmez E
+- Demir S
+- Yıldırım M
+- Gedikli Ö
+- Kaya H
+pmcid: ''
+volume: ''
+pages: 251-266
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []
@@ -44,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # The effect on rat peripheral nerve morphology and function of a 900-MHz electromagnetic field applied in the prenatal period.

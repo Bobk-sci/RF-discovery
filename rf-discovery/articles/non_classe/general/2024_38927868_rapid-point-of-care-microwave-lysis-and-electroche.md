@@ -23,6 +23,16 @@ mots_cles:
 - bioengineering
 - Point-of-care
 - Clostridioides Difficile
+auteurs:
+- Joshi LT
+- Brousseau E
+- Morris T
+- Lees J
+- Porch A
+- Baillie L
+pmcid: PMC11200505
+volume: ''
+pages: '632'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2024
 ---
 
 # Rapid, Point-of-Care Microwave Lysis and Electrochemical Detection of &lt;i&gt;Clostridioides difficile&lt;/i&gt; Directly from Stool Samples.

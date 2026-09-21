@@ -19,6 +19,15 @@ mots_cles:
 - mood
 - performance
 - sleep
+auteurs:
+- Schwarz J
+- Freidle M
+- van Leeuwen W
+- Åkerstedt T
+- Kecklund G
+pmcid: PMC10701737
+volume: '14'
+pages: '1264881'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:
@@ -32,6 +41,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Sleep in everyday life - relationship to mood and performance in young and older adults: a study protocol.

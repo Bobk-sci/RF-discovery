@@ -20,6 +20,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Dong XW
+- Qian YD
+- Lu M
+pmcid: PMC12077798
+volume: ''
+pages: e0322735
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []
@@ -35,6 +42,12 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/thermique
+- annee/2025
 ---
 
 # Electromagnetic exposure levels of electric vehicle drive motors to cochlear implanted passenger.

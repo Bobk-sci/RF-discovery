@@ -28,6 +28,13 @@ mots_cles:
 - Transmission
 - Receptor
 - Emr
+auteurs:
+- Hu C
+- Zuo H
+- Li Y
+pmcid: PMC8415840
+volume: ''
+pages: '691880'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -42,6 +49,12 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2021
 ---
 
 # Effects of Radiofrequency Electromagnetic Radiation on Neurotransmitters in the Brain.

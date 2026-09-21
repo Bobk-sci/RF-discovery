@@ -20,6 +20,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Jauchem JR
+pmcid: ''
+volume: '33'
+pages: 263-74
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -33,6 +38,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - leukemia
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- theme/reproduction
+- annee/1998
 ---
 
 # Health effects of microwave exposures: a review of the recent (1995-1998) literature.

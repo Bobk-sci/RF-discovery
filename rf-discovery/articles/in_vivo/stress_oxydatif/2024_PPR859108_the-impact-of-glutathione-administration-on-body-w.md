@@ -13,6 +13,18 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Ahmed AT
+- Binhambali A
+- Umar AH
+- Tekanyi AA
+- Pate AA
+- Nuhu A
+- Ipinlaiye T
+- Magaji RA
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -24,6 +36,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # The Impact of Glutathione Administration on Body Weight and Lipid Metabolism in Mice Following Exposure to Mobile Phone Radiation of Frequency 850-1900

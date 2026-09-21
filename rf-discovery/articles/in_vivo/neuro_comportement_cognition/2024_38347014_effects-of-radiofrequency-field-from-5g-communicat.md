@@ -30,6 +30,21 @@ mots_cles:
 - Metabolite
 - Gut Microbiota
 - Radiofrequency Field
+auteurs:
+- Wang X
+- Zhou G
+- Lin J
+- Qin T
+- Du J
+- Guo L
+- Lai P
+- Jing Y
+- Zhang Z
+- Zhou Y
+- Ding G
+pmcid: PMC10861445
+volume: ''
+pages: '3571'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -44,6 +59,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of radiofrequency field from 5G communication on fecal microbiome and metabolome profiles in mice.

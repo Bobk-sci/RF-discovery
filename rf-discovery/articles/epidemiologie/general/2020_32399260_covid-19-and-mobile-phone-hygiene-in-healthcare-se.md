@@ -30,6 +30,15 @@ mots_cles:
 - infections, diseases, disorders, injuries
 - prevention strategies
 - public health
+auteurs:
+- Panigrahi SK
+- Pathak VK
+- Kumar MM
+- Raj U
+- Priya P K
+pmcid: PMC7204931
+volume: '5'
+pages: e002505
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -39,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2020
 ---
 
 # Covid-19 and mobile phone hygiene in healthcare settings.
@@ -47,6 +61,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32399260/)

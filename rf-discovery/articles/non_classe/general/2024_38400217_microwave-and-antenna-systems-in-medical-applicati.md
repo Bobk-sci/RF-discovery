@@ -13,6 +13,12 @@ mesh:
 types:
 - Editorial
 mots_cles: []
+auteurs:
+- Lui HS
+- Persson M
+pmcid: PMC10892428
+volume: ''
+pages: '1059'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -21,6 +27,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2024
 ---
 
 # Microwave and Antenna Systems in Medical Applications.

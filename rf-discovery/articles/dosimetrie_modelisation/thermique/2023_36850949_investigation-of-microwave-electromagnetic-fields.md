@@ -25,6 +25,14 @@ mots_cles:
 - Human Head Phantom
 - Microwave Electromagnetic Field
 - Shielded Space
+auteurs:
+- Vaverka F
+- Smetana M
+- Gombarska D
+- Psenakova Z
+pmcid: PMC9961501
+volume: ''
+pages: '2351'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - thermal effect
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2023
 ---
 
 # Investigation of Microwave Electromagnetic Fields in Open and Shielded Areas and Their Possible Effects on Biological Structure.

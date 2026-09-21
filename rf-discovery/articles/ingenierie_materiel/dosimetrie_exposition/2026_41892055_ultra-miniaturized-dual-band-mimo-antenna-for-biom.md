@@ -26,6 +26,15 @@ mots_cles:
 - Capsule endoscopy
 - Mimo
 - Implantable Antenna
+auteurs:
+- Bashir T
+- Chen S
+- Feng G
+- Cao Y
+- Li W
+pmcid: PMC13023434
+volume: ''
+pages: '163'
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:
@@ -41,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Ultra-Miniaturized Dual-Band MIMO Antenna for Biomedical Implantable Devices in Wireless Health Monitoring Systems.

@@ -22,6 +22,13 @@ mots_cles:
 - multiple IoT devices
 - predictive software
 - public exposure limits
+auteurs:
+- Joyner K
+- Milligan M
+- Knipe P
+pmcid: ''
+volume: '45'
+pages: 329-337
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -35,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - exposure limit
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Estimates and measurements of radiofrequency exposures in smart-connected homes.

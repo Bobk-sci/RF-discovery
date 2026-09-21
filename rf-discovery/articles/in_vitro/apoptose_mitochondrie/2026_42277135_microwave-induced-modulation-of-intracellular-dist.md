@@ -28,6 +28,17 @@ mots_cles:
 - Cellular Uptake
 - Mitochondrial Targeting Sequences
 - 2.45 Ghz
+auteurs:
+- Kayamori F
+- Kariya T
+- Hirata M
+- Arimoto Y
+- Endoh T
+- Nakanishi N
+- Usui K
+pmcid: PMC13507107
+volume: ''
+pages: '26744'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []
@@ -44,6 +55,12 @@ theme_indices:
 - cell viability
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Microwave-induced modulation of intracellular distribution of peptides based on mitochondrial targeting sequences.

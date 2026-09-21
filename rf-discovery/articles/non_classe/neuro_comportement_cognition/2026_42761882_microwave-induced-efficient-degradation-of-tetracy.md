@@ -14,6 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Liu M
+- Ai S
+- Wu W
+- Wang B
+- Chen Y
+pmcid: PMC13587844
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -24,6 +33,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - reaction time
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Microwave-induced efficient degradation of tetracycline using magnetic ZnFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanoparticles anchored on C/SiO&lt;sub&gt;2&lt;/sub&gt;.

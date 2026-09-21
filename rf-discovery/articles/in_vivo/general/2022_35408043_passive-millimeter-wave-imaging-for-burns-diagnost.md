@@ -25,6 +25,11 @@ mots_cles:
 - noncontact diagnostics
 - passive imaging
 - porcine skin
+auteurs:
+- Owda AY
+pmcid: PMC9003280
+volume: '22'
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -34,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2022
 ---
 
 # Passive Millimeter-Wave Imaging for Burns Diagnostics under Dressing Materials.

@@ -19,6 +19,14 @@ mots_cles:
 - Cellular Phones
 - Electromagnetic Analysis
 - Handset Antenna
+auteurs:
+- Beard BB
+- Iacono MI
+- Guag JW
+- Liu Y
+pmcid: PMC9871728
+volume: ''
+pages: 49-54
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []
@@ -32,6 +40,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A Multi-Frequency 3D Printed Hand Phantom for Electromagnetic Measurements.

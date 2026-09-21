@@ -29,6 +29,12 @@ mots_cles:
 - Biological effects
 - Male Reproductive Health
 - Radiofrequency Radiation Exposure
+auteurs:
+- Bektas H
+- Dasdag S
+pmcid: ''
+volume: ''
+pages: 359-384
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -49,6 +55,16 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # The effects of radiofrequency radiation on male reproductive health and potential mechanisms.

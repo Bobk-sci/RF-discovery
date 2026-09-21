@@ -30,6 +30,12 @@ mots_cles:
 - Oxidative stress
 - Inflammatory Response And Male Infertility
 - Mw Radiation
+auteurs:
+- Gupta V
+- Srivastava R
+pmcid: ''
+volume: ''
+pages: 61-70
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -46,6 +52,15 @@ theme_indices:
 - testis
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/thermique
+- annee/2022
 ---
 
 # 2.45 GHz microwave radiation induced oxidative stress: Role of inflammatory cytokines in regulating male fertility through estrogen receptor alpha in Gallus gallus domesticus.

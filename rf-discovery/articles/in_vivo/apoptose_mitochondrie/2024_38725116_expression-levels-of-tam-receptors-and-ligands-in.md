@@ -32,6 +32,18 @@ mots_cles:
 - radiofrequency radiation
 - rat
 - testis
+auteurs:
+- Katirci E
+- Kirimlioglu E
+- Oflamaz AO
+- Hidisoglu E
+- Cernomorcenco A
+- Yargıcoğlu P
+- Ozen S
+- Demir N
+pmcid: ''
+volume: '45'
+pages: 235-248
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -48,6 +60,13 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2024
 ---
 
 # Expression levels of tam receptors and ligands in the testes of rats exposed to short and middle-term 2100 MHz radiofrequency radiation.

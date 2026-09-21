@@ -27,6 +27,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Morrissey JJ
+pmcid: ''
+volume: '123'
+pages: 490-7
 modele: epidemiologie
 modele_score: 5.5
 modele_secondaires:
@@ -40,6 +45,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2007
 ---
 
 # Radio frequency exposure in mobile phone users: implications for exposure assessment in epidemiological studies.

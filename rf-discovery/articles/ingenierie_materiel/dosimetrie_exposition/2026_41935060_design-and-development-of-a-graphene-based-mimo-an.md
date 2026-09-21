@@ -22,6 +22,15 @@ mots_cles:
 - Mimo Antenna
 - Sub-6 Ghz 5G
 - Multi-band
+auteurs:
+- Al-Gburi AJA
+- Mohammed NJ
+- Saeidi T
+- Nurhayati N
+- Ismail MM
+pmcid: PMC13096437
+volume: ''
+pages: '12873'
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:
@@ -37,6 +46,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Design and development of a graphene-based MIMO antenna for smart multi-band sub-6 GHz 5G wearable communication applications.

@@ -33,6 +33,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Wilén J
+- Sandström M
+- Hansson Mild K
+pmcid: ''
+volume: '24'
+pages: 152-9
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:
@@ -47,6 +54,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - body temperature
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2003
 ---
 
 # Subjective symptoms among mobile phone users--a consequence of absorption of radiofrequency fields?

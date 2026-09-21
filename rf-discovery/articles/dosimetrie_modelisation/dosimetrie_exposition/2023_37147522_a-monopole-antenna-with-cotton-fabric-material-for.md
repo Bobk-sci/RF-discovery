@@ -13,6 +13,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Ayd R Saad A
+- Hassan WM
+- Ibrahim AA
+pmcid: PMC10163037
+volume: ''
+pages: '7315'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -26,6 +33,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # A monopole antenna with cotton fabric material for wearable applications.

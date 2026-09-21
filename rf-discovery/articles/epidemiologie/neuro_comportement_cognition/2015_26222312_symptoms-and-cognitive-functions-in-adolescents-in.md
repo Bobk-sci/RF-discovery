@@ -29,6 +29,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Schoeni A
+- Roser K
+- Röösli M
+pmcid: PMC4519186
+volume: '10'
+pages: e0133528
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []
@@ -47,6 +54,13 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # Symptoms and Cognitive Functions in Adolescents in Relation to Mobile Phone Use during Night.

@@ -28,6 +28,14 @@ mots_cles:
 - Cellular Effects
 - Microwaves Biological Effects
 - Radiations And Brain
+auteurs:
+- Mumtaz S
+- Rana JN
+- Choi EH
+- Han I
+pmcid: PMC9409438
+volume: ''
+pages: '9288'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -43,6 +51,14 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Microwave Radiation and the Brain: Mechanisms, Current Status, and Future Prospects.

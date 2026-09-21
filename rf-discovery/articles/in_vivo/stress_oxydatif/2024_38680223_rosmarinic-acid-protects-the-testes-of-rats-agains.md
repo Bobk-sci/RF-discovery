@@ -29,6 +29,14 @@ mots_cles:
 - Rosmarinic acid
 - Testes, Oxidative Stress
 - Uhf Waves, Cell Phone
+auteurs:
+- Fatahi Asl J
+- Goudarzi M
+- Mansouri E
+- Shoghi H
+pmcid: PMC11053252
+volume: ''
+pages: 237-246
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -48,6 +56,12 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2024
 ---
 
 # Rosmarinic Acid Protects the Testes of Rats against Cell Phone and Ultra-high Frequency Waves Induced Toxicity.

@@ -30,6 +30,22 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Wang LF
+- Wei L
+- Qiao SM
+- Gao XN
+- Gao YB
+- Wang SM
+- Zhao L
+- Dong J
+- Xu XP
+- Zhou HM
+- Hu XJ
+- Peng RY
+pmcid: ''
+volume: '82'
+pages: 181-94
 modele: in_vitro
 modele_score: 1002.5
 modele_secondaires:
@@ -41,6 +57,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2015
 ---
 
 # Microwave-Induced Structural and Functional Injury of Hippocampal and PC12 Cells Is Accompanied by Abnormal Changes in the NMDAR-PSD95-CaMKII Pathway.

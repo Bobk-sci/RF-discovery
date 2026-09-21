@@ -32,6 +32,19 @@ mots_cles:
 - Sperm quality
 - Emotions
 - Radiofrequency Radiation
+auteurs:
+- Zhaowen Z
+- Ling G
+- Guiqiang Z
+- Jiajin L
+- Tongzhou Q
+- Jiangyi L
+- Jing L
+- Fuli W
+- Guirong D
+pmcid: ''
+volume: ''
+pages: '109139'
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires: []
@@ -54,6 +67,13 @@ theme_indices:
 - behavior
 - attention
 - neurobehavioral
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Effects of paternal 5G RFR exposure on health of male offspring mice.

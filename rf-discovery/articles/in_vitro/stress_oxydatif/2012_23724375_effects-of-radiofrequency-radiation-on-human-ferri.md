@@ -17,6 +17,15 @@ mots_cles:
 - immunoassay test
 - radiofrequency radiation
 - ruthenium complex
+auteurs:
+- Fattahi-Asl J
+- Baradaran-Ghahfarokhi M
+- Karbalae M
+- Baradaran-Ghahfarokhi M
+- Baradaran-Ghahfarokhi HR
+pmcid: PMC3662108
+volume: '2'
+pages: 235-40
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []
@@ -27,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2012
 ---
 
 # Effects of radiofrequency radiation on human ferritin: an in vitro enzymun assay.

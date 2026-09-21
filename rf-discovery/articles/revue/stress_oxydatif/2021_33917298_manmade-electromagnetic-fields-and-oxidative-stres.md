@@ -33,6 +33,12 @@ mots_cles:
 - Environmental exposure
 - Extremely Low Frequency
 - Environment And Public Health
+auteurs:
+- Schuermann D
+- Mevissen M
+pmcid: PMC8038719
+volume: ''
+pages: '3772'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -50,6 +56,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2021
 ---
 
 # Manmade Electromagnetic Fields and Oxidative Stress-Biological Effects and Consequences for Health.

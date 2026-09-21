@@ -26,6 +26,21 @@ mots_cles:
 - machine learning
 - mobile imaging
 - thyroid
+auteurs:
+- Assaad S
+- Dov D
+- Davis R
+- Kovalsky S
+- Lee WT
+- Kahmke R
+- Rocke D
+- Cohen J
+- Henao R
+- Carin L
+- Range DE
+pmcid: PMC10293075
+volume: '36'
+pages: '100129'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,6 +50,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - learning
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning.

@@ -25,6 +25,19 @@ mots_cles:
 - mobile telephony base station antenna
 - non-ionizing electromagnetic radiation
 - power density
+auteurs:
+- Buckus R
+- Strukčinskienė B
+- Raistenskis J
+- Stukas R
+- Šidlauskienė A
+- Čerkauskienė R
+- Isopescu DN
+- Stabryla J
+- Cretescu I
+pmcid: PMC5369080
+volume: '14'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 8.5
 modele_secondaires: []
@@ -43,6 +56,12 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # A Technical Approach to the Evaluation of Radiofrequency Radiation Emissions from Mobile Telephony Base Stations.

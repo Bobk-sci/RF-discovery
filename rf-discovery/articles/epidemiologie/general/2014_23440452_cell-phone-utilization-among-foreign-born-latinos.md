@@ -26,6 +26,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Leite L
+- Buresh M
+- Rios N
+- Conley A
+- Flys T
+- Page KR
+pmcid: PMC3681917
+volume: '16'
+pages: 661-9
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []
@@ -37,6 +47,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2014
 ---
 
 # Cell phone utilization among foreign-born Latinos: a promising tool for dissemination of health and HIV information.

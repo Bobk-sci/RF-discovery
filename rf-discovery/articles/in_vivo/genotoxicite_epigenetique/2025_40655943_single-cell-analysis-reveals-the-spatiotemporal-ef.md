@@ -19,6 +19,21 @@ mots_cles:
 - Single-cell Analysis
 - Hepatic Zonation
 - Single-cell Transcriptome
+auteurs:
+- Zhang M
+- Lv Z
+- Zhao L
+- Zeng Q
+- Wu Y
+- Zhou J
+- Xi J
+- Pei X
+- Wang H
+- Li C
+- Yue W
+pmcid: PMC12245793
+volume: ''
+pages: '1579121'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -29,6 +44,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - transcriptome
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Single-cell analysis reveals the spatiotemporal effects of long-term electromagnetic field exposure on the liver.

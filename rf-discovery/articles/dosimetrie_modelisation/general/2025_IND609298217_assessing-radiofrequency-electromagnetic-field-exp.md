@@ -13,6 +13,40 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Veludo AF
+- Stroobandt B
+- Van Bladel H
+- Sandoval-Diez N
+- Deprez K
+- Aerts S
+- Chikha WB
+- Wiart J
+- Vecsei Z
+- Necz PP
+- Thuróczy G
+- Benini M
+- Bonato M
+- Gallucci S
+- Tognola G
+- Parazzini M
+- Beláčková L
+- Vaupotič N
+- Mamrot P
+- Marianska M
+- Politanski P
+- Polanska K
+- Stamets M
+- de Llobet P
+- Castaño-Vinyals G
+- Guxens M
+- Hulls PM
+- de Vocht F
+- Joseph W
+- Röösli M
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -22,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Assessing radiofrequency electromagnetic field exposure in multiple microenvironments across ten European countries with a focus on 5G

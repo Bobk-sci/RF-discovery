@@ -34,6 +34,13 @@ mots_cles:
 - bacterial growth
 - cell phone
 - skin microbiota
+auteurs:
+- Crabtree DPE
+- Herrera BJ
+- Kang S
+pmcid: ''
+volume: '55'
+pages: 809-815
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -42,6 +49,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2017
 ---
 
 # The response of human bacteria to static magnetic field and radiofrequency electromagnetic field.

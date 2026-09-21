@@ -13,6 +13,19 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Zhang J
+- Wang J
+- Khurelbaatar L
+- Khosravi P
+- Garcia I
+- Ofiare A
+- Mirzai N
+- Mercer J
+- Heidari H
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -23,6 +36,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Dual-Frequency and Pattern Reconfigurable Wireless Communication System for Adaptive Cross-Body Biotelemetry

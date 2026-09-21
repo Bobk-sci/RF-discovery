@@ -32,6 +32,13 @@ mots_cles:
 - Biological indicators
 - Microwave radiation
 - Injury Model
+auteurs:
+- Lai YF
+- Wang HY
+- Peng RY
+pmcid: PMC7890848
+volume: ''
+pages: '12'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,6 +51,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2021
 ---
 
 # Establishment of injury models in studies of biological effects induced by microwave radiation.

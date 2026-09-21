@@ -26,6 +26,17 @@ mots_cles:
 - Health Effects
 - Dose Limits
 - Exposure, Radiofrequency
+auteurs:
+- Kojima M
+- Tasaki T
+- Kamijo T
+- Hada A
+- Suzuki Y
+- Ikehata M
+- Sasaki H
+pmcid: ''
+volume: ''
+pages: 557-564
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -39,6 +50,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of High Temperature and High Humidity on the Degree of Ocular Damage Caused by 60 GHz Millimeter Wave Exposure.

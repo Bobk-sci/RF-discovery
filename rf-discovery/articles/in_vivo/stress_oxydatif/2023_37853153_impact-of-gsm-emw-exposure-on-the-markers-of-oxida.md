@@ -26,6 +26,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Salameh M
+- Zeitoun-Ghandour S
+- Sabra L
+- Daher A
+- Khalil M
+- Joumaa WH
+pmcid: PMC10584814
+volume: ''
+pages: '17806'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []
@@ -45,6 +55,13 @@ theme_indices:
 - malondialdehyde
 - superoxide dismutase
 - catalase
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Impact of GSM-EMW exposure on the markers of oxidative stress in fetal rat liver.

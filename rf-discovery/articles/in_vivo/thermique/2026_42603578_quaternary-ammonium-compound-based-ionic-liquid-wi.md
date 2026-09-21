@@ -18,6 +18,22 @@ mots_cles:
 - Ionic liquid
 - Microneedle
 - Microwave response
+auteurs:
+- Li Z
+- Liu L
+- Song Y
+- Zhou Z
+- Zhou L
+- Cai X
+- Duan L
+- Dong Y
+- Zhao J
+- Hao L
+- Wang J
+- Jiang R
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:
@@ -29,6 +45,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- annee/2026
 ---
 
 # Quaternary ammonium compound-based ionic liquid with microwave responsiveness for treating deep tissue infections without compromising biocompatibility.

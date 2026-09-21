@@ -16,6 +16,14 @@ mots_cles:
 - Sperm quality
 - Infertility, Male
 - Mobile Phone Radiation
+auteurs:
+- Koohestanidehaghi Y
+- Khalili MA
+- Dehghanpour F
+- Seify M
+pmcid: PMC10914500
+volume: ''
+pages: 13-19
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -27,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - sperm
 - spermatozoa
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- annee/2024
 ---
 
 # Detrimental impact of cell phone radiation on sperm DNA integrity.

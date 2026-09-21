@@ -18,6 +18,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Servantie B
+pmcid: ''
+volume: '56'
+pages: 781-6
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -28,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/1989
 ---
 
 # Damage criteria for determining microwave exposure.

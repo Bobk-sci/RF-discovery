@@ -31,6 +31,17 @@ mots_cles:
 - Mobile phones
 - Sleep EEG
 - Synaptic plasticity
+auteurs:
+- Lustenberger C
+- Murbach M
+- Dürr R
+- Schmid MR
+- Kuster N
+- Achermann P
+- Huber R
+pmcid: ''
+volume: '6'
+pages: 805-11
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires: []
@@ -47,6 +58,14 @@ theme_indices:
 - sleep
 - spindle
 - slow wave
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Stimulation of the brain with radiofrequency electromagnetic field pulses affects sleep-dependent performance improvement.
@@ -55,14 +74,14 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Sleep-dependent performance improvements seem to be closely related to sleep spindles (12-15 Hz) and sleep slow-wave activity (SWA, 0.75-4.5 Hz). Pulse-modulated radiofrequency electromagnetic fields (RF EMF, carrier frequency 900 MHz) are capable to modulate these electroencephalographic (EEG) characteristics of sleep.
+BACKGROUND: Sleep-dependent performance improvements seem to be closely related to sleep spindles (12-15 Hz) and sleep slow-wave activity (SWA, 0.75-4.5 Hz). Pulse-modulated radiofrequency electromagnetic fields (RF EMF, carrier frequency 900 MHz) are capable to modulate these electroencephalographic (EEG) characteristics of sleep.
 
-The aim of our study was to explore possible mechanisms how RF EMF affect cortical activity during sleep and to test whether such effects on cortical activity during sleep interact with sleep-dependent performance changes.
+OBJECTIVE: The aim of our study was to explore possible mechanisms how RF EMF affect cortical activity during sleep and to test whether such effects on cortical activity during sleep interact with sleep-dependent performance changes.
 
-Sixteen male subjects underwent 2 experimental nights, one of them with all-night 0.25-0.8 Hz pulsed RF EMF exposure. All-night EEG was recorded. To investigate RF EMF induced changes in overnight performance improvement, subjects were trained for both nights on a motor task in the evening and the morning.
+METHODS: Sixteen male subjects underwent 2 experimental nights, one of them with all-night 0.25-0.8 Hz pulsed RF EMF exposure. All-night EEG was recorded. To investigate RF EMF induced changes in overnight performance improvement, subjects were trained for both nights on a motor task in the evening and the morning.
 
-We obtained good sleep quality in all subjects under both conditions (mean sleep efficiency > 90%). After pulsed RF EMF we found increased SWA during exposure to pulse-modulated RF EMF compared to sham exposure (P < 0.05) toward the end of the sleep period. Spindle activity was not affected. Moreover, subjects showed an increased RF EMF burst-related response in the SWA range, indicated by an increase in event-related EEG spectral power and phase changes in the SWA range. Notably, during exposure, sleep-dependent performance improvement in the motor sequence task was reduced compared to the sham condition (-20.1%, P = 0.03).
+RESULTS: We obtained good sleep quality in all subjects under both conditions (mean sleep efficiency > 90%). After pulsed RF EMF we found increased SWA during exposure to pulse-modulated RF EMF compared to sham exposure (P < 0.05) toward the end of the sleep period. Spindle activity was not affected. Moreover, subjects showed an increased RF EMF burst-related response in the SWA range, indicated by an increase in event-related EEG spectral power and phase changes in the SWA range. Notably, during exposure, sleep-dependent performance improvement in the motor sequence task was reduced compared to the sham condition (-20.1%, P = 0.03).
 
-The changes in the time course of SWA during the exposure night may reflect an interaction of RF EMF with the renormalization of cortical excitability during sleep, with a negative impact on sleep-dependent performance improvement.
+CONCLUSION: The changes in the time course of SWA during the exposure night may reflect an interaction of RF EMF with the renormalization of cortical excitability during sleep, with a negative impact on sleep-dependent performance improvement.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/23482083/)

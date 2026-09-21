@@ -33,6 +33,16 @@ mots_cles:
 - Electromagnetic Radiation
 - Neuronal-like Cells
 - Hormetic Effects
+auteurs:
+- Bertuccio MP
+- Saija C
+- Acri G
+- Ientile R
+- Caccamo D
+- Currò M
+pmcid: PMC11276899
+volume: ''
+pages: '7872'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []
@@ -54,6 +64,14 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Sulforaphane Effects on Neuronal-like Cells and Peripheral Blood Mononuclear Cells Exposed to 2.45 GHz Electromagnetic Radiation.

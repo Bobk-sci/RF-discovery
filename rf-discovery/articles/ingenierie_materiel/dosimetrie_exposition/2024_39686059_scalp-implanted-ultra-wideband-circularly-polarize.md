@@ -19,6 +19,14 @@ mots_cles:
 - Ultra Wideband
 - Multiple-input Multiple-output
 - Polarization Diversity
+auteurs:
+- Song Z
+- Shi Y
+- Zheng X
+- Wang Y
+pmcid: PMC11644157
+volume: ''
+pages: '7522'
 modele: ingenierie_materiel
 modele_score: 1008.0
 modele_secondaires:
@@ -34,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Scalp-Implanted Ultra-Wideband Circularly Polarized MIMO Antenna for Biotelemetry Systems.

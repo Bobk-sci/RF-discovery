@@ -25,6 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Marjanovic Cermak AM
+- Pavicic I
+- Tariba Lovakovic B
+- Pizent A
+- Trosic I
+pmcid: ''
+volume: '36'
+pages: 407-414
 modele: in_vitro
 modele_score: 1007.5
 modele_secondaires:
@@ -49,6 +58,16 @@ theme_indices:
 - malondialdehyde
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/thermique
+- theme/dosimetrie_exposition
+- theme/apoptose_mitochondrie
+- annee/2017
 ---
 
 # In vitro non-thermal oxidative stress response after 1800 MHz radiofrequency radiation.

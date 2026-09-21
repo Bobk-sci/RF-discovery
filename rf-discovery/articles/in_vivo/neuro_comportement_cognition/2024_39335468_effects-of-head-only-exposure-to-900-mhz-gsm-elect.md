@@ -19,6 +19,15 @@ mots_cles:
 - Rat
 - Spatial learning
 - Radio Frequency
+auteurs:
+- Bontempi B
+- Lévêque P
+- Dubreuil D
+- Jay TM
+- Edeline JM
+pmcid: PMC11428239
+volume: ''
+pages: '1954'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -35,6 +44,12 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Effects of Head-Only Exposure to 900 MHz GSM Electromagnetic Fields in Rats: Changes in Neuronal Activity as Revealed by c-Fos Imaging without Concomitant Cognitive Impairments.

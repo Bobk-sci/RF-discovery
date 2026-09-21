@@ -20,6 +20,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Zhou WY
+- Li YX
+- Li W
+- Lu M
+- Xu JJ
+pmcid: PMC12058181
+volume: ''
+pages: e0323299
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:
@@ -32,6 +41,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A novel radiation protection method for miniaturized MIMO mobile terminal antenna design based on metamaterials.

@@ -13,6 +13,25 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Stroobandt B
+- Van Bladel H
+- Veludo AF
+- Deprez K
+- Aerts S
+- Verloock L
+- Thuróczy G
+- Politanski P
+- Polanska K
+- Tognola G
+- Parazzini M
+- Wiart J
+- Guxens M
+- Röösli M
+- Joseph W
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -23,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Auto-induced uplink 4G and 5G RF-EMF exposure assessment using a network monitoring application in different microenvironments across seven European countries

@@ -30,6 +30,16 @@ mots_cles:
 - Slow Oscillations
 - Sleep Spindles
 - Eeg Power
+auteurs:
+- Bueno-Lopez A
+- Eggert T
+- Dorn H
+- Schmid G
+- Hirtl R
+- Danker-Hopfe H
+pmcid: ''
+volume: ''
+pages: e13224
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:
@@ -45,6 +55,13 @@ theme_indices:
 - EEG
 - sleep
 - spindle
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Effects of 2.45 GHz Wi-Fi exposure on sleep-dependent memory consolidation.

@@ -35,6 +35,16 @@ mots_cles:
 - Neurodevelopment
 - Radiofrequency
 - Sensori-motor processing
+auteurs:
+- Petitdant N
+- Lecomte A
+- Robidel F
+- Gamez C
+- Blazy K
+- Villégier AS
+pmcid: ''
+volume: '25'
+pages: 10894-10903
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires:
@@ -56,6 +66,14 @@ theme_indices:
 - behavior
 - locomotor activity
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/neuroinflammation
+- annee/2018
 ---
 
 # Alteration of adaptive behaviors of progeny after maternal mobile phone exposure.

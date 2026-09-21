@@ -28,6 +28,17 @@ mots_cles:
 - cytokines
 - keratinocytes
 - wound healing
+auteurs:
+- Costantini E
+- Aielli L
+- Serra F
+- De Dominicis L
+- Falasca K
+- Di Giovanni P
+- Reale M
+pmcid: PMC8879593
+volume: '23'
+pages: ''
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []
@@ -39,6 +50,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2022
 ---
 
 # Evaluation of Cell Migration and Cytokines Expression Changes under the Radiofrequency Electromagnetic Field on Wound Healing In Vitro Model.

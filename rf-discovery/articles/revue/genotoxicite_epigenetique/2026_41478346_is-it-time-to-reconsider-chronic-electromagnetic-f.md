@@ -26,6 +26,13 @@ mots_cles:
 - Electromagnetic fields
 - Mouth neoplasms
 - Cell Phone
+auteurs:
+- Krishnasamy N
+- K HS
+- K HS
+pmcid: ''
+volume: ''
+pages: '102703'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,6 +51,16 @@ theme_indices:
 - DNA damage
 - micronucleus
 - epigenetic
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2026
 ---
 
 # Is it time to reconsider chronic electromagnetic field exposure as a possible risk factor in oral cancer?

@@ -23,6 +23,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Dunaevskiy G
+- Gavrilin E
+- Pomytkin A
+- Sorokin R
+- Kuznetsov A
+- Antipov V
+- Nechaev A
+pmcid: PMC9873917
+volume: ''
+pages: '1362'
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []
@@ -32,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2023
 ---
 
 # Reduction of amputations of frostbitten limbs by treatment using microwave rewarming.

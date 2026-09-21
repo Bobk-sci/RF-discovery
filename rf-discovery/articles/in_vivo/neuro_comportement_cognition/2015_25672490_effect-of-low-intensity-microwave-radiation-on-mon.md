@@ -30,6 +30,16 @@ mots_cles:
 - Serotonin
 - Tryptophan hydroxylase
 - Tyrosine hydroxylase
+auteurs:
+- Megha K
+- Deshmukh PS
+- Ravi AK
+- Tripathi AK
+- Abegaonkar MP
+- Banerjee BD
+pmcid: ''
+volume: '73'
+pages: 93-100
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -46,6 +56,13 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- annee/2015
 ---
 
 # Effect of Low-Intensity Microwave Radiation on Monoamine Neurotransmitters and Their Key Regulating Enzymes in Rat Brain.

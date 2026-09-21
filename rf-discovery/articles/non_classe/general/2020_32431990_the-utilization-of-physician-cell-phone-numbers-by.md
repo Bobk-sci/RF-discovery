@@ -17,6 +17,18 @@ mots_cles:
 - communication
 - orthopaedic surgery
 - technology
+auteurs:
+- Rogero RG
+- Bishop M
+- Erickson BJ
+- Seigerman D
+- Smith D
+- Sodha SC
+- Yeon H
+- Tsai J
+pmcid: PMC7233492
+volume: '12'
+pages: e7712
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2020
 ---
 
 # The Utilization of Physician Cell Phone Numbers by Patients in an Orthopaedic Surgery Practice.

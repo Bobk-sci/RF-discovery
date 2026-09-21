@@ -27,6 +27,15 @@ mots_cles:
 - Oogenesis
 - Oxidative stress
 - Spermatogenesis
+auteurs:
+- Altun G
+- Deniz ÖG
+- Yurt KK
+- Davis D
+- Kaplan S
+pmcid: ''
+volume: '167'
+pages: 700-707
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +51,15 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/epidemiologie
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2018
 ---
 
 # Effects of mobile phone exposure on metabolomics in the male and female reproductive systems.

@@ -20,6 +20,13 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Panagopoulos DJ
+- Karabarbounis A
+- Lioliousis C
+pmcid: ''
+volume: '67'
+pages: 703-16
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -33,6 +40,13 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/reproduction
+- annee/2013
 ---
 
 # ELF alternating magnetic field decreases reproduction by DNA damage induction.

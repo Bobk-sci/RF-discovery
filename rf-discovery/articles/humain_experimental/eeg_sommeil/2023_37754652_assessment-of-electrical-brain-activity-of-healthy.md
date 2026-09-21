@@ -29,6 +29,17 @@ mots_cles:
 - Electrical Brain Activity
 - 5G
 - Resting Wake State
+auteurs:
+- Jamal L
+- Yahia-Cherif L
+- Yahia-Cherif L
+- Hugueville L
+- Mazet P
+- Lévêque P
+- Selmaoui B
+pmcid: PMC10530694
+volume: ''
+pages: '6793'
 modele: humain_experimental
 modele_score: 5.0
 modele_secondaires:
@@ -41,6 +52,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to 3.5 GHz of 5G Signals within Environmental Levels: A Controlled-Randomised Study.

@@ -18,6 +18,12 @@ mots_cles:
 - Radiofrequency Electromagnetic Radiation
 - Extremely-low Frequency Electromagnetic Field
 - Central ‎Nervous System
+auteurs:
+- Eskandani R
+- Zibaii MI
+pmcid: PMC11298025
+volume: ''
+pages: '30064'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -36,6 +42,14 @@ theme_indices:
 - learning
 - anxiety
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/stress_oxydatif
+- theme/barriere_hemato_encephalique
+- theme/plasticite_synaptique
+- annee/2024
 ---
 
 # Unveiling the biological effects of radio-frequency and extremely-low frequency electromagnetic fields on the central nervous system performance.

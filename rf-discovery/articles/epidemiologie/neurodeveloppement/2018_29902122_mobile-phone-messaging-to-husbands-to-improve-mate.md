@@ -26,6 +26,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
+auteurs:
+- Hazra A
+- Khan ME
+- Mondal SK
+pmcid: ''
+volume: '23'
+pages: 542-549
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -38,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - child
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Mobile Phone Messaging to Husbands to Improve Maternal and Child Health Behavior in India.

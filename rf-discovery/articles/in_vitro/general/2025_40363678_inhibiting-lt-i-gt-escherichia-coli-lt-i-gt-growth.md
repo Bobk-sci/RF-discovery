@@ -28,6 +28,16 @@ mots_cles:
 - E. Coli Bacteria
 - Ag And Au Nanoparticles
 - Low-power Microwave-induced Transport Method
+auteurs:
+- Yokota Y
+- Itabashi N
+- Kawaguchi M
+- Uchida H
+- Serpone N
+- Horikoshi S
+pmcid: PMC12073379
+volume: ''
+pages: '1871'
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires:
@@ -40,6 +50,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Inhibiting &lt;i&gt;Escherichia coli&lt;/i&gt; Growth by Optimized Low-Power Microwave Irradiation-Delivery of Ag and Au Nanoparticles.

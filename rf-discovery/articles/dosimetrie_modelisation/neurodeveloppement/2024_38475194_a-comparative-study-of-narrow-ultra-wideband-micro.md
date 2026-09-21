@@ -30,6 +30,14 @@ mots_cles:
 - Microwave Antenna Sensor (Mas)
 - Ultra-wideband (Uwb) Sensor
 - Vital Sign Detection (Vsd)
+auteurs:
+- Abd El-Hameed AS
+- Elsheakh DM
+- Elashry GM
+- Abdallah EA
+pmcid: PMC10934178
+volume: ''
+pages: '1658'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:
@@ -43,6 +51,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # A Comparative Study of Narrow/Ultra-Wideband Microwave Sensors for the Continuous Monitoring of Vital Signs and Lung Water Level.

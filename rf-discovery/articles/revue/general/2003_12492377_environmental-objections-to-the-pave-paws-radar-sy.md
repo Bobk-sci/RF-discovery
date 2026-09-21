@@ -19,6 +19,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Adair RK
+pmcid: ''
+volume: '159'
+pages: 128-34
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -30,6 +35,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/general
+- annee/2003
 ---
 
 # Environmental objections to the PAVE PAWS radar system: a scientific review.

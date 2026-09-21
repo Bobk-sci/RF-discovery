@@ -27,6 +27,17 @@ mots_cles:
 - Thermoregulation
 - Adipose tissue
 - Radiofrequency
+auteurs:
+- Maalouf J
+- Pelletier A
+- Corona A
+- Gay-Quéheillard J
+- Bach V
+- de Seze R
+- Selmaoui B
+pmcid: PMC10342026
+volume: ''
+pages: '10628'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -44,6 +55,15 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/thermique
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2023
 ---
 
 # Dose- and Time-Dependent Effects of Radiofrequency Electromagnetic Field on Adipose Tissue: Implications of Thermoregulation and Mitochondrial Signaling.

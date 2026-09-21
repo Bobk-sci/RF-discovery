@@ -22,6 +22,16 @@ mots_cles:
 - Bacteria
 - Electric field
 - Pulsed
+auteurs:
+- Miles A
+- Porch A
+- Choi H
+- Cripps S
+- Brown H
+- Williams C
+pmcid: PMC12096104
+volume: ''
+pages: '20240073'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -33,6 +43,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - redox
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/thermique
+- annee/2025
 ---
 
 # Direct measurement of non-thermal microwave effects on bacterial growth and redox dynamics using a novel high-throughput waveguide applicator.

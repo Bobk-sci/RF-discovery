@@ -21,6 +21,18 @@ mots_cles:
 - Cd31
 - Claudin-1
 - Radiofrequency- Electromagnetic Fields
+auteurs:
+- Ulusoy A
+- Asci H
+- Taner R
+- Tepebasi MY
+- Ilhan I
+- Karabacak P
+- Comlekci S
+- Ozmen O
+pmcid: PMC12829706
+volume: ''
+pages: 1691-1698
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -38,6 +50,13 @@ theme_indices:
 - BBB permeability
 - tight junction
 - occludin
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Acute exposure to 27.12 MHz radiofrequency electromagnetic field disrupts blood-brain barrier integrity via eNOS activation and occludin down-regulation.

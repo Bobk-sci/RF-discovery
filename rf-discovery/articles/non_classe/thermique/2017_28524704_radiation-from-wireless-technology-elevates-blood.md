@@ -30,6 +30,11 @@ mots_cles:
 - insulin resistance
 - ion channel
 - wireless
+auteurs:
+- Kleiber CE
+pmcid: ''
+volume: '36'
+pages: 259-264
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -42,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- theme/calcium_canaux_ioniques
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Radiation from wireless technology elevates blood glucose and body temperature in 40-year-old type 1 diabetic male.
@@ -50,6 +62,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-A type 1 diabetic male reports multiple instances when his blood glucose was dramatically elevated by the presence of microwave radiation from wireless technology and plummeted when the radiation exposure ended. In one instance, his body temperature elevated in addition to his blood glucose. Both remained elevated for nearly 48 h after exposure with the effect gradually decreasing. Possible mechanisms for microwave radiation elevating blood glucose include effects on glucose transport proteins and ion channels, insulin conformational changes and oxidative stress. Temperature elevation may be caused by microwave radiation-triggered Caefflux, a mechanism similar to malignant hyperthermia. The potential for radiation from wireless technology to cause serious biological effects has important implications and necessitates a reevaluation of its near-ubiquitous presence, especially in hospitals and medical facilities.
+A type 1 diabetic male reports multiple instances when his blood glucose was dramatically elevated by the presence of microwave radiation from wireless technology and plummeted when the radiation exposure ended. In one instance, his body temperature elevated in addition to his blood glucose. Both remained elevated for nearly 48 h after exposure with the effect gradually decreasing. Possible mechanisms for microwave radiation elevating blood glucose include effects on glucose transport proteins and ion channels, insulin conformational changes and oxidative stress. Temperature elevation may be caused by microwave radiation-triggered Ca 2+ efflux, a mechanism similar to malignant hyperthermia. The potential for radiation from wireless technology to cause serious biological effects has important implications and necessitates a reevaluation of its near-ubiquitous presence, especially in hospitals and medical facilities.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/28524704/)

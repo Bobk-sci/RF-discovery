@@ -23,6 +23,14 @@ mots_cles:
 - FDTD
 - 5G Communication Systems
 - Millimeter‐wave Radiation
+auteurs:
+- Foroughimehr N
+- Vilagosh Z
+- Yavari A
+- Wood A
+pmcid: ''
+volume: ''
+pages: 375-386
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # The influence of eyelashes on electric field distribution and absorbed power density in the cornea under millimeter-wave exposure.

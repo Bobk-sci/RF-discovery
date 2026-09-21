@@ -19,6 +19,13 @@ mots_cles:
 - Cpw-fed Slot Antennas
 - Mmwave Phased Arrays
 - Dual-polarized Antenna
+auteurs:
+- Jahanbakhsh Basherlou H
+- Ojaroudi Parchin N
+- See CH
+pmcid: PMC11859762
+volume: ''
+pages: '1032'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -32,6 +39,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A Dual-Polarized and Broadband Multiple-Antenna System for 5G Cellular Communications.

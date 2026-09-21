@@ -32,6 +32,13 @@ mots_cles:
 - Restraint
 - Thermal Preference
 - Stress-induced Analgesia
+auteurs:
+- Ouadah NS
+- Blazy K
+- Villégier AS
+pmcid: PMC7589172
+volume: ''
+pages: E7563
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -47,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effect of Radiofrequency Electromagnetic Fields on Thermal Sensitivity in the Rat.

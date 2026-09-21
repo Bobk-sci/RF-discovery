@@ -23,6 +23,18 @@ mots_cles:
 - Circularly Polarized Mimo Antenna
 - Front-to-back Ratio (Fbr)
 - X-band Wearable Antenna
+auteurs:
+- Gloria JP
+- Anbarasu MM
+- Liakath JA
+- Raja DSS
+- Priya A
+- S IP
+- Kumar DR
+- Kumar OP
+pmcid: PMC13201545
+volume: ''
+pages: '16150'
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:
@@ -40,6 +52,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- modele/revue
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A miniaturized dual-port circularly polarized MIMO patch antenna for SAR-compliant wearable X-band communication systems.

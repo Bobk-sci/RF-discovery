@@ -1,28 +1,44 @@
 ---
 pmid: '33779980'
-doi: 10.14670/HH-18-331
+doi: 10.14670/hh-18-331
 annee: 2021
-journal: Histology and histopathology
+journal: ''
 titre: Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic field
   exposure on Wistar albino rat testis.
 url: https://pubmed.ncbi.nlm.nih.gov/33779980/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Electromagnetic Fields
-- Female
+- Testis
 - Leydig Cells
-- Male
-- Rats
-- Rats, Wistar
 - Seminiferous Tubules
 - Sertoli Cells
-- Testis
+- Animals
+- Rats
+- Rats, Wistar
+- Electromagnetic Fields
+- Female
+- Male
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Almášiová V
+- Holovská K
+- Andrašková S
+- Cigánková V
+- Ševčíková Z
+- Raček A
+- Andrejčáková Z
+- Beňová K
+- Tóth Š
+- Tvrdá E
+- Molnár J
+- Račeková E
+pmcid: ''
+volume: ''
+pages: 685-696
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires:
@@ -43,11 +59,20 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/reproduction
+- theme/dosimetrie_exposition
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic field exposure on Wistar albino rat testis.
 
-*Histology and histopathology — 2021*
+*journal non renseigné — 2021*
 
 ## Résumé (texte d'origine)
 

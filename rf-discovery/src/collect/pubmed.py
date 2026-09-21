@@ -38,13 +38,20 @@ def search_ids(query: str, *, max_results: int = 500, page_size: int = 200,
     """PMID répondant à la requête (pagination ``retstart``, ordre PubMed conservé)."""
     fetch = fetcher_json or (lambda u, p: get_json(u, p, cache_dir=cache_dir))
     ids: list[str] = []
-    while len(ids) < max_results:
-        want = min(page_size, max_results - len(ids))
-        extra = {"term": query, "retmode": "json", "retstart": len(ids), "retmax": want}
+    seen: set[str] = set()
+    start = 0                 # décalage RÉEL demandé, pas le nombre d'uniques retenus :
+    while len(ids) < max_results:   # sinon une page de doublons fige `retstart` et la
+        want = min(page_size, max_results - len(ids))   # boucle tourne indéfiniment.
+        extra = {"term": query, "retmode": "json", "retstart": start, "retmax": want}
         data = fetch(f"{_EUTILS}/esearch.fcgi", _params(extra, api_key, email)) or {}
-        batch = (data.get("esearchresult") or {}).get("idlist") or []
-        ids.extend(str(i) for i in batch if str(i) not in ids)
-        if not batch or len(batch) < want:
+        batch = [str(i) for i in (data.get("esearchresult") or {}).get("idlist") or []]
+        nouveaux = [i for i in batch if i not in seen]
+        ids.extend(nouveaux)
+        seen.update(nouveaux)
+        start += len(batch)
+        # Page vide, page incomplète (fin des résultats) ou page sans rien de neuf :
+        # dans les trois cas il n'y a plus rien à récupérer.
+        if not batch or not nouveaux or len(batch) < want:
             break
     return ids[:max_results]
 
@@ -78,12 +85,37 @@ def _doi(article: ET.Element) -> str:
     return ""
 
 
+def _authors(article: ET.Element) -> list[str]:
+    """Auteurs « Nom I. » ; les collectifs (``CollectiveName``) sont repris tels quels."""
+    names = []
+    for node in article.findall(".//AuthorList/Author"):
+        collective = _text(node.find("CollectiveName"))
+        if collective:
+            names.append(collective)
+            continue
+        last, initials = _text(node.find("LastName")), _text(node.find("Initials"))
+        if last:
+            names.append(f"{last} {initials}".strip())
+    return names
+
+
+def _pmcid(article: ET.Element) -> str:
+    for node in article.findall(".//ArticleId"):
+        if (node.get("IdType") or "").lower() == "pmc":
+            return _text(node)
+    return ""
+
+
 def _descriptors(article: ET.Element) -> dict[str, Any]:
-    """MeSH, types de publication et mots-clés d'auteur : descripteurs fournis par PubMed."""
+    """Descripteurs fournis par PubMed + auteurs et identifiants de texte intégral."""
     return {
         "mesh": [_text(n) for n in article.findall(".//MeshHeading/DescriptorName")],
         "types": [_text(n) for n in article.findall(".//PublicationType")],
         "keywords": [_text(n) for n in article.findall(".//KeywordList/Keyword")],
+        "authors": _authors(article),
+        "pmcid": _pmcid(article),
+        "volume": _text(article.find(".//JournalIssue/Volume")),
+        "pages": _text(article.find(".//Pagination/MedlinePgn")),
     }
 
 

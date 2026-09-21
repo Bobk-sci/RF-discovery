@@ -18,6 +18,15 @@ mots_cles:
 - mmWave
 - non-ionising radiation
 - radiation protection
+auteurs:
+- Foroughimehr N
+- Wood A
+- McKenzie R
+- Karipidis K
+- Yavari A
+pmcid: PMC10934416
+volume: '24'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -29,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2024
 ---
 
 # Design and Implementation of a Specialised Millimetre-Wave Exposure System for Investigating the Radiation Effects of 5G and Future Technologies.

@@ -31,6 +31,25 @@ mots_cles:
 - Animal Studies
 - Radiofrequency Electromagnetic Fields
 - Reproductive Organ Toxicity
+auteurs:
+- Cordelli E
+- Ardoino L
+- Benassi B
+- Consales C
+- Eleuteri P
+- Marino C
+- Sciortino M
+- Villani P
+- H Brinkworth M
+- Chen G
+- P McNamee J
+- Wood AW
+- Belackova L
+- Verbeek J
+- Pacchierotti F
+pmcid: ''
+volume: ''
+pages: '108509'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:
@@ -55,6 +74,16 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of radiofrequency electromagnetic field (RF-EMF) exposure on male fertility: A systematic review of experimental studies on non-human mammals and human sperm in vitro.

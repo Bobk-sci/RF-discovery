@@ -33,6 +33,15 @@ mots_cles:
 - Oxidative stress
 - Occupational Exposure
 - Elf‐emfs
+auteurs:
+- Jafarimanesh S
+- Ehsani H
+- Shaki F
+- Moosazadeh M
+- Samaei SE
+pmcid: ''
+volume: ''
+pages: e70027
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -48,6 +57,11 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/epidemiologie
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # Investigating the Effects of Occupational Noise and Extremely Low-Frequency Electromagnetic Field Exposure on Oxidative Response in Power Plant Workers.

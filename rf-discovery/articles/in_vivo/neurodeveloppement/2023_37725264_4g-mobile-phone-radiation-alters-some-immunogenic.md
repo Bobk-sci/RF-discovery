@@ -31,6 +31,14 @@ mots_cles:
 - Chick Embryo Model
 - 4G Mobile Radiation
 - Vascular Gene
+auteurs:
+- Islam MS
+- Islam MM
+- Rahman MM
+- Islam K
+pmcid: PMC10650348
+volume: ''
+pages: 2648-2659
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -45,6 +53,14 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # 4G mobile phone radiation alters some immunogenic and vascular gene expressions, and gross and microscopic and biochemical parameters in the chick embryo model.

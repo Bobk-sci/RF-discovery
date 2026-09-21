@@ -20,6 +20,15 @@ mots_cles:
 - Flexible Antenna
 - Human Multilayer Phantom Model
 - Multistubs Resonator
+auteurs:
+- Soni GK
+- Yadav D
+- Kumar A
+- Rathi A
+- Yadav SV
+pmcid: PMC12228797
+volume: ''
+pages: '24013'
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:
@@ -34,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Design of a compact multistubs resonator based dual-band flexible wearable antenna with low SAR for sub-6 GHz ISM applications.

@@ -18,6 +18,24 @@ mots_cles:
 - colorectal cancer
 - hyperthermia
 - radiofrequency
+auteurs:
+- Wust P
+- Veltsista PD
+- Oberacker E
+- Yavvari P
+- Walther W
+- Bengtsson O
+- Sterner-Kock A
+- Weinhart M
+- Heyd F
+- Grabowski P
+- Stintzing S
+- Heinrich W
+- Stein U
+- Ghadjar P
+pmcid: PMC9655505
+volume: '14'
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:
@@ -32,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2022
 ---
 
 # Radiofrequency Electromagnetic Fields Cause Non-Temperature-Induced Physical and Biological Effects in Cancer Cells.

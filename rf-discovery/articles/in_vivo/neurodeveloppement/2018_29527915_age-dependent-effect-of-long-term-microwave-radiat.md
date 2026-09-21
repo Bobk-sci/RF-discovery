@@ -21,6 +21,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Raček A
+- Beňová K
+- Arnoul P
+- Závodská M
+- Angelidis A
+- Cigánková V
+- Šimaiová V
+- Račeková E
+pmcid: ''
+volume: '67'
+pages: 495-503
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -37,6 +49,14 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - neurogenesis
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- annee/2018
 ---
 
 # Age-dependent effect of long-term microwave radiation on postnatal neurogenesis in rats: morphological and behavioral study.

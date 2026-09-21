@@ -26,6 +26,16 @@ mots_cles:
 - Mobile phones
 - Risk communication
 - Risk perception
+auteurs:
+- Freudenstein F
+- Boerner F
+- Croft RJ
+- Leung RWS
+- Loughran SP
+- Wiedemann PM
+pmcid: ''
+volume: '223'
+pages: '115422'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -38,6 +48,11 @@ theme_indices:
 - carcinogenic
 - cancer risk
 - IARC
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2023
 ---
 
 # Effects of generalization descriptions on risk perception.

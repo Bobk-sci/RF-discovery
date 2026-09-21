@@ -23,6 +23,20 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Del Vecchio G
+- Giuliani A
+- Fernandez M
+- Mesirca P
+- Bersani F
+- Pinto R
+- Ardoino L
+- Lovisolo GA
+- Giardino L
+- Calzà L
+pmcid: ''
+volume: '30'
+pages: 564-72
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires:
@@ -39,6 +53,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - glutamate
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Effect of radiofrequency electromagnetic field exposure on in vitro models of neurodegenerative disease.

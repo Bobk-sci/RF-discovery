@@ -24,6 +24,15 @@ mots_cles:
 - Virc
 - Mode‐stirred Reverberation Chamber
 - Rose Cuttings
+auteurs:
+- Oppermann L
+- Weidemeier M
+- Schäfer CC
+- Win YN
+- Matthes MS
+pmcid: PMC12703826
+volume: ''
+pages: e70036
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []
@@ -35,6 +44,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Conceptualization and Realization of a Vibrating Intrinsic Reverberation Chamber for Plant Exposure to Radio Frequency Electromagnetic Fields.

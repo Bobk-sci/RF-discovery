@@ -2,30 +2,49 @@
 pmid: '38232086'
 doi: 10.1371/journal.pone.0296699
 annee: 2024
-journal: PloS one
+journal: ''
 titre: Genetic profiling of rat gliomas and cardiac schwannomas from life-time radiofrequency
   radiation exposure study using a targeted next-generation sequencing gene panel.
 url: https://pubmed.ncbi.nlm.nih.gov/38232086/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
+- Animals
 - Humans
 - Rats
-- Animals
 - Rats, Sprague-Dawley
 - Glioma
-- Mutation
 - Neurilemmoma
-- High-Throughput Nucleotide Sequencing
-- Isocitrate Dehydrogenase
-- Radiation Exposure
 - Brain Neoplasms
+- Isocitrate Dehydrogenase
+- Mutation
+- High-Throughput Nucleotide Sequencing
+- Radiation Exposure
 types:
-- Journal Article
 - Research Support, N.I.H., Intramural
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles: []
+auteurs:
+- Brooks AM
+- Vornoli A
+- Kovi RC
+- Ton TVT
+- Xu M
+- Mashal A
+- Tibaldi E
+- Gnudi F
+- Li JL
+- Sills RC
+- Bucher JR
+- Mandrioli D
+- Belpoggi F
+- Pandiri AR
+pmcid: PMC10793937
+volume: ''
+pages: e0296699
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -40,11 +59,16 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/in_vivo
+- theme/cancer
+- annee/2024
 ---
 
 # Genetic profiling of rat gliomas and cardiac schwannomas from life-time radiofrequency radiation exposure study using a targeted next-generation sequencing gene panel.
 
-*PloS one — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

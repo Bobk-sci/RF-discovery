@@ -18,6 +18,20 @@ mots_cles:
 - electromagnetic fields
 - exposure assessment
 - measurement equipment
+auteurs:
+- Deprez K
+- Colussi L
+- Korkmaz E
+- Aerts S
+- Land D
+- Littel S
+- Verloock L
+- Plets D
+- Joseph W
+- Bolte J
+pmcid: PMC10056984
+volume: '23'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -28,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Comparison of Low-Cost 5G Electromagnetic Field Sensors.

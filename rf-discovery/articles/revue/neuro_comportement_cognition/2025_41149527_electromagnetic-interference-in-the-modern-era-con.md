@@ -22,6 +22,17 @@ mots_cles:
 - Carbon-based Nanomaterials
 - Shielding Materials
 - Sustainable Nanocomposites
+auteurs:
+- Prekodravac Filipovic J
+- Milenkovic M
+- Kepic D
+- Dorontic S
+- Yasir M
+- Nardin B
+- Jovanovic S
+pmcid: PMC12566414
+volume: ''
+pages: '1558'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -33,6 +44,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Electromagnetic Interference in the Modern Era: Concerns, Trends, and Nanomaterial-Based Solutions.

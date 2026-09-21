@@ -26,6 +26,15 @@ mots_cles:
 - Ism (Industrial Scientific And Medical) Band
 - Nb-iot (Narrow Band-internet Of Things)
 - Multilayer Phantom Model
+auteurs:
+- Sharma D
+- Tiwari RN
+- Kumar S
+- Sharma S
+- Matekovits L
+pmcid: PMC11314978
+volume: ''
+pages: '5077'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:
@@ -40,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # A Compact Wearable Textile Antenna for NB-IoT and ISM Band Patient Tracking Applications.

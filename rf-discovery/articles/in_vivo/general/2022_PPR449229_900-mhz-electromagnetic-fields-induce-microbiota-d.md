@@ -13,6 +13,23 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Collet L
+- Jenlis AB
+- Khorsi-Cauet H
+- Naudot M
+- Djekkoun N
+- Ghamlouch H
+- Corona A
+- Ouled-Haddou H
+- Delanaud S
+- Garcon L
+- Bach V
+- Pelletier A
+- Marolleau J
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:
@@ -23,6 +40,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/epidemiologie
+- theme/general
+- annee/2022
 ---
 
 # 900 MHz Electromagnetic Fields Induce Microbiota Dysbiosis and Adaptive Immune System Disorders in Juvenile Rats

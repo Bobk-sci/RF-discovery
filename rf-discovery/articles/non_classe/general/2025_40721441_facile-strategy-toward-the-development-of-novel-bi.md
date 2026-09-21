@@ -18,6 +18,14 @@ mots_cles:
 - binder
 - microwave irradiation
 - Textile Printing
+auteurs:
+- Elshemy NS
+- Nassar SH
+- Elhawary NS
+- Ali MM
+pmcid: PMC12304267
+volume: ''
+pages: '27377'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -26,6 +34,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Facile strategy toward the development of novel binder and thickening agent from apple rock bael for textile printing.

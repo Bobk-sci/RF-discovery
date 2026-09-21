@@ -20,6 +20,15 @@ mots_cles:
 - Implantable Antenna
 - Leadless Pacemaker
 - Triple-band
+auteurs:
+- Bashir T
+- Feng G
+- Chen S
+- Cao Y
+- Li W
+pmcid: PMC13028627
+volume: ''
+pages: '296'
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:
@@ -34,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A Highly Compact and Isolated Triple-Band MIMO Antenna for Wireless Capsule Endoscopy and Cardiac Implant.

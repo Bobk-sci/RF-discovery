@@ -2,22 +2,29 @@
 pmid: '37447899'
 doi: 10.3390/s23136050
 annee: 2023
-journal: ''
+journal: Sensors (Basel, Switzerland)
 titre: 'Assessment of Electromagnetic Field Exposure on European Roads: A Comprehensive
   In Situ Measurement Campaign.'
 url: https://pubmed.ncbi.nlm.nih.gov/37447899/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
 mots_cles:
-- Measurement
-- Electromagnetic field
-- Assessment
-- Car
-- In Situ Measurement Campaign
+- assessment
+- car
+- electromagnetic field
+- in situ measurement campaign
+- measurement
+auteurs:
+- Atanasova GL
+- Atanasov BN
+- Atanasov NT
+pmcid: PMC10346964
+volume: '23'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -29,11 +36,16 @@ theme_secondaires: []
 theme_indices:
 - base station
 - measurement campaign
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Assessment of Electromagnetic Field Exposure on European Roads: A Comprehensive In Situ Measurement Campaign.
 
-*journal non renseigné — 2023*
+*Sensors (Basel, Switzerland) — 2023*
 
 ## Résumé (texte d'origine)
 

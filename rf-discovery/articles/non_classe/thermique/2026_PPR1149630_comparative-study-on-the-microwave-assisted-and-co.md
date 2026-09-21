@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Dağlı R
+- Teker M
+- Usluoğlu A
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +29,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Comparative Study on the Microwave-Assisted and Conventional Dyeing of Polyamide Fabric with Acid Dyes

@@ -24,6 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Ward TR
+- Svensgaard DJ
+- Spiegel RJ
+- Puckett ET
+- Long MD
+- Kinn JB
+pmcid: ''
+volume: '7'
+pages: 243-58
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -36,6 +46,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/1986
 ---
 
 # Brain temperature measurements in rats: a comparison of microwave and ambient temperature exposures.

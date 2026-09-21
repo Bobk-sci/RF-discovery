@@ -20,6 +20,12 @@ mots_cles:
 - Sperm Parameters
 - Mobile Phone Radiation
 - Lab Animals
+auteurs:
+- Assefa EM
+- Abdu SM
+pmcid: PMC11782230
+volume: ''
+pages: '1515166'
 modele: revue
 modele_score: 1007.0
 modele_secondaires:
@@ -37,6 +43,12 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2024
 ---
 
 # Histopathologic effects of mobile phone radiation exposure on the testes and sperm parameters: a systematic literature review of animal studies.

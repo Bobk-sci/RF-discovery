@@ -2,32 +2,40 @@
 pmid: '36831261'
 doi: 10.3390/cells12040594
 annee: 2023
-journal: Cells
+journal: ''
 titre: Genotoxic Risks to Male Reproductive Health from Radiofrequency Radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/36831261/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Male
-- Humans
-- Reproductive Health
 - Semen
-- Electromagnetic Fields
+- Animals
+- Humans
 - Infertility, Male
 - DNA Damage
+- Electromagnetic Fields
+- Male
+- Reproductive Health
 types:
-- Journal Article
-- Review
 - Research Support, Non-U.S. Gov't
+- review-article
+- Review
+- Journal Article
 mots_cles:
 - DNA damage
-- genotoxicity
-- male infertility
-- oxidative stress
-- radiofrequency radiation
-- reproductive health
+- Oxidative stress
+- Genotoxicity
+- Male infertility
+- Reproductive Health
+- Radiofrequency Radiation
+auteurs:
+- Kaur P
+- Rai U
+- Singh R
+pmcid: PMC9954667
+volume: ''
+pages: '594'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -45,11 +53,21 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Genotoxic Risks to Male Reproductive Health from Radiofrequency Radiation.
 
-*Cells — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 

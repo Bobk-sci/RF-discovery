@@ -26,6 +26,14 @@ mots_cles:
 - feedback mechanisms
 - mobile technology
 - text message
+auteurs:
+- Andreassen M
+- Boman IL
+- Danielsson H
+- Hemmingsson H
+pmcid: ''
+volume: '242'
+pages: 5-8
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -36,6 +44,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Digital Support for Persons with Cognitive Impairment.

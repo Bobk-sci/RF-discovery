@@ -25,6 +25,13 @@ mots_cles:
 - Microwave microscope
 - Near-field probe
 - Skin abnormalities
+auteurs:
+- Kazemi F
+- Mohanna F
+- Ahmadi-Shokouh J
+pmcid: ''
+volume: '41'
+pages: 881-890
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -34,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2018
 ---
 
 # Microwave reflectometry for noninvasive imaging of skin abnormalities.

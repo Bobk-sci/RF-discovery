@@ -25,6 +25,15 @@ mots_cles:
 - Microalgae
 - Microwave
 - Oxidative stress
+auteurs:
+- Sivaramakrishnan R
+- Suresh S
+- Pugazhendhi A
+- Mercy Nisha Pauline J
+- Incharoensakdi A
+pmcid: ''
+volume: '312'
+pages: '123562'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -34,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Response of Scenedesmus sp. to microwave treatment: Enhancement of lipid, exopolysaccharide and biomass production.

@@ -23,6 +23,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Köylü H
+- Mollaoglu H
+- Ozguner F
+- Naziroglu M
+- Delibas N
+pmcid: ''
+volume: '22'
+pages: 211-6
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires: []
@@ -39,6 +48,12 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2006
 ---
 
 # Melatonin modulates 900 Mhz microwave-induced lipid peroxidation changes in rat brain.

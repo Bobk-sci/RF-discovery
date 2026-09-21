@@ -13,6 +13,18 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Madhavamoorthi S
+- Marishwari M
+- Kashif H
+- Shen S
+- Chen B
+- Xie H
+- Ouyang Z
+- Liu Q
+pmcid: ''
+volume: ''
+pages: 38422-38436
 modele: ingenierie_materiel
 modele_score: 5.0
 modele_secondaires:
@@ -25,6 +37,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Mechanism insights for impedance matching in split-ring resonator topologies under bio-medical scenarios.

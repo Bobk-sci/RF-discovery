@@ -28,6 +28,15 @@ mots_cles:
 - Antenna Miniaturization
 - Active Electromagnetic Protective Measure
 - Near‐field Electromagnetic Exposure
+auteurs:
+- Zhou WY
+- Luo MF
+- Wang PP
+- Li YX
+- Lu M
+pmcid: ''
+volume: ''
+pages: e70055
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -41,6 +50,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Gender Differentiation Based Mobile Terminal Electromagnetic Exposure Safety Analysis and Corresponding Antenna Miniaturized-Based Protective Measures.

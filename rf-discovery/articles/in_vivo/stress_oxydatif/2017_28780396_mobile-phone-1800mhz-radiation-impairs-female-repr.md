@@ -39,6 +39,13 @@ mots_cles:
 - Mobile phone radiation
 - Oxidative & nitrosative stress
 - Steroidogenesis
+auteurs:
+- Shahin S
+- Singh SP
+- Chaturvedi CM
+pmcid: ''
+volume: '73'
+pages: 41-60
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -55,6 +62,12 @@ theme_indices:
 - ROS
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/reproduction
+- annee/2017
 ---
 
 # Mobile phone (1800MHz) radiation impairs female reproduction in mice, Mus musculus, through stress induced inhibition of ovarian and uterine activity.

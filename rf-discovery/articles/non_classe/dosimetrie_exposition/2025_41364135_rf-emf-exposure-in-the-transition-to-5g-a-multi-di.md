@@ -25,6 +25,20 @@ mots_cles:
 - Frequency Selective Measurements
 - Emf Monitoring
 - Electromagnetic Field (Emf) Measurements
+auteurs:
+- Zarbouti D
+- Athanasiadou G
+- Tsoulos G
+- Christopoulos T
+- Tsoulos V
+- Chaloulakos N
+- Nikitopoulos G
+- Christopoulos N
+- Papadopoulos P
+- Papakondylis A
+pmcid: ''
+volume: ''
+pages: '27'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -34,6 +48,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - measurement campaign
+tags:
+- rf
+- modele/non_classe
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # RF-EMF exposure in the transition to 5G: A multi-dimensional measurement campaign in the Peloponnese Region of Greece.

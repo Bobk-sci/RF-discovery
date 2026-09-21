@@ -26,6 +26,20 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
+auteurs:
+- Meng L
+- Peng RY
+- Gao YB
+- Wang SM
+- Ma JJ
+- Hu WH
+- Wang DW
+- Su ZT
+- Dong B
+- Xu TH
+pmcid: ''
+volume: '24'
+pages: 739-41
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:
@@ -41,6 +55,12 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - membrane potential
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- annee/2006
 ---
 
 # [Changes of apoptosis, mitochondrion membrane potential and Ca2+ of hypothalamic neurons induced by high power microwave].
@@ -49,12 +69,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To explore the injury effect and mechanism of hypothalamic neurons after high power microwave (HPM) exposure.
+OBJECTIVE: To explore the injury effect and mechanism of hypothalamic neurons after high power microwave (HPM) exposure.
 
-Primarily cultured hypothalamic neurons were exposed to 10 and 30 mW/cm(2) HPM, and the inverted phase contrast microscope (IPCM) and flow cytometry (FCM) were employed to detect the injury of cells and change of mitochondrion membrane potential (MMP) and Ca(2+) in the cytoplasm of neurons.
+METHODS: Primarily cultured hypothalamic neurons were exposed to 10 and 30 mW/cm(2) HPM, and the inverted phase contrast microscope (IPCM) and flow cytometry (FCM) were employed to detect the injury of cells and change of mitochondrion membrane potential (MMP) and Ca(2+) in the cytoplasm of neurons.
 
-The ratio of apoptosis was significantly higher than that of the sham exposure (P < 0.05) induced by 10 and 30 mW/cm(2) HPM and necrosis increased significantly (P < 0.05) in the group of 30 mW/cm(2) at 6 h after exposure. The content of Ca(2+) in the cytoplasm of neuron cells increased (P < 0.01) while MMP decreased significantly (P < 0.01) after radiation of 30 mW/cm(2) HPM at 6 h after exposure.
+RESULTS: The ratio of apoptosis was significantly higher than that of the sham exposure (P < 0.05) induced by 10 and 30 mW/cm(2) HPM and necrosis increased significantly (P < 0.05) in the group of 30 mW/cm(2) at 6 h after exposure. The content of Ca(2+) in the cytoplasm of neuron cells increased (P < 0.01) while MMP decreased significantly (P < 0.01) after radiation of 30 mW/cm(2) HPM at 6 h after exposure.
 
-Apoptosis is one of the major death ways of hypothalamic neurons. The overloading of Ca(2+) and the decline of MMP are involved in the process.
+CONCLUSION: Apoptosis is one of the major death ways of hypothalamic neurons. The overloading of Ca(2+) and the decline of MMP are involved in the process.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/17241548/)

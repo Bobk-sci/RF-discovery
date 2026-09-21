@@ -31,6 +31,24 @@ mots_cles:
 - Metformin
 - Microwave radiation
 - Male Reproductive Damage
+auteurs:
+- Men J
+- Zhang L
+- Peng R
+- Li Y
+- Li M
+- Wang H
+- Zhao L
+- Zhang J
+- Wang H
+- Xu X
+- Dong J
+- Wang J
+- Yao B
+- Guo J
+pmcid: PMC10418945
+volume: ''
+pages: '12250'
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -47,6 +65,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2023
 ---
 
 # Metformin Ameliorates 2.856 GHz Microwave- Radiation-Induced Reproductive Impairments in Male Rats via Inhibition of Oxidative Stress and Apoptosis.

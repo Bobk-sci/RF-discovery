@@ -20,6 +20,15 @@ mots_cles:
 - Gsm Mobile Phone
 - Muscle Contractions
 - Radiofrequency (Rf)
+auteurs:
+- Mortazavi SM
+- Rahimi S
+- Talebi A
+- Soleimani A
+- Rafati A
+pmcid: PMC4576873
+volume: ''
+pages: 121-132
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -30,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/2015
 ---
 
 # Survey of the Effects of Exposure to 900 MHz Radiofrequency Radiation Emitted by a GSM Mobile Phone on the Pattern of Muscle Contractions in an Animal Model.

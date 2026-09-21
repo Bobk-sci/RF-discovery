@@ -17,6 +17,17 @@ mots_cles:
 - inflammation
 - pulsed radiofrequency electromagnetic field
 - wound healing
+auteurs:
+- Costantini E
+- Aielli L
+- Gualdi G
+- Baronio M
+- Monari P
+- Amerio P
+- Reale M
+pmcid: PMC11047973
+volume: '11'
+pages: ''
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires: []
@@ -30,6 +41,13 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Pulsed Radiofrequency Electromagnetic Fields as Modulators of Inflammation and Wound Healing in Primary Dermal Fibroblasts of Ulcers.

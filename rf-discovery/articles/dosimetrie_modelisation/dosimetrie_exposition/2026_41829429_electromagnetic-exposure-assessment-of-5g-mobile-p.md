@@ -28,6 +28,12 @@ mots_cles:
 - 5G Mobile Communication
 - Electromagnetic Exposure Assessment
 - Multi-Layer Human Head Model
+auteurs:
+- Chen D
+- Zhang B
+pmcid: PMC12987319
+volume: ''
+pages: '1468'
 modele: dosimetrie_modelisation
 modele_score: 10.0
 modele_secondaires: []
@@ -44,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electromagnetic Exposure Assessment of 5G Mobile Phones: SAR and Thermal Distribution in a Multi-Layer Human Head Model.

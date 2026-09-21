@@ -18,6 +18,18 @@ mots_cles:
 - High-throughput Analysis
 - Behavioral Effects
 - Electromagnetic Exposure
+auteurs:
+- Wu X
+- Chan YS
+- Xiang B
+- Zhang W
+- Luk KM
+- Cheng SH
+- Leung YF
+- Chan RHM
+pmcid: PMC11573389
+volume: ''
+pages: 89-99
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:
@@ -28,6 +40,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # Scalable Neuroanatomical and Behavioral Phenotyping of Radio Frequency Radiation on Young Zebrafish.

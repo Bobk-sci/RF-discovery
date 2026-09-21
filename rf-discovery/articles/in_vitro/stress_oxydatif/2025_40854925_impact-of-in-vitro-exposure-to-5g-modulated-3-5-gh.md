@@ -2,37 +2,55 @@
 pmid: '40854925'
 doi: 10.1038/s41598-025-15090-w
 annee: 2025
-journal: Scientific reports
+journal: ''
 titre: Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative stress
   and DNA repair in skin cells.
 url: https://pubmed.ncbi.nlm.nih.gov/40854925/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Oxidative Stress
-- DNA Repair
-- Reactive Oxygen Species
-- Skin
-- Fibroblasts
-- Electromagnetic Fields
-- Ultraviolet Rays
-- Radio Waves
 - Cell Line
+- Fibroblasts
 - Keratinocytes
+- Skin
+- Humans
+- Reactive Oxygen Species
+- Ultraviolet Rays
+- DNA Repair
+- Oxidative Stress
+- Electromagnetic Fields
+- Radio Waves
 types:
+- research-article
 - Journal Article
 mots_cles:
-- Bioluminescence resonance energy transfer (BRET)
-- Cellular stress response
-- Cyclobutane pyrimidine dimer (CPD)
 - DNA damage
-- Fifth generation (5G)
-- Nucleotide excision repair (NER)
 - Oxidative stress
-- Radiofrequency electromagnetic fields (RF-EMF)
-- Reactive oxygen species (ROS)
+- Cyclobutane pyrimidine dimer (CPD)
+- reactive oxygen species (ROS)
+- Cellular Stress Response
+- Bioluminescence Resonance Energy Transfer (Bret)
+- Nucleotide Excision Repair (Ner)
+- Radiofrequency Electromagnetic Fields (Rf-emf)
+- Fifth Generation (5G)
+auteurs:
+- Haidar J
+- Nabos P
+- Orlacchio R
+- Hurtier A
+- de Gannes FP
+- Rambert J
+- Cario-André M
+- Moisan F
+- Rezvani HR
+- Lagroye I
+- Leveque P
+- Arnaud-Cormos D
+- Percherancier Y
+pmcid: PMC12379245
+volume: ''
+pages: '31214'
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:
@@ -51,11 +69,19 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative stress and DNA repair in skin cells.
 
-*Scientific reports — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

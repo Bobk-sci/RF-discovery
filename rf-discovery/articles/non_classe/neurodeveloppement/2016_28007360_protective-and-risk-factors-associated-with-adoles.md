@@ -37,6 +37,19 @@ mots_cles:
 - Protective and risk factors
 - Sleep
 - Sleep latency
+auteurs:
+- Bartel K
+- Williamson P
+- van Maanen A
+- Cassoff J
+- Meijer AM
+- Oort F
+- Knäuper B
+- Gruber R
+- Gradisar M
+pmcid: ''
+volume: '26'
+pages: 97-103
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -49,6 +62,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2016
 ---
 
 # Protective and risk factors associated with adolescent sleep: findings from Australia, Canada, and The Netherlands.
@@ -57,12 +77,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Sleep is vital for adolescent functioning. Those with optimal sleep duration have shown improved capacity to learn and decreased rate of motor vehicle accidents. This study explored the influence of numerous protective and risk factors on adolescents' school night sleep (bedtime, sleep latency, total sleep time) simultaneously to assess the importance of each one and compare within three countries.
+BACKGROUND: Sleep is vital for adolescent functioning. Those with optimal sleep duration have shown improved capacity to learn and decreased rate of motor vehicle accidents. This study explored the influence of numerous protective and risk factors on adolescents' school night sleep (bedtime, sleep latency, total sleep time) simultaneously to assess the importance of each one and compare within three countries.
 
-Online survey data were collected from Australia, Canada, and The Netherlands. Overall, 325 (137 male), 193 (28 male), and 150 (55 male) contributed to data from Australia, Canada, and The Netherlands, respectively (age range 12-19 years).
+METHOD: Online survey data were collected from Australia, Canada, and The Netherlands. Overall, 325 (137 male), 193 (28 male), and 150 (55 male) contributed to data from Australia, Canada, and The Netherlands, respectively (age range 12-19 years).
 
-Regression analyses showed mixed results, when comparing protective and risk factors for sleep parameters within different countries, with combined behavioural factors contributing to small to large shared portions of variance in each regression (9-50%). One consistent finding between countries was found, with increased pre-sleep cognitive emotional sleep hygiene related to decreased sleep latency (beta = -0.25 to -0.33, p < 0.05). Technology use (mobile phone/Internet stop time) was associated with later bedtime, or less total sleep, with the strength of association varying between device and country.
+RESULTS: Regression analyses showed mixed results, when comparing protective and risk factors for sleep parameters within different countries, with combined behavioural factors contributing to small to large shared portions of variance in each regression (9-50%). One consistent finding between countries was found, with increased pre-sleep cognitive emotional sleep hygiene related to decreased sleep latency (beta = -0.25 to -0.33, p < 0.05). Technology use (mobile phone/Internet stop time) was associated with later bedtime, or less total sleep, with the strength of association varying between device and country.
 
-Results indicate that when designing interventions for adolescent sleep, multiple lifestyle factors need to be considered, whereas country of residence may play a lesser role.
+CONCLUSION: Results indicate that when designing interventions for adolescent sleep, multiple lifestyle factors need to be considered, whereas country of residence may play a lesser role.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/28007360/)

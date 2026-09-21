@@ -24,6 +24,13 @@ mots_cles:
 - Physiological Responses
 - Emf Exposure
 - Frequency-dependent Effects
+auteurs:
+- Danho S
+- Escobar Huertas JF
+- Schoellhorn WI
+pmcid: PMC12441653
+volume: ''
+pages: e90355
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -43,6 +50,17 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # A Systematic Review of the Impact of Electromagnetic Waves on Living Beings.

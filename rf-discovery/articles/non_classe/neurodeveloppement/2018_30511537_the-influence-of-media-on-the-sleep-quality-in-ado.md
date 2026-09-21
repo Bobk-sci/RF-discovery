@@ -28,6 +28,12 @@ mots_cles:
 - sleep
 - sleep quality
 - sleep routines
+auteurs:
+- Akçay D
+- Akçay BD
+pmcid: ''
+volume: '60'
+pages: 255-263
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -41,6 +47,13 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # The influence of media on the sleep quality in adolescents.

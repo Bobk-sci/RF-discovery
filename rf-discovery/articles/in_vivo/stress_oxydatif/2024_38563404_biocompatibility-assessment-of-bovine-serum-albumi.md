@@ -32,6 +32,15 @@ mots_cles:
 - biocompatibility
 - free radical scavenging
 - modulatory effect
+auteurs:
+- Pardhiya S
+- Gaharwar US
+- Parambil AM
+- Nirala JP
+- Rajamani P
+pmcid: ''
+volume: '58'
+pages: 194-216
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -49,6 +58,13 @@ theme_indices:
 - superoxide dismutase
 - lipid peroxidation
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2024
 ---
 
 # Biocompatibility assessment of bovine serum albumin conjugated manganese dioxide nanoparticle and their therapeutic role against microwave radiation induced haematological toxicity in male Wistar rats.

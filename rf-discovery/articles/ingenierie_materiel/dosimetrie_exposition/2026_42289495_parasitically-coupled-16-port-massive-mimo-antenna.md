@@ -19,6 +19,16 @@ mots_cles:
 - 16-Ports
 - 56 And 6G
 - Spatial Diversity And Spatial Multiplexing
+auteurs:
+- Mishra B
+- Sharma H
+- Misra NK
+- Singh AK
+- Satheesha TY
+- Pathan S
+pmcid: PMC13527081
+volume: ''
+pages: '27172'
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:
@@ -34,6 +44,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Parasitically coupled 16-port massive MIMO antenna for mmWave applications.

@@ -14,6 +14,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Singh N
+- Khan T
+- Kumar S
+- Kanaujia BK
+- Choi HC
+- Kim KW
+- Rambabu K
+- Rengarajan SR
+- Kishk AA
+pmcid: PMC10979022
+volume: ''
+pages: '7447'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:
@@ -28,6 +41,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Ultra-thin flexible rectenna integrated with power management unit for wireless power harvester/charging of smartwatch/wristband.

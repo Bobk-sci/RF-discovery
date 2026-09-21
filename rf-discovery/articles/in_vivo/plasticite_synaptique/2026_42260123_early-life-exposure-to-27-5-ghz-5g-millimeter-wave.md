@@ -28,6 +28,27 @@ mots_cles:
 - Mmw
 - Ptch1 +/− Mice
 - Inflammation, Mast Cells
+auteurs:
+- Palone F
+- Fratini E
+- Novelli F
+- Leonardi S
+- De Stefano I
+- Pasquali E
+- Tanori M
+- Pinto R
+- Ardoino L
+- Zambotti A
+- Camera F
+- Piscitelli M
+- Merla C
+- Pazzaglia S
+- Capstick M
+- Samaras T
+- Mancuso M
+pmcid: PMC13490480
+volume: ''
+pages: '26074'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []
@@ -41,6 +62,12 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - glutamate
+tags:
+- rf
+- modele/in_vivo
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- annee/2026
 ---
 
 # Early-life exposure to 27.5 GHz 5G millimeter-wave radiation induces skin-related biological responses in mice.

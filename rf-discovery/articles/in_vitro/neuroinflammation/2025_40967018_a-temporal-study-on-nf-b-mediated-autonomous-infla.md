@@ -24,6 +24,20 @@ mots_cles:
 - Microwave radiation
 - Inflammatory Factors
 - Ipsc-cms
+auteurs:
+- Zhang C
+- Deng W
+- Wang Y
+- Yao B
+- Dong J
+- Liu Z
+- Wang H
+- Xu X
+- Peng R
+- Zhang J
+pmcid: ''
+volume: ''
+pages: '119067'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -35,6 +49,12 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - inflammatory response
+tags:
+- rf
+- modele/in_vitro
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # A temporal study on NF-κB-mediated autonomous inflammatory response in iPSC-CMs induced by microwave radiation.

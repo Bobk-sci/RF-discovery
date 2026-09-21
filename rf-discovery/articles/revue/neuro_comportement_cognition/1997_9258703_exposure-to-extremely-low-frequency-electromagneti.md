@@ -24,6 +24,11 @@ types:
 - Journal Article
 - Review
 mots_cles: []
+auteurs:
+- Jauchem JR
+pmcid: ''
+volume: '70'
+pages: 9-21
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -37,6 +42,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/1997
 ---
 
 # Exposure to extremely-low-frequency electromagnetic fields and radiofrequency radiation: cardiovascular effects in humans.

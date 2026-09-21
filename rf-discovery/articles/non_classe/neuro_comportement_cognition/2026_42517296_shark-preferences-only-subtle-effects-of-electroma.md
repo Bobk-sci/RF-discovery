@@ -19,6 +19,17 @@ mots_cles:
 - Subsea Power Cable
 - Benthic Shark
 - Mussel Substrate
+auteurs:
+- Bouwman LJ
+- Hermans A
+- Hubert J
+- Nijland R
+- Jansen H
+- Schotanus J
+- Winter HV
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Shark preferences: Only subtle effects of electromagnetic field exposure and substrate type on small-spotted catshark (Scyliorhinus canicula) behaviour.

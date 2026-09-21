@@ -18,6 +18,12 @@ mots_cles:
 - PCNA
 - electromagnetic radiation (EMR)
 - sperm parameters.
+auteurs:
+- Bin-Meferij MM
+- El-Kott AF
+pmcid: PMC4612844
+volume: '8'
+pages: 12487-97
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -36,6 +42,13 @@ theme_indices:
 - testis
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- annee/2015
 ---
 
 # The radioprotective effects of Moringa oleifera against mobile phone electromagnetic radiation-induced infertility in rats.

@@ -22,6 +22,19 @@ mots_cles:
 - Radio-frequency Fields
 - 3.5 Ghz
 - 5G Signal
+auteurs:
+- Canovi A
+- Orlacchio R
+- Poulletier de Gannes F
+- Lévêque P
+- Arnaud-Cormos D
+- Lagroye I
+- Garenne A
+- Percherancier Y
+- Lewis N
+pmcid: PMC10441122
+volume: ''
+pages: '1231360'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -33,6 +46,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/2023
 ---
 
 # <i>In vitro</i> exposure of neuronal networks to the 5G-3.5 GHz signal.

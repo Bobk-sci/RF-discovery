@@ -23,6 +23,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- de Souza FT
+- Correia-Silva JF
+- Ferreira EF
+- Siqueira EC
+- Duarte AP
+- Gomez MV
+- Gomez RS
+- Gomes CC
+pmcid: ''
+volume: '23'
+pages: 1428-31
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -35,6 +47,12 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - glutathione
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2014
 ---
 
 # Cell phone use and parotid salivary gland alterations: no molecular evidence.
@@ -43,12 +61,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The association between cell phone use and the development of parotid tumors is controversial. Because there is unequivocal evidence that the microenvironment is important for tumor formation, we investigated in the parotid glands whether cell phone use alters the expression of gene products related to cellular stress.
+BACKGROUND: The association between cell phone use and the development of parotid tumors is controversial. Because there is unequivocal evidence that the microenvironment is important for tumor formation, we investigated in the parotid glands whether cell phone use alters the expression of gene products related to cellular stress.
 
-We used the saliva produced by the parotid glands of 62 individuals to assess molecular alterations compatible with cellular stress, comparing the saliva from the gland exposed to cell phone radiation (ipsilateral) to the saliva from the opposite, unexposed parotid gland (contralateral) of each individual. We compared salivary flow, total protein concentration, p53, p21, reactive oxygen species (ROS), and salivary levels of glutathione (GSH), heat shock proteins 27 and 70, and IgA between the ipsilateral and contralateral parotids.
+METHODS: We used the saliva produced by the parotid glands of 62 individuals to assess molecular alterations compatible with cellular stress, comparing the saliva from the gland exposed to cell phone radiation (ipsilateral) to the saliva from the opposite, unexposed parotid gland (contralateral) of each individual. We compared salivary flow, total protein concentration, p53, p21, reactive oxygen species (ROS), and salivary levels of glutathione (GSH), heat shock proteins 27 and 70, and IgA between the ipsilateral and contralateral parotids.
 
-No difference was found for any of these parameters, even when grouping individuals by period of cell phone use in years or by monthly average calls in minutes.
+RESULTS: No difference was found for any of these parameters, even when grouping individuals by period of cell phone use in years or by monthly average calls in minutes.
 
-We provide molecular evidence that the exposure of parotid glands to cell phone use does not alter parotid salivary flow, protein concentration, or levels of proteins of genes that are directly or indirectly affected by heat-induced cellular stress.
+CONCLUSION AND IMPACT: We provide molecular evidence that the exposure of parotid glands to cell phone use does not alter parotid salivary flow, protein concentration, or levels of proteins of genes that are directly or indirectly affected by heat-induced cellular stress.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/24753545/)

@@ -29,6 +29,15 @@ mots_cles:
 - In vivo studies
 - Tumor Incidence
 - Co-carcinogenesis
+auteurs:
+- Pinto R
+- Ardoino L
+- Giardullo P
+- Villani P
+- Marino C
+pmcid: PMC11354106
+volume: ''
+pages: '1020'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:
@@ -47,6 +56,12 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/cancer
+- annee/2024
 ---
 
 # A Systematic Review on the In Vivo Studies on Radiofrequency (100 kHz-300 GHz) Electromagnetic Field Exposure and Co-Carcinogenesis.

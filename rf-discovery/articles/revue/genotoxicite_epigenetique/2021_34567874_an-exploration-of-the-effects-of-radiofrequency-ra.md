@@ -25,6 +25,19 @@ mots_cles:
 - Mobile Phones
 - Cell Phones
 - Low-Frequency Radiation
+auteurs:
+- Alkayyali T
+- Ochuba O
+- Srivastava K
+- Sandhu JK
+- Joseph C
+- Ruo SW
+- Jain A
+- Waqar A
+- Poudel S
+pmcid: PMC8451508
+volume: ''
+pages: e17329
 modele: revue
 modele_score: 1003.0
 modele_secondaires:
@@ -38,6 +51,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2021
 ---
 
 # An Exploration of the Effects of Radiofrequency Radiation Emitted by Mobile Phones and Extremely Low Frequency Radiation on Thyroid Hormones and Thyroid Gland Histopathology.

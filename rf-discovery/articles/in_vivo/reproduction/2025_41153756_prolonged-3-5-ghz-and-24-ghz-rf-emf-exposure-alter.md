@@ -19,6 +19,21 @@ mots_cles:
 - Sperm quality
 - Testicular Function
 - 5G Rf-emf
+auteurs:
+- Syed Taha SMA
+- Jaffar FHF
+- Hairulazam A
+- Vijay S
+- Jamaludin N
+- Zulkifli AF
+- Mat Ros MF
+- Osman K
+- Zakaria Z
+- Mohd Bahar MAA
+- Ibrahim SF
+pmcid: PMC12562081
+volume: ''
+pages: '2471'
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []
@@ -33,6 +48,13 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Prolonged 3.5 GHz and 24 GHz RF-EMF Exposure Alters Testicular Immune Balance, Apoptotic Gene Expression, and Sperm Function in Rats.

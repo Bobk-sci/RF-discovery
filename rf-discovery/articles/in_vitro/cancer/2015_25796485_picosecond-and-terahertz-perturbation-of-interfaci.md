@@ -29,6 +29,16 @@ types:
 - Research Support, N.I.H., Extramural
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Vernier PT
+- Levine ZA
+- Ho MC
+- Xiao S
+- Semenov I
+- Pakhomov AG
+pmcid: PMC4565733
+volume: '248'
+pages: 837-47
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:
@@ -43,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - glioma
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/thermique
+- annee/2015
 ---
 
 # Picosecond and Terahertz Perturbation of Interfacial Water and Electropermeabilization of Biological Membranes.

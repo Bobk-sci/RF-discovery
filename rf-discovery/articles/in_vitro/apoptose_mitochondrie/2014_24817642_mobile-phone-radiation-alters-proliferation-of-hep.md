@@ -22,6 +22,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Ozgur E
+- Guler G
+- Kismali G
+- Seyhan N
+pmcid: ''
+volume: '70'
+pages: 983-91
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:
@@ -38,6 +46,14 @@ theme_indices:
 - cell viability
 - mitochondrial
 - cell death
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2014
 ---
 
 # Mobile phone radiation alters proliferation of hepatocarcinoma cells.

@@ -13,6 +13,11 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Goldsmith JR
+pmcid: ''
+volume: '1'
+pages: 47-57
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -24,6 +29,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- theme/reproduction
+- theme/thermique
+- annee/1995
 ---
 
 # Epidemiologic Evidence of Radiofrequency Radiation (Microwave) Effects on Health in Military, Broadcasting, and Occupational Studies.

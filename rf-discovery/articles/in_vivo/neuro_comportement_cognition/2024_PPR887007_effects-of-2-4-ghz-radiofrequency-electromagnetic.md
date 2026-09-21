@@ -13,6 +13,20 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Zhang S
+- Wu X
+- Li Z
+- Mu Y
+- Shu X
+- Zhou Q
+- Du K
+- Jiang Y
+- Zhang Y
+- Wu H
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -25,6 +39,11 @@ theme_secondaires: []
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Effects of 2.4 GHz radiofrequency electromagnetic field exposure on hippocampal proteins in APP/PS1 mice

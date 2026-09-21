@@ -67,6 +67,80 @@ EMF-Portal n'ayant pas d'API, l'outil ne lit de ses pages que les identifiants s
 portail change ou devient injoignable, l'étape rend **zéro** article plutôt qu'une notice
 approximative. Le gabarit d'URL de recherche est paramétrable (`--emfportal-url`).
 
+## Importer dans EndNote ou Zotero, et récupérer les PDF
+
+```bash
+python -m export_refs                                # articles/bibliotheque-rf.{ris,bib}
+python -m fetch_pdfs --email vous@exemple.fr --out pdf
+python -m export_refs --pdf-dir pdf                  # rattache les PDF aux références
+```
+
+`bibliotheque-rf.ris` s'importe directement dans **EndNote** (*File → Import*) et dans
+**Zotero** (*Fichier → Importer*) ; `bibliotheque-rf.bib` convient à Zotero et à LaTeX.
+Le classement voyage en mots-clés (`modele:in_vivo`, `theme:neurodeveloppement`) : Zotero
+en fait des étiquettes, sur lesquelles on reconstruit l'arborescence en une recherche
+sauvegardée.
+
+**Les PDF, eux, ne sont pas tous récupérables.** `fetch_pdfs` interroge
+[Unpaywall](https://unpaywall.org) — API publique, une adresse courriel suffit — et
+télécharge uniquement les versions légalement gratuites. Un article sous abonnement est
+compté dans `sans_acces_libre` et **n'est pas téléchargé** : contourner un péage
+violerait les conditions des éditeurs. Pour ceux-là, la voie normale est l'accès
+institutionnel — dans Zotero, *Préférences → Général → « Trouver le PDF disponible »* avec
+le proxy de votre bibliothèque configuré (*Préférences → Avancé → Proxys*).
+
+Les PDF atterrissent dans `pdf/`, **non versionné** (volume, et licences variables selon
+l'éditeur).
+
+## Travailler en local : disque dur, Obsidian, EndNote
+
+```bash
+# 1. le corpus sur le disque externe
+git clone https://github.com/Bobk-sci/RF-discovery /Volumes/DISQUE/rf-library
+cd /Volumes/DISQUE/rf-library/rf-discovery
+uv venv --python 3.11 .venv && . .venv/bin/activate && uv pip install -e .
+
+# 2. les PDF en accès libre, à côté des fiches
+python -m fetch_pdfs --email votre@adresse.fr --out pdf
+
+# 3. les références, PDF rattachés
+python -m export_refs --pdf-dir pdf
+```
+
+**Obsidian** : *Ouvrir un dossier comme coffre* → `rf-discovery/articles`. Chaque fiche
+est déjà une note Markdown avec en-tête YAML ; le champ `tags` (`modele/in_vivo`,
+`theme/neurodeveloppement`, `annee/2019`) alimente le panneau des étiquettes, et
+`_cartes/Accueil.md` sert de point d'entrée vers une carte par modèle d'étude, articles
+groupés par thème. Aucun plugin n'est nécessaire pour naviguer.
+
+Pour interroger le corpus avec un modèle local, les greffons *Smart Connections* ou
+*Copilot* se branchent sur [Ollama](https://ollama.com) : ils découpent les notes,
+calculent des plongements et répondent en citant les fiches. Un modèle de 7 à 14 milliards
+de paramètres (Qwen, Llama, Mistral) suffit pour résumer et rapprocher des résumés ; les
+modèles pédagogiques de type *nanochat* (classe GPT-2) sont faits pour comprendre
+l'entraînement, pas pour analyser de la littérature.
+
+**EndNote** : *File → Import → File*, type **Reference Manager (RIS)**, fichier
+`articles/bibliotheque-rf.ris`. Les champs `L1` pointent vers les PDF téléchargés : les
+fichiers s'attachent aux références à l'import.
+
+## Analyser le corpus avec Claude Code (VS Code)
+
+Ouvrez le dépôt cloné dans VS Code, installez l'extension **Claude Code** (Extensions →
+« Claude Code »), connectez-vous, et le dossier `.claude/commands/` fournit quatre
+commandes taillées pour ce corpus :
+
+| Commande | Ce qu'elle fait |
+|---|---|
+| `/synthese <thème>` | état des connaissances, organisé par modèle d'étude, chaque affirmation portant son PMID |
+| `/contradictions <sujet>` | tableau des études qui se contredisent, avec les conditions d'exposition |
+| `/lacunes <domaine>` | ce que le corpus ne couvre pas, et les requêtes à ajouter |
+| `/redaction <objet>` | paragraphe sourcé, fiches utilisées et réserves explicites |
+
+Toutes imposent la même règle que la collecte : **aucune référence, aucun chiffre qui ne
+soit dans une fiche lue**. `CLAUDE.md` est chargé automatiquement et rappelle ces
+contraintes.
+
 ## Runs incrémentaux
 
 `data/seen_library.json` retient ce qui est déjà rangé : un rerun ne ramène que les

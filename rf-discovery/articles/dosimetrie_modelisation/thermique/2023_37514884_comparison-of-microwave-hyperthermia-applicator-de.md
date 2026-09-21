@@ -20,6 +20,18 @@ mots_cles:
 - Dipole Antenna
 - Connected Array
 - Fractal Octagonal Ring Array
+auteurs:
+- Yildiz G
+- Farhat I
+- Farrugia L
+- Bonello J
+- Zarb-Adami K
+- Sammut CV
+- Yilmaz T
+- Akduman I
+pmcid: PMC10383607
+volume: ''
+pages: '6592'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -33,6 +45,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Comparison of Microwave Hyperthermia Applicator Designs with Fora Dipole and Connected Array.

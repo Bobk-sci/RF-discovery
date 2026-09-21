@@ -29,6 +29,19 @@ mots_cles:
 - Electromagnetic Radiation
 - Synganglion
 - Neuropeptide Levels
+auteurs:
+- Šofranková L
+- Baňas M
+- Pipová N
+- Majláth I
+- Kurimský J
+- Cimbala R
+- Zbojovský J
+- Šimo L
+- Majláthová V
+pmcid: PMC11339154
+volume: ''
+pages: '306'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -39,6 +52,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2024
 ---
 
 # Anthropogenic electromagnetic radiation alters the transcription levels of the genes encoding the SIFamide and myoinhibitory peptide and their receptors in Ixodes ricinus synganglion.

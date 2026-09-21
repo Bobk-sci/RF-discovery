@@ -31,6 +31,12 @@ mots_cles:
 - Microwave radiation
 - Neuro-inflammation
 - Oxidative stress
+auteurs:
+- Gupta V
+- Srivastava R
+pmcid: '3794007'
+volume: '49'
+pages: 1687-1702
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -46,6 +52,13 @@ theme_indices:
 - oxidative stress
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Ashwagandha Diminishes Hippocampal Apoptosis Induced by Microwave Radiation by Acetylcholinesterase Dependent Neuro-Inflammatory Pathway in Male Coturnix coturnix Japonica.

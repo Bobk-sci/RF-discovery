@@ -23,6 +23,13 @@ mots_cles:
 - Electromagnetic fields
 - Mobile phone
 - Radiofrequency
+auteurs:
+- Mortazavi SAR
+- Mortazavi G
+- Mortazavi SMJ
+pmcid: ''
+volume: '609'
+pages: '1'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []
@@ -33,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2017
 ---
 
 # Comments on "Radiofrequency electromagnetic fields and some cancers of unknown etiology: An ecological study".

@@ -18,6 +18,13 @@ mots_cles:
 - electromagnetic fields exposure
 - mobile phone chips
 - mobile phone radiation
+auteurs:
+- Henz D
+- Schöllhorn WI
+- Poeggeler B
+pmcid: PMC5893900
+volume: '12'
+pages: '190'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -30,6 +37,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Mobile Phone Chips Reduce Increases in EEG Brain Activity Induced by Mobile Phone-Emitted Electromagnetic Fields.

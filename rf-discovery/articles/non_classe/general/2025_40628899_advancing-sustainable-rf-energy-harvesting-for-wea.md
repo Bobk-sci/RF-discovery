@@ -14,6 +14,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Tavares J
+- Lacik J
+- Pinho P
+- Raida Z
+- Alves H
+pmcid: PMC12238325
+volume: ''
+pages: '24429'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +31,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Advancing sustainable RF energy harvesting for wearable electronics with 2.45 GHz textile-printed rectennas.

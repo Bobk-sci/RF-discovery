@@ -33,6 +33,23 @@ mots_cles:
 - Carcinogenicity Bioassay
 - 900 Mhz
 - Ntp Validation
+auteurs:
+- Kim HS
+- Han KH
+- Kim YB
+- Jeon SB
+- Lee AK
+- Moon JI
+- Choi HD
+- Imaida K
+- Yokohira M
+- Kawabe M
+- Imai N
+- Wang J
+- Ahn YH
+pmcid: PMC13017829
+volume: ''
+pages: kfag001
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -50,6 +67,15 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # The International Collaborative Animal Study of the carcinogenicity and genotoxicity of mobile phone radiofrequency radiation: the Korean study.

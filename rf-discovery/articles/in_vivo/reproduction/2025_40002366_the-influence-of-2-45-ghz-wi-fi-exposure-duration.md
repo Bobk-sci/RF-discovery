@@ -19,6 +19,15 @@ mots_cles:
 - Sperm quality
 - Duration
 - Wi-fi
+auteurs:
+- Jamaludin N
+- Ibrahim SF
+- Jaffar FHF
+- Zulkefli AF
+- Osman K
+pmcid: PMC11852241
+volume: ''
+pages: '179'
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -32,6 +41,12 @@ theme_indices:
 - sperm
 - testicular
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2025
 ---
 
 # The Influence of 2.45 GHz Wi-Fi Exposure Duration on Sperm Quality and Testicular Histopathology: An Exploration of Peroxidative Injury.

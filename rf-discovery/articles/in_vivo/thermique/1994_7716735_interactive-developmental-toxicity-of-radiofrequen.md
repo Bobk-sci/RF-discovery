@@ -24,6 +24,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Nelson BK
+- Conover DL
+- Shaw PB
+- Werren DM
+- Edwards RM
+- Hoberman AM
+pmcid: ''
+volume: '50'
+pages: 275-93
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -37,6 +47,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- annee/1994
 ---
 
 # Interactive developmental toxicity of radiofrequency radiation and 2-methoxyethanol in rats.

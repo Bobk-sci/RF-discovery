@@ -32,6 +32,20 @@ mots_cles:
 - Cdma 900 Mhz Rf-emf
 - Long-term Carcinogenicity Bioassay
 - Ntp Validation Study
+auteurs:
+- Imaida K
+- Kawabe M
+- Wang J
+- Yokohira M
+- Imai N
+- Han KH
+- Kim YB
+- Jeon SB
+- Kim HS
+- Ahn YH
+pmcid: PMC13078595
+volume: ''
+pages: kfag002
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -50,6 +64,15 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # The International Collaborative Animal Study of mobile phone radiofrequency radiation carcinogenicity and genotoxicity: the Japanese study.

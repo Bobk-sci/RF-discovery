@@ -24,6 +24,11 @@ mots_cles:
 - genetic effects
 - genotoxicity
 - static/extremely low frequency EMF
+auteurs:
+- Lai H
+pmcid: ''
+volume: '40'
+pages: 264-273
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -40,6 +45,14 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - gene expression
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Genetic effects of non-ionizing electromagnetic fields.

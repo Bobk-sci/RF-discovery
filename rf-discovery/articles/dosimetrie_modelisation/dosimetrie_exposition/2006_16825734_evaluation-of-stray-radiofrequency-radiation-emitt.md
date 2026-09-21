@@ -24,6 +24,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- De Marco M
+- Maggi S
+pmcid: ''
+volume: '51'
+pages: 3347-58
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -36,6 +42,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2006
 ---
 
 # Evaluation of stray radiofrequency radiation emitted by electrosurgical devices.

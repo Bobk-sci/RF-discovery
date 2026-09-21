@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1375 articles** rangés le 2026-09-21 (publications 1960–2026).
+**1370 articles** rangés le 2026-09-21 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,7 +8,7 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| dosimetrie_modelisation | dosimetrie_exposition | 89 |
+| dosimetrie_modelisation | dosimetrie_exposition | 88 |
 | in_vivo | stress_oxydatif | 83 |
 | in_vivo | neuro_comportement_cognition | 75 |
 | non_classe | general | 58 |
@@ -18,7 +18,7 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | epidemiologie | neuro_comportement_cognition | 46 |
 | in_vivo | general | 45 |
 | epidemiologie | general | 44 |
-| in_vitro | apoptose_mitochondrie | 36 |
+| in_vitro | apoptose_mitochondrie | 37 |
 | in_vivo | reproduction | 33 |
 | in_vitro | stress_oxydatif | 31 |
 | epidemiologie | eeg_sommeil | 30 |
@@ -61,7 +61,6 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | in_vitro | reproduction | 6 |
 | non_classe | dosimetrie_exposition | 6 |
 | revue | eeg_sommeil | 6 |
-| dosimetrie_modelisation | apoptose_mitochondrie | 5 |
 | dosimetrie_modelisation | cancer | 5 |
 | dosimetrie_modelisation | stress_oxydatif | 5 |
 | in_vivo | eeg_sommeil | 5 |
@@ -70,20 +69,19 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | in_vitro | dosimetrie_exposition | 4 |
 | in_vitro | neuroinflammation | 4 |
 | ingenierie_materiel | neuro_comportement_cognition | 4 |
-| revue | apoptose_mitochondrie | 4 |
+| dosimetrie_modelisation | apoptose_mitochondrie | 3 |
 | dosimetrie_modelisation | eeg_sommeil | 3 |
 | dosimetrie_modelisation | genotoxicite_epigenetique | 3 |
 | epidemiologie | thermique | 3 |
 | humain_experimental | neurodeveloppement | 3 |
 | in_vitro | barriere_hemato_encephalique | 3 |
 | non_classe | reproduction | 3 |
+| revue | apoptose_mitochondrie | 3 |
 | dosimetrie_modelisation | reproduction | 2 |
 | epidemiologie | stress_oxydatif | 2 |
 | humain_experimental | dosimetrie_exposition | 2 |
 | in_vitro | neuro_comportement_cognition | 2 |
 | in_vitro | neurodeveloppement | 2 |
-| ingenierie_materiel | thermique | 2 |
-| non_classe | apoptose_mitochondrie | 2 |
 | non_classe | genotoxicite_epigenetique | 2 |
 | revue | barriere_hemato_encephalique | 2 |
 | dosimetrie_modelisation | barriere_hemato_encephalique | 1 |
@@ -96,6 +94,8 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | in_vitro | plasticite_synaptique | 1 |
 | ingenierie_materiel | cancer | 1 |
 | ingenierie_materiel | reproduction | 1 |
+| ingenierie_materiel | thermique | 1 |
+| non_classe | apoptose_mitochondrie | 1 |
 | revue | calcium_canaux_ioniques | 1 |
 | revue | plasticite_synaptique | 1 |
 

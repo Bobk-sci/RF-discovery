@@ -36,6 +36,15 @@ mots_cles:
 - Nitrosative stress
 - Oxidative stress
 - P. santalinus
+auteurs:
+- Bulle S
+- Reddy VD
+- Padmavathi P
+- Maturu P
+- N Ch V
+pmcid: ''
+volume: '83'
+pages: 1057-1063
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -56,6 +65,12 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2016
 ---
 
 # Modulatory role of Pterocarpus santalinus against alcohol-induced liver oxidative/nitrosative damage in rats.

@@ -31,6 +31,15 @@ mots_cles:
 - endoplasmic reticulum stress
 - Coenzyme Q10 (Coq10)
 - 5 G
+auteurs:
+- Yilmaz H
+- Tumkaya L
+- Mercantepe T
+- Gül F
+- Karakas S
+pmcid: ''
+volume: ''
+pages: '103510'
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -46,6 +55,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- annee/2026
 ---
 
 # The neuroprotective role of coenzyme Q10 against endoplasmic reticulum stress in the olfactory bulb caused by 5 G electromagnetic field exposure.

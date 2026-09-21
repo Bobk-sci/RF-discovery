@@ -26,6 +26,14 @@ mots_cles:
 - National
 - RF-EMF personal exposure
 - Reference levels
+auteurs:
+- Ramirez-Vazquez R
+- Escobar I
+- Vandenbosch GAE
+- Arribas E
+pmcid: ''
+volume: '246'
+pages: '118124'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -38,6 +46,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Personal exposure to radiofrequency electromagnetic fields: A comparative analysis of international, national, and regional guidelines.

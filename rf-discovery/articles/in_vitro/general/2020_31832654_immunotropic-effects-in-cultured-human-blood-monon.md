@@ -25,6 +25,16 @@ mots_cles:
 - immunoregulation
 - lymphocytes
 - monokines
+auteurs:
+- Szymański Ł
+- Sobiczewska E
+- Cios A
+- Szymanski P
+- Ciepielak M
+- Stankiewicz W
+pmcid: PMC6976861
+volume: '61'
+pages: 27-33
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:
@@ -37,6 +47,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2020
 ---
 
 # Immunotropic effects in cultured human blood mononuclear cells exposed to a 900 MHz pulse-modulated microwave field.

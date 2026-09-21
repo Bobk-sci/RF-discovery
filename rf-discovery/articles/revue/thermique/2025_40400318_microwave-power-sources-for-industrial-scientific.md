@@ -17,6 +17,11 @@ mots_cles:
 - Microwave
 - Power
 - Non-thermal Effects
+auteurs:
+- Cripps S
+pmcid: PMC12096102
+volume: ''
+pages: '20240069'
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -29,6 +34,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/revue
+- theme/thermique
+- annee/2025
 ---
 
 # Microwave power sources for industrial, scientific and medical applications.

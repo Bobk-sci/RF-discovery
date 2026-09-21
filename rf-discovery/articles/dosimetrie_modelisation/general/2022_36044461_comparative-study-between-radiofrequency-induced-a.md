@@ -19,6 +19,19 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Lemercier CE
+- Garenne A
+- Poulletier de Gannes F
+- El Khoueiry C
+- Arnaud-Cormos D
+- Levêque P
+- Lagroye I
+- Percherancier Y
+- Lewis N
+pmcid: PMC9432733
+volume: '17'
+pages: e0268605
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -28,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Comparative study between radiofrequency-induced and muscimol-induced inhibition of cultured networks of cortical neuron.

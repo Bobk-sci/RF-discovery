@@ -18,6 +18,15 @@ mots_cles:
 - Radiofrequency Radiation
 - 3.5 Ghz
 - Skin Histomorphometry
+auteurs:
+- Geleni Dolanbay E
+- Mert T
+- Kurtoglu RN
+- Uslu U
+- Dasdag S
+pmcid: PMC12758509
+volume: ''
+pages: 209-216
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:
@@ -36,6 +45,13 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - in utero
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Prenatal Exposure to 3.5 GHz Radiofrequency Radiation and Long-Term Skin Histomorphometry: An 18-Month Experimental Rat Study.

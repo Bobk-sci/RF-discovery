@@ -29,6 +29,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Lalić H
+- Lekić A
+- Radosević-Stasić B
+pmcid: ''
+volume: '55'
+pages: 117-27
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []
@@ -41,6 +48,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - chromosomal aberration
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2001
 ---
 
 # Comparison of chromosome aberrations in peripheral blood lymphocytes from people occupationally exposed to ionizing and radiofrequency radiation.

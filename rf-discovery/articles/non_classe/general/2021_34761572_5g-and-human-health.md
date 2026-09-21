@@ -17,6 +17,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Theodorou K
+- Tyrakis C
+- Softa V
+- Kappas C
+pmcid: ''
+volume: '26'
+pages: 1698-1708
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +33,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2021
 ---
 
 # 5G and human health.
@@ -33,6 +46,6 @@ theme_indices: []
 
 ## Résumé (texte d'origine)
 
-[Abstract not available]
+_Résumé non fourni par la source._
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/34761572/)

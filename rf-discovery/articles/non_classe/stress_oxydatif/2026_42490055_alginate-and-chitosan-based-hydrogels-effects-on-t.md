@@ -30,6 +30,13 @@ mots_cles:
 - Epr Spectroscopy
 - Thermal Treatment
 - Ultrasound Radiation
+auteurs:
+- Tsirigotis-Maniecka M
+- Zoumpanioti M
+- Pawlaczyk-Graja I
+pmcid: PMC13394517
+volume: ''
+pages: e70230
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -40,6 +47,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Alginate and Chitosan-Based Hydrogels: Effects on the Stability of Encapsulated Quercetin Under Multiple Stress Conditions.

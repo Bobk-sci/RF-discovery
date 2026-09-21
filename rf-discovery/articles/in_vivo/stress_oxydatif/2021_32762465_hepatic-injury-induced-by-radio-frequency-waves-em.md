@@ -29,6 +29,12 @@ mots_cles:
 - Oxidative stress
 - Electromagnetic Radiation
 - Wi-fi
+auteurs:
+- Fahmy HM
+- Mohammed FF
+pmcid: ''
+volume: ''
+pages: 136-147
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -45,6 +51,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Hepatic injury induced by radio frequency waves emitted from conventional Wi-Fi devices in Wistar rats.

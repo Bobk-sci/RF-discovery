@@ -18,6 +18,13 @@ mots_cles:
 - Textile Antenna
 - Artificial Magnetic Conductor
 - Substrate Integrated Waveguide
+auteurs:
+- Thangavelu Y
+- Thangaraju B
+- Maheswar R
+pmcid: PMC11676499
+volume: ''
+pages: '1530'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:
@@ -32,6 +39,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design and SAR Analysis of an AMC-Integrated Wearable Cavity-Backed SIW Antenna.

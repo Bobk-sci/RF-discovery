@@ -2,21 +2,37 @@
 pmid: '38790420'
 doi: 10.3390/brainsci14050441
 annee: 2024
-journal: Brain sciences
+journal: ''
 titre: Mechanism of Microwave Radiation-Induced Learning and Memory Impairment Based
   on Hippocampal Metabolomics.
 url: https://pubmed.ncbi.nlm.nih.gov/38790420/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- hippocampus
-- learning and memory
-- microwave radiation
-- non-targeted metabolomics
+- Hippocampus
+- Learning and memory
+- Microwave radiation
+- Non-targeted Metabolomics
+auteurs:
+- Guan S
+- Xin Y
+- Ren K
+- Wang H
+- Dong J
+- Wang H
+- Zhang J
+- Xu X
+- Yao B
+- Zhao L
+- Peng R
+pmcid: PMC11118611
+volume: ''
+pages: '441'
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires: []
@@ -30,11 +46,17 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2024
 ---
 
 # Mechanism of Microwave Radiation-Induced Learning and Memory Impairment Based on Hippocampal Metabolomics.
 
-*Brain sciences — 2024*
+*journal non renseigné — 2024*
 
 ## Résumé (texte d'origine)
 

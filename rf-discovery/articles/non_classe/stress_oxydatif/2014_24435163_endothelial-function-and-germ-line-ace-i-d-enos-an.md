@@ -31,6 +31,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Gazi E
+- Temiz A
+- Altun B
+- Barutcu A
+- Silan F
+- Colkesen Y
+- Ozdemir O
+pmcid: PMC3959185
+volume: '25'
+pages: 9-14
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -40,6 +51,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2014
 ---
 
 # Endothelial function and germ-line ACE I/D, eNOS and PAI-1 gene profiles in patients with coronary slow flow in the Canakkale population: multiple thrombophilic gene profiles in coronary slow flow.
@@ -48,12 +64,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-We examined the effects of ACE, PAI-1 and eNOS gene polymorphisms on endothelial function. The genes are related to atherosclerosis and endothelial dysfunction in coronary slow flow (CSF).
+BACKGROUND: We examined the effects of ACE, PAI-1 and eNOS gene polymorphisms on endothelial function. The genes are related to atherosclerosis and endothelial dysfunction in coronary slow flow (CSF).
 
-Thirty-three patients with angiographically proven CSF and 48 subjects with normal coronary flow were enrolled in this study. Coronary flow patterns were determined by the thrombolysis in myocardial infarction (TIMI) frame count method. Endothelial function was assessed in the brachial artery by endothelium-dependent flow-mediated dilatation (FMD). PAI-1 4G/5G, eNOS T-786C and ACE I/D polymorphisms were determined by polymerase chain reaction (PCR) amplification.
+METHODS: Thirty-three patients with angiographically proven CSF and 48 subjects with normal coronary flow were enrolled in this study. Coronary flow patterns were determined by the thrombolysis in myocardial infarction (TIMI) frame count method. Endothelial function was assessed in the brachial artery by endothelium-dependent flow-mediated dilatation (FMD). PAI-1 4G/5G, eNOS T-786C and ACE I/D polymorphisms were determined by polymerase chain reaction (PCR) amplification.
 
-No difference was found between the groups regarding age, heart rate and blood pressure. Males were more prevalent among patients with CSF than control subjects (58.8 vs 29.8%, p = 0.009). Mean TIMI frame counts were significantly higher in CSF patients (24.2 ± 4.0 vs 13.1 ± 2.5 fpm, p = 0.001). FMD was significantly lower in CSF patients than in the controls (4.9 ± 6.6 vs 7.9 ± 5.6%, p = 0.029). TIMI frame count and FMD were found to be negatively correlated in a correlation analysis (r = -0.269, p = 0.015). PAI-1 4G/5G, eNOS T-786C and ACE I/D polymorphisms were similar in the two groups.
+RESULTS: No difference was found between the groups regarding age, heart rate and blood pressure. Males were more prevalent among patients with CSF than control subjects (58.8 vs 29.8%, p = 0.009). Mean TIMI frame counts were significantly higher in CSF patients (24.2 ± 4.0 vs 13.1 ± 2.5 fpm, p = 0.001). FMD was significantly lower in CSF patients than in the controls (4.9 ± 6.6 vs 7.9 ± 5.6%, p = 0.029). TIMI frame count and FMD were found to be negatively correlated in a correlation analysis (r = -0.269, p = 0.015). PAI-1 4G/5G, eNOS T-786C and ACE I/D polymorphisms were similar in the two groups.
 
-This study showed that endothelial function was impaired in patients with CSF. PAI-1, ACE and eNOS polymorphisms were not related to CSF in our study population.
+CONCLUSIONS: This study showed that endothelial function was impaired in patients with CSF. PAI-1, ACE and eNOS polymorphisms were not related to CSF in our study population.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/24435163/)

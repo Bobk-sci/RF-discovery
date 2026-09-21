@@ -32,6 +32,16 @@ mots_cles:
 - Hepatotoxicity
 - Coenzyme Q10
 - 6 Ghz
+auteurs:
+- Akyildiz K
+- Yilmaz H
+- Yilmaz A
+- Mercantepe T
+- Gul F
+- Tumkaya L
+pmcid: PMC13572476
+volume: ''
+pages: '28567'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -48,6 +58,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Coenzyme Q10 protects against 6 GHz electromagnetic field-induced liver injury via suppression of inflammatory responses associated with NF-κB/p65 immunoreactivity and endoplasmic reticulum stress.

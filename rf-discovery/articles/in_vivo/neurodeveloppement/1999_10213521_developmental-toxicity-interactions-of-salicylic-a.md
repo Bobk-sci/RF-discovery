@@ -28,6 +28,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Nelson BK
+- Snyder DL
+- Shaw PB
+pmcid: ''
+volume: '13'
+pages: 137-45
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -43,6 +50,12 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- annee/1999
 ---
 
 # Developmental toxicity interactions of salicylic acid and radiofrequency radiation or 2-methoxyethanol in rats.

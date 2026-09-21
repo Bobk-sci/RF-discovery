@@ -22,6 +22,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Sannino A
+- Sarti M
+- Reddy SB
+- Prihoda TJ
+- Vijayalaxmi
+- Scarfì MR
+pmcid: ''
+volume: '171'
+pages: 735-42
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -36,6 +46,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - micronucleus
+tags:
+- rf
+- modele/in_vitro
+- modele/humain_experimental
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Induction of adaptive response in human blood lymphocytes exposed to radiofrequency radiation.

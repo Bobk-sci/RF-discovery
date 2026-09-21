@@ -19,6 +19,16 @@ mots_cles:
 - Artifacts
 - Radiology
 - Bariatric
+auteurs:
+- Martín-Noguerol T
+- Escartín J
+- Vidal-Cameán C
+- Díaz-Carreño JR
+- López-Úbeda P
+- Luna A
+pmcid: ''
+volume: ''
+pages: S1076-6332(26)00722-1
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -32,6 +42,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Are Radiology Departments Ready for the Current Underlying Obesity Pandemic? A Narrative Review.

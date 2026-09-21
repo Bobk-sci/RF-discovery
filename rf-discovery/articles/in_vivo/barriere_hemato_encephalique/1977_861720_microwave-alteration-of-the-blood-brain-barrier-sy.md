@@ -22,6 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Oscar KJ
+- Hawkins TD
+pmcid: ''
+volume: '126'
+pages: 281-93
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []
@@ -35,6 +41,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/1977
 ---
 
 # Microwave alteration of the blood-brain barrier system of rats.

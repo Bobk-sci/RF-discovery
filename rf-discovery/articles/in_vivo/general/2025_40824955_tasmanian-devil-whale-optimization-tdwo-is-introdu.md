@@ -2,25 +2,30 @@
 pmid: '40824955'
 doi: 10.1371/journal.pone.0330270
 annee: 2025
-journal: ''
+journal: PloS one
 titre: Tasmanian devil whale optimization (TDWO) is introduced for secure video transmission
   in 5G networks.
 url: https://pubmed.ncbi.nlm.nih.gov/40824955/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Marsupialia
 - Algorithms
-- Computer Security
-- Computer Communication Networks
 - Video Recording
 - Neural Networks, Computer
+- Computer Security
+- Animals
+- Computer Communication Networks
+- Marsupialia
 types:
-- research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Lin F
+- Lu M
+pmcid: PMC12360583
+volume: '20'
+pages: e0330270
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -30,11 +35,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Tasmanian devil whale optimization (TDWO) is introduced for secure video transmission in 5G networks.
 
-*journal non renseigné — 2025*
+*PloS one — 2025*
 
 ## Résumé (texte d'origine)
 

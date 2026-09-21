@@ -31,6 +31,20 @@ mots_cles:
 - spatial memory
 - Cognitive Functions
 - Dose-dependent Effect
+auteurs:
+- Wang H
+- Song L
+- Zhao L
+- Wang H
+- Xu X
+- Dong J
+- Zhang J
+- Yao B
+- Zhao X
+- Peng R
+pmcid: PMC9792922
+volume: ''
+pages: 37427-37439
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:
@@ -51,6 +65,14 @@ theme_indices:
 - learning
 - spatial memory
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # The dose-dependent effect of 1.5-GHz microwave exposure on spatial memory and the NMDAR pathway in Wistar rats.

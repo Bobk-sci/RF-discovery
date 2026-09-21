@@ -20,6 +20,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Aledavood T
+- Kivimäki I
+- Lehmann S
+- Saramäki J
+pmcid: PMC8975853
+volume: '12'
+pages: '5544'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +39,12 @@ theme_secondaires:
 theme_indices:
 - sleep
 - circadian
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- theme/neuro_comportement_cognition
+- annee/2022
 ---
 
 # Quantifying daily rhythms with non-negative matrix factorization applied to mobile phone data.

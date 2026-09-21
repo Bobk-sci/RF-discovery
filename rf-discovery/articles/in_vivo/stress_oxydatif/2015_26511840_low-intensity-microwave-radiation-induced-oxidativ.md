@@ -29,6 +29,16 @@ mots_cles:
 - DNA damage
 - Microwave radiation
 - Oxidative stress
+auteurs:
+- Megha K
+- Deshmukh PS
+- Banerjee BD
+- Tripathi AK
+- Ahmed R
+- Abegaonkar MP
+pmcid: ''
+volume: '51'
+pages: 158-65
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -48,6 +58,13 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- annee/2015
 ---
 
 # Low intensity microwave radiation induced oxidative stress, inflammatory response and DNA damage in rat brain.

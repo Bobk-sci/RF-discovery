@@ -27,6 +27,14 @@ mots_cles:
 - Thyroid Hormone Metabolism
 - Electromagnetic Fields (Emf)
 - Thyroid Gland Physiology
+auteurs:
+- Sarhad ZS
+- Ebrahimbabaei A
+- Tavassoli A
+- Shojaeifard M
+pmcid: PMC12103772
+volume: ''
+pages: '231'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -41,6 +49,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # Effects of non-ionizing radiation on the thyroid gland in rats.

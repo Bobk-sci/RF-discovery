@@ -34,6 +34,16 @@ mots_cles:
 - electromagnetic fields
 - inflammation
 - mobile phone
+auteurs:
+- Petitdant N
+- Lecomte A
+- Robidel F
+- Gamez C
+- Blazy K
+- Villégier AS
+pmcid: ''
+volume: '37'
+pages: 338-50
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []
@@ -53,6 +63,13 @@ theme_indices:
 - prenatal
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/neuroinflammation
+- annee/2016
 ---
 
 # Cerebral radiofrequency exposures during adolescence: Impact on astrocytes and brain functions in healthy and pathologic rat models.

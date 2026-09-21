@@ -20,6 +20,15 @@ mots_cles:
 - H-field measurement
 - near-field measurements
 - specific absorption rate
+auteurs:
+- Rubtsova N
+- Perov S
+- Belaya O
+- Kuster N
+- Balzano Q
+pmcid: ''
+volume: '34'
+pages: 180-2
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires: []
@@ -34,6 +43,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Near-field radiofrequency electromagnetic exposure assessment.

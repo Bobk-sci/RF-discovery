@@ -18,6 +18,14 @@ mots_cles:
 - Dielectric Lens Antenna
 - Human Body Phantom
 - Radio Wave Hyperthermia
+auteurs:
+- Abd Rahman A
+- Kamardin K
+- Yamada Y
+- Takahashi M
+pmcid: PMC10965516
+volume: ''
+pages: e28061
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -30,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - body temperature
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/cancer
+- annee/2024
 ---
 
 # Design method of a focusing dielectric lens antenna and temperature increment measurement at the focusing spot.

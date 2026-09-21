@@ -29,6 +29,18 @@ mots_cles:
 - Biosecurity
 - Radiofrequency Exposure
 - Climate-driven Arbovirus Expansion
+auteurs:
+- Defilippo F
+- Moreno A
+- Ciccozzi M
+- Losardo M
+- Bia P
+- Manna A
+- de Gara L
+- Giovanetti M
+pmcid: ''
+volume: ''
+pages: 343-350
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -41,6 +53,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- annee/2025
 ---
 
 # Disrupting vector competence: exploring radiofrequency exposure as a novel approach to mosquito-borne disease prevention in a changing climate.

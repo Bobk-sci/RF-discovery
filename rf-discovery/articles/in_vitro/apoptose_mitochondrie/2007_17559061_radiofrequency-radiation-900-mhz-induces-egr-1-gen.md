@@ -31,6 +31,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Buttiglione M
+- Roca L
+- Montemurno E
+- Vitiello F
+- Capozzi V
+- Cibelli G
+pmcid: ''
+volume: '213'
+pages: 759-67
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires:
@@ -54,6 +64,14 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2007
 ---
 
 # Radiofrequency radiation (900 MHz) induces Egr-1 gene expression and affects cell-cycle control in human neuroblastoma cells.

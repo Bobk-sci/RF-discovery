@@ -32,6 +32,16 @@ mots_cles:
 - Immune response
 - neutrophil
 - Radiofrequency (Rf)
+auteurs:
+- Koyama S
+- Narita E
+- Suzuki Y
+- Taki M
+- Shinohara N
+- Miyakoshi J
+pmcid: PMC4572595
+volume: ''
+pages: 30-36
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:
@@ -44,6 +54,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2015
 ---
 
 # Effect of a 2.45-GHz radiofrequency electromagnetic field on neutrophil chemotaxis and phagocytosis in differentiated human HL-60 cells.

@@ -35,6 +35,20 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Pulsed Magnetic Field
 - Male Reproductive Tissues
+auteurs:
+- Ascı H
+- Comlekcı S
+- Taner R
+- Tepebası MY
+- Imecı OB
+- Selçuk E
+- Aslankoc R
+- Gultekın S
+- Comlekcı C
+- Ozmen O
+pmcid: ''
+volume: ''
+pages: '63'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -54,6 +68,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- theme/cancer
+- annee/2026
 ---
 
 # Effect of dual RF-EMF and pulsed magnetic field exposure on eNOS expression and histological integrity in male rat reproductive tissues.

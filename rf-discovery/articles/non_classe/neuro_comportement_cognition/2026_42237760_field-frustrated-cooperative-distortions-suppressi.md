@@ -19,6 +19,12 @@ mots_cles:
 - Microwave Annealing
 - Cooperative Jahn‐teller Distortion
 - Phonon‐field Interaction
+auteurs:
+- Vashaee D
+- Dsouza K
+pmcid: PMC13336883
+volume: ''
+pages: e76001
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +34,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Field-Frustrated Cooperative Distortions: Suppressing Jahn-Teller Ordering via Microwave Annealing.

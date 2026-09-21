@@ -23,6 +23,11 @@ mots_cles:
 - Public health
 - Radiofrequency radiation
 - Wireless technology
+auteurs:
+- Russell CL
+pmcid: ''
+volume: '165'
+pages: 484-495
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -32,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- theme/general
+- annee/2018
 ---
 
 # 5 G wireless telecommunications expansion: Public health and environmental implications.

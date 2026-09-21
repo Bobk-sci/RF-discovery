@@ -30,6 +30,14 @@ mots_cles:
 - foot-wearables
 - heart rate
 - posterior tibial artery
+auteurs:
+- Matouq J
+- AlSaaideh I
+- Hatahet O
+- Pott PP
+pmcid: PMC11990973
+volume: '25'
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires: []
@@ -40,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Investigation and Validation of New Heart Rate Measurement Sites for Wearable Technologies.

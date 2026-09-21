@@ -18,6 +18,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Cox C
+- Murray WE
+- Foley EP
+pmcid: ''
+volume: '43'
+pages: 149-53
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -28,6 +35,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- annee/1982
 ---
 
 # Occupational exposures to radiofrequency radiation (18-31 MHz) from F dielectric heat sealers.

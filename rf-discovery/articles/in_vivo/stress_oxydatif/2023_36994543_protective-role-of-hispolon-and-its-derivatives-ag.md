@@ -28,6 +28,13 @@ mots_cles:
 - electromagnetic radiation
 - mobile phone
 - reactive oxygen species
+auteurs:
+- Saka VP
+- V C
+- Narayanasamy D
+pmcid: ''
+volume: '37'
+pages: e23351
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires:
@@ -46,6 +53,15 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Protective role of hispolon and its derivatives against apoptosis in cortical neurons induced by electromagnetic radiation from 4G mobile phone.

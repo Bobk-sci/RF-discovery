@@ -28,6 +28,16 @@ mots_cles:
 - Human Skin Bacteria
 - 2.45 Ghz
 - Ism Frequency
+auteurs:
+- Tomar AK
+- Jha N
+- Priyadarshini E
+- Gautam R
+- Nirala JP
+- Rajamani P
+pmcid: ''
+volume: ''
+pages: 634-648
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -41,6 +51,11 @@ theme_indices:
 - ROS
 - malondialdehyde
 - lipid peroxidation
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Effects of industrial, scientific, and medical (ISM) band frequency 2.45 GHz on membrane integrity and oxidative stress of human skin bacteria.

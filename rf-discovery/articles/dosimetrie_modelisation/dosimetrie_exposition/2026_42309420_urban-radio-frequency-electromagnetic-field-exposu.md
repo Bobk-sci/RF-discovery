@@ -19,6 +19,14 @@ types:
 mots_cles:
 - Rf-emf Exposure
 - Radio-frequency Electromagnetic Field Exposure
+auteurs:
+- Thielens A
+- Davi S
+- Hema S
+- Toledo-Crow R
+pmcid: ''
+volume: ''
+pages: '125040'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -32,6 +40,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Urban radio-frequency electromagnetic field exposure in New York City.

@@ -2,24 +2,33 @@
 pmid: '42426191'
 doi: 10.1038/s41598-026-60822-1
 annee: 2026
-journal: Scientific reports
+journal: ''
 titre: 'Environmental radiofrequency exposure and genotoxic biomarkers in schoolchildren:
   a cross-sectional analysis.'
 url: https://pubmed.ncbi.nlm.nih.gov/42426191/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
 - Journal Article
 mots_cles:
+- micronuclei
 - Environmental exposure
-- Genotoxic biomarkers
-- Micronuclei
-- Mobile phone base stations
-- Radiofrequency radiation
-- School siting
+- Radiofrequency Radiation
 - Schoolchildren
+- Mobile Phone Base Stations
+- Genotoxic Biomarkers
+- School Siting
+auteurs:
+- Chokeli R
+- Yuswir NS
+- Ho YB
+- Chiang HL
+- How V
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -34,11 +43,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - children
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Environmental radiofrequency exposure and genotoxic biomarkers in schoolchildren: a cross-sectional analysis.
 
-*Scientific reports — 2026*
+*journal non renseigné — 2026*
 
 ## Résumé (texte d'origine)
 

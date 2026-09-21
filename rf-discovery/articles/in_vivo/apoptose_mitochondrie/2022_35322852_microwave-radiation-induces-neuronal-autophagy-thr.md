@@ -27,6 +27,20 @@ mots_cles:
 - Autophagy
 - Mir-30a-5p
 - Ampk (5’-Amp Activated Kinase)
+auteurs:
+- Hao Y
+- Li W
+- Wang H
+- Zhang J
+- Wang H
+- Dong J
+- Yao B
+- Xu X
+- Zhao L
+- Peng R
+pmcid: PMC9069443
+volume: ''
+pages: BSR20212584
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -43,6 +57,14 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - autophagy
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2022
 ---
 
 # Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPKα2 signal pathway.

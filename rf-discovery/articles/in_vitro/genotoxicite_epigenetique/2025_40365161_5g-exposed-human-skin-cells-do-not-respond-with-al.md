@@ -18,6 +18,16 @@ mots_cles:
 - Electromagnetic fields
 - systems biology
 - 5G Radiofrequency
+auteurs:
+- Jyoti J
+- Gronau I
+- Cakir E
+- Hütt MT
+- Lerchl A
+- Meyer V
+pmcid: PMC12070386
+volume: ''
+pages: pgaf127
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []
@@ -29,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vitro
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # 5G-exposed human skin cells do not respond with altered gene expression and methylation profiles.

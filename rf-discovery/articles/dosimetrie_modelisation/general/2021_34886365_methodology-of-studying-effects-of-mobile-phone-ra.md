@@ -28,6 +28,13 @@ mots_cles:
 - Dosimetry
 - Mobile Phones
 - Technical Aspects
+auteurs:
+- Bartosova K
+- Neruda M
+- Vojtech L
+pmcid: PMC8656635
+volume: ''
+pages: '12642'
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:
@@ -39,6 +46,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- modele/in_vitro
+- theme/general
+- annee/2021
 ---
 
 # Methodology of Studying Effects of Mobile Phone Radiation on Organisms: Technical Aspects.

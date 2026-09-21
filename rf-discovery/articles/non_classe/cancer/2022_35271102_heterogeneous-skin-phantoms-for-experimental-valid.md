@@ -27,6 +27,12 @@ mots_cles:
 - nonsyndromic basal cell carcinoma (BCC)
 - tissue-mimicking phantoms
 - tumor
+auteurs:
+- Boparai J
+- Popović M
+pmcid: PMC8931628
+volume: '22'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -36,6 +42,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/non_classe
+- theme/cancer
+- annee/2022
 ---
 
 # Heterogeneous Skin Phantoms for Experimental Validation of Microwave-Based Diagnostic Tools.

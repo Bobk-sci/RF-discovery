@@ -138,6 +138,10 @@ def test_parse_pubmed_xml():
     papers = pubmed.parse_pubmed_xml(
         (FIX / "pubmed_efetch.xml").read_text(encoding="utf-8"))
     assert [p.pmid for p in papers] == ["31234567", "28000001"]
+    # Les collectifs sont repris tels quels : une référence doit rester citable.
+    assert papers[0].extra["authors"] == ["Durand A", "Nowak K", "Fixture Study Group"]
+    assert papers[0].extra["pages"] == "45-53"
+    assert papers[1].extra["authors"] == []
     assert papers[0].doi == "10.1000/fixture.2019.01" and papers[0].year == 2019
     assert papers[0].abstract.startswith("BACKGROUND: Pregnant Wistar rats")
     assert papers[1].year == 2017 and papers[1].doi == "" and papers[1].abstract == ""
@@ -157,6 +161,22 @@ def test_pubmed_search_pagine_et_recupere(tmp_path):
                            fetcher_text=lambda u, p: xml)
     assert [p.pmid for p in papers] == ["31234567", "28000001"]
     assert calls and calls[0]["db"] == "pubmed"
+
+
+def test_pubmed_pagination_ne_boucle_pas_sur_des_doublons():
+    """Une page entièrement dupliquée figeait `retstart` : la collecte tournait sans fin."""
+    appels: list[int] = []
+
+    def fake_json(_url, params):
+        appels.append(int(params["retstart"]))
+        if len(appels) > 20:
+            raise AssertionError("pagination bloquée : même fenêtre redemandée")
+        # Toujours les mêmes identifiants : aucun nouveau, la boucle doit s'arrêter.
+        return {"esearchresult": {"idlist": ["11", "22"]}}
+
+    ids = pubmed.search_ids("rf", max_results=100, page_size=2, fetcher_json=fake_json)
+    assert ids == ["11", "22"]
+    assert appels == [0, 2]      # le décalage avance, puis la page sans neuf arrête tout
 
 
 def test_pubmed_xml_illisible_ne_leve_pas():

@@ -27,6 +27,15 @@ mots_cles:
 - hypothalamic-pituitary-adrenal axis
 - placenta
 - pregnancy
+auteurs:
+- Kim HS
+- Choi HD
+- Pack JK
+- Kim N
+- Ahn YH
+pmcid: PMC8048814
+volume: '42'
+pages: 191-199
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -42,6 +51,13 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Biological Effects of Exposure to a Radiofrequency Electromagnetic Field on the Placental Barrier in Pregnant Rats.

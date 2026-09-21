@@ -26,6 +26,14 @@ mots_cles:
 - Microwaves
 - Morris water maze
 - Protein
+auteurs:
+- Sharma A
+- Kesari KK
+- Saxena VK
+- Sisodia R
+pmcid: ''
+volume: '435'
+pages: 1-13
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -43,6 +51,12 @@ theme_indices:
 - catalase
 - glutathione
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- annee/2017
 ---
 
 # Ten gigahertz microwave radiation impairs spatial memory, enzymes activity, and histopathology of developing mice brain.

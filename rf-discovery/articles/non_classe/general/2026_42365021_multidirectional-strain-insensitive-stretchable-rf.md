@@ -13,6 +13,24 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Yang F
+- Zhang S
+- Zhang J
+- Tong Y
+- Zhong J
+- Zheng J
+- Li J
+- Hu Y
+- Yuan Y
+- Zhu J
+- Xu K
+- Zhang C
+- Cheng H
+- Song C
+pmcid: PMC13454596
+volume: ''
+pages: '8041'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -21,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Multidirectional strain-insensitive stretchable RF electronics.

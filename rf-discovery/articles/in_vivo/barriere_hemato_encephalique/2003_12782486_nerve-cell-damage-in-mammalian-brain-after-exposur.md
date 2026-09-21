@@ -28,6 +28,15 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Salford LG
+- Brun AE
+- Eberhardt JL
+- Malmgren L
+- Persson BR
+pmcid: PMC1241519
+volume: '111'
+pages: 881-3; discussion A408
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -41,6 +50,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- annee/2003
 ---
 
 # Nerve cell damage in mammalian brain after exposure to microwaves from GSM mobile phones.

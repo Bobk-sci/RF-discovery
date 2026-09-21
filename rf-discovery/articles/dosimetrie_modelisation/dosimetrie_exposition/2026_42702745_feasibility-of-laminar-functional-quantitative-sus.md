@@ -12,6 +12,16 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Straub S
+- Zhou X
+- Tao S
+- Westerhold EM
+- Jin J
+- Middlebrooks EH
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -22,6 +32,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Feasibility of Laminar Functional Quantitative Susceptibility Mapping.

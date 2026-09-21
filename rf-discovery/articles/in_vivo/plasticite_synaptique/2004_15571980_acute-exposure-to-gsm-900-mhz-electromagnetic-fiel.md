@@ -34,6 +34,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Mausset-Bonnefont AL
+- Hirbec H
+- Bonnefont X
+- Privat A
+- Vignon J
+- de Sèze R
+pmcid: ''
+volume: '17'
+pages: 445-54
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -51,6 +61,13 @@ theme_indices:
 - neurotransmitter
 - GABA
 - NMDA
+tags:
+- rf
+- modele/in_vivo
+- theme/plasticite_synaptique
+- theme/neuroinflammation
+- theme/neuro_comportement_cognition
+- annee/2004
 ---
 
 # Acute exposure to GSM 900-MHz electromagnetic fields induces glial reactivity and biochemical modifications in the rat brain.

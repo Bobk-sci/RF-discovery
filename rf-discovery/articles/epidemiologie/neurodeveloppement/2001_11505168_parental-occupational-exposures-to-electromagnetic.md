@@ -28,6 +28,17 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
+auteurs:
+- De Roos AJ
+- Teschke K
+- Savitz DA
+- Poole C
+- Grufferman S
+- Pollock BH
+- Olshan AF
+pmcid: ''
+volume: '12'
+pages: 508-17
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:
@@ -44,6 +55,12 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2001
 ---
 
 # Parental occupational exposures to electromagnetic fields and radiation and the incidence of neuroblastoma in offspring.

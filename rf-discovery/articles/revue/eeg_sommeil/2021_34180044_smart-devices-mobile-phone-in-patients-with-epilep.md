@@ -23,6 +23,15 @@ mots_cles:
 - phone
 - radiation
 - seizure
+auteurs:
+- Asadi-Pooya AA
+- Mirzaei Damabi N
+- Rostaminejad M
+- Shahisavandi M
+- Asadi-Pooya A
+pmcid: ''
+volume: '144'
+pages: 355-365
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -37,6 +46,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/eeg_sommeil
+- annee/2021
 ---
 
 # Smart devices/mobile phone in patients with epilepsy? A systematic review.

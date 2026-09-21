@@ -14,6 +14,14 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Douhi S
+- Bahloul C
+- El Achaby M
+- Eddiai A
+pmcid: PMC13463121
+volume: ''
+pages: 47084-47097
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:
@@ -25,6 +33,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Electroactive PVDF-based composite thin films incorporating metal phosphate fillers as flexible dielectric substrates for dual-band microwave antennas.

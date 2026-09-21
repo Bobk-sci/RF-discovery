@@ -32,6 +32,21 @@ mots_cles:
 - Tryptophan Metabolism
 - Gut–brain Axis
 - Neuronal Pyroptosis
+auteurs:
+- Zhou G
+- Wang X
+- Qin T
+- Guo L
+- Lin J
+- Zhang Z
+- Gao P
+- Zhou Y
+- He W
+- Li J
+- Ding G
+pmcid: ''
+volume: ''
+pages: '138'
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -46,6 +61,11 @@ theme_secondaires: []
 theme_indices:
 - anxiety
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Gut microbiota-tryptophan-serotonin axis drives anxiety-like behavior via NLRP3-mediated neuronal pyroptosis in the medial prefrontal cortex.

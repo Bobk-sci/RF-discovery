@@ -20,6 +20,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Betzalel N
+- Feldman Y
+- Ben Ishai P
+pmcid: PMC12325998
+volume: ''
+pages: '28651'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -32,6 +39,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # The modeling of the interaction of pulsed 5G/6G signals and the fine structure of human skin.

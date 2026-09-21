@@ -21,6 +21,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Roggeveen S
+- van Os J
+- Viechtbauer W
+- Lousberg R
+pmcid: PMC4459698
+volume: '10'
+pages: e0129496
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires: []
@@ -31,6 +39,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/humain_experimental
+- theme/eeg_sommeil
+- annee/2015
 ---
 
 # EEG Changes Due to Experimentally Induced 3G Mobile Phone Radiation.

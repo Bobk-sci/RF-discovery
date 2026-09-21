@@ -24,6 +24,17 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Zhang S
+- Mo F
+- Chang Y
+- Wu S
+- Ma Q
+- Jin F
+- Xing L
+pmcid: ''
+volume: '34'
+pages: 669-678
 modele: epidemiologie
 modele_score: 1002.5
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+tags:
+- rf
+- modele/epidemiologie
+- theme/reproduction
+- annee/2022
 ---
 
 # Effects of mobile phone use on semen parameters: a cross-sectional study of 1634 men in China.

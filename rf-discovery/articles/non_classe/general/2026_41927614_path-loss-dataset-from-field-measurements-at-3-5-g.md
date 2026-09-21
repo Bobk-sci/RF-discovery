@@ -14,6 +14,13 @@ types:
 - data-paper
 - Journal Article
 mots_cles: []
+auteurs:
+- Perdomo-Reyes P
+- Galvan-Tejada GM
+- Meneses-Viveros A
+pmcid: PMC13046879
+volume: ''
+pages: '521'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +29,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Path Loss Dataset from Field Measurements at 3.5 GHz for the Fifth Generation of Wireless Communications in Indoor Environments.

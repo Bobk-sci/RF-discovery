@@ -19,6 +19,14 @@ mots_cles:
 - Human Exposure
 - 5G
 - Galvanic Skin Reflex
+auteurs:
+- Michelant L
+- Hugueville L
+- Leveque P
+- Selmaoui B
+pmcid: ''
+volume: ''
+pages: 1-10
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -28,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2026
 ---
 
 # Effects of 26 GHz radiofrequency exposure on electrodermal activity in healthy young adults.

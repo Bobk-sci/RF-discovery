@@ -29,6 +29,13 @@ mots_cles:
 - nurses
 - smartphone
 - telepressure
+auteurs:
+- Cambier R
+- Van Laethem M
+- Vlerick P
+pmcid: ''
+volume: '76'
+pages: 2618-2626
 modele: epidemiologie
 modele_score: 1002.0
 modele_secondaires: []
@@ -41,6 +48,11 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2020
 ---
 
 # Private life telepressure and workplace cognitive failure among hospital nurses: The moderating role of mobile phone presence.
@@ -49,16 +61,16 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To examine whether the presence of a mobile phone has a moderating role in the relationship between nurses' private life telepressure and workplace cognitive failure.
+AIM: To examine whether the presence of a mobile phone has a moderating role in the relationship between nurses' private life telepressure and workplace cognitive failure.
 
-Cross-sectional quantitative study using self-report questionnaires.
+DESIGN: Cross-sectional quantitative study using self-report questionnaires.
 
-Data were collected between December 2019 - January 2020. In total, 849 Registered Nurses from three Belgian hospitals completed the online survey. Data were analysed with hierarchical regression analyses and simple slope tests.
+METHODS: Data were collected between December 2019 - January 2020. In total, 849 Registered Nurses from three Belgian hospitals completed the online survey. Data were analysed with hierarchical regression analyses and simple slope tests.
 
-Overall, the positive relationship between private life telepressure and workplace cognitive failure was moderated by mobile phone presence. Specifically, the experience of private life telepressure did only relate to higher workplace cognitive failure when nurses kept their mobile phone nearby (i.e. in their pockets). Additional exploratory analyses revealed that this moderation effect only held among nurses in young adulthood and regardless of the notification settings of their mobile phone.
+RESULTS: Overall, the positive relationship between private life telepressure and workplace cognitive failure was moderated by mobile phone presence. Specifically, the experience of private life telepressure did only relate to higher workplace cognitive failure when nurses kept their mobile phone nearby (i.e. in their pockets). Additional exploratory analyses revealed that this moderation effect only held among nurses in young adulthood and regardless of the notification settings of their mobile phone.
 
-The present findings indicate the unintended risk of mobile phone presence at work as it relates to higher workplace cognitive failure in nurses who experience private life telepressure. Ensuring there are clear organizational policies and practises in place to store away personal belongings of healthcare personnel during work hours would therefore seem beneficial for hospitals.
+CONCLUSIONS: The present findings indicate the unintended risk of mobile phone presence at work as it relates to higher workplace cognitive failure in nurses who experience private life telepressure. Ensuring there are clear organizational policies and practises in place to store away personal belongings of healthcare personnel during work hours would therefore seem beneficial for hospitals.
 
-Considering the increased presence of mobile phones nowadays, a more detailed understanding is necessary on how these devices might distract personnel in a healthcare setting. The present study gives further insight into this topic and shows that in particular nurses in young adulthood who experience telepressure towards personal messages report more cognitive failure when their personal mobile phones are present, even when they do not actually use these devices. This furnishes additional evidence in support of hospitals' formal policy to forbid personal mobile phones of healthcare personnel when at work.
+IMPACT: Considering the increased presence of mobile phones nowadays, a more detailed understanding is necessary on how these devices might distract personnel in a healthcare setting. The present study gives further insight into this topic and shows that in particular nurses in young adulthood who experience telepressure towards personal messages report more cognitive failure when their personal mobile phones are present, even when they do not actually use these devices. This furnishes additional evidence in support of hospitals' formal policy to forbid personal mobile phones of healthcare personnel when at work.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32803902/)

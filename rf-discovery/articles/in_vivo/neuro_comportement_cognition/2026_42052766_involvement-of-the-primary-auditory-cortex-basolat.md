@@ -32,6 +32,20 @@ mots_cles:
 - auditory cortex
 - Fear Conditioning
 - Neural Pathways
+auteurs:
+- Cui Z
+- Shi L
+- Yang M
+- Chang C
+- Jin S
+- Hao Y
+- Zhao X
+- Lu Y
+- Li Y
+- Zuo H
+pmcid: ''
+volume: ''
+pages: '48640'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -45,6 +59,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Involvement of the Primary Auditory Cortex-Basolateral Amygdala Circuit in Altered Conditioned Fear Memory Retrieval Following Electromagnetic Field Exposure in Mice.

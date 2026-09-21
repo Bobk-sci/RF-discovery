@@ -27,6 +27,21 @@ mots_cles:
 - Microenvironment
 - Personal Exposure
 - 5G New Radio
+auteurs:
+- Jalilian H
+- Waibl VJ
+- Wipf I
+- Mootz I
+- Abend S
+- Diez NS
+- Veludo AF
+- Loizeau N
+- Dongus S
+- Guxens M
+- Röösli M
+pmcid: ''
+volume: ''
+pages: '124775'
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:
@@ -40,6 +55,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Personal radio frequency electromagnetic field exposure among Swiss adolescents in the 5G era.

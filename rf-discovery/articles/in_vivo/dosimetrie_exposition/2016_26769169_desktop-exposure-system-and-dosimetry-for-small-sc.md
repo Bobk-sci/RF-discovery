@@ -30,6 +30,16 @@ mots_cles:
 - reverberation chamber
 - thermal dosimetry
 - wireless exposure
+auteurs:
+- Gong Y
+- Capstick M
+- Tillmann T
+- Dasenbrock C
+- Samaras T
+- Kuster N
+pmcid: ''
+volume: '37'
+pages: 49-61
 modele: in_vivo
 modele_score: 1008.5
 modele_secondaires:
@@ -45,6 +55,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Desktop exposure system and dosimetry for small scale in vivo radiofrequency exposure experiments.

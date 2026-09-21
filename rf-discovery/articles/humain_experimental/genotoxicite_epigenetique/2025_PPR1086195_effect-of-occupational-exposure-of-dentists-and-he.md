@@ -13,6 +13,15 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- TUR K
+- VAROL S
+- ERBAŞ T
+- ASLAN D
+- TAN FC
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -27,6 +36,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+tags:
+- rf
+- modele/humain_experimental
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Effect of occupational exposure of dentists and healthcare personnel to electromagnetic fields on telomere length and DNA damage

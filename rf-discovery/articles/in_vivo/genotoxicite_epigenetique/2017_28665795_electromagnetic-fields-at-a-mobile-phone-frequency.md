@@ -27,6 +27,17 @@ mots_cles:
 - genotoxicity
 - immune defence
 - oxidative stress
+auteurs:
+- Bourdineaud JP
+- Šrut M
+- Štambuk A
+- Tkalec M
+- Brèthes D
+- Malarić K
+- Klobučar GIV
+pmcid: ''
+volume: '68'
+pages: 142-152
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []
@@ -40,6 +51,12 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - heat shock protein
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- annee/2017
 ---
 
 # Electromagnetic fields at a mobile phone frequency (900 MHz) trigger the onset of general stress response along with DNA modifications in Eisenia fetida earthworms.

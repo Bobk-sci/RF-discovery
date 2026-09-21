@@ -21,6 +21,17 @@ mots_cles:
 - Terahertz Spectroscopy
 - Thermophysical Properties
 - Tissue-mimicking Materials
+auteurs:
+- Reyes-Vera E
+- Furnieles C
+- Zapata Hernandez C
+- Montoya-Cardona J
+- Ortiz-Santana P
+- Botero-Valencia J
+- Araque J
+pmcid: PMC12985554
+volume: ''
+pages: '931'
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []
@@ -32,6 +43,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Multiphysical Characterization of a Tissue-Mimicking Phantom: Composition, Thermal Behavior, and Broadband Electromagnetic Properties from Visible to Terahertz and Microwave Frequencies.

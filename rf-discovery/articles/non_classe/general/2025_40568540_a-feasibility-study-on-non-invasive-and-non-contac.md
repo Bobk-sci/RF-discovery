@@ -20,6 +20,15 @@ mots_cles:
 - Noninvasive Sensing
 - Jugular Venous Pulse
 - Mmwave Sensing
+auteurs:
+- Das S
+- Afsharan H
+- Dwivedi G
+- Arrow C
+- Kavehei O
+pmcid: PMC12187424
+volume: ''
+pages: '242231'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -28,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # A feasibility study on non-invasive and non-contact jugular venous pulse measurement using 60 GHz FMCW radar.

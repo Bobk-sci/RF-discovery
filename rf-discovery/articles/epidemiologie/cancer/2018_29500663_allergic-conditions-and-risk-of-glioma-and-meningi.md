@@ -33,6 +33,20 @@ mots_cles:
 - Glioma
 - Meningioma
 - Primary central nervous system neoplasm
+auteurs:
+- Pouchieu C
+- Raherison C
+- Piel C
+- Migault L
+- Carles C
+- Fabbro-Perray P
+- Loiseau H
+- Guillamo JS
+- Lebailly P
+- Baldi I
+pmcid: ''
+volume: '138'
+pages: 271-281
 modele: epidemiologie
 modele_score: 1008.0
 modele_secondaires: []
@@ -50,6 +64,12 @@ theme_secondaires:
 theme_indices:
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- theme/neuro_comportement_cognition
+- annee/2018
 ---
 
 # Allergic conditions and risk of glioma and meningioma in the CERENAT case-control study.

@@ -19,6 +19,19 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Pulsed Magnetic Field
 - Non-thermal Biostimulation
+auteurs:
+- Elmas A
+- Asci H
+- Tepebasi MY
+- Taner R
+- Selver MB
+- Imeci O
+- Comlekci S
+- Akcam M
+- Ozmen O
+pmcid: ''
+volume: ''
+pages: 1-15
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []
@@ -33,6 +46,14 @@ theme_secondaires:
 - cancer
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- theme/thermique
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2026
 ---
 
 # Combined radiofrequency electromagnetic and pulsed magnetic field exposure enhances gastric ulcer healing via eNOS-mediated angiogenesis in young rats.

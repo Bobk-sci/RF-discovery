@@ -18,6 +18,17 @@ mots_cles:
 - Microwaves
 - Malaria
 - Irradiation System
+auteurs:
+- Rua E
+- Coronado L
+- Donado Morcillo CA
+- Correa R
+- Solís L
+- Spadafora C
+- Von Chong A
+pmcid: PMC11234006
+volume: ''
+pages: e00540
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []
@@ -27,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2024
 ---
 
 # A low-cost, portable device for the study of the malaria parasite's growth inhibition via microwave exposure.

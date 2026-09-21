@@ -27,6 +27,22 @@ mots_cles:
 - Microwave
 - Proteomic
 - Transcriptomic
+auteurs:
+- Yao C
+- Wang H
+- Sun L
+- Ren K
+- Dong J
+- Wang H
+- Zhang J
+- Xu X
+- Yao B
+- Zhou H
+- Zhao L
+- Peng R
+pmcid: PMC9735949
+volume: ''
+pages: '3849'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -42,6 +58,14 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - interleukin
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # The Biological Effects of Compound Microwave Exposure with 2.8 GHz and 9.3 GHz on Immune System: Transcriptomic and Proteomic Analysis.

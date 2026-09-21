@@ -19,6 +19,11 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Frey AH
+pmcid: PMC1533043
+volume: '106'
+pages: 101-3
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +35,11 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/barriere_hemato_encephalique
+- annee/1998
 ---
 
 # Headaches from cellular telephones: are they real and what are the implications?

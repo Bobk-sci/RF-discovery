@@ -22,6 +22,12 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Oktay MF
+- Dasdag S
+pmcid: ''
+volume: '25'
+pages: 13-21
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2006
 ---
 
 # Effects of intensive and moderate cellular phone use on hearing function.

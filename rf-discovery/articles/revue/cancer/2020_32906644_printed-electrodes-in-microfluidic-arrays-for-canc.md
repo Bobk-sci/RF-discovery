@@ -31,6 +31,14 @@ mots_cles:
 - inkjet-printed electrodes
 - protein
 - screen-printed electrodes
+auteurs:
+- Dhanapala L
+- Krause CE
+- Jones AL
+- Rusling JF
+pmcid: PMC7559629
+volume: '10'
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
@@ -42,6 +50,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/revue
+- theme/cancer
+- annee/2020
 ---
 
 # Printed Electrodes in Microfluidic Arrays for Cancer Biomarker Protein Detection.

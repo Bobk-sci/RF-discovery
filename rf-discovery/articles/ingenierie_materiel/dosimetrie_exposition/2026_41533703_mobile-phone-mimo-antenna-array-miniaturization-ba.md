@@ -18,6 +18,15 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Hou WQ
+- Li YX
+- Luo MF
+- Zhou WY
+- Lu M
+pmcid: PMC12803447
+volume: ''
+pages: e0340681
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:
@@ -30,6 +39,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Mobile phone MIMO antenna array miniaturization-based low SAR research in the combined EMF.

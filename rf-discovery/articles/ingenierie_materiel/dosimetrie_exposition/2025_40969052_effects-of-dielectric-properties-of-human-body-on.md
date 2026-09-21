@@ -26,6 +26,15 @@ mots_cles:
 - Meander Line
 - Carrier Link Margin
 - Data Link Margin
+auteurs:
+- Ghosh S
+- Ekpo SC
+- Elias F
+- Alabi S
+- Gupta B
+pmcid: PMC12158277
+volume: ''
+pages: '3498'
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:
@@ -40,6 +49,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Effects of Dielectric Properties of Human Body on Communication Link Margins and Specific Absorption Rate of Implanted Antenna System.

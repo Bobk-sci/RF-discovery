@@ -21,6 +21,13 @@ mots_cles:
 - Physics-informed Neural Network (Pinn)
 - Internet Of Bio-nano Things (Iobnt)
 - Conformal Microstrip Antenna
+auteurs:
+- Nasirishehni P
+- Jamshidi MB
+- Mehranpour M
+pmcid: ''
+volume: ''
+pages: '620'
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:
@@ -38,6 +45,14 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2026
 ---
 
 # Wideband Circularly Polarized Conformal Antenna with Physics-Informed Neural Network Modeling for IoBNT Capsule Endoscopy.

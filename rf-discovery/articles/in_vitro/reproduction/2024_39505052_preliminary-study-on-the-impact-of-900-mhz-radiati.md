@@ -30,6 +30,18 @@ mots_cles:
 - Male fertility
 - PI3K
 - Sperm parameters
+auteurs:
+- Keskin I
+- Karabulut S
+- Kaplan AA
+- Alagöz M
+- Akdeniz M
+- Tüfekci KK
+- Davis DL
+- Kaplan S
+pmcid: ''
+volume: '130'
+pages: '108744'
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -44,6 +56,13 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/reproduction
+- theme/apoptose_mitochondrie
+- annee/2024
 ---
 
 # Preliminary study on the impact of 900 MHz radiation on human sperm: An in vitro molecular approach.

@@ -26,6 +26,18 @@ mots_cles:
 - Wireless Communication
 - 2.4 Ghz Wi-fi Exposure
 - Fatty Acid Composition Of Membrane And Depot Fats
+auteurs:
+- Dasdag S
+- Akdag MZ
+- Bashan M
+- Kizmaz V
+- Erdal N
+- Emin Erdal M
+- Tughan Kiziltug M
+- Yegin K
+pmcid: ''
+volume: ''
+pages: 281-292
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -38,6 +50,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - microRNA
+tags:
+- rf
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # Role of 2.4 GHz radiofrequency radiation emitted from Wi-Fi on some miRNA and faty acids composition in brain.

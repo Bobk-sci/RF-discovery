@@ -24,6 +24,13 @@ mots_cles:
 - Plant Stem Inspection
 - Near-field Antenna
 - Tree Health Monitoring
+auteurs:
+- Elkial MM
+- Hussein KFA
+- Mustafa M
+pmcid: PMC13365473
+volume: ''
+pages: '21860'
 modele: ingenierie_materiel
 modele_score: 3.5
 modele_secondaires:
@@ -36,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Medium-adaptive wideband near-field antenna for microwave detection of internal cavities in plant stems.

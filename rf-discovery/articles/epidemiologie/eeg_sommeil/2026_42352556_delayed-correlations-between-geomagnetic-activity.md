@@ -21,6 +21,15 @@ mots_cles:
 - Geomagnetic Activity
 - Delayed Neural Effects
 - Kp Index
+auteurs:
+- Chezzi CD
+- Saroka KS
+- Branigan KS
+- Levac SJ
+- Dotta BT
+pmcid: ''
+volume: ''
+pages: '547'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -31,6 +40,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Delayed Correlations Between Geomagnetic Activity and Human EEG Alpha and Theta Oscillations: Evidence from Archival and Experimental Data.

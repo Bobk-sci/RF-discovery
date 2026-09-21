@@ -2,21 +2,28 @@
 pmid: '39218794'
 doi: 10.1111/risa.17641
 annee: 2024
-journal: ''
+journal: 'Risk analysis : an official publication of the Society for Risk Analysis'
 titre: Affective evaluation and exposure perception of everyday mobile phone usage
   situations.
 url: https://pubmed.ncbi.nlm.nih.gov/39218794/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Affective Reaction
-- Exposure Perception
 - 5G
+- affective reaction
+- exposure perception
+auteurs:
+- Link SC
+- Eggeling M
+- Abacioglu F
+- Boehmert C
+pmcid: PMC12087716
+volume: '45'
+pages: 996-1008
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -26,11 +33,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2024
 ---
 
 # Affective evaluation and exposure perception of everyday mobile phone usage situations.
 
-*journal non renseigné — 2024*
+*Risk analysis : an official publication of the Society for Risk Analysis — 2024*
 
 ## Résumé (texte d'origine)
 

@@ -13,6 +13,22 @@ mesh: []
 types:
 - Review
 mots_cles: []
+auteurs:
+- Wyde ME
+- Capstick MH
+- Hall SM
+- Hooth MJ
+- Kuster N
+- Ladbury JM
+- Roberts GK
+- Shipkowski KA
+- Shockley KR
+- Smith-Roe SL
+- Stout MD
+- Walker NJ
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -30,6 +46,16 @@ theme_secondaires:
 theme_indices:
 - carcinogenesis
 - tumor
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/cancer
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2025
 ---
 
 # Development and Testing of a Novel Whole-body Exposure System for Investigative Studies of Radiofrequency Radiation in Rodents

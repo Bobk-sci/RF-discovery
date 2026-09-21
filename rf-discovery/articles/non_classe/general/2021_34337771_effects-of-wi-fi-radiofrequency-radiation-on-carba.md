@@ -22,6 +22,16 @@ mots_cles:
 - transmission electron microscopy
 - Klebsiella Pneumonia
 - Wireless Fidelity
+auteurs:
+- Said-Salman I
+- Yassine W
+- Rammal A
+- Hneino M
+- Yusef H
+- Moustafa M
+pmcid: ''
+volume: ''
+pages: 575-582
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +40,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2021
 ---
 
 # Effects of Wi-Fi Radiofrequency Radiation on Carbapenem-Resistant Klebsiella pneumoniae.

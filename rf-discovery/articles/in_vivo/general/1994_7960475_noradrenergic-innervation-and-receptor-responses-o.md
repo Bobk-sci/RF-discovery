@@ -33,6 +33,18 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Pellegrini A
+- Soldani P
+- Paparelli A
+- Breschi MC
+- Scatizzi R
+- Nieri P
+- Campagni A
+- Del Bianchi S
+pmcid: ''
+volume: '76'
+pages: 165-75
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -44,6 +56,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/1994
 ---
 
 # Noradrenergic innervation and receptor responses of cardiovascular tissues from young and aged rats after acute microwave exposure.

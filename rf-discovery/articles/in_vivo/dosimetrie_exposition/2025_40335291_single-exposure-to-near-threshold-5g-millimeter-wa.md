@@ -28,6 +28,19 @@ mots_cles:
 - 5G
 - Stress Response Biomarkers
 - Quasi-millimeter Waves
+auteurs:
+- Matsumoto A
+- Endo I
+- Ijima E
+- Hirata A
+- Kodera S
+- Ichiba M
+- Tokiya M
+- Hikage T
+- Masuda H
+pmcid: PMC12062831
+volume: ''
+pages: '33'
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:
@@ -43,6 +56,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Single exposure to near-threshold 5G millimeter wave modifies restraint stress responses in rats.

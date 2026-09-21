@@ -29,6 +29,18 @@ mots_cles:
 - Nrf2/HO-1 pathway
 - Salvia miltiorrhiza polysaccharide
 - Structure
+auteurs:
+- Meng H
+- Wu J
+- Shen L
+- Chen G
+- Jin L
+- Yan M
+- Wan H
+- He Y
+pmcid: ''
+volume: '215'
+pages: 398-412
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -44,6 +56,12 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - Nrf2
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Microwave assisted extraction, characterization of a polysaccharide from Salvia miltiorrhiza Bunge and its antioxidant effects via ferroptosis-mediated activation of the Nrf2/HO-1 pathway.

@@ -17,6 +17,16 @@ mots_cles:
 - Aging
 - Electromagnetic Interference Shielding
 - Rolling
+auteurs:
+- Kang M
+- Kim K
+- Kim S
+- Victoria-Hernandez J
+- Letzig D
+- Yi S
+pmcid: PMC13074061
+volume: ''
+pages: '1383'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2026
 ---
 
 # Enhancing the Electromagnetic Interference Shielding Effectiveness of a AZ61 Magnesium Alloy by Deformation and Subsequent Heat Treatment.

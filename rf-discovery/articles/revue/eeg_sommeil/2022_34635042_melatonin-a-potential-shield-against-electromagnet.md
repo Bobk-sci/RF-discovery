@@ -27,6 +27,12 @@ mots_cles:
 - Antioxidant system
 - Radical Pair Mechanism
 - Electrohypersensitivity
+auteurs:
+- Jammoul M
+- Lawand N
+pmcid: PMC9608227
+volume: ''
+pages: 648-660
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -41,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - melatonin
 - circadian
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- theme/eeg_sommeil
+- theme/stress_oxydatif
+- annee/2022
 ---
 
 # Melatonin: a Potential Shield against Electromagnetic Waves.

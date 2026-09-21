@@ -26,6 +26,12 @@ mots_cles:
 - mobile phone
 - reproductive health
 - sperm
+auteurs:
+- Negi P
+- Singh R
+pmcid: ''
+volume: '40'
+pages: 92-102
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +48,14 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2021
 ---
 
 # Association between reproductive health and nonionizing radiation exposure.

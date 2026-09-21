@@ -31,6 +31,12 @@ mots_cles:
 - SA
 - SAR
 - Seoul
+auteurs:
+- Lee AK
+- Choi HD
+pmcid: ''
+volume: '234'
+pages: '116542'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -44,6 +50,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Dosimetric assessment in the brain for downlink EMF exposure in Korean mobile communication networks.

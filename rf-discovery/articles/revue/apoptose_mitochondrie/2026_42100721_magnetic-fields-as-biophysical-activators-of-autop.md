@@ -21,6 +21,17 @@ mots_cles:
 - Repetitive transcranial magnetic stimulation
 - Autophagy
 - Preclinical Models
+auteurs:
+- Emanuele E
+- Santos-Lozano A
+- López-Ortiz S
+- Khoramipour K
+- García-Chico C
+- Lista S
+- Minoretti P
+pmcid: PMC13144591
+volume: ''
+pages: '102613'
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -36,6 +47,12 @@ theme_secondaires: []
 theme_indices:
 - autophagy
 - cell death
+tags:
+- rf
+- modele/revue
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # Magnetic fields as biophysical activators of autophagy: A preclinical systematic review.

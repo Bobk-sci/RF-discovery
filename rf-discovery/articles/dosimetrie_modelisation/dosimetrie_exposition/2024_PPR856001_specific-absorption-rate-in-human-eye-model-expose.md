@@ -13,6 +13,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Shadidi ZA
+- Falih A
+- Muslim z
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.0
 modele_secondaires: []
@@ -26,6 +33,11 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Specific Absorption Rate in Human Eye Model Exposed to Mobile Phone Radiation: A FDTD Study

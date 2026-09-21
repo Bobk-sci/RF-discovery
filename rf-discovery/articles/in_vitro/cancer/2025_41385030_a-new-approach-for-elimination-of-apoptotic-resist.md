@@ -33,6 +33,14 @@ mots_cles:
 - P53 Tumor Suppressor
 - Radiofrequency Exposure
 - Alrn-6924
+auteurs:
+- Kurt B
+- Kayhan H
+- Özgür Büyükatalay E
+- Kısmalı G
+pmcid: ''
+volume: ''
+pages: '54'
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []
@@ -49,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - tumor
 - leukemia
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # A new approach for elimination of apoptotic resistance caused by MDM2/MDMX amplification in chronic lymphocytic leukemia: combination of ALRN-6924 and radiofrequency exposure.

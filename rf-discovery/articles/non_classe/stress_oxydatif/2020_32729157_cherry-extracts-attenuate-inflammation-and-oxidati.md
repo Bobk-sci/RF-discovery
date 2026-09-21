@@ -20,6 +20,16 @@ mots_cles:
 - monosodium urate crystal
 - phagocytosis
 - reactive species oxygen
+auteurs:
+- Vírgen Gen JJ
+- Guzmán-Gerónimo RI
+- Martínez-Flores K
+- Martínez-Nava GA
+- Fernández-Torres J
+- Zamudio-Cuevas Y
+pmcid: ''
+volume: '44'
+pages: e13403
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -32,6 +42,11 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - antioxidant
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Cherry extracts attenuate inflammation and oxidative stress triggered by monosodium urate crystals in THP-1 cells.

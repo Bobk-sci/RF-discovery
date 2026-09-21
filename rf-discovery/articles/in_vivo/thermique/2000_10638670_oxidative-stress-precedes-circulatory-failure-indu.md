@@ -29,6 +29,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Kalns J
+- Ryan KL
+- Mason PA
+- Bruno JG
+- Gooden R
+- Kiel JL
+pmcid: ''
+volume: '13'
+pages: 52-9
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -46,6 +56,13 @@ theme_indices:
 - hyperthermia
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/stress_oxydatif
+- annee/2000
 ---
 
 # Oxidative stress precedes circulatory failure induced by 35-GHz microwave heating.

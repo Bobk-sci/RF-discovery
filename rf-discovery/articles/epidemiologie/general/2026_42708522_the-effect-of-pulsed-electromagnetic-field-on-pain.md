@@ -32,6 +32,13 @@ mots_cles:
 - Pain
 - Plantar Fasciitis
 - Pulsed Electromagnetic Field
+auteurs:
+- Arani ZSY
+- Taheri N
+- Tarrahi MJ
+pmcid: PMC13552193
+volume: ''
+pages: e70061
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -41,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2026
 ---
 
 # The Effect of Pulsed Electromagnetic Field on Pain and Foot Function Index in Patients With Plantar Fasciitis.

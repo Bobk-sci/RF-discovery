@@ -21,6 +21,17 @@ mots_cles:
 - Chicken embryo
 - mesonephros
 - Wi-fi
+auteurs:
+- Almášiová V
+- Andrašková S
+- Karaffová V
+- Hudáková P
+- Molnár J
+- Tóth Š
+- Holovská K
+pmcid: PMC12152066
+volume: ''
+pages: '216'
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -34,6 +45,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - embryo
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # The influence of Wi-Fi on the mesonephros in the 9-day-old chicken embryo.

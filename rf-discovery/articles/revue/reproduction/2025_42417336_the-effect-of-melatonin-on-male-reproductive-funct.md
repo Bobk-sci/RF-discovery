@@ -25,6 +25,14 @@ mots_cles:
 - Melatonin
 - Oxidative stress
 - Male infertility
+auteurs:
+- Neymark A I
+- Davydov A V
+- Yakovlev A V
+- Yershov A V
+pmcid: ''
+volume: ''
+pages: 128-133
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -41,6 +49,14 @@ theme_indices:
 - sperm
 - spermatozoa
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2025
 ---
 
 # [The effect of melatonin on male reproductive function (indicators of ejaculate)].

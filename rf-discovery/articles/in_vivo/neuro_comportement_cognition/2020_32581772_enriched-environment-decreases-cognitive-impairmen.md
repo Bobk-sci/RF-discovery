@@ -18,6 +18,15 @@ mots_cles:
 - mobile phone exposure
 - offspring
 - prenatal
+auteurs:
+- Hong S
+- Huang H
+- Yang M
+- Wu H
+- Wang L
+pmcid: PMC7287020
+volume: '12'
+pages: '162'
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -37,6 +46,13 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/plasticite_synaptique
+- annee/2020
 ---
 
 # Enriched Environment Decreases Cognitive Impairment in Elderly Rats With Prenatal Mobile Phone Exposure.

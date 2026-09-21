@@ -22,6 +22,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Zeleke BM
+- Brzozek C
+- Bhatt CR
+- Abramson MJ
+- Freudenstein F
+- Croft RJ
+- Wiedemann PM
+- Benke G
+pmcid: PMC9173639
+volume: '17'
+pages: e0269457
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []
@@ -36,6 +48,12 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - behaviour
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- annee/2022
 ---
 
 # Mobile phone carrying locations and risk perception of men: A cross-sectional study.

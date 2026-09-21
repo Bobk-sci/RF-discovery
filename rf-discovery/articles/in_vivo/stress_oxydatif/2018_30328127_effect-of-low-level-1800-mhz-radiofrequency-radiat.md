@@ -27,6 +27,20 @@ mots_cles:
 - paricalcitol
 - radiofrequency radiation
 - sciatic nerve
+auteurs:
+- Comelekoglu U
+- Aktas S
+- Demirbag B
+- Karagul MI
+- Yalin S
+- Yildirim M
+- Akar A
+- Korunur Engiz B
+- Sogut F
+- Ozbay E
+pmcid: ''
+volume: '39'
+pages: 631-643
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -42,6 +56,11 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - catalase
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2018
 ---
 
 # Effect of low-level 1800 MHz radiofrequency radiation on the rat sciatic nerve and the protective role of paricalcitol.

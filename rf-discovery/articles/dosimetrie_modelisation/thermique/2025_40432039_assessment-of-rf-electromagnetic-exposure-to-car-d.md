@@ -19,6 +19,12 @@ mots_cles:
 - Electromagnetic Exposure
 - V2v Communications
 - Monopole Array Antenna
+auteurs:
+- Wang S
+- Lu M
+pmcid: PMC12116098
+volume: ''
+pages: '3247'
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -32,6 +38,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Assessment of RF Electromagnetic Exposure to Car Driver from Monopole Array Antennas in V2V Communications Considering Thermal Characteristics.

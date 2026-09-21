@@ -29,6 +29,15 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Lönn S
+- Ahlbom A
+- Hall P
+- Feychting M
+- Swedish Interphone Study Group
+pmcid: ''
+volume: '161'
+pages: 526-35
 modele: epidemiologie
 modele_score: 1007.0
 modele_secondaires: []
@@ -46,6 +55,11 @@ theme_indices:
 - tumor
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2005
 ---
 
 # Long-term mobile phone use and brain tumor risk.

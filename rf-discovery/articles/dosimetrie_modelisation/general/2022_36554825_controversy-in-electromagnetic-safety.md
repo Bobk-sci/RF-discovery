@@ -2,29 +2,33 @@
 pmid: '36554825'
 doi: 10.3390/ijerph192416942
 annee: 2022
-journal: ''
+journal: International journal of environmental research and public health
 titre: Controversy in Electromagnetic Safety.
 url: https://pubmed.ncbi.nlm.nih.gov/36554825/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
 - Humans
 - Environmental Exposure
-- Electromagnetic Fields
 - Radio Waves
+- Electromagnetic Fields
 types:
-- other
 - Journal Article
 mots_cles:
-- Safety
-- Research
-- Biological effects
-- Regulations
-- Electromagnetic fields
+- biological effects
+- electromagnetic fields
+- health effects
+- regulations
+- research
+- risk communication
+- safety
 - standards
-- Risk Communication
-- Health Effects
+auteurs:
+- Chou CK
+pmcid: PMC9778992
+volume: '19'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -34,11 +38,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2022
 ---
 
 # Controversy in Electromagnetic Safety.
 
-*journal non renseigné — 2022*
+*International journal of environmental research and public health — 2022*
 
 ## Résumé (texte d'origine)
 

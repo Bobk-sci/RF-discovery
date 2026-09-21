@@ -18,6 +18,14 @@ mots_cles:
 - micronuclei
 - Buccal Mucosa
 - Cell Phone
+auteurs:
+- Kadeh H
+- Saravani S
+- Moradi M
+- Alimanesh N
+pmcid: PMC10084556
+volume: ''
+pages: 118-124
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - genotoxicity
 - micronucleus
+tags:
+- rf
+- modele/epidemiologie
+- theme/genotoxicite_epigenetique
+- theme/cancer
+- annee/2023
 ---
 
 # A Comparative Evaluation of the Genotoxic Effects of Mobile Phone Radiation Using Buccal Micronucleus Assay.

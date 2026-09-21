@@ -27,6 +27,16 @@ mots_cles:
 - Brdu Assay
 - Mobile Phone Radiation
 - Radiofrequency Electromagnetic Radiation (Rf-emr)
+auteurs:
+- Jangid P
+- Rai U
+- Sevak JK
+- Ranjan R
+- Singh S
+- Singh R
+pmcid: PMC13171912
+volume: ''
+pages: '14999'
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:
@@ -43,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - testicular
 - reproductive
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/reproduction
+- theme/thermique
+- annee/2026
 ---
 
 # Radiofrequency radiation-induced changes in Leydig cell function.

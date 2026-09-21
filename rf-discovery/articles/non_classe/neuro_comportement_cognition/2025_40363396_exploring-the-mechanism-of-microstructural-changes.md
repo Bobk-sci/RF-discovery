@@ -19,6 +19,14 @@ mots_cles:
 - C-s-h
 - Microwave Curing
 - Uhpc
+auteurs:
+- Chen J
+- Yu K
+- Li S
+- Liu D
+pmcid: PMC12073028
+volume: ''
+pages: '1892'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -29,6 +37,12 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/thermique
+- annee/2025
 ---
 
 # Exploring the Mechanism of Microstructural Changes in Ultra-High-Performance Concrete Under Microwave Influence: Experiments and Molecular Dynamics Simulation.

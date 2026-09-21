@@ -18,6 +18,17 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Ali U
+- Ullah S
+- Basir A
+- Yan S
+- Ren H
+- Kamal B
+- Matekovits L
+pmcid: PMC11315293
+volume: ''
+pages: e0306737
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:
@@ -30,6 +41,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Design and performance investigation of metamaterial-inspired dual band antenna for WBAN applications.

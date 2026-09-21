@@ -22,6 +22,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Tekam CKS
+- Kumari P
+- Sahi AK
+- Gundu S
+- Mahto SK
+pmcid: ''
+volume: ''
+pages: 1108-1124
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires: []
@@ -36,6 +45,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- annee/2025
 ---
 
 # Effects of 50 Hz extremely low-frequency magnetic field exposure on proliferative activity in cancer cells: an in vitro study.

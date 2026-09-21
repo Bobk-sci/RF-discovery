@@ -33,6 +33,21 @@ mots_cles:
 - Low dose chronic exposure
 - Oxidative stress
 - Radiofrequency electromagnetic fields, RF-EMF
+auteurs:
+- Gulati S
+- Mosgoeller W
+- Moldan D
+- Kosik P
+- Durdik M
+- Jakl L
+- Skorvaga M
+- Markova E
+- Kochanova D
+- Vigasova K
+- Belyaev I
+pmcid: ''
+volume: '279'
+pages: '116486'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -44,6 +59,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/non_classe
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2024
 ---
 
 # Evaluation of oxidative stress and genetic instability among residents near mobile phone base stations in Germany.

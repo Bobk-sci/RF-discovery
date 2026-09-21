@@ -27,6 +27,16 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Mori I
+- Ozaki T
+- Tabuse K
+- Utsunomiya H
+- Taniguchi E
+- Kakudo K
+pmcid: ''
+volume: '59'
+pages: 294-9
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -41,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- theme/apoptose_mitochondrie
+- theme/cancer
+- annee/2009
 ---
 
 # Microwave cell death: molecular analysis using DNA electrophoresis, PCR amplification and TUNEL.

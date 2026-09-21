@@ -23,6 +23,17 @@ mots_cles:
 - exposure limits
 - radiofrequency electromagnetic fields
 - small cell
+auteurs:
+- Aerts S
+- Deprez K
+- Verloock L
+- Olsen RG
+- Martens L
+- Tran P
+- Joseph W
+pmcid: PMC10051828
+volume: '23'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []
@@ -36,6 +47,11 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # RF-EMF Exposure near 5G NR Small Cells.

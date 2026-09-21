@@ -28,6 +28,15 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Polynomial Chaos Expansion
 - Deterministic Simulation
+auteurs:
+- Jiang Y
+- Wang H
+- Sun X
+- Li C
+- Wu T
+pmcid: ''
+volume: ''
+pages: 40445-40460
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires:
@@ -43,6 +52,13 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/dosimetrie_exposition
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Evaluation of Chinese populational exposure to environmental electromagnetic field based on stochastic dosimetry and parametric human modelling.

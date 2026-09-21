@@ -31,6 +31,17 @@ mots_cles:
 - Nanoparticles
 - Microwave Sensing
 - Ferrites
+auteurs:
+- Wilson AJ
+- Cressey PB
+- Ghavami N
+- Carter-Searjeant S
+- Green M
+- Kosmas P
+- Thanou M
+pmcid: PMC12068346
+volume: ''
+pages: 1139-1148
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:
@@ -46,6 +57,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - tumour
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- theme/cancer
+- theme/thermique
+- annee/2025
 ---
 
 # Nanomaterials as electromagnetic sensors for tumour detection.

@@ -26,6 +26,17 @@ mots_cles:
 - local heating
 - millimeter waves
 - thermal dosimetry
+auteurs:
+- Orlacchio R
+- Zhadobov M
+- Alekseev SI
+- Nikolayev D
+- Sauleau R
+- Le Page Y
+- Le Dréan Y
+pmcid: ''
+volume: '40'
+pages: 553-568
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires:
@@ -41,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2019
 ---
 
 # Millimeter-Wave Heating in In Vitro Studies: Effect of Convection in Continuous and Pulse-Modulated Regimes.

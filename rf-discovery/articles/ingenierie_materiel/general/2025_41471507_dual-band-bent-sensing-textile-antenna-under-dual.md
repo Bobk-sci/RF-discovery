@@ -18,6 +18,18 @@ mots_cles:
 - Bent Sensing
 - Dual-mode Resonance
 - Microstrip Patch Antenna
+auteurs:
+- Liu ZQ
+- Chen N
+- Ma K
+- Luo YC
+- Mao XH
+- Qi JC
+- Li XH
+- Lu WJ
+pmcid: PMC12736855
+volume: ''
+pages: '7511'
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires: []
@@ -29,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/general
+- annee/2025
 ---
 
 # Dual-Band Bent Sensing Textile Antenna Under Dual-Mode Resonance.

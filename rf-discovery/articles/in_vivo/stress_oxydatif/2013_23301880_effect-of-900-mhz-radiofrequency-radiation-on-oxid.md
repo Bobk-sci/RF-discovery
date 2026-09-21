@@ -30,6 +30,14 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Bilgici B
+- Akar A
+- Avci B
+- Tuncel OK
+pmcid: ''
+volume: '32'
+pages: 20-9
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -49,6 +57,13 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2013
 ---
 
 # Effect of 900 MHz radiofrequency radiation on oxidative stress in rat brain and serum.

@@ -29,6 +29,18 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Takebayashi T
+- Varsier N
+- Kikuchi Y
+- Wake K
+- Taki M
+- Watanabe S
+- Akiba S
+- Yamaguchi N
+pmcid: PMC2243154
+volume: '98'
+pages: 652-9
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:
@@ -46,6 +58,13 @@ theme_indices:
 - tumour
 - glioma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2008
 ---
 
 # Mobile phone use, exposure to radiofrequency electromagnetic field, and brain tumour: a case-control study.

@@ -25,6 +25,16 @@ mots_cles:
 - microwave irradiation
 - Biofilm Disinfection
 - Medical Device Sterilization
+auteurs:
+- Ben H
+- Agarwal H
+- Gurnani B
+- Pradhan AA
+- Khan AA
+- Jain N
+pmcid: PMC12669098
+volume: ''
+pages: '1670237'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -35,6 +45,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell viability
+tags:
+- rf
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Breaking the barrier: disruption of bacterial biofilms using microwave radiation.

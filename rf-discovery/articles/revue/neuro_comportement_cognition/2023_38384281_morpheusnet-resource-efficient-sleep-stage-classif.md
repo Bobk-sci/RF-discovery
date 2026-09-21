@@ -17,6 +17,18 @@ mots_cles:
 - SSC
 - deep learning
 - resource efficient
+auteurs:
+- Kavoosi A
+- Mitchell MP
+- Kariyawasam R
+- Fleming JE
+- Lewis P
+- Johansen-Berg H
+- Cagnan H
+- Denison T
+pmcid: PMC7615658
+volume: '2023'
+pages: 2315-2320
 modele: revue
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +42,12 @@ theme_indices:
 - memory
 - learning
 - attention
+tags:
+- rf
+- modele/revue
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2023
 ---
 
 # MorpheusNet: Resource efficient sleep stage classifier for embedded on-line systems.

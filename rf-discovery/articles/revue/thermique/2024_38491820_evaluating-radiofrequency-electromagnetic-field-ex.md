@@ -21,6 +21,12 @@ types:
 - Systematic Review
 - Journal Article
 mots_cles: []
+auteurs:
+- Ahsan Ashraf M
+- Celik T
+pmcid: PMC11033578
+volume: ''
+pages: 598-616
 modele: revue
 modele_score: 1005.0
 modele_secondaires:
@@ -36,6 +42,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Evaluating radiofrequency electromagnetic field exposure in confined spaces: a systematic review of recent studies and future directions.

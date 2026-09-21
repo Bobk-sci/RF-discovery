@@ -20,6 +20,18 @@ mots_cles:
 - Hybrid Implicit–Explicit
 - Single-Field Finite Difference Time-Domain
 - Weakly Conditional Stability
+auteurs:
+- Qi Y
+- Liang W
+- Hu Y
+- Zhang L
+- You C
+- Zhang Y
+- Yan T
+- Zheng H
+pmcid: PMC12029290
+volume: ''
+pages: '489'
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:
@@ -32,6 +44,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # A Single-Field Finite Difference Time-Domain Method Verified Using a Novel Antenna Design with an Artificial Magnetic Conductor Enhanced Structure.

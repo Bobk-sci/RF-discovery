@@ -2,34 +2,47 @@
 pmid: '32575398'
 doi: 10.3390/ijerph17124401
 annee: 2020
-journal: International journal of environmental research and public health
+journal: ''
 titre: Evaluation of Inflammation by Cytokine Production Following Combined Exposure
   to Ultraviolet and Radiofrequency Radiation of Mobile Phones on 3D Reconstructed
   Human Skin In Vitro.
 url: https://pubmed.ncbi.nlm.nih.gov/32575398/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Cell Phone
-- Cytokines
+- Skin
 - Humans
 - Inflammation
-- Models, Biological
-- Radio Waves
-- Skin
+- Cytokines
 - Ultraviolet Rays
+- Radio Waves
+- Models, Biological
+- Cell Phone
 types:
-- Journal Article
 - Research Support, Non-U.S. Gov't
+- research-article
+- Journal Article
 mots_cles:
+- Ultraviolet radiation
+- Mobile phone
+- Adaptive response
+- Radiofrequency
+- SKin
+- Combined Exposure
 - 3G
-- adaptive response
-- combined exposure
-- mobile phone
-- radiofrequency
-- skin
-- ultraviolet radiation
+auteurs:
+- Szilágyi Z
+- Németh Z
+- Bakos J
+- Necz PP
+- Sáfár A
+- Kubinyi G
+- Selmaoui B
+- Thuróczy G
+pmcid: PMC7344923
+volume: ''
+pages: E4401
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:
@@ -42,11 +55,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cytokine
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Evaluation of Inflammation by Cytokine Production Following Combined Exposure to Ultraviolet and Radiofrequency Radiation of Mobile Phones on 3D Reconstructed Human Skin In Vitro.
 
-*International journal of environmental research and public health — 2020*
+*journal non renseigné — 2020*
 
 ## Résumé (texte d'origine)
 

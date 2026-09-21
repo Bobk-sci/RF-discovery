@@ -26,6 +26,14 @@ mots_cles:
 - mobile phone
 - parkinsonism
 - sleep visuospatial ability
+auteurs:
+- Tuteja D
+- Arun Kumar N
+- Pai DS
+- Kunal K
+pmcid: ''
+volume: '32'
+pages: 33-37
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -37,6 +45,12 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Effect of mobile phone usage on cognitive functions, sleep pattern, visuospatial ability in Parkinsons patients; a possible correlation with onset of clinical symptoms.
@@ -45,12 +59,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-The global increase in various neurological disorders is a serious problem to be concerned. This study mainly focused on the changes in cognitive impairment, sleep pattern, visuospatial ability in the Parkinson's disease (PD) and its possible association with the usage of smartphones durations.
+OBJECTIVES: The global increase in various neurological disorders is a serious problem to be concerned. This study mainly focused on the changes in cognitive impairment, sleep pattern, visuospatial ability in the Parkinson's disease (PD) and its possible association with the usage of smartphones durations.
 
-Parkinson's patients (40-60 years) visiting neurology clinics were included in this study. Based on their age the grouping was designed as Group I (>60) and Group II (40-60 years). All the patients were evaluated for the various motor symptoms in the presence of a neurologist and graded accordingly. The non-motor symptoms included the analysis cognitive function and sleep patterns. The mobile phone usage time was also collected. The Hoehn and Yahr system was used as assessment tool for gradations of PD signs.
+METHODS: Parkinson's patients (40-60 years) visiting neurology clinics were included in this study. Based on their age the grouping was designed as Group I (>60) and Group II (40-60 years). All the patients were evaluated for the various motor symptoms in the presence of a neurologist and graded accordingly. The non-motor symptoms included the analysis cognitive function and sleep patterns. The mobile phone usage time was also collected. The Hoehn and Yahr system was used as assessment tool for gradations of PD signs.
 
-Duration of mobile phone usage in the Parkinson's patients ranging from 45-60 year was more when compared to the patients aged more than 60 years. The usage of mobile phone did not show significant variation on severity of motor symptoms and cognitive functions. Increased incidence of sleep deprivation was observed in the PD patients aged 40-60 years. Increased usage of mobile phone has been inversely associated with the increased progression of the Parkinson's disease.
+RESULTS: Duration of mobile phone usage in the Parkinson's patients ranging from 45-60 year was more when compared to the patients aged more than 60 years. The usage of mobile phone did not show significant variation on severity of motor symptoms and cognitive functions. Increased incidence of sleep deprivation was observed in the PD patients aged 40-60 years. Increased usage of mobile phone has been inversely associated with the increased progression of the Parkinson's disease.
 
-The present study pointed out the significant association of mobile phone usage with the early onset of Parkinsonism.
+CONCLUSION: The present study pointed out the significant association of mobile phone usage with the early onset of Parkinsonism.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33155995/)

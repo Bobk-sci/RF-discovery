@@ -19,6 +19,15 @@ mots_cles:
 - Circular Polarization (Cp)
 - Industrial, Scientific, And Medical (Ism)
 - Ultra-miniaturized
+auteurs:
+- A Chandran A
+- Kanagasabai M
+- Subbaraj S
+- Mohammed GNA
+- Palaniswamy SK
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:
@@ -33,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # An ultra-miniaturized dual-band circularly polarized implantable antenna for neuromuscular prosthetic interfaces.

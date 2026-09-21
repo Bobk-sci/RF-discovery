@@ -36,6 +36,12 @@ mots_cles:
 - incidence
 - Time Trends
 - Seer
+auteurs:
+- Zhang L
+- Muscat JE
+pmcid: PMC12193503
+volume: ''
+pages: '933'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -49,6 +55,12 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/epidemiologie
+- theme/neurodeveloppement
+- theme/cancer
+- annee/2025
 ---
 
 # Trends in Malignant and Benign Brain Tumor Incidence and Mobile Phone Use in the U.S. (2000-2021): A SEER-Based Study.

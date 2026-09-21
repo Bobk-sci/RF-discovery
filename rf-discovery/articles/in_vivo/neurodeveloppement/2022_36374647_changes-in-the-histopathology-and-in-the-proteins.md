@@ -31,6 +31,16 @@ mots_cles:
 - ERK1/2
 - MAPK
 - Pre and postnatal exposure
+auteurs:
+- Tan B
+- Canturk Tan F
+- Yalcin B
+- Dasdag S
+- Yegin K
+- Yay AH
+pmcid: ''
+volume: '126'
+pages: '102187'
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []
@@ -51,6 +61,13 @@ theme_indices:
 - brain development
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2022
 ---
 
 # Changes in the histopathology and in the proteins related to the MAPK pathway in the brains of rats exposed to pre and postnatal radiofrequency radiation over four generations.

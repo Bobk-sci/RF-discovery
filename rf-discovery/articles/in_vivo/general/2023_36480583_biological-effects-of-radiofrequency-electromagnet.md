@@ -16,6 +16,16 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Pophof B
+- Henschenmacher B
+- Kattnig DR
+- Kuhne J
+- Vian A
+- Ziegelberger G
+pmcid: PMC9722376
+volume: ''
+pages: 31-38
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []
@@ -25,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2023
 ---
 
 # Biological Effects of Radiofrequency Electromagnetic Fields above 100 MHz on Fauna and Flora: Workshop Report.

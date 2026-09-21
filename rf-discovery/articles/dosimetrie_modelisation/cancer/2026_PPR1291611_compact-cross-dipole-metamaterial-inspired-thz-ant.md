@@ -13,6 +13,11 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- G SM
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -25,6 +30,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Compact Cross Dipole Metamaterial-Inspired THz Antenna for Non-invasive early Breast Tumor Detection

@@ -32,6 +32,16 @@ mots_cles:
 - Cognitive Performance
 - Digital Radio
 - Rf-emf Exposure
+auteurs:
+- Sauter C
+- Dorn H
+- Bueno-Lopez A
+- Eggert T
+- Schmid G
+- Danker-Hopfe H
+pmcid: ''
+volume: ''
+pages: '122479'
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires:
@@ -47,6 +57,12 @@ theme_indices:
 - cognitive
 - memory
 - attention
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Effects of radiofrequency electromagnetic fields on cognitive function in elderly subjects (60+ years)-Results of an experimental randomized sham controlled double-blind cross-over study in women and in men.

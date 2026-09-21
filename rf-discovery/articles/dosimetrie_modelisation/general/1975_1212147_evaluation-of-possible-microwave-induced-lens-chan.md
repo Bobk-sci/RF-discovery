@@ -20,6 +20,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Shacklett DE
+- Tredici TJ
+- Epstein DL
+pmcid: ''
+volume: '46'
+pages: 1403-6
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -29,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/1975
 ---
 
 # Evaluation of possible microwave-induced lens changes in the United States Air Force.

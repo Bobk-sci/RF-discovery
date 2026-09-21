@@ -33,6 +33,16 @@ mots_cles:
 - Amyotrophic Lateral Sclerosis
 - neuroinflammation
 - Rna-seq
+auteurs:
+- Lameth J
+- Arnaud-Cormos D
+- Lévêque P
+- Boillée S
+- Edeline JM
+- Mallat M
+pmcid: PMC7223958
+volume: ''
+pages: 105-123
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:
@@ -50,6 +60,14 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neuroinflammation
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Effects of a Single Head Exposure to GSM-1800 MHz Signals on the Transcriptome Profile in the Rat Cerebral Cortex: Enhanced Gene Responses Under Proinflammatory Conditions.

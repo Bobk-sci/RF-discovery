@@ -26,6 +26,19 @@ mots_cles:
 - attocells
 - compliance
 - radiofrequency
+auteurs:
+- Thielens A
+- Vermeeren G
+- Caytan O
+- Torfs G
+- Demeester P
+- Bauwelinck J
+- Rogier H
+- Martens L
+- Joseph W
+pmcid: ''
+volume: '38'
+pages: 295-306
 modele: dosimetrie_modelisation
 modele_score: 8.0
 modele_secondaires: []
@@ -45,6 +58,11 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - compliance
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Radiofrequency exposure near an attocell as part of an ultra-high density access network.
@@ -53,6 +71,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-In the future, wireless radiofrequency (RF) telecommunications networks will provide users with gigabit-per-second data rates. Therefore, these networks are evolving toward hybrid networks, which will include commonly used macro- and microcells in combination with local ultra-high density access networks consisting of so-called attocells. The use of attocells requires a proper compliance assessment of exposure to RF electromagnetic radiation. This paper presents, for the first time, such a compliance assessment of an attocell operating at 3.5 GHz with an input power of 1 mW, based on both root-mean-squared electric field strength (E) and peak 10 g-averaged specific absorption rate (SAR) values. The Evalues near the attocell were determined using finite-difference time-domain (FDTD) simulations and measurements by a tri-axial probe. They were compared to the International Commission on Non-Ionizing Radiation Protection's (ICNIRP) reference levels. All measured and simulated Evalues above the attocell were below 5.9 V/m and lower than reference levels. The SARvalues were measured in a homogeneous phantom, which resulted in an SARof 9.7 mW/kg, and used FDTD simulations, which resulted in an SARof 7.2 mW/kg. FDTD simulations of realistic exposure situations were executed using a heterogeneous phantom, which yielded SARvalues lower than 2.8 mW/kg. The studied dosimetric quantities were in compliance with ICNIRP guidelines when the attocell was fed an input power <1 mW. The deployment of attocells is thus a feasible solution for providing broadband data transmission without drastically increasing personal RF exposure. Bioelectromagnetics. 38:295-306, 2017. © 2017 Wiley Periodicals, Inc.
+In the future, wireless radiofrequency (RF) telecommunications networks will provide users with gigabit-per-second data rates. Therefore, these networks are evolving toward hybrid networks, which will include commonly used macro- and microcells in combination with local ultra-high density access networks consisting of so-called attocells. The use of attocells requires a proper compliance assessment of exposure to RF electromagnetic radiation. This paper presents, for the first time, such a compliance assessment of an attocell operating at 3.5 GHz with an input power of 1 mW, based on both root-mean-squared electric field strength (Erms ) and peak 10 g-averaged specific absorption rate (SAR10g ) values. The Erms values near the attocell were determined using finite-difference time-domain (FDTD) simulations and measurements by a tri-axial probe. They were compared to the International Commission on Non-Ionizing Radiation Protection's (ICNIRP) reference levels. All measured and simulated Erms values above the attocell were below 5.9 V/m and lower than reference levels. The SAR10g values were measured in a homogeneous phantom, which resulted in an SAR10g of 9.7 mW/kg, and used FDTD simulations, which resulted in an SAR10g of 7.2 mW/kg. FDTD simulations of realistic exposure situations were executed using a heterogeneous phantom, which yielded SAR10g values lower than 2.8 mW/kg. The studied dosimetric quantities were in compliance with ICNIRP guidelines when the attocell was fed an input power <1 mW. The deployment of attocells is thus a feasible solution for providing broadband data transmission without drastically increasing personal RF exposure. Bioelectromagnetics. 38:295-306, 2017. © 2017 Wiley Periodicals, Inc.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/28240792/)

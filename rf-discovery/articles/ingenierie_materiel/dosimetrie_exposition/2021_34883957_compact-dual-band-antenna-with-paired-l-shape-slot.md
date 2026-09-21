@@ -24,6 +24,14 @@ mots_cles:
 - Dual-band
 - Ism Band
 - On/Off-Body
+auteurs:
+- Ahmad S
+- Ghaffar A
+- Hussain N
+- Kim N
+pmcid: PMC8659880
+volume: ''
+pages: '7953'
 modele: ingenierie_materiel
 modele_score: 2.5
 modele_secondaires:
@@ -35,6 +43,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Compact Dual-Band Antenna with Paired L-Shape Slots for On- and Off-Body Wireless Communication.

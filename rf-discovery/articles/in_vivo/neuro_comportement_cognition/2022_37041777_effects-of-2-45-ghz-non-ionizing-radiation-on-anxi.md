@@ -20,6 +20,16 @@ mots_cles:
 - Gene Expression
 - Elevated Plus Maze
 - Non-ionizing Electromagnetic Radiation
+auteurs:
+- Tarsaei M
+- Peyrovan ZS
+- Mahdavi SM
+- Modarresi Chahardehi A
+- Vafaee R
+- Haidari MH
+pmcid: PMC10082913
+volume: ''
+pages: e56
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []
@@ -39,6 +49,13 @@ theme_indices:
 - cognitive
 - memory
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Effects of 2.45 GHz Non-Ionizing Radiation on Anxiety-Like Behavior, Gene Expression, and Corticosterone Level in Male Rats.

@@ -14,6 +14,13 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Horikoshi S
+- Hachisuga N
+- Serpone N
+pmcid: PMC11413734
+volume: ''
+pages: 29955-29964
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -23,6 +30,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2024
 ---
 
 # Recycling of e-waste power cables using microwave-induced pyrolysis - process characteristics and facile recovery of copper metal.

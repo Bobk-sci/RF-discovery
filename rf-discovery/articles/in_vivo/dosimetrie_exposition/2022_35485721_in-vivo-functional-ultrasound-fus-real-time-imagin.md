@@ -24,6 +24,17 @@ mots_cles:
 - functional ultrasound (fUS) imaging
 - in vivo exposure
 - mobile phones
+auteurs:
+- Orlacchio R
+- Percherancier Y
+- Poulletier De Gannes F
+- Hurtier A
+- Lagroye I
+- Leveque P
+- Arnaud-Cormos D
+pmcid: ''
+volume: '43'
+pages: 257-267
 modele: in_vivo
 modele_score: 1007.0
 modele_secondaires:
@@ -38,6 +49,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # In Vivo Functional Ultrasound (fUS) Real-Time Imaging and Dosimetry of Mice Brain Under Radiofrequency Exposure.

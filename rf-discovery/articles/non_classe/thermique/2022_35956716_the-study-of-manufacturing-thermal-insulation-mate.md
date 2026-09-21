@@ -21,6 +21,17 @@ mots_cles:
 - Microwave Technology
 - Liquid Glass
 - Composite Thermal Insulation Material
+auteurs:
+- Rymar T
+- Tatarchenko H
+- Fomin O
+- Píštěk V
+- Kučera P
+- Beran M
+- Burlutskyy O
+pmcid: PMC9370901
+volume: ''
+pages: '3202'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +42,11 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2022
 ---
 
 # The Study of Manufacturing Thermal Insulation Materials Based on Inorganic Polymers under Microwave Exposure.

@@ -26,6 +26,12 @@ mots_cles:
 - Autoregressive cross-lagged modeling
 - Mobile phone dependence
 - School adaptation
+auteurs:
+- Choe C
+- Yu S
+pmcid: ''
+volume: '228'
+pages: '103628'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -37,6 +43,11 @@ theme_indices:
 - child
 - children
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # The reciprocal relationship between mobile phone dependence and school adaptation in Korean adolescents: Autoregressive cross-lagged modeling.

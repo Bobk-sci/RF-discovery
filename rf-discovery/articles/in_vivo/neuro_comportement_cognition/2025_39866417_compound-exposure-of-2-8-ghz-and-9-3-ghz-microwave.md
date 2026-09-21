@@ -20,6 +20,23 @@ mots_cles:
 - Microwave
 - Memory Function
 - Compound Exposure
+auteurs:
+- Sun L
+- Wang X
+- Ren K
+- Yao C
+- Wang H
+- Xu X
+- Wang H
+- Dong J
+- Zhang J
+- Yao B
+- Wei X
+- Peng R
+- Zhao L
+pmcid: PMC11760294
+volume: ''
+pages: e41626
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -39,6 +56,15 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/eeg_sommeil
+- theme/plasticite_synaptique
+- theme/apoptose_mitochondrie
+- annee/2025
 ---
 
 # Compound exposure of 2.8 GHz and 9.3 GHz microwave causes learning and memory impairment in rats.

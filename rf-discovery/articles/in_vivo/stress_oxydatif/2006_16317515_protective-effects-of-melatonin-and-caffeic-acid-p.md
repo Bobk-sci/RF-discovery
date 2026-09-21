@@ -33,6 +33,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Ozguner F
+- Bardak Y
+- Comlekci S
+pmcid: ''
+volume: '282'
+pages: 83-8
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -55,6 +62,12 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/eeg_sommeil
+- annee/2006
 ---
 
 # Protective effects of melatonin and caffeic acid phenethyl ester against retinal oxidative stress in long-term use of mobile phone: a comparative study.

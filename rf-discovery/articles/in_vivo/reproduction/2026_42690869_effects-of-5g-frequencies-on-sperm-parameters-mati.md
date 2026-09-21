@@ -1,34 +1,51 @@
 ---
 pmid: '42690869'
-doi: 10.25259/IJMR_3658_2025
+doi: 10.25259/ijmr_3658_2025
 annee: 2026
-journal: The Indian journal of medical research
+journal: ''
 titre: Effects of 5G frequencies on sperm parameters, mating success, and offspring
   outcomes in rats.
 url: https://pubmed.ncbi.nlm.nih.gov/42690869/
-source: pubmed
-acces_ouvert: ''
+source: europepmc
+acces_ouvert: open
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Male
-- Female
-- Pregnancy
-- Rats
 - Spermatozoa
-- Sperm Motility
+- Animals
+- Rats
 - Rats, Sprague-Dawley
-- Fertility
-- Pregnancy Rate
 - Sperm Count
+- Pregnancy Rate
+- Sperm Motility
+- Fertility
+- Pregnancy
+- Female
+- Male
 types:
+- research-article
 - Journal Article
 mots_cles:
-- Electromagnetic fields
 - Fertility
+- Electromagnetic fields
 - Pregnancy rates
-- Semen analysis
-- Wireless technology
+- Semen Analysis
+- Wireless Technology
+auteurs:
+- Hairulazam A
+- Ibrahim SF
+- Osman K
+- Mokhtar MH
+- Zulkeﬂi AF
+- Ros MFM
+- Jamaludin N
+- Taha SMAS
+- Vijay S
+- Zakaria Z
+- Bahar AAM
+- Jaffar FHF
+pmcid: PMC13541190
+volume: ''
+pages: 341-348
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires: []
@@ -46,11 +63,17 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+tags:
+- rf
+- modele/in_vivo
+- theme/reproduction
+- theme/neurodeveloppement
+- annee/2026
 ---
 
 # Effects of 5G frequencies on sperm parameters, mating success, and offspring outcomes in rats.
 
-*The Indian journal of medical research — 2026*
+*journal non renseigné — 2026*
 
 ## Résumé (texte d'origine)
 

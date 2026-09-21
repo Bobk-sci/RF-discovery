@@ -32,6 +32,14 @@ mots_cles:
 - Stress Biomarkers
 - 5G
 - 26 Ghz
+auteurs:
+- Michelant L
+- Hugueville L
+- Lévêque P
+- Selmaoui B
+pmcid: ''
+volume: ''
+pages: '123439'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -42,6 +50,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # No measurable impact of acute 26 GHz 5G exposure on salivary stress markers in healthy adults.

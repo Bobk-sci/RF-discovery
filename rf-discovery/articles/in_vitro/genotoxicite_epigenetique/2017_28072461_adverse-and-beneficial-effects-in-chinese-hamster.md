@@ -29,6 +29,15 @@ mots_cles:
 - genotoxic effect
 - micronuclei
 - radiofrequency
+auteurs:
+- Sannino A
+- Zeni O
+- Romeo S
+- Massa R
+- Scarfi MR
+pmcid: ''
+volume: '38'
+pages: 245-254
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:
@@ -46,6 +55,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/in_vivo
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Adverse and beneficial effects in Chinese hamster lung fibroblast cells following radiofrequency exposure.

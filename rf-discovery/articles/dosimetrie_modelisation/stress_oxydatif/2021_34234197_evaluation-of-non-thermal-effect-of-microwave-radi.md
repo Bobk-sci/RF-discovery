@@ -23,6 +23,19 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Shaw P
+- Kumar N
+- Mumtaz S
+- Lim JS
+- Jang JH
+- Kim D
+- Sahu BD
+- Bogaerts A
+- Choi EH
+pmcid: PMC8263747
+volume: ''
+pages: '14003'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -37,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - glutathione
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/neuro_comportement_cognition
+- annee/2021
 ---
 
 # Evaluation of non-thermal effect of microwave radiation and its mode of action in bacterial cell inactivation.

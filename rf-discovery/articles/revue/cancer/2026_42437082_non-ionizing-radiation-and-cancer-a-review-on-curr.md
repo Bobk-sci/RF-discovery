@@ -19,6 +19,16 @@ mots_cles:
 - Non-ionizing Radiation
 - Radio Frequency Electromagnetic Field
 - Broadcasting Antennas
+auteurs:
+- Agrahari M
+- Gupta S
+- Thakur G
+- Tanwar S
+- Gautam R
+- Arora T
+pmcid: PMC13355819
+volume: ''
+pages: '102705'
 modele: revue
 modele_score: 1002.5
 modele_secondaires:
@@ -37,6 +47,15 @@ theme_indices:
 - carcinogenesis
 - tumor
 - leukemia
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/cancer
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2026
 ---
 
 # Non-ionizing radiation and cancer: A review on current evidence, mechanistic insights, and public health implications.

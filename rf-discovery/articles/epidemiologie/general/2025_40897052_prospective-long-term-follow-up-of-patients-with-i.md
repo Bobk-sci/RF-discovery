@@ -30,6 +30,12 @@ mots_cles:
 - Environmental Illness
 - Nocebo Effects
 - Modern Health Worries
+auteurs:
+- Li KH
+- Guo HR
+pmcid: ''
+volume: ''
+pages: '118944'
 modele: epidemiologie
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +48,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Prospective long-term follow-up of patients with idiopathic environmental intolerance attributed to electromagnetic fields after a provocation trial.

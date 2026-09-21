@@ -21,6 +21,15 @@ mots_cles:
 - Iot-based Wban
 - Off-body Communications
 - Dual-port
+auteurs:
+- Guo K
+- Gao X
+- Tang W
+- Bu X
+- An J
+pmcid: PMC13468748
+volume: ''
+pages: '4863'
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:
@@ -33,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # A Compact Dual-Port Dual-Polarized Ultrawideband Wearable Textile Antenna for Off-Body Communications in IoT-Based WBAN Scenarios.

@@ -33,6 +33,19 @@ mots_cles:
 - Autonomous Nervous System
 - Fifth Generation
 - Event‐related Responses
+auteurs:
+- Jamal L
+- Michelant L
+- Delanaud S
+- Hugueville L
+- Mazet P
+- Lévêque P
+- Baz T
+- Bach V
+- Selmaoui B
+pmcid: PMC11607616
+volume: ''
+pages: 2122-2133
 modele: humain_experimental
 modele_score: 7.0
 modele_secondaires: []
@@ -45,6 +58,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+tags:
+- rf
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Autonomous nervous system responses to environmental-level exposure to 5G's first deployed band (3.5 GHz) in healthy human volunteers.

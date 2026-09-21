@@ -29,6 +29,15 @@ mots_cles:
 - learning and memory
 - synaptic plasticity
 - wireless
+auteurs:
+- Karimi N
+- Bayat M
+- Haghani M
+- Saadi HF
+- Ghazipour GR
+pmcid: ''
+volume: '34'
+pages: 873-883
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires:
@@ -50,6 +59,14 @@ theme_indices:
 - long term potentiation
 - glutamate
 - excitability
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # 2.45 GHz microwave radiation impairs learning, memory, and hippocampal synaptic plasticity in the rat.

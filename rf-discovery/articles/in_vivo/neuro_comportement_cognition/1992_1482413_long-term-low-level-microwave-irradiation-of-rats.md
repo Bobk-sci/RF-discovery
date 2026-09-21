@@ -28,6 +28,16 @@ types:
 - Research Support, U.S. Gov't, Non-P.H.S.
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
+auteurs:
+- Chou CK
+- Guy AW
+- Kunz LL
+- Johnson RB
+- Crowley JJ
+- Krupp JH
+pmcid: ''
+volume: '13'
+pages: 469-96
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -44,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/1992
 ---
 
 # Long-term, low-level microwave irradiation of rats.

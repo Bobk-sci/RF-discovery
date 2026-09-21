@@ -30,6 +30,15 @@ mots_cles:
 - Multiple Exposures
 - Radiofrequencies
 - Bkmr
+auteurs:
+- Soumillion M
+- Remy VFM
+- Petrovic D
+- Dil JH
+- Guseva Canu I
+pmcid: ''
+volume: ''
+pages: '114886'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -40,6 +49,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+tags:
+- rf
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Occupational electromagnetic field exposure and sleep disturbances: The predominant role of high-frequency electric fields.

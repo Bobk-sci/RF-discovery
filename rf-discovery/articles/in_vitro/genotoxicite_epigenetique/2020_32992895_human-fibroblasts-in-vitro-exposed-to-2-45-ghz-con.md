@@ -30,6 +30,22 @@ mots_cles:
 - Wi-Fi
 - gene expression
 - genotoxic effect
+auteurs:
+- Regalbuto E
+- Anselmo A
+- De Sanctis S
+- Franchini V
+- Lista F
+- Benvenuto M
+- Bei R
+- Masuelli L
+- D'Inzeo G
+- Paffi A
+- Trodella E
+- Sgura A
+pmcid: PMC7584027
+volume: '21'
+pages: ''
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires:
@@ -46,6 +62,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Human Fibroblasts In Vitro Exposed to 2.45 GHz Continuous and Pulsed Wave Signals: Evaluation of Biological Effects with a Multimethodological Approach.

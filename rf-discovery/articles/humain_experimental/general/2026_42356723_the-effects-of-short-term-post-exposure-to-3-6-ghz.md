@@ -30,6 +30,14 @@ mots_cles:
 - Postural Balance
 - Limits Of Stability
 - 5G
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Jaberzadeh S
+pmcid: PMC13307263
+volume: ''
+pages: '3750'
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires: []
@@ -40,6 +48,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- theme/general
+- annee/2026
 ---
 
 # The Effects of Short-Term Post-Exposure to 3.6 GHz 5G Mobile Phone Electromagnetic Exposure on Static and Dynamic Postural Control in Healthy Adults: A Randomized Sham-Controlled Pilot Study.

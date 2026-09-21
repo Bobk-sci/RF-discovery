@@ -28,6 +28,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Esmekaya MA
+- Ozer C
+- Seyhan N
+pmcid: ''
+volume: '30'
+pages: 84-9
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -50,6 +57,15 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/reproduction
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2011
 ---
 
 # 900 MHz pulse-modulated radiofrequency radiation induces oxidative stress on heart, lung, testis and liver tissues.

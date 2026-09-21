@@ -20,6 +20,14 @@ mots_cles:
 - Intracortical Excitability
 - Brain Excitability
 - 5G
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Jaberzadeh S
+pmcid: PMC12649992
+volume: ''
+pages: '1134'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -32,6 +40,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - excitability
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # The Effect of 5G Mobile Phone Electromagnetic Exposure on Corticospinal and Intracortical Excitability in Healthy Adults: A Randomized Controlled Pilot Study.

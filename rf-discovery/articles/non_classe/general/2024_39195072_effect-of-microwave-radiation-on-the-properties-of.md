@@ -19,6 +19,15 @@ mots_cles:
 - hydrogel
 - Perlite
 - Cork
+auteurs:
+- Průša D
+- Šťastník S
+- Svobodová K
+- Šuhajda K
+- Sochorová Z
+pmcid: PMC11353303
+volume: ''
+pages: '543'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +36,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2024
 ---
 
 # Effect of Microwave Radiation on the Properties of Hydrogel, Cork, Perlite, and Ceramsite.

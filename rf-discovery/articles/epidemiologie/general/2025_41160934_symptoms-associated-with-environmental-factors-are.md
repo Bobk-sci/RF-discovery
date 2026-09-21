@@ -31,6 +31,14 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Environmental Sensitivity
 - Idiopathic Environmental Intolerances
+auteurs:
+- Reddington K
+- Witthöft M
+- Köteles F
+- Szemerszky R
+pmcid: ''
+volume: ''
+pages: '112425'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:
@@ -43,6 +51,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/general
+- annee/2025
 ---
 
 # Symptoms associated with environmental factors are positively related to sensory-processing sensitivity.

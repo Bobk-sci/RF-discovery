@@ -28,6 +28,21 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs:
+- Puginier E
+- Leclercq L
+- Poulletier de Gannes F
+- Hurtier A
+- Orlacchio R
+- Nabos P
+- Tijou H
+- Lévêque P
+- Arnaud-Cormos D
+- Percherancier Y
+- Lagroye I
+pmcid: PMC13039490
+volume: ''
+pages: '10767'
 modele: in_vitro
 modele_score: 1010.0
 modele_secondaires:
@@ -54,6 +69,16 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/in_vitro
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neuroinflammation
+- theme/cancer
+- annee/2026
 ---
 
 # Biological effects of 5G-modulated 700 MHz RF-EMF exposure on neuronal and glial cell models under isothermal conditions.

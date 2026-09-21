@@ -25,6 +25,21 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Heikkinen P
+- Kosma VM
+- Hongisto T
+- Huuskonen H
+- Hyysalo P
+- Komulainen H
+- Kumlin T
+- Lahtinen T
+- Lang S
+- Puranen L
+- Juutilainen J
+pmcid: ''
+volume: '156'
+pages: 775-85
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -39,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/cancer
+- theme/dosimetrie_exposition
+- annee/2001
 ---
 
 # Effects of mobile phone radiation on X-ray-induced tumorigenesis in mice.

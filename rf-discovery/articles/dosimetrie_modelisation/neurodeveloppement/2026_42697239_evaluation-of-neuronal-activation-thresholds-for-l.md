@@ -19,6 +19,21 @@ mots_cles:
 - Electromagnetic Safety
 - Low Frequencies
 - Uniform Magnetic Field
+auteurs:
+- Gázquez J
+- Camacho Cadena C
+- He W
+- Yamada E
+- Alteköster C
+- Soyka F
+- Laakso I
+- Hirata A
+- Joseph W
+- Tarnaud T
+- Tanghe E
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []
@@ -33,6 +48,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Evaluation of neuronal activation thresholds for low-frequency electromagnetic exposure using morphologically realistic neuron models.

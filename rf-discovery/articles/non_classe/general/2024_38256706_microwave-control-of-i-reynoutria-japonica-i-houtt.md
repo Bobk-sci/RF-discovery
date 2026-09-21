@@ -19,6 +19,17 @@ mots_cles:
 - invasive weed
 - Non-chemical Weed Control
 - Electromagnetic Microwaves
+auteurs:
+- Słowiński K
+- Grygierzec B
+- Baran A
+- Tabor S
+- Piatti D
+- Maggi F
+- Synowiec A
+pmcid: PMC10818956
+volume: ''
+pages: '152'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2024
 ---
 
 # Microwave Control of <i>Reynoutria japonica</i> Houtt., Including Ecotoxicological Aspects and the Resveratrol Content in Rhizomes.

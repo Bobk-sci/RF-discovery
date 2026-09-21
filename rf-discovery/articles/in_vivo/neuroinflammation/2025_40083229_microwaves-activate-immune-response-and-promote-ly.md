@@ -2,33 +2,46 @@
 pmid: '40083229'
 doi: 10.1111/apm.70017
 annee: 2025
-journal: 'APMIS : acta pathologica, microbiologica, et immunologica Scandinavica'
+journal: ''
 titre: Microwaves Activate Immune Response and Promote Lymphocytes Proliferation of
   Wistar Rats.
 url: https://pubmed.ncbi.nlm.nih.gov/40083229/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Animals
-- Rats, Wistar
-- Male
-- Microwaves
-- Cell Proliferation
 - Spleen
-- HSP70 Heat-Shock Proteins
 - Lymphocytes
+- Animals
 - Rats
-- Cytokines
+- Rats, Wistar
 - Calreticulin
+- Cytokines
 - Lymphocyte Activation
+- Cell Proliferation
+- Microwaves
+- Male
+- HSP70 Heat-Shock Proteins
 types:
 - Journal Article
 mots_cles:
-- heat shock protein
-- immune function
-- microwave radiation
-- splenocytes
+- Immune function
+- Heat Shock protein
+- Microwave radiation
+- Splenocytes
+auteurs:
+- Lizhen M
+- Shuhua C
+- Yong Z
+- Weijia Z
+- Xuelong Z
+- Mingzhao Z
+- Zhifeng Y
+- Xiangjun H
+- Lifeng W
+pmcid: ''
+volume: ''
+pages: e70017
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -46,11 +59,19 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - inflammatory response
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neuroinflammation
+- theme/genotoxicite_epigenetique
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Microwaves Activate Immune Response and Promote Lymphocytes Proliferation of Wistar Rats.
 
-*APMIS : acta pathologica, microbiologica, et immunologica Scandinavica — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

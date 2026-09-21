@@ -28,6 +28,13 @@ mots_cles:
 - Non-ionizing radiation
 - Radiofrequency radiation
 - Reactive oxygen species
+auteurs:
+- Yadav H
+- Sharma RS
+- Singh R
+pmcid: ''
+volume: '309'
+pages: '119793'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -44,6 +51,15 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/neuroinflammation
+- theme/apoptose_mitochondrie
+- annee/2022
 ---
 
 # Immunotoxicity of radiofrequency radiation.

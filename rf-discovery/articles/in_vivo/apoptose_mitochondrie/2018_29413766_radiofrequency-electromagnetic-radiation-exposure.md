@@ -28,6 +28,17 @@ mots_cles:
 - Mobile phone
 - Place preference
 - Radiofrequency electromagnetic radiation
+auteurs:
+- Narayanan SN
+- Mohapatra N
+- John P
+- K N
+- Kumar RS
+- Nayak SB
+- Bhat PG
+pmcid: ''
+volume: '58'
+pages: 220-229
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -45,6 +56,15 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/apoptose_mitochondrie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2018
 ---
 
 # Radiofrequency electromagnetic radiation exposure effects on amygdala morphology, place preference behavior and brain caspase-3 activity in rats.

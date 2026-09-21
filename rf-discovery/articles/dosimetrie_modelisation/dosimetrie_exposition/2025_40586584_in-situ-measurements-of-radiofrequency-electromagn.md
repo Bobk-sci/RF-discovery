@@ -22,6 +22,13 @@ mots_cles:
 - Telecommunications
 - Exposure assessment
 - Public Exposure
+auteurs:
+- Calderon C
+- Addison D
+- Peyman A
+pmcid: PMC12207951
+volume: ''
+pages: e70012
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []
@@ -36,6 +43,11 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # In-Situ Measurements of Radiofrequency Electromagnetic Fields Measurements Around 5G Macro Base Stations in the UK.

@@ -20,6 +20,17 @@ mots_cles:
 - Somatic Symptom Burden
 - Somatic Signal Detection Task
 - Cardiovascular Signal Detection Task
+auteurs:
+- Schmitz N
+- Wolters C
+- Rahrbach A
+- Kälke F
+- Witthöft M
+- Gerlach AL
+- Pohl A
+pmcid: PMC12301728
+volume: ''
+pages: '100609'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -30,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - anxiety
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Do expectations shape interoceptive perceptions across body domains? A sham EMF study to test the predictive processing theory.

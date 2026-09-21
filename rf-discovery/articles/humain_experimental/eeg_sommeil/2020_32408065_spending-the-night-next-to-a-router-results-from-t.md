@@ -30,6 +30,16 @@ mots_cles:
 - Wlan
 - Radiofrequency Electromagnetic Fields
 - Sleep Macrostructure
+auteurs:
+- Danker-Hopfe H
+- Bueno-Lopez A
+- Dorn H
+- Schmid G
+- Hirtl R
+- Eggert T
+pmcid: ''
+volume: ''
+pages: '113550'
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:
@@ -44,6 +54,12 @@ theme_indices:
 - EEG
 - sleep
 - polysomnography
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/eeg_sommeil
+- annee/2020
 ---
 
 # Spending the night next to a router - Results from the first human experimental study investigating the impact of Wi-Fi exposure on sleep.

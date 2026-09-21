@@ -22,6 +22,16 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Gläser K
+- Rohland M
+- Kleine-Ostmann T
+- Schrader T
+- Stopper H
+- Hintzsche H
+pmcid: ''
+volume: '186'
+pages: 455-465
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:
@@ -37,6 +47,15 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+tags:
+- rf
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2016
 ---
 
 # Effect of Radiofrequency Radiation on Human Hematopoietic Stem Cells.

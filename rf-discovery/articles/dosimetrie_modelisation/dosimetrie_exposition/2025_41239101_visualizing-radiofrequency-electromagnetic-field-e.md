@@ -22,6 +22,13 @@ mots_cles:
 - Tessellation
 - Personal Exposimeter
 - Voronoi Diagram Or Thiessen Polygons
+auteurs:
+- Arribas E
+- Ramirez-Vazquez R
+- Escobar I
+pmcid: ''
+volume: ''
+pages: 26415-26428
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []
@@ -34,6 +41,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Visualizing radiofrequency electromagnetic field exposure through Voronoi-based maps.

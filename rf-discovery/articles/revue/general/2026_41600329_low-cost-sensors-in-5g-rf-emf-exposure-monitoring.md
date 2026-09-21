@@ -19,6 +19,12 @@ mots_cles:
 - Low-cost Sensors
 - Participatory Monitoring
 - 5G Rf-emf Monitoring
+auteurs:
+- Rathebe PC
+- Kholopo M
+pmcid: PMC12845799
+volume: ''
+pages: '533'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -30,6 +36,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Low-Cost Sensors in 5G RF-EMF Exposure Monitoring: Validity and Challenges.

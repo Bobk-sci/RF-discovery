@@ -34,6 +34,22 @@ mots_cles:
 - Microwave Frequency
 - 5G Technology
 - Millimetre-wave Frequency
+auteurs:
+- Hairulazam A
+- Ibrahim SF
+- Osman K
+- Mokhtar MH
+- Zulkefli AF
+- Mat Ros MF
+- Jamaludin N
+- Syed Taha SMA
+- Vijay S
+- Zakaria Z
+- Mohd Bahar AA
+- Jaffar FHF
+pmcid: PMC13513241
+volume: ''
+pages: '7102'
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []
@@ -48,6 +64,12 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/reproduction
+- annee/2026
 ---
 
 # Differential Effects of 3.5 GHz and 24 GHz 5G Radiofrequency Exposure on Male Sexual Behaviour and Reproductive Endocrine Function in Rats.

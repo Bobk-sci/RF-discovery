@@ -28,6 +28,17 @@ mots_cles:
 - DNA oxidative damage
 - Lipid peroxidation
 - Mobile phone radiation
+auteurs:
+- Sahin D
+- Ozgur E
+- Guler G
+- Tomruk A
+- Unlu I
+- Sepici-Dinçel A
+- Seyhan N
+pmcid: ''
+volume: '75'
+pages: 94-8
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []
@@ -43,6 +54,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - lipid peroxidation
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- annee/2016
 ---
 
 # The 2100MHz radiofrequency radiation of a 3G-mobile phone and the DNA oxidative damage in brain.

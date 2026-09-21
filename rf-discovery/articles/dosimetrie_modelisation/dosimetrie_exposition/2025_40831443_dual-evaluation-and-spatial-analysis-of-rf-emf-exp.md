@@ -24,6 +24,14 @@ mots_cles:
 - Human Exposure
 - 5G Networks
 - 'Kriging: Emf Exposure, Measurements, Code‐selective'
+auteurs:
+- Najera A
+- Villaescusa-Tebar A
+- Gonzalez-Rubio J
+- Garcia-Pardo C
+pmcid: PMC12365736
+volume: ''
+pages: e70020
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Dual Evaluation and Spatial Analysis of RF-EMF Exposure in 5G: Theoretical Extrapolations and Direct Measurements.

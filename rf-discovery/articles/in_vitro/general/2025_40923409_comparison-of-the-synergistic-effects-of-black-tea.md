@@ -26,6 +26,14 @@ mots_cles:
 - gentamicin
 - Radio Frequency
 - Black Tea
+auteurs:
+- Eslamirad Z
+- Hajihoseein R
+- Fathi Y
+- Soleimani H
+pmcid: ''
+volume: ''
+pages: 93-100
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []
@@ -35,6 +43,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vitro
+- theme/general
+- annee/2025
 ---
 
 # Comparison of the Synergistic Effects of Black Tea and Microwave with Gentamicin and Microwave on &lt;i&gt;Acanthamoeba&lt;/i&gt; cyst Mortality &lt;i&gt;In vitro&lt;/i&gt;.

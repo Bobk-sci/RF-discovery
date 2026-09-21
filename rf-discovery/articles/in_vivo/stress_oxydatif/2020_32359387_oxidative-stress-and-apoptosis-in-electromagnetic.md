@@ -34,6 +34,18 @@ mots_cles:
 - Electromagnetic wave
 - Oxidant-antioxidant parameters.
 - Zebrafish embryo
+auteurs:
+- Üstündağ ÜV
+- Özen MS
+- Ünal İ
+- Ateş PS
+- Alturfan AA
+- Akalın M
+- Sancak E
+- Emekli-Alturfan E
+pmcid: ''
+volume: '66'
+pages: 70-75
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []
@@ -52,6 +64,14 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- theme/apoptose_mitochondrie
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- annee/2020
 ---
 
 # Oxidative stress and apoptosis in electromagnetic waves exposed Zebrafish embryos and protective effects of conductive nonwoven fabric.

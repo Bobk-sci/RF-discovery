@@ -35,6 +35,16 @@ mots_cles:
 - radiofrequency electromagnetic fields
 - spatial learning and memory
 - synapse
+auteurs:
+- Kim JH
+- Seok JY
+- Kim YH
+- Kim HJ
+- Lee JK
+- Kim HR
+pmcid: PMC11355025
+volume: '25'
+pages: ''
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:
@@ -53,6 +63,15 @@ theme_indices:
 - cognitive
 - memory
 - learning
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Exposure to Radiofrequency Induces Synaptic Dysfunction in Cortical Neurons Causing Learning and Memory Alteration in Early Postnatal Mice.

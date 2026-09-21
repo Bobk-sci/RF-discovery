@@ -13,6 +13,18 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Kakaraparty K
+- Mohammad Solaiman
+- Pineda EA
+- Galib AR
+- Sarwar Inam A
+- Riam SZ
+- Mahbub I
+- Tabassum S
+pmcid: ''
+volume: ''
+pages: Not Available
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []
@@ -23,6 +35,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - fertility
+tags:
+- rf
+- modele/ingenierie_materiel
+- theme/reproduction
+- annee/2025
 ---
 
 # Advanced In Situ Nitrate Sensing and Wireless Data Transmission Prototype for Precision Soil Fertility Monitoring

@@ -18,6 +18,15 @@ mots_cles:
 - hypertension
 - optical character recognition
 - preeclampsia
+auteurs:
+- Kulkarni SS
+- Katebi N
+- Valderrama CE
+- Rohloff P
+- Clifford GD
+pmcid: PMC8177819
+volume: '4'
+pages: '543176'
 modele: revue
 modele_score: 1.0
 modele_secondaires:
@@ -29,6 +38,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+tags:
+- rf
+- modele/revue
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2021
 ---
 
 # CNN-Based LCD Transcription of Blood Pressure From a Mobile Phone Camera.

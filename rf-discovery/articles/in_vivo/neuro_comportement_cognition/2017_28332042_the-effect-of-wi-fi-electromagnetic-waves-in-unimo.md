@@ -34,6 +34,18 @@ mots_cles:
 - Muscarinic receptor
 - Novel object recognition
 - Wi-Fi
+auteurs:
+- Hassanshahi A
+- Shafeie SA
+- Fatemi I
+- Hassanshahi E
+- Allahtavakoli M
+- Shabani M
+- Roohbakhsh A
+- Shamsizadeh A
+pmcid: ''
+volume: '38'
+pages: 1069-1076
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -48,6 +60,12 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - memory
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- annee/2017
 ---
 
 # The effect of Wi-Fi electromagnetic waves in unimodal and multimodal object recognition tasks in male rats.

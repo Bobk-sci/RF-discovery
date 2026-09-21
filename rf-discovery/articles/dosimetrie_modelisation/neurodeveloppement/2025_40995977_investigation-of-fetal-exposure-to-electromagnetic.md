@@ -26,6 +26,13 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- İl N
+- Ateş K
+- Özen Ş
+pmcid: ''
+volume: ''
+pages: 1188-1200
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -41,6 +48,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Investigation of fetal exposure to electromagnetic waves between 2.45 and 5 GHz during pregnancy.

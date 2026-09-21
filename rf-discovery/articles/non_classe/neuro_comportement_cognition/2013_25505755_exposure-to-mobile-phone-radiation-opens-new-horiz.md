@@ -1,6 +1,6 @@
 ---
 pmid: '25505755'
-doi: ''
+doi: 10.1016/j.nancom.2012.02.001
 annee: 2013
 journal: Journal of biomedical physics & engineering
 titre: Exposure to mobile phone radiation opens new horizons in Alzheimer's disease
@@ -18,6 +18,15 @@ mots_cles:
 - Mobile Phone
 - Non-Ionizing Radiation
 - Radiofrequency (RF)
+auteurs:
+- Mortazavi S
+- Shojaei-Fard M
+- Haghani M
+- Shokrpour N
+- Mortazavi S
+pmcid: PMC4204502
+volume: '3'
+pages: 109-12
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -29,6 +38,11 @@ theme_indices:
 - cognitive
 - memory
 - reaction time
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2013
 ---
 
 # Exposure to mobile phone radiation opens new horizons in Alzheimer's disease treatment.

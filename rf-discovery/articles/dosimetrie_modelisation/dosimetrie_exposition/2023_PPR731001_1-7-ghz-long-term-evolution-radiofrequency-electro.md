@@ -13,6 +13,16 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Goh J
+- Suh D
+- Jeon S
+- Lee Y
+- Kim N
+- Song K
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:
@@ -26,6 +36,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/in_vitro
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # 1.7 GHz long-term evolution radiofrequency electromagnetic field with efficient thermal control has no effect on the proliferation of different human cell types

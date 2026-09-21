@@ -27,6 +27,11 @@ mots_cles:
 - Layered Tissues
 - Power Reflection
 - Te/tm Oblique Incidence
+auteurs:
+- Gasmelseed A
+pmcid: PMC12835268
+volume: ''
+pages: '3445'
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -41,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Parametric analysis of electromagnetic wave interactions with layered biological tissues for varying frequency, polarization, and fat thickness.

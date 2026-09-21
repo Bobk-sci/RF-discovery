@@ -13,6 +13,15 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Srivastava S
+- Singh A
+- Awasthi NP
+- Chopra R
+- Dar AH
+pmcid: ''
+volume: ''
+pages: 657-670
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -22,6 +31,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Impact of Pretreatments on the Reduction of Allyl Isothiocyanate (AITC) Content in Mustard Seeds

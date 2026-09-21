@@ -21,6 +21,14 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Smialowicz RJ
+- Weil CM
+- Kinn JB
+- Elder JA
+pmcid: ''
+volume: '17'
+pages: 211-21
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -36,6 +44,12 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/neurodeveloppement
+- annee/1982
 ---
 
 # Exposure of rats to 425-MHz (cW) radiofrequency radiation: effects on lymphocytes.

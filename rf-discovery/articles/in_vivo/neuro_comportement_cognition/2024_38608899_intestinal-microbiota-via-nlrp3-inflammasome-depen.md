@@ -29,6 +29,22 @@ mots_cles:
 - Radiofrequency Radiation
 - Pyroptosis
 - Gut Microbe
+auteurs:
+- Zhou GQ
+- Wang X
+- Gao P
+- Qin TZ
+- Guo L
+- Zhang ZW
+- Huang ZF
+- Lin JJ
+- Jing YT
+- Wang HN
+- Wang CP
+- Ding GR
+pmcid: ''
+volume: ''
+pages: '172391'
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []
@@ -43,6 +59,11 @@ theme_indices:
 - anxiety
 - behavior
 - behaviour
+tags:
+- rf
+- modele/in_vivo
+- theme/neuro_comportement_cognition
+- annee/2024
 ---
 
 # Intestinal microbiota via NLRP3 inflammasome dependent neuronal pyroptosis mediates anxiety-like behaviour in mice exposed to 3.5 GHz radiofrequency radiation.

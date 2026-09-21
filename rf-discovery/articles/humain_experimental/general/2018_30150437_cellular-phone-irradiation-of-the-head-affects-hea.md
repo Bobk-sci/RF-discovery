@@ -29,6 +29,16 @@ mots_cles:
 - heart rate variability
 - Cellular Phone
 - Heart Rate Asymmetry
+auteurs:
+- Béres S
+- Németh Á
+- Ajtay Z
+- Kiss I
+- Németh B
+- Hejjel L
+pmcid: PMC6199582
+volume: ''
+pages: 1145-1153
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:
@@ -40,6 +50,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2018
 ---
 
 # Cellular Phone Irradiation of the Head Affects Heart Rate Variability Depending on Inspiration/Expiration Ratio.

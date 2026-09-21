@@ -23,6 +23,16 @@ mots_cles:
 - Improved automatic multiscale-based peak detection
 - Mobile phone video
 - Pulse signal
+auteurs:
+- Yao A
+- Chou Y
+- Yang L
+- Hu L
+- Liu J
+- Gu S
+pmcid: ''
+volume: '120'
+pages: '104051'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -31,6 +41,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2023
 ---
 
 # Research on heart rate extraction method based on mobile phone video.

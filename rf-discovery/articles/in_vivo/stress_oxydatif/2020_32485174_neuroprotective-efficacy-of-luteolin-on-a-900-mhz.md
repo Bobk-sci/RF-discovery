@@ -29,6 +29,12 @@ mots_cles:
 - Luteolin
 - Rat
 - Superoxide dismutase
+auteurs:
+- Yahyazadeh A
+- Altunkaynak BZ
+pmcid: ''
+volume: '1744'
+pages: '146919'
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []
@@ -44,6 +50,11 @@ theme_indices:
 - oxidative stress
 - superoxide dismutase
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- theme/stress_oxydatif
+- annee/2020
 ---
 
 # Neuroprotective efficacy of luteolin on a 900-MHz electromagnetic field-induced cerebellar alteration in adult male rat.

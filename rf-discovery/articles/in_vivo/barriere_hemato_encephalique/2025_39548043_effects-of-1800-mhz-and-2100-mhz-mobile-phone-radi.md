@@ -26,6 +26,14 @@ mots_cles:
 - Blood–brain Barrier
 - New Zealand Rabbit
 - Gsm Frequencies
+auteurs:
+- Kizilçay AO
+- Tütüncü B
+- Koçarslan M
+- Gözel MA
+pmcid: ''
+volume: ''
+pages: 915-932
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -40,6 +48,12 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - BBB permeability
+tags:
+- rf
+- modele/in_vivo
+- theme/barriere_hemato_encephalique
+- theme/thermique
+- annee/2025
 ---
 
 # Effects of 1800 MHz and 2100 MHz mobile phone radiation on the blood-brain barrier of New Zealand rabbits.

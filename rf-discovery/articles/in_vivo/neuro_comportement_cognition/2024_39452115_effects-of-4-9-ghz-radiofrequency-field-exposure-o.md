@@ -19,6 +19,19 @@ mots_cles:
 - Proteomic
 - Metabolomic
 - Radiofrequency Field
+auteurs:
+- Wang X
+- Zhou G
+- Lin J
+- Zhang Z
+- Qin T
+- Guo L
+- Wang H
+- Huang Z
+- Ding G
+pmcid: PMC11505847
+volume: ''
+pages: '806'
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:
@@ -32,6 +45,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Effects of 4.9 GHz Radiofrequency Field Exposure on Brain Metabolomic and Proteomic Characterization in Mice.

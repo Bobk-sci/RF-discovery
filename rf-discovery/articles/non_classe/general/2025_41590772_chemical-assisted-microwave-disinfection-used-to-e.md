@@ -22,6 +22,14 @@ mots_cles:
 - Polymethyl Methacrylate (Pmma)
 - Sodium Hypochlorite (Naocl)
 - Chlorhexidine (Chx)
+auteurs:
+- Mazur MW
+- Grudniak A
+- Wawer JK
+- Gawlak D
+pmcid: PMC12841953
+volume: ''
+pages: '4'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -30,6 +38,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Chemical-Assisted Microwave Disinfection Used to Eradicate <i>Candida albicans</i> from Acrylic Resin Surfaces.

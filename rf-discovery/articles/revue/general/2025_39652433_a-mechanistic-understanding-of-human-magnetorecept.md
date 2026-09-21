@@ -25,6 +25,12 @@ mots_cles:
 - Ehs
 - Electromagnetic Hypersensitivity
 - Cryptochromes
+auteurs:
+- Henshaw DL
+- Philips A
+pmcid: ''
+volume: ''
+pages: 186-204
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -38,6 +44,14 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/revue
+- modele/humain_experimental
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2025
 ---
 
 # A mechanistic understanding of human magnetoreception validates the phenomenon of electromagnetic hypersensitivity (EHS).

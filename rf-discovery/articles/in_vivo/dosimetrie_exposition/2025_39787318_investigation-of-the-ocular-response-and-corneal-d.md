@@ -24,6 +24,18 @@ mots_cles:
 - Radiation, nonionizing
 - Health Effects
 - Exposure, Radiofrequency
+auteurs:
+- Kojima M
+- Tasaki T
+- Kamijo T
+- Hada A
+- Suzuki Y
+- Kik A
+- Ikehata M
+- Sasaki H
+pmcid: ''
+volume: ''
+pages: 487-496
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:
@@ -36,6 +48,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Investigation of the Ocular Response and Corneal Damage Threshold of Exposure to 28 GHz Quasi-millimeter Wave Exposure.

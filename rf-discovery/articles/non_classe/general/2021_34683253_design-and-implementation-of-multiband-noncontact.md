@@ -17,6 +17,18 @@ mots_cles:
 - multiband
 - multilayer tissues
 - novel interferometric microwave radiometer
+auteurs:
+- Sun G
+- Liu J
+- Ma J
+- Zhang K
+- Sun Z
+- Wu Q
+- Wang H
+- Liu Y
+pmcid: PMC8541249
+volume: '12'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -25,6 +37,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2021
 ---
 
 # Design and Implementation of Multiband Noncontact Temperature-Measuring Microwave Radiometer.

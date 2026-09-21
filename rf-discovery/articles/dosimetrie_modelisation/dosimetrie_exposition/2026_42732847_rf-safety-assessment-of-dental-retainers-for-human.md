@@ -19,6 +19,14 @@ mots_cles:
 - 9.4 Tesla
 - Vop Compression
 - Dental Retainers
+auteurs:
+- Berezko EV
+- Solomakha GA
+- Avdievich NI
+- Scheffler K
+pmcid: ''
+volume: ''
+pages: '110803'
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:
@@ -32,6 +40,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # RF safety assessment of dental retainers for human head MRI array coils at 9.4 T.

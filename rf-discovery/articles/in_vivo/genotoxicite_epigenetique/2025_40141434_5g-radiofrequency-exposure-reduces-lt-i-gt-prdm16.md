@@ -34,6 +34,18 @@ mots_cles:
 - Radiofrequency
 - Brown Adipogenesis
 - Ucp1-dependent Thermogenesis
+auteurs:
+- Seewooruttun C
+- Bouguila B
+- Corona A
+- Delanaud S
+- Bodin R
+- Bach V
+- Desailloud R
+- Pelletier A
+pmcid: PMC11942954
+volume: ''
+pages: '2792'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -50,6 +62,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/genotoxicite_epigenetique
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # 5G Radiofrequency Exposure Reduces &lt;i&gt;PRDM16&lt;/i&gt; and &lt;i&gt;C/EBP β&lt;/i&gt; mRNA Expression, Two Key Biomarkers for Brown Adipogenesis.

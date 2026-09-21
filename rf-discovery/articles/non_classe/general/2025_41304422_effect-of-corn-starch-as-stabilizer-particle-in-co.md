@@ -19,6 +19,14 @@ mots_cles:
 - Egg white protein
 - Open-cell Structures
 - Low-density Biofoams
+auteurs:
+- Amezúa-Arranz C
+- Oliveira Salmazo L
+- López-Gil A
+- Rodríguez-Pérez MÁ
+pmcid: PMC12656337
+volume: ''
+pages: '3057'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +35,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/non_classe
+- theme/general
+- annee/2025
 ---
 
 # Effect of Corn Starch as Stabilizer Particle in Combination with Egg White Proteins in Natural Rubber Latex Biofoams Produced by Microwave Foaming.

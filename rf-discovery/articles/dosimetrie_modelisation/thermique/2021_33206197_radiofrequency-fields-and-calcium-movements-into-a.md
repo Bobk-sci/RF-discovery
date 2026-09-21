@@ -18,6 +18,12 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Wood A
+- Karipidis K
+pmcid: ''
+volume: '195'
+pages: 101-113
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -29,6 +35,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Radiofrequency Fields and Calcium Movements Into and Out of Cells.

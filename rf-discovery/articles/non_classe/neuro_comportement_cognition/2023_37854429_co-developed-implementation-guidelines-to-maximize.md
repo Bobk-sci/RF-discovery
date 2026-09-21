@@ -18,6 +18,22 @@ mots_cles:
 - implementation
 - mobile phones
 - supervision
+auteurs:
+- Triplett NS
+- Mbwayo A
+- Kiche S
+- Liu L
+- Silva J
+- AlRasheed R
+- Johnson C
+- Amanya C
+- Munson S
+- Weiner BJ
+- Collins PY
+- Dorsey S
+pmcid: PMC10579659
+volume: '10'
+pages: e31
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/non_classe
+- theme/neuro_comportement_cognition
+- annee/2023
 ---
 
 # Co-developed implementation guidelines to maximize acceptability, feasibility, and usability of mobile phone supervision in Kenya.

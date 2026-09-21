@@ -33,6 +33,28 @@ mots_cles:
 - Cd8+ T Cells
 - Tumor Immune Microenvironment
 - Pulmonary Metastatic Melanoma
+auteurs:
+- Jiao JZ
+- Zhang Y
+- Zhang WJ
+- He MD
+- Meng M
+- Liu T
+- Ma QL
+- Xu Y
+- Gao P
+- Chen CH
+- Zhang L
+- Pi HF
+- Deng P
+- Wu YZ
+- Zhou Z
+- Yu ZP
+- Deng YC
+- Lu YH
+pmcid: PMC11192955
+volume: ''
+pages: 1492-1505
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:
@@ -51,6 +73,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/cancer
+- theme/apoptose_mitochondrie
+- theme/genotoxicite_epigenetique
+- theme/dosimetrie_exposition
+- annee/2024
 ---
 
 # Radiofrequency radiation reshapes tumor immune microenvironment into antitumor phenotype in pulmonary metastatic melanoma by inducing active transformation of tumor-infiltrating CD8<sup>+</sup> T and NK cells.

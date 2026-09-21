@@ -25,6 +25,15 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Lee AK
+- Hong SE
+- Kwon JH
+- Choi HD
+- Cardis E
+pmcid: ''
+volume: '62'
+pages: 2741-2761
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires:
@@ -39,6 +48,13 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- modele/ingenierie_materiel
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2017
 ---
 
 # Mobile phone types and SAR characteristics of the human brain.

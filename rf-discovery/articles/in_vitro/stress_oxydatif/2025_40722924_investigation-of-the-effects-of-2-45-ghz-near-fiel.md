@@ -23,6 +23,15 @@ mots_cles:
 - Rf-emf
 - Non-thermal Effects
 - Electromagnetic Pollution
+auteurs:
+- Angelova B
+- Paunov M
+- Kitanova M
+- Atanasova G
+- Atanasov N
+pmcid: PMC12291942
+volume: ''
+pages: '820'
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []
@@ -37,6 +46,13 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/thermique
+- theme/genotoxicite_epigenetique
+- annee/2025
 ---
 
 # Investigation of the Effects of 2.45 GHz Near-Field EMF on Yeast.

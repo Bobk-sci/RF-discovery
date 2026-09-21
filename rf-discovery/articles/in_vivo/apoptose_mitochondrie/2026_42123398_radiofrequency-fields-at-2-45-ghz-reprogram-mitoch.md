@@ -37,6 +37,15 @@ mots_cles:
 - necrosis
 - Raw 264.7
 - Sars-cov-2 Spike
+auteurs:
+- Sueiro-Benavides RA
+- Leiro-Vidal JM
+- Rodríguez-González JA
+- Ares-Pena FJ
+- López-Martín E
+pmcid: PMC13163750
+volume: ''
+pages: '3813'
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:
@@ -54,6 +63,13 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - cell death
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/apoptose_mitochondrie
+- theme/stress_oxydatif
+- annee/2026
 ---
 
 # Radiofrequency Fields at 2.45 GHz Reprogram Mitochondria-Lysosome Crosstalk and Modulate the Survival/Death of Macrophages Exposed to LPS and/or the SARS-CoV-2 Spike Protein.

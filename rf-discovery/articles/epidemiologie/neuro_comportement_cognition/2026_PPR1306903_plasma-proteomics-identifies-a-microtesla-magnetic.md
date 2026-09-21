@@ -13,6 +13,18 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Brady NR
+- Canori A
+- Maltz D
+- Kirsher DY
+- Zhou W
+- Becker J
+- Putrino DF
+- Gurfein BT
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:
@@ -24,6 +36,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+tags:
+- rf
+- modele/epidemiologie
+- modele/humain_experimental
+- theme/neuro_comportement_cognition
+- annee/2026
 ---
 
 # Plasma Proteomics Identifies a Microtesla Magnetic Therapy Response Signature in Long COVID

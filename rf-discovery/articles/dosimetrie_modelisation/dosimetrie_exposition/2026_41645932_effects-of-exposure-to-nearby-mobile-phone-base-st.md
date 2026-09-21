@@ -32,6 +32,18 @@ mots_cles:
 - Hematological Parameters
 - Mobile Phone Use
 - Mobile Phone Base Stations (Mpbs)
+auteurs:
+- Laldinpuii
+- Sailo L
+- Weller S
+- Varte CL
+- Tochhawng L
+- Bandara P
+- McCredden JE
+- Zothansiama
+pmcid: ''
+volume: ''
+pages: 231-250
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []
@@ -43,6 +55,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Effects of exposure to nearby mobile phone base stations and mobile phone usage on human blood parameters.

@@ -19,6 +19,14 @@ mots_cles:
 - Serum creatinine
 - Haematology
 - Mobile Phone Radiation
+auteurs:
+- Hasan I
+- Amin T
+- Alam MR
+- Islam MR
+pmcid: PMC8117002
+volume: ''
+pages: 2933-2942
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:
@@ -32,6 +40,13 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/reproduction
+- theme/dosimetrie_exposition
+- annee/2021
 ---
 
 # Hematobiochemical and histopathological alterations of kidney and testis due to exposure of 4G cell phone radiation in mice.

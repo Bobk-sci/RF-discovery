@@ -26,6 +26,13 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
+auteurs:
+- Frei MR
+- Jauchem JR
+- Padilla JM
+pmcid: ''
+volume: '21'
+pages: 65-72
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires:
@@ -40,6 +47,12 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/thermique
+- annee/1989
 ---
 
 # Effects of field orientation during 700-MHz radiofrequency irradiation of rats.

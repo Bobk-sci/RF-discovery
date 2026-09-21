@@ -18,6 +18,14 @@ mots_cles:
 - 5G
 - Wearable Antenna
 - Conductive Fabric
+auteurs:
+- Hussain M
+- Awan WA
+- Abbas SM
+- Zhu Y
+pmcid: PMC13534586
+volume: ''
+pages: '27483'
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:
@@ -30,6 +38,12 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Low-profile conformal triple-band textile antenna using conductive fabric and PDMS for wearable electronics.

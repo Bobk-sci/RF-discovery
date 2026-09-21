@@ -22,6 +22,12 @@ types:
 mots_cles:
 - International Commission On Non-ionizing Radiation Protection (Icnirp)
 - Radiation; Non-ionizing
+auteurs:
+- Bushberg JT
+- Butcher MJ
+pmcid: ''
+volume: ''
+pages: 442-448
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []
@@ -33,6 +39,11 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Measurement of Ambient Millimeter Wave Exposure Levels around Small Base Stations.

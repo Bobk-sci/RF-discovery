@@ -13,6 +13,12 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Kundi M
+- Hutter HP
+pmcid: ''
+volume: '16'
+pages: 123-35
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -28,6 +34,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/stress_oxydatif
+- theme/dosimetrie_exposition
+- annee/2009
 ---
 
 # Mobile phone base stations-Effects on wellbeing and health.

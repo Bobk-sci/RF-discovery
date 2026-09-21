@@ -29,6 +29,15 @@ mots_cles:
 - Eme
 - Electromagnetic Exposure
 - 5G
+auteurs:
+- Torkan A
+- Zoghi M
+- Foroughimehr N
+- Yavari A
+- Jaberzadeh S
+pmcid: PMC12074369
+volume: ''
+pages: '2749'
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []
@@ -41,6 +50,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - excitability
+tags:
+- rf
+- modele/revue
+- theme/plasticite_synaptique
+- annee/2025
 ---
 
 # Effects of Mobile Electromagnetic Exposure on Brain Oscillations and Cortical Excitability: Scoping Review.

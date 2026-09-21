@@ -18,6 +18,15 @@ mots_cles:
 - Adolescents
 - mobile phones
 - reproductive health
+auteurs:
+- Macharia P
+- Pérez-Navarro A
+- Inwani I
+- Nduati R
+- Carrion C
+pmcid: PMC10929578
+volume: '33'
+pages: 357-370
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -29,6 +38,12 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - adolescent
+tags:
+- rf
+- modele/non_classe
+- theme/neurodeveloppement
+- theme/reproduction
+- annee/2021
 ---
 
 # An Exploratory Study of Current Sources of Adolescent Sexual and Reproductive Health Information in Kenya and Their Limitations: Are Mobile Phone Technologies the Answer?
@@ -37,6 +52,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Purpose The prevalence of pregnancy and sexually transmitted infections among adolescents in low and middle-income countries leads us to believe that sexual and reproductive health (SRH) information needs are still unmet. This paper investigates current sources and their limitations and then explores the role technology could play.In an exploratory qualitative study themes identified; (1) preferred sources of SRH information; (2) their limitations; (3) the role of technology in meeting their needs.Mobile phone-based apps could improve awareness and provide information in a confidential way.Adolescents have an unmet need that vary by age and gender. Mobile phones could offer accessible, user-friendly platform.
+Purpose The prevalence of pregnancy and sexually transmitted infections among adolescents in low and middle-income countries leads us to believe that sexual and reproductive health (SRH) information needs are still unmet. This paper investigates current sources and their limitations and then explores the role technology could play. Methods: In an exploratory qualitative study themes identified; (1) preferred sources of SRH information; (2) their limitations; (3) the role of technology in meeting their needs. Results: Mobile phone-based apps could improve awareness and provide information in a confidential way. Conclusions: Adolescents have an unmet need that vary by age and gender. Mobile phones could offer accessible, user-friendly platform.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/38595745/)

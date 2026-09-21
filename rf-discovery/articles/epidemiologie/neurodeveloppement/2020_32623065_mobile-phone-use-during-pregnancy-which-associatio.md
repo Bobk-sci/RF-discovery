@@ -35,6 +35,17 @@ mots_cles:
 - Maternal exposure
 - Mobile phone
 - Pregnancy
+auteurs:
+- Boileau N
+- Margueritte F
+- Gauthier T
+- Boukeffa N
+- Preux PM
+- Labrunie A
+- Aubard Y
+pmcid: ''
+volume: '49'
+pages: '101852'
 modele: epidemiologie
 modele_score: 1001.0
 modele_secondaires:
@@ -50,6 +61,12 @@ theme_indices:
 - pregnancy
 - fetal
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- theme/neurodeveloppement
+- annee/2020
 ---
 
 # Mobile phone use during pregnancy: Which association with fetal growth?
@@ -58,12 +75,12 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Few studies have investigated the effect of electromagnetic waves on the human fetus whereas nowadays mobile phone use is ubiquitous. The aim of this study was to evaluate the association between mobile phone use by pregnant women and fetal development during pregnancy in the general population.
+INTRODUCTION: Few studies have investigated the effect of electromagnetic waves on the human fetus whereas nowadays mobile phone use is ubiquitous. The aim of this study was to evaluate the association between mobile phone use by pregnant women and fetal development during pregnancy in the general population.
 
-Data came from the NéHaVi cohort ("prospective follow-up, from intrauterine development to the age of 18 years, for children born in Haute-Vienne"), a prospective, longitudinal, multicenter (three maternity units in Haute-Vienne) observational cohort focusing on children born between April 2014 and April 2017. Main objective was to investigate the association of mobile phone use on fetal growth. Univariate and multivariate models were generated adjusted for the socioprofessional category variables of the mother, and other variables likely to influence fetal growth.
+MATERIAL AND METHODS: Data came from the NéHaVi cohort ("prospective follow-up, from intrauterine development to the age of 18 years, for children born in Haute-Vienne"), a prospective, longitudinal, multicenter (three maternity units in Haute-Vienne) observational cohort focusing on children born between April 2014 and April 2017. Main objective was to investigate the association of mobile phone use on fetal growth. Univariate and multivariate models were generated adjusted for the socioprofessional category variables of the mother, and other variables likely to influence fetal growth.
 
-For the analysis 1378 medical charts were considered from which 1368 mothers (99.3 %) used their mobile phones during pregnancy. Mean phone time was 29.8 min (range: 0.0-240.0 min) per day. After adjustment, newborns whose mothers used their mobile phones for more than 30 min/day were significantly more likely to have an AUDIPOG score ≤ 10th percentile than those whose mothers used their mobile phones for less than 5 min/day during pregnancy (aOR = 1.54 [1.03; 2.31], p = 0.0374). For women using their cell phones 5-15 min and 15-30 min, there wasn't a significant association with an AUDIPOG score ≤ 10th, respectively aOR = 0.98 [0.58; 1.65] and aOR = 1.68 [0.99; 2.82].
+RESULTS: For the analysis 1378 medical charts were considered from which 1368 mothers (99.3 %) used their mobile phones during pregnancy. Mean phone time was 29.8 min (range: 0.0-240.0 min) per day. After adjustment, newborns whose mothers used their mobile phones for more than 30 min/day were significantly more likely to have an AUDIPOG score ≤ 10th percentile than those whose mothers used their mobile phones for less than 5 min/day during pregnancy (aOR = 1.54 [1.03; 2.31], p = 0.0374). For women using their cell phones 5-15 min and 15-30 min, there wasn't a significant association with an AUDIPOG score ≤ 10th, respectively aOR = 0.98 [0.58; 1.65] and aOR = 1.68 [0.99; 2.82].
 
-Using a mobile phone for calls for more than 30 min per day during pregnancy may have a negative impact on fetal growth. A prospective study should be performed to further evaluate this potential link.
+CONCLUSION: Using a mobile phone for calls for more than 30 min per day during pregnancy may have a negative impact on fetal growth. A prospective study should be performed to further evaluate this potential link.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/32623065/)

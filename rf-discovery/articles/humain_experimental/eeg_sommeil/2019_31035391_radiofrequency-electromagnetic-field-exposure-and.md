@@ -34,6 +34,18 @@ mots_cles:
 - exposure limits
 - mobile phones
 - radiofrequency electromagnetic fields
+auteurs:
+- Loughran SP
+- Verrender A
+- Dalecki A
+- Burdon CA
+- Tagami K
+- Park J
+- Taylor NAS
+- Croft RJ
+pmcid: PMC6539668
+volume: '16'
+pages: ''
 modele: humain_experimental
 modele_score: 6.5
 modele_secondaires:
@@ -53,6 +65,15 @@ theme_indices:
 - EEG
 - electroencephalogram
 - alpha band
+tags:
+- rf
+- modele/humain_experimental
+- modele/dosimetrie_modelisation
+- modele/epidemiologie
+- theme/eeg_sommeil
+- theme/neurodeveloppement
+- theme/thermique
+- annee/2019
 ---
 
 # Radiofrequency Electromagnetic Field Exposure and the Resting EEG: Exploring the Thermal Mechanism Hypothesis.

@@ -23,6 +23,13 @@ mots_cles:
 - Health effects
 - Mobile phones
 - Radio frequency energy
+auteurs:
+- Kim KH
+- Kabir E
+- Jahan SA
+pmcid: ''
+volume: '188'
+pages: '221'
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -32,6 +39,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/epidemiologie
+- theme/general
+- annee/2016
 ---
 
 # The use of cell phone and insight into its potential human health impacts.

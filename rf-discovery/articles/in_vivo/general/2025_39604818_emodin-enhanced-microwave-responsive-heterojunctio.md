@@ -27,6 +27,17 @@ mots_cles:
 - Dielectric Losses
 - Heterogeneous Interfaces
 - Microwave Response
+auteurs:
+- Xu T
+- Cheng H
+- Pei H
+- Wang J
+- Shi Y
+- Zhang X
+- Huang D
+pmcid: PMC11744657
+volume: ''
+pages: e2409979
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []
@@ -38,6 +49,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/in_vivo
+- theme/general
+- annee/2025
 ---
 
 # Emodin Enhanced Microwave-Responsive Heterojunction with Powerful Bactericidal Capacity and Immunoregulation for Curing Bacteria-Infected Osteomyelitis.

@@ -32,6 +32,16 @@ mots_cles:
 - fNIRS
 - mobile neuroimaging
 - wireless brain monitoring
+auteurs:
+- Barras M
+- Booth L
+- Bateson AD
+- Asghar AUR
+- Zeinali M
+- Mehmood A
+pmcid: PMC12944262
+volume: '26'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -41,6 +51,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+tags:
+- rf
+- modele/non_classe
+- theme/eeg_sommeil
+- annee/2026
 ---
 
 # Toward Mobile Neuroimaging: Design of a Multi-Modal EEG/fNIRS Instrument for Real-Time Use.

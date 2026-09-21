@@ -30,6 +30,11 @@ mots_cles:
 - Assumptions For The Standards
 - Cellular Mobile Telecommunication
 - Industry-regulatory Complex
+auteurs:
+- Lin JC
+pmcid: PMC12318757
+volume: ''
+pages: '1619781'
 modele: revue
 modele_score: 1002.0
 modele_secondaires:
@@ -42,6 +47,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+tags:
+- rf
+- modele/revue
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # Health and safety practices and policies concerning human exposure to RF/microwave radiation.

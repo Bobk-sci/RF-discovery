@@ -33,6 +33,15 @@ mots_cles:
 - Adverse Events
 - Long Term
 - Microwave Therapy
+auteurs:
+- Zheng Z
+- Huang L
+- Shang T
+- Ma Y
+- Xu Y
+pmcid: ''
+volume: ''
+pages: 607-613
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []
@@ -43,6 +52,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+tags:
+- rf
+- modele/epidemiologie
+- theme/reproduction
+- annee/2025
 ---
 
 # Effects of long-term low-dose 2.45 GHz microwave electromagnetic radiation on vulnerable organs in humans: a retrospective study based on patients receiving microwave diathermies in the Department of Rehabilitation Medicine.

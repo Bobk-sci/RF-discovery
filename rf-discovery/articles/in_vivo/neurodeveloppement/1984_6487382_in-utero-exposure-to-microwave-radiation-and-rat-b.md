@@ -22,6 +22,13 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs:
+- Merritt JH
+- Hardy KA
+- Chamness AF
+pmcid: ''
+volume: '5'
+pages: 315-22
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:
@@ -40,6 +47,13 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/1984
 ---
 
 # In utero exposure to microwave radiation and rat brain development.

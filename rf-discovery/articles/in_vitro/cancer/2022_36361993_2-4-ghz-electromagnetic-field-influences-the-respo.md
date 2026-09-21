@@ -29,6 +29,13 @@ mots_cles:
 - per
 - sirtuin1
 - survivin
+auteurs:
+- Olejárová S
+- Moravčík R
+- Herichová I
+pmcid: PMC9656412
+volume: '23'
+pages: ''
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []
@@ -45,6 +52,13 @@ theme_secondaires:
 theme_indices:
 - tumor
 - tumour
+tags:
+- rf
+- modele/in_vitro
+- theme/cancer
+- theme/eeg_sommeil
+- theme/genotoxicite_epigenetique
+- annee/2022
 ---
 
 # 2.4 GHz Electromagnetic Field Influences the Response of the Circadian Oscillator in the Colorectal Cancer Cell Line DLD1 to miR-34a-Mediated Regulation.
@@ -53,6 +67,6 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-Radiofrequency electromagnetic fields (RF-EMF) exert pleiotropic effects on biological processes including circadian rhythms. miR-34a is a small non-coding RNA whose expression is modulated by RF-EMF and has the capacity to regulate clock gene expression. However, interference between RF-EMF and miR-34a-mediated regulation of the circadian oscillator has not yet been elucidated. Therefore, the present study was designed to reveal if 24 h exposure to 2.4 GHz RF-EMF influences miR-34a-induced changes in clock gene expression, migration and proliferation in colorectal cancer cell line DLD1. The effect of up- or downregulation of miR-34a on DLD1 cells was evaluated using real-time PCR, the scratch assay test and the MTS test. Administration of miR-34a decreased the expression of,,andand inhibited proliferation and migration of DLD1 cells. When miR-34a-transfected DLD1 cells were exposed to 2.4 GHz RF-EMF, an increase inmRNA expression was observed. The inhibitory effect of miR-34a onandwas weakened and abolished, respectively. The effect of miR-34a on proliferation and migration was eliminated by RF-EMF exposure. In conclusion, RF-EMF strongly influenced regulation mediated by the tumour suppressor miR-34a on the peripheral circadian oscillator in DLD1 cells.
+Radiofrequency electromagnetic fields (RF-EMF) exert pleiotropic effects on biological processes including circadian rhythms. miR-34a is a small non-coding RNA whose expression is modulated by RF-EMF and has the capacity to regulate clock gene expression. However, interference between RF-EMF and miR-34a-mediated regulation of the circadian oscillator has not yet been elucidated. Therefore, the present study was designed to reveal if 24 h exposure to 2.4 GHz RF-EMF influences miR-34a-induced changes in clock gene expression, migration and proliferation in colorectal cancer cell line DLD1. The effect of up- or downregulation of miR-34a on DLD1 cells was evaluated using real-time PCR, the scratch assay test and the MTS test. Administration of miR-34a decreased the expression of per2, bmal1, sirtuin1 and survivin and inhibited proliferation and migration of DLD1 cells. When miR-34a-transfected DLD1 cells were exposed to 2.4 GHz RF-EMF, an increase in cry1 mRNA expression was observed. The inhibitory effect of miR-34a on per2 and survivin was weakened and abolished, respectively. The effect of miR-34a on proliferation and migration was eliminated by RF-EMF exposure. In conclusion, RF-EMF strongly influenced regulation mediated by the tumour suppressor miR-34a on the peripheral circadian oscillator in DLD1 cells.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/36361993/)

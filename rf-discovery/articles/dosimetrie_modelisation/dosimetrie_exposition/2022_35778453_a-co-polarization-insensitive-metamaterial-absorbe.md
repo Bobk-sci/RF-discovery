@@ -2,22 +2,31 @@
 pmid: '35778453'
 doi: 10.1038/s41598-022-15221-7
 annee: 2022
-journal: ''
+journal: Scientific reports
 titre: A co-polarization-insensitive metamaterial absorber for 5G n78 mobile devices
   at 3.5 GHz to reduce the specific absorption rate.
 url: https://pubmed.ncbi.nlm.nih.gov/35778453/
-source: europepmc
-acces_ouvert: open
+source: pubmed
+acces_ouvert: ''
 collecte: '2026-09-21'
 mesh:
-- Humans
-- Computers, Handheld
 - Cell Phone
+- Computers, Handheld
+- Humans
 types:
-- Research Support, Non-U.S. Gov't
-- research-article
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Hannan S
+- Islam MT
+- Soliman MS
+- Faruque MRI
+- Misran N
+- Islam MS
+pmcid: PMC9249790
+volume: '12'
+pages: '11193'
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []
@@ -29,11 +38,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # A co-polarization-insensitive metamaterial absorber for 5G n78 mobile devices at 3.5 GHz to reduce the specific absorption rate.
 
-*journal non renseigné — 2022*
+*Scientific reports — 2022*
 
 ## Résumé (texte d'origine)
 

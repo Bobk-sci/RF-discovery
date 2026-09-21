@@ -28,8 +28,19 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Elliott P
+- Toledano MB
+- Bennett J
+- Beale L
+- de Hoogh K
+- Best N
+- Briggs DJ
+pmcid: PMC3191724
+volume: '340'
+pages: c3077
 modele: epidemiologie
-modele_score: 6.0
+modele_score: 7.0
 modele_secondaires:
 - in_vivo
 - dosimetrie_modelisation
@@ -37,6 +48,7 @@ modele_indices:
 - case-control
 - case control
 - confidence interval
+- participants
 theme: neurodeveloppement
 theme_score: 7.0
 theme_secondaires:
@@ -46,6 +58,14 @@ theme_indices:
 - pregnancy
 - child
 - children
+tags:
+- rf
+- modele/epidemiologie
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neurodeveloppement
+- theme/dosimetrie_exposition
+- annee/2010
 ---
 
 # Mobile phone base stations and early childhood cancers: case-control study.
@@ -54,18 +74,18 @@ theme_indices:
 
 ## Résumé (texte d'origine)
 
-To investigate the risk of early childhood cancers associated with the mother's exposure to radiofrequency from and proximity to macrocell mobile phone base stations (masts) during pregnancy.
+OBJECTIVE: To investigate the risk of early childhood cancers associated with the mother's exposure to radiofrequency from and proximity to macrocell mobile phone base stations (masts) during pregnancy.
 
-Case-control study.
+DESIGN: Case-control study.
 
-Cancer registry and national birth register data in Great Britain.
+SETTING: Cancer registry and national birth register data in Great Britain.
 
-1397 cases of cancer in children aged 0-4 from national cancer registry 1999-2001 and 5588 birth controls from national birth register, individually matched by sex and date of birth (four controls per case).
+PARTICIPANTS: 1397 cases of cancer in children aged 0-4 from national cancer registry 1999-2001 and 5588 birth controls from national birth register, individually matched by sex and date of birth (four controls per case).
 
-Incidence of cancers of the brain and central nervous system, leukaemia, and non-Hodgkin's lymphomas, and all cancers combined, adjusted for small area measures of education level, socioeconomic deprivation, population density, and population mixing.
+MAIN OUTCOME MEASURES: Incidence of cancers of the brain and central nervous system, leukaemia, and non-Hodgkin's lymphomas, and all cancers combined, adjusted for small area measures of education level, socioeconomic deprivation, population density, and population mixing.
 
-Mean distance of registered address at birth from a macrocell base station, based on a national database of 76,890 base station antennas in 1996-2001, was similar for cases and controls (1107 (SD 1131) m v 1073 (SD 1130) m, P=0.31), as was total power output of base stations within 700 m of the address (2.89 (SD 5.9) kW v 3.00 (SD 6.0) kW, P=0.54) and modelled power density (-30.3 (SD 21.7) dBm v -29.7 (SD 21.5) dBm, P=0.41). For modelled power density at the address at birth, compared with the lowest exposure category the adjusted odds ratios were 1.01 (95% confidence interval 0.87 to 1.18) in the intermediate and 1.02 (0.88 to 1.20) in the highest exposure category for all cancers (P=0.79 for trend), 0.97 (0.69 to 1.37) and 0.76 (0.51 to 1.12), respectively, for brain and central nervous system cancers (P=0.33 for trend), and 1.16 (0.90 to 1.48) and 1.03 (0.79 to 1.34) for leukaemia and non-Hodgkin's lymphoma (P=0.51 for trend).
+RESULTS: Mean distance of registered address at birth from a macrocell base station, based on a national database of 76,890 base station antennas in 1996-2001, was similar for cases and controls (1107 (SD 1131) m v 1073 (SD 1130) m, P=0.31), as was total power output of base stations within 700 m of the address (2.89 (SD 5.9) kW v 3.00 (SD 6.0) kW, P=0.54) and modelled power density (-30.3 (SD 21.7) dBm v -29.7 (SD 21.5) dBm, P=0.41). For modelled power density at the address at birth, compared with the lowest exposure category the adjusted odds ratios were 1.01 (95% confidence interval 0.87 to 1.18) in the intermediate and 1.02 (0.88 to 1.20) in the highest exposure category for all cancers (P=0.79 for trend), 0.97 (0.69 to 1.37) and 0.76 (0.51 to 1.12), respectively, for brain and central nervous system cancers (P=0.33 for trend), and 1.16 (0.90 to 1.48) and 1.03 (0.79 to 1.34) for leukaemia and non-Hodgkin's lymphoma (P=0.51 for trend).
 
-There is no association between risk of early childhood cancers and estimates of the mother's exposure to mobile phone base stations during pregnancy.
+CONCLUSIONS: There is no association between risk of early childhood cancers and estimates of the mother's exposure to mobile phone base stations during pregnancy.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/20570865/)

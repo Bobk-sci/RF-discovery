@@ -25,6 +25,24 @@ mots_cles:
 - Experimental studies
 - Systematic review
 - Radiofrequency Electromagnetic Fields
+auteurs:
+- Meyer F
+- Bitsch A
+- Forman HJ
+- Fragoulis A
+- Ghezzi P
+- Henschenmacher B
+- Kellner R
+- Kuhne J
+- Ludwig T
+- Sachno D
+- Schmid G
+- Tsaioun K
+- Verbeek J
+- Wright R
+pmcid: ''
+volume: ''
+pages: '108940'
 modele: revue
 modele_score: 1009.0
 modele_secondaires:
@@ -46,6 +64,14 @@ theme_indices:
 - testis
 - ovary
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/in_vitro
+- theme/reproduction
+- theme/stress_oxydatif
+- annee/2024
 ---
 
 # The effects of radiofrequency electromagnetic field exposure on biomarkers of oxidative stress in vivo and in vitro: A systematic review of experimental studies.

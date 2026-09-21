@@ -20,6 +20,22 @@ mots_cles:
 - Hacat
 - B16
 - Radiofrequency Electromagnetic Fields
+auteurs:
+- Kim JH
+- Jin H
+- Jang KM
+- Lee JE
+- Na S
+- Jeon S
+- Choi HD
+- Moon JI
+- Kim N
+- Lim KM
+- Kim HR
+- Lee YS
+pmcid: PMC12837458
+volume: ''
+pages: '127'
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []
@@ -35,6 +51,13 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - redox
+tags:
+- rf
+- modele/in_vitro
+- theme/stress_oxydatif
+- theme/genotoxicite_epigenetique
+- theme/apoptose_mitochondrie
+- annee/2026
 ---
 
 # 5G RF-EMFs Mitigate UV-Induced Genotoxic Stress Through Redox Balance and p38 Pathway Regulation in Skin Cells.

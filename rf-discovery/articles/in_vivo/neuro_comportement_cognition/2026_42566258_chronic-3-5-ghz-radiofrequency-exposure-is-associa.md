@@ -19,6 +19,15 @@ mots_cles:
 - Thymoquinone
 - Excitatory–inhibitory Balance
 - Radiofrequency Electromagnetic Fields
+auteurs:
+- Bektas H
+- Cakir S
+- Alizade A
+- Dogu S
+- Altindag F
+pmcid: ''
+volume: ''
+pages: 1-14
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:
@@ -39,6 +48,15 @@ theme_secondaires:
 theme_indices:
 - learning
 - behavior
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/genotoxicite_epigenetique
+- theme/thermique
+- annee/2026
 ---
 
 # Chronic 3.5 GHz radiofrequency exposure is associated with behavioral, molecular, and histopathological changes in the rat hippocampus.

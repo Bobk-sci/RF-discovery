@@ -31,6 +31,18 @@ mots_cles:
 - Anxiety
 - Gamma-aminobutyric acid
 - Electromagnetic Radiation
+auteurs:
+- Zheng R
+- Zhang X
+- Gao Y
+- Gao D
+- Gong W
+- Zhang C
+- Dong G
+- Li Z
+pmcid: PMC10275548
+volume: ''
+pages: e3004
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:
@@ -54,6 +66,14 @@ theme_indices:
 - behavior
 - spatial memory
 - attention
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/neuro_comportement_cognition
+- theme/plasticite_synaptique
+- theme/dosimetrie_exposition
+- annee/2023
 ---
 
 # Biological effects of exposure to 2650 MHz electromagnetic radiation on the behavior, learning, and memory of mice.

@@ -12,6 +12,13 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs:
+- Giannakopoulos G
+- Shaikh KM
+- Perez MA
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires: []
@@ -24,6 +31,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - children
+tags:
+- rf
+- modele/humain_experimental
+- theme/neurodeveloppement
+- theme/neuro_comportement_cognition
+- annee/2025
 ---
 
 # Mobile Phone Studies Find No Short-Term Health Problems

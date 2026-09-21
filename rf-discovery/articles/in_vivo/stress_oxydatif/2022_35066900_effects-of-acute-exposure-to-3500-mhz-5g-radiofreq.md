@@ -29,6 +29,17 @@ mots_cles:
 - auditory cortex
 - oxidative stress
 - radiofrequency electromagnetic radiation
+auteurs:
+- Yang H
+- Zhang Y
+- Wu X
+- Gan P
+- Luo X
+- Zhong S
+- Zuo W
+pmcid: ''
+volume: '43'
+pages: 106-118
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -48,6 +59,15 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+tags:
+- rf
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neuro_comportement_cognition
+- theme/apoptose_mitochondrie
+- theme/dosimetrie_exposition
+- annee/2022
 ---
 
 # Effects of Acute Exposure to 3500 MHz (5G) Radiofrequency Electromagnetic Radiation on Anxiety-Like Behavior and the Auditory Cortex in Guinea Pigs.

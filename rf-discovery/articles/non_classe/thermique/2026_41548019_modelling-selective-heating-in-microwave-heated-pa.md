@@ -18,6 +18,11 @@ mots_cles:
 - Plastic Waste Recycling Technologies
 - Industrial Electrification
 - Microwave-assisted Processes
+auteurs:
+- Niño CG
+pmcid: PMC12891532
+volume: ''
+pages: '5636'
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -27,6 +32,11 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+tags:
+- rf
+- modele/non_classe
+- theme/thermique
+- annee/2026
 ---
 
 # Modelling selective heating in microwave-heated packed-bed reactors.

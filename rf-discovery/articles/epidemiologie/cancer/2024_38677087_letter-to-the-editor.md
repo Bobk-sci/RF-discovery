@@ -27,6 +27,11 @@ mesh:
 types:
 - Letter
 mots_cles: []
+auteurs:
+- Kundi M
+pmcid: ''
+volume: '187'
+pages: '108665'
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []
@@ -43,6 +48,11 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - meningioma
+tags:
+- rf
+- modele/epidemiologie
+- theme/cancer
+- annee/2024
 ---
 
 # Letter to the editor.

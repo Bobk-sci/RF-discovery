@@ -34,6 +34,17 @@ types:
 - Journal Article
 - Research Support, Non-U.S. Gov't
 mots_cles: []
+auteurs:
+- Shahin S
+- Singh VP
+- Shukla RK
+- Dhawan A
+- Gangwar RK
+- Singh SP
+- Chaturvedi CM
+pmcid: ''
+volume: '169'
+pages: 1727-51
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:
@@ -58,6 +69,16 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/stress_oxydatif
+- theme/neurodeveloppement
+- theme/genotoxicite_epigenetique
+- theme/reproduction
+- annee/2013
 ---
 
 # 2.45 GHz microwave irradiation-induced oxidative stress affects implantation or pregnancy in mice, Mus musculus.

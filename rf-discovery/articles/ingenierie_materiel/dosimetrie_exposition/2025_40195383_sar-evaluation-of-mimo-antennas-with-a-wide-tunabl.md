@@ -19,6 +19,16 @@ mots_cles:
 - Multiple-input Multiple-output (Mimo)
 - Power Divider
 - Cross-polarization Power Ratio (Xpr)
+auteurs:
+- Gu Y
+- Huang J
+- Shi R
+- Xie T
+- Li K
+- Wang X
+pmcid: PMC11976900
+volume: ''
+pages: '11895'
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:
@@ -32,6 +42,12 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+tags:
+- rf
+- modele/ingenierie_materiel
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2025
 ---
 
 # SAR evaluation of MIMO antennas with a wide tunable range power divider.

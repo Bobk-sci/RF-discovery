@@ -25,6 +25,16 @@ mots_cles:
 - fluid intelligence
 - mobile phone screen exposure
 - working memory
+auteurs:
+- Poujol MC
+- Pinar-Martí A
+- Persavento C
+- Delgado A
+- Lopez-Vicente M
+- Julvez J
+pmcid: PMC9566493
+volume: '19'
+pages: ''
 modele: epidemiologie
 modele_score: 1004.0
 modele_secondaires: []
@@ -43,6 +53,12 @@ theme_indices:
 - memory
 - attention
 - reaction time
+tags:
+- rf
+- modele/epidemiologie
+- theme/neuro_comportement_cognition
+- theme/neurodeveloppement
+- annee/2022
 ---
 
 # Impact of Mobile Phone Screen Exposure on Adolescents' Cognitive Health.

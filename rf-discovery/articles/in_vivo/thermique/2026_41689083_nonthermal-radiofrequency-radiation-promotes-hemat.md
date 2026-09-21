@@ -26,6 +26,25 @@ mots_cles:
 - Radiofrequency Radiation
 - Hematopoietic Stem And Progenitor Cells
 - Calcium Efflux
+auteurs:
+- Lv Z
+- Zhao K
+- Li J
+- Li S
+- Zhao X
+- Xu A
+- Wu Y
+- Gao H
+- Li J
+- Sun H
+- Xue Y
+- Li S
+- Xiang S
+- Yang X
+- Li C
+pmcid: PMC13011509
+volume: ''
+pages: '115'
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:
@@ -41,6 +60,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- theme/thermique
+- annee/2026
 ---
 
 # Nonthermal radiofrequency radiation promotes hematopoietic stem and progenitor cells function by regulating Ca&lt;sup&gt;2+&lt;/sup&gt; efflux.

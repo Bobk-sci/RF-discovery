@@ -29,6 +29,22 @@ mots_cles:
 - World Health Organization
 - Radiofrequency Radiation
 - Cancer Risk
+auteurs:
+- Melnick RL
+- Moskowitz JM
+- Héroux P
+- Mallery-Blythe E
+- McCredden JE
+- Herbert M
+- Hardell L
+- Philips A
+- Belpoggi F
+- Frank JW
+- Scarato T
+- Kelley E
+pmcid: PMC12490090
+volume: ''
+pages: '70'
 modele: revue
 modele_score: 1008.0
 modele_secondaires:
@@ -52,6 +68,17 @@ theme_secondaires:
 theme_indices:
 - fertility
 - reproductive
+tags:
+- rf
+- modele/revue
+- modele/in_vivo
+- modele/dosimetrie_modelisation
+- modele/humain_experimental
+- theme/reproduction
+- theme/stress_oxydatif
+- theme/cancer
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # The WHO-commissioned systematic reviews on health effects of radiofrequency radiation provide no assurance of safety.

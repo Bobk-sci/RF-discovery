@@ -29,6 +29,16 @@ mots_cles:
 - Millimeter wave
 - skin temperature
 - Perception Threshold
+auteurs:
+- Yuasa A
+- Uehara S
+- Ushizawa K
+- Kodera S
+- Hirata A
+- Otaka Y
+pmcid: ''
+volume: ''
+pages: 1196-1203
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:
@@ -41,6 +51,12 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+tags:
+- rf
+- modele/epidemiologie
+- modele/dosimetrie_modelisation
+- theme/dosimetrie_exposition
+- annee/2026
 ---
 
 # Pain threshold induced by local exposure to millimeter waves on human skin.

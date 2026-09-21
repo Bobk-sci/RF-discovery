@@ -19,6 +19,18 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs:
+- Seabaugh VM
+- Bayard SP
+- Osterberg RE
+- Porter WK
+- McCaulley DF
+- Hoheisel CA
+- Hehir RM
+- Bierbower GW
+pmcid: PMC1653623
+volume: '67'
+pages: 367-9
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []
@@ -31,6 +43,11 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+tags:
+- rf
+- modele/in_vivo
+- theme/dosimetrie_exposition
+- annee/1977
 ---
 
 # Detergent toxicity survey.

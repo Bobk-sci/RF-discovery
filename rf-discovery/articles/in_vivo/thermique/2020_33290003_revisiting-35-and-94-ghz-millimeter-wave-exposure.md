@@ -31,6 +31,18 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, Non-P.H.S.
 mots_cles: []
+auteurs:
+- Parker JE
+- Beason CW
+- Sturgeon SP
+- Voorhees WB
+- Johnson SS
+- Nelson KS
+- Johnson LR
+- Whitmore JN
+pmcid: ''
+volume: '119'
+pages: 206-215
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:
@@ -45,6 +57,14 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - body temperature
+tags:
+- rf
+- modele/in_vivo
+- modele/in_vitro
+- modele/dosimetrie_modelisation
+- theme/thermique
+- theme/dosimetrie_exposition
+- annee/2020
 ---
 
 # Revisiting 35 and 94 GHZ Millimeter Wave Exposure to the Non-Human Primate Eye.

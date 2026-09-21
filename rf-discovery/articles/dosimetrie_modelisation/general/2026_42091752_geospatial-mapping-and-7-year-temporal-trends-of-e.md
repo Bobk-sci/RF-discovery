@@ -30,6 +30,14 @@ mots_cles:
 - Geospatial Mapping
 - 5 G Networks
 - Emf Regulation
+auteurs:
+- Kiouvrekis Y
+- Psomadakis I
+- Christakis C
+- Kalatzis D
+pmcid: PMC13149580
+volume: ''
+pages: '562'
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []
@@ -39,6 +47,11 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+tags:
+- rf
+- modele/dosimetrie_modelisation
+- theme/general
+- annee/2026
 ---
 
 # Geospatial mapping and 7-year temporal trends of electromagnetic field bands in Cyprus.

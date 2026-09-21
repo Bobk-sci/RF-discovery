@@ -34,6 +34,16 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Radiofrequency Electromagnetic Fields
 - Nocebo Effect
+auteurs:
+- Verrender A
+- Wallace NK
+- Loughran SP
+- Wallace C
+- Beange J
+- Croft RJ
+pmcid: PMC12117290
+volume: ''
+pages: e70044
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:
@@ -45,6 +55,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+tags:
+- rf
+- modele/humain_experimental
+- modele/epidemiologie
+- theme/neurodeveloppement
+- annee/2025
 ---
 
 # What is the effect of alarmist media and radiofrequency electromagnetic field (RF-EMF) exposure on salivary cortisol and non-specific symptoms?
