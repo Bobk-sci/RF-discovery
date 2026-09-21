@@ -159,6 +159,22 @@ def test_pubmed_search_pagine_et_recupere(tmp_path):
     assert calls and calls[0]["db"] == "pubmed"
 
 
+def test_pubmed_pagination_ne_boucle_pas_sur_des_doublons():
+    """Une page entièrement dupliquée figeait `retstart` : la collecte tournait sans fin."""
+    appels: list[int] = []
+
+    def fake_json(_url, params):
+        appels.append(int(params["retstart"]))
+        if len(appels) > 20:
+            raise AssertionError("pagination bloquée : même fenêtre redemandée")
+        # Toujours les mêmes identifiants : aucun nouveau, la boucle doit s'arrêter.
+        return {"esearchresult": {"idlist": ["11", "22"]}}
+
+    ids = pubmed.search_ids("rf", max_results=100, page_size=2, fetcher_json=fake_json)
+    assert ids == ["11", "22"]
+    assert appels == [0, 2]      # le décalage avance, puis la page sans neuf arrête tout
+
+
 def test_pubmed_xml_illisible_ne_leve_pas():
     assert pubmed.parse_pubmed_xml("<pas du xml") == []
 

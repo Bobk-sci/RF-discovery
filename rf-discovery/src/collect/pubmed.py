@@ -38,13 +38,20 @@ def search_ids(query: str, *, max_results: int = 500, page_size: int = 200,
     """PMID répondant à la requête (pagination ``retstart``, ordre PubMed conservé)."""
     fetch = fetcher_json or (lambda u, p: get_json(u, p, cache_dir=cache_dir))
     ids: list[str] = []
-    while len(ids) < max_results:
-        want = min(page_size, max_results - len(ids))
-        extra = {"term": query, "retmode": "json", "retstart": len(ids), "retmax": want}
+    seen: set[str] = set()
+    start = 0                 # décalage RÉEL demandé, pas le nombre d'uniques retenus :
+    while len(ids) < max_results:   # sinon une page de doublons fige `retstart` et la
+        want = min(page_size, max_results - len(ids))   # boucle tourne indéfiniment.
+        extra = {"term": query, "retmode": "json", "retstart": start, "retmax": want}
         data = fetch(f"{_EUTILS}/esearch.fcgi", _params(extra, api_key, email)) or {}
-        batch = (data.get("esearchresult") or {}).get("idlist") or []
-        ids.extend(str(i) for i in batch if str(i) not in ids)
-        if not batch or len(batch) < want:
+        batch = [str(i) for i in (data.get("esearchresult") or {}).get("idlist") or []]
+        nouveaux = [i for i in batch if i not in seen]
+        ids.extend(nouveaux)
+        seen.update(nouveaux)
+        start += len(batch)
+        # Page vide, page incomplète (fin des résultats) ou page sans rien de neuf :
+        # dans les trois cas il n'y a plus rien à récupérer.
+        if not batch or not nouveaux or len(batch) < want:
             break
     return ids[:max_results]
 
