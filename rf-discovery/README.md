@@ -124,6 +124,23 @@ l'entraînement, pas pour analyser de la littérature.
 `articles/bibliotheque-rf.ris`. Les champs `L1` pointent vers les PDF téléchargés : les
 fichiers s'attachent aux références à l'import.
 
+## Analyser le corpus avec Claude Code (VS Code)
+
+Ouvrez le dépôt cloné dans VS Code, installez l'extension **Claude Code** (Extensions →
+« Claude Code »), connectez-vous, et le dossier `.claude/commands/` fournit quatre
+commandes taillées pour ce corpus :
+
+| Commande | Ce qu'elle fait |
+|---|---|
+| `/synthese <thème>` | état des connaissances, organisé par modèle d'étude, chaque affirmation portant son PMID |
+| `/contradictions <sujet>` | tableau des études qui se contredisent, avec les conditions d'exposition |
+| `/lacunes <domaine>` | ce que le corpus ne couvre pas, et les requêtes à ajouter |
+| `/redaction <objet>` | paragraphe sourcé, fiches utilisées et réserves explicites |
+
+Toutes imposent la même règle que la collecte : **aucune référence, aucun chiffre qui ne
+soit dans une fiche lue**. `CLAUDE.md` est chargé automatiquement et rappelle ces
+contraintes.
+
 ## Runs incrémentaux
 
 `data/seen_library.json` retient ce qui est déjà rangé : un rerun ne ramène que les
