@@ -17,6 +17,10 @@ mots_cles:
 - Mobile Phones
 - Radiofrequency
 - Sleep Quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

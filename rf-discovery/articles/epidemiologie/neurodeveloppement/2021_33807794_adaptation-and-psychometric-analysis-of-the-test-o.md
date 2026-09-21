@@ -27,6 +27,10 @@ mots_cles:
 - mobile phone use
 - personality functioning
 - sleep disturbances
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

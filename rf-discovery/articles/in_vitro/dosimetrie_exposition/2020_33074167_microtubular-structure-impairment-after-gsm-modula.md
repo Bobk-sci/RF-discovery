@@ -23,6 +23,10 @@ mots_cles:
 - cytoskeleton
 - in vitro
 - mobile phone radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 4.0
 modele_secondaires:

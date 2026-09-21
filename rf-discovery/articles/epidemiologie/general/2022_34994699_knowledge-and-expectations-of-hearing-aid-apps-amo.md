@@ -28,6 +28,10 @@ mots_cles:
 - perception
 - smartphone
 - survey
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires: []

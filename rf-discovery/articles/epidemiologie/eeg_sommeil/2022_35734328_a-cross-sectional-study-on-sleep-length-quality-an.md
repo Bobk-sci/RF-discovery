@@ -27,6 +27,10 @@ mots_cles:
 - mobile phone
 - sleep length
 - sleep quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

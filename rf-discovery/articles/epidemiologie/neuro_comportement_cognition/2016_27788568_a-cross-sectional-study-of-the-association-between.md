@@ -17,6 +17,10 @@ mots_cles:
 - Headaches
 - Mobile phones
 - Non-specific symptoms
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 4.5
 modele_secondaires: []

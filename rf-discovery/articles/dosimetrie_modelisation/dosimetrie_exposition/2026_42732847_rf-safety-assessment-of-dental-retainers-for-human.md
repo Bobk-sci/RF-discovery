@@ -19,6 +19,10 @@ mots_cles:
 - 9.4 Tesla
 - Vop Compression
 - Dental Retainers
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:

@@ -76,6 +76,11 @@ def _front_matter(paper: Paper, assignments: dict[str, Assignment],
         "mesh": list(paper.extra.get("mesh") or []),
         "types": list(paper.extra.get("types") or []),
         "mots_cles": list(paper.extra.get("keywords") or []),
+        # De quoi produire une référence complète (EndNote/Zotero) et retrouver le PDF.
+        "auteurs": list(paper.extra.get("authors") or []),
+        "pmcid": str(paper.extra.get("pmcid") or ""),
+        "volume": str(paper.extra.get("volume") or ""),
+        "pages": str(paper.extra.get("pages") or ""),
     }
     for axis in axes:
         a = assignments.get(axis)
@@ -142,7 +147,11 @@ def read_article(path: str | Path) -> Paper:
         oa_status=str(meta.get("acces_ouvert", "") or ""),
         extra={"mesh": list(meta.get("mesh") or []),
                "types": list(meta.get("types") or []),
-               "keywords": list(meta.get("mots_cles") or [])},
+               "keywords": list(meta.get("mots_cles") or []),
+               "authors": list(meta.get("auteurs") or []),
+               "pmcid": str(meta.get("pmcid") or ""),
+               "volume": str(meta.get("volume") or ""),
+               "pages": str(meta.get("pages") or "")},
     )
 
 

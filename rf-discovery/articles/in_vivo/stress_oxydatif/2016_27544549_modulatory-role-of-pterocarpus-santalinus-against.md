@@ -36,6 +36,10 @@ mots_cles:
 - Nitrosative stress
 - Oxidative stress
 - P. santalinus
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

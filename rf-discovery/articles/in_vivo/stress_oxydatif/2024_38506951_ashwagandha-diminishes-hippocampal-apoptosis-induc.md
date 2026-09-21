@@ -31,6 +31,10 @@ mots_cles:
 - Microwave radiation
 - Neuro-inflammation
 - Oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

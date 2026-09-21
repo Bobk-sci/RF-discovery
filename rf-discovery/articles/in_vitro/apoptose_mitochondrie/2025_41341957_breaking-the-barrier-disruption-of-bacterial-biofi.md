@@ -25,6 +25,10 @@ mots_cles:
 - microwave irradiation
 - Biofilm Disinfection
 - Medical Device Sterilization
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

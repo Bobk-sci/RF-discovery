@@ -35,6 +35,10 @@ mots_cles:
 - Neuronal degeneration
 - Núcleo coclear
 - Radiação eletromagnética
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

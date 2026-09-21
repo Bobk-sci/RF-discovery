@@ -32,6 +32,10 @@ mots_cles:
 - Radiofrequency radiation
 - human lens epithelial cells
 - shotgun proteomics approach
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires:

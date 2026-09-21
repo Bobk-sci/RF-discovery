@@ -26,6 +26,10 @@ mots_cles:
 - Non-ionizing Electromagnetic Fields
 - Electro/Magnetoreception
 - Static/Extremely-Low Frequency Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

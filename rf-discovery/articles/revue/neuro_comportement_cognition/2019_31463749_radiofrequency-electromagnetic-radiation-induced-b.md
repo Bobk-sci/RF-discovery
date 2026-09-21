@@ -34,6 +34,10 @@ mots_cles:
 - Locomotion
 - Mobile phone
 - Radiofrequency electromagnetic radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

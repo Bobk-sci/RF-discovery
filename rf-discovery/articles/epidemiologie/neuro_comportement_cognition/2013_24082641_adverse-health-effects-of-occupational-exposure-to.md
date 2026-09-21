@@ -18,6 +18,10 @@ mots_cles:
 - microwave airport surveillance radar
 - occupational exposure
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

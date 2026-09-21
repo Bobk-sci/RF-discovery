@@ -20,6 +20,10 @@ mots_cles:
 - Rosmarinic acid
 - Cell Phone
 - Ultrahigh-frequency Wave
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

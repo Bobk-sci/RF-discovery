@@ -19,6 +19,10 @@ mots_cles:
 - Ultra Wideband
 - Multiple-input Multiple-output
 - Polarization Diversity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1008.0
 modele_secondaires:

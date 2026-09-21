@@ -25,6 +25,10 @@ mots_cles:
 - health promotion
 - physical activity
 - problematic mobile phone use
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

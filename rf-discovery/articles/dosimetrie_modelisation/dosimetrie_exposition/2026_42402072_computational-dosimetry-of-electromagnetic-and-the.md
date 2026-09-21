@@ -17,6 +17,10 @@ mots_cles:
 - V2V communication
 - finite element analysis
 - pacemaker wearers
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

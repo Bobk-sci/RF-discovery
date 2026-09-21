@@ -36,6 +36,10 @@ mots_cles:
 - Radiofrequency radiation (RFR)
 - Reactive oxygen species (ROS)
 - Scientific integrity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 8.5
 modele_secondaires:

@@ -19,6 +19,10 @@ mots_cles:
 - Flexible Antenna
 - 5G Communication
 - Multi Stub Resonator Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

@@ -27,6 +27,10 @@ mots_cles:
 - Emf Exposure
 - Spot Measurements
 - Drive Test
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

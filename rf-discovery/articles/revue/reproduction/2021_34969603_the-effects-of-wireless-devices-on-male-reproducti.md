@@ -35,6 +35,10 @@ mots_cles:
 - Sperm quality
 - Total motile sperm count
 - Wireless devices
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

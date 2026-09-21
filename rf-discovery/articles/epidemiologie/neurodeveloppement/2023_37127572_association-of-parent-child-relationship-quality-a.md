@@ -29,6 +29,10 @@ mots_cles:
 - Parent-child relationship
 - Problematic mobile phone use
 - Sex
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

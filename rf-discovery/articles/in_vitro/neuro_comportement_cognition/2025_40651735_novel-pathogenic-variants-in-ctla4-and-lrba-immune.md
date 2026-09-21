@@ -30,6 +30,10 @@ mots_cles:
 - Inborn error of immunity (IEI)
 - LRBA
 - Whole-exome sequencing (WES)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -26,6 +26,10 @@ mots_cles:
 - Male fertility
 - Mendelian Randomization
 - Mobile Phone Use
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

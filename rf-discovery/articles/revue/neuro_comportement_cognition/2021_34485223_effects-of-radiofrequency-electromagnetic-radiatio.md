@@ -28,6 +28,10 @@ mots_cles:
 - Transmission
 - Receptor
 - Emr
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

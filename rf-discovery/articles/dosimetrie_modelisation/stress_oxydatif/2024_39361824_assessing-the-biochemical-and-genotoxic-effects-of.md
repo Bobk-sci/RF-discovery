@@ -23,6 +23,10 @@ mots_cles:
 - Non-thermal effect
 - electromagnetic radiation
 - microwave pollution
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

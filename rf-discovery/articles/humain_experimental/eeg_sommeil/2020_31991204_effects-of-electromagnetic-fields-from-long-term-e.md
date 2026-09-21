@@ -26,6 +26,10 @@ mots_cles:
 - LTE
 - Power spectrum
 - mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

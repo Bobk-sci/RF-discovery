@@ -28,6 +28,10 @@ mots_cles:
 - Mmw
 - Ptch1 +/− Mice
 - Inflammation, Mast Cells
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

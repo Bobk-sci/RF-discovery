@@ -28,6 +28,10 @@ mots_cles:
 - children
 - epidemiology
 - standardized ownership ratio
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires: []

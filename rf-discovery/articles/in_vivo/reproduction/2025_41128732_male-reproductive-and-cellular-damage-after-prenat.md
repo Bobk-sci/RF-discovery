@@ -30,6 +30,10 @@ mots_cles:
 - prenatal exposure
 - sperm morphology
 - testis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires: []

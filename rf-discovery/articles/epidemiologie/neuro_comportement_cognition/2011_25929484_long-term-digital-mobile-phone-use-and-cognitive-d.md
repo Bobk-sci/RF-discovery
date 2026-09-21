@@ -31,6 +31,10 @@ mots_cles:
 - ageing
 - cognitive functioning
 - electromagnetic field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

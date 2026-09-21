@@ -28,6 +28,10 @@ mots_cles:
 - Oxidative metabolism
 - Radiofrequency-electromagnetic field (RF-EM) radiation
 - Untargeted metabolomics
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

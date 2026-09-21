@@ -37,6 +37,10 @@ mots_cles:
 - Neurodevelopment
 - Personal exposure meter
 - Radiofrequency radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:

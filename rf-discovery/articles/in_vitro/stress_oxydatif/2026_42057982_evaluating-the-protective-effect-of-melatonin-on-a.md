@@ -20,6 +20,10 @@ mots_cles:
 - Fibroblasts
 - Radiofrequency
 - L929 Cells
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.5
 modele_secondaires: []

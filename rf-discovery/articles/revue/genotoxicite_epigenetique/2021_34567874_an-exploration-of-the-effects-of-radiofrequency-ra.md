@@ -25,6 +25,10 @@ mots_cles:
 - Mobile Phones
 - Cell Phones
 - Low-Frequency Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1003.0
 modele_secondaires:

@@ -25,6 +25,10 @@ mots_cles:
 - Mobile phone
 - Radiofrequency
 - Blood-Brain Barrier
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

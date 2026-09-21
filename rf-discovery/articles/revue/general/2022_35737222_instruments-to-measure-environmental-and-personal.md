@@ -24,6 +24,10 @@ mots_cles:
 - Monitoring systems
 - Radiofrequency-electromagnetic exposures
 - Radiofrequency-electromagnetic exposure assessment
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1003.0
 modele_secondaires:

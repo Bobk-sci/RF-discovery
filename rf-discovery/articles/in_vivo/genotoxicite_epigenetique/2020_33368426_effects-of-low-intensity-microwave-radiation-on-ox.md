@@ -28,6 +28,10 @@ mots_cles:
 - MDA
 - liver
 - microwave radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

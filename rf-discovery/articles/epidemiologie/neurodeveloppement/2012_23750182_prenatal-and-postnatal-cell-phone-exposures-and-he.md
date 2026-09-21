@@ -20,6 +20,10 @@ mots_cles:
 - mobile phone
 - pain
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 4.0
 modele_secondaires: []

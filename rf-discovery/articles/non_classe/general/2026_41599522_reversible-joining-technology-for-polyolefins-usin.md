@@ -19,6 +19,10 @@ mots_cles:
 - Polyolefins
 - Hot-melts
 - Reversible Joining Technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -31,6 +31,10 @@ mots_cles:
 - Mobile Communications
 - Health Risk Perception
 - Exposure Perception
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

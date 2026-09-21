@@ -17,6 +17,10 @@ mots_cles:
 - male reproductive health
 - mobile phone
 - wireless technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

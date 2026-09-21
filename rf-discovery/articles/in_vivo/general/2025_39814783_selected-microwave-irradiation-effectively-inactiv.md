@@ -29,6 +29,10 @@ mots_cles:
 - Exposure Time
 - A(h5n1) Virus
 - Radiated Microwaves
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

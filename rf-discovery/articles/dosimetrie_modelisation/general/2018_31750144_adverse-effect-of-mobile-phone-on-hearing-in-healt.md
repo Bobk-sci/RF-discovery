@@ -19,6 +19,10 @@ mots_cles:
 - SAR
 - Sensorineural hearing loss
 - Years of exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:

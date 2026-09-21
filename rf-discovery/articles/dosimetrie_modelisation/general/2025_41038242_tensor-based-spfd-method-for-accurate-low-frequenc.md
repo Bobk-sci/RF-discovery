@@ -24,6 +24,10 @@ mots_cles:
 - Computational Accuracy
 - Volume Conductor Model
 - Staircasing Error
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []

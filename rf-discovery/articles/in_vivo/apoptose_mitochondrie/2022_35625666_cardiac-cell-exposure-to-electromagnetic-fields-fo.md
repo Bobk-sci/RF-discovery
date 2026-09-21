@@ -18,6 +18,10 @@ mots_cles:
 - Oxidative stress
 - Electromagnetic fields
 - Cardiomyoblasts
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:

@@ -33,6 +33,10 @@ mots_cles:
 - Testis development
 - Insulin-like Growth Factor-1 (Igf1)
 - The Src Homology 3 (Sh3) And Multiple Ankyrin Repeat Domain (Shank3)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

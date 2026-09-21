@@ -28,6 +28,10 @@ mots_cles:
 - Antenna Miniaturization
 - Active Electromagnetic Protective Measure
 - Near‐field Electromagnetic Exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

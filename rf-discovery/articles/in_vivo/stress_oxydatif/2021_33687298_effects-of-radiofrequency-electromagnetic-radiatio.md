@@ -29,6 +29,10 @@ mots_cles:
 - oxidative stress
 - reactive oxygen species (ROS)
 - serum toxicity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

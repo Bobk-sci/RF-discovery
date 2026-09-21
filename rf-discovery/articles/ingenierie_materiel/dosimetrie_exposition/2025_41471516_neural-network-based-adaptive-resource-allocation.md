@@ -21,6 +21,10 @@ mots_cles:
 - 5G-advanced
 - 5g Hudns
 - Adaptive Resource Allocation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []

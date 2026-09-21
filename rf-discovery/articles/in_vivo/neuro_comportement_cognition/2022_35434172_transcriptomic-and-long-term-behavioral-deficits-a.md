@@ -14,6 +14,10 @@ types:
 - rapid-communication
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires: []

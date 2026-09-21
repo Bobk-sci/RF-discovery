@@ -31,6 +31,10 @@ mots_cles:
 - Sar Analysis
 - Implantable Technology
 - Phantom Modeling
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1001.0
 modele_secondaires:

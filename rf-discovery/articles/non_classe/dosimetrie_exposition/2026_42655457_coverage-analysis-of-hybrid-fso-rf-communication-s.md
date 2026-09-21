@@ -20,6 +20,10 @@ mots_cles:
 - High-speed Railway Communications
 - Percentage Of Cell Coverage Area
 - Hybrid Fso/rf System
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

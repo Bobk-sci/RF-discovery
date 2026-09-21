@@ -23,6 +23,10 @@ mots_cles:
 - Amc Metasurface
 - On-Body Applications
 - Uhf-Rfid System
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

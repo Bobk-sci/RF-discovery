@@ -28,6 +28,10 @@ mots_cles:
 - Radiofrequency
 - Mitotic Spindle
 - 1.6 Ghz
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:

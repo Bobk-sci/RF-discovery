@@ -18,6 +18,10 @@ mots_cles:
 - homelessness
 - internet
 - smartphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 5.5
 modele_secondaires: []

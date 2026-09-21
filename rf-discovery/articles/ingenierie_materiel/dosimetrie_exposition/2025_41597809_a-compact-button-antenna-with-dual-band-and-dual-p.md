@@ -18,6 +18,10 @@ mots_cles:
 - Circularly Polarized Antenna
 - Button Antennas
 - Wireless Body-area Networks (Wbans)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.5
 modele_secondaires:

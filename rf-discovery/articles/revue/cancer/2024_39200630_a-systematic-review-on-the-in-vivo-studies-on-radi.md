@@ -29,6 +29,10 @@ mots_cles:
 - In vivo studies
 - Tumor Incidence
 - Co-carcinogenesis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

@@ -31,6 +31,10 @@ mots_cles:
 - remote monitoring
 - social needs care
 - willingness
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

@@ -24,6 +24,10 @@ mots_cles:
 - Electromagnetic Stimulation
 - Neprilysin
 - Amyloid-beta Degrading Enzyme
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

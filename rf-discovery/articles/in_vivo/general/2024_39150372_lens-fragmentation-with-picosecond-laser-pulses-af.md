@@ -27,6 +27,10 @@ mots_cles:
 - microwave
 - phacoemulsification
 - picosecond pulses
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:

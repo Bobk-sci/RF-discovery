@@ -17,6 +17,10 @@ mots_cles:
 - Cell viability
 - microwave radiation
 - nonmetallic walls
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires: []

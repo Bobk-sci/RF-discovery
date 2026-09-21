@@ -29,6 +29,10 @@ mots_cles:
 - ATF4
 - Radiofrequency Radiation
 - Ferroptosis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

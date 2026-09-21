@@ -30,6 +30,10 @@ mots_cles:
 - Wlan
 - Radiofrequency Electromagnetic Fields
 - Sleep Macrostructure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:

@@ -20,6 +20,10 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

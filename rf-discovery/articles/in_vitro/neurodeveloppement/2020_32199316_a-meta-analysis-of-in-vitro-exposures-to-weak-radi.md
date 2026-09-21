@@ -41,6 +41,10 @@ mots_cles:
 - Radiofrequency Electromagnetic Fields
 - Specific Absorption Rate (Sar)
 - In Vitro Biological Experiments Non-ionizing Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:

@@ -27,6 +27,10 @@ mots_cles:
 - Radiofrequency electromagnetic field
 - Wound healing
 - eNOS
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

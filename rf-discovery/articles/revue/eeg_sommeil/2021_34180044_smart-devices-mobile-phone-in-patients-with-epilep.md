@@ -23,6 +23,10 @@ mots_cles:
 - phone
 - radiation
 - seizure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

@@ -36,6 +36,10 @@ mots_cles:
 - Cell phone
 - Nonionizing radiation
 - Thyroid cancer
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1007.5
 modele_secondaires: []

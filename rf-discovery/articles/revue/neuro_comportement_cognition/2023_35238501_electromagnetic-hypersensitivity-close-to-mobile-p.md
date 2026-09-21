@@ -25,6 +25,10 @@ mots_cles:
 - Symptoms
 - Radiofrequency Radiation
 - Electromagnetic Hypersensitivity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

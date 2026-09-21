@@ -35,6 +35,10 @@ mots_cles:
 - Electromagnetic fields
 - Heart and brain magnetic nanoparticles
 - Magnetic motion
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

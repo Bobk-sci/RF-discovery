@@ -18,6 +18,10 @@ mots_cles:
 - Histology
 - Electromagnetic fields
 - Moringa Oleifera
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

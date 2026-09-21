@@ -25,6 +25,10 @@ types:
 - Journal Article
 - Multicenter Study
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 7.0
 modele_secondaires: []

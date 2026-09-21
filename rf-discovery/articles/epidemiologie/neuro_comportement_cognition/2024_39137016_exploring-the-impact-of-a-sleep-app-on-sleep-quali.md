@@ -23,6 +23,10 @@ mots_cles:
 - mobile phone
 - sleep
 - smartphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

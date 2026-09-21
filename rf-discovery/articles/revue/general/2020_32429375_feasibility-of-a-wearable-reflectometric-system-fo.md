@@ -29,6 +29,10 @@ mots_cles:
 - remote monitoring
 - skin hydration
 - time domain reflectometry
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

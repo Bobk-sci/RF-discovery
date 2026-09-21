@@ -26,6 +26,10 @@ mots_cles:
 - National
 - RF-EMF personal exposure
 - Reference levels
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

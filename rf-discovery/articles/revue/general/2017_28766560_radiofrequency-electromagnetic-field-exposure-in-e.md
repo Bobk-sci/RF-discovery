@@ -25,6 +25,10 @@ types:
 - Research Support, Non-U.S. Gov't
 - Systematic Review
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1007.0
 modele_secondaires:

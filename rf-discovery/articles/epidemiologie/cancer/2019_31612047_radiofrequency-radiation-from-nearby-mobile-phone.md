@@ -20,6 +20,10 @@ mots_cles:
 - microwaves
 - mobile phone
 - radiofrequency radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

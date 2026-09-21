@@ -26,6 +26,10 @@ mots_cles:
 - Radiofrequency Electromagnetic Fields
 - Radiofrequency Exposure
 - Carcinogenesis, Toxicity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1007.0
 modele_secondaires:

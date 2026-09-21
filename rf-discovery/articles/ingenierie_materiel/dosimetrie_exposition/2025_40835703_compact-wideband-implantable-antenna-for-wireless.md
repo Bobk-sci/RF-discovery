@@ -28,6 +28,10 @@ mots_cles:
 - Wideband
 - Link Budget
 - Defective Ground Structure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

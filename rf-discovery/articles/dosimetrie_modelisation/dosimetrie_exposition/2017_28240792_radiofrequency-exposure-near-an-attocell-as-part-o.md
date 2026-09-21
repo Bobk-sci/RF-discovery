@@ -26,6 +26,10 @@ mots_cles:
 - attocells
 - compliance
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 8.0
 modele_secondaires: []

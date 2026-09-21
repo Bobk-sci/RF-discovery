@@ -24,6 +24,10 @@ mots_cles:
 - Plant Stem Inspection
 - Near-field Antenna
 - Tree Health Monitoring
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 3.5
 modele_secondaires:

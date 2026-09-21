@@ -32,6 +32,10 @@ mots_cles:
 - Mobile application
 - Otitis media with effusion
 - Screening test
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

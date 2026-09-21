@@ -25,6 +25,10 @@ types:
 - English Abstract
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

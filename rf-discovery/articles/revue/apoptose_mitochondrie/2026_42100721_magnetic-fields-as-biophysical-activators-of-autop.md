@@ -21,6 +21,10 @@ mots_cles:
 - Repetitive transcranial magnetic stimulation
 - Autophagy
 - Preclinical Models
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

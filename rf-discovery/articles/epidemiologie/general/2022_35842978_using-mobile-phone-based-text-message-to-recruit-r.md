@@ -27,6 +27,10 @@ mots_cles:
 - Demography
 - Survey and questionnaires
 - Vaccination hesitancy
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires: []

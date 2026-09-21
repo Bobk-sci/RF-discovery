@@ -30,6 +30,10 @@ mots_cles:
 - In vitro study
 - Radiofrequency
 - Co‐exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:

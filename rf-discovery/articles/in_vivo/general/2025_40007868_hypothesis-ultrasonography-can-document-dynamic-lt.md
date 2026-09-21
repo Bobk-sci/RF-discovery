@@ -21,6 +21,10 @@ mots_cles:
 - Wireless Communication
 - Emfs
 - Cellphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1002.5
 modele_secondaires: []

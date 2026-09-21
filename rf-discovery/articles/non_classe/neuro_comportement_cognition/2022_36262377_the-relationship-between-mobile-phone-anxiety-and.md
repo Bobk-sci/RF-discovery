@@ -21,6 +21,10 @@ types:
 - Journal Article
 - Retracted Publication
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

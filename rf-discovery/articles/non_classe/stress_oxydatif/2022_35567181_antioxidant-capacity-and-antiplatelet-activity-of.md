@@ -18,6 +18,10 @@ mots_cles:
 - common bean
 - microwave assisted extraction
 - ultrasonic assisted extraction
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

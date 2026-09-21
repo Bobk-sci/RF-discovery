@@ -67,6 +67,31 @@ EMF-Portal n'ayant pas d'API, l'outil ne lit de ses pages que les identifiants s
 portail change ou devient injoignable, l'étape rend **zéro** article plutôt qu'une notice
 approximative. Le gabarit d'URL de recherche est paramétrable (`--emfportal-url`).
 
+## Importer dans EndNote ou Zotero, et récupérer les PDF
+
+```bash
+python -m export_refs                                # articles/bibliotheque-rf.{ris,bib}
+python -m fetch_pdfs --email vous@exemple.fr --out pdf
+python -m export_refs --pdf-dir pdf                  # rattache les PDF aux références
+```
+
+`bibliotheque-rf.ris` s'importe directement dans **EndNote** (*File → Import*) et dans
+**Zotero** (*Fichier → Importer*) ; `bibliotheque-rf.bib` convient à Zotero et à LaTeX.
+Le classement voyage en mots-clés (`modele:in_vivo`, `theme:neurodeveloppement`) : Zotero
+en fait des étiquettes, sur lesquelles on reconstruit l'arborescence en une recherche
+sauvegardée.
+
+**Les PDF, eux, ne sont pas tous récupérables.** `fetch_pdfs` interroge
+[Unpaywall](https://unpaywall.org) — API publique, une adresse courriel suffit — et
+télécharge uniquement les versions légalement gratuites. Un article sous abonnement est
+compté dans `sans_acces_libre` et **n'est pas téléchargé** : contourner un péage
+violerait les conditions des éditeurs. Pour ceux-là, la voie normale est l'accès
+institutionnel — dans Zotero, *Préférences → Général → « Trouver le PDF disponible »* avec
+le proxy de votre bibliothèque configuré (*Préférences → Avancé → Proxys*).
+
+Les PDF atterrissent dans `pdf/`, **non versionné** (volume, et licences variables selon
+l'éditeur).
+
 ## Runs incrémentaux
 
 `data/seen_library.json` retient ce qui est déjà rangé : un rerun ne ramène que les

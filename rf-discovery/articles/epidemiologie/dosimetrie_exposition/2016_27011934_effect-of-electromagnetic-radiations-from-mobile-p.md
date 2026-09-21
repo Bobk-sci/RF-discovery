@@ -18,6 +18,10 @@ mots_cles:
 - mobile phones
 - saliva
 - salivary glands
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

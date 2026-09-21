@@ -19,6 +19,10 @@ mots_cles:
 - Radiation
 - Mobile phone
 - Health
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

@@ -44,6 +44,10 @@ mots_cles:
 - offspring
 - pregnancy
 - total distance moved
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 14.0
 modele_secondaires: []

@@ -18,6 +18,10 @@ mots_cles:
 - human breast cancer cell line MCF-7
 - microwave mild hyperthermia
 - paclitaxel
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires: []

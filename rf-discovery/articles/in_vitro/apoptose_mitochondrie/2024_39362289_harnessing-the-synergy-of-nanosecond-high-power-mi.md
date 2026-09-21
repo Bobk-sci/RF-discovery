@@ -34,6 +34,10 @@ mots_cles:
 - Mitochondrial dysfunction
 - Ovarian cancer cells
 - ROS
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires: []

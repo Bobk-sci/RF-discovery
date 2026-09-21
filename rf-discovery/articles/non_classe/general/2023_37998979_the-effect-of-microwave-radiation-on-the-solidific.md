@@ -21,6 +21,10 @@ mots_cles:
 - Microwave Exposure
 - C-s-h
 - Material Drying
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

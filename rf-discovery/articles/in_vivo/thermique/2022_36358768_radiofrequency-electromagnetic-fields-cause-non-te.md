@@ -18,6 +18,10 @@ mots_cles:
 - colorectal cancer
 - hyperthermia
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

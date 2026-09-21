@@ -19,6 +19,10 @@ mots_cles:
 - Optical Interference
 - Irradiation Disinfection
 - Microbiota On Surfaces
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

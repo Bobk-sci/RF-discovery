@@ -31,6 +31,10 @@ mots_cles:
 - SDANN
 - SDNN
 - SDNNi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []

@@ -31,6 +31,10 @@ mots_cles:
 - Microwave reaction
 - Perkin-condensation
 - Phenanthrene fused-tetrahydrodibenzo-acridinones
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires: []

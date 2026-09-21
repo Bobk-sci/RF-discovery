@@ -29,6 +29,10 @@ mots_cles:
 - problematic mobile phone use
 - sleep quality
 - social media
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.0
 modele_secondaires: []

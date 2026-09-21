@@ -18,6 +18,10 @@ mots_cles:
 - Hand
 - Hand trauma
 - Wrist
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 4.5
 modele_secondaires: []

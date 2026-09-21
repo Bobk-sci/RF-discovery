@@ -21,6 +21,10 @@ mots_cles:
 - Wilkinson Power Divider
 - Filtering Power Divider
 - Compact Resonator
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires: []

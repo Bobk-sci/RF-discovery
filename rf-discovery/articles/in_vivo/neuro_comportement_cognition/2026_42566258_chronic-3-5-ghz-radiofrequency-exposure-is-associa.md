@@ -19,6 +19,10 @@ mots_cles:
 - Thymoquinone
 - Excitatory–inhibitory Balance
 - Radiofrequency Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:

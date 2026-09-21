@@ -26,6 +26,10 @@ mots_cles:
 - histology of brain cancer
 - mobile phone subscribers
 - topology of brain cancer
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

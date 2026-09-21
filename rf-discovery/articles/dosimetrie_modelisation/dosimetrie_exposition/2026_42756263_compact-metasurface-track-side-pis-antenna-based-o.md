@@ -25,6 +25,10 @@ mots_cles:
 - Compact Metasurface Track-Side Pis Antenna
 - Occupational Radio-Frequency (Rf) Exposure
 - Track-Side Inspectors
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

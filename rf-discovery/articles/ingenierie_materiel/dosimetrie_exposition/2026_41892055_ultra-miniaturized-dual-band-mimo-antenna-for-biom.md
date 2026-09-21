@@ -26,6 +26,10 @@ mots_cles:
 - Capsule endoscopy
 - Mimo
 - Implantable Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:

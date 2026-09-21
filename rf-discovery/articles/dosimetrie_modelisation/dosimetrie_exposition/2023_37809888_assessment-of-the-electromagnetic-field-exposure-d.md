@@ -20,6 +20,10 @@ mots_cles:
 - Higher Education Institution
 - Icnirp
 - Band-Selective Measurement
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

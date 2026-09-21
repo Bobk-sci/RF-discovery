@@ -26,6 +26,10 @@ mots_cles:
 - ear canal hair follicle cells
 - mobile phone
 - single strand break
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

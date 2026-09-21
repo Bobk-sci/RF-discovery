@@ -27,6 +27,10 @@ mots_cles:
 - radiofrequency electromagnetic fields
 - risk perception
 - wi-fi band
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires:

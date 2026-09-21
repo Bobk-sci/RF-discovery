@@ -20,6 +20,10 @@ mots_cles:
 - Male infertility
 - Sperm quality
 - Endocrine Disruptors
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

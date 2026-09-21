@@ -35,6 +35,10 @@ mots_cles:
 - Microwave Exposure
 - Slc7a11
 - Reproductive Damage
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

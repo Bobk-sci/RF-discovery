@@ -32,6 +32,10 @@ mots_cles:
 - Cdma 900 Mhz Rf-emf
 - Long-term Carcinogenicity Bioassay
 - Ntp Validation Study
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

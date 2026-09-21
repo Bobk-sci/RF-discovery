@@ -22,6 +22,10 @@ mots_cles:
 - Telecommunications
 - Exposure assessment
 - Public Exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

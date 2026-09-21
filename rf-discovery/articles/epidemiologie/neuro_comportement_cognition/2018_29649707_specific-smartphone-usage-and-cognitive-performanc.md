@@ -37,6 +37,10 @@ mots_cles:
 - Gait variability
 - Mobile phone
 - Walking
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

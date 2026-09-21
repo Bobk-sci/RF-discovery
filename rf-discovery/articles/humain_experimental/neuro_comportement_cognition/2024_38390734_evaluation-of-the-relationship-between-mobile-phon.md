@@ -17,6 +17,10 @@ mots_cles:
 - miRNA-30C-5p
 - miRNA-574-5p
 - radioiodine
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

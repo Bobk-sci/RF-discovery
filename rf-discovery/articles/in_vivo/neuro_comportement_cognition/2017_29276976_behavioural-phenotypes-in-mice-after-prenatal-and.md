@@ -34,6 +34,10 @@ mots_cles:
 - Developmental effects
 - Electronic article surveillance system
 - Intermediate frequency magnetic field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

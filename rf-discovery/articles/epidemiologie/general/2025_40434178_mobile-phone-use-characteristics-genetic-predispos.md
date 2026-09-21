@@ -31,6 +31,10 @@ mots_cles:
 - cohort study
 - mobile phone use characteristics; UK Biobank
 - older people
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires: []

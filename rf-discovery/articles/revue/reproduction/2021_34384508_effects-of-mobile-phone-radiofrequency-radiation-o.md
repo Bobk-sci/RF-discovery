@@ -25,6 +25,10 @@ mots_cles:
 - Mobile phone
 - Radiofrequency electromagnetic radiation
 - Sperm quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -25,6 +25,10 @@ mots_cles:
 - Coping
 - Locus of control
 - Pregnancy
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

@@ -26,6 +26,10 @@ mots_cles:
 - postmastectomy radiation therapy
 - radiofrequency identification
 - tissue expander
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires:

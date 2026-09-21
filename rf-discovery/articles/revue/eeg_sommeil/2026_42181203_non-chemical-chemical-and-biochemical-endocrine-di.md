@@ -28,6 +28,10 @@ mots_cles:
 - Electromagnetic Field-induced Endocrine Disruption
 - Noise-induced Endocrine Disruption
 - Thermal Stress-induced Endocrine Disruption
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

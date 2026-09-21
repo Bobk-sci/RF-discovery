@@ -17,6 +17,10 @@ mots_cles:
 - distance video education
 - metabolic variables
 - type 2 diabetes
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

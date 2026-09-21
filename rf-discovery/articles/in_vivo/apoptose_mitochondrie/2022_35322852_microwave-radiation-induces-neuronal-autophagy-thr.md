@@ -27,6 +27,10 @@ mots_cles:
 - Autophagy
 - Mir-30a-5p
 - Ampk (5’-Amp Activated Kinase)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:

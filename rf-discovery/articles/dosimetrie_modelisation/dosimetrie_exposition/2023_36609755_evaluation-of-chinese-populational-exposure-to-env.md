@@ -28,6 +28,10 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Polynomial Chaos Expansion
 - Deterministic Simulation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires:

@@ -19,6 +19,10 @@ mots_cles:
 - Electromagnetic Safety
 - Low Frequencies
 - Uniform Magnetic Field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

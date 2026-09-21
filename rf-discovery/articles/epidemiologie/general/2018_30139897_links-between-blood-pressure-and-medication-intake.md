@@ -40,6 +40,10 @@ mots_cles:
 - self-management
 - self-reports
 - symptoms
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1002.5
 modele_secondaires: []

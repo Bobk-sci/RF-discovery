@@ -18,6 +18,10 @@ mots_cles:
 - Microwaves
 - Malaria
 - Irradiation System
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1.0
 modele_secondaires: []

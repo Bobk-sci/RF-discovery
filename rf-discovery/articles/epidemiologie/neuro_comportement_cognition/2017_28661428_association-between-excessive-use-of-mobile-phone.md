@@ -26,6 +26,10 @@ mots_cles:
 - depression
 - insomnia
 - mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1002.0
 modele_secondaires: []

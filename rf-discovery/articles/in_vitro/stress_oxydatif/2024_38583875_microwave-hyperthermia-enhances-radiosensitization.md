@@ -39,6 +39,10 @@ mots_cles:
 - ROS
 - prostate cancer
 - radiosensitization
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:

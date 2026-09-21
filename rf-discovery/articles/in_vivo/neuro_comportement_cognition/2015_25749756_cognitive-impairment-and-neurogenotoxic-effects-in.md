@@ -41,6 +41,10 @@ mots_cles:
 - cognitive function
 - comet assay
 - microwave exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

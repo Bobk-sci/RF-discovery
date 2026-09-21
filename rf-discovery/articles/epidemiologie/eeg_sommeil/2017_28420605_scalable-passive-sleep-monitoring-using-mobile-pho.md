@@ -28,6 +28,10 @@ mots_cles:
 - decision trees
 - mobile phones
 - sleep monitoring
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

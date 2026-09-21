@@ -31,6 +31,10 @@ mots_cles:
 - endoplasmic reticulum stress
 - Coenzyme Q10 (Coq10)
 - 5 G
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

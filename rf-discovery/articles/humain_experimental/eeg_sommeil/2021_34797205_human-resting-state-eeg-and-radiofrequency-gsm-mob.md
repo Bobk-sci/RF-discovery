@@ -26,6 +26,10 @@ mots_cles:
 - individual alpha band
 - radiofrequency
 - resting-state
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:

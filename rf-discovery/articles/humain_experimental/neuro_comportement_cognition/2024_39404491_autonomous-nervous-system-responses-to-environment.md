@@ -33,6 +33,10 @@ mots_cles:
 - Autonomous Nervous System
 - Fifth Generation
 - Event‐related Responses
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 7.0
 modele_secondaires: []

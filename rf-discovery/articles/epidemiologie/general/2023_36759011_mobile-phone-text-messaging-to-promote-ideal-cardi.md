@@ -22,6 +22,10 @@ mots_cles:
 - Global Health
 - Outcome Assessment, Health Care
 - RISK FACTORS
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

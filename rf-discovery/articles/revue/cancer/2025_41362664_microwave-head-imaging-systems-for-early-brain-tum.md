@@ -22,6 +22,10 @@ mots_cles:
 - Artificial Intelligence And Machine Learning
 - Microwave Head Imaging Antenna
 - Reflection Co-Efficient
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

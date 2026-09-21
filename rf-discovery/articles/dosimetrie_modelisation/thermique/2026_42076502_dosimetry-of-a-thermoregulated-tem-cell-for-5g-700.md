@@ -19,6 +19,10 @@ mots_cles:
 - Radiofrequencies
 - 5G Frequencies
 - Transverse Electromagnetic (Tem) Cell
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires:

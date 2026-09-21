@@ -21,6 +21,10 @@ mots_cles:
 - Cd31
 - Claudin-1
 - Radiofrequency- Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

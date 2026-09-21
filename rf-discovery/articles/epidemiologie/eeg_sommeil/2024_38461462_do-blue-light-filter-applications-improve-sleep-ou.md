@@ -28,6 +28,10 @@ mots_cles:
 - blue light filter application
 - sleep quality
 - the circadian system
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

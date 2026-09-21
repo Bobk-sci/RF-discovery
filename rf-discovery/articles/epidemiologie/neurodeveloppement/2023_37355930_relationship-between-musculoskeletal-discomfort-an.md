@@ -29,6 +29,10 @@ mots_cles:
 - head posture
 - neck pain
 - smartphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

@@ -23,6 +23,10 @@ mots_cles:
 - Proteomics
 - Exosomes
 - Learning And Memory Function
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

@@ -7,3 +7,5 @@ __pycache__/
 .ruff_cache/
 # réponses brutes des API : re-téléchargeables, inutiles à versionner
 data/cache/
+# PDF téléchargés : volume trop important pour git, et licences variables selon l'éditeur
+pdf/

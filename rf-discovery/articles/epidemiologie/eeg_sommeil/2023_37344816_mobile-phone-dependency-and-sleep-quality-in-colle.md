@@ -26,6 +26,10 @@ mots_cles:
 - Fear of missing out
 - Mobile phone dependency
 - Sleep quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

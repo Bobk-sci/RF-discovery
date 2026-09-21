@@ -29,6 +29,10 @@ mots_cles:
 - Mobile application
 - Mobile phone use
 - Validation study
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

@@ -26,6 +26,10 @@ mots_cles:
 - 5G
 - Localized Exposure
 - Quasi-millimeter Wave
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

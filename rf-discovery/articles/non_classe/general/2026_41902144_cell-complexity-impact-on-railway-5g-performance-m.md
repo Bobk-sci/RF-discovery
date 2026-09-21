@@ -23,6 +23,10 @@ mots_cles:
 - Frmcs
 - Automatic Frequency Control
 - Handover Optimization
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

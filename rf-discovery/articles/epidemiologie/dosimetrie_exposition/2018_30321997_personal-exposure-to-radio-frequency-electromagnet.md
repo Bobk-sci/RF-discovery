@@ -30,6 +30,10 @@ mots_cles:
 - personal exposure measurement
 - radiofrequency electromagnetic fields
 - uplink
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

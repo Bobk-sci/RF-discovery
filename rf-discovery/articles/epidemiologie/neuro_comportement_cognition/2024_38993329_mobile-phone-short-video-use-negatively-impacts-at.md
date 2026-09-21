@@ -18,6 +18,10 @@ mots_cles:
 - attention network
 - executive control
 - mobile phone short-form video
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

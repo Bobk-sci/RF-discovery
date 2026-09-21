@@ -25,6 +25,10 @@ mots_cles:
 - Electromagnetic fields
 - Exposure assessment
 - Radiofrequencies
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires:

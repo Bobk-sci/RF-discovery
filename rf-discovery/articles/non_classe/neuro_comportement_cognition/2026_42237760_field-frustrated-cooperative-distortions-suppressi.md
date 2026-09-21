@@ -19,6 +19,10 @@ mots_cles:
 - Microwave Annealing
 - Cooperative Jahn‐teller Distortion
 - Phonon‐field Interaction
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -19,6 +19,10 @@ mots_cles:
 - 16-Ports
 - 56 And 6G
 - Spatial Diversity And Spatial Multiplexing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:

@@ -31,6 +31,10 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Environmental Sensitivity
 - Idiopathic Environmental Intolerances
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires:

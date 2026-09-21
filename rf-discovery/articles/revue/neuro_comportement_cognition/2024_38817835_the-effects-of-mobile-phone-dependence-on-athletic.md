@@ -18,6 +18,10 @@ mots_cles:
 - neurobiological mechanism
 - sports performance
 - theoretical model
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []

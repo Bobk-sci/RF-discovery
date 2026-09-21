@@ -39,6 +39,10 @@ mots_cles:
 - Mobile phone radiation
 - Oxidative & nitrosative stress
 - Steroidogenesis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

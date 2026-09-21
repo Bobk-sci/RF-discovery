@@ -36,6 +36,10 @@ mots_cles:
 - Ovarian carcinoma
 - Oxidative markers , KRT4
 - Reproductive toxicity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []

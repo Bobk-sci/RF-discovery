@@ -21,6 +21,10 @@ mots_cles:
 - Chicken embryo
 - mesonephros
 - Wi-fi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

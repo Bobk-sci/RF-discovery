@@ -34,6 +34,10 @@ mots_cles:
 - Electromagnetic field
 - Mesenteric ischemia
 - Oxidative stress Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

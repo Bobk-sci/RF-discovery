@@ -17,6 +17,10 @@ mots_cles:
 - Auditory Brainstem response
 - Middle latency response
 - Otoacoustic emissions
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

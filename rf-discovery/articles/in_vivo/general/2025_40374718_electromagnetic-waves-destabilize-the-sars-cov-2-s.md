@@ -27,6 +27,10 @@ mots_cles:
 - Coplanar Waveguide
 - Electromagnetic Waves
 - Sars-cov-2
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

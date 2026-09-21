@@ -30,6 +30,10 @@ mots_cles:
 - Assumptions For The Standards
 - Cellular Mobile Telecommunication
 - Industry-regulatory Complex
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

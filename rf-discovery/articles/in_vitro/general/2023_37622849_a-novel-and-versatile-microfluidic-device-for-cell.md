@@ -22,6 +22,10 @@ mots_cles:
 - cell mobility
 - microfluidic chip
 - radiofrequency electromagnetic field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires:

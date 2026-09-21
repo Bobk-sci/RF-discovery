@@ -27,6 +27,10 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

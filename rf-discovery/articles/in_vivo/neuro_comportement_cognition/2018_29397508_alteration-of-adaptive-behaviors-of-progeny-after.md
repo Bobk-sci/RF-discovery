@@ -35,6 +35,10 @@ mots_cles:
 - Neurodevelopment
 - Radiofrequency
 - Sensori-motor processing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires:

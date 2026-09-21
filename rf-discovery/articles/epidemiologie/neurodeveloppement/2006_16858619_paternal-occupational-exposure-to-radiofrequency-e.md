@@ -28,6 +28,10 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires:

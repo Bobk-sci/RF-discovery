@@ -32,6 +32,10 @@ mots_cles:
 - Restraint
 - Thermal Preference
 - Stress-induced Analgesia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

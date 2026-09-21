@@ -22,6 +22,10 @@ mots_cles:
 - epithelial power density
 - millimeter wave frequencies
 - specific absorption rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 9.0
 modele_secondaires: []

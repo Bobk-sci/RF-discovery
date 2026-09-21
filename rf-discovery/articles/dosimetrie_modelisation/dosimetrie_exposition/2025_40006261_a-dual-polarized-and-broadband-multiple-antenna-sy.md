@@ -19,6 +19,10 @@ mots_cles:
 - Cpw-fed Slot Antennas
 - Mmwave Phased Arrays
 - Dual-polarized Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

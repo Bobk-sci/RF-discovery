@@ -29,6 +29,10 @@ mots_cles:
 - Pregnancy rates
 - Semen analysis
 - Wireless technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires: []

@@ -20,6 +20,10 @@ mots_cles:
 - Toxoplasma gondii
 - survivability
 - MAT
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 5.0
 modele_secondaires:

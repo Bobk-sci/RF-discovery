@@ -19,6 +19,10 @@ mots_cles:
 - Non-ionizing Radiation
 - Radio Frequency Electromagnetic Field
 - Broadcasting Antennas
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

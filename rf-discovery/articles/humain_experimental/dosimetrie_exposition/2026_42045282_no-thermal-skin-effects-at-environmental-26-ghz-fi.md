@@ -19,6 +19,10 @@ mots_cles:
 - skin temperature
 - Electromagnetic Fields Exposure
 - 5G
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

@@ -27,6 +27,10 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Environmental Illness
 - Wireless Technology In Health Care
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

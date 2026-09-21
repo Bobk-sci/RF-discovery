@@ -27,6 +27,10 @@ mots_cles:
 - early detection of breast cancer
 - knowledge
 - mobile phone apps
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

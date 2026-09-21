@@ -30,6 +30,10 @@ mots_cles:
 - radiofrequency
 - skin
 - ultraviolet radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

@@ -18,6 +18,10 @@ mots_cles:
 - Assessment
 - Car
 - In Situ Measurement Campaign
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

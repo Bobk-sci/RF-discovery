@@ -29,6 +29,10 @@ mots_cles:
 - Pro-inflammatory cytokine
 - Radiofrequency radiation
 - Superoxide
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1003.5
 modele_secondaires:

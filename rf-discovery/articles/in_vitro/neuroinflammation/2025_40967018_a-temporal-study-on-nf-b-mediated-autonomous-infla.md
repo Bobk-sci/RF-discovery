@@ -24,6 +24,10 @@ mots_cles:
 - Microwave radiation
 - Inflammatory Factors
 - Ipsc-cms
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

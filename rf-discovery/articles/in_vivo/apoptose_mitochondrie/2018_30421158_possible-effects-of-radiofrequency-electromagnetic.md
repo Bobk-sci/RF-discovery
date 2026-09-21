@@ -26,6 +26,10 @@ mots_cles:
 - Glioblastoma
 - Immune cell invasion
 - Radiofrequencies
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1009.5
 modele_secondaires:

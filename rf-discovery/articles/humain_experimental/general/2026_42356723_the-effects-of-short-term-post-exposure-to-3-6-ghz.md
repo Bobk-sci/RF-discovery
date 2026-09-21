@@ -30,6 +30,10 @@ mots_cles:
 - Postural Balance
 - Limits Of Stability
 - 5G
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires: []

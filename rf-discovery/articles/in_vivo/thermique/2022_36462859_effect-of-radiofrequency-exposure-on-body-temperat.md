@@ -25,6 +25,10 @@ mots_cles:
 - Body temperature
 - Thermometers
 - Radiofrequency Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

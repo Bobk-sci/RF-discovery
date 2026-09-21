@@ -26,6 +26,10 @@ mots_cles:
 - Ism (Industrial Scientific And Medical) Band
 - Nb-iot (Narrow Band-internet Of Things)
 - Multilayer Phantom Model
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

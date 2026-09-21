@@ -26,6 +26,10 @@ mots_cles:
 - Epidemiological study
 - Health disturbances
 - Mobile phone base station
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires: []

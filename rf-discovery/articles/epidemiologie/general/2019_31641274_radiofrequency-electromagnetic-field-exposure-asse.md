@@ -23,6 +23,10 @@ mots_cles:
 - EMF
 - Environmental monitoring
 - Epidemiology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires:

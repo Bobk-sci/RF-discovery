@@ -27,6 +27,10 @@ mots_cles:
 - Brdu Assay
 - Mobile Phone Radiation
 - Radiofrequency Electromagnetic Radiation (Rf-emr)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:

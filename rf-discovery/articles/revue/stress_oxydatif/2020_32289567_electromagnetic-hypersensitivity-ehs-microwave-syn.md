@@ -38,6 +38,10 @@ mots_cles:
 - Public health
 - RF
 - Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

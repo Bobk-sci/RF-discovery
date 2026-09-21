@@ -21,6 +21,10 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1008.5
 modele_secondaires:

@@ -38,6 +38,10 @@ mots_cles:
 - histology
 - sperm defects
 - spermatogenesis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

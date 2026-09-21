@@ -29,6 +29,10 @@ mots_cles:
 - learning and memory
 - synaptic plasticity
 - wireless
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires:

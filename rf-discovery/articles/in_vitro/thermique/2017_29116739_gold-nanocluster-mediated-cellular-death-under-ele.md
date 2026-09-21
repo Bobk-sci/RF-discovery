@@ -24,6 +24,10 @@ mots_cles:
 - gold nanoclusters
 - hyperthermia
 - microwave frequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 5.0
 modele_secondaires:

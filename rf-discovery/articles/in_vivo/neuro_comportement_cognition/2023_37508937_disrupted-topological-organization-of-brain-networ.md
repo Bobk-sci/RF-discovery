@@ -19,6 +19,10 @@ mots_cles:
 - resting-state fMRI
 - spatial memory
 - topological organization
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

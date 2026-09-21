@@ -33,6 +33,10 @@ mots_cles:
 - Low dose chronic exposure
 - Oxidative stress
 - Radiofrequency electromagnetic fields, RF-EMF
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

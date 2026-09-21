@@ -30,6 +30,10 @@ mots_cles:
 - infections, diseases, disorders, injuries
 - prevention strategies
 - public health
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

@@ -31,6 +31,10 @@ mots_cles:
 - Hippocampus
 - Microwave
 - Oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires: []

@@ -27,6 +27,10 @@ mots_cles:
 - Antioxidant system
 - Radical Pair Mechanism
 - Electrohypersensitivity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

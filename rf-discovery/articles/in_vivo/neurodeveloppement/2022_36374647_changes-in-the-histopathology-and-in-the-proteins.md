@@ -31,6 +31,10 @@ mots_cles:
 - ERK1/2
 - MAPK
 - Pre and postnatal exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 11.5
 modele_secondaires: []

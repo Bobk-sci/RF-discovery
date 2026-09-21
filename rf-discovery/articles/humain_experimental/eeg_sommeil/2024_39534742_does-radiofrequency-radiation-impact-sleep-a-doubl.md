@@ -38,6 +38,10 @@ mots_cles:
 - Wi-fi
 - Non-ionising Radiation
 - Electropollution
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.5
 modele_secondaires:

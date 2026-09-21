@@ -18,6 +18,10 @@ mots_cles:
 - electromagnetic fields exposure
 - mobile phone chips
 - mobile phone radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

@@ -28,6 +28,10 @@ mots_cles:
 - Cellular Uptake
 - Mitochondrial Targeting Sequences
 - 2.45 Ghz
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

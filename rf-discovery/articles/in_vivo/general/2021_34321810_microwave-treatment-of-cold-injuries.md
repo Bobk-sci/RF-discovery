@@ -21,6 +21,10 @@ mots_cles:
 - Drag And Surgical Treatment
 - Extremity Frostbites
 - Microwave Chamber
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

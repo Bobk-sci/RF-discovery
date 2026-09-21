@@ -29,6 +29,10 @@ mots_cles:
 - Sleep
 - Telecommunications
 - Wireless technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

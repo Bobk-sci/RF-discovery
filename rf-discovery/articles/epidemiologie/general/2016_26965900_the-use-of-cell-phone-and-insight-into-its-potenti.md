@@ -23,6 +23,10 @@ mots_cles:
 - Health effects
 - Mobile phones
 - Radio frequency energy
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

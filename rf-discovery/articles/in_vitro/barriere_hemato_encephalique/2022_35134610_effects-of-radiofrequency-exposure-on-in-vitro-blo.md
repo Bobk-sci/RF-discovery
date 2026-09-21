@@ -17,6 +17,10 @@ mots_cles:
 - FITC-Dextran
 - Magnetic nanoparticles
 - RF-Field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires: []

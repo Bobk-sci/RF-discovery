@@ -19,6 +19,10 @@ mots_cles:
 - Serum creatinine
 - Haematology
 - Mobile Phone Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.5
 modele_secondaires:

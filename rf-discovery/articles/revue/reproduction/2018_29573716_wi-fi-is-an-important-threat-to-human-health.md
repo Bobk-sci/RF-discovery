@@ -26,6 +26,10 @@ mots_cles:
 - Impact of pulsation and polarization
 - Testis/sperm count and quality
 - Wi-Fi or WiFi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

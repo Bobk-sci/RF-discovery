@@ -34,6 +34,10 @@ mots_cles:
 - exposure limits
 - mobile phones
 - radiofrequency electromagnetic fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 6.5
 modele_secondaires:

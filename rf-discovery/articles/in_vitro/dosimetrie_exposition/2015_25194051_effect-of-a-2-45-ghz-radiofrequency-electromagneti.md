@@ -32,6 +32,10 @@ mots_cles:
 - Immune response
 - neutrophil
 - Radiofrequency (Rf)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:

@@ -29,6 +29,10 @@ types:
 - Comparative Study
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []

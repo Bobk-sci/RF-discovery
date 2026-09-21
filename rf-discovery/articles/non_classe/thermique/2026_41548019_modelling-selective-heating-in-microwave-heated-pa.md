@@ -18,6 +18,10 @@ mots_cles:
 - Plastic Waste Recycling Technologies
 - Industrial Electrification
 - Microwave-assisted Processes
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

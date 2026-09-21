@@ -25,6 +25,10 @@ mots_cles:
 - monovision
 - multifocal intraocular lenses
 - presbyopia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires: []

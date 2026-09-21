@@ -32,6 +32,10 @@ mots_cles:
 - Cognitive Performance
 - Digital Radio
 - Rf-emf Exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 3.5
 modele_secondaires:

@@ -37,6 +37,10 @@ mots_cles:
 - Headache
 - Mobile phone
 - Sleep disturbances
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1005.5
 modele_secondaires: []

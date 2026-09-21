@@ -25,6 +25,10 @@ mots_cles:
 - external synchronizers of sleep
 - remote work
 - sleep disorders
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

@@ -33,6 +33,10 @@ mots_cles:
 - Oxidative stress
 - Occupational Exposure
 - Elf‐emfs
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

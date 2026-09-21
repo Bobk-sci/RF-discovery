@@ -22,6 +22,10 @@ mots_cles:
 - Mimo Antenna
 - Sub-6 Ghz 5G
 - Multi-band
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:

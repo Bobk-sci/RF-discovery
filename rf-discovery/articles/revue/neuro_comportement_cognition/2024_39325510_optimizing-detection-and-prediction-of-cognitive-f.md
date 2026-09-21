@@ -40,6 +40,10 @@ mots_cles:
 - smartphone app
 - social function
 - wrist-worn accelerometry
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires:

@@ -33,6 +33,10 @@ mots_cles:
 - NSCs
 - Hnrnpa2b1
 - Trkb M(6)a Modification
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 10.0
 modele_secondaires: []

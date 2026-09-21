@@ -24,6 +24,10 @@ mots_cles:
 - electromagnetic radiation exposure
 - mobile phones
 - rodent
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires: []

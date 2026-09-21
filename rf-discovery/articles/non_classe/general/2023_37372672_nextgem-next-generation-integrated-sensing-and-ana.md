@@ -26,6 +26,10 @@ mots_cles:
 - Radio Frequency (Rf)
 - Public And Environmental Health
 - Communication Engineering And Systems Telecommunications
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

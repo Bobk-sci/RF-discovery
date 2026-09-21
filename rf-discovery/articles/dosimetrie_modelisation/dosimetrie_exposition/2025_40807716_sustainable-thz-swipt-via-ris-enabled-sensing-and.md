@@ -22,6 +22,10 @@ mots_cles:
 - Green Wireless
 - Sar Constraint
 - Terahertz Swipt
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

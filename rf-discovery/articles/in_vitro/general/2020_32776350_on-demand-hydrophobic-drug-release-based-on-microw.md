@@ -23,6 +23,10 @@ mots_cles:
 - graphene
 - hydrogels
 - microwave-responsive
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

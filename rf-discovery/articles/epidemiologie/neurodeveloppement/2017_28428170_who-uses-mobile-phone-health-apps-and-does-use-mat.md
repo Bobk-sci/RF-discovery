@@ -28,6 +28,10 @@ mots_cles:
 - health promotion
 - mobile applications
 - smartphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

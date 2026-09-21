@@ -20,6 +20,10 @@ mots_cles:
 - N-acetylcysteine
 - Electromagnetic Radiation
 - Testicular Damage
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

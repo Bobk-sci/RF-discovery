@@ -20,6 +20,10 @@ mots_cles:
 - Hybrid Implicit–Explicit
 - Single-Field Finite Difference Time-Domain
 - Weakly Conditional Stability
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires:

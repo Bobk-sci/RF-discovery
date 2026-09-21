@@ -19,6 +19,10 @@ mots_cles:
 - Electromagnetic fields
 - Mobile Phones
 - Wi-fi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:

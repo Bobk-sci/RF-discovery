@@ -27,6 +27,10 @@ mots_cles:
 - Telecommunication
 - Exposure assessment
 - 5G New Radio
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

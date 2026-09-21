@@ -78,12 +78,37 @@ def _doi(article: ET.Element) -> str:
     return ""
 
 
+def _authors(article: ET.Element) -> list[str]:
+    """Auteurs « Nom I. » ; les collectifs (``CollectiveName``) sont repris tels quels."""
+    names = []
+    for node in article.findall(".//AuthorList/Author"):
+        collective = _text(node.find("CollectiveName"))
+        if collective:
+            names.append(collective)
+            continue
+        last, initials = _text(node.find("LastName")), _text(node.find("Initials"))
+        if last:
+            names.append(f"{last} {initials}".strip())
+    return names
+
+
+def _pmcid(article: ET.Element) -> str:
+    for node in article.findall(".//ArticleId"):
+        if (node.get("IdType") or "").lower() == "pmc":
+            return _text(node)
+    return ""
+
+
 def _descriptors(article: ET.Element) -> dict[str, Any]:
-    """MeSH, types de publication et mots-clés d'auteur : descripteurs fournis par PubMed."""
+    """Descripteurs fournis par PubMed + auteurs et identifiants de texte intégral."""
     return {
         "mesh": [_text(n) for n in article.findall(".//MeshHeading/DescriptorName")],
         "types": [_text(n) for n in article.findall(".//PublicationType")],
         "keywords": [_text(n) for n in article.findall(".//KeywordList/Keyword")],
+        "authors": _authors(article),
+        "pmcid": _pmcid(article),
+        "volume": _text(article.find(".//JournalIssue/Volume")),
+        "pages": _text(article.find(".//Pagination/MedlinePgn")),
     }
 
 

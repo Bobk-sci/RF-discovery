@@ -18,6 +18,10 @@ mots_cles:
 - Mobile phone
 - Otoacoustic emissions
 - PTA
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

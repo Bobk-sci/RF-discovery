@@ -25,6 +25,10 @@ mots_cles:
 - Phased Array
 - Focused Microwave−hyperthermia Therapy (Fmht)
 - Ultra−wideband Miniaturized Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:

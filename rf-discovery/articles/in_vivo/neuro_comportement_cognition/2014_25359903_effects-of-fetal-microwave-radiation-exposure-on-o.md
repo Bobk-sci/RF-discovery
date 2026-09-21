@@ -30,6 +30,10 @@ mots_cles:
 - gender-specific
 - learning and memory
 - microwave radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 12.0
 modele_secondaires: []

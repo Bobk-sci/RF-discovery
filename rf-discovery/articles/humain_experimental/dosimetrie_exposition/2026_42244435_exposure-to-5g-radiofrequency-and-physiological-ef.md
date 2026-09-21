@@ -35,6 +35,10 @@ mots_cles:
 - 5G
 - Heart‐rate Variability
 - Stress‐biomarkers
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 4.0
 modele_secondaires:

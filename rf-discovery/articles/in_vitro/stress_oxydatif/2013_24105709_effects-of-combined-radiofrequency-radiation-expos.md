@@ -34,6 +34,10 @@ mots_cles:
 - menadione
 - neuronal cells
 - reactive oxygen species
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:

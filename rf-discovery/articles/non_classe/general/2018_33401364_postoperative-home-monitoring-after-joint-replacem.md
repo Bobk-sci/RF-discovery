@@ -18,6 +18,10 @@ mots_cles:
 - postoperative transitional care
 - postoperative wireless monitoring
 - surgical length of stay
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

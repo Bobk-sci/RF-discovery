@@ -33,6 +33,10 @@ mots_cles:
 - Health effects
 - Mobile phones
 - Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires: []

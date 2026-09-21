@@ -29,6 +29,10 @@ mots_cles:
 - HSP70
 - Human papillomavirus
 - Microwave hyperthermia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

@@ -18,6 +18,10 @@ mots_cles:
 - cohort study
 - neuro-development outcomes
 - radiofrequency electromagnetic fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 4.5
 modele_secondaires:

@@ -30,6 +30,10 @@ mots_cles:
 - Seminal vesicle
 - Wi-fi
 - Rf-emf
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

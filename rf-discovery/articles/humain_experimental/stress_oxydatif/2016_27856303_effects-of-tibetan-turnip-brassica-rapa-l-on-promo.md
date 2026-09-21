@@ -45,6 +45,10 @@ mots_cles:
 - Human feeding trial
 - Hypoxia tolerance
 - Tibetan turnip (Brassica rapa L.)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 5.0
 modele_secondaires: []

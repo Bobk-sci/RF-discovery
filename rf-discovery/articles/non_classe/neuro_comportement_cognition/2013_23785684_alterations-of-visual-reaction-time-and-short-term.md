@@ -18,6 +18,10 @@ mots_cles:
 - Military radar
 - Occupational exposure
 - Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

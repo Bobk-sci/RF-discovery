@@ -19,6 +19,10 @@ mots_cles:
 - massive MIMO
 - power density
 - total exposure ratio
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:

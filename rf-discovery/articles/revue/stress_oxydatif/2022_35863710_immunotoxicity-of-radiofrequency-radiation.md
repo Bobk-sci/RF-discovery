@@ -28,6 +28,10 @@ mots_cles:
 - Non-ionizing radiation
 - Radiofrequency radiation
 - Reactive oxygen species
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

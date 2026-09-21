@@ -27,6 +27,10 @@ mots_cles:
 - Scoping Review
 - Radiofrequency Fields
 - Quality Of Studies
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1006.0
 modele_secondaires:

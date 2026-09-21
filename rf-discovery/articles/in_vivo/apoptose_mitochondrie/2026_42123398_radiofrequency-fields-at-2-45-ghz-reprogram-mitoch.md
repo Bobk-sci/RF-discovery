@@ -37,6 +37,10 @@ mots_cles:
 - necrosis
 - Raw 264.7
 - Sars-cov-2 Spike
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

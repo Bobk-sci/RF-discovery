@@ -21,6 +21,10 @@ types:
 - Evaluation Study
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.5
 modele_secondaires: []

@@ -20,6 +20,10 @@ mots_cles:
 - Hacat
 - B16
 - Radiofrequency Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -28,6 +28,10 @@ mots_cles:
 - Dosimetry Modeling
 - Millimetre-Wave
 - Epithelial/absorbed Power Density
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires:

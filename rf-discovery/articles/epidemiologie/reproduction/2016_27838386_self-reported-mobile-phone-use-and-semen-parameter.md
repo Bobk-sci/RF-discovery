@@ -33,6 +33,10 @@ mots_cles:
 - Mobile phones
 - Reproductive health
 - Semen quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 6.5
 modele_secondaires: []

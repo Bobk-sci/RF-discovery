@@ -20,6 +20,10 @@ mots_cles:
 - Sic
 - Emulsified Asphalt
 - Microwave Heating Efficiency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -30,6 +30,10 @@ mots_cles:
 - Microwave Antenna Sensor (Mas)
 - Ultra-wideband (Uwb) Sensor
 - Vital Sign Detection (Vsd)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

@@ -17,6 +17,10 @@ mots_cles:
 - Electrophysiological Properties
 - Prenatal Injuries
 - Purkinje Cells
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

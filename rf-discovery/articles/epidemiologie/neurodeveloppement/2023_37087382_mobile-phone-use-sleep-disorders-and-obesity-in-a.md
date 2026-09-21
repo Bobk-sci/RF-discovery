@@ -29,6 +29,10 @@ mots_cles:
 - Technology addiction
 - Teléfono inteligente
 - Trastornos del sueño
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires: []

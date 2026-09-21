@@ -23,6 +23,10 @@ mots_cles:
 - local exposure
 - millimeter-wave
 - skin temperature
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

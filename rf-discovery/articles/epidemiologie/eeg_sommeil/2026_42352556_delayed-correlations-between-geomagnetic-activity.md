@@ -21,6 +21,10 @@ mots_cles:
 - Geomagnetic Activity
 - Delayed Neural Effects
 - Kp Index
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

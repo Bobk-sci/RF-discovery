@@ -28,6 +28,10 @@ mots_cles:
 - Reproductive damage
 - Single-cell RNA sequencing
 - Single-cell assays for transposase-accessible chromatin sequencing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

@@ -30,6 +30,10 @@ mots_cles:
 - Electromagnetic fields
 - Radio waves
 - Wireless technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.0
 modele_secondaires: []

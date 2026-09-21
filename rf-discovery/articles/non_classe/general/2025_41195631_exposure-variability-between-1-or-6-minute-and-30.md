@@ -24,6 +24,10 @@ mots_cles:
 - Measurement Time
 - Rf‐emf Exposure Variability
 - Averaging Time Lengths
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

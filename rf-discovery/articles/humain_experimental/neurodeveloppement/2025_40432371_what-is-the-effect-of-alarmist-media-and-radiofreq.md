@@ -34,6 +34,10 @@ mots_cles:
 - Electromagnetic Hypersensitivity
 - Radiofrequency Electromagnetic Fields
 - Nocebo Effect
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

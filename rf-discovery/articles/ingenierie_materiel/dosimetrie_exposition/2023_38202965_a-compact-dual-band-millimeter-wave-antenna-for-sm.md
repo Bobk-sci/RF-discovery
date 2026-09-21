@@ -19,6 +19,10 @@ mots_cles:
 - link margin
 - millimeter wave antenna
 - smartwatch
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 3.5
 modele_secondaires:

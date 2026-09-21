@@ -16,6 +16,10 @@ mots_cles:
 - Electromagnetic field
 - Glioma
 - Mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 6.0
 modele_secondaires: []

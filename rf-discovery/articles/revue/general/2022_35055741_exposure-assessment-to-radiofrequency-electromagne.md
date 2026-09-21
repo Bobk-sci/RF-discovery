@@ -25,6 +25,10 @@ mots_cles:
 - Military Environment
 - Em Fields
 - Military Devices
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

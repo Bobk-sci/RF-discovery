@@ -27,6 +27,10 @@ types:
 mots_cles:
 - brain
 - radiofrequency electromagnetic field electron microscopy.
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

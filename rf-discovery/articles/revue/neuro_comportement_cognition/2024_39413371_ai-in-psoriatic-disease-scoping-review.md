@@ -28,6 +28,10 @@ mots_cles:
 - psoriasis
 - psoriatic arthritis
 - psoriatic disease
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1006.0
 modele_secondaires: []

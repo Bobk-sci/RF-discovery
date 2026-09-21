@@ -20,6 +20,10 @@ mots_cles:
 - Electromagnetic Radiation
 - Neuronal Damage
 - Wi-fi Exposure Y Neurodegeneration
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1004.5
 modele_secondaires: []

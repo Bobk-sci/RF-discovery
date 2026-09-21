@@ -26,6 +26,10 @@ mots_cles:
 - Specific Absorption Rate
 - Non-ionizing Dosimetry
 - Metal-rim Spectacles
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.0
 modele_secondaires: []

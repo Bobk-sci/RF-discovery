@@ -30,6 +30,10 @@ mots_cles:
 - Night waking
 - Pregnant woman
 - Sleeping
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

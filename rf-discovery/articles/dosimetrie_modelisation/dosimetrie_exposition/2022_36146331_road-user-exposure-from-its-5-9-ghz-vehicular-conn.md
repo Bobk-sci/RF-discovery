@@ -23,6 +23,10 @@ mots_cles:
 - V2X
 - road user
 - vehicular connectivity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

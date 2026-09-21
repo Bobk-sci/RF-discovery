@@ -23,6 +23,10 @@ mots_cles:
 - Improved automatic multiscale-based peak detection
 - Mobile phone video
 - Pulse signal
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

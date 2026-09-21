@@ -21,6 +21,10 @@ mots_cles:
 - Radiofrequency Electromagnetic Field
 - Electric Buses
 - Icnirp
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

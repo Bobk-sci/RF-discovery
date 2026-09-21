@@ -24,6 +24,10 @@ mots_cles:
 - dielectric properties of biological tissues
 - near-field resonance microwave sounding
 - permittivity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

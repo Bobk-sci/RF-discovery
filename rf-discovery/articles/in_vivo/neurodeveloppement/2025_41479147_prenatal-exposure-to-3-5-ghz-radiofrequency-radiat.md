@@ -18,6 +18,10 @@ mots_cles:
 - Radiofrequency Radiation
 - 3.5 Ghz
 - Skin Histomorphometry
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires:

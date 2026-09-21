@@ -27,6 +27,10 @@ mots_cles:
 - Radiofrequency radiation
 - Reactive oxygen species
 - TP53 mutations
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 4.5
 modele_secondaires: []

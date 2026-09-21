@@ -28,6 +28,10 @@ mots_cles:
 - Microwave radiation
 - Rna-seq
 - 4D-dia Proteomics
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires: []

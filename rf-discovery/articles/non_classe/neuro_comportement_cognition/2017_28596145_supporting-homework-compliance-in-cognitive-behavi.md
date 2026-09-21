@@ -16,6 +16,10 @@ mots_cles:
 - cognitive behavioral therapy
 - homework compliance
 - mobile apps
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

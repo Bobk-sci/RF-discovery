@@ -40,6 +40,10 @@ mots_cles:
 - Precautionary behaviour
 - Psychological health
 - Social participation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.0
 modele_secondaires: []

@@ -20,6 +20,10 @@ mots_cles:
 - Intrinsically Disordered Proteins
 - Posttranslational Modifications
 - Electromagnetic Fields Stimulation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

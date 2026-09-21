@@ -20,6 +20,10 @@ mots_cles:
 - monosodium urate crystal
 - phagocytosis
 - reactive species oxygen
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

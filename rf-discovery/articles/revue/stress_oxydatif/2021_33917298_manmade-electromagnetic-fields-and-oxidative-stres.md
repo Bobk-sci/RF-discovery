@@ -33,6 +33,10 @@ mots_cles:
 - Environmental exposure
 - Extremely Low Frequency
 - Environment And Public Health
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

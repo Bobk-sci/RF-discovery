@@ -28,6 +28,10 @@ mots_cles:
 - 5G
 - Stress Response Biomarkers
 - Quasi-millimeter Waves
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

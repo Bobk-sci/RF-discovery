@@ -30,6 +30,10 @@ mots_cles:
 - Radiofrequency Radiation
 - Nesfatin-1
 - Irisin
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

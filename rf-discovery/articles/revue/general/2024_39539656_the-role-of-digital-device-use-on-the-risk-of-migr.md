@@ -19,6 +19,10 @@ mots_cles:
 - Casual Effect
 - Multivariable Mendelian Randomization Study
 - Univariable Mendelian Randomization Study
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 2.0
 modele_secondaires:

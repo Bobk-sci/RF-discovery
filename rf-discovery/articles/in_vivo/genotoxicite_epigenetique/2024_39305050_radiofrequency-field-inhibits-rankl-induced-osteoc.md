@@ -30,6 +30,10 @@ mots_cles:
 - Raw 264.7 Cells
 - Osteoclast Differentiation
 - Radiofrequency Field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

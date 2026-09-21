@@ -19,6 +19,10 @@ mots_cles:
 - Filtenna
 - Multiple-input-multiple-output (Mimo)
 - Fifth Generation (5G)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 4.5
 modele_secondaires: []

@@ -24,6 +24,10 @@ mots_cles:
 - Radiation, nonionizing
 - Health Effects
 - Exposure, Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:

@@ -18,6 +18,10 @@ mots_cles:
 - Magnetic Hyperthermia
 - Specific Absorption Rate (Sar)
 - Dipole–dipole Magnetic Interaction
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

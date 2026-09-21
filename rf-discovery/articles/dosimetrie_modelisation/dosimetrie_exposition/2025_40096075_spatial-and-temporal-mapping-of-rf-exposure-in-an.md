@@ -20,6 +20,10 @@ mots_cles:
 - Exposure Quotiens
 - Personal Exposimeters
 - Outdoor Multiple Frequency Environments
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

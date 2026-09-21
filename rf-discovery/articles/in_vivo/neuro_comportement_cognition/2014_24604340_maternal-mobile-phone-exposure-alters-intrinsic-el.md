@@ -33,6 +33,10 @@ mots_cles:
 - pregnancy
 - pyramidal neurons
 - rat
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 12.0
 modele_secondaires: []

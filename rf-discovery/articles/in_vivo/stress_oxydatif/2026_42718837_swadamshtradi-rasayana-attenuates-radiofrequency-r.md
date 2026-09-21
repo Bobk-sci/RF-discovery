@@ -20,6 +20,10 @@ mots_cles:
 - Sperm Dna Damage
 - Radiofrequency Electromagnetic Radiation
 - Swadamshtradi Rasayana
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

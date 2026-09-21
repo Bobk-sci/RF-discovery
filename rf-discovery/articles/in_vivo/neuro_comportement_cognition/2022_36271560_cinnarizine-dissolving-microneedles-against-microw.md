@@ -30,6 +30,10 @@ mots_cles:
 - Microneedle
 - Microwave
 - Polyvinylpyrrolidone K90
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

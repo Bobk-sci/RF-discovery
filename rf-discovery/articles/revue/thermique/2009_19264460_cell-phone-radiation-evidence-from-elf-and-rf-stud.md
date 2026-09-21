@@ -14,6 +14,10 @@ mesh: []
 types:
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires:

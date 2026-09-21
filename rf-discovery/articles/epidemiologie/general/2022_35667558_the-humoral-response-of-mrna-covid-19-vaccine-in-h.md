@@ -30,6 +30,10 @@ mots_cles:
 - Hematologic diseases
 - Hypogammaglobulinemia
 - SARS-CoV-2 vaccine
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1001.0
 modele_secondaires: []

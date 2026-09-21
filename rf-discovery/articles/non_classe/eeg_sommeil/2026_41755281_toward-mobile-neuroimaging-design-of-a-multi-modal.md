@@ -32,6 +32,10 @@ mots_cles:
 - fNIRS
 - mobile neuroimaging
 - wireless brain monitoring
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

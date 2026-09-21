@@ -26,6 +26,10 @@ mots_cles:
 - Exposure
 - Mobile phone data
 - Travel patterns
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

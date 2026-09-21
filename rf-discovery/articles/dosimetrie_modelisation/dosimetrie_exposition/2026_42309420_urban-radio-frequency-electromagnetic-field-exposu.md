@@ -19,6 +19,10 @@ types:
 mots_cles:
 - Rf-emf Exposure
 - Radio-frequency Electromagnetic Field Exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

@@ -20,6 +20,10 @@ mots_cles:
 - Sperm
 - Testis
 - Wi-Fi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

@@ -28,6 +28,10 @@ mots_cles:
 - E. Coli Bacteria
 - Ag And Au Nanoparticles
 - Low-power Microwave-induced Transport Method
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires:

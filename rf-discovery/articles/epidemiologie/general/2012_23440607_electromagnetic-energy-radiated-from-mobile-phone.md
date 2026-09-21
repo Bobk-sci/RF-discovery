@@ -17,6 +17,10 @@ mots_cles:
 - electrocardiogram
 - ischemic heart disease
 - mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires:

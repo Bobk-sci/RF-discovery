@@ -33,6 +33,10 @@ mots_cles:
 - oxidative stress
 - p53
 - testicular apoptosis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires:

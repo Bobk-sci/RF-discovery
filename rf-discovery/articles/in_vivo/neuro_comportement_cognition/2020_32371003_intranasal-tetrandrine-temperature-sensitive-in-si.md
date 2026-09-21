@@ -43,6 +43,10 @@ mots_cles:
 - Intranasal administration
 - Microwave
 - Temperature-sensitive
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires:

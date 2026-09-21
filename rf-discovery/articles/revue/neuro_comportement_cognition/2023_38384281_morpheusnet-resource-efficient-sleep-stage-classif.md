@@ -17,6 +17,10 @@ mots_cles:
 - SSC
 - deep learning
 - resource efficient
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

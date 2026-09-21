@@ -27,6 +27,10 @@ mots_cles:
 - Electromagnetic Pollution
 - Intercellular Ros
 - Double And Single Dna Strand Break
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1001.0
 modele_secondaires:

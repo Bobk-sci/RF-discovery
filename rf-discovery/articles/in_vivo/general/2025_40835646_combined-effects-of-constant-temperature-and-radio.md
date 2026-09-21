@@ -26,6 +26,10 @@ mots_cles:
 - Vector Control
 - Radio Frequency
 - Ae. Aegypti
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

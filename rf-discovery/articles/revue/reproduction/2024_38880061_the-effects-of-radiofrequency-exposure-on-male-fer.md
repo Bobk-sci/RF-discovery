@@ -33,6 +33,10 @@ mots_cles:
 - Pregnancy outcome
 - Radiofrequency exposure
 - Semen quality
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1010.0
 modele_secondaires:

@@ -24,6 +24,10 @@ mots_cles:
 - functional ultrasound (fUS) imaging
 - in vivo exposure
 - mobile phones
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1007.0
 modele_secondaires:

@@ -21,6 +21,10 @@ mots_cles:
 - X-band
 - Specific Absorption Rate (Sar)
 - And Medical (Ism) Band
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

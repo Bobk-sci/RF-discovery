@@ -29,6 +29,10 @@ mots_cles:
 - Eme
 - Electromagnetic Exposure
 - 5G
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires: []

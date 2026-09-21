@@ -38,6 +38,10 @@ mots_cles:
 - meningioma
 - neoplasms
 - prospective studies
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1001.0
 modele_secondaires: []

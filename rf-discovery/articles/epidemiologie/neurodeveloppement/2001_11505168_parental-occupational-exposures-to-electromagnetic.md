@@ -28,6 +28,10 @@ types:
 - Journal Article
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:

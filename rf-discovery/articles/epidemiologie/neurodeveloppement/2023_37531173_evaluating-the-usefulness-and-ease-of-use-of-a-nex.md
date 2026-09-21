@@ -20,6 +20,10 @@ mots_cles:
 - participatory health informatics
 - recombinant human growth hormone
 - technology acceptance
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

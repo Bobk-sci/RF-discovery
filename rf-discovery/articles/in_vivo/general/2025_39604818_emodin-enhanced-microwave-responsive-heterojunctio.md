@@ -27,6 +27,10 @@ mots_cles:
 - Dielectric Losses
 - Heterogeneous Interfaces
 - Microwave Response
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires: []

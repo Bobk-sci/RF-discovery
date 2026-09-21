@@ -18,6 +18,10 @@ mots_cles:
 - microwave
 - modified chitosan
 - nanoparticles
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1.0
 modele_secondaires: []

@@ -30,6 +30,10 @@ mots_cles:
 - Airspace-As-Habitat
 - Low-Intensity Effects
 - Nonhuman Species
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

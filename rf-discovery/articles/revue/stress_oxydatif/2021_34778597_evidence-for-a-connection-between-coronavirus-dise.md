@@ -30,6 +30,10 @@ mots_cles:
 - Covid-19
 - Coronavirus 2
 - Coronavirus Disease-19
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -28,6 +28,10 @@ mots_cles:
 - Free radicals
 - Non-ionizing radiation
 - Oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

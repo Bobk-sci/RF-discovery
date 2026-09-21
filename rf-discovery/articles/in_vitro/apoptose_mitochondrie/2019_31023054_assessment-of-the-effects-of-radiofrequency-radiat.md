@@ -23,6 +23,10 @@ mots_cles:
 - apoptosis
 - caspase activation in vitro.
 - radiofrequency field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []

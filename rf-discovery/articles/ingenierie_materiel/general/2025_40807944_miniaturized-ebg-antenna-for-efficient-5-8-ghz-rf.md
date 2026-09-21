@@ -24,6 +24,10 @@ mots_cles:
 - Metamaterial-Inspired Antennas
 - Miniaturized Antenna Design
 - Self-Powered Iot Sensor
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1002.0
 modele_secondaires: []

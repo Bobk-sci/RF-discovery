@@ -21,6 +21,10 @@ mots_cles:
 - Physics-informed Neural Network (Pinn)
 - Internet Of Bio-nano Things (Iobnt)
 - Conformal Microstrip Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1006.0
 modele_secondaires:

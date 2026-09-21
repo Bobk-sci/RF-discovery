@@ -27,6 +27,10 @@ mots_cles:
 - antiapoptotic factors
 - proapoptotic factors
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

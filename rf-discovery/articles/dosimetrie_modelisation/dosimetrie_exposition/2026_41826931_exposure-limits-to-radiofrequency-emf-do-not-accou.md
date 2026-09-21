@@ -29,6 +29,10 @@ mots_cles:
 - Dosimetry
 - Benchmark Dose
 - Specific Absorption Rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 9.5
 modele_secondaires:

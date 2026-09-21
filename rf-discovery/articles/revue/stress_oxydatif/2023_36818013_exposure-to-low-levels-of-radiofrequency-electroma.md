@@ -20,6 +20,10 @@ mots_cles:
 - Dementia
 - Non-ionizing Radiation
 - Cellphone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

@@ -22,6 +22,10 @@ types:
 mots_cles:
 - International Commission On Non-ionizing Radiation Protection (Icnirp)
 - Radiation; Non-ionizing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

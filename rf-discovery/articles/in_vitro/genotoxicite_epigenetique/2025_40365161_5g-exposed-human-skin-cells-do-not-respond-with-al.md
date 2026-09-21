@@ -18,6 +18,10 @@ mots_cles:
 - Electromagnetic fields
 - systems biology
 - 5G Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []

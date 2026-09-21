@@ -33,6 +33,10 @@ mots_cles:
 - Cd8+ T Cells
 - Tumor Immune Microenvironment
 - Pulmonary Metastatic Melanoma
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

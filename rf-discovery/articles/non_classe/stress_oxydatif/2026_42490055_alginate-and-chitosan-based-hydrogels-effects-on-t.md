@@ -30,6 +30,10 @@ mots_cles:
 - Epr Spectroscopy
 - Thermal Treatment
 - Ultrasound Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

@@ -24,6 +24,10 @@ mots_cles:
 - digital media
 - mental health
 - mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 4.0
 modele_secondaires: []

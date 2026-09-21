@@ -24,6 +24,10 @@ mots_cles:
 - mobile phone
 - radiofrequency
 - resting-state
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 4.5
 modele_secondaires:

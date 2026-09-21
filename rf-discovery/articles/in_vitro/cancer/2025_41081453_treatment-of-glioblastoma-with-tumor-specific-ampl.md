@@ -29,6 +29,10 @@ mots_cles:
 - TheraBionic
 - amplitude-modulated radiofrequency electromagnetic fields
 - glioblastoma
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

@@ -30,6 +30,10 @@ mots_cles:
 - Geospatial Mapping
 - 5 G Networks
 - Emf Regulation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

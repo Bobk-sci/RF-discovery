@@ -13,6 +13,10 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

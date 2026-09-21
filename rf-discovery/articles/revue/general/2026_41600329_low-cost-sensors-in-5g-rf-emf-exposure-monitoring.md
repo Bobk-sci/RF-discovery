@@ -19,6 +19,10 @@ mots_cles:
 - Low-cost Sensors
 - Participatory Monitoring
 - 5G Rf-emf Monitoring
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -29,6 +29,10 @@ mots_cles:
 - Biosecurity
 - Radiofrequency Exposure
 - Climate-driven Arbovirus Expansion
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

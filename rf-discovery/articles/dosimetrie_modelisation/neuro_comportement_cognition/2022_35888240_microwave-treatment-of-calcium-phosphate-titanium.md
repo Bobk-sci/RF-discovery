@@ -19,6 +19,10 @@ mots_cles:
 - Calcium phosphate
 - microwave treatment
 - Tio2 Nanoflower
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

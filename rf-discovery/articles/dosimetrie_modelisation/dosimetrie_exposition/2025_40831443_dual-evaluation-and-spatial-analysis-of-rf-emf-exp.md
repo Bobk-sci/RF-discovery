@@ -24,6 +24,10 @@ mots_cles:
 - Human Exposure
 - 5G Networks
 - 'Kriging: Emf Exposure, Measurements, Code‐selective'
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

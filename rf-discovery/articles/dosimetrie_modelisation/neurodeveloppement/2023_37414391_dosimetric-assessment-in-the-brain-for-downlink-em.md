@@ -31,6 +31,10 @@ mots_cles:
 - SA
 - SAR
 - Seoul
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

@@ -30,6 +30,10 @@ mots_cles:
 - ER stress
 - lipid metabolism
 - Elf-emf
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

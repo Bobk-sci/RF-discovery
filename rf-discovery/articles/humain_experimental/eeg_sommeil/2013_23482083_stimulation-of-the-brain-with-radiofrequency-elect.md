@@ -31,6 +31,10 @@ mots_cles:
 - Mobile phones
 - Sleep EEG
 - Synaptic plasticity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires: []

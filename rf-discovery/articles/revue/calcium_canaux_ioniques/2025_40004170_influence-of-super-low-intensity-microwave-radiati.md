@@ -26,6 +26,10 @@ mots_cles:
 - Tissue Regeneration
 - Super-low-intensity Microwave Field
 - Weak Electromagnetic Field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

@@ -37,6 +37,10 @@ mots_cles:
 - Radiofrequency fields
 - Stem cells
 - Synaptogenesis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 13.0
 modele_secondaires:

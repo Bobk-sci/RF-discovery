@@ -22,6 +22,10 @@ mots_cles:
 - Radio-frequency Fields
 - 3.5 Ghz
 - 5G Signal
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

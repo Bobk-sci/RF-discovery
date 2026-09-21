@@ -22,6 +22,10 @@ mots_cles:
 - Transcription factors
 - Radio waves
 - Specific Absorption Rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires:

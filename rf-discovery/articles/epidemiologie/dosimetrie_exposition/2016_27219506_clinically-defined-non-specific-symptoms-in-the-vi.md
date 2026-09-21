@@ -34,6 +34,10 @@ mots_cles:
 - Epidemiology
 - General practice
 - Non-specific symptoms
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1006.0
 modele_secondaires:

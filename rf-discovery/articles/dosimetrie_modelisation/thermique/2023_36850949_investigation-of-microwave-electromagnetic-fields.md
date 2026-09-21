@@ -25,6 +25,10 @@ mots_cles:
 - Human Head Phantom
 - Microwave Electromagnetic Field
 - Shielded Space
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires: []

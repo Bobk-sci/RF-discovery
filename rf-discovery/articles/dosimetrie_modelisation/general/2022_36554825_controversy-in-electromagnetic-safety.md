@@ -25,6 +25,10 @@ mots_cles:
 - standards
 - Risk Communication
 - Health Effects
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

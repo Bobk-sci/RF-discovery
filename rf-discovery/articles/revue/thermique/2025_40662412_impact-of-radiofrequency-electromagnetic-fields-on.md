@@ -29,6 +29,10 @@ mots_cles:
 - Heart rate
 - Radiofrequency
 - heart rate variability
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

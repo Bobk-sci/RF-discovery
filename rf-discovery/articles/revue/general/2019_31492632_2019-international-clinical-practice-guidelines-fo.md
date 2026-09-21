@@ -26,6 +26,10 @@ types:
 - Research Support, N.I.H., Extramural
 - Systematic Review
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1004.0
 modele_secondaires: []

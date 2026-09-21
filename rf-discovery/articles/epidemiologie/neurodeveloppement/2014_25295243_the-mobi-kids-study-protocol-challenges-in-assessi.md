@@ -20,6 +20,10 @@ mots_cles:
 - brain tumors
 - children
 - mobile phones
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 6.5
 modele_secondaires: []

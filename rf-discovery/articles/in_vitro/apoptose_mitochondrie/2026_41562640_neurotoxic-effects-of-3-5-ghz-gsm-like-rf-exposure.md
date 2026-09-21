@@ -32,6 +32,10 @@ mots_cles:
 - Apoptotic Pathways
 - Neurotrophin Receptor P75
 - Radiofrequency (3.5 Ghz)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:

@@ -20,6 +20,10 @@ mots_cles:
 - Disease
 - Empirical/Statistical models
 - Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

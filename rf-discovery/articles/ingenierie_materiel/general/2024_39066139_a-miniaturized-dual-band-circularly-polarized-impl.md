@@ -26,6 +26,10 @@ mots_cles:
 - Arteriovenous Grafts
 - Circularly Polarized
 - Dual-band Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires: []

@@ -35,6 +35,10 @@ mots_cles:
 - Maternal exposure
 - Mobile phone
 - Pregnancy
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1001.0
 modele_secondaires:

@@ -29,6 +29,10 @@ mots_cles:
 - malondialdehyde
 - protein carbonyls
 - reactive oxygen species
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1007.5
 modele_secondaires:

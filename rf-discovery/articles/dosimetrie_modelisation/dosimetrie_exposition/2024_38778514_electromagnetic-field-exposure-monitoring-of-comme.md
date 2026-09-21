@@ -27,6 +27,10 @@ mots_cles:
 - Fifth Generation
 - Quasi‐millimeter/millimeter Wave
 - Radio Frequency‐electromagnetic Field
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

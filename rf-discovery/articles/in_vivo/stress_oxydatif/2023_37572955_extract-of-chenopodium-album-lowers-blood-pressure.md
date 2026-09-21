@@ -37,6 +37,10 @@ mots_cles:
 - Nitric oxide (NO)
 - Relaxation dépendante de l’endothélium
 - Récepteurs muscariniques
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 10.5
 modele_secondaires:

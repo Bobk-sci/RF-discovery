@@ -19,6 +19,10 @@ mots_cles:
 - Cellular Phones
 - Electromagnetic Analysis
 - Handset Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.5
 modele_secondaires: []

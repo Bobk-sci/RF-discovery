@@ -19,6 +19,10 @@ mots_cles:
 - Radiofrequency Radiation
 - Wi-Fi
 - Wireless Technology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires:

@@ -26,6 +26,10 @@ mots_cles:
 - mobile phone base station
 - radiofrequency radiation
 - thermal and non-thermal effects
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

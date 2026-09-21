@@ -32,6 +32,10 @@ mots_cles:
 - Lipid peroxidation,
 - Mobile radiations,
 - Neurodegeneration
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 12.5
 modele_secondaires: []

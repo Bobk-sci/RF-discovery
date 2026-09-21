@@ -20,6 +20,10 @@ types:
 - letter
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 1.0
 modele_secondaires: []

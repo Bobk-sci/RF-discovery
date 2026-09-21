@@ -36,6 +36,10 @@ mots_cles:
 - melatonin
 - radiofrequency radiations
 - sperm
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

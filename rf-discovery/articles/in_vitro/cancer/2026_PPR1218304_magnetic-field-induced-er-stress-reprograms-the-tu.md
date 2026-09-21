@@ -13,6 +13,10 @@ mesh: []
 types:
 - Preprint
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires:

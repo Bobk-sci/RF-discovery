@@ -17,6 +17,10 @@ mots_cles:
 - Smartwatch Electromagnetic Exposure
 - Electromagnetic Radiation Protection
 - Metamaterial Protection Layer
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

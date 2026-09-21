@@ -19,6 +19,10 @@ mots_cles:
 - Anxiety
 - Modulated Microwave
 - Nonmodulated Microwave
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:

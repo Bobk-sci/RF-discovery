@@ -28,6 +28,10 @@ types:
 - Research Support, U.S. Gov't, Non-P.H.S.
 - Research Support, U.S. Gov't, P.H.S.
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

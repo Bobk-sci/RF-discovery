@@ -24,6 +24,10 @@ mots_cles:
 - oxidative changes
 - radiofrequency radiation
 - stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

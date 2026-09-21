@@ -22,6 +22,10 @@ mots_cles:
 - Biophysical Mechanism
 - Motility Suppression
 - Nonthermal Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

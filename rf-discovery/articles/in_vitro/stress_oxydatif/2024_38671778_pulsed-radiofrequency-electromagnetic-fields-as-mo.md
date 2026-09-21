@@ -17,6 +17,10 @@ mots_cles:
 - inflammation
 - pulsed radiofrequency electromagnetic field
 - wound healing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.5
 modele_secondaires: []

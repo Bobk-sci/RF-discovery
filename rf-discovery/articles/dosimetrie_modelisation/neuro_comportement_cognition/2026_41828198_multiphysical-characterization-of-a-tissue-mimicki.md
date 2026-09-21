@@ -21,6 +21,10 @@ mots_cles:
 - Terahertz Spectroscopy
 - Thermophysical Properties
 - Tissue-mimicking Materials
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

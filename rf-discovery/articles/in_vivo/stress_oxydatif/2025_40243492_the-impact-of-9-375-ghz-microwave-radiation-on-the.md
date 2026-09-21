@@ -32,6 +32,10 @@ mots_cles:
 - learning and cognitive ability
 - microwave radiation
 - oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

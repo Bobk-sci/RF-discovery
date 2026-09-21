@@ -17,6 +17,10 @@ mots_cles:
 - Aging
 - Electromagnetic Interference Shielding
 - Rolling
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

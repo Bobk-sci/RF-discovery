@@ -16,6 +16,10 @@ mots_cles:
 - Epidemiology
 - Occupational & Industrial Medicine
 - Public Health
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 5.5
 modele_secondaires: []

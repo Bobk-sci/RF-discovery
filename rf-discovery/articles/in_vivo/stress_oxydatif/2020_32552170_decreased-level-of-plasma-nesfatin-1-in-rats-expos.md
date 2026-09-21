@@ -24,6 +24,10 @@ mots_cles:
 - cell phone radiation
 - oxidative stress and apoptosis
 - thyroid function
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

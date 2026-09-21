@@ -25,6 +25,10 @@ mots_cles:
 - Non-ionizing radiation
 - Radiofrequency electromagnetic fields (RF-EMF)
 - Spatio-temporal exposure measurements
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

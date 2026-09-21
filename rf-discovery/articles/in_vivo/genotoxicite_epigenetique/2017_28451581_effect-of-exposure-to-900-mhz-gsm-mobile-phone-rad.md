@@ -18,6 +18,10 @@ mots_cles:
 - Microwave
 - Mobile Phone
 - Radiofrequency (RF)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

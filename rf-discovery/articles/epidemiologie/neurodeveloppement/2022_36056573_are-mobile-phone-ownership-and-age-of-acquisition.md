@@ -24,6 +24,10 @@ types:
 - Research Support, Non-U.S. Gov't
 - Research Support, N.I.H., Extramural
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1000.0
 modele_secondaires: []

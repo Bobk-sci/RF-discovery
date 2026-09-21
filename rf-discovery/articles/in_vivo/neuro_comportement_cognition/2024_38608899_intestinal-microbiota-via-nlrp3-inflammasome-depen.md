@@ -29,6 +29,10 @@ mots_cles:
 - Radiofrequency Radiation
 - Pyroptosis
 - Gut Microbe
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 5.5
 modele_secondaires: []

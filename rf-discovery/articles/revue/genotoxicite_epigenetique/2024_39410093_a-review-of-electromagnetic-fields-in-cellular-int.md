@@ -19,6 +19,10 @@ mots_cles:
 - Magnetosensitivity
 - Epigenetic Modifications
 - Cocoa Bean Fermentation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.5
 modele_secondaires: []

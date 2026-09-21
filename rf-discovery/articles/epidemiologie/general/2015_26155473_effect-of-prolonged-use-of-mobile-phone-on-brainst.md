@@ -14,6 +14,10 @@ types:
 mots_cles:
 - Auditory brainstem-evoked responses
 - Mobile phones
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

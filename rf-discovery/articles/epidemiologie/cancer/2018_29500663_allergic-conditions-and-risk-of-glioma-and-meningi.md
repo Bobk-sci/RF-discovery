@@ -33,6 +33,10 @@ mots_cles:
 - Glioma
 - Meningioma
 - Primary central nervous system neoplasm
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1008.0
 modele_secondaires: []

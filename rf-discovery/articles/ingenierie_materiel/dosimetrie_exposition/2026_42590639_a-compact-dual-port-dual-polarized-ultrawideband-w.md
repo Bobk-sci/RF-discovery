@@ -21,6 +21,10 @@ mots_cles:
 - Iot-based Wban
 - Off-body Communications
 - Dual-port
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1000.0
 modele_secondaires:

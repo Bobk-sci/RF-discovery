@@ -25,6 +25,10 @@ mots_cles:
 - Problematic mobile phone use (PMPU)
 - Sleep quality
 - Time management disposition (TMD)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

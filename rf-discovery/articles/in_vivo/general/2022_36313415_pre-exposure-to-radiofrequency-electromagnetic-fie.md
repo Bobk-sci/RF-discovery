@@ -19,6 +19,10 @@ mots_cles:
 - Radioadaptive Response
 - Cell Phone
 - Radiofrequency Radiation (Rf)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires:

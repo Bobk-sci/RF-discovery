@@ -19,6 +19,10 @@ mots_cles:
 - Metamaterial
 - Targeted Tumor Therapy
 - Miniaturized Antennas
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

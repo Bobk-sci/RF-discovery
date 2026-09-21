@@ -38,6 +38,10 @@ mots_cles:
 - social media
 - social network analysis
 - twitter
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

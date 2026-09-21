@@ -29,6 +29,10 @@ mots_cles:
 - Mobile phone base-station
 - Portable exposure meter (PEM)
 - Radiofrequency electromagnetic fields (RF-EMF)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires:

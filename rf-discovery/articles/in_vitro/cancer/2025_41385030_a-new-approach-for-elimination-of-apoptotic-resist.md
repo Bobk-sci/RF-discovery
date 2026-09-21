@@ -33,6 +33,10 @@ mots_cles:
 - P53 Tumor Suppressor
 - Radiofrequency Exposure
 - Alrn-6924
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires: []

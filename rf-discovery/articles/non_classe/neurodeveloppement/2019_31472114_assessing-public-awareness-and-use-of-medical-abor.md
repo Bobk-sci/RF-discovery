@@ -33,6 +33,10 @@ mots_cles:
 - Medical abortion
 - Mifepristone-misoprostol
 - Mobile-phone survey
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

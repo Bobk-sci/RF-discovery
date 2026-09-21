@@ -20,6 +20,10 @@ mots_cles:
 - H-field measurement
 - near-field measurements
 - specific absorption rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.5
 modele_secondaires: []

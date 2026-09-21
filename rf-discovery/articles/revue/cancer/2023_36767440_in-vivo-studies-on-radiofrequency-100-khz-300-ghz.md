@@ -30,6 +30,10 @@ mots_cles:
 - Animal Studies
 - Tumor Incidence
 - Radiofrequency-Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1009.0
 modele_secondaires:

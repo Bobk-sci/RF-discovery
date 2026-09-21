@@ -19,6 +19,10 @@ mots_cles:
 - Single-cell Analysis
 - Hepatic Zonation
 - Single-cell Transcriptome
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

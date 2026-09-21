@@ -25,6 +25,10 @@ mots_cles:
 - neural regeneration
 - quinacrine
 - thermal effect
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires:

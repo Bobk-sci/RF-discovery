@@ -26,6 +26,10 @@ mots_cles:
 - Correlation coefficient
 - Radiofrequency-electromagnetic radiation
 - Subscription rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 3.0
 modele_secondaires:

@@ -34,6 +34,10 @@ mots_cles:
 - Non-ionizing radiation
 - Pregnancy outcomes
 - Radiofrequency exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1010.0
 modele_secondaires:

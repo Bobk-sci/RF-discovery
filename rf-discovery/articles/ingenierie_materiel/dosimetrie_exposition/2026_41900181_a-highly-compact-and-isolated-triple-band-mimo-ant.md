@@ -20,6 +20,10 @@ mots_cles:
 - Implantable Antenna
 - Leadless Pacemaker
 - Triple-band
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1002.5
 modele_secondaires:

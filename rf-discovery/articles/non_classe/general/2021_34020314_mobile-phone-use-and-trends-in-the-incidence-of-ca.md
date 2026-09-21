@@ -28,6 +28,10 @@ mots_cles:
 - Parotid gland cancer
 - Radiofrequency radiation
 - Salivary gland cancer
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

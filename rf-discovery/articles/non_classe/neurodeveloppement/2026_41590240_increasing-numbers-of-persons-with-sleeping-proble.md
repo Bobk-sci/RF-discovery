@@ -17,6 +17,10 @@ mots_cles:
 - Sweden
 - Radiofrequency Radiation
 - Sleeping Problems
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

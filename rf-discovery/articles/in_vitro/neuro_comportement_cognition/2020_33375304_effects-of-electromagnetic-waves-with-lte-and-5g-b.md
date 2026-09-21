@@ -31,6 +31,10 @@ mots_cles:
 - electromagnetic waves
 - melanogenesis
 - skin pigmentation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1008.5
 modele_secondaires:

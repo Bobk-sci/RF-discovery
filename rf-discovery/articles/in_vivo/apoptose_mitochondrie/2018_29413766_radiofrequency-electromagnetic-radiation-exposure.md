@@ -28,6 +28,10 @@ mots_cles:
 - Mobile phone
 - Place preference
 - Radiofrequency electromagnetic radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

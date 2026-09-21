@@ -28,6 +28,10 @@ mots_cles:
 - Uplink
 - Transmit Power
 - 5G
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires: []

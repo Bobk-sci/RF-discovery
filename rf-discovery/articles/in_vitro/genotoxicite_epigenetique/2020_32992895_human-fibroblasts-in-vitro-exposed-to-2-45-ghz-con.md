@@ -30,6 +30,10 @@ mots_cles:
 - Wi-Fi
 - gene expression
 - genotoxic effect
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1007.0
 modele_secondaires:

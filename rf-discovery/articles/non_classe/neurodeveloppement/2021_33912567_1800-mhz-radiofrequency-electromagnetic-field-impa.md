@@ -19,6 +19,10 @@ mots_cles:
 - Neurite Outgrowth
 - Epha5
 - Radiofrequency Electromagnetic Fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

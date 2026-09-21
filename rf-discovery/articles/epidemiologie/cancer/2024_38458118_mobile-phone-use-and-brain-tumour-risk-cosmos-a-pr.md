@@ -31,6 +31,10 @@ mots_cles:
 - Electromagnetic fields
 - Non-ionizing radiation
 - Radiofrequency fields
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1013.0
 modele_secondaires:

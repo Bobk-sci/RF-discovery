@@ -19,6 +19,10 @@ mots_cles:
 - Meta-analysis
 - Systematic review
 - Radiofrequency Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1010.0
 modele_secondaires:

@@ -26,6 +26,10 @@ mots_cles:
 - Central nervous system
 - Microwave
 - Dysfunction Of Learning And Memory Abilities
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

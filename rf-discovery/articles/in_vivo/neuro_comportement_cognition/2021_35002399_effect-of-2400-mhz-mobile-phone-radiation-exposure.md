@@ -19,6 +19,10 @@ mots_cles:
 - Mice
 - Mobile phone
 - Pyramidal neuron
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []

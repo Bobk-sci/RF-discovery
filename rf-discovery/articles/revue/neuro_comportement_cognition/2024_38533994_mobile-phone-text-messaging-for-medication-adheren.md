@@ -27,6 +27,10 @@ types:
 - Systematic Review
 - Meta-Analysis
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1008.0
 modele_secondaires:

@@ -26,6 +26,10 @@ mots_cles:
 - Power density
 - Radiofrequency
 - UMTS2100
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

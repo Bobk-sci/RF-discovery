@@ -18,6 +18,10 @@ mots_cles:
 - occupational performance
 - occupational therapy
 - quality of life
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

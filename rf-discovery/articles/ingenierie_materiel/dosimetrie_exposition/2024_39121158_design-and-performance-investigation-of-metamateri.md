@@ -18,6 +18,10 @@ types:
 - research-article
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 2.0
 modele_secondaires:

@@ -17,6 +17,10 @@ mots_cles:
 - Flow Cytometry
 - Hindlimb Suspension
 - Radio Wave
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires:

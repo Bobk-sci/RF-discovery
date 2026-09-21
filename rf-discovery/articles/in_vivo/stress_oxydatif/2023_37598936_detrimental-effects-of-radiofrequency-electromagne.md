@@ -29,6 +29,10 @@ mots_cles:
 - Radiofrequency
 - Reactive oxygen species
 - Time-laps monitoring
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:

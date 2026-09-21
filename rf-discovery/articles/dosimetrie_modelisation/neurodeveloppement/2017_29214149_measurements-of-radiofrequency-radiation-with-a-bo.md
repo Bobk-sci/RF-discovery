@@ -20,6 +20,10 @@ mots_cles:
 - radiofrequency radiation
 - schools
 - wireless fidelity
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

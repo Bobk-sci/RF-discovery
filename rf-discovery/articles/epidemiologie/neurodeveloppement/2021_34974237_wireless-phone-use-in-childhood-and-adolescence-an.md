@@ -32,6 +32,10 @@ mots_cles:
 - Radiofrequency radiation
 - Wireless phones
 - Young people
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1007.5
 modele_secondaires: []

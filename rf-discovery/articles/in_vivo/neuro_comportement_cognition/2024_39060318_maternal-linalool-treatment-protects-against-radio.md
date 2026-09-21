@@ -34,6 +34,10 @@ mots_cles:
 - Long-term potentiation
 - Mobile phone
 - Offspring rats
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 13.5
 modele_secondaires: []

@@ -23,6 +23,10 @@ mots_cles:
 - electromagnetic measurements
 - health effects
 - safety guidelines
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

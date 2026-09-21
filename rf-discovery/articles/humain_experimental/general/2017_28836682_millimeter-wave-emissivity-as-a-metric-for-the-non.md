@@ -28,6 +28,10 @@ mots_cles:
 - malignant lesions
 - permittivity
 - vascularization
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

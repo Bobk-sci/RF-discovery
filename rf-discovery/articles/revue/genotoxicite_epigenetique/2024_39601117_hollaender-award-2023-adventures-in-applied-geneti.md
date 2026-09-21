@@ -29,6 +29,10 @@ mots_cles:
 - genotoxicity
 - mutagenicity
 - nanomaterials
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1.0
 modele_secondaires: []

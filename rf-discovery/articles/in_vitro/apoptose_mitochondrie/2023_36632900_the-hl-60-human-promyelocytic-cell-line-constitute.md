@@ -30,6 +30,10 @@ mots_cles:
 - HL-60 promyelocytic cell line
 - Necrosis/apoptosis
 - Specific absorption rate
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1005.0
 modele_secondaires:

@@ -18,6 +18,10 @@ mesh:
 types:
 - Journal Article
 mots_cles: []
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires: []

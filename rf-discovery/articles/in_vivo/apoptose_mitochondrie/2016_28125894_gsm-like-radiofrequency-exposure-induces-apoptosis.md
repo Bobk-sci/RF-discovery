@@ -31,6 +31,10 @@ mots_cles:
 - caspase
 - cytochrome c rabbit.
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.0
 modele_secondaires: []

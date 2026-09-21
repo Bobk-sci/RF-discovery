@@ -20,6 +20,10 @@ mots_cles:
 - Somatic Symptom Burden
 - Somatic Signal Detection Task
 - Cardiovascular Signal Detection Task
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

@@ -20,6 +20,10 @@ mots_cles:
 - neurotechnology
 - wireless communication
 - wireless power transfer
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1003.0
 modele_secondaires:

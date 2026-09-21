@@ -28,6 +28,10 @@ mots_cles:
 - 5G Mobile Communication
 - Electromagnetic Exposure Assessment
 - Multi-Layer Human Head Model
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 10.0
 modele_secondaires: []

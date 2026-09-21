@@ -23,6 +23,10 @@ mots_cles:
 - deterministic dosimetry
 - human exposure
 - mm-wave spectrum
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires: []

@@ -32,6 +32,10 @@ mots_cles:
 - lobaplatin
 - mechanistic target of rapamycin
 - microwave hyperthermia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1008.5
 modele_secondaires:

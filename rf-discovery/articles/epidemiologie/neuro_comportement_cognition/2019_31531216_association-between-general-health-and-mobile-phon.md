@@ -18,6 +18,10 @@ mots_cles:
 - health
 - students
 - universities
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires: []

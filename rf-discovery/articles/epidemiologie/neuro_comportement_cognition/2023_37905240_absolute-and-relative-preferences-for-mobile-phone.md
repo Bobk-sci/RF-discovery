@@ -30,6 +30,10 @@ mots_cles:
 - mobile phone dependence
 - mobile phone internet content
 - relative preference
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires: []

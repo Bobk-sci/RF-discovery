@@ -22,6 +22,10 @@ mots_cles:
 - Polydeoxyribonucleotide (Pdrn)
 - 3.5 Ghz
 - Oxidative Stress (Ros)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires:

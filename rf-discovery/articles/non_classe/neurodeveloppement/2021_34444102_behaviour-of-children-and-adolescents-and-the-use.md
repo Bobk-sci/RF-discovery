@@ -26,6 +26,10 @@ mots_cles:
 - internet threats
 - mobile phone
 - schools
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

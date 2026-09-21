@@ -30,6 +30,10 @@ mots_cles:
 - Slow Oscillations
 - Sleep Spindles
 - Eeg Power
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 3.0
 modele_secondaires:

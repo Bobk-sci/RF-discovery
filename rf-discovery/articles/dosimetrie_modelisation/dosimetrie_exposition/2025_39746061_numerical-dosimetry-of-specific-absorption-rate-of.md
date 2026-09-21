@@ -27,6 +27,10 @@ mots_cles:
 - electromagnetic field exposure
 - insect
 - mm waves
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 11.0
 modele_secondaires:

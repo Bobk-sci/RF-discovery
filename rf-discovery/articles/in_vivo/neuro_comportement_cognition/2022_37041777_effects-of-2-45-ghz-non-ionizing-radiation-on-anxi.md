@@ -20,6 +20,10 @@ mots_cles:
 - Gene Expression
 - Elevated Plus Maze
 - Non-ionizing Electromagnetic Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

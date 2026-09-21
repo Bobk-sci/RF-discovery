@@ -27,6 +27,10 @@ mots_cles:
 - genotoxicity
 - immune defence
 - oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

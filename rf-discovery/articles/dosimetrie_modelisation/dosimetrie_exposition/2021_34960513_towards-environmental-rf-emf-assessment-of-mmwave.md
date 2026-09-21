@@ -25,6 +25,10 @@ mots_cles:
 - mmWave
 - propagation modeling
 - radiofrequency electromagnetic fields (RF-EMF)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.0
 modele_secondaires:

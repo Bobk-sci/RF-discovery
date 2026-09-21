@@ -27,6 +27,10 @@ mots_cles:
 - Radiofrequency Fields
 - Cooperative Effects
 - 5G Communications
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.0
 modele_secondaires:

@@ -27,6 +27,10 @@ mots_cles:
 - Host microbe
 - RF-EMF
 - Stress response
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 4.5
 modele_secondaires: []

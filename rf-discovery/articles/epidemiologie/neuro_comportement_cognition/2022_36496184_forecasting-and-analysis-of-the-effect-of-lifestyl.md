@@ -26,6 +26,10 @@ mots_cles:
 - Cognitive impairment
 - Lifestyle
 - Occupational aluminum exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.0
 modele_secondaires: []

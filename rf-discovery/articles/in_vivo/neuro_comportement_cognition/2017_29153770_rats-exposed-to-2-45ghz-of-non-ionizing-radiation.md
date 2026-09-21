@@ -20,6 +20,10 @@ mots_cles:
 - Learning and memory
 - Non-ionizing radiation
 - Oxidative stress
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 3.5
 modele_secondaires: []

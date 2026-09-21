@@ -25,6 +25,10 @@ mots_cles:
 - biological effect
 - electromagnetic field
 - mobile phone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

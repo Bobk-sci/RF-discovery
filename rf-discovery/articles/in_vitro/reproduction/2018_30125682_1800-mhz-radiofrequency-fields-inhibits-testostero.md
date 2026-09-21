@@ -33,6 +33,10 @@ mots_cles:
 - Intracellular Ca(2+)
 - Radiofrequency fields
 - Testosterone
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1003.0
 modele_secondaires:

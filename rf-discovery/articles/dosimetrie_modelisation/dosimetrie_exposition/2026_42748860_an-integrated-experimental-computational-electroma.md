@@ -22,6 +22,10 @@ mots_cles:
 - Bioheat Modeling
 - Wireless Earbuds
 - Electromagnetic–thermal Coupling
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

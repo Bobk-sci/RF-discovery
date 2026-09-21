@@ -26,6 +26,10 @@ mots_cles:
 - Maximum permissible exposure
 - Power density
 - Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1005.0
 modele_secondaires:

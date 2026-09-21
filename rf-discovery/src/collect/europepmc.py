@@ -51,6 +51,18 @@ def _listed(rec: dict[str, Any], container: str, item: str, key: str) -> list[st
     return out
 
 
+def _authors(rec: dict[str, Any]) -> list[str]:
+    """Auteurs « Nom I. » — depuis la liste structurée, sinon depuis ``authorString``."""
+    node = rec.get("authorList") or {}
+    entries = node.get("author") or [] if isinstance(node, dict) else []
+    names = [str(a.get("fullName") or "").strip()
+             for a in entries if isinstance(a, dict) and a.get("fullName")]
+    if names:
+        return names
+    raw = str(rec.get("authorString") or "").rstrip(".")
+    return [n.strip() for n in raw.split(",") if n.strip()]
+
+
 def _to_paper(rec: dict[str, Any], domain: str) -> Paper:
     return Paper(
         pmid=str(rec.get("pmid") or rec.get("id") or ""),
@@ -66,6 +78,12 @@ def _to_paper(rec: dict[str, Any], domain: str) -> Paper:
             "mesh": _listed(rec, "meshHeadingList", "meshHeading", "descriptorName"),
             "types": _listed(rec, "pubTypeList", "pubType", ""),
             "keywords": _listed(rec, "keywordList", "keyword", ""),
+            # Auteurs et identifiants de texte intégral : nécessaires pour exporter une
+            # référence complète (EndNote/Zotero) et retrouver le PDF en accès libre.
+            "authors": _authors(rec),
+            "pmcid": str(rec.get("pmcid") or ""),
+            "volume": str(rec.get("journalVolume") or ""),
+            "pages": str(rec.get("pageInfo") or ""),
         },
     )
 

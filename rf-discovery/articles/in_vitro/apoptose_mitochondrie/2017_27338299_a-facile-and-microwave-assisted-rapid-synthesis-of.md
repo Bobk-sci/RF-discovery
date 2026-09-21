@@ -31,6 +31,10 @@ mots_cles:
 - cytotoxicity
 - microwave irradiation
 - one-pot synthesis
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1009.0
 modele_secondaires: []

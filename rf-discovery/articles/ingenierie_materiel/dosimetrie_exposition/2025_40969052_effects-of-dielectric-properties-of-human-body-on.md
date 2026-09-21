@@ -26,6 +26,10 @@ mots_cles:
 - Meander Line
 - Carrier Link Margin
 - Data Link Margin
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1003.5
 modele_secondaires:

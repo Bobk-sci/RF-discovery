@@ -32,6 +32,10 @@ mots_cles:
 - Emulsions
 - Essential oils
 - Skin
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

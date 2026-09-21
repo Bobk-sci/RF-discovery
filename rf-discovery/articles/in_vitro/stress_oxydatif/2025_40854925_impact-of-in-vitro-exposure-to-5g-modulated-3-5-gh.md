@@ -33,6 +33,10 @@ mots_cles:
 - Oxidative stress
 - Radiofrequency electromagnetic fields (RF-EMF)
 - Reactive oxygen species (ROS)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1006.5
 modele_secondaires:

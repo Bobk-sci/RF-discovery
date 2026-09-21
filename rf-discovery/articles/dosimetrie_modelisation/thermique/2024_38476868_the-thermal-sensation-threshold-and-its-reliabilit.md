@@ -19,6 +19,10 @@ mots_cles:
 - reliability
 - Thermal Sensation
 - Perception Threshold
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires:

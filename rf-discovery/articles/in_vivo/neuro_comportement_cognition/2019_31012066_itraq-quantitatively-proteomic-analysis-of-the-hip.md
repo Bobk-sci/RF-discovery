@@ -31,6 +31,10 @@ mots_cles:
 - Proteomic analysis
 - Rat
 - iTRAQ
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 11.0
 modele_secondaires:

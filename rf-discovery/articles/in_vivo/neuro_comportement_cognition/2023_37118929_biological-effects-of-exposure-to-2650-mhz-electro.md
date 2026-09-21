@@ -31,6 +31,10 @@ mots_cles:
 - Anxiety
 - Gamma-aminobutyric acid
 - Electromagnetic Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.5
 modele_secondaires:

@@ -26,6 +26,10 @@ mots_cles:
 - Exposure assessment
 - Non-ionizing Radiation
 - New Radio
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires:

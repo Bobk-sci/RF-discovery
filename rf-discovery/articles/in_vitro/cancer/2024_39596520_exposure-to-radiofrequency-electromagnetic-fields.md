@@ -35,6 +35,10 @@ mots_cles:
 - Mc1r
 - Radiofrequency Electromagnetic Fields
 - Phospho-creb
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1002.0
 modele_secondaires:

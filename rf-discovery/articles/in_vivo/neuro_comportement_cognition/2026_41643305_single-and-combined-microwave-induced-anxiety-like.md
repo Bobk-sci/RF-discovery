@@ -31,6 +31,10 @@ mots_cles:
 - Blood-Brain Barrier
 - Neuronal Pyroptosis
 - Combined Microwave Exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires:

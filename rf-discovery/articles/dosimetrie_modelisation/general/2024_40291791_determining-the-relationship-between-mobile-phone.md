@@ -21,6 +21,10 @@ mots_cles:
 - Conversion Functions
 - Radiofrequency Electromagnetic Field (Rf-Emf) Exposure
 - Signal Strength Indicators
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 1.0
 modele_secondaires: []

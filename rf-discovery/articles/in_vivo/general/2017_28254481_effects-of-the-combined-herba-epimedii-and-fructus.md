@@ -37,6 +37,10 @@ mots_cles:
 - 'Oleanolic Acid (PubChem CID: 10494)'
 - 'Rutin (PubChem CID: 5280805)'
 - TGF-β1/Smads
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires: []

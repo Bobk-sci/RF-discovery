@@ -27,6 +27,10 @@ mots_cles:
 - immune system
 - radiofrequency
 - tumor hypoxia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

@@ -22,6 +22,10 @@ mots_cles:
 - multiple IoT devices
 - predictive software
 - public exposure limits
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

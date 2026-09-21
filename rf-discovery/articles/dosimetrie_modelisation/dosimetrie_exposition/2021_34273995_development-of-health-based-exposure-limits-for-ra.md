@@ -35,6 +35,10 @@ mots_cles:
 - Specific Absorption Rate
 - Exposure Guidelines
 - Benchmark Modeling
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 9.5
 modele_secondaires:

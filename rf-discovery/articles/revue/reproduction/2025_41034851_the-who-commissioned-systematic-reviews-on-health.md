@@ -29,6 +29,10 @@ mots_cles:
 - World Health Organization
 - Radiofrequency Radiation
 - Cancer Risk
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1008.0
 modele_secondaires:

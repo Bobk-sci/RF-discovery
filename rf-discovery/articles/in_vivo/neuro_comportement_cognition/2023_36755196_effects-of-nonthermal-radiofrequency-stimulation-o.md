@@ -25,6 +25,10 @@ mots_cles:
 - mouse
 - neural circuit
 - radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires: []

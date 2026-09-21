@@ -25,6 +25,10 @@ mots_cles:
 - Non-ionizing radiation
 - Personal exposure measurements
 - Radiofrequency electromagnetic fields (RF-EMF)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires:

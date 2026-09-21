@@ -26,6 +26,10 @@ mots_cles:
 - Radiofrequency electromagnetic fields
 - Spatio-temporal exposure assessment
 - Telecommunications
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []

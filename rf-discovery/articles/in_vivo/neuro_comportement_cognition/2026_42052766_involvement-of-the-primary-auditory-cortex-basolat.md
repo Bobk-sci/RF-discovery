@@ -32,6 +32,10 @@ mots_cles:
 - auditory cortex
 - Fear Conditioning
 - Neural Pathways
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

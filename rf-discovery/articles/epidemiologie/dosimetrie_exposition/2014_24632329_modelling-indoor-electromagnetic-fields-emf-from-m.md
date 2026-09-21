@@ -27,6 +27,10 @@ mots_cles:
 - Indoor
 - Modelling
 - Radio wave propagation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 2.5
 modele_secondaires:

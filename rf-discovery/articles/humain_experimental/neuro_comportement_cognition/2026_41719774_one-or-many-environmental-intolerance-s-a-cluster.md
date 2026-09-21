@@ -30,6 +30,10 @@ mots_cles:
 - K-prototypes Clustering
 - Lumping Vs. Splitting
 - Symptoms Associated With Environmental Factors
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: humain_experimental
 modele_score: 2.0
 modele_secondaires:

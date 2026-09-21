@@ -18,6 +18,10 @@ mots_cles:
 - microvascular endothelial cell
 - microvasculature
 - microwave radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1.0
 modele_secondaires: []

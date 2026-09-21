@@ -30,6 +30,10 @@ mots_cles:
 - SCAMP
 - Smart Phones
 - WiFi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires:

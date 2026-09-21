@@ -26,6 +26,10 @@ mots_cles:
 - radiofrequency field
 - reproduction
 - sub-6 GHz
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 3.0
 modele_secondaires: []

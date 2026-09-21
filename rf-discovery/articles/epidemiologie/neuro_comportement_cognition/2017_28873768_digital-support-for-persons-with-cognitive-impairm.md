@@ -26,6 +26,10 @@ mots_cles:
 - feedback mechanisms
 - mobile technology
 - text message
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

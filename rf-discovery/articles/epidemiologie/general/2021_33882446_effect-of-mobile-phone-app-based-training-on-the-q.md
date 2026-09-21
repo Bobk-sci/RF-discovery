@@ -27,6 +27,10 @@ mots_cles:
 - Endocrine hormone therapy
 - Mobile applications
 - Quality of life
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

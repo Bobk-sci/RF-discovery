@@ -21,6 +21,10 @@ mots_cles:
 - Microwaves
 - Neural stem cells
 - Radiofrequency
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 3.0
 modele_secondaires: []

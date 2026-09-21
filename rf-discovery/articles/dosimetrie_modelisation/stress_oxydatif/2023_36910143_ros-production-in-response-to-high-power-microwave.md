@@ -20,6 +20,10 @@ mots_cles:
 - nanosecond pulses
 - radiation safety level
 - reactive species
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 2.5
 modele_secondaires:

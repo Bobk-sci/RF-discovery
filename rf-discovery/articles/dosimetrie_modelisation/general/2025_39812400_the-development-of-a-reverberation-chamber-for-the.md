@@ -27,6 +27,10 @@ mots_cles:
 - Computational Modeling
 - Reverberation Chamber
 - Sar Validation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 6.5
 modele_secondaires:

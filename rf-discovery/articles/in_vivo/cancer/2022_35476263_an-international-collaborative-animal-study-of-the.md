@@ -26,6 +26,10 @@ mots_cles:
 - international animal study
 - radiofrequency radiation
 - rat
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

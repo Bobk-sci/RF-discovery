@@ -22,6 +22,10 @@ mots_cles:
 - 5G NR
 - RF EMF exposure assessment
 - measurement campaign
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.5
 modele_secondaires: []

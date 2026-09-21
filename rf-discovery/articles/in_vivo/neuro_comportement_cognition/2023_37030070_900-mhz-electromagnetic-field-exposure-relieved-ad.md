@@ -30,6 +30,10 @@ mots_cles:
 - Proteomics
 - Treatment
 - β-amyloid
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires:

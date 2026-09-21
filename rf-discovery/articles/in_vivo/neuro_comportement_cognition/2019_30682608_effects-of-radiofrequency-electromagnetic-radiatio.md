@@ -26,6 +26,10 @@ mots_cles:
 - Mobile phone radiation
 - Ontogenetic queen development
 - RF-EMF exposure
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

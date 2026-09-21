@@ -20,6 +20,10 @@ mots_cles:
 - risk assessment
 - Mobile Phones
 - Radiowaves
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires:

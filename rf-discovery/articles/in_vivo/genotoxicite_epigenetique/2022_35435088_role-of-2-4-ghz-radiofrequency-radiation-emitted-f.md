@@ -26,6 +26,10 @@ mots_cles:
 - Wireless Communication
 - 2.4 Ghz Wi-fi Exposure
 - Fatty Acid Composition Of Membrane And Depot Fats
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

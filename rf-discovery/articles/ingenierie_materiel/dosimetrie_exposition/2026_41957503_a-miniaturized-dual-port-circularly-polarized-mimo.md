@@ -23,6 +23,10 @@ mots_cles:
 - Circularly Polarized Mimo Antenna
 - Front-to-back Ratio (Fbr)
 - X-band Wearable Antenna
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:

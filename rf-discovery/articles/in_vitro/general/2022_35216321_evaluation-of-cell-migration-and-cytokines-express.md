@@ -28,6 +28,10 @@ mots_cles:
 - cytokines
 - keratinocytes
 - wound healing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.5
 modele_secondaires: []

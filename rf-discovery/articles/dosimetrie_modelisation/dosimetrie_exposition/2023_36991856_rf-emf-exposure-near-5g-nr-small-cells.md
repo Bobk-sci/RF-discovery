@@ -23,6 +23,10 @@ mots_cles:
 - exposure limits
 - radiofrequency electromagnetic fields
 - small cell
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 5.0
 modele_secondaires: []

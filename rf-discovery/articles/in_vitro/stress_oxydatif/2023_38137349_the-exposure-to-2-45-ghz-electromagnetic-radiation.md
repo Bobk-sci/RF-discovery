@@ -18,6 +18,10 @@ mots_cles:
 - neuronal-like cells
 - oxidative stress
 - peripheral blood mononuclear cells
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.0
 modele_secondaires: []

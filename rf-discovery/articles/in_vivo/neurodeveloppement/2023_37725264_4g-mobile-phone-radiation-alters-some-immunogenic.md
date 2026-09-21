@@ -31,6 +31,10 @@ mots_cles:
 - Chick Embryo Model
 - 4G Mobile Radiation
 - Vascular Gene
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires:

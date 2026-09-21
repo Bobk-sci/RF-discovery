@@ -19,6 +19,10 @@ mots_cles:
 - Egg white protein
 - Open-cell Structures
 - Low-density Biofoams
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

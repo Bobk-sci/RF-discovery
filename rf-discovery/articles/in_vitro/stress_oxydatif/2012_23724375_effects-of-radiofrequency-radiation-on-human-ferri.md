@@ -17,6 +17,10 @@ mots_cles:
 - immunoassay test
 - radiofrequency radiation
 - ruthenium complex
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []

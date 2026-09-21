@@ -26,6 +26,10 @@ mots_cles:
 - millimeter-wave
 - passive imaging
 - radiometry
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 2.0
 modele_secondaires: []

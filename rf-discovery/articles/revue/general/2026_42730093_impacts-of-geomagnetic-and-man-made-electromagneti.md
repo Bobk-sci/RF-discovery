@@ -24,6 +24,10 @@ mots_cles:
 - Geomagnetic Field
 - Geomagnetic Activity
 - Bioelectromagnetic
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

@@ -29,6 +29,10 @@ mots_cles:
 - Electromagnetic fields
 - Reproductive Health
 - Non-ionizing
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.5
 modele_secondaires:

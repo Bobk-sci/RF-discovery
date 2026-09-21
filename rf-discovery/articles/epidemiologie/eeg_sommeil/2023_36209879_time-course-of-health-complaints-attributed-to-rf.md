@@ -30,6 +30,10 @@ mots_cles:
 - Electromagnetic Hypersensitivity (Ehs)
 - Idiopathic Environmental Intolerance Attributed To Rf-emfs (Iei-rf)
 - Radiofrequency Electromagnetic Fields (Rf-emfs)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1003.5
 modele_secondaires:

@@ -25,6 +25,10 @@ mots_cles:
 - immunoregulation
 - lymphocytes
 - monokines
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 1004.0
 modele_secondaires:

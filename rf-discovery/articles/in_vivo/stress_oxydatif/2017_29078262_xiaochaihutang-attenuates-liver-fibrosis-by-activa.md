@@ -31,6 +31,10 @@ mots_cles:
 - Nrf2 pathway
 - Oxidative stress
 - Xiaochaihutang
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 7.5
 modele_secondaires: []

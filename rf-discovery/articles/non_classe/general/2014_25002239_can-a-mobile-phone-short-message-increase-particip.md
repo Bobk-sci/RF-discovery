@@ -37,6 +37,10 @@ mots_cles:
 - Participación del paciente
 - Patient participation
 - Text messaging
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []

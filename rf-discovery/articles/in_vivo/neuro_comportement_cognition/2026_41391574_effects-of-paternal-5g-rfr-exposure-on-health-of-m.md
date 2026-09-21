@@ -32,6 +32,10 @@ mots_cles:
 - Sperm quality
 - Emotions
 - Radiofrequency Radiation
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 9.0
 modele_secondaires: []

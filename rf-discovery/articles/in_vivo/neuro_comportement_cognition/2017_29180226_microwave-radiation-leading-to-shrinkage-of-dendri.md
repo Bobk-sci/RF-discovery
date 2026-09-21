@@ -37,6 +37,10 @@ mots_cles:
 - Learning and memory
 - Microwave radiation
 - SNK-SPAR pathway
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 8.0
 modele_secondaires: []

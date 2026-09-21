@@ -20,6 +20,10 @@ mots_cles:
 - public health
 - radiofrequency sensor
 - specific energy absorption rate (SAR)
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 7.0
 modele_secondaires: []

@@ -43,6 +43,10 @@ mots_cles:
 - chronic disease
 - injury
 - non-communicable
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: epidemiologie
 modele_score: 1004.5
 modele_secondaires: []

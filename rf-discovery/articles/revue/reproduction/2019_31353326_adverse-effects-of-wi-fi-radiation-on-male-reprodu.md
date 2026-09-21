@@ -24,6 +24,10 @@ mots_cles:
 - Sperm quality
 - Radiofrequency Radiation
 - Wi-fi
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1005.0
 modele_secondaires:

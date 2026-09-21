@@ -26,6 +26,10 @@ mots_cles:
 - gentamicin
 - Radio Frequency
 - Black Tea
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vitro
 modele_score: 2.5
 modele_secondaires: []

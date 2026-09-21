@@ -21,6 +21,10 @@ mots_cles:
 - TNF-α
 - Magnetic Nanoparticle
 - Two-stage Microwave Hyperthermia
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires: []

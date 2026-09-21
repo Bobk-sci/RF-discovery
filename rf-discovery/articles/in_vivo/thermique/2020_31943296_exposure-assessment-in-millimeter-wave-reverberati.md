@@ -28,6 +28,10 @@ mots_cles:
 - infrared imaging
 - millimeter waves
 - tissue-equivalent models
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: in_vivo
 modele_score: 1006.0
 modele_secondaires:

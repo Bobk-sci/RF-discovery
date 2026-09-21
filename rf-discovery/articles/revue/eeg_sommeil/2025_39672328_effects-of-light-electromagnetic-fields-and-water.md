@@ -24,6 +24,10 @@ mots_cles:
 - Light Therapy
 - Metabolic Disorders
 - Chronobiology
+auteurs: []
+pmcid: ''
+volume: ''
+pages: ''
 modele: revue
 modele_score: 1002.0
 modele_secondaires: []
