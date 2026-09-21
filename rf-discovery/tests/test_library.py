@@ -251,7 +251,7 @@ def test_methodologie_irm_ecartee_du_corpus(tmp_path):
                 extra={"mesh": ["Magnetic Resonance Imaging"]})
     assert is_off_topic(irm, TAX) == "radiofrequency coil"
     assert is_off_topic(INVIVO, TAX) == ""
-    counts = file_papers(tmp_path, [irm, INVIVO], TAX)
+    counts, _ = file_papers(tmp_path, [irm, INVIVO], TAX)
     assert counts["_ecartes"] == 1 and counts["in_vivo"] == 1
     assert len(list(tmp_path.rglob("*.md"))) == 1
 
@@ -332,9 +332,10 @@ def test_import_json_et_notices_incompletes(tmp_path):
     assert [p.pmid for p in papers] == ["40000001", "40000002", ""]   # rien n'est jeté
     assert papers[0].year == 2022 and papers[0].journal == "Fixture Journal of Imports"
     assert papers[0].extra["mesh"] == ["Animals", "Rats", "Brain", "Pregnancy"]
-    counts = file_papers(tmp_path, papers, TAX)
+    counts, ecrits = file_papers(tmp_path, papers, TAX)
     assert counts["_ecartes"] == 2            # la notice IRM et celle qui est vide
     assert counts.get("in_vivo") == 1
+    assert [p.exists() for p in ecrits] == [True]   # les chemins écrits sont rendus
 
 
 def test_descripteurs_survivent_a_la_relecture(tmp_path):
@@ -354,5 +355,5 @@ def test_collect_agrege_les_sources(monkeypatch, tmp_path):
     papers = collect(TAX, ["europepmc", "pubmed"], 10, emfportal_url="",
                      emfportal_files=[], email="", api_key="")
     assert {p.pmid for p in papers} == {"30000002", "31234567"}
-    counts = file_papers(tmp_path, papers, TAX)
+    counts, ecrits = file_papers(tmp_path, papers, TAX)
     assert counts == {"in_vivo": 1, "in_vitro": 1}

@@ -38,6 +38,7 @@ from library.classify import (
     is_off_topic,
     load_taxonomy,
 )
+from library.digest import write_digest
 from library.importer import papers_from_json
 from library.organize import (
     article_path,
@@ -88,10 +89,12 @@ def collect(tax: Taxonomy, sources: list[str], max_results: int, *,
     return papers
 
 
-def file_papers(out: Path, papers: list[Paper], tax: Taxonomy) -> dict[str, int]:
-    """Classe et écrit chaque article ; compte les fiches par catégorie de 1er niveau."""
+def file_papers(out: Path, papers: list[Paper],
+                tax: Taxonomy) -> tuple[dict[str, int], list[Path]]:
+    """Classe et écrit chaque article ; rend les compteurs et les fiches écrites."""
     axes = tuple(ax.name for ax in tax.axes)
     counts: dict[str, int] = {}
+    ecrits: list[Path] = []
     for paper in papers:
         motif = is_off_topic(paper, tax)
         if motif:
@@ -99,10 +102,10 @@ def file_papers(out: Path, papers: list[Paper], tax: Taxonomy) -> dict[str, int]
             counts["_ecartes"] = counts.get("_ecartes", 0) + 1
             continue
         assignments = classify_paper(paper, tax)
-        write_article(out, paper, assignments, axes)
+        ecrits.append(write_article(out, paper, assignments, axes))
         key = assignments[axes[0]].category if axes else "?"
         counts[key] = counts.get(key, 0) + 1
-    return counts
+    return counts, ecrits
 
 
 def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
@@ -246,10 +249,13 @@ def main() -> None:
                       api_key=os.environ.get("NCBI_API_KEY", ""))
     seen = set() if args.tout else load_seen(args.seen)
     fresh, updated = dedupe(papers, seen)
-    counts = file_papers(out, fresh, tax)
+    counts, ecrits = file_papers(out, fresh, tax)
     save_seen(args.seen, updated)
+    compte_rendu = write_digest(out, ecrits, counts)
     print(json.dumps({"trouves": len(papers), "nouveaux": len(fresh),
-                      "par_modele": counts, "articles": _finalise(out, tax, build_query(tax))},
+                      "par_modele": counts,
+                      "compte_rendu": str(compte_rendu.relative_to(out)),
+                      "articles": _finalise(out, tax, build_query(tax))},
                      indent=2, ensure_ascii=False))
 
 

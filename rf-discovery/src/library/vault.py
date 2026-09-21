@@ -43,6 +43,16 @@ def _carte(categorie: str, records: list[dict[str, Any]], second: str) -> str:
     return "\n".join(lignes)
 
 
+def _derniers_comptes_rendus(root: Path, combien: int = 5) -> list[str]:
+    """Liens vers les derniers comptes rendus de collecte, s'il y en a."""
+    dossier = root / "_veilles"
+    veilles = sorted(dossier.glob("veille-*.md"), reverse=True)[:combien] if \
+        dossier.exists() else []
+    if not veilles:
+        return []
+    return ["## Dernières veilles", "", *[f"- [[{v.stem}]]" for v in veilles], ""]
+
+
 def write_maps(root: str | Path, records: list[dict[str, Any]],
                axes: tuple[str, ...]) -> int:
     """Écrit les cartes de lecture ; renvoie le nombre de fichiers produits."""
@@ -65,7 +75,8 @@ def write_maps(root: str | Path, records: list[dict[str, Any]],
         f"{len(records)} articles, carte mise à jour le {date.today().isoformat()}.", "",
         "## Par modèle d'étude", "",
         *[f"- [[{c}]] ({len(e)})" for c, e in sorted(par_categorie.items())],
-        "", "## Étiquettes", "",
+        "", *_derniers_comptes_rendus(Path(root)),
+        "## Étiquettes", "",
         "Chaque fiche porte `modele/…`, `theme/…` et `annee/…` : le panneau des",
         "étiquettes d'Obsidian donne les mêmes entrées, croisées.",
     ]
