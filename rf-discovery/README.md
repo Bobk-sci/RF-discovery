@@ -75,8 +75,10 @@ python -m fetch_pdfs --email vous@exemple.fr --out pdf
 python -m export_refs --pdf-dir pdf                  # rattache les PDF aux références
 ```
 
-`bibliotheque-rf.ris` s'importe directement dans **EndNote** (*File → Import*) et dans
-**Zotero** (*Fichier → Importer*) ; `bibliotheque-rf.bib` convient à Zotero et à LaTeX.
+`bibliotheque-rf.ris` s'importe directement dans **Zotero** (*Fichier → Importer*) et dans
+**EndNote** (*File → Import*, type Reference Manager) ; `bibliotheque-rf.bib` convient à
+Zotero et à LaTeX. Les chemins de PDF partent en URI `file://` : c'est la seule forme que
+Zotero sache résoudre pour attacher un fichier local.
 Le classement voyage en mots-clés (`modele:in_vivo`, `theme:neurodeveloppement`) : Zotero
 en fait des étiquettes, sur lesquelles on reconstruit l'arborescence en une recherche
 sauvegardée.
@@ -120,9 +122,12 @@ de paramètres (Qwen, Llama, Mistral) suffit pour résumer et rapprocher des ré
 modèles pédagogiques de type *nanochat* (classe GPT-2) sont faits pour comprendre
 l'entraînement, pas pour analyser de la littérature.
 
-**EndNote** : *File → Import → File*, type **Reference Manager (RIS)**, fichier
-`articles/bibliotheque-rf.ris`. Les champs `L1` pointent vers les PDF téléchargés : les
-fichiers s'attachent aux références à l'import.
+**Zotero** : déplacez d'abord son répertoire de données sur le disque de travail
+(*Paramètres → Avancé → Fichiers et dossiers*), puis *Fichier → Importer* →
+`articles/bibliotheque-rf.ris`, en cochant « placer dans une nouvelle collection ». Les
+étiquettes `modele:` / `theme:` arrivent avec, et les PDF déjà téléchargés s'attachent.
+Pour le reste du corpus, *« Trouver le PDF disponible »* avec le proxy de votre
+bibliothèque. **EndNote** lit le même fichier (*File → Import*, type Reference Manager).
 
 ## Analyser le corpus avec Claude Code (VS Code)
 

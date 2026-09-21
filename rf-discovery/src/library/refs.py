@@ -59,10 +59,17 @@ def to_ris(records: list[dict[str, Any]], axes: tuple[str, ...],
 
 
 def _pdf_path(meta: dict[str, Any], pdf_dir: Path | None) -> str:
+    """URI ``file://`` du PDF local, ou chaîne vide.
+
+    Zotero n'exploite ``L1`` que si la valeur est une URI qu'il sait résoudre : un chemin
+    Windows brut (``E:\\pdf\\1234.pdf``) est ignoré silencieusement, une URI
+    ``file:///E:/pdf/1234.pdf`` attache le fichier. ``as_uri`` exige un chemin absolu,
+    d'où la résolution préalable.
+    """
     if pdf_dir is None or not meta.get("pmid"):
         return ""
-    candidate = Path(pdf_dir) / f"{meta['pmid']}.pdf"
-    return str(candidate) if candidate.exists() else ""
+    candidate = Path(pdf_dir).resolve() / f"{meta['pmid']}.pdf"
+    return candidate.as_uri() if candidate.exists() else ""
 
 
 def _bib_key(meta: dict[str, Any], used: set[str]) -> str:

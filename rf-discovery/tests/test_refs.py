@@ -46,11 +46,13 @@ def test_ris_omet_les_champs_absents(tmp_path):
 
 
 def test_ris_attache_le_pdf_present(tmp_path):
+    """Zotero ignore un chemin brut : `L1` doit porter une URI `file://`."""
     pdf_dir = tmp_path / "pdf"
     pdf_dir.mkdir()
     (pdf_dir / "31234567.pdf").write_bytes(b"%PDF-1.4")
     records = _library(tmp_path)
-    assert "L1  - " in to_ris(records, AXES, pdf_dir)
+    ris = to_ris(records, AXES, pdf_dir)
+    assert "L1  - file:///" in ris and ris.rstrip().count("31234567.pdf") == 1
     assert "L1  - " not in to_ris(records, AXES, tmp_path / "vide")
 
 
