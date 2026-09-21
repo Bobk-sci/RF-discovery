@@ -1,4 +1,4 @@
-# Installe la bibliothèque RF sur un disque Windows (par défaut E:\rf-library).
+﻿# Installe la bibliothèque RF sur un disque Windows (par défaut E:\rf-library).
 #
 #   powershell -ExecutionPolicy Bypass -File installer-windows.ps1 -Email vous@exemple.fr
 #
@@ -14,6 +14,9 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+# PowerShell 5.1 n'interrompt pas le script quand une commande EXTERNE échoue : sans ce
+# contrôle explicite, un git en échec laissait la suite s'exécuter comme si de rien n'était.
+function Verifier($quoi) { if ($LASTEXITCODE -ne 0) { throw "$quoi a échoué (code $LASTEXITCODE)." } }
 
 function Etape($texte) { Write-Host "`n=== $texte ===" -ForegroundColor Cyan }
 
@@ -29,25 +32,39 @@ Write-Host "Python $version, Git présent."
 Etape "Récupération du dépôt dans $Racine"
 if (Test-Path (Join-Path $Racine ".git")) {
     Push-Location $Racine
-    git pull --ff-only origin $Branche
-    Pop-Location
+    try {
+        # Ce dossier est un MIROIR du dépôt : on n'y attend aucun travail local. On aligne
+        # donc sur la branche distante plutôt que de fusionner — un `pull --ff-only`
+        # échoue dès que l'historique distant a été réécrit, ce qui bloquait tout.
+        $sale = (git status --porcelain) | Where-Object { $_ -notmatch "^\?\?" }
+        if ($sale) {
+            throw "Des fichiers suivis ont été modifiés dans $Racine. Sauvegardez-les ou supprimez le dossier, puis relancez."
+        }
+        git fetch origin $Branche
+        Verifier "git fetch"
+        git reset --hard "origin/$Branche"
+        Verifier "git reset"
+    } finally { Pop-Location }
 } else {
     git clone -b $Branche https://github.com/Bobk-sci/RF-discovery $Racine
+    Verifier "git clone"
 }
 
 $projet = Join-Path $Racine "rf-discovery"
 Push-Location $projet
 try {
     Etape "Environnement Python"
-    if (-not (Test-Path ".venv")) { python -m venv .venv }
+    if (-not (Test-Path ".venv")) { python -m venv .venv; Verifier "python -m venv" }
     $py = Join-Path $projet ".venv\Scripts\python.exe"
     & $py -m pip install --quiet --upgrade pip
     & $py -m pip install --quiet -e .
+    Verifier "pip install"
 
     if (-not $SansPdf) {
         Etape "Téléchargement des PDF en accès libre (Unpaywall)"
         Write-Host "Seuls les articles légalement gratuits sont récupérés." -ForegroundColor DarkGray
         & $py -m fetch_pdfs --email $Email --out (Join-Path $projet "pdf")
+        Verifier "fetch_pdfs"
     }
 
     Etape "Export des références (RIS + BibTeX)"
