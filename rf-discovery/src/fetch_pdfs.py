@@ -33,32 +33,58 @@ UNPAYWALL = "https://api.unpaywall.org/v2"
 log = logging.getLogger("pdfs")
 
 
-def oa_pdf_url(doi: str, email: str, *, fetcher=None,
-               cache_dir: str = "data/cache/unpaywall") -> str:
-    """URL du PDF en accès libre pour ce DOI, ou chaîne vide s'il n'y en a pas."""
+def oa_pdf_urls(doi: str, email: str, *, fetcher=None,
+                cache_dir: str = "data/cache/unpaywall") -> list[str]:
+    """URLs de PDF en accès libre pour ce DOI, **dépôts d'abord**.
+
+    Les dépôts (PMC, archives institutionnelles) servent les fichiers à un script sans
+    difficulté ; les sites d'éditeurs renvoient souvent 403 à tout ce qui n'est pas un
+    navigateur, même pour un article sous licence libre. On essaie donc les dépôts en
+    premier et on garde les éditeurs en secours.
+    """
     fetch = fetcher or (lambda u, p: get_json(u, p, cache_dir=cache_dir))
     try:
         data = fetch(f"{UNPAYWALL}/{doi}", {"email": email}) or {}
     except Exception as exc:            # DOI inconnu, réseau : on passe au suivant
         log.debug("Unpaywall %s : %s", doi, exc)
-        return ""
-    best = data.get("best_oa_location") or {}
-    url = best.get("url_for_pdf") or ""
-    if not url:
-        for loc in data.get("oa_locations") or []:
-            if isinstance(loc, dict) and loc.get("url_for_pdf"):
-                url = loc["url_for_pdf"]
-                break
-    return str(url or "")
+        return []
+    locations = [loc for loc in (data.get("oa_locations") or []) if isinstance(loc, dict)]
+    best = data.get("best_oa_location")
+    if isinstance(best, dict) and best not in locations:
+        locations.append(best)
+    depots = [loc for loc in locations if loc.get("host_type") == "repository"]
+    autres = [loc for loc in locations if loc.get("host_type") != "repository"]
+    urls: list[str] = []
+    for loc in depots + autres:
+        url = str(loc.get("url_for_pdf") or "")
+        if url and url not in urls:
+            urls.append(url)
+    return urls
 
 
-def download(url: str, target: Path, *, timeout: int = 60) -> bool:
+def _headers(email: str) -> dict[str, str]:
+    """En-têtes d'un client honnête mais complet.
+
+    ``User-Agent: rf-library/1.0`` seul, sans ``Accept``, ressemble à un robot anonyme :
+    plusieurs éditeurs répondent 403. On s'identifie donc avec un contact — la convention
+    du « polite pool » de Crossref — et on annonce ce qu'on accepte. Aucune tentative de
+    se faire passer pour un navigateur, aucun contournement d'authentification.
+    """
+    contact = f"; mailto:{email}" if email else ""
+    return {
+        "User-Agent": f"rf-library/1.0 (+https://github.com/Bobk-sci/RF-discovery{contact})",
+        "Accept": "application/pdf,application/octet-stream;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en,fr;q=0.8",
+    }
+
+
+def download(url: str, target: Path, *, timeout: int = 60, email: str = "") -> bool:
     """Écrit le PDF ; refuse tout ce qui n'en est pas un (page de péage, HTML d'erreur)."""
     import requests
 
     target.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, stream=True, timeout=timeout,
-                      headers={"User-Agent": "rf-library/1.0"}) as resp:
+    with requests.get(url, stream=True, timeout=timeout, allow_redirects=True,
+                      headers=_headers(email)) as resp:
         resp.raise_for_status()
         if "pdf" not in resp.headers.get("Content-Type", "").lower():
             return False
@@ -78,10 +104,10 @@ def fetch_all(records: list[dict[str, Any]], out: Path, email: str, *,
               limit: int | None = None, pause_s: float = 1.0,
               url_resolver=None, downloader=None, sleep=time.sleep) -> dict[str, int]:
     """Parcourt la bibliothèque et récupère ce qui est légalement téléchargeable."""
-    resolve = url_resolver or (lambda doi: oa_pdf_url(doi, email))
-    grab = downloader or download
+    resolve = url_resolver or (lambda doi: oa_pdf_urls(doi, email))
+    grab = downloader or (lambda url, target: download(url, target, email=email))
     counts = {"deja_present": 0, "telecharges": 0, "sans_acces_libre": 0,
-              "sans_doi": 0, "echecs": 0}
+              "sans_doi": 0, "refus_editeur": 0, "echecs": 0}
     for meta in records[:limit]:
         target = out / _name(meta)
         if target.exists():
@@ -91,17 +117,29 @@ def fetch_all(records: list[dict[str, Any]], out: Path, email: str, *,
         if not doi:
             counts["sans_doi"] += 1
             continue
-        url = resolve(doi)
-        if not url:
+        urls = resolve(doi)
+        if not urls:
             counts["sans_acces_libre"] += 1
             continue
-        try:
-            counts["telecharges" if grab(url, target) else "echecs"] += 1
-        except Exception as exc:
-            log.warning("téléchargement %s : %s", doi, exc)
-            counts["echecs"] += 1
+        _essayer(urls, target, doi, grab, counts)
         sleep(pause_s)
     return counts
+
+
+def _essayer(urls: list[str], target: Path, doi: str, grab, counts: dict[str, int]) -> None:
+    """Essaie chaque source jusqu'à obtenir le PDF ; note la raison du dernier échec."""
+    refus = False
+    for url in urls:
+        try:
+            if grab(url, target):
+                counts["telecharges"] += 1
+                return
+        except Exception as exc:
+            # 403 = l'éditeur refuse les scripts, pas un article payant. Zotero, qui
+            # agit depuis un navigateur, y arrive généralement.
+            refus = refus or "403" in str(exc)
+            log.info("source refusée pour %s : %s", doi, str(exc)[:90])
+    counts["refus_editeur" if refus else "echecs"] += 1
 
 
 def main() -> None:
@@ -121,6 +159,10 @@ def main() -> None:
     out.mkdir(parents=True, exist_ok=True)
     counts = fetch_all(records, out, args.email, limit=args.limit)
     print(json.dumps({"articles": len(records), **counts}, indent=2, ensure_ascii=False))
+    if counts["refus_editeur"]:
+        print(f"\n{counts['refus_editeur']} articles en accès libre dont l'éditeur refuse "
+              "les scripts (403). Ils ne sont pas payants : dans Zotero, « Trouver le PDF "
+              "disponible » les récupère depuis un navigateur.")
 
 
 if __name__ == "__main__":
