@@ -66,6 +66,9 @@ def _pdf_path(meta: dict[str, Any], pdf_dir: Path | None) -> str:
     ``file:///E:/pdf/1234.pdf`` attache le fichier. ``as_uri`` exige un chemin absolu,
     d'où la résolution préalable.
     """
+    local = str(meta.get("pdf_local") or "")
+    if local and Path(local).exists():
+        return Path(local).resolve().as_uri()      # PDF apporté par l'utilisateur
     if pdf_dir is None or not meta.get("pmid"):
         return ""
     candidate = Path(pdf_dir).resolve() / f"{meta['pmid']}.pdf"

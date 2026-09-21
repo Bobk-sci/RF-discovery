@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-183 articles.
+201 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -12,15 +12,16 @@
 
 - `1998` [[1998_9441959_headaches-from-cellular-telephones-are-they-real-a]] — Frey AH
 
-## cancer (5)
+## cancer (6)
 
+- `2026` [[2026_42382435_the-role-of-low-energy-virtual-monoenergetic-image]] — Miller JR et al.
 - `2026` [[2026_42527916_conflicting-views-in-experimental-carcinogenesis-a]] — Melnick RL et al.
 - `2026` [[2026_PPR1291611_compact-cross-dipole-metamaterial-inspired-thz-ant]] — G SM
 - `2026` [[2026_PPR1311291_total-hip-arthroplasty-on-tumor-treating-fields-de]] — Liang O et al.
 - `2023` [[2023_36706903_incongruities-in-recently-revised-radiofrequency-e]] — Lin JC
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
 
-## dosimetrie_exposition (88)
+## dosimetrie_exposition (90)
 
 - `2026` [[2026_41615988_numerical-analysis-of-low-frequency-electromagneti]] — Tian R et al.
 - `2026` [[2026_41645932_effects-of-exposure-to-nearby-mobile-phone-base-st]] — Laldinpuii et al.
@@ -54,10 +55,12 @@
 - `2025` [[2025_40842699_non-contact-radiofrequency-stimulation-to-the-olfa]] — Bok J et al.
 - `2025` [[2025_41230687_comprehensive-measurement-based-assessment-of-down]] — Wang S et al.
 - `2025` [[2025_41239101_visualizing-radiofrequency-electromagnetic-field-e]] — Arribas E et al.
+- `2025` [[2025_41337259_shielded-relay-coil-design-to-optimize-wpt-and-sar]] — Daling MH et al.
 - `2025` [[2025_41395749_conceptualization-and-realization-of-a-vibrating-i]] — Oppermann L et al.
 - `2025` [[2025_41461760_machine-learning-optimized-compact-wearable-freque]] — Salisu A et al.
 - `2025` [[2025_IND608844840_auto-induced-uplink-4g-and-5g-rf-emf-exposure-asse]] — Stroobandt B et al.
 - `2024` [[2024_38199478_personal-exposure-to-radiofrequency-electromagneti]] — Ramirez-Vazquez R et al.
+- `2024` [[2024_38400463_crescent-antennas-as-sensors-case-of-sensing-brain]] — Anwar U et al.
 - `2024` [[2024_38709715_absorption-of-5g-sub-6-ghz-electromagnetic-radiati]] — Lin J et al.
 - `2024` [[2024_38778514_electromagnetic-field-exposure-monitoring-of-comme]] — Liu S et al.
 - `2024` [[2024_39007516_on-the-uncertainty-in-numerical-modeling-of-wirele]] — Christ A, Keshvari J
@@ -117,16 +120,28 @@
 - `2020` [[2020_32104921_design-and-dosimetric-analysis-of-an-exposure-faci]] — Schmid G et al.
 - `2012` [[2012_22268596_is-there-any-exposure-from-a-mobile-phone-in-stand]] — Mild KH et al.
 
-## general (26)
+## general (38)
 
+- `2026` [[2026_41725151_comparison-of-low-iodine-concentration-quantificat]] — Sirituenlee C et al.
+- `2026` [[2026_41812336_evaluation-of-proton-range-differences-in-photon-c]] — Lustermans D et al.
 - `2026` [[2026_42091752_geospatial-mapping-and-7-year-temporal-trends-of-e]] — Kiouvrekis Y et al.
+- `2026` [[2026_42121306_phantom-evaluation-of-spectral-performance-in-phot]] — Ren L et al.
+- `2026` [[2026_42236375_dosimetric-comparison-of-proton-therapy-plans-calc]] — Wang H et al.
 - `2026` [[2026_42244425_a-ten-country-study-on-public-perceptions-of-5g-em]] — Link SC et al.
 - `2026` [[2026_42276343_determinants-of-radiofrequency-electromagnetic-fie]] — Fontaine M et al.
+- `2026` [[2026_42380174_low-cost-uwb-cpw-microwave-tattoo-sensor-for-respi]] — Ashraf H et al.
 - `2026` [[2026_42447532_temporal-2g-5g-rf-emf-exposure-assessment-in-ten-e]] — Van Bladel H et al.
+- `2026` [[2026_42555230_a-comparison-of-relative-stopping-power-derived-by]] — Wang H et al.
+- `2026` [[2026_42560085_comparison-of-three-commercial-multi-energy-ct-and]] — Omar A et al.
+- `2026` [[2026_42563473_theoretical-assessment-of-dect-noise-on-physical-a]] — Li W et al.
+- `2026` [[2026_42640536_comparison-of-breast-level-surface-dose-between-si]] — Yamada M et al.
+- `2026` [[2026_42685782_assessment-of-elemental-decomposition-algorithms-f]] — Li Y et al.
 - `2026` [[2026_42753715_low-frequency-magnetic-flux-density-levels-in-vari]] — Dobruna J et al.
+- `2026` [[2026_PPR1284137_photon-counting-computed-tomography-for-phantom-le]] — Boyd SK et al.
 - `2025` [[2025_39643257_exploring-rf-emf-levels-in-swiss-microenvironments]] — Veludo AF et al.
 - `2025` [[2025_39812400_the-development-of-a-reverberation-chamber-for-the]] — Iskra S et al.
 - `2025` [[2025_40090040_rf-emf-exposure-assessment-with-add-on-uplink-expo]] — Bladel HV et al.
+- `2025` [[2025_40245077_modeling-and-simulation-of-an-effectual-triangular]] — Singh A et al.
 - `2025` [[2025_40414185_assessing-radiofrequency-electromagnetic-field-exp]] — Veludo AF et al.
 - `2025` [[2025_41038242_tensor-based-spfd-method-for-accurate-low-frequenc]] — Yamada E et al.
 - `2025` [[2025_IND609298217_assessing-radiofrequency-electromagnetic-field-exp]] — Veludo AF et al.
@@ -152,11 +167,13 @@
 - `2016` [[2016_26476436_exposure-to-915-mhz-radiation-induces-micronuclei]] — Gustavino B et al.
 - `2005` [[2005_15785322_genotoxicity-evaluation-of-electromagnetic-fields]] — Chang SK et al.
 
-## neuro_comportement_cognition (7)
+## neuro_comportement_cognition (9)
 
 - `2026` [[2026_41828198_multiphysical-characterization-of-a-tissue-mimicki]] — Reyes-Vera E et al.
 - `2026` [[2026_42076313_modeling-of-polyolefin-aluminum-bonding-technology]] — Ciobanu RC et al.
+- `2026` [[2026_42090102_impact-of-automatic-exposure-control-on-radiation]] — Matsubara K et al.
 - `2026` [[2026_PPR1317233_first-experimental-realization-of-a-cable-free-and]] — Jung MH
+- `2024` [[2024_38602349_anomalously-large-heat-generation-of-hydration-wat]] — Murakami H
 - `2024` [[2024_40040200_cerebral-blood-flow-monitoring-with-a-portable-rad]] — Anwar U et al.
 - `2022` [[2022_35270862_lessons-learned-from-a-distributed-rf-emf-sensor-n]] — Aerts S et al.
 - `2022` [[2022_35888240_microwave-treatment-of-calcium-phosphate-titanium]] — Park KH et al.
@@ -202,13 +219,14 @@
 - `2021` [[2021_33828192_activation-of-matrix-metalloproteinases-and-foxo3a]] — Kim JH et al.
 - `2021` [[2021_34234197_evaluation-of-non-thermal-effect-of-microwave-radi]] — Shaw P et al.
 
-## thermique (19)
+## thermique (20)
 
 - `2026` [[2026_41600503_electromagnetic-exposure-from-rf-antennas-on-subwa]] — Li J et al.
 - `2026` [[2026_42076502_dosimetry-of-a-thermoregulated-tem-cell-for-5g-700]] — Nasri A et al.
 - `2026` [[2026_42569626_biogenic-nickel-ferrite-nanoparticles-synthesized]] — Góral-Kowalczyk M et al.
 - `2026` [[2026_42726545_from-dipolar-interactions-to-tissue-heating-a-mult]] — Moisiuc VM et al.
 - `2026` [[2026_42759781_head-only-mri-of-deep-brain-stimulation-devices-at]] — Louka AM et al.
+- `2025` [[2025_39760845_memory-enhancement-by-transcranial-radiofrequency]] — Baranowski R et al.
 - `2025` [[2025_40432039_assessment-of-rf-electromagnetic-exposure-to-car-d]] — Wang S, Lu M
 - `2025` [[2025_40437036_experimental-analysis-of-metamaterial-integrated-a]] — Sharma N et al.
 - `2025` [[2025_41397352_intercomparisons-of-computed-epithelial-absorbed-p]] — Li K et al.

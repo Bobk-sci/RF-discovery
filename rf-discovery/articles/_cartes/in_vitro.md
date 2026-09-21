@@ -1,8 +1,8 @@
 # in_vitro
 
-153 articles.
+159 articles.
 
-## apoptose_mitochondrie (37)
+## apoptose_mitochondrie (38)
 
 - `2026` [[2026_41562640_neurotoxic-effects-of-3-5-ghz-gsm-like-rf-exposure]] — Bektas H et al.
 - `2026` [[2026_41660276_the-effect-of-4-3-ghz-high-power-microwave-exposur]] — Gao A et al.
@@ -13,6 +13,7 @@
 - `2025` [[2025_41341957_breaking-the-barrier-disruption-of-bacterial-biofi]] — Ben H et al.
 - `2025` [[2025_PPR1042539_the-effect-of-different-microwave-radiations-on-sp]] — Sotheeswaran A
 - `2024` [[2024_38115173_evaluation-of-mitochondrial-stress-following-ultra]] — Patrignoni L et al.
+- `2024` [[2024_38998686_microwave-responsive-metal-organic-frameworks-mofs]] — Fatima SF et al.
 - `2024` [[2024_39063113_sulforaphane-effects-on-neuronal-like-cells-and-pe]] — Bertuccio MP et al.
 - `2024` [[2024_39362289_harnessing-the-synergy-of-nanosecond-high-power-mi]] — Rana JN et al.
 - `2024` [[2024_39734544_formation-of-reactive-species-via-high-power-micro]] — Rana JN et al.
@@ -48,9 +49,11 @@
 - `2016` [[2016_27053138_effect-of-radiofrequency-radiation-in-cultured-mam]] — Manna D, Ghosh R
 - `2015` [[2015_25195697_activation-of-vegf-flk-1-erk-pathway-induced-blood]] — Wang LF et al.
 
-## cancer (18)
+## cancer (20)
 
 - `2026` [[2026_41850480_radiofrequency-exposure-to-lte-signal-does-not-alt]] — Allocca M et al.
+- `2026` [[2026_41937209_a-dual-transformable-mgga-mof-nanoplatform-for-hcc]] — Li Y et al.
+- `2026` [[2026_42280148_gold-nanoparticle-complexes-with-pamam-dendrimers]] — Kołodziejczyk AM et al.
 - `2026` [[2026_42594945_a-programmable-electroculture-platform-for-directi]] — Senturk F et al.
 - `2026` [[2026_PPR1218304_magnetic-field-induced-er-stress-reprograms-the-tu]] — Sharma V et al.
 - `2025` [[2025_40314206_nanomaterials-as-electromagnetic-sensors-for-tumou]] — Wilson AJ et al.
@@ -76,9 +79,10 @@
 - `2020` [[2020_33074167_microtubular-structure-impairment-after-gsm-modula]] — Čermak AMM et al.
 - `2015` [[2015_25194051_effect-of-a-2-45-ghz-radiofrequency-electromagneti]] — Koyama S et al.
 
-## general (17)
+## general (18)
 
 - `2026` [[2026_42188378_atmospheric-cold-microwave-argon-plasma-for-decont]] — Bogdanov T et al.
+- `2026` [[2026_42451482_a-duty-cycled-pll-and-fractal-antenna-co-design-ar]] — Zou W et al.
 - `2026` [[2026_42656385_arresting-spirochetes-nonthermal-extremely-low-fre]] — Nilsen EA et al.
 - `2026` [[2026_42729640_correction-arresting-spirochetes-nonthermal-extrem]] — Nilsen EA et al.
 - `2026` [[2026_PPR1184219_effect-of-cellular-radiation-on-nickel-release-fro]] — Sivadasan G et al.
@@ -96,8 +100,9 @@
 - `2015` [[2015_26337368_microwave-induced-structural-and-functional-injury]] — Wang LF et al.
 - `1978` [[1978_657002_cytological-effects-of-microwave-radiation-in-chin]] — Alam MT et al.
 
-## genotoxicite_epigenetique (20)
+## genotoxicite_epigenetique (21)
 
+- `2026` [[2026_42090202_integration-of-dual-energy-ct-characteristics-and]] — Zhang W et al.
 - `2025` [[2025_40365161_5g-exposed-human-skin-cells-do-not-respond-with-al]] — Jyoti J et al.
 - `2025` [[2025_40595799_exposure-to-26-5-ghz-5g-modulated-and-unmodulated]] — Sannino A et al.
 - `2024` [[2024_38713716_1-7-ghz-long-term-evolution-radiofrequency-electro]] — Goh J et al.
@@ -119,8 +124,9 @@
 - `2001` [[2001_11332198_comparison-of-chromosome-aberrations-in-peripheral]] — Lalić H et al.
 - `2000` [[2000_10761010_primary-dna-damage-in-human-blood-lymphocytes-expo]] — Vijayalaxmi et al.
 
-## neuro_comportement_cognition (2)
+## neuro_comportement_cognition (3)
 
+- `2026` [[2026_41823785_microwave-assisted-biosynthesis-of-silver-nanopart]] — Manklinniam P et al.
 - `2025` [[2025_40651735_novel-pathogenic-variants-in-ctla4-and-lrba-immune]] — Tromp SAM et al.
 - `2020` [[2020_33375304_effects-of-electromagnetic-waves-with-lte-and-5g-b]] — Kim K et al.
 

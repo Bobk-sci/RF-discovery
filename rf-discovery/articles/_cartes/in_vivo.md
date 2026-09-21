@@ -1,6 +1,6 @@
 # in_vivo
 
-403 articles.
+419 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -44,8 +44,9 @@
 - `1979` [[1979_487114_permeability-of-the-blood-brain-barrier-to-mannito]] — Preston E et al.
 - `1977` [[1977_861720_microwave-alteration-of-the-blood-brain-barrier-sy]] — Oscar KJ, Hawkins TD
 
-## cancer (7)
+## cancer (8)
 
+- `2026` [[2026_42465078_quantifying-early-pelvic-radiation-induced-bone-in]] — Liu H et al.
 - `2025` [[2025_40589806_histological-and-inflammatory-effects-of-26-5-ghz]] — Ijima E et al.
 - `2024` [[2024_38232086_genetic-profiling-of-rat-gliomas-and-cardiac-schwa]] — Brooks AM et al.
 - `2024` [[2024_38538718_radiofrequency-radiation-reshapes-tumor-immune-mic]] — Jiao JZ et al.
@@ -54,10 +55,11 @@
 - `2019` [[2019_31547363_the-contribution-of-in-vivo-mammalian-studies-to-t]] — Vornoli A et al.
 - `2015` [[2015_25771019_efficient-in-vitro-and-in-vivo-pulmonary-delivery]] — Pierrat P et al.
 
-## dosimetrie_exposition (8)
+## dosimetrie_exposition (9)
 
 - `2025` [[2025_39787318_investigation-of-the-ocular-response-and-corneal-d]] — Kojima M et al.
 - `2025` [[2025_40335291_single-exposure-to-near-threshold-5g-millimeter-wa]] — Matsumoto A et al.
+- `2024` [[2024_38510045_a-metamaterial-unit-cell-based-patch-radiator-for]] — Mainul EA, Hossain MF
 - `2024` [[2024_39222016_effects-of-high-temperature-and-high-humidity-on-t]] — Kojima M et al.
 - `2023` [[2023_37833400_parameter-variation-effects-on-millimeter-wave-dos]] — Li K et al.
 - `2022` [[2022_35485721_in-vivo-functional-ultrasound-fus-real-time-imagin]] — Orlacchio R et al.
@@ -65,24 +67,31 @@
 - `2009` [[2009_19603498_abnormality-of-synaptic-vesicular-associated-prote]] — Wang L et al.
 - `1977` [[1977_557906_detergent-toxicity-survey]] — Seabaugh VM et al.
 
-## eeg_sommeil (5)
+## eeg_sommeil (6)
 
+- `2026` [[2026_42621506_environmental-enrichment-reduces-displacements-and]] — Thomas M et al.
 - `2025` [[2025_39912376_impact-of-microwave-exposure-on-cynomolgus-monkeys]] — Ma L et al.
 - `2021` [[2021_33440456_effects-of-2600-mhz-radiofrequency-radiation-in-br]] — Delen K et al.
 - `2014` [[2014_24905635_does-exposure-to-a-radiofrequency-electromagnetic]] — Pelletier A et al.
 - `2012` [[2012_21996712_effects-of-electromagnetic-radiation-from-3g-mobil]] — Colak C et al.
 - `2004` [[2004_15941010_prevention-of-mobile-phone-induced-skin-tissue-cha]] — Ozguner F et al.
 
-## general (45)
+## general (51)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
+- `2026` [[2026_41786740_design-green-synthesis-and-bioevaluation-of-1-3-th]] — Alrayes AA et al.
 - `2026` [[2026_41926377_correction-genetic-profiling-of-rat-gliomas-and-ca]] — Brooks AM et al.
 - `2026` [[2026_42020475_species-specific-impacts-of-radiofrequency-exposur]] — Dom NC et al.
+- `2026` [[2026_42066503_development-of-a-dual-energy-cbct-calibration-meth]] — Cho IC et al.
+- `2026` [[2026_42197226_sustainable-valorization-of-grape-leaf-based-flavo]] — Habib N et al.
+- `2026` [[2026_42683518_an-energy-difference-indicator-for-improved-quanti]] — Li Y et al.
+- `2026` [[2026_PPR1215129_the-comparative-study-of-the-effect-of-low-intensi]] — Valerii Z et al.
 - `2026` [[2026_PPR1286608_a-candidate-electromagnetic-channel-for-coordinati]] — Douka K et al.
 - `2025` [[2025_39564560_scalable-neuroanatomical-and-behavioral-phenotypin]] — Wu X et al.
 - `2025` [[2025_39604818_emodin-enhanced-microwave-responsive-heterojunctio]] — Xu T et al.
 - `2025` [[2025_39814783_selected-microwave-irradiation-effectively-inactiv]] — Bia P et al.
 - `2025` [[2025_40007868_hypothesis-ultrasonography-can-document-dynamic-lt]] — Brown RR, Biebrich B
+- `2025` [[2025_40279225_monitoring-knee-health-ultra-wideband-radar-imagin]] — Gangwar K et al.
 - `2025` [[2025_40374718_electromagnetic-waves-destabilize-the-sars-cov-2-s]] — Pantoja C et al.
 - `2025` [[2025_40465999_effect-of-short-term-extremely-low-frequency-elect]] — Sirinyildiz F et al.
 - `2025` [[2025_40824955_tasmanian-devil-whale-optimization-tdwo-is-introdu]] — Lin F, Lu M
@@ -147,7 +156,7 @@
 - `2013` [[2013_23526156_elf-alternating-magnetic-field-decreases-reproduct]] — Panagopoulos DJ et al.
 - `2013` [[2013_23833433_detection-of-low-level-microwave-radiation-induced]] — Deshmukh PS et al.
 
-## neuro_comportement_cognition (75)
+## neuro_comportement_cognition (77)
 
 - `2026` [[2026_41391574_effects-of-paternal-5g-rfr-exposure-on-health-of-m]] — Zhaowen Z et al.
 - `2026` [[2026_41643305_single-and-combined-microwave-induced-anxiety-like]] — Zhou G et al.
@@ -157,11 +166,13 @@
 - `2026` [[2026_42346148_microwave-radiation-remodels-hippocampal-astrocyte]] — Chang C et al.
 - `2026` [[2026_42509784_sensitive-molecules-involved-in-spatial-learning-a]] — Qian T et al.
 - `2026` [[2026_42566258_chronic-3-5-ghz-radiofrequency-exposure-is-associa]] — Bektas H et al.
+- `2026` [[2026_42613487_linking-signal-integrity-to-probabilistic-models-o]] — Sayfoori R, Cao H
 - `2026` [[2026_42653107_differential-effects-of-3-5-ghz-and-24-ghz-5g-radi]] — Hairulazam A et al.
 - `2025` [[2025_39866417_compound-exposure-of-2-8-ghz-and-9-3-ghz-microwave]] — Sun L et al.
 - `2025` [[2025_39999628_mechanistic-insights-into-microwave-radiation-indu]] — Zhi W et al.
 - `2025` [[2025_40141104_repeated-head-exposures-to-a-5g-3-5-ghz-signal-do]] — Lameth J et al.
 - `2025` [[2025_40682671_research-on-the-correlation-between-bdnf-val76met]] — Zhang M et al.
+- `2025` [[2025_40806176_in-depth-analysis-of-chlorophyll-fluorescence-rise]] — Keller J et al.
 - `2025` [[2025_40827634_theaflavin-3-3-digallate-prevents-radiofrequency-r]] — Fu J et al.
 - `2025` [[2025_41216642_expression-pattern-alterations-of-the-brain-kcc2-c]] — Nemati M et al.
 - `2024` [[2024_38347014_effects-of-radiofrequency-field-from-5g-communicat]] — Wang X et al.
@@ -225,7 +236,7 @@
 - `1989` [[1989_2712841_lack-of-behavioral-effects-in-the-rhesus-monkey-hi]] — D'Andrea JA et al.
 - `1986` [[1986_3730002_influence-of-pre-and-postnatal-exposure-of-rats-to]] — Galvin MJ et al.
 
-## neurodeveloppement (52)
+## neurodeveloppement (53)
 
 - `2026` [[2026_41125539_one-year-follow-up-of-thyroid-status-in-rats-expos]] — Özyılmaz C et al.
 - `2026` [[2026_42423814_prenatal-3-5-ghz-radiofrequency-exposure-induces-r]] — Gelenli Dolanbay E et al.
@@ -233,6 +244,7 @@
 - `2025` [[2025_40099659_the-effect-on-rat-peripheral-nerve-morphology-and]] — Hancı H et al.
 - `2025` [[2025_40413484_effects-of-non-ionizing-radiation-on-the-thyroid-g]] — Sarhad ZS et al.
 - `2025` [[2025_40493106_the-influence-of-wi-fi-on-the-mesonephros-in-the-9]] — Almášiová V et al.
+- `2025` [[2025_40493470_pediatric-corpulence-assessment-using-ultra-wideba]] — Gangwar K et al.
 - `2025` [[2025_40694058_melatonin-and-omega-3-neuroprotection-in-prenatal]] — Deniz ÖG et al.
 - `2025` [[2025_40907581_altered-development-in-rodent-brain-cells-after-90]] — Bodin R et al.
 - `2025` [[2025_41479147_prenatal-exposure-to-3-5-ghz-radiofrequency-radiat]] — Geleni Dolanbay E et al.
@@ -337,10 +349,11 @@
 - `2016` [[2016_26775760_does-prolonged-radiofrequency-radiation-emitted-fr]] — Akdag MZ et al.
 - `2015` [[2015_26550159_the-radioprotective-effects-of-moringa-oleifera-ag]] — Bin-Meferij MM, El-Kott AF
 
-## stress_oxydatif (83)
+## stress_oxydatif (84)
 
 - `2026` [[2026_41729317_synergistic-mitigation-of-endotoxin-induced-liver]] — Turan B et al.
 - `2026` [[2026_41934922_the-neuroprotective-role-of-coenzyme-q10-against-e]] — Yilmaz H et al.
+- `2026` [[2026_42235860_a-rapid-and-scalable-microwave-assisted-strategy-f]] — Salgaonkar S et al.
 - `2026` [[2026_42269427_invisible-plastic-release-from-overlooked-usage-pr]] — Lin PY et al.
 - `2026` [[2026_42309018_effects-and-mechanisms-of-lipidomic-and-developmen]] — Sun Y et al.
 - `2026` [[2026_42332180_coenzyme-q10-protects-against-6-ghz-electromagneti]] — Akyildiz K et al.
@@ -423,17 +436,20 @@
 - `2004` [[2004_14734207_ginkgo-biloba-prevents-mobile-phone-induced-oxidat]] — Ilhan A et al.
 - `2004` [[2004_15729859_oxidative-stress-mediated-skin-damage-in-an-experi]] — Ayata A et al.
 
-## thermique (21)
+## thermique (24)
 
 - `2026` [[2026_41595249_two-stage-microwave-hyperthermia-using-magnetic-na]] — Schreiner OD et al.
 - `2026` [[2026_41689083_nonthermal-radiofrequency-radiation-promotes-hemat]] — Lv Z et al.
 - `2026` [[2026_42406607_combined-radiofrequency-electromagnetic-and-pulsed]] — Elmas A et al.
+- `2026` [[2026_42477268_effect-of-microwave-power-cycle-on-temperature-uni]] — Karataş O et al.
+- `2026` [[2026_42567188_design-and-base-validation-of-a-small-animal-hyper]] — Kahlert B et al.
 - `2026` [[2026_42603578_quaternary-ammonium-compound-based-ionic-liquid-wi]] — Li Z et al.
 - `2025` [[2025_40646036_radiofrequency-and-microwave-3d-bioprinting-of-emu]] — Tsubaki S et al.
 - `2024` [[2024_39112501_no-observable-non-thermal-effect-of-microwave-radi]] — Hammarin G et al.
 - `2023` [[2023_37652500_intensity-dependent-temperature-rise-induced-by-lo]] — Ijima E et al.
 - `2022` [[2022_36358768_radiofrequency-electromagnetic-fields-cause-non-te]] — Wust P et al.
 - `2022` [[2022_36462859_effect-of-radiofrequency-exposure-on-body-temperat]] — Kim HS et al.
+- `2021` [[2021_34201238_in-vitro-examinations-of-cell-death-induction-and]] — Hader M et al.
 - `2020` [[2020_31943296_exposure-assessment-in-millimeter-wave-reverberati]] — Khadir Fall A et al.
 - `2020` [[2020_33290003_revisiting-35-and-94-ghz-millimeter-wave-exposure]] — Parker JE et al.
 - `2015` [[2015_26396968_survey-of-the-effects-of-exposure-to-900-mhz-radio]] — Mortazavi SM et al.

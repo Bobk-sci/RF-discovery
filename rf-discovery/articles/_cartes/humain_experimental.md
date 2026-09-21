@@ -1,6 +1,6 @@
 # humain_experimental
 
-39 articles.
+40 articles.
 
 ## dosimetrie_exposition (2)
 
@@ -27,9 +27,10 @@
 - `2010` [[2010_20564174_effects-of-2g-and-3g-mobile-phones-on-human-alpha]] — Croft RJ et al.
 - `2006` [[2006_16546905_does-evening-exposure-to-mobile-phone-radiation-af]] — Wood AW et al.
 
-## general (8)
+## general (9)
 
 - `2026` [[2026_42356723_the-effects-of-short-term-post-exposure-to-3-6-ghz]] — Torkan A et al.
+- `2026` [[2026_42432228_recording-skin-oxygenation-by-dual-wavelength-ultr]] — Aguirre J et al.
 - `2025` [[2025_40218582_investigation-and-validation-of-new-heart-rate-mea]] — Matouq J et al.
 - `2023` [[2023_36693895_reduction-of-amputations-of-frostbitten-limbs-by-t]] — Dunaevskiy G et al.
 - `2022` [[2022_35889905_comment-on-wardzinski-et-al-mobile-phone-radiation]] — Witthöft M et al.
