@@ -1970,7 +1970,6 @@ AN  - 36609755
 KW  - modele:dosimetrie_modelisation
 KW  - theme:dosimetrie_exposition
 KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
 KW  - Anatomical model
 KW  - Surrogate Model
 KW  - Specific Absorption Rate
@@ -2841,6 +2840,35 @@ KW  - Rose Cuttings
 ER  - 
 
 TY  - JOUR
+AU  - Belhaouari SB
+AU  - Mokaddem A
+AU  - Ziani D
+AU  - Belkheir M
+AU  - Rouissat M
+TI  - ML/GA-based performance optimization of PBG-enhanced THz microstrip patch antennas on PTFE-SWCNT.
+JO  - Scientific reports
+PY  - 2025
+VL  - 15
+SP  - 44111
+AB  - This study presents the design and optimization of a terahertz (THz) microstrip patch antenna enhanced with photonic bandgap (PBG) structures. The antenna is implemented on a Polytetrafluoroethylene (PTFE) substrate with Single-Wall Carbon Nanotube (SWCNT) conductors, leveraging the substrate's low loss tangent and stable permittivity together with the high conductivity of SWCNTs to improve radiation performance. Key physical parameters, including air gap side, lattice constant, and substrate thickness, were varied using CST simulations to generate a comprehensive dataset. Four machines learning models Linear Regression, K-Nearest Neighbors, Decision Trees, and Neural Networks were trained, with the neural network achieving the best predictive accuracy (R² > 0.94) and very low errors across bandwidth (± 0.05 GHz), gain (± 0.1 dBi), efficiency (< 0.5%), and return loss (0.4 dB). Optimization through a genetic algorithm identified the optimal geometry (Y = 60 μm, D = 80 μm, h = 85 μm), yielding 36.8 GHz bandwidth, 9.4 dBi gain, 93.7% efficiency, and - 26.1 dB return loss. Specific Absorption Rate (SAR) analysis confirmed safety compliance, with a maximum value of 1.4 W/kg under FCC limits. By integrating electromagnetic simulation, machine learning, and evolutionary optimization, the proposed approach provides a faster and more accurate design methodology. Owing to its compactness, efficiency, and material flexibility, the antenna shows strong potential for non-invasive medical imaging, biosensing, and wearable health-monitoring in the THz domain.
+DO  - 10.1038/s41598-025-27963-1
+UR  - https://pubmed.ncbi.nlm.nih.gov/41413440/
+AN  - 41413440
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+KW  - modele:ingenierie_materiel
+KW  - Biomedical applications
+KW  - CST simulation
+KW  - Genetic algorithm
+KW  - Machine learning
+KW  - Neural networks
+KW  - Photonic bandgap (PBG) structures
+KW  - Polytetrafluoroethylene (PTFE)
+KW  - Sing-Wall carbon nanotubes (SWCNTs)
+KW  - Terahertz (THz) antenna
+ER  - 
+
+TY  - JOUR
 AU  - Salisu A
 AU  - Elwanis MA
 AU  - Elfergani I
@@ -2861,7 +2889,6 @@ KW  - modele:dosimetrie_modelisation
 KW  - theme:dosimetrie_exposition
 KW  - modele:ingenierie_materiel
 KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
 KW  - SAR
 KW  - Machine Learning
 KW  - Pin Diode
@@ -3192,7 +3219,6 @@ AN  - 41938658
 KW  - modele:dosimetrie_modelisation
 KW  - theme:dosimetrie_exposition
 KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
 KW  - Engineering
 KW  - Mathematics and computing
 ER  - 
@@ -3232,6 +3258,31 @@ AB  - This article introduces a biocompatible, non-invasive intra-body communica
 DO  - 10.1038/s41598-026-55490-0
 UR  - https://pubmed.ncbi.nlm.nih.gov/42230940/
 AN  - 42230940
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+ER  - 
+
+TY  - JOUR
+AU  - Zheng J
+AU  - Wen J
+AU  - Hou S
+AU  - Zhan G
+AU  - Chi Z
+AU  - Li X
+AU  - Qi Y
+AU  - Sun J
+AU  - Li B
+AU  - Zhao Q
+AU  - Zhou J
+TI  - Physics-constrained deep-learning framework for MRI metasurfaces.
+JO  - Optics letters
+PY  - 2026
+VL  - 51
+SP  - 3373-3376
+AB  - Metasurfaces resolve limited signal-to-noise ratio (SNR) and radio frequency (RF) inhomogeneity bottlenecks in magnetic resonance imaging (MRI). However, strong unit-cell near-field coupling creates an "ill-posed"' design problem, where conventional optimization struggles with computation costs and non-unique mappings. We propose a physics-constrained bidirectional deep learning framework for MRI metasurfaces. A Spectral-Feature U-Net surrogate model substitutes time-consuming simulations. To address multi-valued mapping in inverse design, a tandem training strategy with physics-consistency constraints guides a residual multi-layer perceptron (Res-MLP) toward physically equivalent solutions. In simulations incorporating a human arm phantom, an AI-designed metasurface achieved precise 63.8 MHz resonance and excellent field homogeneity, keeping specific absorption rate (SAR) within safety limits. This establishes a robust "AI for Science" toolchain for automated, patient-adaptive MRI hardware design.
+DO  - 10.1364/OL.600275
+UR  - https://pubmed.ncbi.nlm.nih.gov/42295906/
+AN  - 42295906
 KW  - modele:dosimetrie_modelisation
 KW  - theme:dosimetrie_exposition
 ER  - 
@@ -3358,6 +3409,36 @@ KW  - theme:dosimetrie_exposition
 KW  - Orthodontic
 KW  - Pulsed electromagnetic field
 KW  - Wearable device
+ER  - 
+
+TY  - JOUR
+AU  - Chen Y
+AU  - Jun Y
+AU  - Shin HG
+AU  - Li S
+AU  - Fujita S
+AU  - Yong X
+AU  - Kim J
+AU  - Lee J
+AU  - Piredda GF
+AU  - Hilbert T
+AU  - Bhatt A
+AU  - Huang SY
+AU  - Liu H
+AU  - Ye H
+AU  - Nasr S
+AU  - Gagoski B
+AU  - Chan KS
+AU  - Bilgic B
+TI  - MWF-MIMOSA for efficient simultaneous relaxometry and myelin water fraction mapping.
+JO  - ArXiv
+PY  - 2026
+AB  - Quantitative magnetic resonance imaging (qMRI) provides improved sensitivity and specificity to tissue composition and pathological alterations compared with conventional contrast-weighted imaging. Among various qMRI biomarkers, myelin water imaging is of particular interest because myelin plays a central role in brain function and its alteration is closely associated with many neurological diseases. However, conventional myelin water fraction (MWF) mapping techniques are often limited by long scan times, low spatial resolution, reduced signal-to-noise ratio (SNR), and high specific absorption rate (SAR). Here, we propose MWF-MIMOSA for efficient simultaneous T1, T2, T2* mapping, magnetic susceptibility source separation, and MWF estimation. To achieve this, multi-contrast and multi-slice zero-shot self-supervised learning (MZS-SSL) was used to jointly reconstruct whole-brain complex-valued images. To improve computational efficiency of the parameter estimation step, a multilayer perceptron (MLP) was trained within the GACELLE GPU-accelerated parameter estimation framework to circumvent the computationally intensive Bloch simulation process, resulting in a >100-fold computational speed-up in MWF estimation. Numerical simulations were performed to evaluate the accuracy and precision of MWF-MIMOSA, and in-vivo results further demonstrated its robustness. Comparison with existing myelin water imaging methods showed that MWF-MIMOSA is highly correlated with established approaches, while providing complementary quantitative parameter maps at higher spatial resolution and with shorter scan times. Notably, simultaneous multi-parametric mapping was achieved in 5 min at 1 mm isotropic resolution, and in 10 min at 0.7 mm isotropic resolution. These results demonstrate the potential of MWF-MIMOSA for fast, high-resolution simultaneous relaxometry and myelin water imaging.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42620040/
+AN  - 42620040
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+KW  - modele:in_vivo
 ER  - 
 
 TY  - JOUR
@@ -5001,6 +5082,36 @@ KW  - Virtual monoenergetic imaging
 ER  - 
 
 TY  - JOUR
+AU  - Yu S
+AU  - Li Y
+AU  - Li W
+AU  - Yang C
+AU  - Chang C
+AU  - Chen Y
+AU  - Xu C
+AU  - Wang M
+AU  - Li KW
+AU  - Geng LS
+AU  - Zhang Y
+TI  - Comparison of methodological uncertainties in tissue parameter estimation for carbon ion dose calculation.
+JO  - Medical physics
+PY  - 2026
+VL  - 53
+SP  - e70252
+AB  - BACKGROUND: Accurate dose calculation is essential for securing the therapeutic benefit and safety of carbon ion radiotherapy. However, the uncertainty associated with tissue parameter estimation methods for Monte Carlo-based dose calculation has not been systematically evaluated, potentially limiting the reliability of quality assurance in clinical practice.  PURPOSE: To support more accurate treatment planning and quality assurance for carbon ion radiotherapy, this study aims to systematically assess how upstream uncertainties in tissue parameter estimation affect Monte Carlo-based carbon ion dose calculations. By comparing three elemental decomposition approaches, their impact on the consistency and reliability of dose distributions were quantitatively evaluated.  METHODS: Relevant sources of uncertainties in physical density and elemental composition were analyzed and propagated based on three methods: single-energy CT (SECT), parameterized dual-energy CT (PA-DECT), and machine learning-based DECT (ML-DECT). For validation, the ICRP 110 phantom was perturbed accordingly, and dose distributions were simulated using FLUKA with 10 samples for each method. Both physical and biological doses were evaluated. The voxel-wise uncertainty, gamma passing rate and range uncertainty were examined.  RESULTS: The ML-DECT method consistently yielded the lowest uncertainties across all tissue parameters, reducing the uncertainties for C, N, and O density by up to 77.4% compared to SECT. In dose simulations, ML-DECT achieved lower average relative uncertainties (∼5% physical, ∼7%-9% biological), a higher gamma passing rate (97.96  ±  0.28%), and reduced range uncertainty (0.5%) compared to other methods.  CONCLUSIONS: By more accurately modeling the relationship between CT numbers and tissue parameters, ML-DECT substantially reduces uncertainty in both input estimation and subsequent dose calculation. These findings support its integration into Monte Carlo-based carbon ion treatment planning workflows, contributing to more quantitative and uncertainty-aware quality assurance.
+DO  - 10.1002/mp.70252
+UR  - https://pubmed.ncbi.nlm.nih.gov/41448143/
+AN  - 41448143
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+KW  - carbon ion therapy
+KW  - dose uncertainty
+KW  - dual‐energy CT
+KW  - machine learning
+KW  - monte carlo simulation
+ER  - 
+
+TY  - JOUR
 AU  - Sanchis-Otero A
 AU  - Ramirez-Vazquez R
 AU  - Paniagua JM
@@ -5214,6 +5325,25 @@ KW  - Radiofrequency Exposure
 KW  - Geospatial Mapping
 KW  - 5 G Networks
 KW  - Emf Regulation
+ER  - 
+
+TY  - JOUR
+AU  - Michalopoulos AP
+AU  - Paliodimos EN
+AU  - Papadopoulos F
+AU  - Nikolaou G
+AU  - Patrikakis CZ
+AU  - Mytilinaios SA
+TI  - A Dataset for Victim Detection in Search-and-Rescue Operations Using Robot-Mounted UWB-Radar Sensors.
+JO  - Scientific data
+PY  - 2026
+VL  - 13
+AB  - Search-and-Rescue (SAR) operations rely on sensor platforms to detect victims behind walls, obstacles etc. Conventional sensors (thermal, optical etc.) face limitations in occluded environments, whereas Ultra-Wideband (UWB) radar can penetrate obstacles, offering a promising solution for victim detection. Meanwhile, robotic platforms can significantly enhance disaster response operations, especially in hazardous environments. This paper introduces a comprehensive dataset of victim measurements from a robot-mounted radar sensor. The dataset design closely emulates SAR scenarios inside buildings for victim detection and localization. To the best of our knowledge, this is the first dataset capturing robot movement during SAR operations and focusing on UWB radar sensing from multiple orientations. To demonstrate the technical validity of the proposed dataset alongside its applicability in supporting further development of Artificial Intelligence (AI) and Machine Learning (ML) models, we also present a CNN model and an XGBoost model for victim detection, achieving F1-scores of 78% and 83% respectively. Moreover, a rule-based position estimation method achieved a Mean Absolute Error (MAE) of 0.49 m, further highlighting the dataset's value.
+DO  - 10.1038/s41597-026-07314-z
+UR  - https://pubmed.ncbi.nlm.nih.gov/42120409/
+AN  - 42120409
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
 ER  - 
 
 TY  - JOUR
@@ -5794,97 +5924,6 @@ KW  - theme:dosimetrie_exposition
 ER  - 
 
 TY  - JOUR
-AU  - Belhaouari SB
-AU  - Mokaddem A
-AU  - Ziani D
-AU  - Belkheir M
-AU  - Rouissat M
-TI  - ML/GA-based performance optimization of PBG-enhanced THz microstrip patch antennas on PTFE-SWCNT.
-JO  - Scientific reports
-PY  - 2025
-VL  - 15
-SP  - 44111
-AB  - This study presents the design and optimization of a terahertz (THz) microstrip patch antenna enhanced with photonic bandgap (PBG) structures. The antenna is implemented on a Polytetrafluoroethylene (PTFE) substrate with Single-Wall Carbon Nanotube (SWCNT) conductors, leveraging the substrate's low loss tangent and stable permittivity together with the high conductivity of SWCNTs to improve radiation performance. Key physical parameters, including air gap side, lattice constant, and substrate thickness, were varied using CST simulations to generate a comprehensive dataset. Four machines learning models Linear Regression, K-Nearest Neighbors, Decision Trees, and Neural Networks were trained, with the neural network achieving the best predictive accuracy (R² > 0.94) and very low errors across bandwidth (± 0.05 GHz), gain (± 0.1 dBi), efficiency (< 0.5%), and return loss (0.4 dB). Optimization through a genetic algorithm identified the optimal geometry (Y = 60 μm, D = 80 μm, h = 85 μm), yielding 36.8 GHz bandwidth, 9.4 dBi gain, 93.7% efficiency, and - 26.1 dB return loss. Specific Absorption Rate (SAR) analysis confirmed safety compliance, with a maximum value of 1.4 W/kg under FCC limits. By integrating electromagnetic simulation, machine learning, and evolutionary optimization, the proposed approach provides a faster and more accurate design methodology. Owing to its compactness, efficiency, and material flexibility, the antenna shows strong potential for non-invasive medical imaging, biosensing, and wearable health-monitoring in the THz domain.
-DO  - 10.1038/s41598-025-27963-1
-UR  - https://pubmed.ncbi.nlm.nih.gov/41413440/
-AN  - 41413440
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-KW  - modele:ingenierie_materiel
-KW  - theme:dosimetrie_exposition
-KW  - Biomedical applications
-KW  - CST simulation
-KW  - Genetic algorithm
-KW  - Machine learning
-KW  - Neural networks
-KW  - Photonic bandgap (PBG) structures
-KW  - Polytetrafluoroethylene (PTFE)
-KW  - Sing-Wall carbon nanotubes (SWCNTs)
-KW  - Terahertz (THz) antenna
-ER  - 
-
-TY  - JOUR
-AU  - Yu S
-AU  - Li Y
-AU  - Li W
-AU  - Yang C
-AU  - Chang C
-AU  - Chen Y
-AU  - Xu C
-AU  - Wang M
-AU  - Li KW
-AU  - Geng LS
-AU  - Zhang Y
-TI  - Comparison of methodological uncertainties in tissue parameter estimation for carbon ion dose calculation.
-JO  - Medical physics
-PY  - 2026
-VL  - 53
-SP  - e70252
-AB  - BACKGROUND: Accurate dose calculation is essential for securing the therapeutic benefit and safety of carbon ion radiotherapy. However, the uncertainty associated with tissue parameter estimation methods for Monte Carlo-based dose calculation has not been systematically evaluated, potentially limiting the reliability of quality assurance in clinical practice.  PURPOSE: To support more accurate treatment planning and quality assurance for carbon ion radiotherapy, this study aims to systematically assess how upstream uncertainties in tissue parameter estimation affect Monte Carlo-based carbon ion dose calculations. By comparing three elemental decomposition approaches, their impact on the consistency and reliability of dose distributions were quantitatively evaluated.  METHODS: Relevant sources of uncertainties in physical density and elemental composition were analyzed and propagated based on three methods: single-energy CT (SECT), parameterized dual-energy CT (PA-DECT), and machine learning-based DECT (ML-DECT). For validation, the ICRP 110 phantom was perturbed accordingly, and dose distributions were simulated using FLUKA with 10 samples for each method. Both physical and biological doses were evaluated. The voxel-wise uncertainty, gamma passing rate and range uncertainty were examined.  RESULTS: The ML-DECT method consistently yielded the lowest uncertainties across all tissue parameters, reducing the uncertainties for C, N, and O density by up to 77.4% compared to SECT. In dose simulations, ML-DECT achieved lower average relative uncertainties (∼5% physical, ∼7%-9% biological), a higher gamma passing rate (97.96  ±  0.28%), and reduced range uncertainty (0.5%) compared to other methods.  CONCLUSIONS: By more accurately modeling the relationship between CT numbers and tissue parameters, ML-DECT substantially reduces uncertainty in both input estimation and subsequent dose calculation. These findings support its integration into Monte Carlo-based carbon ion treatment planning workflows, contributing to more quantitative and uncertainty-aware quality assurance.
-DO  - 10.1002/mp.70252
-UR  - https://pubmed.ncbi.nlm.nih.gov/41448143/
-AN  - 41448143
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-KW  - carbon ion therapy
-KW  - dose uncertainty
-KW  - dual‐energy CT
-KW  - machine learning
-KW  - monte carlo simulation
-ER  - 
-
-TY  - JOUR
-AU  - Vega-Carrasco ER
-AU  - Ansari SR
-AU  - Zhao J
-AU  - Del Carmen Suárez-López Y
-AU  - Larsson P
-AU  - Teleki A
-TI  - Machine Learning on Systematically Curated Data Reveals Key Determinants of Magnetic Hyperthermia Performance.
-JO  - Small (Weinheim an der Bergstrasse, Germany)
-PY  - 2026
-VL  - 22
-SP  - e10453
-AB  - Accurate prediction of the specific absorption rate (SAR) of superparamagnetic iron oxide nanoparticles (SPIONs) is critical for optimizing their performance in magnetic hyperthermia applications. This study presents the development of a predictive model for SAR using advanced machine learning techniques and a systematically curated dataset comprising 1850 entries from 84 published studies, capturing 30 predictive features related to SPION properties and experimental parameters. Twelve machine learning algorithms were evaluated and optimized using Bayesian hyperparameter tuning. The CatBoost algorithm emerged as the top-performing model (R2 = 0.98) with the lowest prediction errors. Shapley additive explanation analysis revealed alternating magnetic field amplitude and frequency as the most influential factors determining SAR, followed by SPION concentration and core surface area. Model reliability was confirmed through conformal prediction, providing a prediction interval of ±62 W g-1. Validation using an independent dataset of SPIONs with varying sizes (7-30 nm) and dopants (Zn, Mn, Mg, Co) demonstrated strong predictive performance for small nanoparticles (≈7 nm), with increased variability for larger particles. These findings demonstrate that advanced machine learning models enable accurate SAR prediction and provide critical insights into nanoparticle design, supporting the systematic optimization of SPIONs for clinical magnetic hyperthermia applications.
-DO  - 10.1002/smll.202510453
-UR  - https://pubmed.ncbi.nlm.nih.gov/41615330/
-AN  - 41615330
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-KW  - theme:thermique
-KW  - theme:dosimetrie_exposition
-KW  - Bayesian optimization
-KW  - CatBoost
-KW  - SHAP analysis
-KW  - conformal prediction
-KW  - feature importance
-KW  - machine learning
-KW  - magnetic hyperthermia
-KW  - specific absorption rate
-KW  - superparamagnetic iron oxide nanoparticles
-ER  - 
-
-TY  - JOUR
 AU  - Reyes-Vera E
 AU  - Furnieles C
 AU  - Zapata Hernandez C
@@ -5957,51 +5996,6 @@ KW  - Iodine Detectability
 ER  - 
 
 TY  - JOUR
-AU  - Michalopoulos AP
-AU  - Paliodimos EN
-AU  - Papadopoulos F
-AU  - Nikolaou G
-AU  - Patrikakis CZ
-AU  - Mytilinaios SA
-TI  - A Dataset for Victim Detection in Search-and-Rescue Operations Using Robot-Mounted UWB-Radar Sensors.
-JO  - Scientific data
-PY  - 2026
-VL  - 13
-AB  - Search-and-Rescue (SAR) operations rely on sensor platforms to detect victims behind walls, obstacles etc. Conventional sensors (thermal, optical etc.) face limitations in occluded environments, whereas Ultra-Wideband (UWB) radar can penetrate obstacles, offering a promising solution for victim detection. Meanwhile, robotic platforms can significantly enhance disaster response operations, especially in hazardous environments. This paper introduces a comprehensive dataset of victim measurements from a robot-mounted radar sensor. The dataset design closely emulates SAR scenarios inside buildings for victim detection and localization. To the best of our knowledge, this is the first dataset capturing robot movement during SAR operations and focusing on UWB radar sensing from multiple orientations. To demonstrate the technical validity of the proposed dataset alongside its applicability in supporting further development of Artificial Intelligence (AI) and Machine Learning (ML) models, we also present a CNN model and an XGBoost model for victim detection, achieving F1-scores of 78% and 83% respectively. Moreover, a rule-based position estimation method achieved a Mean Absolute Error (MAE) of 0.49 m, further highlighting the dataset's value.
-DO  - 10.1038/s41597-026-07314-z
-UR  - https://pubmed.ncbi.nlm.nih.gov/42120409/
-AN  - 42120409
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-ER  - 
-
-TY  - JOUR
-AU  - Zheng J
-AU  - Wen J
-AU  - Hou S
-AU  - Zhan G
-AU  - Chi Z
-AU  - Li X
-AU  - Qi Y
-AU  - Sun J
-AU  - Li B
-AU  - Zhao Q
-AU  - Zhou J
-TI  - Physics-constrained deep-learning framework for MRI metasurfaces.
-JO  - Optics letters
-PY  - 2026
-VL  - 51
-SP  - 3373-3376
-AB  - Metasurfaces resolve limited signal-to-noise ratio (SNR) and radio frequency (RF) inhomogeneity bottlenecks in magnetic resonance imaging (MRI). However, strong unit-cell near-field coupling creates an "ill-posed"' design problem, where conventional optimization struggles with computation costs and non-unique mappings. We propose a physics-constrained bidirectional deep learning framework for MRI metasurfaces. A Spectral-Feature U-Net surrogate model substitutes time-consuming simulations. To address multi-valued mapping in inverse design, a tandem training strategy with physics-consistency constraints guides a residual multi-layer perceptron (Res-MLP) toward physically equivalent solutions. In simulations incorporating a human arm phantom, an AI-designed metasurface achieved precise 63.8 MHz resonance and excellent field homogeneity, keeping specific absorption rate (SAR) within safety limits. This establishes a robust "AI for Science" toolchain for automated, patient-adaptive MRI hardware design.
-DO  - 10.1364/OL.600275
-UR  - https://pubmed.ncbi.nlm.nih.gov/42295906/
-AN  - 42295906
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-KW  - theme:dosimetrie_exposition
-ER  - 
-
-TY  - JOUR
 AU  - Tsou CK
 AU  - Fan D
 AU  - Wang WJ
@@ -6028,37 +6022,6 @@ KW  - LCST
 KW  - Magnetic nanoparticles
 KW  - PNIPAAm Nanogels
 KW  - Thermoresponsive drug delivery
-ER  - 
-
-TY  - JOUR
-AU  - Chen Y
-AU  - Jun Y
-AU  - Shin HG
-AU  - Li S
-AU  - Fujita S
-AU  - Yong X
-AU  - Kim J
-AU  - Lee J
-AU  - Piredda GF
-AU  - Hilbert T
-AU  - Bhatt A
-AU  - Huang SY
-AU  - Liu H
-AU  - Ye H
-AU  - Nasr S
-AU  - Gagoski B
-AU  - Chan KS
-AU  - Bilgic B
-TI  - MWF-MIMOSA for efficient simultaneous relaxometry and myelin water fraction mapping.
-JO  - ArXiv
-PY  - 2026
-AB  - Quantitative magnetic resonance imaging (qMRI) provides improved sensitivity and specificity to tissue composition and pathological alterations compared with conventional contrast-weighted imaging. Among various qMRI biomarkers, myelin water imaging is of particular interest because myelin plays a central role in brain function and its alteration is closely associated with many neurological diseases. However, conventional myelin water fraction (MWF) mapping techniques are often limited by long scan times, low spatial resolution, reduced signal-to-noise ratio (SNR), and high specific absorption rate (SAR). Here, we propose MWF-MIMOSA for efficient simultaneous T1, T2, T2* mapping, magnetic susceptibility source separation, and MWF estimation. To achieve this, multi-contrast and multi-slice zero-shot self-supervised learning (MZS-SSL) was used to jointly reconstruct whole-brain complex-valued images. To improve computational efficiency of the parameter estimation step, a multilayer perceptron (MLP) was trained within the GACELLE GPU-accelerated parameter estimation framework to circumvent the computationally intensive Bloch simulation process, resulting in a >100-fold computational speed-up in MWF estimation. Numerical simulations were performed to evaluate the accuracy and precision of MWF-MIMOSA, and in-vivo results further demonstrated its robustness. Comparison with existing myelin water imaging methods showed that MWF-MIMOSA is highly correlated with established approaches, while providing complementary quantitative parameter maps at higher spatial resolution and with shorter scan times. Notably, simultaneous multi-parametric mapping was achieved in 5 min at 1 mm isotropic resolution, and in 10 min at 0.7 mm isotropic resolution. These results demonstrate the potential of MWF-MIMOSA for fast, high-resolution simultaneous relaxometry and myelin water imaging.
-UR  - https://pubmed.ncbi.nlm.nih.gov/42620040/
-AN  - 42620040
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
-KW  - modele:in_vivo
-KW  - theme:dosimetrie_exposition
 ER  - 
 
 TY  - JOUR
@@ -6298,7 +6261,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/29214149/
 AN  - 29214149
 KW  - modele:dosimetrie_modelisation
 KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
 KW  - Wi-Fi
 KW  - children
 KW  - exposimetric measurements
@@ -7745,6 +7707,36 @@ KW  - Subway Station
 KW  - Rf Antenna
 KW  - Occupational Electromagnetic Exposure
 KW  - Station Attendant
+ER  - 
+
+TY  - JOUR
+AU  - Vega-Carrasco ER
+AU  - Ansari SR
+AU  - Zhao J
+AU  - Del Carmen Suárez-López Y
+AU  - Larsson P
+AU  - Teleki A
+TI  - Machine Learning on Systematically Curated Data Reveals Key Determinants of Magnetic Hyperthermia Performance.
+JO  - Small (Weinheim an der Bergstrasse, Germany)
+PY  - 2026
+VL  - 22
+SP  - e10453
+AB  - Accurate prediction of the specific absorption rate (SAR) of superparamagnetic iron oxide nanoparticles (SPIONs) is critical for optimizing their performance in magnetic hyperthermia applications. This study presents the development of a predictive model for SAR using advanced machine learning techniques and a systematically curated dataset comprising 1850 entries from 84 published studies, capturing 30 predictive features related to SPION properties and experimental parameters. Twelve machine learning algorithms were evaluated and optimized using Bayesian hyperparameter tuning. The CatBoost algorithm emerged as the top-performing model (R2 = 0.98) with the lowest prediction errors. Shapley additive explanation analysis revealed alternating magnetic field amplitude and frequency as the most influential factors determining SAR, followed by SPION concentration and core surface area. Model reliability was confirmed through conformal prediction, providing a prediction interval of ±62 W g-1. Validation using an independent dataset of SPIONs with varying sizes (7-30 nm) and dopants (Zn, Mn, Mg, Co) demonstrated strong predictive performance for small nanoparticles (≈7 nm), with increased variability for larger particles. These findings demonstrate that advanced machine learning models enable accurate SAR prediction and provide critical insights into nanoparticle design, supporting the systematic optimization of SPIONs for clinical magnetic hyperthermia applications.
+DO  - 10.1002/smll.202510453
+UR  - https://pubmed.ncbi.nlm.nih.gov/41615330/
+AN  - 41615330
+KW  - modele:dosimetrie_modelisation
+KW  - theme:thermique
+KW  - theme:dosimetrie_exposition
+KW  - Bayesian optimization
+KW  - CatBoost
+KW  - SHAP analysis
+KW  - conformal prediction
+KW  - feature importance
+KW  - machine learning
+KW  - magnetic hyperthermia
+KW  - specific absorption rate
+KW  - superparamagnetic iron oxide nanoparticles
 ER  - 
 
 TY  - JOUR
@@ -9216,6 +9208,36 @@ KW  - fractals
 ER  - 
 
 TY  - JOUR
+AU  - Chen Y
+AU  - You Y
+AU  - Yuan M
+AU  - Fan S
+AU  - Fan Y
+AU  - Tian X
+AU  - Zheng Y
+AU  - Li Y
+AU  - Sun X
+AU  - Liu Y
+AU  - Gao J
+TI  - Non-invasive prediction of Ki-67 expression in gastric cancer using AI-based dual-energy CT: a multicenter study.
+JO  - European journal of radiology
+PY  - 2026
+VL  - 198
+SP  - 112742
+AB  - OBJECTIVE: To develop and validate a machine learning model based on quantitative parameters of dual-energy CT (DECT) virtual monoenergetic images (VMIs) for the noninvasive preoperative prediction of Ki-67 expression status in gastric cancer.  METHODS: A total of 367 patients with pathologically confirmed gastric adenocarcinoma were enrolled and divided into a training cohort, two external validation cohorts, and a cross-platform validation cohort. Patients were classified into high or low Ki-67 expression groups based on a 70% cutoff. Quantitative parameters of VMI were measured and incorporated into machine learning algorithms to construct the DECT model. The optimal imaging model was combined with independent clinical predictors to develop a nomogram. Model performance was evaluated using ROC analysis, calibration curves, DCA, and Kaplan-Meier survival analysis.  RESULTS: The logistic regression model was identified as the optimal DECT model. Its combination with clinical features yielded AUC values of 0.788 and 0.777 in the two DECT external validation cohorts, respectively. In the cross-platform validation cohort, the combined model achieved an AUC of 0.668. Calibration curves and DCA demonstrated good fitting and clinical usefulness of the integrated model in DECT cohorts. Stratified analysis confirmed that the model's performance was stable across different clinical characteristics. Furthermore, Kaplan-Meier analysis indicated that the combined model effectively stratified patients into high- and low-risk groups regarding progression-free survival (PFS).  CONCLUSION: The individualized model based on DECT virtual monoenergetic images effectively predicts Ki-67 expression status and provides valuable prognostic risk stratification for gastric cancer patients.
+DO  - 10.1016/j.ejrad.2026.112742
+UR  - https://pubmed.ncbi.nlm.nih.gov/41740269/
+AN  - 41740269
+KW  - modele:epidemiologie
+KW  - theme:cancer
+KW  - Dual-Energy imaging
+KW  - Gastric cancer
+KW  - Ki-67
+KW  - Tomography
+KW  - X-ray computed
+ER  - 
+
+TY  - JOUR
 AU  - Naamany E
 AU  - Atar E
 AU  - Kramer MR
@@ -9290,6 +9312,28 @@ KW  - Quantitative Parameters
 KW  - Histological Subtype
 KW  - Dual-energy Computed Tomography (Dect)
 KW  - Pleomorphic Adenoma (Pa)
+ER  - 
+
+TY  - JOUR
+AU  - Liu Y
+AU  - Yuan M
+AU  - Liang H
+AU  - You Y
+AU  - Li J
+AU  - Chen L
+AU  - Sun X
+AU  - Liu J
+AU  - Lyu P
+AU  - Gao J
+TI  - Deep learning reconstruction dual-energy computed tomography for gastrointestinal system tumors: low-kiloelectron volt imaging vs routine imaging.
+PY  - 2026
+SP  - 107403
+AB  - <h4>Aim</h4>To qualitatively and quantitatively compare dual-energy computed tomography (DECT)-derived 55 keV virtual monochromatic images (VMIs) using deep learning image reconstruction (DLIR) with 70 keV VMIs using adaptive statistical iterative reconstruction (ASiR-V) in the Gastrointestinal (GI) system tumors and to investigate whether DLIR can influence the measured iodine parameters.<h4>Materials and methods</h4>This prospective, observational study included 47 patients with GI system tumors who underwent DECT. Qualitative and quantitative assessment was performed on 70 keV VMIs using ASiR-V40%, and 55 keV VMIs using DLIR at low (DLIR-L), medium (DLIR-M), and high strength (DLIR-H). Quantitative evaluation included calculation of the contrast-to-noise ratio (CNR) and the signal-to-noise ratio (SNR). Overall image quality, lesion conspicuity, and diagnostic confidence were evaluated qualitatively by 2 radiologists. Iodine parameters of tumor lesions were compared among four groups of algorithms.<h4>Results</h4>There were no significant differences in the image noise between DLIR-M and ASiR-V40%, whereas image noise was significantly lower in DLIR-H than ASiR-V40% and DLIR-M (both phases, P < 0.001). DLIR-M and DLIR-H had significantly higher CNR and SNR compared with ASiR-V40% on both phases (all P ≤ 0.001). When compared to ASiR-V40%, DLIR-M and DLIR-H had similar or improved qualitative assessment metrics. DLIR-L yielded the highest image noise and the lowest overall image quality score among these algorithms. Lastly, the measured iodine parameters were equivalent among different algorithms (all P > 0.1).<h4>Conclusion</h4>Abdominal DECT at 55 keV with DLIR (-M and -H) provided qualitative and quantitative performance for GI tumor evaluation comparable to or exceeding that of ASiR-V 40% at 70 keV.
+DO  - 10.1016/j.crad.2026.107403
+UR  - https://pubmed.ncbi.nlm.nih.gov/42364263/
+AN  - 42364263
+KW  - modele:epidemiologie
+KW  - theme:cancer
 ER  - 
 
 TY  - JOUR
@@ -10053,7 +10097,6 @@ AN  - 35734328
 KW  - modele:epidemiologie
 KW  - theme:eeg_sommeil
 KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
 KW  - Adolescent
 KW  - Morocco
 KW  - mobile phone
@@ -10532,7 +10575,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42258677/
 AN  - 42258677
 KW  - modele:epidemiologie
 KW  - theme:eeg_sommeil
-KW  - theme:neuro_comportement_cognition
 ER  - 
 
 TY  - JOUR
@@ -11821,6 +11863,35 @@ KW  - Wrist
 ER  - 
 
 TY  - JOUR
+AU  - Stubberud A
+AU  - Ingvaldsen SH
+AU  - Brenner E
+AU  - Winnberg I
+AU  - Olsen A
+AU  - Gravdahl GB
+AU  - Matharu MS
+AU  - Nachev P
+AU  - Tronvik E
+TI  - Forecasting migraine with machine learning based on mobile phone diary and wearable data.
+JO  - Cephalalgia : an international journal of headache
+PY  - 2023
+VL  - 43
+SP  - 3331024231169244
+AB  - INTRODUCTION: Triggers, premonitory symptoms and physiological changes occur in the preictal migraine phase and may be used in models for forecasting attacks. Machine learning is a promising option for such predictive analytics. The objective of this study was to explore the utility of machine learning to forecast migraine attacks based on preictal headache diary entries and simple physiological measurements.  METHODS: In a prospective development and usability study 18 patients with migraine completed 388 headache diary entries and self-administered app-based biofeedback sessions wirelessly measuring heart rate, peripheral skin temperature and muscle tension. Several standard machine learning architectures were constructed to forecast headache the subsequent day. Models were scored with area under the receiver operating characteristics curve.  RESULTS: Two-hundred-and-ninety-five days were included in the predictive modelling. The top performing model, based on random forest classification, achieved an area under the receiver operating characteristics curve of 0.62 in a hold-out partition of the dataset.  DISCUSSION: In this study we demonstrate the utility of using mobile health apps and wearables combined with machine learning to forecast headache. We argue that high-dimensional modelling may greatly improve forecasting and discuss important considerations for future design of forecasting models using machine learning and mobile health data.
+DO  - 10.1177/03331024231169244
+UR  - https://pubmed.ncbi.nlm.nih.gov/37096352/
+AN  - 37096352
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Artificial intelligence
+KW  - biofeedback
+KW  - boosting
+KW  - headache
+KW  - prediction
+KW  - random forest
+ER  - 
+
+TY  - JOUR
 AU  - Carter J
 AU  - Swack N
 AU  - Isselbacher E
@@ -12115,6 +12186,33 @@ KW  - Thyroid nodule
 ER  - 
 
 TY  - JOUR
+AU  - Du C
+AU  - Wei W
+AU  - Hu M
+AU  - He J
+AU  - Shen J
+AU  - Liu Y
+AU  - Li J
+AU  - Liu L
+TI  - Enhancing prediction accuracy for muscle invasion in bladder cancer using a dual-energy CT-based interpretable model incorporating habitat radiomics and deep learning.
+JO  - BMC cancer
+PY  - 2025
+VL  - 25
+SP  - 1842
+AB  - BACKGROUND: Accurately predicting muscle invasion status in bladder cancer (BCa) is essential for developing personalized treatment plans. This study integrates habitat analysis and 2.5-dimension (2.5D) deep learning (DL) to create an interpretable model using dual-energy computed tomography (DECT) images to enhance the preoperative assessment of muscle invasion status in BCa.  METHODS: This study retrospectively recruited 200 BCa patients who underwent DECT urography and divided them into a training cohort (n = 140) and a test cohort (n = 60). Quantitative parameters from DECT images were measured, and independent predictors of muscle invasion were identified through stepwise regression analysis to develop a DECT model. Radiomics and 2.5D DL models were constructed using iodine-based material decomposition (IMD) images. Tumors were classified into distinct sub-regions using K-means clustering. Through feature extraction and selection, a traditional radiomics model, a habitat model, four 2.5D DL models, and the integrated model combining above models were developed. The predictive performance of the models was assessed using receiver operating characteristic (ROC) curve analysis and calibration curve analysis. The SHAP method was utilized to interpret the optimal model and visualize its decision-making process.  RESULTS: The effective atomic number (Zeff) was recognized as an independent predictor of muscle invasion in BCa. The integrated model, combining Zeff, habitat features, and ResNet 101-based DL features (DECT-DLH), represented the optimal model for predicting muscle invasion in BCa. The area under the curve (AUC) using the optima model was 0.981 (95% CI: 0.963-0.998) in the training cohort and 0.874 (95% CI: 0.785-0.964) in the test cohort. Calibration curves validated the model's reliability for clinical applications. Additionally, SHAP elucidated the decision-making processes associated with the model's predicted outcomes.  CONCLUSION: The integrated model, combining DECT quantitative parameters, habitat features, and 2.5D DL features, enhances the accuracy of preoperative predictions for muscle invasion status in BCa. The SHAP methodology improves the interpretability of decision-making within the model and provides valuable support for clinicians in developing personalized treatment strategies.
+DO  - 10.1186/s12885-025-15107-7
+UR  - https://pubmed.ncbi.nlm.nih.gov/41327160/
+AN  - 41327160
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Bladder cancer
+KW  - Computed tomography
+KW  - Deep learning
+KW  - Habitat radiomics
+KW  - SHAP
+ER  - 
+
+TY  - JOUR
 AU  - Li H
 AU  - Chen C
 AU  - Wang L
@@ -12401,6 +12499,41 @@ KW  - Extracellular volume fraction (ECV)
 KW  - Gastric cancer
 KW  - Perineural invasion (PNI)
 KW  - Prediction
+ER  - 
+
+TY  - JOUR
+AU  - Liu Y
+AU  - Zhao S
+AU  - Chen D
+AU  - Yuan M
+AU  - Ji Q
+AU  - Chen L
+AU  - Gu Y
+AU  - Zhang R
+AU  - Wang H
+AU  - Li Y
+AU  - Liang Y
+AU  - Li Z
+AU  - Cao W
+AU  - Li L
+AU  - Zheng Y
+AU  - Gao J
+AU  - Zhao Z
+TI  - Interpretable machine learning model using dual-energy CT for predicting adverse histopathological status in gastric cancer: A multicenter study.
+JO  - European journal of radiology
+PY  - 2026
+VL  - 194
+SP  - 112473
+AB  - OBJECTIVES: To investigate whether the integration of multiple dual-energy CT (DECT) quantitative parameters using machine learning algorithms could non-invasively decode the adverse histopathological status in gastric cancer (GC).  METHODS: This observational study included patients with surgically resected GC who underwent DECT at six medical centers. Based on available pathological results, patients were categorized into three groups: T3/T4 stage, lymph node metastasis, and lymphovascular/perineural invasion. Each group included a development cohort (comprising training and test sets) and two external validation cohorts. For each group, five machine learning models were developed using 14 quantitative DECT parameters in the development cohort. The best model in each group was selected and evaluated. Survival analysis was conducted using Cox proportional hazards regression and the Kaplan-Meier method. To enhance model interpretability, SHapley Additive exPlanations (SHAP) were applied. Finally, the generalizability of each best model was assessed across two external validation cohorts.  RESULTS: In total, there were 259 patients in the T3/T4 stage group, 266 in the LNM group, and 269 in the LVI/PNI group. The area-under-the-curve (AUC) of the best models in predicting adverse histopathological status ranged from 0.825 to 0.907 for training set, and from 0.774 to 0.848 for test set. Random Forest exhibited favorable predictive performance across all study groups. The 140 keV monoenergetic attenuation in the arterial phase was the top-ranked predictor for both stage T3/T4 and lymph node metastasis, whereas the normalized iodine concentration in venous phase was the top feature of lymphovascular/perineural invasion. All best models were associated with the patient's progression-free survival (all p < 0.05) and exhibited favorable generalizability (all AUC > 0.70).  CONCLUSION: Machine-learning models integrating multiple DECT quantitative parameters could decode the adverse histopathological status and are related to patient progression-free survival.
+DO  - 10.1016/j.ejrad.2025.112473
+UR  - https://pubmed.ncbi.nlm.nih.gov/41604288/
+AN  - 41604288
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Diagnosis
+KW  - Machine learning
+KW  - Stomach neoplasms
+KW  - Tomography (X-ray computed)
 ER  - 
 
 TY  - JOUR
@@ -12951,6 +13084,29 @@ KW  - thyroid nodule
 ER  - 
 
 TY  - JOUR
+AU  - Yang B
+AU  - Yang R
+AU  - Zhang W
+AU  - Ren X
+AU  - Wei W
+AU  - Liu Y
+AU  - Li J
+AU  - Liu L
+TI  - Multi-DECT image-based intra- and peritumoral interpretable radiomics and artificial intelligence models for preoperative prediction of pathological grading of non-muscle-invasive bladder cancer.
+PY  - 2026
+AB  - <h4>Background</h4>This study aimed to evaluate the predictive model based on multi-dual-energy computed tomography (DECT) imaging parameters and model integrating DECT parameters with intra- and peritumoral- radiomics and deep learning model using a 2.5D Vision Transformer (ViT) for the preoperative prediction of pathological grading in non-muscle-invasive bladder cancer (NMIBC).<h4>Materials and methods</h4>This retrospective study included 193 patients with NMIBC (130 with high-grade and 63 with low-grade by pathological biopsy), who were randomly divided into training and test cohorts in an 8:2 ratio. The virtual monoenergetic images (VMIs) at 40 keV, 70 keV, and 100 keV, and iodine material decomposition (IMD) images were used for analyses. Univariate and multivariate logistic regression analyses were conducted to identify independent predictors of pathological grade in NMIBC, formed a DECT model. Radiomics and 2.5D ViT features were concurrently extracted from the intratumoral and peritumoral regions on these images. Multilayer perceptron (MLP) classifiers were utilized to develop models for intratumoral, peritumoral, and combined intratumoral and peritumoral (IntraPeri) radiomics and ViT features. SHapley Additive exPlanations (SHAP) were employed to visualize the decision-making process of the optimal model. Additionally, the independent predictors from DECT were integrated with the optimal model to develop a predictive nomogram. The diagnostic performance of the models was evaluated using receiver operating characteristic (ROC) curves, while decision curve analysis (DCA) was applied to assess their potential clinical utility.<h4>Results</h4>Normalized iodine concentration (NIC) was identified as an independent predictor of pathological grade in NMIBC with an area under the curve (AUC) of 0.698 (95% CI: 0.528-0.868) in the test cohort, while the combined intra- and peritumoral model achieved a higher AUC of 0.864 (95% CI: 0.739-0.989). The nomogram incorporating DECT independent predictors and combined model yielded a numerically higher AUC of 0.891 (95% CI: 0.786-0.996), suggesting a trend toward improved predictive performance. However, the pairwise DeLong test between the DECT model and the nomogram did not reach statistical significance (p = 0.055) in the test cohort. Calibration curves and DCA indicated a good model fit and net benefit in this cohort.<h4>Conclusion</h4>An interpretable model combining DECT multiparametric images and their intra- and peritumoral radiomics may aid in predicting the pathological grade of NMIBC. These preliminary findings, derived from a single-center retrospective dataset, require confirmation in larger, externally validated cohorts.
+DO  - 10.1007/s00261-026-05679-8
+UR  - https://pubmed.ncbi.nlm.nih.gov/42474719/
+AN  - 42474719
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Bladder cancer
+KW  - Dual-energy Ct
+KW  - Radiomics
+KW  - Vision Transformer
+ER  - 
+
+TY  - JOUR
 AU  - Demir L
 AU  - L'Huillier R
 AU  - Moinet R
@@ -12976,6 +13132,30 @@ KW  - Choledocholithiasis
 KW  - Cholangiopancreatography
 KW  - Dual-energy Computed Tomography
 KW  - Effective Atomic Number
+ER  - 
+
+TY  - JOUR
+AU  - Wu B
+AU  - Cui J
+AU  - Lei Y
+AU  - Wan M
+AU  - Luo Z
+AU  - Xie Y
+AU  - Chen J
+AU  - Cui E
+TI  - Deep learning image reconstruction improves visualization of arterial phase hyperenhancement and washout appearance on dual-energy CT for hepatocellular carcinoma: a non-inferiority study.
+PY  - 2026
+AB  - <h4>Purpose</h4>This study aimed to evaluate the clinical value of deep learning image reconstruction (DLIR)-based dual-energy CT (DECT) in improving image quality for hepatocellular carcinoma (HCC).<h4>Methods</h4>This single-center retrospective analysis of a prospective cohort included patients enrolled between June 2024 and July 2025. Virtual monoenergetic images (VMI) at 40, 50, 60, and 74-keV (120 kVp-like) were reconstructed using ASiR-V 50%, DLIR-H (high), and DLIR-M (medium). All combinations of energy levels and reconstruction algorithms were compared using both quantitative metrics standard deviation (SD) of liver and lesion attenuation, signal-to-noise ratio (SNR), and lesion-to-liver contrast ratio (LLR) and semi-quantitative 5-point scores (overall noise, lesion edge sharpness, and conspicuity). The optimal reconstruction combination-derived DECT image was identified and compared with MRI for major HCC features of LI-RADS 2018, including arterial phase hyperenhancement (APHE) and nonperipheral washout appearance.<h4>Results</h4>Each patient yielded 36 image sets across three phases from various combinations of energy levels and algorithms. Quantitative analysis revealed DLIR-H/50-60-keV performed best across all objective metrics (all p < 0.05); with quantitative assessment, DLIR-H/50-keV was determined as the optimal protocol, which showed non-inferiority to MRI for detecting the two major HCC features of LI-RADS 2018.<h4>Conclusion</h4>DLIR significantly enhances low-energy VMI quality and the visualization of major LI-RADS 2018 features in HCC. The DLIR-H/50-keV protocol demonstrates imaging performance approaching MRI standards, representing a promising reconstructive strategy for HCC assessment, particularly in clinical scenarios where MRI access is limited.
+DO  - 10.1007/s00261-026-05707-7
+UR  - https://pubmed.ncbi.nlm.nih.gov/42550187/
+AN  - 42550187
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Hepatocellular carcinoma
+KW  - computed tomography
+KW  - Contrast Agents
+KW  - Dual Energy
+KW  - Deep Learning
 ER  - 
 
 TY  - JOUR
@@ -14228,35 +14408,6 @@ KW  - Web experience
 ER  - 
 
 TY  - JOUR
-AU  - Stubberud A
-AU  - Ingvaldsen SH
-AU  - Brenner E
-AU  - Winnberg I
-AU  - Olsen A
-AU  - Gravdahl GB
-AU  - Matharu MS
-AU  - Nachev P
-AU  - Tronvik E
-TI  - Forecasting migraine with machine learning based on mobile phone diary and wearable data.
-JO  - Cephalalgia : an international journal of headache
-PY  - 2023
-VL  - 43
-SP  - 3331024231169244
-AB  - INTRODUCTION: Triggers, premonitory symptoms and physiological changes occur in the preictal migraine phase and may be used in models for forecasting attacks. Machine learning is a promising option for such predictive analytics. The objective of this study was to explore the utility of machine learning to forecast migraine attacks based on preictal headache diary entries and simple physiological measurements.  METHODS: In a prospective development and usability study 18 patients with migraine completed 388 headache diary entries and self-administered app-based biofeedback sessions wirelessly measuring heart rate, peripheral skin temperature and muscle tension. Several standard machine learning architectures were constructed to forecast headache the subsequent day. Models were scored with area under the receiver operating characteristics curve.  RESULTS: Two-hundred-and-ninety-five days were included in the predictive modelling. The top performing model, based on random forest classification, achieved an area under the receiver operating characteristics curve of 0.62 in a hold-out partition of the dataset.  DISCUSSION: In this study we demonstrate the utility of using mobile health apps and wearables combined with machine learning to forecast headache. We argue that high-dimensional modelling may greatly improve forecasting and discuss important considerations for future design of forecasting models using machine learning and mobile health data.
-DO  - 10.1177/03331024231169244
-UR  - https://pubmed.ncbi.nlm.nih.gov/37096352/
-AN  - 37096352
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - Artificial intelligence
-KW  - biofeedback
-KW  - boosting
-KW  - headache
-KW  - prediction
-KW  - random forest
-ER  - 
-
-TY  - JOUR
 AU  - Yang H
 AU  - Wang Z
 AU  - Jiang Y
@@ -14435,33 +14586,6 @@ KW  - Gsm 900 Mhz
 ER  - 
 
 TY  - JOUR
-AU  - Du C
-AU  - Wei W
-AU  - Hu M
-AU  - He J
-AU  - Shen J
-AU  - Liu Y
-AU  - Li J
-AU  - Liu L
-TI  - Enhancing prediction accuracy for muscle invasion in bladder cancer using a dual-energy CT-based interpretable model incorporating habitat radiomics and deep learning.
-JO  - BMC cancer
-PY  - 2025
-VL  - 25
-SP  - 1842
-AB  - BACKGROUND: Accurately predicting muscle invasion status in bladder cancer (BCa) is essential for developing personalized treatment plans. This study integrates habitat analysis and 2.5-dimension (2.5D) deep learning (DL) to create an interpretable model using dual-energy computed tomography (DECT) images to enhance the preoperative assessment of muscle invasion status in BCa.  METHODS: This study retrospectively recruited 200 BCa patients who underwent DECT urography and divided them into a training cohort (n = 140) and a test cohort (n = 60). Quantitative parameters from DECT images were measured, and independent predictors of muscle invasion were identified through stepwise regression analysis to develop a DECT model. Radiomics and 2.5D DL models were constructed using iodine-based material decomposition (IMD) images. Tumors were classified into distinct sub-regions using K-means clustering. Through feature extraction and selection, a traditional radiomics model, a habitat model, four 2.5D DL models, and the integrated model combining above models were developed. The predictive performance of the models was assessed using receiver operating characteristic (ROC) curve analysis and calibration curve analysis. The SHAP method was utilized to interpret the optimal model and visualize its decision-making process.  RESULTS: The effective atomic number (Zeff) was recognized as an independent predictor of muscle invasion in BCa. The integrated model, combining Zeff, habitat features, and ResNet 101-based DL features (DECT-DLH), represented the optimal model for predicting muscle invasion in BCa. The area under the curve (AUC) using the optima model was 0.981 (95% CI: 0.963-0.998) in the training cohort and 0.874 (95% CI: 0.785-0.964) in the test cohort. Calibration curves validated the model's reliability for clinical applications. Additionally, SHAP elucidated the decision-making processes associated with the model's predicted outcomes.  CONCLUSION: The integrated model, combining DECT quantitative parameters, habitat features, and 2.5D DL features, enhances the accuracy of preoperative predictions for muscle invasion status in BCa. The SHAP methodology improves the interpretability of decision-making within the model and provides valuable support for clinicians in developing personalized treatment strategies.
-DO  - 10.1186/s12885-025-15107-7
-UR  - https://pubmed.ncbi.nlm.nih.gov/41327160/
-AN  - 41327160
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - Bladder cancer
-KW  - Computed tomography
-KW  - Deep learning
-KW  - Habitat radiomics
-KW  - SHAP
-ER  - 
-
-TY  - JOUR
 AU  - Thota RC
 AU  - Uddin MYS
 AU  - Bani-Yaghoub M
@@ -14512,142 +14636,6 @@ KW  - Human Study
 KW  - Stress Biomarkers
 KW  - 5G
 KW  - 26 Ghz
-ER  - 
-
-TY  - JOUR
-AU  - Liu Y
-AU  - Zhao S
-AU  - Chen D
-AU  - Yuan M
-AU  - Ji Q
-AU  - Chen L
-AU  - Gu Y
-AU  - Zhang R
-AU  - Wang H
-AU  - Li Y
-AU  - Liang Y
-AU  - Li Z
-AU  - Cao W
-AU  - Li L
-AU  - Zheng Y
-AU  - Gao J
-AU  - Zhao Z
-TI  - Interpretable machine learning model using dual-energy CT for predicting adverse histopathological status in gastric cancer: A multicenter study.
-JO  - European journal of radiology
-PY  - 2026
-VL  - 194
-SP  - 112473
-AB  - OBJECTIVES: To investigate whether the integration of multiple dual-energy CT (DECT) quantitative parameters using machine learning algorithms could non-invasively decode the adverse histopathological status in gastric cancer (GC).  METHODS: This observational study included patients with surgically resected GC who underwent DECT at six medical centers. Based on available pathological results, patients were categorized into three groups: T3/T4 stage, lymph node metastasis, and lymphovascular/perineural invasion. Each group included a development cohort (comprising training and test sets) and two external validation cohorts. For each group, five machine learning models were developed using 14 quantitative DECT parameters in the development cohort. The best model in each group was selected and evaluated. Survival analysis was conducted using Cox proportional hazards regression and the Kaplan-Meier method. To enhance model interpretability, SHapley Additive exPlanations (SHAP) were applied. Finally, the generalizability of each best model was assessed across two external validation cohorts.  RESULTS: In total, there were 259 patients in the T3/T4 stage group, 266 in the LNM group, and 269 in the LVI/PNI group. The area-under-the-curve (AUC) of the best models in predicting adverse histopathological status ranged from 0.825 to 0.907 for training set, and from 0.774 to 0.848 for test set. Random Forest exhibited favorable predictive performance across all study groups. The 140 keV monoenergetic attenuation in the arterial phase was the top-ranked predictor for both stage T3/T4 and lymph node metastasis, whereas the normalized iodine concentration in venous phase was the top feature of lymphovascular/perineural invasion. All best models were associated with the patient's progression-free survival (all p < 0.05) and exhibited favorable generalizability (all AUC > 0.70).  CONCLUSION: Machine-learning models integrating multiple DECT quantitative parameters could decode the adverse histopathological status and are related to patient progression-free survival.
-DO  - 10.1016/j.ejrad.2025.112473
-UR  - https://pubmed.ncbi.nlm.nih.gov/41604288/
-AN  - 41604288
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - Diagnosis
-KW  - Machine learning
-KW  - Stomach neoplasms
-KW  - Tomography (X-ray computed)
-ER  - 
-
-TY  - JOUR
-AU  - Chen Y
-AU  - You Y
-AU  - Yuan M
-AU  - Fan S
-AU  - Fan Y
-AU  - Tian X
-AU  - Zheng Y
-AU  - Li Y
-AU  - Sun X
-AU  - Liu Y
-AU  - Gao J
-TI  - Non-invasive prediction of Ki-67 expression in gastric cancer using AI-based dual-energy CT: a multicenter study.
-JO  - European journal of radiology
-PY  - 2026
-VL  - 198
-SP  - 112742
-AB  - OBJECTIVE: To develop and validate a machine learning model based on quantitative parameters of dual-energy CT (DECT) virtual monoenergetic images (VMIs) for the noninvasive preoperative prediction of Ki-67 expression status in gastric cancer.  METHODS: A total of 367 patients with pathologically confirmed gastric adenocarcinoma were enrolled and divided into a training cohort, two external validation cohorts, and a cross-platform validation cohort. Patients were classified into high or low Ki-67 expression groups based on a 70% cutoff. Quantitative parameters of VMI were measured and incorporated into machine learning algorithms to construct the DECT model. The optimal imaging model was combined with independent clinical predictors to develop a nomogram. Model performance was evaluated using ROC analysis, calibration curves, DCA, and Kaplan-Meier survival analysis.  RESULTS: The logistic regression model was identified as the optimal DECT model. Its combination with clinical features yielded AUC values of 0.788 and 0.777 in the two DECT external validation cohorts, respectively. In the cross-platform validation cohort, the combined model achieved an AUC of 0.668. Calibration curves and DCA demonstrated good fitting and clinical usefulness of the integrated model in DECT cohorts. Stratified analysis confirmed that the model's performance was stable across different clinical characteristics. Furthermore, Kaplan-Meier analysis indicated that the combined model effectively stratified patients into high- and low-risk groups regarding progression-free survival (PFS).  CONCLUSION: The individualized model based on DECT virtual monoenergetic images effectively predicts Ki-67 expression status and provides valuable prognostic risk stratification for gastric cancer patients.
-DO  - 10.1016/j.ejrad.2026.112742
-UR  - https://pubmed.ncbi.nlm.nih.gov/41740269/
-AN  - 41740269
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - theme:cancer
-KW  - Dual-Energy imaging
-KW  - Gastric cancer
-KW  - Ki-67
-KW  - Tomography
-KW  - X-ray computed
-ER  - 
-
-TY  - JOUR
-AU  - Liu Y
-AU  - Yuan M
-AU  - Liang H
-AU  - You Y
-AU  - Li J
-AU  - Chen L
-AU  - Sun X
-AU  - Liu J
-AU  - Lyu P
-AU  - Gao J
-TI  - Deep learning reconstruction dual-energy computed tomography for gastrointestinal system tumors: low-kiloelectron volt imaging vs routine imaging.
-PY  - 2026
-SP  - 107403
-AB  - <h4>Aim</h4>To qualitatively and quantitatively compare dual-energy computed tomography (DECT)-derived 55 keV virtual monochromatic images (VMIs) using deep learning image reconstruction (DLIR) with 70 keV VMIs using adaptive statistical iterative reconstruction (ASiR-V) in the Gastrointestinal (GI) system tumors and to investigate whether DLIR can influence the measured iodine parameters.<h4>Materials and methods</h4>This prospective, observational study included 47 patients with GI system tumors who underwent DECT. Qualitative and quantitative assessment was performed on 70 keV VMIs using ASiR-V40%, and 55 keV VMIs using DLIR at low (DLIR-L), medium (DLIR-M), and high strength (DLIR-H). Quantitative evaluation included calculation of the contrast-to-noise ratio (CNR) and the signal-to-noise ratio (SNR). Overall image quality, lesion conspicuity, and diagnostic confidence were evaluated qualitatively by 2 radiologists. Iodine parameters of tumor lesions were compared among four groups of algorithms.<h4>Results</h4>There were no significant differences in the image noise between DLIR-M and ASiR-V40%, whereas image noise was significantly lower in DLIR-H than ASiR-V40% and DLIR-M (both phases, P < 0.001). DLIR-M and DLIR-H had significantly higher CNR and SNR compared with ASiR-V40% on both phases (all P ≤ 0.001). When compared to ASiR-V40%, DLIR-M and DLIR-H had similar or improved qualitative assessment metrics. DLIR-L yielded the highest image noise and the lowest overall image quality score among these algorithms. Lastly, the measured iodine parameters were equivalent among different algorithms (all P > 0.1).<h4>Conclusion</h4>Abdominal DECT at 55 keV with DLIR (-M and -H) provided qualitative and quantitative performance for GI tumor evaluation comparable to or exceeding that of ASiR-V 40% at 70 keV.
-DO  - 10.1016/j.crad.2026.107403
-UR  - https://pubmed.ncbi.nlm.nih.gov/42364263/
-AN  - 42364263
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - theme:cancer
-ER  - 
-
-TY  - JOUR
-AU  - Yang B
-AU  - Yang R
-AU  - Zhang W
-AU  - Ren X
-AU  - Wei W
-AU  - Liu Y
-AU  - Li J
-AU  - Liu L
-TI  - Multi-DECT image-based intra- and peritumoral interpretable radiomics and artificial intelligence models for preoperative prediction of pathological grading of non-muscle-invasive bladder cancer.
-PY  - 2026
-AB  - <h4>Background</h4>This study aimed to evaluate the predictive model based on multi-dual-energy computed tomography (DECT) imaging parameters and model integrating DECT parameters with intra- and peritumoral- radiomics and deep learning model using a 2.5D Vision Transformer (ViT) for the preoperative prediction of pathological grading in non-muscle-invasive bladder cancer (NMIBC).<h4>Materials and methods</h4>This retrospective study included 193 patients with NMIBC (130 with high-grade and 63 with low-grade by pathological biopsy), who were randomly divided into training and test cohorts in an 8:2 ratio. The virtual monoenergetic images (VMIs) at 40 keV, 70 keV, and 100 keV, and iodine material decomposition (IMD) images were used for analyses. Univariate and multivariate logistic regression analyses were conducted to identify independent predictors of pathological grade in NMIBC, formed a DECT model. Radiomics and 2.5D ViT features were concurrently extracted from the intratumoral and peritumoral regions on these images. Multilayer perceptron (MLP) classifiers were utilized to develop models for intratumoral, peritumoral, and combined intratumoral and peritumoral (IntraPeri) radiomics and ViT features. SHapley Additive exPlanations (SHAP) were employed to visualize the decision-making process of the optimal model. Additionally, the independent predictors from DECT were integrated with the optimal model to develop a predictive nomogram. The diagnostic performance of the models was evaluated using receiver operating characteristic (ROC) curves, while decision curve analysis (DCA) was applied to assess their potential clinical utility.<h4>Results</h4>Normalized iodine concentration (NIC) was identified as an independent predictor of pathological grade in NMIBC with an area under the curve (AUC) of 0.698 (95% CI: 0.528-0.868) in the test cohort, while the combined intra- and peritumoral model achieved a higher AUC of 0.864 (95% CI: 0.739-0.989). The nomogram incorporating DECT independent predictors and combined model yielded a numerically higher AUC of 0.891 (95% CI: 0.786-0.996), suggesting a trend toward improved predictive performance. However, the pairwise DeLong test between the DECT model and the nomogram did not reach statistical significance (p = 0.055) in the test cohort. Calibration curves and DCA indicated a good model fit and net benefit in this cohort.<h4>Conclusion</h4>An interpretable model combining DECT multiparametric images and their intra- and peritumoral radiomics may aid in predicting the pathological grade of NMIBC. These preliminary findings, derived from a single-center retrospective dataset, require confirmation in larger, externally validated cohorts.
-DO  - 10.1007/s00261-026-05679-8
-UR  - https://pubmed.ncbi.nlm.nih.gov/42474719/
-AN  - 42474719
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - Bladder cancer
-KW  - Dual-energy Ct
-KW  - Radiomics
-KW  - Vision Transformer
-ER  - 
-
-TY  - JOUR
-AU  - Wu B
-AU  - Cui J
-AU  - Lei Y
-AU  - Wan M
-AU  - Luo Z
-AU  - Xie Y
-AU  - Chen J
-AU  - Cui E
-TI  - Deep learning image reconstruction improves visualization of arterial phase hyperenhancement and washout appearance on dual-energy CT for hepatocellular carcinoma: a non-inferiority study.
-PY  - 2026
-AB  - <h4>Purpose</h4>This study aimed to evaluate the clinical value of deep learning image reconstruction (DLIR)-based dual-energy CT (DECT) in improving image quality for hepatocellular carcinoma (HCC).<h4>Methods</h4>This single-center retrospective analysis of a prospective cohort included patients enrolled between June 2024 and July 2025. Virtual monoenergetic images (VMI) at 40, 50, 60, and 74-keV (120 kVp-like) were reconstructed using ASiR-V 50%, DLIR-H (high), and DLIR-M (medium). All combinations of energy levels and reconstruction algorithms were compared using both quantitative metrics standard deviation (SD) of liver and lesion attenuation, signal-to-noise ratio (SNR), and lesion-to-liver contrast ratio (LLR) and semi-quantitative 5-point scores (overall noise, lesion edge sharpness, and conspicuity). The optimal reconstruction combination-derived DECT image was identified and compared with MRI for major HCC features of LI-RADS 2018, including arterial phase hyperenhancement (APHE) and nonperipheral washout appearance.<h4>Results</h4>Each patient yielded 36 image sets across three phases from various combinations of energy levels and algorithms. Quantitative analysis revealed DLIR-H/50-60-keV performed best across all objective metrics (all p < 0.05); with quantitative assessment, DLIR-H/50-keV was determined as the optimal protocol, which showed non-inferiority to MRI for detecting the two major HCC features of LI-RADS 2018.<h4>Conclusion</h4>DLIR significantly enhances low-energy VMI quality and the visualization of major LI-RADS 2018 features in HCC. The DLIR-H/50-keV protocol demonstrates imaging performance approaching MRI standards, representing a promising reconstructive strategy for HCC assessment, particularly in clinical scenarios where MRI access is limited.
-DO  - 10.1007/s00261-026-05707-7
-UR  - https://pubmed.ncbi.nlm.nih.gov/42550187/
-AN  - 42550187
-KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
-KW  - Hepatocellular carcinoma
-KW  - computed tomography
-KW  - Contrast Agents
-KW  - Dual Energy
-KW  - Deep Learning
 ER  - 
 
 TY  - JOUR
@@ -17537,6 +17525,27 @@ KW  - Electropollution
 ER  - 
 
 TY  - JOUR
+AU  - Parsaei H
+AU  - Faraz M
+AU  - Mortazavi SMJ
+TI  - A Decision Support System for Managing Health Symptoms of Living Near Mobile Phone Base Stations.
+PY  - 2026
+SP  - 47-56
+AB  - <h4>Background</h4>The rapid increase in the number of Mobile Phone Base Stations (MPBS) has raised global concerns about the potential adverse health effects of exposure to Radiofrequency Electromagnetic Fields (RF-EMF). The application of machine learning techniques can enable healthcare professionals and policymakers to proactively address concerns surrounding RF-EMF exposure near MPBS.<h4>Objective</h4>The current study aimed to investigate the potential of machine learning models for the prediction of health symptoms associated with RF-EMF exposure in individuals residing near MPBS.<h4>Material and methods</h4>This analytical study utilized Support Vector Machine (SVM) and Random Forest (RF) algorithms, incorporating 11 predictors related to participants' living conditions. A total of 699 adults participated in the study, and model performance was assessed using sensitivity, specificity, accuracy, and the Area Under Curve (AUC).<h4>Results</h4>The SVM-based model demonstrated strong performance, with accuracies of 85.3%, 82%, 84%, 82.4%, and 65.1% for headache, sleep disturbance, dizziness, vertigo, and fatigue, respectively. The corresponding AUC values were 0.99, 0.98, 0.920, 0.89, and 0.81. Compared to the RF model and a previously developed model, the SVM-based model exhibited higher sensitivity, particularly for fatigue, with sensitivities of 70.0%, 83.4%, 85.3%, 73.0%, and 69.0% for these five health symptoms. Particularly for predicting fatigue, sensitivity and AUC were significantly improved (70% vs. 8% and 11.1% for SVM, Multilayer Perceptron Neural Network (MLPNN), and RF, respectively, and 0.81 vs. 0.62 and 0.64, for SVM, MLPNN, and RF, respectively).<h4>Conclusion</h4>Machine learning methods, specifically SVM, hold promise in effectively managing health symptoms in individuals residing near or planning to settle in the vicinity of MPBS.
+DO  - 10.31661/jbpe.v0i0.2310-1667
+UR  - https://pubmed.ncbi.nlm.nih.gov/41668986/
+AN  - 41668986
+KW  - modele:humain_experimental
+KW  - theme:eeg_sommeil
+KW  - modele:epidemiologie
+KW  - Artificial intelligence
+KW  - Electromagnetic fields
+KW  - Machine Learning
+KW  - Mobile Phone Base Stations
+KW  - Electromagnetic Hypersensitivity (Ehs)
+ER  - 
+
+TY  - JOUR
 AU  - Loughran SP
 AU  - Verrender A
 AU  - Dalecki A
@@ -17861,6 +17870,24 @@ KW  - modele:in_vivo
 ER  - 
 
 TY  - JOUR
+AU  - Hosseini M
+AU  - Afrin S
+AU  - Yosick A
+AU  - Awad H
+AU  - Berger AJ
+TI  - Machine learning reconstruction of digit bone Raman spectra enables noninvasive transcutaneous detection of systemic osteoporosis.
+JO  - ArXiv
+PY  - 2026
+AB  - Osteoporosis, a major global epidemic, often goes undetected until a fracture occurs, largely due to poor access to screening using gold standard methods, such as dual-energy X-ray absorptiometry (DXA). As a potential nonionizing radiation alternative, we present a transcutaneous spatially offset Raman spectroscopy (SORS) approach combined with machine learning (ML) to recover bone spectra through overlying soft tissue and extract diagnostic information. In a human cadaveric study spanning normal, osteopenic, and osteoporotic donors, we acquired paired Raman measurements from transcutaneous fingers at multiple spatial offsets (0, 3, and 6 mm) and from the corresponding exposed finger bones. Using this paired dataset, supervised machine-learning models were trained to reconstruct exposed-bone Raman spectra from transcutaneous measurements, enabling direct recovery of bone biochemical signatures from transcutaneous tissue. The ML-predicted bone spectra preserved physiologically meaningful Raman features and demonstrated statistically significant differences between normal and osteoporotic groups across four key Raman-derived metrics (p ≤ 0.05), representing, to our knowledge, the first demonstration of transcutaneous Raman discrimination between clinically established bone-health categories in a human cadaveric study. The ML-predicted spectra further correlated with distal-radius DXA T-scores (r = 0.73, RMSECV ≈ 1.4), approaching the performance achieved using exposed-bone measurements (r = 0.9, RMSECV ≈ 0.8). Finally, preliminary in vivo measurements from two volunteers revealed clear bone-related transcutaneous spectral features consistent with cadaveric data, supporting translational feasibility. Together, these results establish a foundation for nonionizing radiation, transcutaneous Raman assessment of bone health using supervised spectral extraction from accessible measurement sites.
+DO  - 10.1007/s00198-018-4704-5
+UR  - https://pubmed.ncbi.nlm.nih.gov/41907579/
+AN  - 41907579
+KW  - modele:humain_experimental
+KW  - theme:general
+KW  - modele:in_vivo
+ER  - 
+
+TY  - JOUR
 AU  - Michelant L
 AU  - Hugueville L
 AU  - Leveque P
@@ -18158,28 +18185,6 @@ KW  - Rf-emf Exposure
 ER  - 
 
 TY  - JOUR
-AU  - Parsaei H
-AU  - Faraz M
-AU  - Mortazavi SMJ
-TI  - A Decision Support System for Managing Health Symptoms of Living Near Mobile Phone Base Stations.
-PY  - 2026
-SP  - 47-56
-AB  - <h4>Background</h4>The rapid increase in the number of Mobile Phone Base Stations (MPBS) has raised global concerns about the potential adverse health effects of exposure to Radiofrequency Electromagnetic Fields (RF-EMF). The application of machine learning techniques can enable healthcare professionals and policymakers to proactively address concerns surrounding RF-EMF exposure near MPBS.<h4>Objective</h4>The current study aimed to investigate the potential of machine learning models for the prediction of health symptoms associated with RF-EMF exposure in individuals residing near MPBS.<h4>Material and methods</h4>This analytical study utilized Support Vector Machine (SVM) and Random Forest (RF) algorithms, incorporating 11 predictors related to participants' living conditions. A total of 699 adults participated in the study, and model performance was assessed using sensitivity, specificity, accuracy, and the Area Under Curve (AUC).<h4>Results</h4>The SVM-based model demonstrated strong performance, with accuracies of 85.3%, 82%, 84%, 82.4%, and 65.1% for headache, sleep disturbance, dizziness, vertigo, and fatigue, respectively. The corresponding AUC values were 0.99, 0.98, 0.920, 0.89, and 0.81. Compared to the RF model and a previously developed model, the SVM-based model exhibited higher sensitivity, particularly for fatigue, with sensitivities of 70.0%, 83.4%, 85.3%, 73.0%, and 69.0% for these five health symptoms. Particularly for predicting fatigue, sensitivity and AUC were significantly improved (70% vs. 8% and 11.1% for SVM, Multilayer Perceptron Neural Network (MLPNN), and RF, respectively, and 0.81 vs. 0.62 and 0.64, for SVM, MLPNN, and RF, respectively).<h4>Conclusion</h4>Machine learning methods, specifically SVM, hold promise in effectively managing health symptoms in individuals residing near or planning to settle in the vicinity of MPBS.
-DO  - 10.31661/jbpe.v0i0.2310-1667
-UR  - https://pubmed.ncbi.nlm.nih.gov/41668986/
-AN  - 41668986
-KW  - modele:humain_experimental
-KW  - theme:neuro_comportement_cognition
-KW  - modele:epidemiologie
-KW  - theme:eeg_sommeil
-KW  - Artificial intelligence
-KW  - Electromagnetic fields
-KW  - Machine Learning
-KW  - Mobile Phone Base Stations
-KW  - Electromagnetic Hypersensitivity (Ehs)
-ER  - 
-
-TY  - JOUR
 AU  - Petzke TM
 AU  - Rippe RCA
 AU  - Witthöft M
@@ -18208,24 +18213,6 @@ KW  - Lumping vs. splitting
 KW  - Multiple chemical sensitivity
 KW  - Predictive processing
 KW  - Symptoms associated with environmental factors
-ER  - 
-
-TY  - JOUR
-AU  - Hosseini M
-AU  - Afrin S
-AU  - Yosick A
-AU  - Awad H
-AU  - Berger AJ
-TI  - Machine learning reconstruction of digit bone Raman spectra enables noninvasive transcutaneous detection of systemic osteoporosis.
-JO  - ArXiv
-PY  - 2026
-AB  - Osteoporosis, a major global epidemic, often goes undetected until a fracture occurs, largely due to poor access to screening using gold standard methods, such as dual-energy X-ray absorptiometry (DXA). As a potential nonionizing radiation alternative, we present a transcutaneous spatially offset Raman spectroscopy (SORS) approach combined with machine learning (ML) to recover bone spectra through overlying soft tissue and extract diagnostic information. In a human cadaveric study spanning normal, osteopenic, and osteoporotic donors, we acquired paired Raman measurements from transcutaneous fingers at multiple spatial offsets (0, 3, and 6 mm) and from the corresponding exposed finger bones. Using this paired dataset, supervised machine-learning models were trained to reconstruct exposed-bone Raman spectra from transcutaneous measurements, enabling direct recovery of bone biochemical signatures from transcutaneous tissue. The ML-predicted bone spectra preserved physiologically meaningful Raman features and demonstrated statistically significant differences between normal and osteoporotic groups across four key Raman-derived metrics (p ≤ 0.05), representing, to our knowledge, the first demonstration of transcutaneous Raman discrimination between clinically established bone-health categories in a human cadaveric study. The ML-predicted spectra further correlated with distal-radius DXA T-scores (r = 0.73, RMSECV ≈ 1.4), approaching the performance achieved using exposed-bone measurements (r = 0.9, RMSECV ≈ 0.8). Finally, preliminary in vivo measurements from two volunteers revealed clear bone-related transcutaneous spectral features consistent with cadaveric data, supporting translational feasibility. Together, these results establish a foundation for nonionizing radiation, transcutaneous Raman assessment of bone health using supervised spectral extraction from accessible measurement sites.
-DO  - 10.1007/s00198-018-4704-5
-UR  - https://pubmed.ncbi.nlm.nih.gov/41907579/
-AN  - 41907579
-KW  - modele:humain_experimental
-KW  - theme:neuro_comportement_cognition
-KW  - modele:in_vivo
 ER  - 
 
 TY  - JOUR
@@ -30147,6 +30134,30 @@ KW  - theme:general
 ER  - 
 
 TY  - JOUR
+AU  - Keller J
+AU  - Geier U
+AU  - Tran NT
+TI  - In-Depth Analysis of Chlorophyll Fluorescence Rise Kinetics Reveals Interference Effects of a Radiofrequency Electromagnetic Field (RF-EMF) on Plant Hormetic Responses to Drought Stress.
+PY  - 2025
+SP  - 7038
+AB  - The proliferation of telecommunication devices in recent decades has resulted in a substantial increase in exposure risk to manmade radiofrequency electromagnetic fields (RF-EMFs) for both animals and plants. The physiological effects of these exposures remain to be fully elucidated. In this study, we measured and analyzed the chlorophyll fluorescence rise kinetics of lettuce plants in the presence of RF-EMFs and after a short drought treatment. The analysis of the fluorescence data was conducted using two different strategies: a conventional JIP test and a novel machine learning-assisted anomaly-detection approach. Our results suggest that exposure to RF-EMFs weakens the plant's hormetic responses induced by drought treatment, both in terms of the response's magnitude and its extent. These findings provide further evidence supporting the hypothesis that RF-EMFs interfere with plant stress responses.
+DO  - 10.3390/ijms26157038
+UR  - https://pubmed.ncbi.nlm.nih.gov/40806176/
+AN  - 40806176
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - Photosynthesis
+KW  - Drought
+KW  - Lettuce
+KW  - plant stress
+KW  - Machine Learning
+KW  - Anomaly Detection
+KW  - Radiofrequency Electromagnetic Fields
+KW  - Ojip
+KW  - Fresh And Dry Matter
+ER  - 
+
+TY  - JOUR
 AU  - Lin F
 AU  - Lu M
 TI  - Tasmanian devil whale optimization (TDWO) is introduced for secure video transmission in 5G networks.
@@ -30326,6 +30337,32 @@ KW  - Dual‐Energy CT
 KW  - Single‐Energy CT
 KW  - radiotherapy
 KW  - relative electron density
+ER  - 
+
+TY  - JOUR
+AU  - Hu J
+AU  - Li M
+AU  - Xuan X
+AU  - Li W
+AU  - Li H
+AU  - Liu C
+AU  - Li C
+AU  - Li H
+TI  - Contactless and Wireless Wound Monitoring Using Nitrogen-Doped Graphene Antenna Sensor.
+PY  - 2026
+SP  - 2271-2281
+AB  - Quantitative remote wound monitoring has the potential to shorten patient recovery time and alleviate the workload of healthcare professionals. In this study, a nitrogen-doped horizontally grown graphene (NHG) antenna sensor with a working frequency of 2.45 GHz was designed for wireless real-time monitoring of wounds. The sensor comprises 32 NHG microtubes (1 mm in diameter), a porous Cu radiation electrode, a polydimethylsiloxane substrate with a cylindrical channel array, and a Cu ground plane. Its novel structure enables body fluid and its temperature and pH value sensing by tracking dual signals, such as resonance frequency and return loss, thereby facilitating the identification of living organisms and real-time quantitative wound assessment. Notably, the NHG microtubes, which penetrate the Cu electrode and PDMS substrate, regulate the radiofrequency radiation field and enhance the monitoring sensitivity. The sensor exhibits a minimum fluid response volume of 25 μL, a temperature detection range of 34-43 °C, a resolution of 0.1 °C, and a response time of 20 s. Furthermore, the NHG antenna sensor reliably evaluated the pH value, volume, and area of the wound using a machine learning algorithm. The system was successfully validated for real-time monitoring of wound healing in mice and has been preliminarily applied to monitor wounds of various sizes and locations in human patients.
+DO  - 10.1021/acssensors.5c04094
+UR  - https://pubmed.ncbi.nlm.nih.gov/41774678/
+AN  - 41774678
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - modele:ingenierie_materiel
+KW  - Wireless
+KW  - Contactless
+KW  - N-doped Graphene
+KW  - Wound Monitoring
+KW  - Antenna Sensor
 ER  - 
 
 TY  - JOUR
@@ -32366,34 +32403,6 @@ KW  - Microwave radiation
 ER  - 
 
 TY  - JOUR
-AU  - Shirai T
-AU  - Wang J
-AU  - Kawabe M
-AU  - Wake K
-AU  - Watanabe SI
-AU  - Takahashi S
-AU  - Fujiwara O
-TI  - No adverse effects detected for simultaneous whole-body exposure to multiple-frequency radiofrequency electromagnetic fields for rats in the intrauterine and pre- and post-weaning periods.
-JO  - Journal of radiation research
-PY  - 2017
-VL  - 58
-SP  - 48-58
-AB  - In everyday life, people are exposed to radiofrequency (RF) electromagnetic fields (EMFs) with multiple frequencies. To evaluate the possible adverse effects of multifrequency RF EMFs, we performed an experiment in which pregnant rats and their delivered offspring were simultaneously exposed to eight different communication signal EMFs (two of 800 MHz band, two of 2 GHz band, one of 2.4 GHz band, two of 2.5 GHz band and one of 5.2 GHz band). Thirty six pregnant Sprague-Dawley (SD) 10-week-old rats were divided into three groups of 12 rats: one control (sham exposure) group and two experimental (low- and high-level RF EMF exposure) groups. The whole body of the mother rats was exposed to the RF EMFs for 20 h per day from Gestational Day 7 to weaning, and F1 offspring rats (46-48 F1 pups per group) were then exposed up to 6 weeks of age also for 20 h per day. The parameters evaluated included the growth, gestational condition and organ weights of the dams; the survival rates, development, growth, physical and functional development, memory function, and reproductive ability of the F1 offspring; and the embryotoxicity and teratogenicity in the F2 rats. No abnormal findings were observed in the dams or F1 offspring exposed to the RF EMFs or to the F2 offspring for any of the parameters evaluated. Thus, under the conditions of the present experiment, simultaneous whole-body exposure to eight different communication signal EMFs at frequencies between 800 MHz and 5.2 GHz did not show any adverse effects on pregnancy or on the development of rats.
-DO  - 10.1093/jrr/rrw085
-UR  - https://pubmed.ncbi.nlm.nih.gov/27694283/
-AN  - 27694283
-KW  - modele:in_vivo
-KW  - theme:neuro_comportement_cognition
-KW  - theme:neurodeveloppement
-KW  - theme:reproduction
-KW  - biological effect
-KW  - multi-frequency radiofrequency electromagnetic field
-KW  - rat
-KW  - reproductive and developmental toxicity
-KW  - whole-body exposure
-ER  - 
-
-TY  - JOUR
 AU  - Wang K
 AU  - Lu JM
 AU  - Xing ZH
@@ -32555,35 +32564,6 @@ KW  - C57BL/6J mouse
 KW  - Developmental effects
 KW  - Electronic article surveillance system
 KW  - Intermediate frequency magnetic field
-ER  - 
-
-TY  - JOUR
-AU  - Petitdant N
-AU  - Lecomte A
-AU  - Robidel F
-AU  - Gamez C
-AU  - Blazy K
-AU  - Villégier AS
-TI  - Alteration of adaptive behaviors of progeny after maternal mobile phone exposure.
-JO  - Environmental science and pollution research international
-PY  - 2018
-VL  - 25
-SP  - 10894-10903
-AB  - Exposure of pregnant women to radiofrequency (RF) devices raises questions on their possible health consequences for their progeny. We examined the hazard threshold of gestational RF on the progeny's glial homeostasis, sensory-motor gating, emotionality, and novelty seeking and tested whether maternal immune activation would increase RF toxicity. Pregnant dams were daily restrained with loop antennas adjoining the abdomen (fetus body specific absorption rates (SAR): 0, 0.7, or 2.6 W/kg) and received three lipopolysaccharide (LPS) intra-peritoneal injections (0 or 80 μg/kg). Scores in the prepulse startle inhibition, fear conditioning, open field, and elevated plus maze were assessed at adolescence and adulthood. Glial fibrillary acidic protein (GFAP) and interleukines-1β (ILs) were quantified. LPS induced a SAR-dependent reduction of the prepulse startle inhibition in adults. Activity in the open field was reduced at 2.6 W/kg at adolescence. GFAP and ILs, emotional memory, and anxiety-related behaviors were not modified. These data support the hypothesis that maternal immune activation increased the developmental RF exposure-induced long-term neurobiological impairments. These data support the fact that fetuses who receive combined environmental exposures with RF need special attention for protection.
-DO  - 10.1007/s11356-017-1178-5
-UR  - https://pubmed.ncbi.nlm.nih.gov/29397508/
-AN  - 29397508
-KW  - modele:in_vivo
-KW  - theme:neuro_comportement_cognition
-KW  - modele:dosimetrie_modelisation
-KW  - theme:neurodeveloppement
-KW  - theme:neuroinflammation
-KW  - Behavior
-KW  - Locomotor activity
-KW  - Mobile phone
-KW  - Neurodevelopment
-KW  - Radiofrequency
-KW  - Sensori-motor processing
 ER  - 
 
 TY  - JOUR
@@ -32807,6 +32787,27 @@ KW  - radiofrequency
 KW  - restraint
 KW  - stress-induced analgesia
 KW  - thermal preference
+ER  - 
+
+TY  - JOUR
+AU  - Azimzadeh M
+AU  - Jelodar G
+TI  - Prenatal and early postnatal exposure to radiofrequency waves (900 MHz) adversely affects passive avoidance learning and memory.
+JO  - Toxicology and industrial health
+PY  - 2020
+VL  - 36
+SP  - 1024-1030
+AB  - Prenatal and early postnatal are the most sensitive and high-risk periods to expose to electromagnetic fields (EMFs). This study aimed to investigate the effect of prenatal and early postnatal exposure to 900 MHz radiofrequency waves (RFWs) emitted from a base transceiver station antenna on passive avoidance learning and memory (PALM) and hippocampus histomorphology. Female Sprague Dawley rats (190-230 g) were paired with males. The mated rats, confirmed by observing a vaginal plug, were divided into two groups; control and exposed. The control group (n = 7) was not exposed to RFW. The exposed group was divided into three subgroups (n = 8); exposed Ⅰ, exposed during the gestational period (fetal life), and exposed Ⅱ and Ⅲ (postnatal exposure), exposed to RFW during the first 21 days of life, for 2 h/d and 4 h/d, respectively. PALM was evaluated by a shuttle box in 45-day-old pups. Learning and memory of animals were demonstrated as the duration of remaining within the light area, which is called the lighting time. Histological sections were prepared from brain tissues and stained with hematoxylin and eosin. An impairment in the PALM performance was noticed in all exposed subgroups (Ⅰ, Ⅱ, and Ⅲ) (p < 0.05). Learning (short-term memory) and retention (long-term memory) behaviors were more affected in exposed subgroup Ⅰ (prenatal exposed) compared to other postnatal exposed subgroups (Ⅱ and Ⅲ). Also, a mild decrease in the density of pyramidal cells was observed in the hippocampus of exposed subgroups (Ⅰ and Ⅲ). Prenatal and early postnatal exposure to 900 MHz RFW adversely affected PALM performance and hippocampus tissue in rat pups with more impact for prenatal period exposure.
+DO  - 10.1177/0748233720973143
+UR  - https://pubmed.ncbi.nlm.nih.gov/33200679/
+AN  - 33200679
+KW  - modele:in_vivo
+KW  - theme:neuro_comportement_cognition
+KW  - theme:neurodeveloppement
+KW  - 900 MHz radiofrequency wave
+KW  - passive avoidance learning and memory
+KW  - postnatal
+KW  - prenatal
 ER  - 
 
 TY  - JOUR
@@ -33804,30 +33805,6 @@ KW  - Dendritic Spines
 ER  - 
 
 TY  - JOUR
-AU  - Keller J
-AU  - Geier U
-AU  - Tran NT
-TI  - In-Depth Analysis of Chlorophyll Fluorescence Rise Kinetics Reveals Interference Effects of a Radiofrequency Electromagnetic Field (RF-EMF) on Plant Hormetic Responses to Drought Stress.
-PY  - 2025
-SP  - 7038
-AB  - The proliferation of telecommunication devices in recent decades has resulted in a substantial increase in exposure risk to manmade radiofrequency electromagnetic fields (RF-EMFs) for both animals and plants. The physiological effects of these exposures remain to be fully elucidated. In this study, we measured and analyzed the chlorophyll fluorescence rise kinetics of lettuce plants in the presence of RF-EMFs and after a short drought treatment. The analysis of the fluorescence data was conducted using two different strategies: a conventional JIP test and a novel machine learning-assisted anomaly-detection approach. Our results suggest that exposure to RF-EMFs weakens the plant's hormetic responses induced by drought treatment, both in terms of the response's magnitude and its extent. These findings provide further evidence supporting the hypothesis that RF-EMFs interfere with plant stress responses.
-DO  - 10.3390/ijms26157038
-UR  - https://pubmed.ncbi.nlm.nih.gov/40806176/
-AN  - 40806176
-KW  - modele:in_vivo
-KW  - theme:neuro_comportement_cognition
-KW  - Photosynthesis
-KW  - Drought
-KW  - Lettuce
-KW  - plant stress
-KW  - Machine Learning
-KW  - Anomaly Detection
-KW  - Radiofrequency Electromagnetic Fields
-KW  - Ojip
-KW  - Fresh And Dry Matter
-ER  - 
-
-TY  - JOUR
 AU  - Fu J
 AU  - Sun Y
 AU  - Jia H
@@ -34015,32 +33992,6 @@ KW  - Blood-brain barrier
 KW  - Combined microwave exposure
 KW  - Hippocampus
 KW  - Neuronal pyroptosis
-ER  - 
-
-TY  - JOUR
-AU  - Hu J
-AU  - Li M
-AU  - Xuan X
-AU  - Li W
-AU  - Li H
-AU  - Liu C
-AU  - Li C
-AU  - Li H
-TI  - Contactless and Wireless Wound Monitoring Using Nitrogen-Doped Graphene Antenna Sensor.
-PY  - 2026
-SP  - 2271-2281
-AB  - Quantitative remote wound monitoring has the potential to shorten patient recovery time and alleviate the workload of healthcare professionals. In this study, a nitrogen-doped horizontally grown graphene (NHG) antenna sensor with a working frequency of 2.45 GHz was designed for wireless real-time monitoring of wounds. The sensor comprises 32 NHG microtubes (1 mm in diameter), a porous Cu radiation electrode, a polydimethylsiloxane substrate with a cylindrical channel array, and a Cu ground plane. Its novel structure enables body fluid and its temperature and pH value sensing by tracking dual signals, such as resonance frequency and return loss, thereby facilitating the identification of living organisms and real-time quantitative wound assessment. Notably, the NHG microtubes, which penetrate the Cu electrode and PDMS substrate, regulate the radiofrequency radiation field and enhance the monitoring sensitivity. The sensor exhibits a minimum fluid response volume of 25 μL, a temperature detection range of 34-43 °C, a resolution of 0.1 °C, and a response time of 20 s. Furthermore, the NHG antenna sensor reliably evaluated the pH value, volume, and area of the wound using a machine learning algorithm. The system was successfully validated for real-time monitoring of wound healing in mice and has been preliminarily applied to monitor wounds of various sizes and locations in human patients.
-DO  - 10.1021/acssensors.5c04094
-UR  - https://pubmed.ncbi.nlm.nih.gov/41774678/
-AN  - 41774678
-KW  - modele:in_vivo
-KW  - theme:neuro_comportement_cognition
-KW  - modele:ingenierie_materiel
-KW  - Wireless
-KW  - Contactless
-KW  - N-doped Graphene
-KW  - Wound Monitoring
-KW  - Antenna Sensor
 ER  - 
 
 TY  - JOUR
@@ -34259,28 +34210,6 @@ KW  - Libido
 KW  - Microwave Frequency
 KW  - 5G Technology
 KW  - Millimetre-wave Frequency
-ER  - 
-
-TY  - JOUR
-AU  - Nain A
-AU  - Panchal I
-AU  - Kumar V
-AU  - Shweta
-AU  - Sharanagouda B
-AU  - Chander Yadav D
-TI  - Evaluation of machine learning models for predicting mastitis in dairy cows using dielectric properties and other milk quality parameters.
-PY  - 2026
-SP  - 106391
-AB  - Early and accurate detection of mastitis is essential for improving udder health, milk quality and dairy farm productivity. This study evaluated machine learning models for estimating somatic cell count (SCC) from physico-chemical milk parameters integrated with dielectric properties and for assigning SCC derived udder health categories. A total of 982 longitudinal milk samples obtained from 100 dairy cows at LUVAS cattle farm (HISAR, HARYANA) were analyzed. Model inputs comprised pH, electrical resistance, fat, protein, lactose, milk temperature, udder surface temperature, and dielectric properties measured at six microwave frequencies (54, 104, 254, 500, 915, and 2450 MHz). Experimentally measured SCC served as target variable and was not included among the input predictors. After prediction, measured and predicted SCC were grouped using thresholds of <2 × 10<sup>5</sup>, 2 × 10<sup>5</sup>-5 × 10<sup>5</sup> and > 5 × 10<sup>5</sup> cells/ml. Feed Forward Neural Network (FFNN), Support Vector Machine (SVM) and Multiple Linear Regression (MLR) models were developed and evaluated using mean square error (MSE), correlation coefficient (R), sensitivity, specificity, and area under the receiver operating characteristic curve (AUC). SVM demonstrated highest predictive performance (MSE = 2152.196, R = 0.98), followed by FFNN (MSE = 2447.60, R = 0.97), while MLR model exhibited lower accuracy (MSE = 13,231.630, R = 0.89). For SCC-based classification, FFNN achieved 100% sensitivity, 97.2% specificity and 0.986 AUC. SVM achieved 100% sensitivity, 98.7% specificity and 0.994 AUC, whereas MLR achieved 85.7% sensitivity, 98.6% specificity and 0.922 AUC. As repeated samples came from same cows, all samples were collected from one farm without external validation. These findings should be considered preliminary.
-DO  - 10.1016/j.rvsc.2026.106391
-UR  - https://pubmed.ncbi.nlm.nih.gov/42715823/
-AN  - 42715823
-KW  - modele:in_vivo
-KW  - theme:neuro_comportement_cognition
-KW  - Dielectric properties
-KW  - Mastitis
-KW  - Physico-chemical
-KW  - Machine Learning Models
 ER  - 
 
 TY  - JOUR
@@ -35196,6 +35125,34 @@ KW  - prenatal exposure
 ER  - 
 
 TY  - JOUR
+AU  - Shirai T
+AU  - Wang J
+AU  - Kawabe M
+AU  - Wake K
+AU  - Watanabe SI
+AU  - Takahashi S
+AU  - Fujiwara O
+TI  - No adverse effects detected for simultaneous whole-body exposure to multiple-frequency radiofrequency electromagnetic fields for rats in the intrauterine and pre- and post-weaning periods.
+JO  - Journal of radiation research
+PY  - 2017
+VL  - 58
+SP  - 48-58
+AB  - In everyday life, people are exposed to radiofrequency (RF) electromagnetic fields (EMFs) with multiple frequencies. To evaluate the possible adverse effects of multifrequency RF EMFs, we performed an experiment in which pregnant rats and their delivered offspring were simultaneously exposed to eight different communication signal EMFs (two of 800 MHz band, two of 2 GHz band, one of 2.4 GHz band, two of 2.5 GHz band and one of 5.2 GHz band). Thirty six pregnant Sprague-Dawley (SD) 10-week-old rats were divided into three groups of 12 rats: one control (sham exposure) group and two experimental (low- and high-level RF EMF exposure) groups. The whole body of the mother rats was exposed to the RF EMFs for 20 h per day from Gestational Day 7 to weaning, and F1 offspring rats (46-48 F1 pups per group) were then exposed up to 6 weeks of age also for 20 h per day. The parameters evaluated included the growth, gestational condition and organ weights of the dams; the survival rates, development, growth, physical and functional development, memory function, and reproductive ability of the F1 offspring; and the embryotoxicity and teratogenicity in the F2 rats. No abnormal findings were observed in the dams or F1 offspring exposed to the RF EMFs or to the F2 offspring for any of the parameters evaluated. Thus, under the conditions of the present experiment, simultaneous whole-body exposure to eight different communication signal EMFs at frequencies between 800 MHz and 5.2 GHz did not show any adverse effects on pregnancy or on the development of rats.
+DO  - 10.1093/jrr/rrw085
+UR  - https://pubmed.ncbi.nlm.nih.gov/27694283/
+AN  - 27694283
+KW  - modele:in_vivo
+KW  - theme:neurodeveloppement
+KW  - theme:reproduction
+KW  - theme:neuro_comportement_cognition
+KW  - biological effect
+KW  - multi-frequency radiofrequency electromagnetic field
+KW  - rat
+KW  - reproductive and developmental toxicity
+KW  - whole-body exposure
+ER  - 
+
+TY  - JOUR
 AU  - Sharma A
 AU  - Kesari KK
 AU  - Saxena VK
@@ -35290,6 +35247,35 @@ KW  - modele:dosimetrie_modelisation
 KW  - theme:reproduction
 KW  - theme:genotoxicite_epigenetique
 KW  - theme:thermique
+ER  - 
+
+TY  - JOUR
+AU  - Petitdant N
+AU  - Lecomte A
+AU  - Robidel F
+AU  - Gamez C
+AU  - Blazy K
+AU  - Villégier AS
+TI  - Alteration of adaptive behaviors of progeny after maternal mobile phone exposure.
+JO  - Environmental science and pollution research international
+PY  - 2018
+VL  - 25
+SP  - 10894-10903
+AB  - Exposure of pregnant women to radiofrequency (RF) devices raises questions on their possible health consequences for their progeny. We examined the hazard threshold of gestational RF on the progeny's glial homeostasis, sensory-motor gating, emotionality, and novelty seeking and tested whether maternal immune activation would increase RF toxicity. Pregnant dams were daily restrained with loop antennas adjoining the abdomen (fetus body specific absorption rates (SAR): 0, 0.7, or 2.6 W/kg) and received three lipopolysaccharide (LPS) intra-peritoneal injections (0 or 80 μg/kg). Scores in the prepulse startle inhibition, fear conditioning, open field, and elevated plus maze were assessed at adolescence and adulthood. Glial fibrillary acidic protein (GFAP) and interleukines-1β (ILs) were quantified. LPS induced a SAR-dependent reduction of the prepulse startle inhibition in adults. Activity in the open field was reduced at 2.6 W/kg at adolescence. GFAP and ILs, emotional memory, and anxiety-related behaviors were not modified. These data support the hypothesis that maternal immune activation increased the developmental RF exposure-induced long-term neurobiological impairments. These data support the fact that fetuses who receive combined environmental exposures with RF need special attention for protection.
+DO  - 10.1007/s11356-017-1178-5
+UR  - https://pubmed.ncbi.nlm.nih.gov/29397508/
+AN  - 29397508
+KW  - modele:in_vivo
+KW  - theme:neurodeveloppement
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuro_comportement_cognition
+KW  - theme:neuroinflammation
+KW  - Behavior
+KW  - Locomotor activity
+KW  - Mobile phone
+KW  - Neurodevelopment
+KW  - Radiofrequency
+KW  - Sensori-motor processing
 ER  - 
 
 TY  - JOUR
@@ -35502,27 +35488,6 @@ KW  - Cell Phone
 KW  - Electrophysiological Properties
 KW  - Prenatal Injuries
 KW  - Purkinje Cells
-ER  - 
-
-TY  - JOUR
-AU  - Azimzadeh M
-AU  - Jelodar G
-TI  - Prenatal and early postnatal exposure to radiofrequency waves (900 MHz) adversely affects passive avoidance learning and memory.
-JO  - Toxicology and industrial health
-PY  - 2020
-VL  - 36
-SP  - 1024-1030
-AB  - Prenatal and early postnatal are the most sensitive and high-risk periods to expose to electromagnetic fields (EMFs). This study aimed to investigate the effect of prenatal and early postnatal exposure to 900 MHz radiofrequency waves (RFWs) emitted from a base transceiver station antenna on passive avoidance learning and memory (PALM) and hippocampus histomorphology. Female Sprague Dawley rats (190-230 g) were paired with males. The mated rats, confirmed by observing a vaginal plug, were divided into two groups; control and exposed. The control group (n = 7) was not exposed to RFW. The exposed group was divided into three subgroups (n = 8); exposed Ⅰ, exposed during the gestational period (fetal life), and exposed Ⅱ and Ⅲ (postnatal exposure), exposed to RFW during the first 21 days of life, for 2 h/d and 4 h/d, respectively. PALM was evaluated by a shuttle box in 45-day-old pups. Learning and memory of animals were demonstrated as the duration of remaining within the light area, which is called the lighting time. Histological sections were prepared from brain tissues and stained with hematoxylin and eosin. An impairment in the PALM performance was noticed in all exposed subgroups (Ⅰ, Ⅱ, and Ⅲ) (p < 0.05). Learning (short-term memory) and retention (long-term memory) behaviors were more affected in exposed subgroup Ⅰ (prenatal exposed) compared to other postnatal exposed subgroups (Ⅱ and Ⅲ). Also, a mild decrease in the density of pyramidal cells was observed in the hippocampus of exposed subgroups (Ⅰ and Ⅲ). Prenatal and early postnatal exposure to 900 MHz RFW adversely affected PALM performance and hippocampus tissue in rat pups with more impact for prenatal period exposure.
-DO  - 10.1177/0748233720973143
-UR  - https://pubmed.ncbi.nlm.nih.gov/33200679/
-AN  - 33200679
-KW  - modele:in_vivo
-KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
-KW  - 900 MHz radiofrequency wave
-KW  - passive avoidance learning and memory
-KW  - postnatal
-KW  - prenatal
 ER  - 
 
 TY  - JOUR
@@ -42474,6 +42439,25 @@ KW  - Taguchi Algorithm
 ER  - 
 
 TY  - JOUR
+AU  - Rasool Khan U
+AU  - Sheikh JA
+AU  - Junaid A
+AU  - Ashraf S
+AU  - Balkhi AA
+TI  - A machine learning driven computationally efficient horse shoe shaped antenna design for internet of medical things.
+PY  - 2025
+SP  - e0305203
+AB  - With bio-medical wearables becoming an essential part of Internet of Medical things (IoMT) for monitoring the health of workers, patients and others in different environments, antenna play a pivotal role in such wearables. In this communication, a novel Horse shoe shaped antenna (HSPA) meant for such wearables is presented. The vitals of the workers, patients etc. are collected and sent to the IoMT platform for ensuring their safety and monitoring their physical wellbeing. In this article, regression-based Machine learning (ML) techniques are used to facilitate the design of Horse shoe shaped patch antenna to predict the frequency of operation, radiation efficiency and Specific Absorption Rate (SAR) values to accelerate its design process for on-body applications. The HSPA designed resonates at 2.45 GHz in the frequency band of 1.75-2.98 GHz with SAR of 1.89 W/kg for an input power of 16.98 dBm, peak gain of 1.91 dBi and radiation efficiency of 62.07% when mounted on the human body. 1080 samples of data comprising of three EM parameters have been generated using a conventional EM tool by varying the physical and electrical parameters of the design. A detailed comparison of the five regression-based ML algorithms is presented, and it is observed that the ML models help in efficient use of resources while designing an antenna for bio-medical applications.
+DO  - 10.1371/journal.pone.0305203
+UR  - https://pubmed.ncbi.nlm.nih.gov/39899529/
+AN  - 39899529
+KW  - modele:ingenierie_materiel
+KW  - theme:dosimetrie_exposition
+KW  - modele:in_vivo
+KW  - modele:dosimetrie_modelisation
+ER  - 
+
+TY  - JOUR
 AU  - Sharma D
 AU  - Tiwari RN
 AU  - Singh DK
@@ -43235,7 +43219,6 @@ AN  - 42351865
 KW  - modele:ingenierie_materiel
 KW  - theme:dosimetrie_exposition
 KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
 KW  - theme:thermique
 KW  - Biotechnology
 KW  - Capsule endoscopy
@@ -43801,26 +43784,6 @@ KW  - modele:dosimetrie_modelisation
 ER  - 
 
 TY  - JOUR
-AU  - Rasool Khan U
-AU  - Sheikh JA
-AU  - Junaid A
-AU  - Ashraf S
-AU  - Balkhi AA
-TI  - A machine learning driven computationally efficient horse shoe shaped antenna design for internet of medical things.
-PY  - 2025
-SP  - e0305203
-AB  - With bio-medical wearables becoming an essential part of Internet of Medical things (IoMT) for monitoring the health of workers, patients and others in different environments, antenna play a pivotal role in such wearables. In this communication, a novel Horse shoe shaped antenna (HSPA) meant for such wearables is presented. The vitals of the workers, patients etc. are collected and sent to the IoMT platform for ensuring their safety and monitoring their physical wellbeing. In this article, regression-based Machine learning (ML) techniques are used to facilitate the design of Horse shoe shaped patch antenna to predict the frequency of operation, radiation efficiency and Specific Absorption Rate (SAR) values to accelerate its design process for on-body applications. The HSPA designed resonates at 2.45 GHz in the frequency band of 1.75-2.98 GHz with SAR of 1.89 W/kg for an input power of 16.98 dBm, peak gain of 1.91 dBi and radiation efficiency of 62.07% when mounted on the human body. 1080 samples of data comprising of three EM parameters have been generated using a conventional EM tool by varying the physical and electrical parameters of the design. A detailed comparison of the five regression-based ML algorithms is presented, and it is observed that the ML models help in efficient use of resources while designing an antenna for bio-medical applications.
-DO  - 10.1371/journal.pone.0305203
-UR  - https://pubmed.ncbi.nlm.nih.gov/39899529/
-AN  - 39899529
-KW  - modele:ingenierie_materiel
-KW  - theme:neuro_comportement_cognition
-KW  - modele:in_vivo
-KW  - modele:dosimetrie_modelisation
-KW  - theme:dosimetrie_exposition
-ER  - 
-
-TY  - JOUR
 AU  - Mazdouri B
 AU  - Mirzavand R
 TI  - Efficient phase shift in metamaterial spoof surface plasmon polaritons waveguides.
@@ -44001,6 +43964,32 @@ KW  - Electrophysiology
 KW  - Microwave
 KW  - Autophagy
 KW  - Ipsc-cms
+ER  - 
+
+TY  - JOUR
+AU  - Fan S
+AU  - Zheng Y
+AU  - Yuan M
+AU  - You Y
+AU  - Chen Y
+AU  - Yao D
+AU  - Li J
+AU  - Gao J
+TI  - Prediction of efficacy and prognosis of PD‑1/PD‑L1 inhibitor combination chemotherapy for gastric cancer using an AI model based on dual‑energy CT: A multicenter study.
+PY  - 2026
+SP  - 113013
+AB  - <h4>Objective</h4>The aim of this study was to evaluate the ability of dual-energy CT (DECT) quantitative parameters and radiomics to predict treatment efficacy and prognosis in gastric cancer patients receiving PD-1/PD-L1 inhibitor-based combination chemotherapy.<h4>Methods</h4>This study enrolled a total of 344 patients with gastric adenocarcinoma, divided into training, validation, external-validation, and cross-platform validation sets. Based on the Immune Response Evaluation Criteria in Solid Tumors (iRECIST) for immunotherapy, patients were classified as responders or non-responders. Clinical features and qualitative and quantitative imaging biomarkers from conventional CT and DECT were evaluated. Five machine learning algorithms were used to integrate imaging biomarker models, independent clinical predictors, and DECT models. A logistic regression model was then constructed based on the integrated data. Model performance was assessed using receiver operating characteristic (ROC) analysis, calibration curves, decision curve analysis (DCA), and the IDI and NRI indices, with subgroup analysis performed to validate the model's generalizability. Kaplan-Meier (KM) survival analysis was conducted to evaluate the association between imaging biomarkers and progression-free survival (PFS) and overall survival (OS).<h4>Results</h4>The logistic regression model was identified as the optimal machine learning model, with AUCs of 0.827 (95% CI: 0.764-0.891), 0.803 (95% CI: 0.695-0.910), 0.775 (95% CI: 0.641-0.909), and 0.781 (95% CI: 0.614-0.948) across the four sets. No significant differences in AUC were observed between the training set and the other sets (DeLong test: P = 0.698, 0.488, and 0.646), indicating stable model performance. Calibration curves indicated good agreement between predicted and observed outcomes across all sets, with Hosmer-Lemeshow test P-values of 0.291, 0.162, 0.918, and 0.281 for the training, validation, test 1, and external test 2 sets, respectively. Brier scores (0.158-0.197) further confirmed high predictive accuracy. DCA showed positive net benefit across wide threshold ranges: 0.02-0.95 (training), 0.19-0.79 (validation), 0.04-0.66 (test 1), and 0.03-0.76 (external test 2). At a 50% threshold, net benefits were 0.160, 0.218, 0.120, and 0.314. Subgroup analyses confirmed robust generalizability (all P > 0.05). KM curves demonstrated that patients in the high-risk group had significantly worse OS and PFS compared with those in the low-risk group. Similarly, patients classified as non-responders by iRECIST had significantly poorer OS and PFS than responders (all P < 0.05, χ<sup>2</sup> = 3.98-13.67).<h4>Conclusion</h4>The DECT-based radiomics model can predict treatment response and prognosis in gastric cancer patients receiving immunotherapy combined with chemotherapy and support individualized treatment planning and optimization of therapeutic strategies.
+DO  - 10.1016/j.ejrad.2026.113013
+UR  - https://pubmed.ncbi.nlm.nih.gov/42372561/
+AN  - 42372561
+KW  - modele:non_classe
+KW  - theme:apoptose_mitochondrie
+KW  - Immunotherapy
+KW  - Gastric cancer
+KW  - Prognosis
+KW  - Machine Learning
+KW  - Dual-energy Ct
+KW  - Radiomics
 ER  - 
 
 TY  - JOUR
@@ -44394,6 +44383,34 @@ KW  - theme:cancer
 KW  - Dual-energy Computed Tomography
 KW  - Muscle-invasive Bladder Cancer
 KW  - Vesical Imaging-reporting And Data System
+ER  - 
+
+TY  - JOUR
+AU  - Takamatsu A
+AU  - Yoneda N
+AU  - Toshima F
+AU  - Kitagawa T
+AU  - Komori T
+AU  - Inoue D
+AU  - Kitao A
+AU  - Kozaka K
+AU  - Matsui O
+AU  - Kobayashi S
+TI  - A Preliminary Study of a Machine Learning Prediction of Poorly Differentiated Hepatocellular Carcinoma Based on a Comprehensive Parameter Analysis Using Dual-Energy Computed Tomography.
+JO  - Journal of computer assisted tomography
+PY  - 2026
+VL  - 50
+AB  - OBJECTIVE: To develop and evaluate the performance of a predictive machine learning model for poorly differentiated hepatocellular carcinoma (p-HCC) using comprehensive quantitative parameters from dual-energy computed tomography (DECT).  MATERIALS AND METHODS: We retrospectively analyzed 181 surgically resected, pathologically proven HCCs in 170 patients who had undergone preoperative DECT between April 2019 and November 2025. After propensity-score matching on age, sex, alpha-fetoprotein (AFP), tumor size on CT, and LI-RADS categories, the dataset was divided into a training set including 51 HCCs (17 p-HCCs and 34 non-p-HCCs) from 2019 to 2022 and a testing set including 33 HCCs (11 p-HCCs, 22 non-p-HCCs) from 2023 to 2025. Overall, 3516 DECT parameters were extracted from precontrast images and three contrast-enhanced images [arterial phase (AP), portal venous phase (PVP), and delayed phase (DP)] for each case. These parameters included virtual monochromatic imaging (VMI) CT values, effective atomic numbers (Effective-Z), material density, spectral curve slopes (Slope), and interphase differences (Diff). Clinical data, including etiology of liver disease, serum AFP level, and lesion size, were collected. A machine learning model based on an extra trees classifier was trained, and a Shapley additive explanations (SHAP) analysis was performed for each selected parameter following data preprocessing. Model performance was evaluated using accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and the area under the receiver operating characteristic curve (AUC).  RESULTS: SHAP analysis revealed that the most highly influential features were delayed phase-related, with the average 40-keV VMI CT value in the delayed phase contributing most strongly. In addition, several Effective-Z-related features and selected material density parameters also showed substantial importance. In the testing set, the model demonstrated an accuracy, sensitivity, specificity, PPV, NPV, and AUC of 0.606, 0.818, 0.500, 0.450, 0.846, and 0.800, respectively.  CONCLUSIONS: The predictive machine learning model for p-HCC showed acceptable diagnostic performance and, although still preliminary, may contribute to a noninvasive assessment of HCC differentiation grades, guiding clinical decision-making.
+DO  - 10.1097/RCT.0000000000001867
+UR  - https://pubmed.ncbi.nlm.nih.gov/41984575/
+AN  - 41984575
+KW  - modele:non_classe
+KW  - theme:cancer
+KW  - computed tomography
+KW  - dual-energy computed tomography
+KW  - hepatocellular carcinoma
+KW  - machine learning
+KW  - poorly differentiated hepatocellular carcinoma
 ER  - 
 
 TY  - JOUR
@@ -46060,6 +46077,30 @@ KW  - Anti-bacterial Agents
 ER  - 
 
 TY  - JOUR
+AU  - Yilmaz A
+AU  - Gencoglan G
+AU  - Varol R
+AU  - Demircali AA
+AU  - Keshavarz M
+AU  - Uvet H
+TI  - MobileSkin: Classification of Skin Lesion Images Acquired Using Mobile Phone-Attached Hand-Held Dermoscopes.
+JO  - Journal of clinical medicine
+PY  - 2022
+VL  - 11
+AB  - Dermoscopy is the visual examination of the skin under a polarized or non-polarized light source. By using dermoscopic equipment, many lesion patterns that are invisible under visible light can be clearly distinguished. Thus, more accurate decisions can be made regarding the treatment of skin lesions. The use of images collected from a dermoscope has both increased the performance of human examiners and allowed the development of deep learning models. The availability of large-scale dermoscopic datasets has allowed the development of deep learning models that can classify skin lesions with high accuracy. However, most dermoscopic datasets contain images that were collected from digital dermoscopic devices, as these devices are frequently used for clinical examination. However, dermatologists also often use non-digital hand-held (optomechanical) dermoscopes. This study presents a dataset consisting of dermoscopic images taken using a mobile phone-attached hand-held dermoscope. Four deep learning models based on the MobileNetV1, MobileNetV2, NASNetMobile, and Xception architectures have been developed to classify eight different lesion types using this dataset. The number of images in the dataset was increased with different data augmentation methods. The models were initialized with weights that were pre-trained on the ImageNet dataset, and then they were further fine-tuned using the presented dataset. The most successful models on the unseen test data, MobileNetV2 and Xception, had performances of 89.18% and 89.64%. The results were evaluated with the 5-fold cross-validation method and compared. Our method allows for automated examination of dermoscopic images taken with mobile phone-attached hand-held dermoscopes.
+DO  - 10.3390/jcm11175102
+UR  - https://pubmed.ncbi.nlm.nih.gov/36079042/
+AN  - 36079042
+KW  - modele:non_classe
+KW  - theme:general
+KW  - deep learning
+KW  - hand-held dermoscope
+KW  - lightweight architectures
+KW  - mobile phone
+KW  - skin cancer
+ER  - 
+
+TY  - JOUR
 AU  - Mallik M
 AU  - Tesfay AA
 AU  - Allaert B
@@ -46099,6 +46140,37 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/36869795/
 AN  - 36869795
 KW  - modele:non_classe
 KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Assaad S
+AU  - Dov D
+AU  - Davis R
+AU  - Kovalsky S
+AU  - Lee WT
+AU  - Kahmke R
+AU  - Rocke D
+AU  - Cohen J
+AU  - Henao R
+AU  - Carin L
+AU  - Range DE
+TI  - Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning.
+JO  - Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc
+PY  - 2023
+VL  - 36
+SP  - 100129
+AB  - We examined the performance of deep learning models on the classification of thyroid fine-needle aspiration biopsies using microscope images captured in 2 ways: with a high-resolution scanner and with a mobile phone camera. Our training set consisted of images from 964 whole-slide images captured with a high-resolution scanner. Our test set consisted of 100 slides; 20 manually selected regions of interest (ROIs) from each slide were captured in 2 ways as mentioned above. Applying a baseline machine learning algorithm trained on scanner ROIs resulted in performance deterioration when applied to the smartphone ROIs (97.8% area under the receiver operating characteristic curve [AUC], CI = [95.4%, 100.0%] for scanner images vs 89.5% AUC, CI = [82.3%, 96.6%] for mobile images, P = .019). Preliminary analysis via histogram matching showed that the baseline model was overly sensitive to slight color variations in the images (specifically, to color differences between mobile and scanner images). Adding color augmentation during training reduces this sensitivity and narrows the performance gap between mobile and scanner images (97.6% AUC, CI = [95.0%, 100.0%] for scanner images vs 96.0% AUC, CI = [91.8%, 100.0%] for mobile images, P = .309), with both modalities on par with human pathologist performance (95.6% AUC, CI = [91.6%, 99.5%]) for malignancy prediction (P = .398 for pathologist vs scanner and P = .875 for pathologist vs mobile). For indeterminate cases (pathologist-assigned Bethesda category of 3, 4, or 5), color augmentations confer some improvement (88.3% AUC, CI = [73.7%, 100.0%] for the baseline model vs 96.2% AUC, CI = [90.9%, 100.0%] with color augmentations, P = .158). In addition, we found that our model's performance levels off after 15 ROIs, a promising indication that ROI data collection would not be time-consuming for our diagnostic system. Finally, we showed that the model has sensible Bethesda category (TBS) predictions (increasing risk malignancy rate with predicted TBS category, with 0% malignancy for predicted TBS 2 and 100% malignancy for TBS 6).
+DO  - 10.1016/j.modpat.2023.100129
+UR  - https://pubmed.ncbi.nlm.nih.gov/36931041/
+AN  - 36931041
+KW  - modele:non_classe
+KW  - theme:general
+KW  - artificial intelligence
+KW  - cytopathology
+KW  - fine needle aspiration
+KW  - machine learning
+KW  - mobile imaging
+KW  - thyroid
 ER  - 
 
 TY  - JOUR
@@ -46921,6 +46993,32 @@ KW  - haemorrhagic transformation
 ER  - 
 
 TY  - JOUR
+AU  - Stefanopoulou M
+AU  - Sonnenschein TS
+AU  - de Gannes FP
+AU  - Scheider S
+AU  - Vermeulen R
+AU  - Röösli M
+AU  - Huss A
+TI  - Towards a Planetary Health Impact Assessment Framework: Exploring Expert Knowledge and Artificial Intelligence for a RF-EMF Exposure Case-Study.
+JO  - Bioelectromagnetics
+PY  - 2025
+VL  - 46
+SP  - e70038
+AB  - While recent WHO systematic reviews have comprehensively assessed the direct health effects of radiofrequency electromagnetic field (RF-EMF) exposure, its potential indirect impacts on human health via ecosystem disruption remain unstudied. Therefore, we propose a Planetary Health Impact Assessment (PHIA) approach, which incorporates both direct and ecologically mediated pathways. Developing the underlying framework requires a method for organizing and visualizing complex, interdisciplinary knowledge. This study explores an approach for constructing a PHIA framework in the form of knowledge graphs (KGs). Using RF-EMF exposure from mobile telecommunication technologies as a case study, we developed an expert-based KG in collaboration with 12 specialists. We further evaluated the potential of an artificial intelligence (AI)-based tool, incorporating Natural Language Processing (NLP) and Deep Learning, to extract relevant information from scientific literature and generate KGs to explore ways to enhance the expert-based approach. Experts developed and visualized jointly the hypothesized pathways linking RF-EMF exposure to direct health effects on organisms and indirect effects on human health through ecological consequences. The AI tool quickly processed large volumes of literature and visualized it into KGs with varied structures but required extensive expert validation due to limitations in precision and context sensitivity. The expert-based KG can serve as organizer of the available knowledge and as a first step in PHIA development. While AI tools offer potential for exploratory analysis, they currently require substantial human oversight and cannot replace expert judgment. The resulting KGs also identified possible gaps in the scientific literature.
+DO  - 10.1002/bem.70038
+UR  - https://pubmed.ncbi.nlm.nih.gov/41416407/
+AN  - 41416407
+KW  - modele:non_classe
+KW  - theme:general
+KW  - artificial intelligence
+KW  - expert elicitation
+KW  - knowledge graphs
+KW  - mobile telecommunication technologies
+KW  - planetary health
+ER  - 
+
+TY  - JOUR
 AU  - Zhao YJ
 AU  - Yan HT
 AU  - Zhang JX
@@ -47156,6 +47254,33 @@ KW  - Spectral CT
 ER  - 
 
 TY  - JOUR
+AU  - Li K
+AU  - Nagpal P
+AU  - Mullan BF
+AU  - Wu Y
+AU  - Garrett JW
+AU  - Zhang R
+AU  - Qi Z
+AU  - Chen GH
+AU  - Grist TM
+TI  - Image Quality Assessment of Deep Learning-Based Virtual Monoenergetic Images From Single-Energy CT Pulmonary Angiography.
+JO  - Journal of computer assisted tomography
+PY  - 2026
+VL  - 50
+SP  - 263-271
+AB  - OBJECTIVE: Low keV virtual monoenergetic (VME) images are effective in enhancing vessel opacification but require dual-energy CT (DECT), limiting widespread clinical use. Recent advancements in deep learning (DL) enable the generation of VME images from single-energy CT (SECT). However, the performance of the methods has not been evaluated in any clinical use case. The purpose of this work was to assess both objective and subjective image quality of deep learning-based VME images derived from heterogeneous SECT data for pulmonary angiography.  METHODS: In this retrospective study, 52 sets of SECT pulmonary angiography images were processed using a deep learning method to estimate material basis images. 40 keV VME images were generated from heterogeneous SECT data using a pretrained physics-constrained Deep-En-Chroma DL model. Two thoracic radiologists, blinded to the image reconstruction method, evaluated pulmonary vessel opacification and overall image quality on DL-VME and SECT images using 5-point Likert scales. Objective image quality was assessed by measuring enhanced vessel contrast and contrast-to-noise ratio (CNR). Statistical analysis was performed using paired t tests and Mann-Whitney U tests.  RESULTS: Compared with SECT, DL-VME images demonstrated significantly higher subjective image quality score and vessel opacification score ( P ≤0.008). DL-VME yielded a higher average contrast for emboli (1085 vs. 331 HU, P <0.001) and improved CNR (17.8 vs. 11.1, P <0.001). Results of subgroup analysis indicate no significant variation in VME performance across patient sex, scanner model, radiation dose, and tube potential. The vessel opacification scores of both VME and SECT demonstrate dependence on patient weight, with VME providing better vessel opacity for both lighter and heavier patients.  CONCLUSIONS: A measure of 40 keV DL-VME derived from SECT effectively enhances both vessel opacification and image quality in CT pulmonary angiography. The image quality advantage of DL-VME over SECT remains robust across variations in data acquisition and patient variables.
+DO  - 10.1097/RCT.0000000000001812
+UR  - https://pubmed.ncbi.nlm.nih.gov/41384946/
+AN  - 41384946
+KW  - modele:non_classe
+KW  - theme:general
+KW  - CT image quality
+KW  - CT pulmonary angiography
+KW  - deep learning
+KW  - virtual monoenergetic imaging
+ER  - 
+
+TY  - JOUR
 AU  - Ahamed SS
 AU  - Mandal US
 AU  - Lo R
@@ -47224,6 +47349,29 @@ KW  - Colonic neoplasms
 KW  - Lymph nodes
 KW  - Pathology
 KW  - Tomography (X-ray computed)
+ER  - 
+
+TY  - JOUR
+AU  - Jung DC
+AU  - Lee J
+AU  - Lee S
+AU  - Jung SI
+AU  - Lee MS
+AU  - Moon MH
+TI  - Generating Training Data for Ureter Segmentation Using Dual-Energy CT Two-Material Decomposition.
+JO  - Journal of imaging informatics in medicine
+PY  - 2026
+AB  - This study aimed to evaluate the utility of dual-energy CT (DECT)-based two-material decomposition in facilitating the generation of training data for ureter segmentation. This retrospective two-center study included 180 patients who underwent DECT urography between April and July 2020, including 150 from Institution 1 and 30 from Institution 2. Virtual unenhanced (VUE) images were generated from the late excretory phase (LEP) images using a two-material decomposition technique. Ground truth segmentation masks were created by segmenting contrast-filled ureteral regions on LEP images and were then paired with the corresponding VUE images. These VUE images and their corresponding ground truth masks were used to construct training, validation, and test datasets. A deep learning-based segmentation model was developed using the nnU-Net framework. Its performance was evaluated using the Dice coefficient, precision, and recall. In the internal test dataset, the model achieved excellent performance, with a median Dice coefficient of 0.89 (95% CI 0.88-0.90), precision of 0.90 (95% CI 0.88-0.92), and recall of 0.88 (95% CI 0.86-0.91). In contrast, the external validation dataset yielded limited performance, with a median Dice coefficient of 0.43 (95% CI 0.31-0.61) and recall of 0.28 (95% CI 0.18-0.45), while precision remained high at 0.95 (95% CI 0.93-0.96). There were statistically significant differences in all metrics between the internal and external datasets (P < 0.01). DECT-based two-material decomposition is a feasible method for generating training data for ureter segmentation. Although external validation performance was limited, this approach shows promise for ureter segmentation on non-contrast CT scans.
+DO  - 10.1007/s10278-026-01847-w
+UR  - https://pubmed.ncbi.nlm.nih.gov/41588287/
+AN  - 41588287
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Deep learning
+KW  - Dual-energy computed tomography
+KW  - Image segmentation
+KW  - Ureter
+KW  - Virtual unenhanced imaging
 ER  - 
 
 TY  - JOUR
@@ -47321,6 +47469,39 @@ KW  - Cone-beam computed tomography
 KW  - Dual-energy
 KW  - Hemodynamics
 KW  - Pulmonary hypertension
+ER  - 
+
+TY  - JOUR
+AU  - Lin G
+AU  - Chen W
+AU  - Hu W
+AU  - Wu J
+AU  - Xu L
+AU  - Chen Y
+AU  - Zhao T
+AU  - Sun J
+AU  - Xu M
+AU  - Lu C
+AU  - Xia S
+AU  - Chen M
+AU  - Ji J
+AU  - Chen W
+TI  - Development and interpretation of a dual-energy CT-based deep learning radiomics model for predicting new cerebral ischemic lesions after carotid artery stenting: a multicenter study.
+JO  - European radiology
+PY  - 2026
+VL  - 36
+SP  - 4669-4681
+AB  - OBJECTIVES: Early recognition of individuals at elevated risk for new ipsilateral ischemic lesions (NIILs) after carotid artery stenting (CAS) is vital for planning effective preventive interventions. The aim of this study was to develop a deep learning (DL) radiomics model to predict NIILs post-CAS from dual-energy CT (DECT) images.  MATERIALS AND METHODS: This study retrospectively enrolled patients from three centers. Carotid plaques were delineated on multiparametric DECT images. A combined model integrating clinical-radiological, handcrafted radiomics (HCR), and DL features was constructed using a support vector machine algorithm to predict NIILs. The model's performance was assessed through the area under the receiver operating characteristic curve (AUC). To improve the interpretability of the model, SHapley Additive exPlanations (SHAP) analysis was applied.  RESULTS: This study involved 336 patients divided into the training (n = 135), internal validation (n = 58), and external test (n = 143) cohorts. NIILs were present in 38.5%, 37.9%, and 39.9% of the subjects, respectively. Symptomatic events and plaque ulceration were identified as independent risk factors for NIILs. The combined model incorporating 2 clinical-radiological risk factors, 9 HCR features, and 15 DL features demonstrated satisfactory performance in predicting NIILs, with AUCs of 0.908, 0.842, and 0.856 in the three cohorts, respectively. The predictions of the combined model were explained both locally and globally by SHAP analysis.  CONCLUSION: The combined model demonstrated high accuracy in identifying patients at elevated risk for NIILs post-CAS and can serve as an interpretable tool for optimizing treatment strategies.  KEY POINTS: Question Early prediction of new ipsilateral ischemic lesions (NIILs) after carotid artery stenting (CAS) is crucial for timely interventions, but no effective, interpretable predictive method exists. Findings The combined model incorporating deep learning radiomics features extracted from multiparametric dual-energy CT images and clinical-radiological features demonstrated high accuracy in predicting NIILs after CAS. Clinical relevance The combined model offers an interpretable tool for identifying patients at high risk for NIILs post-CAS, potentially improving personalized treatment strategies and patient outcomes by enabling targeted preventive care.
+DO  - 10.1007/s00330-026-12351-8
+UR  - https://pubmed.ncbi.nlm.nih.gov/41639308/
+AN  - 41639308
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Carotid stenosis
+KW  - Deep learning
+KW  - Dual-energy CT
+KW  - New cerebral ischemic lesions
+KW  - Stents
 ER  - 
 
 TY  - JOUR
@@ -47699,6 +47880,34 @@ KW  - theme:general
 KW  - aging
 KW  - electromagnetic interference shielding
 KW  - rolling
+ER  - 
+
+TY  - JOUR
+AU  - Zhao W
+AU  - Li T
+AU  - Zhou X
+AU  - Fan W
+AU  - Wang Y
+AU  - Zhou H
+AU  - Li S
+AU  - Wang J
+AU  - Gu Y
+AU  - Xie Z
+AU  - Su F
+TI  - A multimodal radiomics model to predict disease-free survival in resected non-small cell lung cancer: integrating clinicopathology, dual-energy CT, and deep learning features.
+PY  - 2026
+SP  - 227
+AB  - <h4>Background</h4>Predicting disease-free survival (DFS) after surgery for non-small cell lung cancer (NSCLC) is crucial for personalized treatment decisions. However, traditional clinical models have limited predictive efficacy. Moreover, the combined value of dual-energy computed tomography (DECT) quantitative parameters, radiomic features, and deep learning (DL) in assessing NSCLC prognosis remains unclear. This study aimed to develop and validate a multimodal machine learning model using feature-level fusion to improve the accuracy of predicting postoperative disease recurrence in NSCLC.<h4>Methods</h4>We retrospectively included 171 NSCLC patients who underwent surgical resection and were pathologically confirmed between January 2019 and October 2023. All patients underwent dual-phase DECT scanning preoperatively. We extracted four types of features from multimodal (I) DECT quantitative parameters; (II) clinicopathological features; (III) radiomic features based on PyRadiomics; and (IV) deep features extracted from a pre-trained three-dimensional (3D) DenseNet121 model. We applied a four-step cascading feature selection pipeline to identify the most predictive feature subset. Subsequently, single-modal predictive models were built using seven machine learning algorithms-logistic regression (LR), K-nearest neighbors (KNN), support vector machine (SVM), random forest (RF), extreme random trees (ExtraTrees), naive Bayes, and extreme gradient boosting (XGBoost)-with hyperparameters optimized via five-fold cross-validation. The fusion model employed a feature-level pre-fusion strategy, synchronously training with the same seven algorithms to maintain comparability. The optimal model for each modality was selected based on the area under the receiver operating characteristic (ROC) curve (AUC). Finally, a comprehensive performance comparison was conducted between the selected optimal fusion model and each single-modal champion model and model interpretation.<h4>Results</h4>The Fusion-ExtraTrees model constructed based on 12 optimal features showed great performance on the validation set, with an AUC of 0.889, significantly outperforming the single-modal champion models Clinic-LR, Rad-LR, and DECT-RF (all DeLong test P<0.05). It demonstrated performance similar to DL-3D-DenseNet121 but with better generalization and a lower risk of overfitting. Decision curve analysis (DCA) further confirmed that the fusion model had good clinical net benefit. SHapley Additive exPlanations (SHAP) analysis clearly revealed the contributions of key features from different modalities to the model's predictions, enhancing the model's interpretability.<h4>Conclusions</h4>This study successfully constructed and validated a multimodal machine learning model integrating DECT quantitative parameters, clinical features, radiomics, and DL-3D features. The model demonstrated excellent discriminative ability in predicting DFS after NSCLC surgery and significantly outperformed traditional single-modal models. It offers a reliable decision support tool for personalized post-surgery management of NSCLC patients.
+DO  - 10.21037/jtd-2025-1-2741
+UR  - https://pubmed.ncbi.nlm.nih.gov/41988296/
+AN  - 41988296
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Non-small cell lung cancer (NSCLC)
+KW  - Disease-free Survival (Dfs)
+KW  - Radiomics
+KW  - Dual-energy Computed Tomography (Dect)
+KW  - Deep Learning (Dl)
 ER  - 
 
 TY  - JOUR
@@ -48300,6 +48509,30 @@ KW  - anemia
 KW  - dual-energy computed tomography (DECT)
 KW  - virtual monochromatic image (VMI)
 KW  - virtual non-contrast (VNC)
+ER  - 
+
+TY  - JOUR
+AU  - Kan X
+AU  - Nan B
+AU  - Ni R
+AU  - Wang C
+AU  - Pan Y
+AU  - Liu D
+AU  - Ge Y
+TI  - Evaluation of a dual-energy computed tomography parameter -radiomics combined model for solitary pulmonary nodules.
+PY  - 2026
+SP  - 1778055
+AB  - <h4>Objective</h4>To construct a dual-energy computed tomography (DECT) parameter-radiomics combined model based on DECT quantitative parameters and radiomic features and to evaluate its diagnostic performance in differentiating benign from malignant solitary pulmonary nodules.<h4>Materials and methods</h4>We retrospectively collected data from inpatients who underwent contrast-enhanced thoracic DECT scans at our hospital between June 2018 and November 2024. Quantitative parameters measured and calculated included iodine concentration, effective atomic number, normalized iodine concentration, normalized effective atomic number, spectral Hounsfield unit slope, and extracellular volume fraction. These DECT parameters were used to construct a predictive model. The dataset was randomly divided into training and test sets in a 7:3 ratio. Radiomic features were extracted from mixed-energy images of the arterial and venous phases (A<sub>120kVp</sub> and V<sub>120kVp</sub>) and from 70-keV monoenergetic images (A<sub>70keV</sub> and V<sub>70keV</sub>). Six machine-learning algorithms were used to construct radiomics models, and the optimal model was selected based on performance. This optimal radiomics model was then combined with the DECT parameter model to create the combined model. Model performance was evaluated using accuracy, sensitivity, specificity, and area under the curve (AUC), and model comparisons were performed using the DeLong test (Python). A <i>P</i>-value of<0.05 was considered statistically significant.<h4>Results</h4>In total, 209 patients were enrolled (166 in the malignant group and 43 in the benign group). In the test set, the diagnostic performance of the combined model (AUC = 0.906) exceeded that of the DECT-only radiomics model (AUC = 0.794). The combined model demonstrated an accuracy of 82.5%, sensitivity of 80.0%, and specificity of 92.3%.<h4>Conclusion</h4>The DECT parameter-radiomics combined model effectively differentiated benign from malignant solitary pulmonary nodules and shows promising potential for clinical translation.
+DO  - 10.3389/fonc.2026.1778055
+UR  - https://pubmed.ncbi.nlm.nih.gov/42558213/
+AN  - 42558213
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Pulmonary nodule
+KW  - Machine Learning
+KW  - Dual-energy Ct
+KW  - Radiomics
+KW  - Benign-malignant Differentiation
 ER  - 
 
 TY  - JOUR
@@ -49264,30 +49497,6 @@ KW  - self-efficacy
 ER  - 
 
 TY  - JOUR
-AU  - Yilmaz A
-AU  - Gencoglan G
-AU  - Varol R
-AU  - Demircali AA
-AU  - Keshavarz M
-AU  - Uvet H
-TI  - MobileSkin: Classification of Skin Lesion Images Acquired Using Mobile Phone-Attached Hand-Held Dermoscopes.
-JO  - Journal of clinical medicine
-PY  - 2022
-VL  - 11
-AB  - Dermoscopy is the visual examination of the skin under a polarized or non-polarized light source. By using dermoscopic equipment, many lesion patterns that are invisible under visible light can be clearly distinguished. Thus, more accurate decisions can be made regarding the treatment of skin lesions. The use of images collected from a dermoscope has both increased the performance of human examiners and allowed the development of deep learning models. The availability of large-scale dermoscopic datasets has allowed the development of deep learning models that can classify skin lesions with high accuracy. However, most dermoscopic datasets contain images that were collected from digital dermoscopic devices, as these devices are frequently used for clinical examination. However, dermatologists also often use non-digital hand-held (optomechanical) dermoscopes. This study presents a dataset consisting of dermoscopic images taken using a mobile phone-attached hand-held dermoscope. Four deep learning models based on the MobileNetV1, MobileNetV2, NASNetMobile, and Xception architectures have been developed to classify eight different lesion types using this dataset. The number of images in the dataset was increased with different data augmentation methods. The models were initialized with weights that were pre-trained on the ImageNet dataset, and then they were further fine-tuned using the presented dataset. The most successful models on the unseen test data, MobileNetV2 and Xception, had performances of 89.18% and 89.64%. The results were evaluated with the 5-fold cross-validation method and compared. Our method allows for automated examination of dermoscopic images taken with mobile phone-attached hand-held dermoscopes.
-DO  - 10.3390/jcm11175102
-UR  - https://pubmed.ncbi.nlm.nih.gov/36079042/
-AN  - 36079042
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - deep learning
-KW  - hand-held dermoscope
-KW  - lightweight architectures
-KW  - mobile phone
-KW  - skin cancer
-ER  - 
-
-TY  - JOUR
 AU  - Bi J
 TI  - The Relationship between Mobile Phone Anxiety and Sleep Quality Occupational Therapy in Adolescents and Its Internal Mechanism.
 JO  - Occupational therapy international
@@ -49328,37 +49537,6 @@ KW  - Postoperative outcomes
 KW  - SMS
 KW  - Survey
 KW  - Thyroidectomy
-ER  - 
-
-TY  - JOUR
-AU  - Assaad S
-AU  - Dov D
-AU  - Davis R
-AU  - Kovalsky S
-AU  - Lee WT
-AU  - Kahmke R
-AU  - Rocke D
-AU  - Cohen J
-AU  - Henao R
-AU  - Carin L
-AU  - Range DE
-TI  - Thyroid Cytopathology Cancer Diagnosis from Smartphone Images Using Machine Learning.
-JO  - Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc
-PY  - 2023
-VL  - 36
-SP  - 100129
-AB  - We examined the performance of deep learning models on the classification of thyroid fine-needle aspiration biopsies using microscope images captured in 2 ways: with a high-resolution scanner and with a mobile phone camera. Our training set consisted of images from 964 whole-slide images captured with a high-resolution scanner. Our test set consisted of 100 slides; 20 manually selected regions of interest (ROIs) from each slide were captured in 2 ways as mentioned above. Applying a baseline machine learning algorithm trained on scanner ROIs resulted in performance deterioration when applied to the smartphone ROIs (97.8% area under the receiver operating characteristic curve [AUC], CI = [95.4%, 100.0%] for scanner images vs 89.5% AUC, CI = [82.3%, 96.6%] for mobile images, P = .019). Preliminary analysis via histogram matching showed that the baseline model was overly sensitive to slight color variations in the images (specifically, to color differences between mobile and scanner images). Adding color augmentation during training reduces this sensitivity and narrows the performance gap between mobile and scanner images (97.6% AUC, CI = [95.0%, 100.0%] for scanner images vs 96.0% AUC, CI = [91.8%, 100.0%] for mobile images, P = .309), with both modalities on par with human pathologist performance (95.6% AUC, CI = [91.6%, 99.5%]) for malignancy prediction (P = .398 for pathologist vs scanner and P = .875 for pathologist vs mobile). For indeterminate cases (pathologist-assigned Bethesda category of 3, 4, or 5), color augmentations confer some improvement (88.3% AUC, CI = [73.7%, 100.0%] for the baseline model vs 96.2% AUC, CI = [90.9%, 100.0%] with color augmentations, P = .158). In addition, we found that our model's performance levels off after 15 ROIs, a promising indication that ROI data collection would not be time-consuming for our diagnostic system. Finally, we showed that the model has sensible Bethesda category (TBS) predictions (increasing risk malignancy rate with predicted TBS category, with 0% malignancy for predicted TBS 2 and 100% malignancy for TBS 6).
-DO  - 10.1016/j.modpat.2023.100129
-UR  - https://pubmed.ncbi.nlm.nih.gov/36931041/
-AN  - 36931041
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - artificial intelligence
-KW  - cytopathology
-KW  - fine needle aspiration
-KW  - machine learning
-KW  - mobile imaging
-KW  - thyroid
 ER  - 
 
 TY  - JOUR
@@ -49504,82 +49682,6 @@ KW  - theme:neuro_comportement_cognition
 ER  - 
 
 TY  - JOUR
-AU  - Stefanopoulou M
-AU  - Sonnenschein TS
-AU  - de Gannes FP
-AU  - Scheider S
-AU  - Vermeulen R
-AU  - Röösli M
-AU  - Huss A
-TI  - Towards a Planetary Health Impact Assessment Framework: Exploring Expert Knowledge and Artificial Intelligence for a RF-EMF Exposure Case-Study.
-JO  - Bioelectromagnetics
-PY  - 2025
-VL  - 46
-SP  - e70038
-AB  - While recent WHO systematic reviews have comprehensively assessed the direct health effects of radiofrequency electromagnetic field (RF-EMF) exposure, its potential indirect impacts on human health via ecosystem disruption remain unstudied. Therefore, we propose a Planetary Health Impact Assessment (PHIA) approach, which incorporates both direct and ecologically mediated pathways. Developing the underlying framework requires a method for organizing and visualizing complex, interdisciplinary knowledge. This study explores an approach for constructing a PHIA framework in the form of knowledge graphs (KGs). Using RF-EMF exposure from mobile telecommunication technologies as a case study, we developed an expert-based KG in collaboration with 12 specialists. We further evaluated the potential of an artificial intelligence (AI)-based tool, incorporating Natural Language Processing (NLP) and Deep Learning, to extract relevant information from scientific literature and generate KGs to explore ways to enhance the expert-based approach. Experts developed and visualized jointly the hypothesized pathways linking RF-EMF exposure to direct health effects on organisms and indirect effects on human health through ecological consequences. The AI tool quickly processed large volumes of literature and visualized it into KGs with varied structures but required extensive expert validation due to limitations in precision and context sensitivity. The expert-based KG can serve as organizer of the available knowledge and as a first step in PHIA development. While AI tools offer potential for exploratory analysis, they currently require substantial human oversight and cannot replace expert judgment. The resulting KGs also identified possible gaps in the scientific literature.
-DO  - 10.1002/bem.70038
-UR  - https://pubmed.ncbi.nlm.nih.gov/41416407/
-AN  - 41416407
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - artificial intelligence
-KW  - expert elicitation
-KW  - knowledge graphs
-KW  - mobile telecommunication technologies
-KW  - planetary health
-ER  - 
-
-TY  - JOUR
-AU  - Li K
-AU  - Nagpal P
-AU  - Mullan BF
-AU  - Wu Y
-AU  - Garrett JW
-AU  - Zhang R
-AU  - Qi Z
-AU  - Chen GH
-AU  - Grist TM
-TI  - Image Quality Assessment of Deep Learning-Based Virtual Monoenergetic Images From Single-Energy CT Pulmonary Angiography.
-JO  - Journal of computer assisted tomography
-PY  - 2026
-VL  - 50
-SP  - 263-271
-AB  - OBJECTIVE: Low keV virtual monoenergetic (VME) images are effective in enhancing vessel opacification but require dual-energy CT (DECT), limiting widespread clinical use. Recent advancements in deep learning (DL) enable the generation of VME images from single-energy CT (SECT). However, the performance of the methods has not been evaluated in any clinical use case. The purpose of this work was to assess both objective and subjective image quality of deep learning-based VME images derived from heterogeneous SECT data for pulmonary angiography.  METHODS: In this retrospective study, 52 sets of SECT pulmonary angiography images were processed using a deep learning method to estimate material basis images. 40 keV VME images were generated from heterogeneous SECT data using a pretrained physics-constrained Deep-En-Chroma DL model. Two thoracic radiologists, blinded to the image reconstruction method, evaluated pulmonary vessel opacification and overall image quality on DL-VME and SECT images using 5-point Likert scales. Objective image quality was assessed by measuring enhanced vessel contrast and contrast-to-noise ratio (CNR). Statistical analysis was performed using paired t tests and Mann-Whitney U tests.  RESULTS: Compared with SECT, DL-VME images demonstrated significantly higher subjective image quality score and vessel opacification score ( P ≤0.008). DL-VME yielded a higher average contrast for emboli (1085 vs. 331 HU, P <0.001) and improved CNR (17.8 vs. 11.1, P <0.001). Results of subgroup analysis indicate no significant variation in VME performance across patient sex, scanner model, radiation dose, and tube potential. The vessel opacification scores of both VME and SECT demonstrate dependence on patient weight, with VME providing better vessel opacity for both lighter and heavier patients.  CONCLUSIONS: A measure of 40 keV DL-VME derived from SECT effectively enhances both vessel opacification and image quality in CT pulmonary angiography. The image quality advantage of DL-VME over SECT remains robust across variations in data acquisition and patient variables.
-DO  - 10.1097/RCT.0000000000001812
-UR  - https://pubmed.ncbi.nlm.nih.gov/41384946/
-AN  - 41384946
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - CT image quality
-KW  - CT pulmonary angiography
-KW  - deep learning
-KW  - virtual monoenergetic imaging
-ER  - 
-
-TY  - JOUR
-AU  - Jung DC
-AU  - Lee J
-AU  - Lee S
-AU  - Jung SI
-AU  - Lee MS
-AU  - Moon MH
-TI  - Generating Training Data for Ureter Segmentation Using Dual-Energy CT Two-Material Decomposition.
-JO  - Journal of imaging informatics in medicine
-PY  - 2026
-AB  - This study aimed to evaluate the utility of dual-energy CT (DECT)-based two-material decomposition in facilitating the generation of training data for ureter segmentation. This retrospective two-center study included 180 patients who underwent DECT urography between April and July 2020, including 150 from Institution 1 and 30 from Institution 2. Virtual unenhanced (VUE) images were generated from the late excretory phase (LEP) images using a two-material decomposition technique. Ground truth segmentation masks were created by segmenting contrast-filled ureteral regions on LEP images and were then paired with the corresponding VUE images. These VUE images and their corresponding ground truth masks were used to construct training, validation, and test datasets. A deep learning-based segmentation model was developed using the nnU-Net framework. Its performance was evaluated using the Dice coefficient, precision, and recall. In the internal test dataset, the model achieved excellent performance, with a median Dice coefficient of 0.89 (95% CI 0.88-0.90), precision of 0.90 (95% CI 0.88-0.92), and recall of 0.88 (95% CI 0.86-0.91). In contrast, the external validation dataset yielded limited performance, with a median Dice coefficient of 0.43 (95% CI 0.31-0.61) and recall of 0.28 (95% CI 0.18-0.45), while precision remained high at 0.95 (95% CI 0.93-0.96). There were statistically significant differences in all metrics between the internal and external datasets (P < 0.01). DECT-based two-material decomposition is a feasible method for generating training data for ureter segmentation. Although external validation performance was limited, this approach shows promise for ureter segmentation on non-contrast CT scans.
-DO  - 10.1007/s10278-026-01847-w
-UR  - https://pubmed.ncbi.nlm.nih.gov/41588287/
-AN  - 41588287
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - Deep learning
-KW  - Dual-energy computed tomography
-KW  - Image segmentation
-KW  - Ureter
-KW  - Virtual unenhanced imaging
-ER  - 
-
-TY  - JOUR
 AU  - Sherif S
 AU  - Aboelnaga A
 AU  - Elshemy NS
@@ -49595,39 +49697,6 @@ AN  - 41602187
 KW  - modele:non_classe
 KW  - theme:neuro_comportement_cognition
 KW  - theme:thermique
-ER  - 
-
-TY  - JOUR
-AU  - Lin G
-AU  - Chen W
-AU  - Hu W
-AU  - Wu J
-AU  - Xu L
-AU  - Chen Y
-AU  - Zhao T
-AU  - Sun J
-AU  - Xu M
-AU  - Lu C
-AU  - Xia S
-AU  - Chen M
-AU  - Ji J
-AU  - Chen W
-TI  - Development and interpretation of a dual-energy CT-based deep learning radiomics model for predicting new cerebral ischemic lesions after carotid artery stenting: a multicenter study.
-JO  - European radiology
-PY  - 2026
-VL  - 36
-SP  - 4669-4681
-AB  - OBJECTIVES: Early recognition of individuals at elevated risk for new ipsilateral ischemic lesions (NIILs) after carotid artery stenting (CAS) is vital for planning effective preventive interventions. The aim of this study was to develop a deep learning (DL) radiomics model to predict NIILs post-CAS from dual-energy CT (DECT) images.  MATERIALS AND METHODS: This study retrospectively enrolled patients from three centers. Carotid plaques were delineated on multiparametric DECT images. A combined model integrating clinical-radiological, handcrafted radiomics (HCR), and DL features was constructed using a support vector machine algorithm to predict NIILs. The model's performance was assessed through the area under the receiver operating characteristic curve (AUC). To improve the interpretability of the model, SHapley Additive exPlanations (SHAP) analysis was applied.  RESULTS: This study involved 336 patients divided into the training (n = 135), internal validation (n = 58), and external test (n = 143) cohorts. NIILs were present in 38.5%, 37.9%, and 39.9% of the subjects, respectively. Symptomatic events and plaque ulceration were identified as independent risk factors for NIILs. The combined model incorporating 2 clinical-radiological risk factors, 9 HCR features, and 15 DL features demonstrated satisfactory performance in predicting NIILs, with AUCs of 0.908, 0.842, and 0.856 in the three cohorts, respectively. The predictions of the combined model were explained both locally and globally by SHAP analysis.  CONCLUSION: The combined model demonstrated high accuracy in identifying patients at elevated risk for NIILs post-CAS and can serve as an interpretable tool for optimizing treatment strategies.  KEY POINTS: Question Early prediction of new ipsilateral ischemic lesions (NIILs) after carotid artery stenting (CAS) is crucial for timely interventions, but no effective, interpretable predictive method exists. Findings The combined model incorporating deep learning radiomics features extracted from multiparametric dual-energy CT images and clinical-radiological features demonstrated high accuracy in predicting NIILs after CAS. Clinical relevance The combined model offers an interpretable tool for identifying patients at high risk for NIILs post-CAS, potentially improving personalized treatment strategies and patient outcomes by enabling targeted preventive care.
-DO  - 10.1007/s00330-026-12351-8
-UR  - https://pubmed.ncbi.nlm.nih.gov/41639308/
-AN  - 41639308
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - Carotid stenosis
-KW  - Deep learning
-KW  - Dual-energy CT
-KW  - New cerebral ischemic lesions
-KW  - Stents
 ER  - 
 
 TY  - JOUR
@@ -49677,63 +49746,6 @@ KW  - synthesis design
 ER  - 
 
 TY  - JOUR
-AU  - Takamatsu A
-AU  - Yoneda N
-AU  - Toshima F
-AU  - Kitagawa T
-AU  - Komori T
-AU  - Inoue D
-AU  - Kitao A
-AU  - Kozaka K
-AU  - Matsui O
-AU  - Kobayashi S
-TI  - A Preliminary Study of a Machine Learning Prediction of Poorly Differentiated Hepatocellular Carcinoma Based on a Comprehensive Parameter Analysis Using Dual-Energy Computed Tomography.
-JO  - Journal of computer assisted tomography
-PY  - 2026
-VL  - 50
-AB  - OBJECTIVE: To develop and evaluate the performance of a predictive machine learning model for poorly differentiated hepatocellular carcinoma (p-HCC) using comprehensive quantitative parameters from dual-energy computed tomography (DECT).  MATERIALS AND METHODS: We retrospectively analyzed 181 surgically resected, pathologically proven HCCs in 170 patients who had undergone preoperative DECT between April 2019 and November 2025. After propensity-score matching on age, sex, alpha-fetoprotein (AFP), tumor size on CT, and LI-RADS categories, the dataset was divided into a training set including 51 HCCs (17 p-HCCs and 34 non-p-HCCs) from 2019 to 2022 and a testing set including 33 HCCs (11 p-HCCs, 22 non-p-HCCs) from 2023 to 2025. Overall, 3516 DECT parameters were extracted from precontrast images and three contrast-enhanced images [arterial phase (AP), portal venous phase (PVP), and delayed phase (DP)] for each case. These parameters included virtual monochromatic imaging (VMI) CT values, effective atomic numbers (Effective-Z), material density, spectral curve slopes (Slope), and interphase differences (Diff). Clinical data, including etiology of liver disease, serum AFP level, and lesion size, were collected. A machine learning model based on an extra trees classifier was trained, and a Shapley additive explanations (SHAP) analysis was performed for each selected parameter following data preprocessing. Model performance was evaluated using accuracy, sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and the area under the receiver operating characteristic curve (AUC).  RESULTS: SHAP analysis revealed that the most highly influential features were delayed phase-related, with the average 40-keV VMI CT value in the delayed phase contributing most strongly. In addition, several Effective-Z-related features and selected material density parameters also showed substantial importance. In the testing set, the model demonstrated an accuracy, sensitivity, specificity, PPV, NPV, and AUC of 0.606, 0.818, 0.500, 0.450, 0.846, and 0.800, respectively.  CONCLUSIONS: The predictive machine learning model for p-HCC showed acceptable diagnostic performance and, although still preliminary, may contribute to a noninvasive assessment of HCC differentiation grades, guiding clinical decision-making.
-DO  - 10.1097/RCT.0000000000001867
-UR  - https://pubmed.ncbi.nlm.nih.gov/41984575/
-AN  - 41984575
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - theme:cancer
-KW  - computed tomography
-KW  - dual-energy computed tomography
-KW  - hepatocellular carcinoma
-KW  - machine learning
-KW  - poorly differentiated hepatocellular carcinoma
-ER  - 
-
-TY  - JOUR
-AU  - Zhao W
-AU  - Li T
-AU  - Zhou X
-AU  - Fan W
-AU  - Wang Y
-AU  - Zhou H
-AU  - Li S
-AU  - Wang J
-AU  - Gu Y
-AU  - Xie Z
-AU  - Su F
-TI  - A multimodal radiomics model to predict disease-free survival in resected non-small cell lung cancer: integrating clinicopathology, dual-energy CT, and deep learning features.
-PY  - 2026
-SP  - 227
-AB  - <h4>Background</h4>Predicting disease-free survival (DFS) after surgery for non-small cell lung cancer (NSCLC) is crucial for personalized treatment decisions. However, traditional clinical models have limited predictive efficacy. Moreover, the combined value of dual-energy computed tomography (DECT) quantitative parameters, radiomic features, and deep learning (DL) in assessing NSCLC prognosis remains unclear. This study aimed to develop and validate a multimodal machine learning model using feature-level fusion to improve the accuracy of predicting postoperative disease recurrence in NSCLC.<h4>Methods</h4>We retrospectively included 171 NSCLC patients who underwent surgical resection and were pathologically confirmed between January 2019 and October 2023. All patients underwent dual-phase DECT scanning preoperatively. We extracted four types of features from multimodal (I) DECT quantitative parameters; (II) clinicopathological features; (III) radiomic features based on PyRadiomics; and (IV) deep features extracted from a pre-trained three-dimensional (3D) DenseNet121 model. We applied a four-step cascading feature selection pipeline to identify the most predictive feature subset. Subsequently, single-modal predictive models were built using seven machine learning algorithms-logistic regression (LR), K-nearest neighbors (KNN), support vector machine (SVM), random forest (RF), extreme random trees (ExtraTrees), naive Bayes, and extreme gradient boosting (XGBoost)-with hyperparameters optimized via five-fold cross-validation. The fusion model employed a feature-level pre-fusion strategy, synchronously training with the same seven algorithms to maintain comparability. The optimal model for each modality was selected based on the area under the receiver operating characteristic (ROC) curve (AUC). Finally, a comprehensive performance comparison was conducted between the selected optimal fusion model and each single-modal champion model and model interpretation.<h4>Results</h4>The Fusion-ExtraTrees model constructed based on 12 optimal features showed great performance on the validation set, with an AUC of 0.889, significantly outperforming the single-modal champion models Clinic-LR, Rad-LR, and DECT-RF (all DeLong test P<0.05). It demonstrated performance similar to DL-3D-DenseNet121 but with better generalization and a lower risk of overfitting. Decision curve analysis (DCA) further confirmed that the fusion model had good clinical net benefit. SHapley Additive exPlanations (SHAP) analysis clearly revealed the contributions of key features from different modalities to the model's predictions, enhancing the model's interpretability.<h4>Conclusions</h4>This study successfully constructed and validated a multimodal machine learning model integrating DECT quantitative parameters, clinical features, radiomics, and DL-3D features. The model demonstrated excellent discriminative ability in predicting DFS after NSCLC surgery and significantly outperformed traditional single-modal models. It offers a reliable decision support tool for personalized post-surgery management of NSCLC patients.
-DO  - 10.21037/jtd-2025-1-2741
-UR  - https://pubmed.ncbi.nlm.nih.gov/41988296/
-AN  - 41988296
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - Non-small cell lung cancer (NSCLC)
-KW  - Disease-free Survival (Dfs)
-KW  - Radiomics
-KW  - Dual-energy Computed Tomography (Dect)
-KW  - Deep Learning (Dl)
-ER  - 
-
-TY  - JOUR
 AU  - Sohn S
 AU  - Kwak DS
 AU  - Lee SW
@@ -49777,33 +49789,6 @@ KW  - Phonon‐field Interaction
 ER  - 
 
 TY  - JOUR
-AU  - Fan S
-AU  - Zheng Y
-AU  - Yuan M
-AU  - You Y
-AU  - Chen Y
-AU  - Yao D
-AU  - Li J
-AU  - Gao J
-TI  - Prediction of efficacy and prognosis of PD‑1/PD‑L1 inhibitor combination chemotherapy for gastric cancer using an AI model based on dual‑energy CT: A multicenter study.
-PY  - 2026
-SP  - 113013
-AB  - <h4>Objective</h4>The aim of this study was to evaluate the ability of dual-energy CT (DECT) quantitative parameters and radiomics to predict treatment efficacy and prognosis in gastric cancer patients receiving PD-1/PD-L1 inhibitor-based combination chemotherapy.<h4>Methods</h4>This study enrolled a total of 344 patients with gastric adenocarcinoma, divided into training, validation, external-validation, and cross-platform validation sets. Based on the Immune Response Evaluation Criteria in Solid Tumors (iRECIST) for immunotherapy, patients were classified as responders or non-responders. Clinical features and qualitative and quantitative imaging biomarkers from conventional CT and DECT were evaluated. Five machine learning algorithms were used to integrate imaging biomarker models, independent clinical predictors, and DECT models. A logistic regression model was then constructed based on the integrated data. Model performance was assessed using receiver operating characteristic (ROC) analysis, calibration curves, decision curve analysis (DCA), and the IDI and NRI indices, with subgroup analysis performed to validate the model's generalizability. Kaplan-Meier (KM) survival analysis was conducted to evaluate the association between imaging biomarkers and progression-free survival (PFS) and overall survival (OS).<h4>Results</h4>The logistic regression model was identified as the optimal machine learning model, with AUCs of 0.827 (95% CI: 0.764-0.891), 0.803 (95% CI: 0.695-0.910), 0.775 (95% CI: 0.641-0.909), and 0.781 (95% CI: 0.614-0.948) across the four sets. No significant differences in AUC were observed between the training set and the other sets (DeLong test: P = 0.698, 0.488, and 0.646), indicating stable model performance. Calibration curves indicated good agreement between predicted and observed outcomes across all sets, with Hosmer-Lemeshow test P-values of 0.291, 0.162, 0.918, and 0.281 for the training, validation, test 1, and external test 2 sets, respectively. Brier scores (0.158-0.197) further confirmed high predictive accuracy. DCA showed positive net benefit across wide threshold ranges: 0.02-0.95 (training), 0.19-0.79 (validation), 0.04-0.66 (test 1), and 0.03-0.76 (external test 2). At a 50% threshold, net benefits were 0.160, 0.218, 0.120, and 0.314. Subgroup analyses confirmed robust generalizability (all P > 0.05). KM curves demonstrated that patients in the high-risk group had significantly worse OS and PFS compared with those in the low-risk group. Similarly, patients classified as non-responders by iRECIST had significantly poorer OS and PFS than responders (all P < 0.05, χ<sup>2</sup> = 3.98-13.67).<h4>Conclusion</h4>The DECT-based radiomics model can predict treatment response and prognosis in gastric cancer patients receiving immunotherapy combined with chemotherapy and support individualized treatment planning and optimization of therapeutic strategies.
-DO  - 10.1016/j.ejrad.2026.113013
-UR  - https://pubmed.ncbi.nlm.nih.gov/42372561/
-AN  - 42372561
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - theme:apoptose_mitochondrie
-KW  - Immunotherapy
-KW  - Gastric cancer
-KW  - Prognosis
-KW  - Machine Learning
-KW  - Dual-energy Ct
-KW  - Radiomics
-ER  - 
-
-TY  - JOUR
 AU  - Bouwman LJ
 AU  - Hermans A
 AU  - Hubert J
@@ -49825,52 +49810,6 @@ KW  - Offshore Wind
 KW  - Subsea Power Cable
 KW  - Benthic Shark
 KW  - Mussel Substrate
-ER  - 
-
-TY  - JOUR
-AU  - Kan X
-AU  - Nan B
-AU  - Ni R
-AU  - Wang C
-AU  - Pan Y
-AU  - Liu D
-AU  - Ge Y
-TI  - Evaluation of a dual-energy computed tomography parameter -radiomics combined model for solitary pulmonary nodules.
-PY  - 2026
-SP  - 1778055
-AB  - <h4>Objective</h4>To construct a dual-energy computed tomography (DECT) parameter-radiomics combined model based on DECT quantitative parameters and radiomic features and to evaluate its diagnostic performance in differentiating benign from malignant solitary pulmonary nodules.<h4>Materials and methods</h4>We retrospectively collected data from inpatients who underwent contrast-enhanced thoracic DECT scans at our hospital between June 2018 and November 2024. Quantitative parameters measured and calculated included iodine concentration, effective atomic number, normalized iodine concentration, normalized effective atomic number, spectral Hounsfield unit slope, and extracellular volume fraction. These DECT parameters were used to construct a predictive model. The dataset was randomly divided into training and test sets in a 7:3 ratio. Radiomic features were extracted from mixed-energy images of the arterial and venous phases (A<sub>120kVp</sub> and V<sub>120kVp</sub>) and from 70-keV monoenergetic images (A<sub>70keV</sub> and V<sub>70keV</sub>). Six machine-learning algorithms were used to construct radiomics models, and the optimal model was selected based on performance. This optimal radiomics model was then combined with the DECT parameter model to create the combined model. Model performance was evaluated using accuracy, sensitivity, specificity, and area under the curve (AUC), and model comparisons were performed using the DeLong test (Python). A <i>P</i>-value of<0.05 was considered statistically significant.<h4>Results</h4>In total, 209 patients were enrolled (166 in the malignant group and 43 in the benign group). In the test set, the diagnostic performance of the combined model (AUC = 0.906) exceeded that of the DECT-only radiomics model (AUC = 0.794). The combined model demonstrated an accuracy of 82.5%, sensitivity of 80.0%, and specificity of 92.3%.<h4>Conclusion</h4>The DECT parameter-radiomics combined model effectively differentiated benign from malignant solitary pulmonary nodules and shows promising potential for clinical translation.
-DO  - 10.3389/fonc.2026.1778055
-UR  - https://pubmed.ncbi.nlm.nih.gov/42558213/
-AN  - 42558213
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - Pulmonary nodule
-KW  - Machine Learning
-KW  - Dual-energy Ct
-KW  - Radiomics
-KW  - Benign-malignant Differentiation
-ER  - 
-
-TY  - JOUR
-AU  - Nain A
-AU  - Panchal I
-AU  - Kumar V
-AU  - Shweta
-AU  - Sharanagouda B
-AU  - Chander Yadav D
-TI  - Evaluation of machine learning models for predicting mastitis in dairy cows using dielectric properties and other milk quality parameters.
-PY  - 2026
-SP  - 106391
-AB  - Early and accurate detection of mastitis is essential for improving udder health, milk quality and dairy farm productivity. This study evaluated machine learning models for estimating somatic cell count (SCC) from physico-chemical milk parameters integrated with dielectric properties and for assigning SCC derived udder health categories. A total of 982 longitudinal milk samples obtained from 100 dairy cows at LUVAS cattle farm (HISAR, HARYANA) were analyzed. Model inputs comprised pH, electrical resistance, fat, protein, lactose, milk temperature, udder surface temperature, and dielectric properties measured at six microwave frequencies (54, 104, 254, 500, 915, and 2450 MHz). Experimentally measured SCC served as target variable and was not included among the input predictors. After prediction, measured and predicted SCC were grouped using thresholds of <2 × 10<sup>5</sup>, 2 × 10<sup>5</sup>-5 × 10<sup>5</sup> and > 5 × 10<sup>5</sup> cells/ml. Feed Forward Neural Network (FFNN), Support Vector Machine (SVM) and Multiple Linear Regression (MLR) models were developed and evaluated using mean square error (MSE), correlation coefficient (R), sensitivity, specificity, and area under the receiver operating characteristic curve (AUC). SVM demonstrated highest predictive performance (MSE = 2152.196, R = 0.98), followed by FFNN (MSE = 2447.60, R = 0.97), while MLR model exhibited lower accuracy (MSE = 13,231.630, R = 0.89). For SCC-based classification, FFNN achieved 100% sensitivity, 97.2% specificity and 0.986 AUC. SVM achieved 100% sensitivity, 98.7% specificity and 0.994 AUC, whereas MLR achieved 85.7% sensitivity, 98.6% specificity and 0.922 AUC. As repeated samples came from same cows, all samples were collected from one farm without external validation. These findings should be considered preliminary.
-DO  - 10.1016/j.rvsc.2026.106391
-UR  - https://pubmed.ncbi.nlm.nih.gov/42715823/
-AN  - 42715823
-KW  - modele:non_classe
-KW  - theme:neuro_comportement_cognition
-KW  - Dielectric properties
-KW  - Mastitis
-KW  - Physico-chemical
-KW  - Machine Learning Models
 ER  - 
 
 TY  - JOUR
@@ -50413,7 +50352,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/35200152/
 AN  - 35200152
 KW  - modele:non_classe
 KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
 KW  - Pakistan
 KW  - low- to middle-income country
 KW  - mobile phone
@@ -50640,7 +50578,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/41657758/
 AN  - 41657758
 KW  - modele:non_classe
 KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
 KW  - Child
 KW  - Computer-assisted
 KW  - Diagnostic image
@@ -50697,7 +50634,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/28144597/
 AN  - 28144597
 KW  - modele:non_classe
 KW  - theme:reproduction
-KW  - theme:neuro_comportement_cognition
 KW  - Electromagnetic Fields
 KW  - Heat
 KW  - Posture
@@ -52602,7 +52538,6 @@ AN  - 41362664
 KW  - modele:revue
 KW  - theme:cancer
 KW  - modele:dosimetrie_modelisation
-KW  - theme:neuro_comportement_cognition
 KW  - theme:dosimetrie_exposition
 KW  - Substrate
 KW  - Brain tumor
@@ -52702,6 +52637,26 @@ KW  - Drug delivery
 KW  - Hyperthermia
 KW  - Magnetic hydrogels
 KW  - Theranostic system
+ER  - 
+
+TY  - JOUR
+AU  - Wu LN
+AU  - Dai XY
+AU  - Wei LJ
+TI  - Research progress on the application of dual energy CT in gastric diseases.
+PY  - 2026
+SP  - 1845195
+AB  - <h4>Background and objective</h4>Early detection and precise preoperative staging of benign and malignant gastric tumors are crucial for tailoring personalized treatment strategies and improving patient prognosis. Dual-energy CT (DECT), through material decomposition techniques, provides multiparametric quantitative information. This enables a transition in gastric imaging from a single morphological assessment to a comprehensive "morphological and functional" evaluation. This review aims to systematically elaborate on the latest advances in the clinical application of DECT for gastric tumor evaluation and other gastric diseases.<h4>Main content</h4>This article reviews recent literature, focusing on the progress of DECT in the diagnosis and treatment of gastric tumors, as well as clinical studies based on quantitative DECT parameters. Key areas covered include the improvement of early detection rates, differentiation of benign and malignant lesions, precise preoperative staging, and therapeutic response assessment.<h4>Conclusion</h4>Dual-energy CT provides rich, multidimensional quantitative metrics for the comprehensive evaluation of gastric tumors, significantly enhancing diagnostic performance and precision. With hardware upgrades and deep integration with artificial intelligence technologies such as deep learning, DECT is poised to play a more central role in the precision medicine and longitudinal management of gastric cancer.
+DO  - 10.3389/fmed.2026.1845195
+UR  - https://pubmed.ncbi.nlm.nih.gov/42318412/
+AN  - 42318412
+KW  - modele:revue
+KW  - theme:cancer
+KW  - Gastric cancer
+KW  - X-ray computed tomography
+KW  - Efficacy evaluation
+KW  - Dual Energy Ct
+KW  - Tnm Staging
 ER  - 
 
 TY  - JOUR
@@ -53325,7 +53280,6 @@ AN  - 34497578
 KW  - modele:revue
 KW  - theme:eeg_sommeil
 KW  - modele:epidemiologie
-KW  - theme:neuro_comportement_cognition
 KW  - epilepsy
 KW  - implantable device
 KW  - seizure
@@ -53420,6 +53374,32 @@ KW  - Radiofrequency electromagnetic fields
 KW  - Sleep
 KW  - Symptoms
 KW  - Well-being
+ER  - 
+
+TY  - JOUR
+AU  - Kavoosi A
+AU  - Mitchell MP
+AU  - Kariyawasam R
+AU  - Fleming JE
+AU  - Lewis P
+AU  - Johansen-Berg H
+AU  - Cagnan H
+AU  - Denison T
+TI  - MorpheusNet: Resource efficient sleep stage classifier for embedded on-line systems.
+JO  - Conference proceedings. IEEE International Conference on Systems, Man, and Cybernetics
+PY  - 2023
+VL  - 2023
+SP  - 2315-2320
+AB  - Sleep Stage Classification (SSC) is a labor-intensive task, requiring experts to examine hours of electrophysiological recordings for manual classification. This is a limiting factor when it comes to leveraging sleep stages for therapeutic purposes. With increasing affordability and expansion of wearable devices, automating SSC may enable deployment of sleep-based therapies at scale. Deep Learning has gained increasing attention as a potential method to automate this process. Previous research has shown accuracy comparable to manual expert scores. However, previous approaches require sizable amount of memory and computational resources. This constrains the ability to classify in real time and deploy models on the edge. To address this gap, we aim to provide a model capable of predicting sleep stages in real-time, without requiring access to external computational sources (e.g., mobile phone, cloud). The algorithm is power efficient to enable use on embedded battery powered systems. Our compact sleep stage classifier can be deployed on most off-the-shelf microcontrollers (MCU) with constrained hardware settings. This is due to the memory footprint of our approach requiring significantly fewer operations. The model was tested on three publicly available data bases and achieved performance comparable to the state of the art, whilst reducing model complexity by orders of magnitude (up to 280 times smaller compared to state of the art). We further optimized the model with quantization of parameters to 8 bits with only an average drop of 0.95% in accuracy. When implemented in firmware, the quantized model achieves a latency of 1.6 seconds on an Arm Cortex-M4 processor, allowing its use for on-line SSC-based therapies.
+DO  - 10.1109/SMC53992.2023.10394274
+UR  - https://pubmed.ncbi.nlm.nih.gov/38384281/
+AN  - 38384281
+KW  - modele:revue
+KW  - theme:eeg_sommeil
+KW  - theme:neuro_comportement_cognition
+KW  - SSC
+KW  - deep learning
+KW  - resource efficient
 ER  - 
 
 TY  - JOUR
@@ -54219,6 +54199,31 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/39105157/
 AN  - 39105157
 KW  - modele:revue
 KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Barlow R
+AU  - Bewley A
+AU  - Gkini MA
+TI  - AI in Psoriatic Disease: Scoping Review.
+JO  - JMIR dermatology
+PY  - 2024
+VL  - 7
+SP  - e50451
+AB  - BACKGROUND: Artificial intelligence (AI) has many applications in numerous medical fields, including dermatology. Although the majority of AI studies in dermatology focus on skin cancer, there is growing interest in the applicability of AI models in inflammatory diseases, such as psoriasis. Psoriatic disease is a chronic, inflammatory, immune-mediated systemic condition with multiple comorbidities and a significant impact on patients' quality of life. Advanced treatments, including biologics and small molecules, have transformed the management of psoriatic disease. Nevertheless, there are still considerable unmet needs. Globally, delays in the diagnosis of the disease and its severity are common due to poor access to health care systems. Moreover, despite the abundance of treatments, we are unable to predict which is the right medication for the right patient, especially in resource-limited settings. AI could be an additional tool to address those needs. In this way, we can improve rates of diagnosis, accurately assess severity, and predict outcomes of treatment.  OBJECTIVE: This study aims to provide an up-to-date literature review on the use of AI in psoriatic disease, including diagnostics and clinical management as well as addressing the limitations in applicability.  METHODS: We searched the databases MEDLINE, PubMed, and Embase using the keywords "AI AND psoriasis OR psoriatic arthritis OR psoriatic disease," "machine learning AND psoriasis OR psoriatic arthritis OR psoriatic disease," and "prognostic model AND psoriasis OR psoriatic arthritis OR psoriatic disease" until June 1, 2023. Reference lists of relevant papers were also cross-examined for other papers not detected in the initial search.  RESULTS: Our literature search yielded 38 relevant papers. AI has been identified as a key component in digital health technologies. Within this field, there is the potential to apply specific techniques such as machine learning and deep learning to address several aspects of managing psoriatic disease. This includes diagnosis, particularly useful for remote teledermatology via photographs taken by patients as well as monitoring and estimating severity. Similarly, AI can be used to synthesize the vast data sets already in place through patient registries which can help identify appropriate biologic treatments for future cohorts and those individuals most likely to develop complications.  CONCLUSIONS: There are multiple advantageous uses for AI and digital health technologies in psoriatic disease. With wider implementation of AI, we need to be mindful of potential limitations, such as validation and standardization or generalizability of results in specific populations, such as patients with darker skin phototypes.
+DO  - 10.2196/50451
+UR  - https://pubmed.ncbi.nlm.nih.gov/39413371/
+AN  - 39413371
+KW  - modele:revue
+KW  - theme:general
+KW  - artificial intelligence
+KW  - biologics
+KW  - machine learning
+KW  - mobile phone
+KW  - prognostic models
+KW  - psoriasis
+KW  - psoriatic arthritis
+KW  - psoriatic disease
 ER  - 
 
 TY  - JOUR
@@ -55871,32 +55876,6 @@ KW  - Electromagnetic Hypersensitivity
 ER  - 
 
 TY  - JOUR
-AU  - Kavoosi A
-AU  - Mitchell MP
-AU  - Kariyawasam R
-AU  - Fleming JE
-AU  - Lewis P
-AU  - Johansen-Berg H
-AU  - Cagnan H
-AU  - Denison T
-TI  - MorpheusNet: Resource efficient sleep stage classifier for embedded on-line systems.
-JO  - Conference proceedings. IEEE International Conference on Systems, Man, and Cybernetics
-PY  - 2023
-VL  - 2023
-SP  - 2315-2320
-AB  - Sleep Stage Classification (SSC) is a labor-intensive task, requiring experts to examine hours of electrophysiological recordings for manual classification. This is a limiting factor when it comes to leveraging sleep stages for therapeutic purposes. With increasing affordability and expansion of wearable devices, automating SSC may enable deployment of sleep-based therapies at scale. Deep Learning has gained increasing attention as a potential method to automate this process. Previous research has shown accuracy comparable to manual expert scores. However, previous approaches require sizable amount of memory and computational resources. This constrains the ability to classify in real time and deploy models on the edge. To address this gap, we aim to provide a model capable of predicting sleep stages in real-time, without requiring access to external computational sources (e.g., mobile phone, cloud). The algorithm is power efficient to enable use on embedded battery powered systems. Our compact sleep stage classifier can be deployed on most off-the-shelf microcontrollers (MCU) with constrained hardware settings. This is due to the memory footprint of our approach requiring significantly fewer operations. The model was tested on three publicly available data bases and achieved performance comparable to the state of the art, whilst reducing model complexity by orders of magnitude (up to 280 times smaller compared to state of the art). We further optimized the model with quantization of parameters to 8 bits with only an average drop of 0.95% in accuracy. When implemented in firmware, the quantized model achieves a latency of 1.6 seconds on an Arm Cortex-M4 processor, allowing its use for on-line SSC-based therapies.
-DO  - 10.1109/SMC53992.2023.10394274
-UR  - https://pubmed.ncbi.nlm.nih.gov/38384281/
-AN  - 38384281
-KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
-KW  - theme:eeg_sommeil
-KW  - SSC
-KW  - deep learning
-KW  - resource efficient
-ER  - 
-
-TY  - JOUR
 AU  - Röösli M
 AU  - Dongus S
 AU  - Jalilian H
@@ -56091,31 +56070,6 @@ KW  - wrist-worn accelerometry
 ER  - 
 
 TY  - JOUR
-AU  - Barlow R
-AU  - Bewley A
-AU  - Gkini MA
-TI  - AI in Psoriatic Disease: Scoping Review.
-JO  - JMIR dermatology
-PY  - 2024
-VL  - 7
-SP  - e50451
-AB  - BACKGROUND: Artificial intelligence (AI) has many applications in numerous medical fields, including dermatology. Although the majority of AI studies in dermatology focus on skin cancer, there is growing interest in the applicability of AI models in inflammatory diseases, such as psoriasis. Psoriatic disease is a chronic, inflammatory, immune-mediated systemic condition with multiple comorbidities and a significant impact on patients' quality of life. Advanced treatments, including biologics and small molecules, have transformed the management of psoriatic disease. Nevertheless, there are still considerable unmet needs. Globally, delays in the diagnosis of the disease and its severity are common due to poor access to health care systems. Moreover, despite the abundance of treatments, we are unable to predict which is the right medication for the right patient, especially in resource-limited settings. AI could be an additional tool to address those needs. In this way, we can improve rates of diagnosis, accurately assess severity, and predict outcomes of treatment.  OBJECTIVE: This study aims to provide an up-to-date literature review on the use of AI in psoriatic disease, including diagnostics and clinical management as well as addressing the limitations in applicability.  METHODS: We searched the databases MEDLINE, PubMed, and Embase using the keywords "AI AND psoriasis OR psoriatic arthritis OR psoriatic disease," "machine learning AND psoriasis OR psoriatic arthritis OR psoriatic disease," and "prognostic model AND psoriasis OR psoriatic arthritis OR psoriatic disease" until June 1, 2023. Reference lists of relevant papers were also cross-examined for other papers not detected in the initial search.  RESULTS: Our literature search yielded 38 relevant papers. AI has been identified as a key component in digital health technologies. Within this field, there is the potential to apply specific techniques such as machine learning and deep learning to address several aspects of managing psoriatic disease. This includes diagnosis, particularly useful for remote teledermatology via photographs taken by patients as well as monitoring and estimating severity. Similarly, AI can be used to synthesize the vast data sets already in place through patient registries which can help identify appropriate biologic treatments for future cohorts and those individuals most likely to develop complications.  CONCLUSIONS: There are multiple advantageous uses for AI and digital health technologies in psoriatic disease. With wider implementation of AI, we need to be mindful of potential limitations, such as validation and standardization or generalizability of results in specific populations, such as patients with darker skin phototypes.
-DO  - 10.2196/50451
-UR  - https://pubmed.ncbi.nlm.nih.gov/39413371/
-AN  - 39413371
-KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
-KW  - artificial intelligence
-KW  - biologics
-KW  - machine learning
-KW  - mobile phone
-KW  - prognostic models
-KW  - psoriasis
-KW  - psoriatic arthritis
-KW  - psoriatic disease
-ER  - 
-
-TY  - JOUR
 AU  - Deruelle F
 TI  - Microwave radiofrequencies, 5G, 6G, graphene nanomaterials: Technologies used in neurological warfare.
 PY  - 2024
@@ -56248,49 +56202,6 @@ KW  - Vitrification
 KW  - Electromagnetic Warming
 KW  - Radiofrequency Warming
 KW  - Dielectric Warming
-ER  - 
-
-TY  - JOUR
-AU  - Rastogi A
-AU  - Mazumder A
-AU  - Pentela B
-TI  - From History to Innovation: Pathophysiology and the Evolving Landscape of Urolithiasis Diagnosis and Treatment.
-JO  - Current pharmaceutical design
-PY  - 2026
-AB  - Urolithiasis is a multicomponent illness described by the production of calcified stones within the urinary tract. It remains an important global health issue due to its frequency, recurrence, and cost. Urine supersaturation, crystal nucleation, development, aggregation, and retention are all steps in the stone formation process that are influenced by environmental, genetic, and metabolic factors. Calcium oxalate and calcium phosphate account for the majority of cases, whereas uric acid or infection stones develop in the context of particular metabolic or infectious conditions. Breakthroughs in molecular science have uncovered mechanisms such as crystal adhesion, oxidative stress, inflammation, and tubular injury, advancing understanding of disease development. The identification of genetic variants in transporters and metabolic enzymes by genetic studies shows hereditary susceptibility. Innovative diagnostics such as Dual-Energy Computed Tomography (DECT), ultra-low-dose imaging, and machine learning now enable accurate non-invasive characterisation of stones. Technologies like Fourier-Transform Infrared (FTIR), Raman, and micro-spectroscopy, complemented by intraoperative sampling, also facilitate enhanced stone composition analysis. Treatment modalities have evolved from traditional pharmacologic agents like citrate, thiazides, and allopurinol to emerging drugs that target molecular pathways of nucleation and aggregation. New precision-based therapies and innovative formulations are designed to reduce recurrence and enhance outcomes. The future direction focuses on incorporating molecular diagnostics, genomics, and artificial intelligence into practice for individualised management. This review discusses the mechanisms, classification, molecular and genetic determinants, and therapeutic breakthroughs in urolithiasis, emphasising the transition from conventional to emerging approaches and indicating future directions for better patient care.
-DO  - 10.2174/0113816128456160260522052912
-UR  - https://pubmed.ncbi.nlm.nih.gov/42220131/
-AN  - 42220131
-KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
-KW  - theme:stress_oxydatif
-KW  - Urolithiasis
-KW  - calcium oxalate
-KW  - diagnosis
-KW  - genetics
-KW  - pharmacological treatment.
-KW  - urinary stones
-ER  - 
-
-TY  - JOUR
-AU  - Wu LN
-AU  - Dai XY
-AU  - Wei LJ
-TI  - Research progress on the application of dual energy CT in gastric diseases.
-PY  - 2026
-SP  - 1845195
-AB  - <h4>Background and objective</h4>Early detection and precise preoperative staging of benign and malignant gastric tumors are crucial for tailoring personalized treatment strategies and improving patient prognosis. Dual-energy CT (DECT), through material decomposition techniques, provides multiparametric quantitative information. This enables a transition in gastric imaging from a single morphological assessment to a comprehensive "morphological and functional" evaluation. This review aims to systematically elaborate on the latest advances in the clinical application of DECT for gastric tumor evaluation and other gastric diseases.<h4>Main content</h4>This article reviews recent literature, focusing on the progress of DECT in the diagnosis and treatment of gastric tumors, as well as clinical studies based on quantitative DECT parameters. Key areas covered include the improvement of early detection rates, differentiation of benign and malignant lesions, precise preoperative staging, and therapeutic response assessment.<h4>Conclusion</h4>Dual-energy CT provides rich, multidimensional quantitative metrics for the comprehensive evaluation of gastric tumors, significantly enhancing diagnostic performance and precision. With hardware upgrades and deep integration with artificial intelligence technologies such as deep learning, DECT is poised to play a more central role in the precision medicine and longitudinal management of gastric cancer.
-DO  - 10.3389/fmed.2026.1845195
-UR  - https://pubmed.ncbi.nlm.nih.gov/42318412/
-AN  - 42318412
-KW  - modele:revue
-KW  - theme:neuro_comportement_cognition
-KW  - theme:cancer
-KW  - Gastric cancer
-KW  - X-ray computed tomography
-KW  - Efficacy evaluation
-KW  - Dual Energy Ct
-KW  - Tnm Staging
 ER  - 
 
 TY  - JOUR
@@ -57140,7 +57051,6 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42385664/
 AN  - 42385664
 KW  - modele:revue
 KW  - theme:neurodeveloppement
-KW  - theme:neuro_comportement_cognition
 KW  - Abdomen
 KW  - Chest
 KW  - Computed tomography
@@ -58610,6 +58520,27 @@ KW  - Alzheimer’s disease
 KW  - Electromagnetic Radiation
 KW  - Neuronal Damage
 KW  - Wi-fi Exposure Y Neurodegeneration
+ER  - 
+
+TY  - JOUR
+AU  - Rastogi A
+AU  - Mazumder A
+AU  - Pentela B
+TI  - From History to Innovation: Pathophysiology and the Evolving Landscape of Urolithiasis Diagnosis and Treatment.
+JO  - Current pharmaceutical design
+PY  - 2026
+AB  - Urolithiasis is a multicomponent illness described by the production of calcified stones within the urinary tract. It remains an important global health issue due to its frequency, recurrence, and cost. Urine supersaturation, crystal nucleation, development, aggregation, and retention are all steps in the stone formation process that are influenced by environmental, genetic, and metabolic factors. Calcium oxalate and calcium phosphate account for the majority of cases, whereas uric acid or infection stones develop in the context of particular metabolic or infectious conditions. Breakthroughs in molecular science have uncovered mechanisms such as crystal adhesion, oxidative stress, inflammation, and tubular injury, advancing understanding of disease development. The identification of genetic variants in transporters and metabolic enzymes by genetic studies shows hereditary susceptibility. Innovative diagnostics such as Dual-Energy Computed Tomography (DECT), ultra-low-dose imaging, and machine learning now enable accurate non-invasive characterisation of stones. Technologies like Fourier-Transform Infrared (FTIR), Raman, and micro-spectroscopy, complemented by intraoperative sampling, also facilitate enhanced stone composition analysis. Treatment modalities have evolved from traditional pharmacologic agents like citrate, thiazides, and allopurinol to emerging drugs that target molecular pathways of nucleation and aggregation. New precision-based therapies and innovative formulations are designed to reduce recurrence and enhance outcomes. The future direction focuses on incorporating molecular diagnostics, genomics, and artificial intelligence into practice for individualised management. This review discusses the mechanisms, classification, molecular and genetic determinants, and therapeutic breakthroughs in urolithiasis, emphasising the transition from conventional to emerging approaches and indicating future directions for better patient care.
+DO  - 10.2174/0113816128456160260522052912
+UR  - https://pubmed.ncbi.nlm.nih.gov/42220131/
+AN  - 42220131
+KW  - modele:revue
+KW  - theme:stress_oxydatif
+KW  - Urolithiasis
+KW  - calcium oxalate
+KW  - diagnosis
+KW  - genetics
+KW  - pharmacological treatment.
+KW  - urinary stones
 ER  - 
 
 TY  - JOUR
