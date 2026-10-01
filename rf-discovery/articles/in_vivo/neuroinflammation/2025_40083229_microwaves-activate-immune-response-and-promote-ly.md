@@ -8,7 +8,7 @@ titre: Microwaves Activate Immune Response and Promote Lymphocytes Proliferation
 url: https://pubmed.ncbi.nlm.nih.gov/40083229/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Spleen
 - Lymphocytes
@@ -40,6 +40,7 @@ auteurs:
 - Xiangjun H
 - Lifeng W
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70017
 modele: in_vivo

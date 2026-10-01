@@ -8,7 +8,7 @@ titre: Design and development of a graphene-based MIMO antenna for smart multi-b
 url: https://pubmed.ncbi.nlm.nih.gov/41935060/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -19,9 +19,9 @@ mots_cles:
 - Wearable
 - X-band
 - Specific Absorption Rate (Sar)
+- Multi-band
 - Mimo Antenna
 - Sub-6 Ghz 5G
-- Multi-band
 auteurs:
 - Al-Gburi AJA
 - Mohammed NJ
@@ -29,6 +29,7 @@ auteurs:
 - Nurhayati N
 - Ismail MM
 pmcid: PMC13096437
+pdf_local: ''
 volume: ''
 pages: '12873'
 modele: ingenierie_materiel

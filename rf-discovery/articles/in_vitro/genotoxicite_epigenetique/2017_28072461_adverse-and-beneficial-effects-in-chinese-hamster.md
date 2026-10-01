@@ -8,7 +8,7 @@ titre: Adverse and beneficial effects in Chinese hamster lung fibroblast cells f
 url: https://pubmed.ncbi.nlm.nih.gov/28072461/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adaptation, Physiological
 - Animals
@@ -36,6 +36,7 @@ auteurs:
 - Massa R
 - Scarfi MR
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 245-254
 modele: in_vitro

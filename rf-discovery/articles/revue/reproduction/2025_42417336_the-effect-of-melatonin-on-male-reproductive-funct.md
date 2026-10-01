@@ -2,35 +2,36 @@
 pmid: '42417336'
 doi: ''
 annee: 2025
-journal: ''
+journal: 'Urologiia (Moscow, Russia : 1999)'
 titre: '[The effect of melatonin on male reproductive function (indicators of ejaculate)].'
 url: https://pubmed.ncbi.nlm.nih.gov/42417336/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Spermatozoa
-- Animals
-- Humans
-- Infertility, Male
 - Melatonin
-- Antioxidants
-- Oxidative Stress
+- Humans
 - Male
+- Infertility, Male
+- Oxidative Stress
+- Spermatozoa
+- Antioxidants
+- Animals
 types:
-- Review
 - Journal Article
+- Review
 - English Abstract
 mots_cles:
-- Melatonin
-- Oxidative stress
-- Male infertility
+- male infertility
+- melatonin
+- oxidative stress
 auteurs:
 - Neymark A I
 - Davydov A V
 - Yakovlev A V
 - Yershov A V
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 128-133
 modele: revue
@@ -61,7 +62,7 @@ tags:
 
 # [The effect of melatonin on male reproductive function (indicators of ejaculate)].
 
-*journal non renseigné — 2025*
+*Urologiia (Moscow, Russia : 1999) — 2025*
 
 ## Résumé (texte d'origine)
 

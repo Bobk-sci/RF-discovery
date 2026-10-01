@@ -8,7 +8,7 @@ titre: 'Automated tracking of broiler breeder activity and functional area use i
 url: https://pubmed.ncbi.nlm.nih.gov/41435697/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Chickens

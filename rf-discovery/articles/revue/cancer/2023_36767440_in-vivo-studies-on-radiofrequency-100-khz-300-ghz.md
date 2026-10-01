@@ -8,7 +8,7 @@ titre: 'In Vivo Studies on Radiofrequency (100 kHz-300 GHz) Electromagnetic Fiel
 url: https://pubmed.ncbi.nlm.nih.gov/36767440/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -36,6 +36,7 @@ auteurs:
 - Villani P
 - Marino C
 pmcid: PMC9915925
+pdf_local: ''
 volume: ''
 pages: '2071'
 modele: revue

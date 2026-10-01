@@ -8,7 +8,7 @@ titre: Assessment of thyroid iodine accumulation following repeated iodinated co
 url: https://pubmed.ncbi.nlm.nih.gov/41606259/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rabbits

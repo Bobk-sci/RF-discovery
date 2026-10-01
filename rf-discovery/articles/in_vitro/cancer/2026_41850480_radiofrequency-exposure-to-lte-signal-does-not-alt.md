@@ -9,7 +9,7 @@ titre: Radiofrequency exposure to LTE signal does not alter cancer-related endpo
 url: https://pubmed.ncbi.nlm.nih.gov/41850480/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -35,6 +35,7 @@ auteurs:
 - Peluso V
 - Zeni O
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '124292'
 modele: in_vitro

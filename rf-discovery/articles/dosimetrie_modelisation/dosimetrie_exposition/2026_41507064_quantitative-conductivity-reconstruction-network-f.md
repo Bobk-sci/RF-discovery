@@ -8,7 +8,7 @@ titre: Quantitative conductivity reconstruction network for brain hemorrhage det
 url: https://pubmed.ncbi.nlm.nih.gov/41507064/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Image Processing, Computer-Assisted

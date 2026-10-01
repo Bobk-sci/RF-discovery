@@ -8,7 +8,7 @@ titre: Acute effects of radiofrequency electromagnetic field emitted by mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/28426166/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Cell Phone
@@ -31,6 +31,7 @@ auteurs:
 - Sumich A
 - Wang GY
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 329-338
 modele: revue

@@ -8,7 +8,7 @@ titre: 'Comparison of Low-Iodine Concentration Quantification Accuracy and Contr
 url: https://pubmed.ncbi.nlm.nih.gov/41725151/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Iodine
@@ -26,8 +26,8 @@ mots_cles:
 - Iodine Concentration
 - Iodine Map
 - Ct Performance
-- Dual‐Energy Ct
 - Virtual Monoenergetic Image
+- Dual‐Energy Ct
 auteurs:
 - Sirituenlee C
 - Kraison S

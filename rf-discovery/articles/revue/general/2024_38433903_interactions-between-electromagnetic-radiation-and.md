@@ -7,7 +7,7 @@ titre: Interactions between electromagnetic radiation and biological systems.
 url: https://pubmed.ncbi.nlm.nih.gov/38433903/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -25,6 +25,7 @@ auteurs:
 - Tang X
 - Shi Y
 pmcid: PMC10906530
+pdf_local: ''
 volume: ''
 pages: '109201'
 modele: revue

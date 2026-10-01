@@ -8,7 +8,7 @@ titre: 'Trends in Malignant and Benign Brain Tumor Incidence and Mobile Phone Us
 url: https://pubmed.ncbi.nlm.nih.gov/40566359/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Neuroma, Acoustic
@@ -40,6 +40,7 @@ auteurs:
 - Zhang L
 - Muscat JE
 pmcid: PMC12193503
+pdf_local: ''
 volume: ''
 pages: '933'
 modele: epidemiologie

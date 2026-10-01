@@ -8,7 +8,7 @@ titre: Controlling Microwave Energy Absorption in Aluminum Particle Compacts by 
 url: https://doi.org/10.21203/rs.3.rs-7951169/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -18,6 +18,7 @@ auteurs:
 - Malek MI
 - Pantoya M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: non_classe

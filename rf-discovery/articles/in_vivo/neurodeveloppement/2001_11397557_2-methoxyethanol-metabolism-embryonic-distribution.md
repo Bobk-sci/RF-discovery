@@ -8,7 +8,7 @@ titre: '2-Methoxyethanol metabolism, embryonic distribution, and macromolecular 
 url: https://pubmed.ncbi.nlm.nih.gov/11397557/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Acetates
 - Animals
@@ -41,6 +41,7 @@ auteurs:
 - Conover DL
 - DeBord DG
 pmcid: ''
+pdf_local: ''
 volume: '122'
 pages: 53-67
 modele: in_vivo

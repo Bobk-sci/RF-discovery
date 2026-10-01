@@ -8,7 +8,7 @@ titre: Effect of Exposure to 900 MHz GSM Mobile Phone Radiofrequency Radiation o
 url: https://pubmed.ncbi.nlm.nih.gov/28451581/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Saeb S
 - Shokrpour N
 pmcid: PMC5401136
+pdf_local: ''
 volume: '7'
 pages: 79-86
 modele: in_vivo

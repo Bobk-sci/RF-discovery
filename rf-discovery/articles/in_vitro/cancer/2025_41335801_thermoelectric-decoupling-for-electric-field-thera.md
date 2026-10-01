@@ -1,19 +1,21 @@
 ---
 pmid: '41335801'
-doi: 10.1109/embc58623.2025.11253636
+doi: 10.1109/EMBC58623.2025.11253636
 annee: 2025
-journal: ''
+journal: Annual International Conference of the IEEE Engineering in Medicine and Biology
+  Society. IEEE Engineering in Medicine and Biology Society. Annual International
+  Conference
 titre: Thermoelectric Decoupling for Electric Field Therapy in Glioblastoma.
 url: https://pubmed.ncbi.nlm.nih.gov/41335801/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Cell Line, Tumor
-- Humans
 - Glioblastoma
-- Brain Neoplasms
+- Humans
 - Electric Stimulation Therapy
+- Brain Neoplasms
+- Cell Line, Tumor
 - Electromagnetic Fields
 types:
 - Journal Article
@@ -25,7 +27,8 @@ auteurs:
 - Zhao S
 - Zhang A
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '2025'
 pages: 1-5
 modele: in_vitro
 modele_score: 1003.0
@@ -51,7 +54,7 @@ tags:
 
 # Thermoelectric Decoupling for Electric Field Therapy in Glioblastoma.
 
-*journal non renseigné — 2025*
+*Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference — 2025*
 
 ## Résumé (texte d'origine)
 

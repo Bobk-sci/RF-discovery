@@ -8,7 +8,7 @@ titre: Health and safety practices and policies concerning human exposure to RF/
 url: https://pubmed.ncbi.nlm.nih.gov/40761932/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Public Health
@@ -33,6 +33,7 @@ mots_cles:
 auteurs:
 - Lin JC
 pmcid: PMC12318757
+pdf_local: ''
 volume: ''
 pages: '1619781'
 modele: revue

@@ -8,7 +8,7 @@ titre: Assessment of long-term spatio-temporal radiofrequency electromagnetic fi
 url: https://pubmed.ncbi.nlm.nih.gov/29145005/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Communication
@@ -32,6 +32,7 @@ auteurs:
 - Martens L
 - Joseph W
 pmcid: ''
+pdf_local: ''
 volume: '161'
 pages: 136-143
 modele: dosimetrie_modelisation

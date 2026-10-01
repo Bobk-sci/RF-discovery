@@ -8,7 +8,7 @@ titre: Cumulative effects of manganese nanoparticle and radiofrequency radiation
 url: https://pubmed.ncbi.nlm.nih.gov/33111595/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -35,6 +35,7 @@ auteurs:
 - Nirala JP
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: '45'
 pages: 1395-1407
 modele: in_vivo

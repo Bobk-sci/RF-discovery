@@ -8,7 +8,7 @@ titre: Physically mixed graphene aerogel:carbon black (GA:CB)-supported Pt or hy
 url: https://pubmed.ncbi.nlm.nih.gov/42518903/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

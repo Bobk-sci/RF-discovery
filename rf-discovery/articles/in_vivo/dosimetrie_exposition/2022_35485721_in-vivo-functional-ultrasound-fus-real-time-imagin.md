@@ -8,7 +8,7 @@ titre: In Vivo Functional Ultrasound (fUS) Real-Time Imaging and Dosimetry of Mi
 url: https://pubmed.ncbi.nlm.nih.gov/35485721/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -33,6 +33,7 @@ auteurs:
 - Leveque P
 - Arnaud-Cormos D
 pmcid: ''
+pdf_local: ''
 volume: '43'
 pages: 257-267
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Differentiation of tumor budding grade in colon cancer using noise-optimi
 url: https://pubmed.ncbi.nlm.nih.gov/41369899/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Colonic Neoplasms

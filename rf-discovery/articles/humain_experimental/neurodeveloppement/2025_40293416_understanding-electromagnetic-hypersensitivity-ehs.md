@@ -8,7 +8,7 @@ titre: 'Understanding Electromagnetic Hypersensitivity (EHS) From Mobile Phone R
 url: https://pubmed.ncbi.nlm.nih.gov/40293416/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hypersensitivity
@@ -33,6 +33,7 @@ auteurs:
 - Minhat HS
 - Fauzi FA
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70007
 modele: humain_experimental

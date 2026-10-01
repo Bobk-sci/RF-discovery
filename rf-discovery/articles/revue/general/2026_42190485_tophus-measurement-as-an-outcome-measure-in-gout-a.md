@@ -8,7 +8,7 @@ titre: 'Tophus measurement as an outcome measure in gout: an updated systematic 
 url: https://pubmed.ncbi.nlm.nih.gov/42190485/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Gout

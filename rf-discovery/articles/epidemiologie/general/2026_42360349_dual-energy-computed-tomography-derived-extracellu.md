@@ -9,7 +9,7 @@ titre: 'Dual-energy computed tomography-derived extracellular volume fraction an
 url: https://pubmed.ncbi.nlm.nih.gov/42360349/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

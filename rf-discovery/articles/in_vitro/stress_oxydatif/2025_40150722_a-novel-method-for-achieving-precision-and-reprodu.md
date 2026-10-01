@@ -9,7 +9,7 @@ titre: A Novel Method for Achieving Precision and Reproducibility in a 1.8 GHz R
 url: https://pubmed.ncbi.nlm.nih.gov/40150722/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - brief-report
@@ -37,6 +37,7 @@ auteurs:
 - Bertagna F
 - Ahmad M
 pmcid: PMC11939444
+pdf_local: ''
 volume: ''
 pages: '257'
 modele: in_vitro

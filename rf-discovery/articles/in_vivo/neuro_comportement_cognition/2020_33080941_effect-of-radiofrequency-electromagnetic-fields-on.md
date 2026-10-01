@@ -2,43 +2,43 @@
 pmid: '33080941'
 doi: 10.3390/ijerph17207563
 annee: 2020
-journal: ''
+journal: International journal of environmental research and public health
 titre: Effect of Radiofrequency Electromagnetic Fields on Thermal Sensitivity in the
   Rat.
 url: https://pubmed.ncbi.nlm.nih.gov/33080941/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Brain
 - Animals
+- Behavior, Animal
+- Brain
+- Electromagnetic Fields
 - Humans
+- Pain Perception
+- Radio Waves
 - Rats
 - Sensitivity and Specificity
-- Behavior, Animal
-- Temperature
 - Skin Temperature
-- Electromagnetic Fields
-- Radio Waves
-- Pain Perception
+- Temperature
 types:
-- Research Support, Non-U.S. Gov't
-- research-article
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles:
-- Nociception
-- Electromagnetic fields
-- Radiofrequency
-- Restraint
-- Thermal Preference
-- Stress-induced Analgesia
+- electromagnetic fields
+- nociception
+- radiofrequency
+- restraint
+- stress-induced analgesia
+- thermal preference
 auteurs:
 - Ouadah NS
 - Blazy K
 - Villégier AS
 pmcid: PMC7589172
-volume: ''
-pages: E7563
+pdf_local: ''
+volume: '17'
+pages: ''
 modele: in_vivo
 modele_score: 6.5
 modele_secondaires:
@@ -66,7 +66,7 @@ tags:
 
 # Effect of Radiofrequency Electromagnetic Fields on Thermal Sensitivity in the Rat.
 
-*journal non renseigné — 2020*
+*International journal of environmental research and public health — 2020*
 
 ## Résumé (texte d'origine)
 

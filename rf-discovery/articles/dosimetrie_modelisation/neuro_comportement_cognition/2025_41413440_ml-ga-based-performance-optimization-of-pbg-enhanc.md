@@ -8,7 +8,7 @@ titre: ML/GA-based performance optimization of PBG-enhanced THz microstrip patch
 url: https://pubmed.ncbi.nlm.nih.gov/41413440/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

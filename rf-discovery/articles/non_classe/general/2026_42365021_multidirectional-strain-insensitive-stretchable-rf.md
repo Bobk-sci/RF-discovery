@@ -7,7 +7,7 @@ titre: Multidirectional strain-insensitive stretchable RF electronics.
 url: https://pubmed.ncbi.nlm.nih.gov/42365021/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Cheng H
 - Song C
 pmcid: PMC13454596
+pdf_local: ''
 volume: ''
 pages: '8041'
 modele: non_classe

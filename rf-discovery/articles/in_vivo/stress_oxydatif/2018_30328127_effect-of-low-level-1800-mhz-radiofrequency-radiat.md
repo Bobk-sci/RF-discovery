@@ -8,7 +8,7 @@ titre: Effect of low-level 1800 MHz radiofrequency radiation on the rat sciati
 url: https://pubmed.ncbi.nlm.nih.gov/30328127/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Electrophysiological Phenomena
@@ -39,6 +39,7 @@ auteurs:
 - Sogut F
 - Ozbay E
 pmcid: ''
+pdf_local: ''
 volume: '39'
 pages: 631-643
 modele: in_vivo

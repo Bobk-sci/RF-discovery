@@ -8,7 +8,7 @@ titre: Diagnostic performance of iodine map for differentiating colorectal cance
 url: https://pubmed.ncbi.nlm.nih.gov/41637845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Colorectal Neoplasms

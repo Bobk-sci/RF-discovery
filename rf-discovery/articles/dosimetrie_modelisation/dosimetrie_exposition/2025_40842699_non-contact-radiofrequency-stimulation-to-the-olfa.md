@@ -7,7 +7,7 @@ titre: Non-contact radiofrequency stimulation to the olfactory nerve of human su
 url: https://pubmed.ncbi.nlm.nih.gov/40842699/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -24,6 +24,7 @@ auteurs:
 - Kim NY
 - Jang Y
 pmcid: PMC12367325
+pdf_local: ''
 volume: ''
 pages: '036112'
 modele: dosimetrie_modelisation

@@ -8,7 +8,7 @@ titre: 'Exposure to Low Levels of Radiofrequency Electromagnetic Fields Emitted 
 url: https://pubmed.ncbi.nlm.nih.gov/36818013/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Scoping Review
@@ -32,6 +32,7 @@ auteurs:
 - Mortazavi SMJ
 - S Welsh J
 pmcid: PMC9923247
+pdf_local: ''
 volume: ''
 pages: 3-16
 modele: revue

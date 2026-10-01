@@ -8,7 +8,7 @@ titre: Shielded Relay Coil design to Optimize WPT and SAR for Distributed Wirele
 url: https://pubmed.ncbi.nlm.nih.gov/41337259/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Humans

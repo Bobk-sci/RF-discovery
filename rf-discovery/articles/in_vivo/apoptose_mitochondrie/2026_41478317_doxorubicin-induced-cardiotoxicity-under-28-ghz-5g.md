@@ -8,7 +8,7 @@ titre: 'Doxorubicin-induced cardiotoxicity under 28 GHz 5G-band electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/41478317/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Ascorbic Acid

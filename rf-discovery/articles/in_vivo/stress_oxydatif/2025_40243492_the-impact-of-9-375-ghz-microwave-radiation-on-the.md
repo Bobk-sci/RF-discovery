@@ -8,7 +8,7 @@ titre: The Impact of 9.375 GHz Microwave Radiation on the Emotional and Cognitiv
 url: https://pubmed.ncbi.nlm.nih.gov/40243492/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -49,6 +49,7 @@ auteurs:
 - Zhang C
 - Wang C
 pmcid: PMC11988873
+pdf_local: ''
 volume: ''
 pages: '2871'
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: 'Personal radio use and risk of cancers among police officers in Great Br
 url: https://pubmed.ncbi.nlm.nih.gov/41251127/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Police

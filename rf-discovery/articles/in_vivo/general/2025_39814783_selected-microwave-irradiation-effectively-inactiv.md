@@ -8,7 +8,7 @@ titre: Selected microwave irradiation effectively inactivates airborne avian inf
 url: https://pubmed.ncbi.nlm.nih.gov/39814783/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Birds
@@ -37,6 +37,7 @@ auteurs:
 - Privitera GP
 - Vincentelli AS
 pmcid: PMC11735811
+pdf_local: ''
 volume: ''
 pages: '2021'
 modele: in_vivo

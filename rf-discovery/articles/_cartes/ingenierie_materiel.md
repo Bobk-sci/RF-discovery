@@ -1,13 +1,15 @@
 # ingenierie_materiel
 
-90 articles.
+93 articles.
 
-## cancer (2)
+## cancer (4)
 
+- `2026` [[2026_41829655_telemetry-and-sensing-using-a-dual-element-implant]] — Smida A
 - `2026` [[2026_42144411_a-miniature-bio-inspired-antenna-for-sub-6-ghz-con]] — Nahar T et al.
+- `2025` [[2025_40968852_a-compact-implantable-multiple-input-multiple-outp]] — Smida J et al.
 - `2024` [[2024_39409350_design-and-implementation-of-an-ultra-wideband-wat]] — Tan F, Wang H
 
-## dosimetrie_exposition (64)
+## dosimetrie_exposition (65)
 
 - `2026` [[2026_41533703_mobile-phone-mimo-antenna-array-miniaturization-ba]] — Hou WQ et al.
 - `2026` [[2026_41534213_towards-smarter-pacemakers-robot-shaped-antenna-fo]] — Kaur S et al.
@@ -60,6 +62,7 @@
 - `2024` [[2024_38968022_design-of-electrically-small-intraocular-antenna-f]] — Modak S et al.
 - `2024` [[2024_39121158_design-and-performance-investigation-of-metamateri]] — Ali U et al.
 - `2024` [[2024_39124125_a-compact-wearable-textile-antenna-for-nb-iot-and]] — Sharma D et al.
+- `2024` [[2024_39448728_implantable-small-ultra-wideband-circularly-polari]] — Song Z et al.
 - `2024` [[2024_39472595_miniaturized-circularly-polarized-wearable-array-a]] — Omran M et al.
 - `2024` [[2024_39573685_mechanism-insights-for-impedance-matching-in-split]] — Madhavamoorthi S et al.
 - `2024` [[2024_39636822_design-analysis-and-performance-enhancement-of-a-2]] — Gupta A et al.

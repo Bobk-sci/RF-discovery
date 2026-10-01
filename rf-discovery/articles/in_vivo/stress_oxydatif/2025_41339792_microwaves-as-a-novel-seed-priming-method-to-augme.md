@@ -9,7 +9,7 @@ titre: Microwaves as a novel seed priming method to augment salinity tolerance v
 url: https://pubmed.ncbi.nlm.nih.gov/41339792/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Caryophyllaceae
 - Seeds
@@ -34,6 +34,7 @@ auteurs:
 - Aly WA
 - Ibrahim AK
 pmcid: PMC12690845
+pdf_local: ''
 volume: ''
 pages: '1694'
 modele: in_vivo

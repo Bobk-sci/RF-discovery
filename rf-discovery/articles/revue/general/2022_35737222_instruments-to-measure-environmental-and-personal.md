@@ -2,36 +2,36 @@
 pmid: '35737222'
 doi: 10.1007/s13246-022-01146-y
 annee: 2022
-journal: ''
+journal: Physical and engineering sciences in medicine
 titre: 'Instruments to measure environmental and personal radiofrequency-electromagnetic
   field exposures: an update.'
 url: https://pubmed.ncbi.nlm.nih.gov/35737222/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Humans
-- Electromagnetic Fields
-- Radio Waves
 - Cell Phone
+- Electromagnetic Fields
+- Humans
+- Radio Waves
 types:
-- review-article
-- Review
 - Journal Article
+- Review
 mots_cles:
-- Monitoring Systems
-- Exposure assessment
 - Exposimeters
-- Mobile Phone Exposures
-- Radiofrequency-electromagnetic Exposures
-- Radiofrequency-electromagnetic exposure Assessment
+- Exposure assessment
+- Mobile phone exposures
+- Monitoring systems
+- Radiofrequency-electromagnetic exposures
+- Radiofrequency-electromagnetic exposure assessment
 auteurs:
 - Bhatt CR
 - Henderson S
 - Brzozek C
 - Benke G
 pmcid: PMC9448713
-volume: ''
+pdf_local: ''
+volume: '45'
 pages: 687-704
 modele: revue
 modele_score: 1003.0
@@ -57,7 +57,7 @@ tags:
 
 # Instruments to measure environmental and personal radiofrequency-electromagnetic field exposures: an update.
 
-*journal non renseigné — 2022*
+*Physical and engineering sciences in medicine — 2022*
 
 ## Résumé (texte d'origine)
 

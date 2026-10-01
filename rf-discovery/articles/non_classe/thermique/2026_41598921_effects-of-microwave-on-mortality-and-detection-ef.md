@@ -8,7 +8,7 @@ titre: Effects of Microwave on Mortality and Detection Efficiency of Three Store
 url: https://pubmed.ncbi.nlm.nih.gov/41598921/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Zhao Y
 - Lu Y
 pmcid: PMC12841991
+pdf_local: ''
 volume: ''
 pages: '67'
 modele: non_classe

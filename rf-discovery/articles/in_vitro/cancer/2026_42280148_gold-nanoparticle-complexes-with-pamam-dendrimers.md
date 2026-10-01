@@ -8,7 +8,7 @@ titre: 'Gold Nanoparticle Complexes with PAMAM Dendrimers for In Vitro Cancer Cy
 url: https://pubmed.ncbi.nlm.nih.gov/42280148/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans

@@ -8,7 +8,7 @@ titre: Testicular Heat-Shock Protein Expression in Rats Following 3.5 GHz and 24
 url: https://pubmed.ncbi.nlm.nih.gov/42074096/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Animals
@@ -42,6 +42,7 @@ auteurs:
 - Mohd Bahar MAA
 - Ibrahim SF
 pmcid: PMC13115579
+pdf_local: ''
 volume: ''
 pages: '3452'
 modele: in_vivo

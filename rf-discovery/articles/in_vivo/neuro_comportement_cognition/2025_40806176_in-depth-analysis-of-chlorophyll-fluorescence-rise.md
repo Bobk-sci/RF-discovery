@@ -9,7 +9,7 @@ titre: In-Depth Analysis of Chlorophyll Fluorescence Rise Kinetics Reveals Inter
 url: https://pubmed.ncbi.nlm.nih.gov/40806176/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Chlorophyll
 - Kinetics

@@ -8,7 +8,7 @@ titre: Assessment of RF Electromagnetic Exposure to Car Driver from Monopole Arr
 url: https://pubmed.ncbi.nlm.nih.gov/40432039/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -23,6 +23,7 @@ auteurs:
 - Wang S
 - Lu M
 pmcid: PMC12116098
+pdf_local: ''
 volume: ''
 pages: '3247'
 modele: dosimetrie_modelisation

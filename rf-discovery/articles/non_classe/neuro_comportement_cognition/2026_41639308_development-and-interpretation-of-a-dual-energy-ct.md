@@ -9,7 +9,7 @@ titre: 'Development and interpretation of a dual-energy CT-based deep learning r
 url: https://pubmed.ncbi.nlm.nih.gov/41639308/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiomics

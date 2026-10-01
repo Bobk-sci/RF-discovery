@@ -8,7 +8,7 @@ titre: Interactions of radiofrequency radiation on 2-methoxyethanol teratogenici
 url: https://pubmed.ncbi.nlm.nih.gov/9048225/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Drug-Induced
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Snyder DL
 - Edwards RM
 pmcid: ''
+pdf_local: ''
 volume: '17'
 pages: 31-9
 modele: in_vivo

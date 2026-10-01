@@ -8,7 +8,7 @@ titre: 'Environmental radiofrequency exposure and genotoxic biomarkers in school
 url: https://pubmed.ncbi.nlm.nih.gov/42426191/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Chiang HL
 - How V
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: dosimetrie_modelisation

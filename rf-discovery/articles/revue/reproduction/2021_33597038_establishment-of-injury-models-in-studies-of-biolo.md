@@ -8,7 +8,7 @@ titre: Establishment of injury models in studies of biological effects induced b
 url: https://pubmed.ncbi.nlm.nih.gov/33597038/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rabbits
@@ -37,6 +37,7 @@ auteurs:
 - Wang HY
 - Peng RY
 pmcid: PMC7890848
+pdf_local: ''
 volume: ''
 pages: '12'
 modele: revue

@@ -8,7 +8,7 @@ titre: THE COMPARATIVE STUDY OF THE EFFECT OF LOW-INTENSITY BROADBAND AND LOW-IN
 url: https://doi.org/10.64898/2026.04.09.717366
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint

@@ -8,7 +8,7 @@ titre: Effect of elevation on cumulative radiofrequency exposure from multiple c
 url: https://pubmed.ncbi.nlm.nih.gov/40581953/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -35,6 +35,7 @@ auteurs:
 - Sam F
 - Amoako JK
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 701-708
 modele: dosimetrie_modelisation

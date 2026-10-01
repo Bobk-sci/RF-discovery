@@ -9,7 +9,7 @@ titre: An Exploration of the Effects of Radiofrequency Radiation Emitted by Mobi
 url: https://pubmed.ncbi.nlm.nih.gov/34567874/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -36,6 +36,7 @@ auteurs:
 - Waqar A
 - Poudel S
 pmcid: PMC8451508
+pdf_local: ''
 volume: ''
 pages: e17329
 modele: revue

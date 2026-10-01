@@ -8,7 +8,7 @@ titre: 'Diagnostic performance of dual-energy CT for differentiating acute intra
 url: https://pubmed.ncbi.nlm.nih.gov/41789182/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

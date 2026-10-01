@@ -8,7 +8,7 @@ titre: Diagnostic value of dual-energy CT in differential diagnosis of osteoblas
 url: https://doi.org/10.21203/rs.3.rs-8983390/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint

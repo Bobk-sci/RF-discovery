@@ -8,7 +8,7 @@ titre: SAR-Constrained Wireless Power Transfer Modeling for an Implantable Optic
 url: https://pubmed.ncbi.nlm.nih.gov/41374543/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Wireless Technology
 - Implantable Neurostimulators

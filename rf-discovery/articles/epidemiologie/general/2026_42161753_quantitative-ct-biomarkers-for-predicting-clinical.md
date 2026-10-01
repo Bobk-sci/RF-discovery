@@ -8,8 +8,23 @@ titre: 'Quantitative CT biomarkers for predicting clinical outcomes after prosta
 url: https://pubmed.ncbi.nlm.nih.gov/42161753/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Humans
+- Male
+- Prostatic Hyperplasia
+- Embolization, Therapeutic
+- Prospective Studies
+- Prostate
+- Aged
+- Tomography, X-Ray Computed
+- Treatment Outcome
+- Pilot Projects
+- Biomarkers
+- Contrast Media
+- Aged, 80 and over
+- Arteries
+- Predictive Value of Tests
 types:
 - Journal Article
 mots_cles:
@@ -36,12 +51,13 @@ auteurs:
 - Frandon J
 pmcid: ''
 pdf_local: ''
-volume: ''
-pages: ''
+volume: '107'
+pages: 343-349
 modele: epidemiologie
-modele_score: 1.0
+modele_score: 1001.0
 modele_secondaires: []
 modele_indices:
+- Prospective Studies (descripteur décisif)
 - confidence interval
 theme: general
 theme_score: 0.0

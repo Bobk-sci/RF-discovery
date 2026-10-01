@@ -8,7 +8,7 @@ titre: 'Dual-energy CT-derived fibrosis biomarkers predict pancreatic fistula af
 url: https://pubmed.ncbi.nlm.nih.gov/42208166/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pancreas
 - Humans

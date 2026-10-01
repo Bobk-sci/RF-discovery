@@ -8,8 +8,24 @@ titre: Added value of dual-energy CT to ultrasound assessment for AJCC 8th stagi
 url: https://pubmed.ncbi.nlm.nih.gov/42640753/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Thyroid Gland
+- Humans
+- Thyroid Neoplasms
+- Lymphatic Metastasis
+- Tomography, X-Ray Computed
+- Ultrasonography
+- Neoplasm Staging
+- Sensitivity and Specificity
+- Retrospective Studies
+- Reproducibility of Results
+- Adult
+- Aged
+- Middle Aged
+- Female
+- Male
+- Thyroid Cancer, Papillary
 types:
 - Journal Article
 mots_cles:
@@ -30,7 +46,7 @@ auteurs:
 pmcid: ''
 pdf_local: ''
 volume: ''
-pages: '2841851261477082'
+pages: 831-840
 modele: epidemiologie
 modele_score: 1.0
 modele_secondaires: []

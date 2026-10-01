@@ -8,7 +8,7 @@ titre: Direct measurement of non-thermal microwave effects on bacterial growth a
 url: https://pubmed.ncbi.nlm.nih.gov/40400323/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Staphylococcus aureus
 - Equipment Design
@@ -30,6 +30,7 @@ auteurs:
 - Brown H
 - Williams C
 pmcid: PMC12096104
+pdf_local: ''
 volume: ''
 pages: '20240073'
 modele: dosimetrie_modelisation

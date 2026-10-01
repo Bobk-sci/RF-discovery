@@ -8,7 +8,7 @@ titre: Packaging and Integration of a Dual-Polarized MIMO Antenna with Pattern D
 url: https://pubmed.ncbi.nlm.nih.gov/42301852/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

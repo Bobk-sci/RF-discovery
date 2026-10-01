@@ -8,7 +8,7 @@ titre: Review of the evidence on the influence of Wi-Fi 2.4 GHz radiation on o
 url: https://pubmed.ncbi.nlm.nih.gov/41111969/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Systematic Review
@@ -34,6 +34,7 @@ auteurs:
 - De La Cruz-Vargas J
 - Cruz V
 pmcid: PMC12531076
+pdf_local: ''
 volume: ''
 pages: '1616435'
 modele: revue

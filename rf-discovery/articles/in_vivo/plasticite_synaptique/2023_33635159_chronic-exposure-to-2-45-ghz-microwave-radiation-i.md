@@ -2,33 +2,33 @@
 pmid: '33635159'
 doi: 10.1080/00207454.2021.1896502
 annee: 2023
-journal: The International journal of neuroscience
+journal: ''
 titre: Chronic exposure to 2.45 GHz microwave radiation improves cognition and synaptic
   plasticity impairment in vascular dementia model.
 url: https://pubmed.ncbi.nlm.nih.gov/33635159/
-source: pubmed
+source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Rats
+- Hippocampus
 - Animals
+- Rats
 - Dementia, Vascular
-- Microwaves
+- gamma-Aminobutyric Acid
+- Neurotransmitter Agents
+- Cognition
 - Maze Learning
 - Neuronal Plasticity
 - Long-Term Potentiation
-- Hippocampus
-- Cognition
-- Neurotransmitter Agents
-- gamma-Aminobutyric Acid
+- Microwaves
 types:
 - Journal Article
 mots_cles:
-- Bilateral carotid occlusion
+- Synaptic plasticity
 - LTP
-- Wi-Fi
-- 'memory: neurotransmitter release probability'
-- synaptic plasticity
+- Wi-fi
+- Bilateral Carotid Occlusion
+- 'Memory: Neurotransmitter Release Probability'
 auteurs:
 - Bayat M
 - Karimi N
@@ -38,7 +38,8 @@ auteurs:
 - Akbari S
 - Haghani M
 pmcid: ''
-volume: '133'
+pdf_local: ''
+volume: ''
 pages: 111-122
 modele: in_vivo
 modele_score: 6.0
@@ -72,10 +73,10 @@ tags:
 
 # Chronic exposure to 2.45 GHz microwave radiation improves cognition and synaptic plasticity impairment in vascular dementia model.
 
-*The International journal of neuroscience — 2023*
+*journal non renseigné — 2023*
 
 ## Résumé (texte d'origine)
 
-Purpose: In this study, we evaluated the effects of 2.45 GHz microwave radiation on cognitive dysfunction induced by vascular dementia (VaD).Methods: The VaD was induced by bilateral-common carotid occlusion (2-VO). The rats were divided into 4 groups including: control (n = 6), sham (n = 6), 2-VO (n = 8), and 2-VO + Wi-Fi (n = 10) groups. Wi-Fi modem centrally located at the distance of 25 cm from the animal's cages and the animals were continuously exposed to Wi-Fi signal while they freely moved in the cage (2 h/day for forty-five days). Therefore, the power density (PD) and specific absorption rate value (SAR) decreased at a distance of 25 to 60 cm (PD = 0.018 to 0.0032 mW/cm2, SAR = 0.0346 to 0.0060 W/Kg). The learning, memory, and hippocampal synaptic-plasticity were evaluated by radial arm maze (RAM), passive avoidance (PA), and field-potential recording respectively. The number of hippocampal CA1 cells was also assessed by giemsa staining.Results: Our results showed that VaD model led to impairment in the spatial learning and memory performance in RAM and PA that were associated with long-term potentiation (LTP) impairment, decrease of basal-synaptic transmission (BST), increase of GABA transmission, and decline of neurotransmitter release-probability as well as hippocampal cell loss. Notably, chronic Wi-Fi exposure significantly recovered the learning-memory performance, LTP induction, and cell loss without any effect on BST.Conclusions: The LTP recovery by Wi-Fi in the 2-VO rats was probably related to significant increases in the hippocampal CA1 neuronal density, partial recovery of neurotransmitter release probability, and reduction of GABA transmissiSon as evident by rescue of paired-pulse ratio 10 ms.
+<b>Purpose:</b> In this study, we evaluated the effects of 2.45 GHz microwave radiation on cognitive dysfunction induced by vascular dementia (VaD).<b>Methods:</b> The VaD was induced by bilateral-common carotid occlusion (2-VO). The rats were divided into 4 groups including: control (<i>n</i> = 6), sham (<i>n</i> = 6), 2-VO (<i>n</i> = 8), and 2-VO + Wi-Fi (<i>n</i> = 10) groups. Wi-Fi modem centrally located at the distance of 25 cm from the animal's cages and the animals were continuously exposed to Wi-Fi signal while they freely moved in the cage (2 h/day for forty-five days). Therefore, the power density (PD) and specific absorption rate value (SAR) decreased at a distance of 25 to 60 cm (PD = 0.018 to 0.0032 mW/cm<sup>2</sup>, SAR = 0.0346 to 0.0060 W/Kg). The learning, memory, and hippocampal synaptic-plasticity were evaluated by radial arm maze (RAM), passive avoidance (PA), and field-potential recording respectively. The number of hippocampal CA1 cells was also assessed by giemsa staining.<b>Results:</b> Our results showed that VaD model led to impairment in the spatial learning and memory performance in RAM and PA that were associated with long-term potentiation (LTP) impairment, decrease of basal-synaptic transmission (BST), increase of GABA transmission, and decline of neurotransmitter release-probability as well as hippocampal cell loss. Notably, chronic Wi-Fi exposure significantly recovered the learning-memory performance, LTP induction, and cell loss without any effect on BST.<b>Conclusions:</b> The LTP recovery by Wi-Fi in the 2-VO rats was probably related to significant increases in the hippocampal CA1 neuronal density, partial recovery of neurotransmitter release probability, and reduction of GABA transmissiSon as evident by rescue of paired-pulse ratio 10 ms.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/33635159/)

@@ -8,7 +8,7 @@ titre: 'Diagnostic Performance of a Combined Reflective Photoplethysmography and
 url: https://pubmed.ncbi.nlm.nih.gov/42578022/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article

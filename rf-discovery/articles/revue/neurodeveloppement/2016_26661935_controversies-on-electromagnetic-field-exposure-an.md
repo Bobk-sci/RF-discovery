@@ -8,7 +8,7 @@ titre: Controversies on electromagnetic field exposure and the nervous systems o
 url: https://pubmed.ncbi.nlm.nih.gov/26661935/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Altunkaynak BZ
 - Kaplan S
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 461-8
 modele: revue

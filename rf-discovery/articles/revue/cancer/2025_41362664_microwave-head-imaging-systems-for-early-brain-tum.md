@@ -8,7 +8,7 @@ titre: 'Microwave head imaging systems for early brain tumor detection: antenna 
 url: https://pubmed.ncbi.nlm.nih.gov/41362664/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -32,6 +32,7 @@ auteurs:
 - Alzu'bi S
 - AbdElminaam DS
 pmcid: PMC12681771
+pdf_local: ''
 volume: ''
 pages: '103726'
 modele: revue

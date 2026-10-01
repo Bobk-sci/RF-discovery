@@ -8,7 +8,7 @@ titre: Design, green synthesis, and bioevaluation of 1,3-thiazole-sulfonamide hy
 url: https://pubmed.ncbi.nlm.nih.gov/41786740/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Mice

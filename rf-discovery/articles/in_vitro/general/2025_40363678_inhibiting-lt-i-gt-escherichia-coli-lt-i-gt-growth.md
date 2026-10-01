@@ -8,7 +8,7 @@ titre: Inhibiting &lt;i&gt;Escherichia coli&lt;/i&gt; Growth by Optimized Low-Po
 url: https://pubmed.ncbi.nlm.nih.gov/40363678/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - NIH 3T3 Cells
 - Animals
@@ -36,6 +36,7 @@ auteurs:
 - Serpone N
 - Horikoshi S
 pmcid: PMC12073379
+pdf_local: ''
 volume: ''
 pages: '1871'
 modele: in_vitro

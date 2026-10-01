@@ -8,7 +8,7 @@ titre: Autonomous nervous system responses to environmental-level exposure to 5G
 url: https://pubmed.ncbi.nlm.nih.gov/39404491/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Autonomic Nervous System
 - Humans
@@ -44,6 +44,7 @@ auteurs:
 - Bach V
 - Selmaoui B
 pmcid: PMC11607616
+pdf_local: ''
 volume: ''
 pages: 2122-2133
 modele: humain_experimental

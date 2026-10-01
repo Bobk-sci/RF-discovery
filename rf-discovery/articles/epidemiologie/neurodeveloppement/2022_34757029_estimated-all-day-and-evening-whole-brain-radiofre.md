@@ -8,7 +8,7 @@ titre: Estimated all-day and evening whole-brain radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/34757029/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Cell Phone
@@ -49,6 +49,7 @@ auteurs:
 - Tiemeier H
 - Guxens M
 pmcid: ''
+pdf_local: ''
 volume: '204'
 pages: '112291'
 modele: epidemiologie

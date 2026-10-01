@@ -7,7 +7,7 @@ titre: No observable non-thermal effect of microwave radiation on the growth of 
 url: https://pubmed.ncbi.nlm.nih.gov/39112501/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microtubules
 - Animals
@@ -31,6 +31,7 @@ auteurs:
 - Brändén G
 - Neutze R
 pmcid: PMC11306338
+pdf_local: ''
 volume: ''
 pages: '18286'
 modele: in_vivo

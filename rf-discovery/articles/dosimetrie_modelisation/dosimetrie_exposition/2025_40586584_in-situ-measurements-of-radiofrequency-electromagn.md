@@ -2,32 +2,32 @@
 pmid: '40586584'
 doi: 10.1002/bem.70012
 annee: 2025
-journal: ''
+journal: Bioelectromagnetics
 titre: In-Situ Measurements of Radiofrequency Electromagnetic Fields Measurements
   Around 5G Macro Base Stations in the UK.
 url: https://pubmed.ncbi.nlm.nih.gov/40586584/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Radiation Monitoring
-- Environmental Exposure
+- United Kingdom
 - Electromagnetic Fields
 - Radio Waves
-- United Kingdom
+- Radiation Monitoring
+- Environmental Exposure
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Telecommunications
-- Exposure assessment
-- Public Exposure
+- exposure assessment
+- public exposure
+- telecommunications
 auteurs:
 - Calderon C
 - Addison D
 - Peyman A
 pmcid: PMC12207951
-volume: ''
+pdf_local: ''
+volume: '46'
 pages: e70012
 modele: dosimetrie_modelisation
 modele_score: 5.0
@@ -52,7 +52,7 @@ tags:
 
 # In-Situ Measurements of Radiofrequency Electromagnetic Fields Measurements Around 5G Macro Base Stations in the UK.
 
-*journal non renseigné — 2025*
+*Bioelectromagnetics — 2025*
 
 ## Résumé (texte d'origine)
 

@@ -8,7 +8,7 @@ titre: Health disturbances and exposure to radiofrequency electromagnetic fields
 url: https://pubmed.ncbi.nlm.nih.gov/33285159/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cities
@@ -37,6 +37,7 @@ auteurs:
 - Letertre T
 - Ségala C
 pmcid: ''
+pdf_local: ''
 volume: '193'
 pages: '110583'
 modele: epidemiologie

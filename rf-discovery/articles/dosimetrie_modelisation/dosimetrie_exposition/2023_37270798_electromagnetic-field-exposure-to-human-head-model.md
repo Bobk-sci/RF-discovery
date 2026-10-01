@@ -8,7 +8,7 @@ titre: Electromagnetic field exposure to human head model with various metal obj
 url: https://pubmed.ncbi.nlm.nih.gov/37270798/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Humans
@@ -31,6 +31,7 @@ auteurs:
 - Ateş K
 - Özen Ş
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 114-122
 modele: dosimetrie_modelisation

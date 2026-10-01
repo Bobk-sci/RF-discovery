@@ -9,7 +9,7 @@ titre: 'Preoperative Prediction of Perineural Invasion and Survival in Gastric C
 url: https://pubmed.ncbi.nlm.nih.gov/41565492/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female

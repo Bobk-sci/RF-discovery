@@ -8,7 +8,7 @@ titre: 'Electromagnetic Exposure Assessment of 5G Mobile Phones: SAR and Thermal
 url: https://pubmed.ncbi.nlm.nih.gov/41829429/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Brain
@@ -32,6 +32,7 @@ auteurs:
 - Chen D
 - Zhang B
 pmcid: PMC12987319
+pdf_local: ''
 volume: ''
 pages: '1468'
 modele: dosimetrie_modelisation

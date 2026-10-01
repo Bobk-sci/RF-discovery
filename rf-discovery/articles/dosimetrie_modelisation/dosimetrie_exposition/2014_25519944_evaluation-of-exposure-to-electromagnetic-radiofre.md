@@ -8,7 +8,7 @@ titre: Evaluation of exposure to electromagnetic radiofrequency radiation in the
 url: https://pubmed.ncbi.nlm.nih.gov/25519944/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Electromagnetic Radiation
@@ -30,6 +30,7 @@ auteurs:
 - Leszko W
 - Zradziński P
 pmcid: ''
+pdf_local: ''
 volume: '27'
 pages: 1043-54
 modele: dosimetrie_modelisation

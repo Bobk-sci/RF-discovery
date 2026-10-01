@@ -8,7 +8,7 @@ titre: Image Quality Assessment of Deep Learning-Based Virtual Monoenergetic Ima
 url: https://pubmed.ncbi.nlm.nih.gov/41384946/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Deep Learning
 - Humans

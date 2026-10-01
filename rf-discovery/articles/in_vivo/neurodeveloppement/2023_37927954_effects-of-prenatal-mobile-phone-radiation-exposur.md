@@ -9,7 +9,7 @@ titre: 'Effects of prenatal mobile phone radiation exposure on MMP9 expression: 
 url: https://pubmed.ncbi.nlm.nih.gov/37927954/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Fanaei H
 - Lakzaee N
 pmcid: PMC10622691
+pdf_local: ''
 volume: ''
 pages: 378-384
 modele: in_vivo

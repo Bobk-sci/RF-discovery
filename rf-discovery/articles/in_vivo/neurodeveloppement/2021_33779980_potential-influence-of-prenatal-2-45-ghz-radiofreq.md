@@ -8,7 +8,7 @@ titre: Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/33779980/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Leydig Cells
@@ -37,6 +37,7 @@ auteurs:
 - Molnár J
 - Račeková E
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 685-696
 modele: in_vivo

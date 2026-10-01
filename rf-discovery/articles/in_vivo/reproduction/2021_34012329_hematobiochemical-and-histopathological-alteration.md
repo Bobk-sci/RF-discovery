@@ -8,7 +8,7 @@ titre: Hematobiochemical and histopathological alterations of kidney and testis 
 url: https://pubmed.ncbi.nlm.nih.gov/34012329/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Alam MR
 - Islam MR
 pmcid: PMC8117002
+pdf_local: ''
 volume: ''
 pages: 2933-2942
 modele: in_vivo

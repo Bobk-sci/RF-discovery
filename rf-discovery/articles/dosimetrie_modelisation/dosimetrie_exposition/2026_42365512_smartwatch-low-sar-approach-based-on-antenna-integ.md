@@ -2,21 +2,21 @@
 pmid: '42365512'
 doi: 10.1080/15368378.2026.2694327
 annee: 2026
-journal: ''
+journal: Electromagnetic biology and medicine
 titre: Smartwatch low-SAR approach based on antenna integrated with metamaterial protection
   layer.
 url: https://pubmed.ncbi.nlm.nih.gov/42365512/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
 mots_cles:
+- Smartwatch electromagnetic exposure
+- electromagnetic radiation protection
+- metamaterial protection layer
 - radiation dose
-- Smartwatch Electromagnetic Exposure
-- Electromagnetic Radiation Protection
-- Metamaterial Protection Layer
 auteurs:
 - Zhou WY
 - Hou WQ
@@ -24,6 +24,7 @@ auteurs:
 - Lu M
 - Hu YW
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1-10
 modele: dosimetrie_modelisation
@@ -52,7 +53,7 @@ tags:
 
 # Smartwatch low-SAR approach based on antenna integrated with metamaterial protection layer.
 
-*journal non renseigné — 2026*
+*Electromagnetic biology and medicine — 2026*
 
 ## Résumé (texte d'origine)
 

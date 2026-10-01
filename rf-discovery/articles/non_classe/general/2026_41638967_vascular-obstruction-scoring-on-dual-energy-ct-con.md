@@ -9,7 +9,7 @@ titre: 'Vascular Obstruction Scoring on Dual-energy CT, Cone-beam CT and Digital
 url: https://pubmed.ncbi.nlm.nih.gov/41638967/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hypertension, Pulmonary

@@ -7,7 +7,7 @@ titre: Histomorphometry and sperm quality in male rats exposed to 2.45 GHz Wi-Fi
 url: https://pubmed.ncbi.nlm.nih.gov/40192818/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Epididymis
@@ -41,6 +41,7 @@ auteurs:
 - Hairulazam A
 - Jaffar FHF
 pmcid: PMC12023345
+pdf_local: ''
 volume: ''
 pages: e250048
 modele: in_vivo

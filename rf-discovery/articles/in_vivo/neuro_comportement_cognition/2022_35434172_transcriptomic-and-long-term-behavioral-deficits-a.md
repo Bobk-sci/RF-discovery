@@ -2,16 +2,15 @@
 pmid: '35434172'
 doi: 10.1021/acs.estlett.2c00037
 annee: 2022
-journal: ''
+journal: Environmental science & technology letters
 titre: Transcriptomic and Long-Term Behavioral Deficits Associated with Developmental
   3.5 GHz Radiofrequency Radiation Exposures in Zebrafish.
 url: https://pubmed.ncbi.nlm.nih.gov/35434172/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh: []
 types:
-- rapid-communication
 - Journal Article
 mots_cles: []
 auteurs:
@@ -22,7 +21,8 @@ auteurs:
 - Liu H
 - Tanguay RL
 pmcid: PMC9009179
-volume: ''
+pdf_local: ''
+volume: '9'
 pages: 327-332
 modele: in_vivo
 modele_score: 2.5
@@ -43,7 +43,7 @@ tags:
 
 # Transcriptomic and Long-Term Behavioral Deficits Associated with Developmental 3.5 GHz Radiofrequency Radiation Exposures in Zebrafish.
 
-*journal non renseigné — 2022*
+*Environmental science & technology letters — 2022*
 
 ## Résumé (texte d'origine)
 

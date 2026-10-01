@@ -8,7 +8,7 @@ titre: 'Magnetic fields as biophysical activators of autophagy: A preclinical sy
 url: https://pubmed.ncbi.nlm.nih.gov/42100721/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -30,6 +30,7 @@ auteurs:
 - Lista S
 - Minoretti P
 pmcid: PMC13144591
+pdf_local: ''
 volume: ''
 pages: '102613'
 modele: revue

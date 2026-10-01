@@ -9,7 +9,7 @@ titre: Evaluating the Protective Effect of Melatonin on Apoptosis, Expression of
 url: https://pubmed.ncbi.nlm.nih.gov/42057982/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -26,6 +26,7 @@ auteurs:
 - Haghani M
 - Saberzadeh J
 pmcid: PMC13122364
+pdf_local: ''
 volume: ''
 pages: 131-138
 modele: in_vitro

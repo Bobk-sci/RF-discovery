@@ -8,7 +8,7 @@ titre: Dual-energy CT-based nomogram for predicting progression-free survival in
 url: https://pubmed.ncbi.nlm.nih.gov/41357589/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

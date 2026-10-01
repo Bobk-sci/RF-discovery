@@ -8,7 +8,7 @@ titre: Chronic 3.5 GHz radiofrequency exposure is associated with behavioral, 
 url: https://pubmed.ncbi.nlm.nih.gov/42566258/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Dogu S
 - Altindag F
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1-14
 modele: in_vivo

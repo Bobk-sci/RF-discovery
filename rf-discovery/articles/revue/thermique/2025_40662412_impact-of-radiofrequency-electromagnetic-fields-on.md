@@ -8,7 +8,7 @@ titre: 'Impact of Radiofrequency Electromagnetic Fields on Cardiac Activity at R
 url: https://pubmed.ncbi.nlm.nih.gov/40662412/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Heart
 - Humans
@@ -33,6 +33,7 @@ auteurs:
 - Michelant L
 - Selmaoui B
 pmcid: PMC12261433
+pdf_local: ''
 volume: ''
 pages: e70014
 modele: revue

@@ -8,7 +8,7 @@ titre: A Duty-Cycled PLL and Fractal Antenna Co-Design Architecture for a Low-Po
 url: https://pubmed.ncbi.nlm.nih.gov/42451482/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article

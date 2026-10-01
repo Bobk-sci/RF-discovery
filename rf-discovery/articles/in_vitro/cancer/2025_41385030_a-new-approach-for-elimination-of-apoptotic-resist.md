@@ -9,7 +9,7 @@ titre: 'A new approach for elimination of apoptotic resistance caused by MDM2/MD
 url: https://pubmed.ncbi.nlm.nih.gov/41385030/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -39,6 +39,7 @@ auteurs:
 - Özgür Büyükatalay E
 - Kısmalı G
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '54'
 modele: in_vitro

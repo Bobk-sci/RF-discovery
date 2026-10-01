@@ -8,7 +8,7 @@ titre: '"One-stop-shop" medical imaging for osteoporosis and obese patients: a n
 url: https://pubmed.ncbi.nlm.nih.gov/41999439/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Osteoporosis

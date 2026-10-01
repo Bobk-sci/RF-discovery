@@ -8,7 +8,7 @@ titre: Determinants of radiofrequency electromagnetic fields emitted by smartpho
 url: https://pubmed.ncbi.nlm.nih.gov/42276343/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -47,6 +47,7 @@ auteurs:
 - Bories S
 - Deltour I
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '125023'
 modele: dosimetrie_modelisation

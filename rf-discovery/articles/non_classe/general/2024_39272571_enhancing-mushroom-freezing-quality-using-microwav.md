@@ -7,7 +7,7 @@ titre: Enhancing Mushroom Freezing Quality Using Microwave-Assisted Technology.
 url: https://pubmed.ncbi.nlm.nih.gov/39272571/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -23,6 +23,7 @@ auteurs:
 - Dalvi-Isfahan M
 - Le-Bail A
 pmcid: PMC11487412
+pdf_local: ''
 volume: ''
 pages: '2805'
 modele: non_classe

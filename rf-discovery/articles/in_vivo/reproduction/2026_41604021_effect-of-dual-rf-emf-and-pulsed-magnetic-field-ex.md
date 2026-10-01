@@ -8,7 +8,7 @@ titre: Effect of dual RF-EMF and pulsed magnetic field exposure on eNOS expressi
 url: https://pubmed.ncbi.nlm.nih.gov/41604021/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Genitalia, Male
 - Testis
@@ -47,6 +47,7 @@ auteurs:
 - Comlekcı C
 - Ozmen O
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '63'
 modele: in_vivo

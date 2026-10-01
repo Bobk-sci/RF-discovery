@@ -8,7 +8,7 @@ titre: Effects and mechanisms of lipidomic and development alterations in ire-1 
 url: https://pubmed.ncbi.nlm.nih.gov/42309018/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Caenorhabditis elegans
@@ -37,6 +37,7 @@ auteurs:
 - Jia X
 - Zhang Z
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '120386'
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Effects of mobile phone radiation (900 MHz radiofrequency) on structure a
 url: https://pubmed.ncbi.nlm.nih.gov/24861496/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Anxiety
@@ -40,6 +40,7 @@ auteurs:
 - Sharma C
 - Jaiswal N
 pmcid: ''
+pdf_local: ''
 volume: '36'
 pages: 1072-9
 modele: in_vivo

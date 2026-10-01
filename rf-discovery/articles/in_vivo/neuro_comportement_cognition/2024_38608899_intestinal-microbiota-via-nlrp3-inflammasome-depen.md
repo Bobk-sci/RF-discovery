@@ -8,7 +8,7 @@ titre: Intestinal microbiota via NLRP3 inflammasome dependent neuronal pyroptosi
 url: https://pubmed.ncbi.nlm.nih.gov/38608899/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Neurons
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Wang CP
 - Ding GR
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '172391'
 modele: in_vivo

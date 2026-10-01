@@ -8,7 +8,7 @@ titre: 'Optimizing material composition determination in dual-energy computed to
 url: https://pubmed.ncbi.nlm.nih.gov/41821433/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Tomography, X-Ray Computed
 - Humans

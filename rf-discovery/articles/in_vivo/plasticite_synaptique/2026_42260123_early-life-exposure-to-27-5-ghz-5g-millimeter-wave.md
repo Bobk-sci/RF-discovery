@@ -8,7 +8,7 @@ titre: Early-life exposure to 27.5 GHz 5G millimeter-wave radiation induces ski
 url: https://pubmed.ncbi.nlm.nih.gov/42260123/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Mast Cells
 - Skin
@@ -47,6 +47,7 @@ auteurs:
 - Samaras T
 - Mancuso M
 pmcid: PMC13490480
+pdf_local: ''
 volume: ''
 pages: '26074'
 modele: in_vivo

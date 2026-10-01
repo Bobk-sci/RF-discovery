@@ -8,7 +8,7 @@ titre: 'Evaluating radiofrequency electromagnetic field exposure in confined spa
 url: https://pubmed.ncbi.nlm.nih.gov/38491820/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -25,6 +25,7 @@ auteurs:
 - Ahsan Ashraf M
 - Celik T
 pmcid: PMC11033578
+pdf_local: ''
 volume: ''
 pages: 598-616
 modele: revue

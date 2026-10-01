@@ -8,7 +8,7 @@ titre: Comparison of methodological uncertainties in tissue parameter estimation
 url: https://pubmed.ncbi.nlm.nih.gov/41448143/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Uncertainty
 - Radiotherapy Planning, Computer-Assisted

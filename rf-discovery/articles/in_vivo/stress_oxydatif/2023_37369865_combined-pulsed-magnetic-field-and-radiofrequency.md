@@ -8,7 +8,7 @@ titre: Combined Pulsed Magnetic Field and Radiofrequency Electromagnetic Field E
 url: https://pubmed.ncbi.nlm.nih.gov/37369865/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Rats
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Taner R
 - Gecin M
 pmcid: '7698125'
+pdf_local: ''
 volume: '47'
 pages: 2841-2852
 modele: in_vivo

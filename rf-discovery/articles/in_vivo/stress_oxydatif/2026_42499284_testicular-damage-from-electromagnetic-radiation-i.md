@@ -8,7 +8,7 @@ titre: Testicular damage from electromagnetic radiation in rats and evaluation o
 url: https://pubmed.ncbi.nlm.nih.gov/42499284/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Kılıç HH
 - Çelik İS
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '3915603261448981'
 modele: in_vivo

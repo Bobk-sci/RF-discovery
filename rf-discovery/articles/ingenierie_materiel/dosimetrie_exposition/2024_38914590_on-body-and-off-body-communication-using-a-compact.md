@@ -8,7 +8,7 @@ titre: On body and off body communication using a compact wideband and high gain
 url: https://pubmed.ncbi.nlm.nih.gov/38914590/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article

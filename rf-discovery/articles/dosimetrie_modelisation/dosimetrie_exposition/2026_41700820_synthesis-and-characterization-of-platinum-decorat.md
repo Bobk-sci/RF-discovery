@@ -8,7 +8,7 @@ titre: Synthesis and characterization of platinum-decorated iron carbide nanopar
 url: https://pubmed.ncbi.nlm.nih.gov/41700820/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

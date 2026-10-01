@@ -8,7 +8,7 @@ titre: No thermal skin effects at environmental 26 GHz field strengths relevant 
 url: https://pubmed.ncbi.nlm.nih.gov/42045282/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -28,6 +28,7 @@ auteurs:
 - Tourneux P
 - Selmaoui B
 pmcid: PMC13287763
+pdf_local: ''
 volume: ''
 pages: '19461'
 modele: humain_experimental

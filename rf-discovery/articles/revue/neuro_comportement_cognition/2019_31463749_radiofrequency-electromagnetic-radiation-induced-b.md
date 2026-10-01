@@ -8,7 +8,7 @@ titre: Radiofrequency electromagnetic radiation-induced behavioral changes and t
 url: https://pubmed.ncbi.nlm.nih.gov/31463749/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Anxiety
@@ -42,6 +42,7 @@ auteurs:
 - Nayak SB
 - Bhat PG
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 30693-30710
 modele: revue

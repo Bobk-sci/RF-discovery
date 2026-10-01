@@ -8,7 +8,7 @@ titre: 'Synergistic mitigation of endotoxin-induced liver injury by low-frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/41729317/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Liver
 - Animals
@@ -45,6 +45,7 @@ auteurs:
 - Akpınar O
 - Ozmen O
 pmcid: PMC12929223
+pdf_local: ''
 volume: ''
 pages: '56'
 modele: in_vivo

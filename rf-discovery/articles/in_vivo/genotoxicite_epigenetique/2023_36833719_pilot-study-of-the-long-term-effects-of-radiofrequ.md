@@ -8,7 +8,7 @@ titre: Pilot Study of the Long-Term Effects of Radiofrequency Electromagnetic Ra
 url: https://pubmed.ncbi.nlm.nih.gov/36833719/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -44,6 +44,7 @@ auteurs:
 - Tuță L
 - Roșu G
 pmcid: PMC9961585
+pdf_local: ''
 volume: ''
 pages: '3025'
 modele: in_vivo

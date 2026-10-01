@@ -8,7 +8,7 @@ titre: Unveiling the biological effects of radio-frequency and extremely-low fre
 url: https://pubmed.ncbi.nlm.nih.gov/39104617/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -22,6 +22,7 @@ auteurs:
 - Eskandani R
 - Zibaii MI
 pmcid: PMC11298025
+pdf_local: ''
 volume: ''
 pages: '30064'
 modele: revue

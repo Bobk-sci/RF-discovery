@@ -8,8 +8,18 @@ titre: Assessment of elemental decomposition algorithms for particle therapy dos
 url: https://pubmed.ncbi.nlm.nih.gov/42685782/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Humans
+- Head and Neck Neoplasms
+- Positron-Emission Tomography
+- Radiotherapy Dosage
+- Monte Carlo Method
+- Radiation Dosage
+- Phantoms, Imaging
+- Algorithms
+- Gamma Rays
+- Image Processing, Computer-Assisted
 types:
 - Journal Article
 mots_cles:
@@ -21,15 +31,15 @@ mots_cles:
 auteurs:
 - Li Y
 - Li W
-- Hu X
-- Yin Y
+- Hu XY
+- Yin YY
 - Yang X
 - Yu S
 - Yang C
 - Chang C
 - Wang M
 - Li KW
-- Geng L
+- Geng LS
 - Zhang Y
 pmcid: ''
 pdf_local: ''
@@ -58,6 +68,6 @@ tags:
 
 ## Résumé (texte d'origine)
 
-<h4>Objective</h4>Accurate dose verification remains a major challenge in particle therapy. Dose monitoring methods such as positron emission tomography (PET) and prompt-gamma (PG) imaging are highly sensitive to uncertainties in tissue composition derived from CT, which can be improved by dual-energy CT (DECT)-based material decomposition. This study systematically assessed the accuracy of four DECT elemental decomposition algorithms in predicting physical dose, annihilation-photon, and PG reference distributions in particle therapy, focusing on CT-based model uncertainty without detector considerations.&#xD;Approach: Three parameterization-based DECT methods, a machine-learning (ML) DECT method, and a conventional single-energy CT (SECT) method were used to predict the elemental composition of the ICRP110 human phantom and 10 head-and-neck patients. The physical dose, annihilation, and PG distributions for incident proton, helium, carbon, and oxygen pencil beams were compared using Monte Carlo simulations. For the phantom, mean relative errors (MREs) were calculated relative to the reference distributions. For the patients, the distal fall-off positions of annihilation and PG profiles were compared across the methods.&#xD;Main results: In the phantom study, the ML method yielded the lowest MREs across the four incident particle types. For oxygen ions, the ML method yielded an annihilation-photon MRE of 2.64%, compared with 6.50%-6.74% for the parameterization-based DECT methods. The corresponding PG MRE were 1.53%, 2.44%-2.60% for the ML and parameterization-based methods. The matched SECT analysis provided a conventional baseline under the same simulation and evaluation settings. In the patient analyses, the distal fall-off positions of annihilation and PG differed by up to 1.93 ± 0.42 mm and 1.76 ± 0.44 mm, respectively, between ML and the parameterization-based methods. Without voxel-wise patient ground truth, these results describe inter-method differences rather than an accuracy ranking.&#xD;Significance: Compared with the parameterization-based methods, the ML method reduced errors in predicting source-level PET and PG reference distributions under the idealized Monte Carlo conditions used here, especially for heavier incident particles. These results quantify model-related uncertainty in complementary with detector resolution in clinical monitoring accuracy.
+<i>Objective.</i>Accurate dose verification remains a major challenge in particle therapy. Dose monitoring methods such as positron emission tomography (PET) and prompt-gamma (PG) imaging are highly sensitive to uncertainties in tissue composition derived from CT, which can be improved by dual-energy CT (DECT)-based material decomposition. This study systematically assessed the accuracy of four DECT elemental decomposition algorithms in predicting physical dose, annihilation-photon, and PG reference distributions in particle therapy, focusing on CT-based model uncertainty without detector considerations.<i>Approach.</i>Three parameterization-based DECT methods, a machine-learning (ML) DECT method, and a conventional single-energy CT (SECT) method were used to predict the elemental composition of the ICRP110 human phantom and 10 head-and-neck patients. The physical dose, annihilation, and PG distributions for incident proton, helium, carbon, and oxygen pencil beams were compared using Monte Carlo simulations. For the phantom, mean relative errors (MREs) were calculated relative to the reference distributions. For the patients, the distal fall-off positions of annihilation and PG profiles were compared across the methods.<i>Main results.</i>In the phantom study, the ML method yielded the lowest MREs across the four incident particle types. For oxygen ions, the ML method yielded an annihilation-photon MRE of 2.64%, compared with 6.50%-6.74% for the parameterization-based DECT methods. The corresponding PG MRE were 1.53%, 2.44%-2.60% for the ML and parameterization-based methods. The matched SECT analysis provided a conventional baseline under the same simulation and evaluation settings. In the patient analyses, the distal fall-off positions of annihilation and PG differed by up to 1.93 ± 0.42 mm and 1.76 ± 0.44 mm, respectively, between ML and the parameterization-based methods. Without voxel-wise patient ground truth, these results describe inter-method differences rather than an accuracy ranking.<i>Significance.</i>Compared with the parameterization-based methods, the ML method reduced errors in predicting source-level PET and PG reference distributions under the idealized Monte Carlo conditions used here, especially for heavier incident particles. These results quantify model-related uncertainty in complementary with detector resolution in clinical monitoring accuracy.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/42685782/)

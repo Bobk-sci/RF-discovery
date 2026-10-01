@@ -8,8 +8,24 @@ titre: Baseline dual-energy CT iodine uptake predicts systemic but not lesion-le
 url: https://pubmed.ncbi.nlm.nih.gov/42571761/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Humans
+- Melanoma
+- Disease Progression
+- Iodine
+- Contrast Media
+- Tomography, X-Ray Computed
+- Radiography, Dual-Energy Scanned Projection
+- Prognosis
+- Immunotherapy
+- Retrospective Studies
+- Adult
+- Aged
+- Middle Aged
+- Female
+- Male
+- Immune Checkpoint Inhibitors
 types:
 - Journal Article
 mots_cles:

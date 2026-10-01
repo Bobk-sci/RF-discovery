@@ -8,7 +8,7 @@ titre: Do radiofrequency radiation affect the auditory system of people with occ
 url: https://pubmed.ncbi.nlm.nih.gov/21432509/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -20,6 +20,7 @@ auteurs:
 - Daşdağ S
 - Vergili K
 pmcid: PMC2723273
+pdf_local: ''
 volume: '3'
 pages: 55-8
 modele: non_classe

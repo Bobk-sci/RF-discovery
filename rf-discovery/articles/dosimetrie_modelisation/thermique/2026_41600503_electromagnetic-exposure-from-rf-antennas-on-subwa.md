@@ -8,7 +8,7 @@ titre: 'Electromagnetic Exposure from RF Antennas on Subway Station Attendant: A
 url: https://pubmed.ncbi.nlm.nih.gov/41600503/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Humans
@@ -32,6 +32,7 @@ auteurs:
 - Zhang Q
 - Lu M
 pmcid: PMC12846054
+pdf_local: ''
 volume: ''
 pages: '709'
 modele: dosimetrie_modelisation

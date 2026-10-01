@@ -8,7 +8,7 @@ titre: Effects of 1.8 GHz radiofrequency radiation on protein expression in huma
 url: https://pubmed.ncbi.nlm.nih.gov/23338683/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adenosine Triphosphatases
 - Cell Cycle Proteins
@@ -41,6 +41,7 @@ auteurs:
 - Wang W
 - Lai K
 pmcid: ''
+pdf_local: ''
 volume: '32'
 pages: 797-806
 modele: in_vitro

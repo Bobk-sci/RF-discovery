@@ -8,7 +8,7 @@ titre: 'Investigation of the Adverse Health Effects of Cell Phone Radiation and 
 url: https://pubmed.ncbi.nlm.nih.gov/38783888/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -24,6 +24,7 @@ auteurs:
 - Ghanbari M
 - Nadri F
 pmcid: PMC11111148
+pdf_local: ''
 volume: ''
 pages: 18-22
 modele: revue

@@ -8,7 +8,7 @@ titre: Rapid, Point-of-Care Microwave Lysis and Electrochemical Detection of &lt
 url: https://pubmed.ncbi.nlm.nih.gov/38927868/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -31,6 +31,7 @@ auteurs:
 - Porch A
 - Baillie L
 pmcid: PMC11200505
+pdf_local: ''
 volume: ''
 pages: '632'
 modele: non_classe

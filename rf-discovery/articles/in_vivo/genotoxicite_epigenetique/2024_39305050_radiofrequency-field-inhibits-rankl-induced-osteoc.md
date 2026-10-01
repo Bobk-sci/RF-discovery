@@ -8,7 +8,7 @@ titre: Radiofrequency field inhibits RANKL-induced osteoclast differentiation in
 url: https://pubmed.ncbi.nlm.nih.gov/39305050/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Osteoclasts
 - Animals
@@ -38,6 +38,7 @@ auteurs:
 - Zhu S
 - Cao Y
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 292-302
 modele: in_vivo

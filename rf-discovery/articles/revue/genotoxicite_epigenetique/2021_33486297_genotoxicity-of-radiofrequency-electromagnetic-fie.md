@@ -8,7 +8,7 @@ titre: 'Genotoxicity of radiofrequency electromagnetic fields: Protocol for a sy
 url: https://pubmed.ncbi.nlm.nih.gov/33486297/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - DNA Damage
@@ -35,6 +35,7 @@ auteurs:
 - Biffoni M
 - Scarfì MR
 pmcid: ''
+pdf_local: ''
 volume: '148'
 pages: '106386'
 modele: revue

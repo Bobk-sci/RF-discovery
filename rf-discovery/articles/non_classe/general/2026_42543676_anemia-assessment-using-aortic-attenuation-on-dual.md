@@ -7,7 +7,7 @@ titre: '[Anemia Assessment Using Aortic Attenuation on Dual-energy CT].'
 url: https://pubmed.ncbi.nlm.nih.gov/42543676/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Female
 - Humans

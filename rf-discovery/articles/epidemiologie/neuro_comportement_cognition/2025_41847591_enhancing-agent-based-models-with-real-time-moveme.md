@@ -10,7 +10,7 @@ titre: Enhancing Agent-Based Models with Real-Time Movement Data to Assess Impac
 url: https://pubmed.ncbi.nlm.nih.gov/41847591/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

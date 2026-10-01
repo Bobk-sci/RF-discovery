@@ -7,7 +7,7 @@ titre: 'Exposure of rats to 425-MHz (cW) radiofrequency radiation: effects on ly
 url: https://pubmed.ncbi.nlm.nih.gov/6925593/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Blood Cell Count
@@ -27,6 +27,7 @@ auteurs:
 - Kinn JB
 - Elder JA
 pmcid: ''
+pdf_local: ''
 volume: '17'
 pages: 211-21
 modele: in_vivo

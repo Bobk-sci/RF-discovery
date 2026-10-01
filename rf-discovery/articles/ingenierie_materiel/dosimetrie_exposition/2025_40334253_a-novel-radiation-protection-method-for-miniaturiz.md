@@ -8,7 +8,7 @@ titre: A novel radiation protection method for miniaturized MIMO mobile terminal
 url: https://pubmed.ncbi.nlm.nih.gov/40334253/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Humans
@@ -27,6 +27,7 @@ auteurs:
 - Lu M
 - Xu JJ
 pmcid: PMC12058181
+pdf_local: ''
 volume: ''
 pages: e0323299
 modele: ingenierie_materiel

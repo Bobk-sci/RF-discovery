@@ -7,7 +7,7 @@ titre: Mobile Phone Studies Find No Short-Term Health Problems
 url: https://doi.org/10.20944/preprints202502.1014.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -17,6 +17,7 @@ auteurs:
 - Shaikh KM
 - Perez MA
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: humain_experimental

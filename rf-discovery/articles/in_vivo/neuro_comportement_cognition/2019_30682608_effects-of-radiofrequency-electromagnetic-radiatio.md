@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic radiation (RF-EMF) on honey bee
 url: https://pubmed.ncbi.nlm.nih.gov/30682608/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Bees
@@ -30,6 +30,7 @@ auteurs:
 - Odemer R
 - Odemer F
 pmcid: ''
+pdf_local: ''
 volume: '661'
 pages: 553-562
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Experimental analysis of metamaterial integrated applicator for hyperther
 url: https://pubmed.ncbi.nlm.nih.gov/40437036/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Neoplasms
@@ -33,6 +33,7 @@ auteurs:
 - Singh HS
 - Rai MK
 pmcid: PMC12119899
+pdf_local: ''
 volume: ''
 pages: '18771'
 modele: dosimetrie_modelisation

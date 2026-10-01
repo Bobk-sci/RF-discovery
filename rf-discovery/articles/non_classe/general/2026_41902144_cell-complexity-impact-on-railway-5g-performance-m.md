@@ -8,7 +8,7 @@ titre: 'Cell Complexity Impact on Railway 5G Performance: Measurements Along Tal
 url: https://pubmed.ncbi.nlm.nih.gov/41902144/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Sadam A
 - Kõrbe Kaare K
 pmcid: PMC13030051
+pdf_local: ''
 volume: ''
 pages: '1977'
 modele: non_classe

@@ -8,7 +8,7 @@ titre: Extracellular volume fraction determined by equilibrium contrast-enhanced
 url: https://pubmed.ncbi.nlm.nih.gov/42241175/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Kidney
 - Humans

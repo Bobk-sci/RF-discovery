@@ -8,7 +8,7 @@ titre: Dual-energy CT extracellular volume fraction for predicting the chemother
 url: https://pubmed.ncbi.nlm.nih.gov/42661227/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Carcinoma, Pancreatic Ductal

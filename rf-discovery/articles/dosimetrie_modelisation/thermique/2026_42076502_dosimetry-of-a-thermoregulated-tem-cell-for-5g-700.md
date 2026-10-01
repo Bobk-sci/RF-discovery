@@ -8,7 +8,7 @@ titre: Dosimetry of a Thermoregulated TEM Cell for 5G 700 MHz and 3.5 GHz Band F
 url: https://pubmed.ncbi.nlm.nih.gov/42076502/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Dalmay C
 - Arnaud-Cormos D
 pmcid: PMC13119816
+pdf_local: ''
 volume: ''
 pages: '2393'
 modele: dosimetrie_modelisation

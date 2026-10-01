@@ -8,7 +8,7 @@ titre: 'Exposure to 5G Radiofrequency and Physiological Effects in Healthy Young
 url: https://pubmed.ncbi.nlm.nih.gov/42244435/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Autonomic Nervous System
 - Saliva
@@ -47,6 +47,7 @@ auteurs:
 - Erwan SB
 - Brahim S
 pmcid: PMC13238366
+pdf_local: ''
 volume: ''
 pages: e70056
 modele: humain_experimental

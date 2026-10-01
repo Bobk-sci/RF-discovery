@@ -2,34 +2,34 @@
 pmid: '39315584'
 doi: 10.1002/bem.22524
 annee: 2024
-journal: ''
+journal: Bioelectromagnetics
 titre: 'Protective effect of radiofrequency exposure against menadione-induced oxidative
   DNA damage in human neuroblastoma cells: The role of exposure duration and investigation
   on key molecular targets.'
 url: https://pubmed.ncbi.nlm.nih.gov/39315584/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Cell Line, Tumor
 - Humans
-- Neuroblastoma
-- DNA Damage
 - Vitamin K 3
-- Oxidation-Reduction
+- DNA Damage
+- Neuroblastoma
+- Cell Line, Tumor
 - Oxidative Stress
 - Radio Waves
-- Time Factors
-- HSP70 Heat-Shock Proteins
 - Thioredoxins
+- HSP70 Heat-Shock Proteins
+- Time Factors
 - Poly (ADP-Ribose) Polymerase-1
+- Oxidation-Reduction
 types:
 - Journal Article
 mots_cles:
-- Protective effect
-- In vitro study
-- Radiofrequency
-- Co‐exposure
+- co‐exposure
+- in vitro study
+- protective effect
+- radiofrequency
 auteurs:
 - Sannino A
 - Allocca M
@@ -37,7 +37,8 @@ auteurs:
 - Romeo S
 - Zeni O
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '45'
 pages: 365-374
 modele: in_vitro
 modele_score: 1006.0
@@ -73,7 +74,7 @@ tags:
 
 # Protective effect of radiofrequency exposure against menadione-induced oxidative DNA damage in human neuroblastoma cells: The role of exposure duration and investigation on key molecular targets.
 
-*journal non renseigné — 2024*
+*Bioelectromagnetics — 2024*
 
 ## Résumé (texte d'origine)
 

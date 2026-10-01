@@ -8,7 +8,7 @@ titre: No measurable impact of acute 26 GHz 5G exposure on salivary stress mark
 url: https://pubmed.ncbi.nlm.nih.gov/41317834/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Saliva
 - Humans
@@ -38,6 +38,7 @@ auteurs:
 - Lévêque P
 - Selmaoui B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '123439'
 modele: epidemiologie

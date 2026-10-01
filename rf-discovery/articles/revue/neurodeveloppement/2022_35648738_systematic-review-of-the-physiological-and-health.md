@@ -9,7 +9,7 @@ titre: Systematic review of the physiological and health-related effects of radi
 url: https://pubmed.ncbi.nlm.nih.gov/35648738/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Child, Preschool
@@ -31,6 +31,7 @@ auteurs:
 - Krause T
 - Driessen S
 pmcid: PMC9159629
+pdf_local: ''
 volume: '17'
 pages: e0268641
 modele: revue

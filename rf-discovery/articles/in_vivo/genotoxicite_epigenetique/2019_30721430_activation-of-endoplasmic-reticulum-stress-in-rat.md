@@ -8,7 +8,7 @@ titre: Activation of endoplasmic reticulum stress in rat brain following low-int
 url: https://pubmed.ncbi.nlm.nih.gov/30721430/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -31,6 +31,7 @@ auteurs:
 - Sharma S
 - Banerjee B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 9314-9321
 modele: in_vivo

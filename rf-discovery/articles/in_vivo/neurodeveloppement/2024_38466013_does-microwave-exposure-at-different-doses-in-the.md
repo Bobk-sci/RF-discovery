@@ -8,7 +8,7 @@ titre: Does Microwave Exposure at Different Doses in the Pre/Postnatal Period Af
 url: https://pubmed.ncbi.nlm.nih.gov/38466013/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -32,6 +32,7 @@ auteurs:
 - Ürkmez S
 - Gürgen S
 pmcid: PMC11019611
+pdf_local: ''
 volume: ''
 pages: 157-172
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: 'TEMIS: A temperature-controlled microwave irradiation system for enhanci
 url: https://pubmed.ncbi.nlm.nih.gov/42100722/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

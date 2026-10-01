@@ -9,7 +9,7 @@ titre: Coenzyme Q10 protects against 6 GHz electromagnetic field-induced liver 
 url: https://pubmed.ncbi.nlm.nih.gov/42332180/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Liver
 - Animals
@@ -40,6 +40,7 @@ auteurs:
 - Gul F
 - Tumkaya L
 pmcid: PMC13572476
+pdf_local: ''
 volume: ''
 pages: '28567'
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative 
 url: https://pubmed.ncbi.nlm.nih.gov/40854925/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Fibroblasts
@@ -49,6 +49,7 @@ auteurs:
 - Arnaud-Cormos D
 - Percherancier Y
 pmcid: PMC12379245
+pdf_local: ''
 volume: ''
 pages: '31214'
 modele: in_vitro

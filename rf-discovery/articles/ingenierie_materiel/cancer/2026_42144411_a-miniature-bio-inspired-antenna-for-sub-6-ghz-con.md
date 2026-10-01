@@ -8,7 +8,7 @@ titre: A miniature bio-inspired antenna for sub-6 GHz consumer wireless and bio
 url: https://pubmed.ncbi.nlm.nih.gov/42144411/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Equipment Design
@@ -28,6 +28,7 @@ auteurs:
 - Virdee B
 - Singh SK
 pmcid: PMC13376867
+pdf_local: ''
 volume: ''
 pages: '22362'
 modele: ingenierie_materiel

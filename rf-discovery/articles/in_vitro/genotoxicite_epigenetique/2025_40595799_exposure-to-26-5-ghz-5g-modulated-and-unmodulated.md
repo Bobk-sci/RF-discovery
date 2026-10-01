@@ -8,7 +8,7 @@ titre: Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affe
 url: https://pubmed.ncbi.nlm.nih.gov/40595799/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -38,6 +38,7 @@ auteurs:
 - Chirico G
 - Zeni O
 pmcid: PMC12214929
+pdf_local: ''
 volume: ''
 pages: '20614'
 modele: in_vitro

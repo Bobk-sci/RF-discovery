@@ -8,7 +8,7 @@ titre: Measurement of urban environmental exposure to extremely low frequency ma
 url: https://pubmed.ncbi.nlm.nih.gov/41484724/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Spain
 - Environmental Exposure

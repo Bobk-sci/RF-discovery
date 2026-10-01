@@ -8,7 +8,7 @@ titre: Adverse health effects of occupational exposure to radiofrequency radiati
 url: https://pubmed.ncbi.nlm.nih.gov/24082641/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Dehghan N
 - Taeb S
 pmcid: PMC3777288
+pdf_local: ''
 volume: '17'
 pages: 7-11
 modele: epidemiologie

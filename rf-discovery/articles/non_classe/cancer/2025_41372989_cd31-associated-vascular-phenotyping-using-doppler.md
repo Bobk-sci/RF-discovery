@@ -9,7 +9,7 @@ titre: CD31-associated vascular phenotyping using Doppler ultrasound and dual-en
 url: https://pubmed.ncbi.nlm.nih.gov/41372989/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female

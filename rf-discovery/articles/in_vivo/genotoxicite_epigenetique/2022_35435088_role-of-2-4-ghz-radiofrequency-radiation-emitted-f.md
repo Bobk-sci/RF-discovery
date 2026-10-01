@@ -2,30 +2,30 @@
 pmid: '35435088'
 doi: 10.1080/15368378.2022.2065682
 annee: 2022
-journal: ''
+journal: Electromagnetic biology and medicine
 titre: Role of 2.4 GHz radiofrequency radiation emitted from Wi-Fi on some miRNA and
   faty acids composition in brain.
 url: https://pubmed.ncbi.nlm.nih.gov/35435088/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Brain
 - Animals
+- Brain
+- Fatty Acids
+- MicroRNAs
+- Phosphatidylserines
 - Rats
 - Rats, Wistar
-- Fatty Acids
 - Triglycerides
-- Phosphatidylserines
-- MicroRNAs
 types:
 - Journal Article
 mots_cles:
-- Brain
+- 2.4 GHz Wi-Fi exposure
+- brain
+- fatty acid composition of membrane and depot fats
 - miRNAs
-- Wireless Communication
-- 2.4 Ghz Wi-fi Exposure
-- Fatty Acid Composition Of Membrane And Depot Fats
+- wireless communication
 auteurs:
 - Dasdag S
 - Akdag MZ
@@ -36,7 +36,8 @@ auteurs:
 - Tughan Kiziltug M
 - Yegin K
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '41'
 pages: 281-292
 modele: in_vivo
 modele_score: 6.0
@@ -59,7 +60,7 @@ tags:
 
 # Role of 2.4 GHz radiofrequency radiation emitted from Wi-Fi on some miRNA and faty acids composition in brain.
 
-*journal non renseigné — 2022*
+*Electromagnetic biology and medicine — 2022*
 
 ## Résumé (texte d'origine)
 

@@ -8,7 +8,7 @@ titre: Synergistic Effects of Non-Ionizing Radiation in the Targeted Modificatio
 url: https://pubmed.ncbi.nlm.nih.gov/41373573/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans

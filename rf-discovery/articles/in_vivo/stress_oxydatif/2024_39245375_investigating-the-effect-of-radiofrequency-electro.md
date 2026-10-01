@@ -9,7 +9,7 @@ titre: Investigating the effect of radiofrequency electromagnetic field exposure
 url: https://pubmed.ncbi.nlm.nih.gov/39245375/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Embryo, Nonmammalian
 - Animals
@@ -38,6 +38,7 @@ auteurs:
 - Alturfan AA
 - Cansız D
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '176038'
 modele: in_vivo

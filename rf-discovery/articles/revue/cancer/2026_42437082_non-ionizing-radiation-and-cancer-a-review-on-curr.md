@@ -8,7 +8,7 @@ titre: 'Non-ionizing radiation and cancer: A review on current evidence, mechani
 url: https://pubmed.ncbi.nlm.nih.gov/42437082/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -27,6 +27,7 @@ auteurs:
 - Gautam R
 - Arora T
 pmcid: PMC13355819
+pdf_local: ''
 volume: ''
 pages: '102705'
 modele: revue

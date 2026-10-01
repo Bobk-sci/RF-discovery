@@ -9,7 +9,7 @@ titre: The effect of exposure to RF-EMF from the laboratory simulator of 5G NR b
 url: https://pubmed.ncbi.nlm.nih.gov/38704416/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -36,6 +36,7 @@ auteurs:
 - Kokin DS
 - Shipilov SE
 pmcid: PMC11069554
+pdf_local: ''
 volume: ''
 pages: '10283'
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: 'Effects of radiofrequency radiation on human ferritin: an in vitro enzym
 url: https://pubmed.ncbi.nlm.nih.gov/23724375/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -24,6 +24,7 @@ auteurs:
 - Baradaran-Ghahfarokhi M
 - Baradaran-Ghahfarokhi HR
 pmcid: PMC3662108
+pdf_local: ''
 volume: '2'
 pages: 235-40
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Effects of 2.45 GHz Non-Ionizing Radiation on Anxiety-Like Behavior, Gene
 url: https://pubmed.ncbi.nlm.nih.gov/37041777/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -28,6 +28,7 @@ auteurs:
 - Vafaee R
 - Haidari MH
 pmcid: PMC10082913
+pdf_local: ''
 volume: ''
 pages: e56
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: 'Radiofrequency electromagnetic fields from mobile communication: Descrip
 url: https://pubmed.ncbi.nlm.nih.gov/33245886/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Brain
@@ -57,6 +57,7 @@ auteurs:
 - Vermeulen R
 - Vrijheid M
 pmcid: ''
+pdf_local: ''
 volume: '193'
 pages: '110505'
 modele: epidemiologie

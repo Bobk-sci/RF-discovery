@@ -8,7 +8,7 @@ titre: Desktop exposure system and dosimetry for small scale in vivo radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/26769169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Computer Communication Networks
@@ -38,6 +38,7 @@ auteurs:
 - Samaras T
 - Kuster N
 pmcid: ''
+pdf_local: ''
 volume: '37'
 pages: 49-61
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: 'Mechanisms of biological effects of radiofrequency electromagnetic field
 url: https://pubmed.ncbi.nlm.nih.gov/2462414/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aerospace Medicine
 - Animals
@@ -27,6 +27,7 @@ mots_cles: []
 auteurs:
 - Erwin DN
 pmcid: ''
+pdf_local: ''
 volume: '59'
 pages: A21-31
 modele: revue

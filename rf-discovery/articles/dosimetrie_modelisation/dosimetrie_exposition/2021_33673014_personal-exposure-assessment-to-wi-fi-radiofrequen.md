@@ -8,7 +8,7 @@ titre: Personal Exposure Assessment to Wi-Fi Radiofrequency Electromagnetic Fiel
 url: https://pubmed.ncbi.nlm.nih.gov/33673014/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cities
@@ -34,6 +34,7 @@ auteurs:
 - Suarez Rodriguez CDP
 - Arribas E
 pmcid: PMC7918906
+pdf_local: ''
 volume: '18'
 pages: ''
 modele: dosimetrie_modelisation

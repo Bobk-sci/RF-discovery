@@ -8,7 +8,7 @@ titre: Radiofrequency electromagnetic radiation exposure effects on amygdala mor
 url: https://pubmed.ncbi.nlm.nih.gov/29413766/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -37,6 +37,7 @@ auteurs:
 - Nayak SB
 - Bhat PG
 pmcid: ''
+pdf_local: ''
 volume: '58'
 pages: 220-229
 modele: in_vivo

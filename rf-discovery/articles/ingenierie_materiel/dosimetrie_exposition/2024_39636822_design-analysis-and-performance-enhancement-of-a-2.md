@@ -8,7 +8,7 @@ titre: Design analysis and performance enhancement of a 2-element MIMO skin-impl
 url: https://pubmed.ncbi.nlm.nih.gov/39636822/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Skin
 - Animals
@@ -20,6 +20,7 @@ mesh:
 - Wireless Technology
 - Internet of Things
 types:
+- Research Support, Non-U.S. Gov't
 - research-article
 - Journal Article
 mots_cles: []
@@ -33,6 +34,7 @@ auteurs:
 - Aljohani S
 - Singla MK
 pmcid: PMC11620415
+pdf_local: ''
 volume: ''
 pages: e0311753
 modele: ingenierie_materiel

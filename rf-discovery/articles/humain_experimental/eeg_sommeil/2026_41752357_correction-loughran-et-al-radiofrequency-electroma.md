@@ -9,7 +9,7 @@ titre: 'Correction: Loughran et al. Radiofrequency Electromagnetic Field Exposur
 url: https://pubmed.ncbi.nlm.nih.gov/41752357/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Published Erratum
@@ -25,6 +25,7 @@ auteurs:
 - Taylor NAS
 - Croft RJ
 pmcid: PMC12940856
+pdf_local: ''
 volume: ''
 pages: '157'
 modele: humain_experimental

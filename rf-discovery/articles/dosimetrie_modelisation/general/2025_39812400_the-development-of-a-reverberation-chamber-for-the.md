@@ -8,7 +8,7 @@ titre: The Development of a Reverberation Chamber for the Assessment of Biologic
 url: https://pubmed.ncbi.nlm.nih.gov/39812400/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Mice
@@ -37,6 +37,7 @@ auteurs:
 - Wood AW
 - Croft RJ
 pmcid: PMC11734383
+pdf_local: ''
 volume: ''
 pages: e22539
 modele: dosimetrie_modelisation

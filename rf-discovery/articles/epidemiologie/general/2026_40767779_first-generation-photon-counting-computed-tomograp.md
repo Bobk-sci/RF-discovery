@@ -8,7 +8,7 @@ titre: First-generation Photon-counting Computed Tomography Angiography Versus T
 url: https://pubmed.ncbi.nlm.nih.gov/40767779/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Angiography, Digital Subtraction

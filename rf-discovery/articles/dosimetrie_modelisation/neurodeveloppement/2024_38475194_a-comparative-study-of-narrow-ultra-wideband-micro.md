@@ -8,7 +8,7 @@ titre: A Comparative Study of Narrow/Ultra-Wideband Microwave Sensors for the Co
 url: https://pubmed.ncbi.nlm.nih.gov/38475194/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Lung
 - Humans
@@ -36,6 +36,7 @@ auteurs:
 - Elashry GM
 - Abdallah EA
 pmcid: PMC10934178
+pdf_local: ''
 volume: ''
 pages: '1658'
 modele: dosimetrie_modelisation

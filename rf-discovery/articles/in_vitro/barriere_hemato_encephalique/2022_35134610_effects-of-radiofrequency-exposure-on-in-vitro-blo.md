@@ -8,7 +8,7 @@ titre: Effects of radiofrequency exposure on in vitro blood-brain barrier perme
 url: https://pubmed.ncbi.nlm.nih.gov/35134610/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -24,6 +24,7 @@ auteurs:
 - Gumusderelioglu M
 - Ozturk GG
 pmcid: ''
+pdf_local: ''
 volume: '597'
 pages: 91-97
 modele: in_vitro

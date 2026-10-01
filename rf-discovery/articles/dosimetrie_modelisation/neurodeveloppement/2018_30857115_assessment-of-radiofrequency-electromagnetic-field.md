@@ -8,7 +8,7 @@ titre: Assessment of radiofrequency electromagnetic field exposure from personal
 url: https://pubmed.ncbi.nlm.nih.gov/30857115/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -44,6 +44,7 @@ auteurs:
 - Kwon JH
 - Ha M
 pmcid: ''
+pdf_local: ''
 volume: '627'
 pages: 1544-1551
 modele: dosimetrie_modelisation

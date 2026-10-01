@@ -8,7 +8,7 @@ titre: 'Low-frequency magnetic flux density levels in various exposure scenarios
 url: https://pubmed.ncbi.nlm.nih.gov/42753715/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -19,6 +19,7 @@ auteurs:
 - Maloku H
 - Limani Fazliu Z
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ncag104
 modele: dosimetrie_modelisation

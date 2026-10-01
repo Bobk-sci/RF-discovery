@@ -8,7 +8,7 @@ titre: Interactions of radiofrequency radiation-induced hyperthermia and 2-metho
 url: https://pubmed.ncbi.nlm.nih.gov/9209716/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Drug-Induced
 - Analysis of Variance
@@ -38,6 +38,7 @@ auteurs:
 - Snyder DL
 - Edwards RM
 pmcid: ''
+pdf_local: ''
 volume: '18'
 pages: 349-59
 modele: in_vivo

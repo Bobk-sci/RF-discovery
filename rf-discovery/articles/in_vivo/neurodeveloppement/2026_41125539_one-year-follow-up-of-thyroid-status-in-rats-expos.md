@@ -8,7 +8,7 @@ titre: One-year follow-up of thyroid status in rats exposed to 2.45 Ghz radiof
 url: https://pubmed.ncbi.nlm.nih.gov/41125539/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Thyroid Gland
 - Animals
@@ -37,6 +37,7 @@ auteurs:
 - Emre F
 - Yeğin K
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 160-169
 modele: in_vivo

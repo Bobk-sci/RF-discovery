@@ -8,7 +8,7 @@ titre: 'Dual-energy and perfusion CT for predicting response to chemo-radiothera
 url: https://pubmed.ncbi.nlm.nih.gov/42164114/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Clinical Trial

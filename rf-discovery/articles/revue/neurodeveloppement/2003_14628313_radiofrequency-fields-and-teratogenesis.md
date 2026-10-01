@@ -7,7 +7,7 @@ titre: Radiofrequency fields and teratogenesis.
 url: https://pubmed.ncbi.nlm.nih.gov/14628313/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -32,6 +32,7 @@ auteurs:
 - Heynick LN
 - Merritt JH
 pmcid: ''
+pdf_local: ''
 volume: Suppl 6
 pages: S174-86
 modele: revue

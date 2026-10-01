@@ -8,8 +8,19 @@ titre: Quaternary ammonium compound-based ionic liquid with microwave responsive
 url: https://pubmed.ncbi.nlm.nih.gov/42603578/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Ionic Liquids
+- Animals
+- Microwaves
+- Mice
+- Quaternary Ammonium Compounds
+- Anti-Bacterial Agents
+- Polymers
+- Nanoparticles
+- Indoles
+- Biocompatible Materials
+- Staphylococcus aureus
 types:
 - Journal Article
 mots_cles:
@@ -32,13 +43,16 @@ auteurs:
 - Wang J
 - Jiang R
 pmcid: ''
-volume: ''
-pages: ''
+pdf_local: ''
+volume: '223'
+pages: 421-436
 modele: in_vivo
-modele_score: 1.0
+modele_score: 5.0
 modele_secondaires:
 - in_vitro
 modele_indices:
+- animals
+- mice
 - mouse
 theme: thermique
 theme_score: 1.0

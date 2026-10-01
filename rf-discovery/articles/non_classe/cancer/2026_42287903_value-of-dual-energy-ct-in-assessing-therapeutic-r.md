@@ -8,7 +8,7 @@ titre: 'Value of dual-energy CT in assessing therapeutic response after TACE for
 url: https://pubmed.ncbi.nlm.nih.gov/42287903/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Carcinoma, Hepatocellular

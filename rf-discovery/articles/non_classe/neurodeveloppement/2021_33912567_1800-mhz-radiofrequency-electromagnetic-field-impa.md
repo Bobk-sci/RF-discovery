@@ -2,23 +2,22 @@
 pmid: '33912567'
 doi: 10.3389/fcell.2021.657623
 annee: 2021
-journal: ''
+journal: Frontiers in cell and developmental biology
 titre: 1800 MHz Radiofrequency Electromagnetic Field Impairs Neurite Outgrowth Through
   Inhibiting EPHA5 Signaling.
 url: https://pubmed.ncbi.nlm.nih.gov/33912567/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Neuron
-- Neural stem cells
-- Neurite Outgrowth
-- Epha5
-- Radiofrequency Electromagnetic Fields
+- EPHA5
+- neural stem cells
+- neurite outgrowth
+- neuron
+- radiofrequency electromagnetic fields
 auteurs:
 - Chen C
 - Ma Q
@@ -34,7 +33,8 @@ auteurs:
 - Yu Z
 - Zhang L
 pmcid: PMC8075058
-volume: ''
+pdf_local: ''
+volume: '9'
 pages: '657623'
 modele: non_classe
 modele_score: 0.0
@@ -54,7 +54,7 @@ tags:
 
 # 1800 MHz Radiofrequency Electromagnetic Field Impairs Neurite Outgrowth Through Inhibiting EPHA5 Signaling.
 
-*journal non renseigné — 2021*
+*Frontiers in cell and developmental biology — 2021*
 
 ## Résumé (texte d'origine)
 

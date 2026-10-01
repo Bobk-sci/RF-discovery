@@ -7,7 +7,7 @@ titre: 'Melatonin: a Potential Shield against Electromagnetic Waves.'
 url: https://pubmed.ncbi.nlm.nih.gov/34635042/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pineal Gland
 - Humans
@@ -31,6 +31,7 @@ auteurs:
 - Jammoul M
 - Lawand N
 pmcid: PMC9608227
+pdf_local: ''
 volume: ''
 pages: 648-660
 modele: revue

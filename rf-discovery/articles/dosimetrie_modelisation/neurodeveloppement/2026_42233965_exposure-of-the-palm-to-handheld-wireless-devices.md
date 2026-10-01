@@ -8,7 +8,7 @@ titre: Exposure of the palm to handheld wireless devices operating at frequencie
 url: https://pubmed.ncbi.nlm.nih.gov/42233965/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hand
 - Humans
@@ -28,6 +28,7 @@ auteurs:
 - Niskala K
 - Joyner KH
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1154-1162
 modele: dosimetrie_modelisation

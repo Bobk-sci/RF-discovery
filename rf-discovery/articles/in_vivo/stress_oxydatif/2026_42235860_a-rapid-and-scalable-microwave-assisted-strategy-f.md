@@ -8,7 +8,7 @@ titre: 'A rapid and scalable microwave-assisted strategy for the synthesis of ne
 url: https://pubmed.ncbi.nlm.nih.gov/42235860/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Gram-Negative Bacteria

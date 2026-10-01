@@ -8,7 +8,7 @@ titre: Eight-Port millimeter wave MIMO antenna loaded with novel frequency selec
 url: https://pubmed.ncbi.nlm.nih.gov/41628194/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Wireless Technology
 - Equipment Design

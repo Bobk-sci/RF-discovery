@@ -8,7 +8,7 @@ titre: 5G Radiofrequency Exposure Reduces &lt;i&gt;PRDM16&lt;/i&gt; and &lt;i&gt
 url: https://pubmed.ncbi.nlm.nih.gov/40141434/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -44,6 +44,7 @@ auteurs:
 - Desailloud R
 - Pelletier A
 pmcid: PMC11942954
+pdf_local: ''
 volume: ''
 pages: '2792'
 modele: in_vivo

@@ -2,23 +2,23 @@
 pmid: '42469348'
 doi: 10.1038/s41598-026-62300-0
 annee: 2026
-journal: ''
+journal: Scientific reports
 titre: Consideration of electromagnetic wave interference on microorganism inactivation
   on reflective surfaces.
 url: https://pubmed.ncbi.nlm.nih.gov/42469348/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
 mots_cles:
+- Irradiation disinfection
+- Microbiota on surfaces
+- Microwave oven
+- Optical interference
 - Reflectance
 - UV-C
-- Microwave Oven
-- Optical Interference
-- Irradiation Disinfection
-- Microbiota On Surfaces
 auteurs:
 - Martínez Antón JC
 - Navarrete MC
@@ -27,6 +27,7 @@ auteurs:
 - Quintana Benito J
 - Diaz Herrera N
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: non_classe
@@ -46,7 +47,7 @@ tags:
 
 # Consideration of electromagnetic wave interference on microorganism inactivation on reflective surfaces.
 
-*journal non renseigné — 2026*
+*Scientific reports — 2026*
 
 ## Résumé (texte d'origine)
 

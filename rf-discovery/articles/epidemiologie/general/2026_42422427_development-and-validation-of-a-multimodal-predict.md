@@ -9,7 +9,7 @@ titre: 'Development and validation of a multimodal predictive model based on cli
 url: https://pubmed.ncbi.nlm.nih.gov/42422427/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Thyroid Nodule

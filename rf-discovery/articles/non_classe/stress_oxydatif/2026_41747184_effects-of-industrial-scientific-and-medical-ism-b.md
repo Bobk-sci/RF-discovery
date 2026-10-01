@@ -8,7 +8,7 @@ titre: Effects of industrial, scientific, and medical (ISM) band frequency 2.45â
 url: https://pubmed.ncbi.nlm.nih.gov/41747184/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Membrane
 - Skin
@@ -36,6 +36,7 @@ auteurs:
 - Nirala JP
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 634-648
 modele: non_classe

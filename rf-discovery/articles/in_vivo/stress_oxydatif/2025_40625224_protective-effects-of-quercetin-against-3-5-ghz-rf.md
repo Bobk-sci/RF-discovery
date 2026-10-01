@@ -8,7 +8,7 @@ titre: Protective effects of quercetin against 3.5 GHz RF radiation-induced thyr
 url: https://pubmed.ncbi.nlm.nih.gov/40625224/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Thyroid Gland
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Dogu S
 - Ahnas B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 449-460
 modele: in_vivo

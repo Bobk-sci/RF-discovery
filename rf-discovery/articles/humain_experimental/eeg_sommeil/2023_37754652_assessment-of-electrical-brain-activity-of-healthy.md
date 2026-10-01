@@ -8,7 +8,7 @@ titre: 'Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to
 url: https://pubmed.ncbi.nlm.nih.gov/37754652/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Humans
@@ -38,6 +38,7 @@ auteurs:
 - Lévêque P
 - Selmaoui B
 pmcid: PMC10530694
+pdf_local: ''
 volume: ''
 pages: '6793'
 modele: humain_experimental

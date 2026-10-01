@@ -8,7 +8,7 @@ titre: 'Exposure Assessment to Radiofrequency Electromagnetic Fields in Occupati
 url: https://pubmed.ncbi.nlm.nih.gov/35055741/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Occupational Exposure
@@ -33,6 +33,7 @@ auteurs:
 - Tognola G
 - Parazzini M
 pmcid: PMC8776107
+pdf_local: ''
 volume: ''
 pages: '920'
 modele: revue

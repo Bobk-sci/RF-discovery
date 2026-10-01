@@ -8,7 +8,7 @@ titre: Evidence for a connection between coronavirus disease-19 and exposure to 
 url: https://pubmed.ncbi.nlm.nih.gov/34778597/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -34,6 +34,7 @@ auteurs:
 - Rubik B
 - Brown RR
 pmcid: PMC8580522
+pdf_local: ''
 volume: ''
 pages: 666-681
 modele: revue

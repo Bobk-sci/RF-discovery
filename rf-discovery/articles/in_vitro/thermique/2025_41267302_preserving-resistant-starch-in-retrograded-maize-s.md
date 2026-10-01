@@ -8,7 +8,7 @@ titre: 'Preserving resistant starch in retrograded maize starch gels: the role o
 url: https://pubmed.ncbi.nlm.nih.gov/41267302/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microwaves
 - Starch

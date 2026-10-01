@@ -8,7 +8,7 @@ titre: Effects of combined radiofrequency radiation exposure on levels of reacti
 url: https://pubmed.ncbi.nlm.nih.gov/24105709/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Line
@@ -46,6 +46,7 @@ auteurs:
 - Ko YG
 - Lee JS
 pmcid: PMC3951078
+pdf_local: ''
 volume: '55'
 pages: 265-76
 modele: in_vitro

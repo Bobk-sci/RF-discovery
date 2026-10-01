@@ -8,7 +8,7 @@ titre: Design of Ultra-Wideband Phased Array Applicator for Breast Cancer Hypert
 url: https://pubmed.ncbi.nlm.nih.gov/36772091/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Breast
 - Humans
@@ -32,6 +32,7 @@ auteurs:
 - Mao Y
 - Yang B
 pmcid: PMC9921499
+pdf_local: ''
 volume: ''
 pages: '1051'
 modele: ingenierie_materiel

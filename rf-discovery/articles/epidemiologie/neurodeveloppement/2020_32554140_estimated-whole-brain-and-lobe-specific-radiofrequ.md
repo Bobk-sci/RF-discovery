@@ -8,7 +8,7 @@ titre: Estimated whole-brain and lobe-specific radiofrequency electromagnetic fi
 url: https://pubmed.ncbi.nlm.nih.gov/32554140/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Cell Phone
@@ -54,6 +54,7 @@ auteurs:
 - Tiemeier H
 - Guxens M
 pmcid: ''
+pdf_local: ''
 volume: '142'
 pages: '105808'
 modele: epidemiologie

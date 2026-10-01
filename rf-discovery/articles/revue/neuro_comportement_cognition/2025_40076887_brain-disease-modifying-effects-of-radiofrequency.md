@@ -8,7 +8,7 @@ titre: Brain Disease-Modifying Effects of Radiofrequency as a Non-Contact Neuron
 url: https://pubmed.ncbi.nlm.nih.gov/40076887/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Neurons
@@ -33,6 +33,7 @@ auteurs:
 - Jang Y
 - Seo H
 pmcid: PMC11900402
+pdf_local: ''
 volume: ''
 pages: '2268'
 modele: revue

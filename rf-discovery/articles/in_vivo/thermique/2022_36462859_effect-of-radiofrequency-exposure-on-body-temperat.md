@@ -2,29 +2,29 @@
 pmid: '36462859'
 doi: 10.1016/j.jtherbio.2022.103350
 annee: 2022
-journal: ''
+journal: Journal of thermal biology
 titre: 'Effect of radiofrequency exposure on body temperature: Real-time monitoring
   in normal rats.'
 url: https://pubmed.ncbi.nlm.nih.gov/36462859/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Animals
-- Rats
-- Rats, Sprague-Dawley
-- Body Temperature
-- Linear Models
-- Radio Waves
 - Male
+- Rats
+- Animals
+- Body Temperature
+- Rats, Sprague-Dawley
+- Radio Waves
 - Hot Temperature
+- Linear Models
 types:
 - Journal Article
 mots_cles:
-- Rat
 - Body temperature
+- Radiofrequency radiation
+- Rat
 - Thermometers
-- Radiofrequency Radiation
 auteurs:
 - Kim HS
 - Kim Y
@@ -36,7 +36,8 @@ auteurs:
 - Kim N
 - Ahn YH
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '110'
 pages: '103350'
 modele: in_vivo
 modele_score: 9.5
@@ -65,7 +66,7 @@ tags:
 
 # Effect of radiofrequency exposure on body temperature: Real-time monitoring in normal rats.
 
-*journal non renseigné — 2022*
+*Journal of thermal biology — 2022*
 
 ## Résumé (texte d'origine)
 

@@ -8,7 +8,7 @@ titre: Effect of radiofrequency electromagnetic field exposure on in vitro model
 url: https://pubmed.ncbi.nlm.nih.gov/19479910/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Survival
@@ -35,6 +35,7 @@ auteurs:
 - Giardino L
 - Calzà L
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 564-72
 modele: in_vitro

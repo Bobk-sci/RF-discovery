@@ -7,7 +7,7 @@ titre: Electric fields for warming cryopreserved tissue.
 url: https://pubmed.ncbi.nlm.nih.gov/41932003/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -28,6 +28,7 @@ mots_cles:
 auteurs:
 - Wowk B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '105627'
 modele: revue

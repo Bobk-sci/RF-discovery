@@ -2,36 +2,36 @@
 pmid: '41391574'
 doi: 10.1016/j.reprotox.2025.109139
 annee: 2026
-journal: ''
+journal: Reproductive toxicology (Elmsford, N.Y.)
 titre: Effects of paternal 5G RFR exposure on health of male offspring mice.
 url: https://pubmed.ncbi.nlm.nih.gov/41391574/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Testis
-- Spermatozoa
 - Animals
-- Mice, Inbred C57BL
-- Mice
-- Behavior, Animal
-- Depression
-- Anxiety
-- Paternal Exposure
-- Sperm Motility
-- DNA Methylation
-- Fertility
-- Female
 - Male
+- Paternal Exposure
+- Mice, Inbred C57BL
+- Testis
+- Female
+- DNA Methylation
+- Behavior, Animal
+- Anxiety
+- Spermatozoa
+- Depression
+- Fertility
+- Mice
+- Sperm Motility
 types:
-- Research Support, Non-U.S. Gov't
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles:
-- Methylation
-- Learning and memory
-- Sperm quality
 - Emotions
-- Radiofrequency Radiation
+- Learning and memory
+- Methylation
+- Radiofrequency radiation
+- Sperm quality
 auteurs:
 - Zhaowen Z
 - Ling G
@@ -43,7 +43,8 @@ auteurs:
 - Fuli W
 - Guirong D
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '140'
 pages: '109139'
 modele: in_vivo
 modele_score: 9.0
@@ -78,7 +79,7 @@ tags:
 
 # Effects of paternal 5G RFR exposure on health of male offspring mice.
 
-*journal non renseigné — 2026*
+*Reproductive toxicology (Elmsford, N.Y.) — 2026*
 
 ## Résumé (texte d'origine)
 

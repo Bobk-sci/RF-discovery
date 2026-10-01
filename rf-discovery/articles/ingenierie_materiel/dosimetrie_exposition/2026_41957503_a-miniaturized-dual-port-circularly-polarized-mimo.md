@@ -2,27 +2,26 @@
 pmid: '41957503'
 doi: 10.1038/s41598-026-47610-7
 annee: 2026
-journal: ''
+journal: Scientific reports
 titre: A miniaturized dual-port circularly polarized MIMO patch antenna for SAR-compliant
   wearable X-band communication systems.
 url: https://pubmed.ncbi.nlm.nih.gov/41957503/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Specific Absorption Rate (Sar)
-- Body-centric Communication
-- Envelope Correlation Coefficient (Ecc)
-- Port Isolation, sdg-9 (Industry, Innovation And Infrastructure), sdg-11 (Sustainable
-  Cities And Communities) And Sdg-3 (Good Health And Well-being)
-- Circular Microstrip Patch
-- Circularly Polarized Mimo Antenna
-- Front-to-back Ratio (Fbr)
-- X-band Wearable Antenna
+- Body-centric communication
+- Circular microstrip patch
+- Circularly polarized MIMO antenna
+- Envelope correlation coefficient (ECC)
+- Front-to-back ratio (FBR)
+- Port isolation, SDG-9 (Industry, Innovation and Infrastructure), SDG-11 (Sustainable
+  Cities and Communities) and SDG-3 (Good Health and Well-Being)
+- Specific absorption rate (SAR)
+- X-band wearable antenna
 auteurs:
 - Gloria JP
 - Anbarasu MM
@@ -33,8 +32,9 @@ auteurs:
 - Kumar DR
 - Kumar OP
 pmcid: PMC13201545
-volume: ''
-pages: '16150'
+pdf_local: ''
+volume: '16'
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1005.0
 modele_secondaires:
@@ -63,7 +63,7 @@ tags:
 
 # A miniaturized dual-port circularly polarized MIMO patch antenna for SAR-compliant wearable X-band communication systems.
 
-*journal non renseigné — 2026*
+*Scientific reports — 2026*
 
 ## Résumé (texte d'origine)
 

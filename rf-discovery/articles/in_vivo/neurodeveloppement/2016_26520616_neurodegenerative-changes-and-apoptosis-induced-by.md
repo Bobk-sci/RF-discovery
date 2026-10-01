@@ -8,7 +8,7 @@ titre: Neurodegenerative changes and apoptosis induced by intrauterine and extra
 url: https://pubmed.ncbi.nlm.nih.gov/26520616/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Animals, Newborn
@@ -40,6 +40,7 @@ auteurs:
 - Vural SA
 - Seyhan N
 pmcid: ''
+pdf_local: ''
 volume: '75'
 pages: 128-33
 modele: in_vivo

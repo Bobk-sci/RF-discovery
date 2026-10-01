@@ -8,7 +8,7 @@ titre: Oxidative Stress Response of Honey Bee Colonies (<i>Apis mellifera</i> L.
 url: https://pubmed.ncbi.nlm.nih.gov/38786928/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Pašić S
 - Gajger IT
 pmcid: PMC11122567
+pdf_local: ''
 volume: ''
 pages: '372'
 modele: non_classe

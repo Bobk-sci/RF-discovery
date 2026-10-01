@@ -9,7 +9,7 @@ titre: Radiofrequency Fields at 2.45 GHz Reprogram Mitochondria-Lysosome Crossta
 url: https://pubmed.ncbi.nlm.nih.gov/42123398/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Lysosomes
 - Mitochondria
@@ -44,6 +44,7 @@ auteurs:
 - Ares-Pena FJ
 - López-Martín E
 pmcid: PMC13163750
+pdf_local: ''
 volume: ''
 pages: '3813'
 modele: in_vivo

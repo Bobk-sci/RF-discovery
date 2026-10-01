@@ -8,7 +8,7 @@ titre: A meta-analysis of in vitro exposures to weak radiofrequency radiation ex
 url: https://pubmed.ncbi.nlm.nih.gov/32199316/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Animals
@@ -46,6 +46,7 @@ auteurs:
 - Skafidas E
 - Davis D
 pmcid: ''
+pdf_local: ''
 volume: '184'
 pages: '109227'
 modele: in_vitro

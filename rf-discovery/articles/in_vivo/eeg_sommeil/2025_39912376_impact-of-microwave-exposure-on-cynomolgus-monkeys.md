@@ -7,7 +7,7 @@ titre: 'Impact of Microwave Exposure on Cynomolgus Monkeys: EEG and ECG Analysis
 url: https://pubmed.ncbi.nlm.nih.gov/39912376/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -37,6 +37,7 @@ auteurs:
 - Hu X
 - Wang L
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70000
 modele: in_vivo

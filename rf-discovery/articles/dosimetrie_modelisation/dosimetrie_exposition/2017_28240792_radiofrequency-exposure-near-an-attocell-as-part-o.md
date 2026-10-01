@@ -8,7 +8,7 @@ titre: Radiofrequency exposure near an attocell as part of an ultra-high density
 url: https://pubmed.ncbi.nlm.nih.gov/28240792/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Absorption, Radiation
 - Computer Communication Networks
@@ -37,6 +37,7 @@ auteurs:
 - Martens L
 - Joseph W
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 295-306
 modele: dosimetrie_modelisation

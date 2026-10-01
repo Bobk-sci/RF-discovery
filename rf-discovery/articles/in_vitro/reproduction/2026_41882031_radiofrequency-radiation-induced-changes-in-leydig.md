@@ -7,7 +7,7 @@ titre: Radiofrequency radiation-induced changes in Leydig cell function.
 url: https://pubmed.ncbi.nlm.nih.gov/41882031/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Leydig Cells
 - Cell Line
@@ -35,6 +35,7 @@ auteurs:
 - Singh S
 - Singh R
 pmcid: PMC13171912
+pdf_local: ''
 volume: ''
 pages: '14999'
 modele: in_vitro

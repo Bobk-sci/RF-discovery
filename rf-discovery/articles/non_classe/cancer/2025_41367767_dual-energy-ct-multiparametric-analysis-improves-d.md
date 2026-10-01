@@ -8,7 +8,7 @@ titre: Dual-energy CT multiparametric analysis improves diagnostic accuracy and 
 url: https://pubmed.ncbi.nlm.nih.gov/41367767/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

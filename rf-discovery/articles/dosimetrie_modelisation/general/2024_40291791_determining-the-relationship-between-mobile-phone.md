@@ -9,7 +9,7 @@ titre: 'Determining the relationship between mobile phone network signal strengt
 url: https://pubmed.ncbi.nlm.nih.gov/40291791/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - other
@@ -18,9 +18,9 @@ mots_cles:
 - Smartphone App
 - Measurement Protocol
 - Spot Measurements
-- Conversion Functions
-- Radiofrequency Electromagnetic Field (Rf-Emf) Exposure
 - Signal Strength Indicators
+- Radiofrequency Electromagnetic Field (Rf-Emf) Exposure
+- Conversion Functions
 auteurs:
 - Sandoval-Diez N
 - Belácková L
@@ -34,6 +34,7 @@ auteurs:
 - Huss A
 - Röösli M
 pmcid: PMC12032521
+pdf_local: ''
 volume: ''
 pages: '206'
 modele: dosimetrie_modelisation

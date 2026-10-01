@@ -8,7 +8,7 @@ titre: 'Textile Radio-Frequency Active Devices and Systems: Wireless Communicati
 url: https://pubmed.ncbi.nlm.nih.gov/41815530/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -25,6 +25,7 @@ auteurs:
 - Fan X
 - Lu W
 pmcid: PMC12972507
+pdf_local: ''
 volume: ''
 pages: '1101'
 modele: revue

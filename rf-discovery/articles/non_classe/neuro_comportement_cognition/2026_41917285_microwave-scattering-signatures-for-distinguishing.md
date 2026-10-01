@@ -8,7 +8,7 @@ titre: Microwave scattering signatures for distinguishing healthy and infested d
 url: https://pubmed.ncbi.nlm.nih.gov/41917285/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Trees
 - Plant Diseases
@@ -22,13 +22,14 @@ types:
 mots_cles:
 - Scattering
 - Plant Health Monitoring
-- Date Palm Trees
 - Radar Cross-section
+- Date Palm Trees
 - Microwave Response
 auteurs:
 - Moradi A
 - Bait-Suwailam MM
 pmcid: PMC13180994
+pdf_local: ''
 volume: ''
 pages: '15274'
 modele: non_classe

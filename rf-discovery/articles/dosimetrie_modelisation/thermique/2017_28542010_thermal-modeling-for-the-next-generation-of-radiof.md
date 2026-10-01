@@ -8,7 +8,7 @@ titre: 'Thermal Modeling for the Next Generation of Radiofrequency Exposure Limi
 url: https://pubmed.ncbi.nlm.nih.gov/28542010/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Biological Assay
 - Computer Simulation
@@ -35,6 +35,7 @@ auteurs:
 - Ziskin MC
 - Balzano Q
 pmcid: ''
+pdf_local: ''
 volume: '113'
 pages: 41-53
 modele: dosimetrie_modelisation

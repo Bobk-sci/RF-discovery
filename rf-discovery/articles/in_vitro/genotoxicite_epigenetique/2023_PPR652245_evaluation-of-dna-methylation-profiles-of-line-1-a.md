@@ -8,7 +8,7 @@ titre: Evaluation of DNA Methylation Profiles of LINE-1, Alu and Ribosomal DNA R
 url: https://doi.org/10.20944/preprints202304.1028.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -24,6 +24,7 @@ auteurs:
 - Giorgi G
 - Del Re B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vitro

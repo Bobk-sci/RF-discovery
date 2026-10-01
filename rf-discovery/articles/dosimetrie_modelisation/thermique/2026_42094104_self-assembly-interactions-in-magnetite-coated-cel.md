@@ -8,7 +8,7 @@ titre: 'Self-Assembly Interactions in Magnetite-Coated Cellulose Nanocrystals: I
 url: https://pubmed.ncbi.nlm.nih.gov/42094104/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

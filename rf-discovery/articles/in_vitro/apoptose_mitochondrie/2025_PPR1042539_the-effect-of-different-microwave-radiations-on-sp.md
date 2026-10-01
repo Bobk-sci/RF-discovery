@@ -8,7 +8,7 @@ titre: The Effect of Different Microwave Radiations on Spinach, spinacia olerace
 url: https://doi.org/10.14293/pr2199.001754.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -16,6 +16,7 @@ mots_cles: []
 auteurs:
 - Sotheeswaran A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vitro

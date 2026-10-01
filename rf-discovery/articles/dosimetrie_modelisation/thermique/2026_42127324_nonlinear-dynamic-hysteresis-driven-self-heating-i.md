@@ -7,7 +7,7 @@ titre: Nonlinear Dynamic Hysteresis Driven Self-Heating in Fe100-xCox Alloy Nano
 url: https://pubmed.ncbi.nlm.nih.gov/42127324/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

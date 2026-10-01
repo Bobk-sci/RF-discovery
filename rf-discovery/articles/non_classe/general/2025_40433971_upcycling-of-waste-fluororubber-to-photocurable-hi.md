@@ -8,7 +8,7 @@ titre: Upcycling of Waste Fluororubber to Photocurable High-Performance Vinyl-Te
 url: https://pubmed.ncbi.nlm.nih.gov/40433971/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -34,6 +34,7 @@ auteurs:
 - Li L
 - Yang J
 pmcid: PMC12376610
+pdf_local: ''
 volume: ''
 pages: e01460
 modele: non_classe

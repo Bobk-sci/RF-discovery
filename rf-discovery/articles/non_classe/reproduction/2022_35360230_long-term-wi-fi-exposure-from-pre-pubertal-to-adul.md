@@ -8,7 +8,7 @@ titre: Long-Term Wi-Fi Exposure From Pre-Pubertal to Adult Age on the Spermatogo
 url: https://pubmed.ncbi.nlm.nih.gov/35360230/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Zulkefli AF
 - Ibrahim SF
 pmcid: PMC8963498
+pdf_local: ''
 volume: ''
 pages: '828578'
 modele: non_classe

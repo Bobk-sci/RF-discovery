@@ -7,7 +7,7 @@ titre: 'Thiazolotriazoles: Their Biological Activity and Structure-Activity Rela
 url: https://pubmed.ncbi.nlm.nih.gov/41311192/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Structure-Activity Relationship
 - Humans

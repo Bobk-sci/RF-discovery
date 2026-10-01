@@ -8,7 +8,7 @@ titre: Association between estimated whole-brain radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/33221634/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Brain
@@ -53,6 +53,7 @@ auteurs:
 - Röösli M
 - Guxens M
 pmcid: ''
+pdf_local: ''
 volume: '231'
 pages: '113659'
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: Effects of prolonged exposure to 2.45 GHz electromagnetic fields on mou
 url: https://pubmed.ncbi.nlm.nih.gov/41950782/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Electromagnetic Fields

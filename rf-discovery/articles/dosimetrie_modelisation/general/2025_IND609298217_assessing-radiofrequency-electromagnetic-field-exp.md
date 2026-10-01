@@ -8,7 +8,7 @@ titre: Assessing radiofrequency electromagnetic field exposure in multiple micro
 url: ''
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -45,6 +45,7 @@ auteurs:
 - Joseph W
 - Röösli M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: Not Available
 modele: dosimetrie_modelisation

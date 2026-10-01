@@ -8,7 +8,7 @@ titre: Glycolysis inhibition-based breakdown of ferroptosis defenses to achieve 
 url: https://pubmed.ncbi.nlm.nih.gov/41455308/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Ferroptosis
 - Humans

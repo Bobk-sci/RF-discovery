@@ -8,7 +8,7 @@ titre: Combined effects of constant temperature and radio frequency exposure on 
 url: https://pubmed.ncbi.nlm.nih.gov/40835646/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Aedes
@@ -32,6 +32,7 @@ auteurs:
 - Halim NMHNA
 - Rahman ATA
 pmcid: PMC12368203
+pdf_local: ''
 volume: ''
 pages: '30571'
 modele: in_vivo

@@ -9,7 +9,7 @@ titre: 'Synthesis and anti-lung cancer evaluation of fused pyrazolo[3,4-b]pyridi
 url: https://pubmed.ncbi.nlm.nih.gov/41795438/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Triazoles

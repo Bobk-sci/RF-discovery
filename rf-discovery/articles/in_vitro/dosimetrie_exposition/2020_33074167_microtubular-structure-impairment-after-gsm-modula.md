@@ -7,7 +7,7 @@ titre: Microtubular structure impairment after GSM-modulated RF radiation exposu
 url: https://pubmed.ncbi.nlm.nih.gov/33074167/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microtubules
 - Cell Proliferation
@@ -29,6 +29,7 @@ auteurs:
 - Ilić K
 - Pavičić I
 pmcid: PMC7968504
+pdf_local: ''
 volume: ''
 pages: 205-210
 modele: in_vitro

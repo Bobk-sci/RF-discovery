@@ -8,7 +8,7 @@ titre: Effect of short-term extremely low-frequency electromagnetic field on res
 url: https://pubmed.ncbi.nlm.nih.gov/40465999/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -36,6 +36,7 @@ auteurs:
 - Keskin A
 - Keskin HE
 pmcid: PMC12131892
+pdf_local: ''
 volume: ''
 pages: e20241812
 modele: in_vivo

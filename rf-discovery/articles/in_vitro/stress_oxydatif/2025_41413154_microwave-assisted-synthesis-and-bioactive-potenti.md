@@ -8,7 +8,7 @@ titre: Microwave assisted synthesis and bioactive potential of folic acid functi
 url: https://pubmed.ncbi.nlm.nih.gov/41413154/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Tellurium

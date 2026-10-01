@@ -2,23 +2,22 @@
 pmid: '42289495'
 doi: 10.1038/s41598-026-55671-x
 annee: 2026
-journal: ''
+journal: Scientific reports
 titre: Parasitically coupled 16-port massive MIMO antenna for mmWave applications.
 url: https://pubmed.ncbi.nlm.nih.gov/42289495/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- High Gain
-- Massive Mimo
-- Mmwave
-- 16-Ports
-- 56 And 6G
-- Spatial Diversity And Spatial Multiplexing
+- 16-ports
+- 56 and 6G
+- High gain
+- Massive MIMO
+- Spatial diversity and spatial multiplexing
+- mmWave
 auteurs:
 - Mishra B
 - Sharma H
@@ -27,8 +26,9 @@ auteurs:
 - Satheesha TY
 - Pathan S
 pmcid: PMC13527081
-volume: ''
-pages: '27172'
+pdf_local: ''
+volume: '16'
+pages: ''
 modele: ingenierie_materiel
 modele_score: 1004.5
 modele_secondaires:
@@ -54,7 +54,7 @@ tags:
 
 # Parasitically coupled 16-port massive MIMO antenna for mmWave applications.
 
-*journal non renseigné — 2026*
+*Scientific reports — 2026*
 
 ## Résumé (texte d'origine)
 

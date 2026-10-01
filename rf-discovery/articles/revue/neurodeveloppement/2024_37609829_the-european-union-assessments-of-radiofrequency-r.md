@@ -2,35 +2,36 @@
 pmid: '37609829'
 doi: 10.1515/reveh-2023-0046
 annee: 2024
-journal: ''
+journal: Reviews on environmental health
 titre: The European Union assessments of radiofrequency radiation health risks - another
   hard nut to crack (Review).
 url: https://pubmed.ncbi.nlm.nih.gov/37609829/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
+- European Union
 - Humans
+- Radio Waves
 - Risk Assessment
 - Environmental Exposure
-- Radio Waves
-- European Union
 types:
-- Review
 - Journal Article
+- Review
 mots_cles:
-- Electromagnetic fields
-- Human Rights
-- Health Risks
 - European Union
-- Precautionary Principle
-- Wireless Emf Guidelines
+- Human Rights
+- electromagnetic fields
+- health risks
+- precautionary principle
+- wireless EMF guidelines
 auteurs:
 - Nyberg R
 - McCredden J
 - Hardell L
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '39'
 pages: 707-719
 modele: revue
 modele_score: 1002.5
@@ -52,7 +53,7 @@ tags:
 
 # The European Union assessments of radiofrequency radiation health risks - another hard nut to crack (Review).
 
-*journal non renseigné — 2024*
+*Reviews on environmental health — 2024*
 
 ## Résumé (texte d'origine)
 

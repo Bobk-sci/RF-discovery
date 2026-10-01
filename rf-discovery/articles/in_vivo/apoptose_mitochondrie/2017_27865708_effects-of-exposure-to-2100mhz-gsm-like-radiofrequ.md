@@ -8,7 +8,7 @@ titre: Effects of exposure to 2100MHz GSM-like radiofrequency electromagnetic fi
 url: https://pubmed.ncbi.nlm.nih.gov/27865708/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -44,6 +44,7 @@ auteurs:
 - Kalkan Y
 - Erdoğan E
 pmcid: PMC9449170
+pdf_local: ''
 volume: '83'
 pages: 691-696
 modele: in_vivo

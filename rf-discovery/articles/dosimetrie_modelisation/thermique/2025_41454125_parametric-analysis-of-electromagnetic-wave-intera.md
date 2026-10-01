@@ -8,7 +8,7 @@ titre: Parametric analysis of electromagnetic wave interactions with layered bio
 url: https://pubmed.ncbi.nlm.nih.gov/41454125/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adipose Tissue
 - Skin
@@ -30,6 +30,7 @@ mots_cles:
 auteurs:
 - Gasmelseed A
 pmcid: PMC12835268
+pdf_local: ''
 volume: ''
 pages: '3445'
 modele: dosimetrie_modelisation

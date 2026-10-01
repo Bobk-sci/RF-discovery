@@ -8,7 +8,7 @@ titre: Oxidative mechanisms of biological activity of low-intensity radiofrequen
 url: https://pubmed.ncbi.nlm.nih.gov/26151230/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Biophysical Phenomena
@@ -36,6 +36,7 @@ auteurs:
 - Kyrylenko O
 - Kyrylenko S
 pmcid: ''
+pdf_local: ''
 volume: '35'
 pages: 186-202
 modele: revue

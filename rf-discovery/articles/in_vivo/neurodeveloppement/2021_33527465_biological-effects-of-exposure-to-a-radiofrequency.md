@@ -8,7 +8,7 @@ titre: Biological Effects of Exposure to a Radiofrequency Electromagnetic Field 
 url: https://pubmed.ncbi.nlm.nih.gov/33527465/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - 11-beta-Hydroxysteroid Dehydrogenase Type 2
 - Animals
@@ -34,6 +34,7 @@ auteurs:
 - Kim N
 - Ahn YH
 pmcid: PMC8048814
+pdf_local: ''
 volume: '42'
 pages: 191-199
 modele: in_vivo

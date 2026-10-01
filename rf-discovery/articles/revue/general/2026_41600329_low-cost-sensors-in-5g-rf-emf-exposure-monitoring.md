@@ -7,7 +7,7 @@ titre: 'Low-Cost Sensors in 5G RF-EMF Exposure Monitoring: Validity and Challeng
 url: https://pubmed.ncbi.nlm.nih.gov/41600329/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -23,6 +23,7 @@ auteurs:
 - Rathebe PC
 - Kholopo M
 pmcid: PMC12845799
+pdf_local: ''
 volume: ''
 pages: '533'
 modele: revue

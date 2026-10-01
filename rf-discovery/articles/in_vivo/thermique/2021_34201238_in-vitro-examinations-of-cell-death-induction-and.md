@@ -8,7 +8,7 @@ titre: In Vitro Examinations of Cell Death Induction and the Immune Phenotype of
 url: https://pubmed.ncbi.nlm.nih.gov/34201238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans

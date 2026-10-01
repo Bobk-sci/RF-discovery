@@ -8,7 +8,7 @@ titre: 'Technical performance of dual-energy CT in the evaluation of hypovascula
 url: https://pubmed.ncbi.nlm.nih.gov/41349167/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Liver Neoplasms

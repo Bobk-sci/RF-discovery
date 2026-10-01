@@ -8,7 +8,7 @@ titre: A bicentric study on the application of dual energy CT for predicting hem
 url: https://pubmed.ncbi.nlm.nih.gov/41286319/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Male

@@ -8,7 +8,7 @@ titre: 'Low-level EMF effects on wildlife and plants: What research tells us abo
 url: https://pubmed.ncbi.nlm.nih.gov/36505009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Animals, Wild
@@ -31,6 +31,7 @@ auteurs:
 - Lai HC
 - Manville AM 2nd
 pmcid: PMC9732734
+pdf_local: ''
 volume: ''
 pages: '1000840'
 modele: in_vivo

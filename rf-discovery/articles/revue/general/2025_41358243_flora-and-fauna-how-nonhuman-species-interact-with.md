@@ -2,40 +2,42 @@
 pmid: '41358243'
 doi: 10.3389/fpubh.2025.1693873
 annee: 2025
-journal: Frontiers in public health
+journal: ''
 titre: 'Flora and fauna: how nonhuman species interact with natural and man-made EMF
   at ecosystem levels and public policy recommendations.'
 url: https://pubmed.ncbi.nlm.nih.gov/41358243/
-source: pubmed
-acces_ouvert: ''
-collecte: '2026-09-21'
+source: europepmc
+acces_ouvert: open
+collecte: '2026-10-01'
 mesh:
-- Electromagnetic Fields
 - Animals
 - Humans
 - Ecosystem
 - Environmental Exposure
-- Public Policy
+- Electromagnetic Fields
 - Radio Waves
+- Public Policy
 types:
-- Journal Article
+- review-article
 - Review
+- Journal Article
 mots_cles:
+- Wildlife
+- Electromagnetic fields
+- Radiofrequency Radiation
 - National Environmental Policy Act
-- aeroecology
-- airspace-as-habitat
-- electromagnetic fields
-- low-intensity effects
-- nonhuman species
-- radiofrequency radiation
-- wildlife
+- Aeroecology
+- Airspace-As-Habitat
+- Low-Intensity Effects
+- Nonhuman Species
 auteurs:
 - Levitt BB
 - Lai HC
-- Manville AM
+- Manville AM 2nd
 - Scarato T
 pmcid: PMC12675998
-volume: '13'
+pdf_local: ''
+volume: ''
 pages: '1693873'
 modele: revue
 modele_score: 1002.0
@@ -58,7 +60,7 @@ tags:
 
 # Flora and fauna: how nonhuman species interact with natural and man-made EMF at ecosystem levels and public policy recommendations.
 
-*Frontiers in public health — 2025*
+*journal non renseigné — 2025*
 
 ## Résumé (texte d'origine)
 

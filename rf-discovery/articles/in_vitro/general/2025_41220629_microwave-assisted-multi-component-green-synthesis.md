@@ -9,7 +9,7 @@ titre: 'Microwave-assisted multi-component green synthesis of bioactive pyrazol-
 url: https://pubmed.ncbi.nlm.nih.gov/41220629/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

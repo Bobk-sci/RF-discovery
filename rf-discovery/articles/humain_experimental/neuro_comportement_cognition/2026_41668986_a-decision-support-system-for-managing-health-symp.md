@@ -8,7 +8,7 @@ titre: A Decision Support System for Managing Health Symptoms of Living Near Mob
 url: https://pubmed.ncbi.nlm.nih.gov/41668986/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -24,6 +24,7 @@ auteurs:
 - Faraz M
 - Mortazavi SMJ
 pmcid: PMC12883925
+pdf_local: ''
 volume: ''
 pages: 47-56
 modele: humain_experimental

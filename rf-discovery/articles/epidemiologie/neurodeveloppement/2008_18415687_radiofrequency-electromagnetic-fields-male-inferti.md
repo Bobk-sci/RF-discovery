@@ -7,7 +7,7 @@ titre: Radiofrequency electromagnetic fields; male infertility and sex ratio of 
 url: https://pubmed.ncbi.nlm.nih.gov/18415687/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Confidence Intervals
@@ -38,6 +38,7 @@ auteurs:
 - Riise T
 - Moen BE
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 369-77
 modele: epidemiologie

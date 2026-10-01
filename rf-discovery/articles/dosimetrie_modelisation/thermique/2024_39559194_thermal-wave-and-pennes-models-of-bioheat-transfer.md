@@ -8,7 +8,7 @@ titre: 'Thermal wave and Pennes'' models of bioheat transfer in human skin: A tr
 url: https://pubmed.ncbi.nlm.nih.gov/39559194/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -24,6 +24,7 @@ auteurs:
 - Tasnim ZJ
 - Nasrin R
 pmcid: PMC11570517
+pdf_local: ''
 volume: ''
 pages: e40109
 modele: dosimetrie_modelisation

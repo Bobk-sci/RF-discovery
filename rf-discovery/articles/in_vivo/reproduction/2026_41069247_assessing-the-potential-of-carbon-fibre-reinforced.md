@@ -8,7 +8,7 @@ titre: Assessing the potential of carbon fibre reinforced polymer shielding in p
 url: https://pubmed.ncbi.nlm.nih.gov/41069247/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Spermatozoa
@@ -41,6 +41,7 @@ auteurs:
 - Suwito BE
 - Farmananda IR
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 137-148
 modele: in_vivo

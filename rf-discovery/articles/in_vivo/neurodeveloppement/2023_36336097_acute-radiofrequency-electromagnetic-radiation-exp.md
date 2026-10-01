@@ -8,7 +8,7 @@ titre: Acute radiofrequency electromagnetic radiation exposure impairs neurogene
 url: https://pubmed.ncbi.nlm.nih.gov/36336097/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Rats
 - Male
@@ -38,6 +38,7 @@ auteurs:
 - Nanda RK
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: '94'
 pages: 46-58
 modele: in_vivo

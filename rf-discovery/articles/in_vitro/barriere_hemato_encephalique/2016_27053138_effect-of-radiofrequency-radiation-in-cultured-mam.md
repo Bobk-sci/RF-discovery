@@ -7,7 +7,7 @@ titre: 'Effect of radiofrequency radiation in cultured mammalian cells: A review
 url: https://pubmed.ncbi.nlm.nih.gov/27053138/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Blood-Brain Barrier
@@ -32,6 +32,7 @@ auteurs:
 - Manna D
 - Ghosh R
 pmcid: ''
+pdf_local: ''
 volume: '35'
 pages: 265-301
 modele: in_vitro

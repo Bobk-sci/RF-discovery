@@ -8,7 +8,7 @@ titre: 'The International Collaborative Animal Study of the carcinogenicity and 
 url: https://pubmed.ncbi.nlm.nih.gov/41546387/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -48,6 +48,7 @@ auteurs:
 - Wang J
 - Ahn YH
 pmcid: PMC13017829
+pdf_local: ''
 volume: ''
 pages: kfag001
 modele: in_vivo

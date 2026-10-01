@@ -8,7 +8,7 @@ titre: 5G RF-EMFs Mitigate UV-Induced Genotoxic Stress Through Redox Balance and
 url: https://pubmed.ncbi.nlm.nih.gov/41596185/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -34,6 +34,7 @@ auteurs:
 - Kim HR
 - Lee YS
 pmcid: PMC12837458
+pdf_local: ''
 volume: ''
 pages: '127'
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Dual-energy CT-generated bone marrow edema maps improve reader confidence
 url: https://pubmed.ncbi.nlm.nih.gov/42665718/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

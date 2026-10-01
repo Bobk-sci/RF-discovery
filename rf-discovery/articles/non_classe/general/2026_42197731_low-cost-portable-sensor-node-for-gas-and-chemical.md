@@ -8,7 +8,7 @@ titre: Low-Cost Portable Sensor Node for Gas and Chemical Leak Detection with Ka
 url: https://pubmed.ncbi.nlm.nih.gov/42197731/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

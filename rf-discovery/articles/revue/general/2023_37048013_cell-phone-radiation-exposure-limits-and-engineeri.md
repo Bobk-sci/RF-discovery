@@ -7,7 +7,7 @@ titre: Cell Phone Radiation Exposure Limits and Engineering Solutions.
 url: https://pubmed.ncbi.nlm.nih.gov/37048013/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Communication
@@ -42,6 +42,7 @@ auteurs:
 - On Behalf Of The International Commission On The Biological Effects Of Electromagnetic
   Fields Icbe-Emf
 pmcid: PMC10094704
+pdf_local: ''
 volume: ''
 pages: '5398'
 modele: revue

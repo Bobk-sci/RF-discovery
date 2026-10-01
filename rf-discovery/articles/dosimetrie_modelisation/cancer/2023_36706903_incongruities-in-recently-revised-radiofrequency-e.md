@@ -7,7 +7,7 @@ titre: Incongruities in recently revised radiofrequency exposure guidelines and 
 url: https://pubmed.ncbi.nlm.nih.gov/36706903/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radio Waves
@@ -21,6 +21,7 @@ mots_cles: []
 auteurs:
 - Lin JC
 pmcid: ''
+pdf_local: ''
 volume: '222'
 pages: '115369'
 modele: dosimetrie_modelisation

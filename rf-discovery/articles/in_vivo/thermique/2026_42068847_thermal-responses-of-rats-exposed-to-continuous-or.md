@@ -8,7 +8,7 @@ titre: Thermal responses of rats exposed to continuous or intermittent 915 MHz
 url: https://pubmed.ncbi.nlm.nih.gov/42068847/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Male

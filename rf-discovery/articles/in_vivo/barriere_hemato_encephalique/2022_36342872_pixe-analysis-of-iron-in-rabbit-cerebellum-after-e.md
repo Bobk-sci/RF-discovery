@@ -8,7 +8,7 @@ titre: PIXE analysis of iron in rabbit cerebellum after exposure to radiofrequen
 url: https://pubmed.ncbi.nlm.nih.gov/36342872/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rabbits
@@ -34,6 +34,7 @@ auteurs:
 - Jakus J
 - Povinec P
 pmcid: ''
+pdf_local: ''
 volume: '123'
 pages: 864-871
 modele: in_vivo

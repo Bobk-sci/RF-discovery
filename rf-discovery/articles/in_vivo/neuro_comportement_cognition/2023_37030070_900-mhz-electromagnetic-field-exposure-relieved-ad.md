@@ -8,7 +8,7 @@ titre: '900 MHZ electromagnetic field exposure relieved AD-like symptoms on APP
 url: https://pubmed.ncbi.nlm.nih.gov/37030070/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hippocampus
 - Animals
@@ -40,6 +40,7 @@ auteurs:
 - Hu X
 - Wang L
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 97-106
 modele: in_vivo

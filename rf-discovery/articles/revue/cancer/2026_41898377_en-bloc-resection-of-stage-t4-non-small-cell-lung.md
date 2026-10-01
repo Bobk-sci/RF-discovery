@@ -8,7 +8,7 @@ titre: 'En-Bloc Resection of Stage T4 Non-Small Cell Lung Cancer with Direct Spi
 url: https://pubmed.ncbi.nlm.nih.gov/41898377/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

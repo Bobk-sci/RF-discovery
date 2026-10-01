@@ -8,7 +8,7 @@ titre: Path Loss Dataset from Field Measurements at 3.5 GHz for the Fifth Genera
 url: https://pubmed.ncbi.nlm.nih.gov/41927614/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - data-paper
@@ -19,6 +19,7 @@ auteurs:
 - Galvan-Tejada GM
 - Meneses-Viveros A
 pmcid: PMC13046879
+pdf_local: ''
 volume: ''
 pages: '521'
 modele: non_classe

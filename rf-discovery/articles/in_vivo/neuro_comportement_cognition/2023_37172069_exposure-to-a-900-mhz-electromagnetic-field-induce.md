@@ -9,7 +9,7 @@ titre: Exposure to a 900 MHz electromagnetic field induces a response of the hon
 url: https://pubmed.ncbi.nlm.nih.gov/37172069/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Bees
@@ -35,6 +35,7 @@ auteurs:
 - Łaszkiewicz A
 - Latarowski K
 pmcid: PMC10180655
+pdf_local: ''
 volume: ''
 pages: e0285522
 modele: in_vivo

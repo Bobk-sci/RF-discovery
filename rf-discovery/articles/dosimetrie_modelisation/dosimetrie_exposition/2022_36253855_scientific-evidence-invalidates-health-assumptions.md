@@ -9,7 +9,7 @@ titre: 'Scientific evidence invalidates health assumptions underlying the FCC an
 url: https://pubmed.ncbi.nlm.nih.gov/36253855/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Semen
 - Animals
@@ -39,6 +39,7 @@ mots_cles:
 auteurs:
 - International Commission on the Biological Effects of Electromagnetic Fields (ICBE-EMF)
 pmcid: PMC9576312
+pdf_local: ''
 volume: ''
 pages: '92'
 modele: dosimetrie_modelisation

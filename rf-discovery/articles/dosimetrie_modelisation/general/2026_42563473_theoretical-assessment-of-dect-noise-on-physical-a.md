@@ -8,7 +8,7 @@ titre: Theoretical assessment of DECT noise on physical and biological dose accu
 url: https://pubmed.ncbi.nlm.nih.gov/42563473/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Tomography, X-Ray Computed

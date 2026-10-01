@@ -8,7 +8,7 @@ titre: 'Non-invasive prediction of Ki-67 expression in gastric cancer using AI-b
 url: https://pubmed.ncbi.nlm.nih.gov/41740269/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Stomach Neoplasms

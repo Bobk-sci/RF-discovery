@@ -8,7 +8,7 @@ titre: Exposure Variability Between 1- or 6-Minute and 30-Minute Averaging Time 
 url: https://pubmed.ncbi.nlm.nih.gov/41195631/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -30,6 +30,7 @@ auteurs:
 - Sanagou M
 - Loughran S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70030
 modele: non_classe

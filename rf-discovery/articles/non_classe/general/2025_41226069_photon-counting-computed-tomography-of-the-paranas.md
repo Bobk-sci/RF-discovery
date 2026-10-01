@@ -8,7 +8,7 @@ titre: Photon-Counting Computed Tomography of the Paranasal Sinuses Improves Int
 url: https://pubmed.ncbi.nlm.nih.gov/41226069/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

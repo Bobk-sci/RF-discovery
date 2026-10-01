@@ -8,7 +8,7 @@ titre: Evaluation of Cell Migration and Cytokines Expression Changes under the R
 url: https://pubmed.ncbi.nlm.nih.gov/35216321/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Cell Movement
@@ -37,6 +37,7 @@ auteurs:
 - Di Giovanni P
 - Reale M
 pmcid: PMC8879593
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: in_vitro

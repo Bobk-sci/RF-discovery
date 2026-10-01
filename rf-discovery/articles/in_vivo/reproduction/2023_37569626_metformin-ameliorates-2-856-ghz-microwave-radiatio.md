@@ -8,7 +8,7 @@ titre: Metformin Ameliorates 2.856 GHz Microwave- Radiation-Induced Reproductive
 url: https://pubmed.ncbi.nlm.nih.gov/37569626/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Semen
@@ -47,6 +47,7 @@ auteurs:
 - Yao B
 - Guo J
 pmcid: PMC10418945
+pdf_local: ''
 volume: ''
 pages: '12250'
 modele: in_vivo

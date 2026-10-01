@@ -8,7 +8,7 @@ titre: Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 30
 url: https://pubmed.ncbi.nlm.nih.gov/32167495/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Guidelines as Topic
@@ -23,6 +23,7 @@ mots_cles: []
 auteurs:
 - International Commission on Non-Ionizing Radiation Protection (ICNIRP)
 pmcid: ''
+pdf_local: ''
 volume: '118'
 pages: 483-524
 modele: dosimetrie_modelisation

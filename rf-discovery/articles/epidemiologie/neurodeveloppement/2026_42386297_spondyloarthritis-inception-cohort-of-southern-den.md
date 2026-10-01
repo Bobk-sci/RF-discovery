@@ -9,7 +9,7 @@ titre: 'Spondyloarthritis Inception Cohort of Southern Denmark (SPINCODE): a pro
 url: https://pubmed.ncbi.nlm.nih.gov/42386297/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Sacroiliac Joint
 - Humans

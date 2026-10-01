@@ -8,7 +8,7 @@ titre: 'Electromagnetic Interference in the Modern Era: Concerns, Trends, and Na
 url: https://pubmed.ncbi.nlm.nih.gov/41149527/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -31,6 +31,7 @@ auteurs:
 - Nardin B
 - Jovanovic S
 pmcid: PMC12566414
+pdf_local: ''
 volume: ''
 pages: '1558'
 modele: revue

@@ -8,7 +8,7 @@ titre: The Effect of 2.45 GHz Radiofrequency Electromagnetic Radiation on Compon
 url: https://pubmed.ncbi.nlm.nih.gov/42196560/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Hypothalamo-Hypophyseal System
@@ -46,6 +46,7 @@ auteurs:
 - Hairulazam A
 - Jaffar FHF
 pmcid: PMC13207925
+pdf_local: ''
 volume: ''
 pages: '4582'
 modele: in_vivo

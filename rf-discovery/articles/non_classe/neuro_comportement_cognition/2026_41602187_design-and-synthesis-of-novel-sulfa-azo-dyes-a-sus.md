@@ -8,7 +8,7 @@ titre: 'Design and synthesis of novel sulfa-azo dyes: a sustainable approach to 
 url: https://pubmed.ncbi.nlm.nih.gov/41602187/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article

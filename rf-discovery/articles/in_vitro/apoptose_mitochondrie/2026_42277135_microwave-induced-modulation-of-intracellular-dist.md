@@ -8,7 +8,7 @@ titre: Microwave-induced modulation of intracellular distribution of peptides ba
 url: https://pubmed.ncbi.nlm.nih.gov/42277135/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hela Cells
 - Mitochondria
@@ -37,6 +37,7 @@ auteurs:
 - Nakanishi N
 - Usui K
 pmcid: PMC13507107
+pdf_local: ''
 volume: ''
 pages: '26744'
 modele: in_vitro

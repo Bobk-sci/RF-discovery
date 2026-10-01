@@ -2,43 +2,42 @@
 pmid: '42737802'
 doi: 10.3390/ijms27177904
 annee: 2026
-journal: ''
+journal: International journal of molecular sciences
 titre: Pulsed Electromagnetic Field Exposure Attenuates Ultraviolet B-Induced Dermal
   Collagen Loss in Association with A2A Adenosine Receptor Signaling.
 url: https://pubmed.ncbi.nlm.nih.gov/42737802/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Fibroblasts
-- Dermis
 - Animals
-- Humans
-- Mice
-- Collagen
-- Cyclic AMP-Dependent Protein Kinases
-- NF-kappa B
-- Receptor, Adenosine A2A
-- Cyclic AMP
-- Ultraviolet Rays
 - Signal Transduction
+- Ultraviolet Rays
+- Collagen
 - Electromagnetic Fields
-- Interleukin-1beta
+- Cyclic AMP-Dependent Protein Kinases
+- Receptor, Adenosine A2A
 - NLR Family, Pyrin Domain-Containing 3 Protein
+- Fibroblasts
+- Cyclic AMP
+- Mice
+- NF-kappa B
+- Interleukin-1beta
+- Dermis
+- Humans
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Collagen
-- Cyclic adenosine monophosphate
+- A2A adenosine receptor
+- NLRP3 phosphorylation
+- collagen
+- cyclic adenosine monophosphate
+- interleukin-1β
+- matrix metalloproteinase
+- nuclear factor-κB
 - photoaging
-- Interleukin-1β
-- Nuclear factor-κB
-- Protein Kinase A
-- Matrix Metalloproteinase
-- A2a Adenosine Receptor
-- Pulsed Electromagnetic Field
-- Nlrp3 Phosphorylation
+- protein kinase A
+- pulsed electromagnetic field
 auteurs:
 - Byun KA
 - Lee JI
@@ -48,8 +47,9 @@ auteurs:
 - Son KH
 - Byun K
 pmcid: PMC13566763
-volume: ''
-pages: '7904'
+pdf_local: ''
+volume: '27'
+pages: ''
 modele: in_vivo
 modele_score: 5.0
 modele_secondaires:
@@ -75,7 +75,7 @@ tags:
 
 # Pulsed Electromagnetic Field Exposure Attenuates Ultraviolet B-Induced Dermal Collagen Loss in Association with A2A Adenosine Receptor Signaling.
 
-*journal non renseigné — 2026*
+*International journal of molecular sciences — 2026*
 
 ## Résumé (texte d'origine)
 

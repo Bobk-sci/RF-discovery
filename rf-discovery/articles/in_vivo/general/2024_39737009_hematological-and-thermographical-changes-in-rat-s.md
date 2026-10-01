@@ -8,7 +8,7 @@ titre: Hematological and thermographical changes in rat's model exposed to long-
 url: https://pubmed.ncbi.nlm.nih.gov/39737009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -26,6 +26,7 @@ auteurs:
 - Aghaa OB
 - Hameed BK
 pmcid: PMC11682759
+pdf_local: ''
 volume: ''
 pages: 2837-2847
 modele: in_vivo

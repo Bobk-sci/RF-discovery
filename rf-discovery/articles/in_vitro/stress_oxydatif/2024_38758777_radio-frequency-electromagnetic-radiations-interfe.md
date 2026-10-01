@@ -8,7 +8,7 @@ titre: Radio frequency electromagnetic radiations interfere with the Leydig cell
 url: https://pubmed.ncbi.nlm.nih.gov/38758777/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Leydig Cells
 - Cell Line
@@ -32,6 +32,7 @@ auteurs:
 - Rai U
 - Singh R
 pmcid: PMC11101099
+pdf_local: ''
 volume: ''
 pages: e0299017
 modele: in_vitro

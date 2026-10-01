@@ -8,7 +8,7 @@ titre: 'Gd3+ engineered Co-Mn-Mg spinel nanoferrites for multifunctional therano
 url: https://pubmed.ncbi.nlm.nih.gov/41367692/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

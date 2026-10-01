@@ -8,7 +8,7 @@ titre: 'Impacts of Geomagnetic and Man-Made Electromagnetic Fields on Heart Rate
 url: https://pubmed.ncbi.nlm.nih.gov/42730093/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -32,6 +32,7 @@ auteurs:
 - Chen J
 - Mayrovitz HN
 pmcid: PMC13567157
+pdf_local: ''
 volume: ''
 pages: e114429
 modele: revue

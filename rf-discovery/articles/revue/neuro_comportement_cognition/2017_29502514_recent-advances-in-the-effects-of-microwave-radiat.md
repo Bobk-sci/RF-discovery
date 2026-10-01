@@ -7,7 +7,7 @@ titre: Recent advances in the effects of microwave radiation on brains.
 url: https://pubmed.ncbi.nlm.nih.gov/29502514/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -31,6 +31,7 @@ auteurs:
 - Wang LF
 - Hu XJ
 pmcid: PMC5607572
+pdf_local: ''
 volume: ''
 pages: '29'
 modele: revue

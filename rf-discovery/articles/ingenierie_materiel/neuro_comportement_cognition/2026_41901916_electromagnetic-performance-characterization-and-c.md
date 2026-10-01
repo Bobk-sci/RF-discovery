@@ -8,7 +8,7 @@ titre: Electromagnetic Performance Characterization and Circuit-Level Modeling o
 url: https://pubmed.ncbi.nlm.nih.gov/41901916/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Telemetry
@@ -38,6 +38,7 @@ auteurs:
 - Zahid M
 - Shoaib S
 pmcid: PMC13030409
+pdf_local: ''
 volume: ''
 pages: '1744'
 modele: ingenierie_materiel

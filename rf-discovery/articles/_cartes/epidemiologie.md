@@ -1,8 +1,8 @@
 # epidemiologie
 
-275 articles.
+349 articles.
 
-## cancer (33)
+## cancer (48)
 
 - `2026` [[2026_41186132_utility-of-quantitative-parameters-from-triple-pha]] — Chen M et al.
 - `2026` [[2026_41251127_personal-radio-use-and-risk-of-cancers-among-polic]] — Di Gravio C et al.
@@ -12,11 +12,13 @@
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
+- `2025` [[2025_39301814_occupational-exposure-to-radiofrequency-electromag]] — Turuban M et al.
 - `2025` [[2025_41357589_dual-energy-ct-based-nomogram-for-predicting-progr]] — Pei W et al.
 - `2025` [[2025_41367803_dual-energy-ct-for-distinguishing-between-t3-and-t]] — Li L et al.
 - `2025` [[2025_41623445_radiofrequency-radiation-from-mobile-phones-and-th]] — Tahmasebi S et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
+- `2024` [[2024_39241333_the-effect-of-exposure-to-radiofrequency-fields-on]] — Karipidis K et al.
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.
 - `2023` [[2023_36738768_effects-of-generalization-descriptions-on-risk-per]] — Freudenstein F et al.
 - `2023` [[2023_36906274_the-relationship-between-radiofrequency-electromag]] — Moon J
@@ -27,29 +29,48 @@
 - `2019` [[2019_31612047_radiofrequency-radiation-from-nearby-mobile-phone]] — Koppel T et al.
 - `2018` [[2018_29500663_allergic-conditions-and-risk-of-glioma-and-meningi]] — Pouchieu C et al.
 - `2018` [[2018_29709736_wireless-phone-use-and-risk-of-adult-glioma-eviden]] — Wang P et al.
+- `2018` [[2018_30196934_cancer-epidemiology-update-following-the-2011-iarc]] — Miller AB et al.
+- `2017` [[2017_27738083_radiofrequency-exposure-amongst-employees-of-mobil]] — Litchfield I et al.
 - `2016` [[2016_27050182_mobile-phone-use-and-the-risk-of-parotid-gland-tum]] — Al-Qahtani K
 - `2015` [[2015_26726040_mobile-phone-use-and-risk-of-glioma-a-case-control]] — Yoon S et al.
 - `2014` [[2014_23975478_association-between-vestibular-schwannomas-and-mob]] — Moon IS et al.
 - `2014` [[2014_25249839_mobile-phones-non-ionizing-radiofrequency-fields-a]] — Vijayalaxmi, Prihoda TJ
+- `2013` [[2013_23534787_electromagnetic-field-exposure-and-male-breast-can]] — Sun JW et al.
 - `2013` [[2013_23657200_mobile-phone-use-and-risk-of-brain-neoplasms-and-o]] — Benson VS et al.
 - `2011` [[2011_20589524_association-between-number-of-cell-phone-contracts]] — Lehrer S et al.
+- `2010` [[2010_20145992_extremely-low-frequency-electromagnetic-fields-exp]] — Chen C et al.
 - `2008` [[2008_18256587_mobile-phone-use-exposure-to-radiofrequency-electr]] — Takebayashi T et al.
 - `2006` [[2006_16428250_mobile-phone-use-and-risk-of-glioma-in-adults-case]] — Hepworth SJ et al.
+- `2006` [[2006_16808597_radiofrequency-electromagnetic-fields-emitted-from]] — Schüz J et al.
 - `2006` [[2006_16818464_mobile-phone-use-and-risk-of-parotid-gland-tumor]] — Lönn S et al.
 - `2005` [[2005_15746469_long-term-mobile-phone-use-and-brain-tumor-risk]] — Lönn S et al.
+- `2002` [[2002_12496061_interactive-effect-of-chemical-substances-and-occu]] — Navas-Acién A et al.
+- `2000` [[2000_11021607_radiofrequency-exposure-and-mortality-from-cancer]] — Morgan RW et al.
+- `1999` [[1999_10229715_a-critical-review-of-epidemiologic-studies-of-radi]] — Elwood JM
+- `1999` [[1999_10468425_adult-glioma-in-relation-to-residential-power-freq]] — Wrensch M et al.
+- `1993` [[1993_8218879_occupational-exposure-to-electromagnetic-fields-in]] — Floderus B et al.
+- `1991` [[1991_2016656_electromagnetic-field-exposure-and-leukemia-mortal]] — Robinson CF et al.
+- `1990` [[1990_2372008_incidence-of-leukemia-in-occupations-with-potentia]] — Garland FC et al.
+- `1985` [[1985_4020499_occupational-exposure-to-electromagnetic-fields-an]] — Lin RS et al.
 
-## dosimetrie_exposition (8)
+## dosimetrie_exposition (14)
 
 - `2026` [[2026_42606958_pain-threshold-induced-by-local-exposure-to-millim]] — Yuasa A et al.
+- `2023` [[2023_37722304_personal-exposure-to-radiofrequency-electromagneti]] — Turuban M et al.
 - `2021` [[2021_33285159_health-disturbances-and-exposure-to-radiofrequency]] — Martin S et al.
 - `2018` [[2018_29547352_estimates-of-environmental-exposure-to-radiofreque]] — Satta G et al.
+- `2018` [[2018_30227317_individual-variation-in-temporal-relationships-bet]] — Bogers RP et al.
 - `2018` [[2018_30321997_personal-exposure-to-radio-frequency-electromagnet]] — Zeleke BM et al.
 - `2016` [[2016_27011934_effect-of-electromagnetic-radiations-from-mobile-p]] — Singh K et al.
 - `2016` [[2016_27219506_clinically-defined-non-specific-symptoms-in-the-vi]] — Baliatsas C et al.
 - `2014` [[2014_24632329_modelling-indoor-electromagnetic-fields-emf-from-m]] — Beekhuizen J et al.
+- `2013` [[2013_23988360_design-of-an-ecological-momentary-assessment-study]] — Bogers RP et al.
+- `2011` [[2011_21411077_variability-of-radiofrequency-exposure-across-days]] — Viel JF et al.
 - `2010` [[2010_20708499_effects-of-exposure-to-gsm-mobile-phone-base-stati]] — Augner C et al.
+- `2005` [[2005_15266354_assessment-of-radiofrequency-exposure-from-cellula]] — Berg G et al.
+- `2004` [[2004_15266067_assessment-of-occupational-exposure-to-radiofreque]] — Cooper TG et al.
 
-## eeg_sommeil (31)
+## eeg_sommeil (36)
 
 - `2026` [[2026_39322200_partner-phubbing-and-sleep-quality-serial-mediatio]] — Dikdere B, Türkarslan KK
 - `2026` [[2026_42258677_using-legacy-polysomnography-data-to-train-a-radar]] — Yin M et al.
@@ -75,15 +96,20 @@
 - `2022` [[2022_36536573_longitudinal-correlation-between-cell-phone-use-an]] — Zhang D et al.
 - `2019` [[2019_29334765_examining-use-of-mobile-phones-for-sleep-tracking]] — Robbins R et al.
 - `2018` [[2018_29670503_mobile-phone-chips-reduce-increases-in-eeg-brain-a]] — Henz D et al.
+- `2017` [[2017_28398549_modeled-and-perceived-exposure-to-radiofrequency-e]] — Martens AL et al.
 - `2017` [[2017_28420605_scalable-passive-sleep-monitoring-using-mobile-pho]] — Saeb S et al.
+- `2016` [[2016_25808749_effects-of-electromagnetic-fields-exposure-on-plas]] — Wang Z et al.
 - `2015` [[2015_26235161_technology-use-and-sleep-quality-in-preadolescence]] — Bruni O et al.
 - `2015` [[2015_28344922_mobile-devices-and-insomnia-understanding-risks-an]] — Khan MN et al.
+- `2014` [[2014_25340654_occupational-electromagnetic-field-exposures-assoc]] — Liu H et al.
 - `2013` [[2013_24381254_subjective-symptoms-related-to-gsm-radiation-from]] — Gómez-Perretta C et al.
+- `2012` [[2012_22624036_exposure-to-radiofrequency-electromagnetic-fields]] — Mohler E et al.
+- `2012` [[2012_23369281_effect-of-extremely-low-frequency-electromagnetic]] — Barsam T et al.
 - `2010` [[2010_20726726_effects-of-everyday-radiofrequency-electromagnetic]] — Mohler E et al.
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (81)
+## general (103)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41212451_correlation-between-intrahepatic-iodine-quantity-a]] — Komada T et al.
@@ -121,6 +147,7 @@
 - `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I
 - `2025` [[2025_39582129_nomophobia-a-challenge-among-healthcare-profession]] — Shah R et al.
+- `2025` [[2025_39890539_exposure-to-radiofrequency-electromagnetic-fields]] — Di Ciaula A et al.
 - `2025` [[2025_40242639_does-personal-relevance-moderate-communication-eff]] — Eggeling-Böcker M et al.
 - `2025` [[2025_40434178_mobile-phone-use-characteristics-genetic-predispos]] — Zhang J et al.
 - `2025` [[2025_40897052_prospective-long-term-follow-up-of-patients-with-i]] — Li KH, Guo HR
@@ -139,6 +166,7 @@
 - `2023` [[2023_36779133_association-of-autonomic-balance-with-phone-call-d]] — Gangwar V et al.
 - `2023` [[2023_36974296_an-epidemiological-study-of-cell-phone-related-inj]] — McLaughlin WM et al.
 - `2023` [[2023_37698975_feasibility-and-acceptability-of-a-combined-digita]] — Carter J et al.
+- `2022` [[2022_34647191_the-efficacy-and-safety-of-a-combined-multipolar-r]] — Wattanakrai P et al.
 - `2022` [[2022_34994699_knowledge-and-expectations-of-hearing-aid-apps-amo]] — Han JS et al.
 - `2022` [[2022_35667558_the-humoral-response-of-mrna-covid-19-vaccine-in-h]] — Gueguen M et al.
 - `2022` [[2022_35695276_mobile-cea-a-novel-surveillance-method-for-patient]] — Pakarinen S et al.
@@ -151,27 +179,48 @@
 - `2021` [[2021_34108173_prevention-of-dementia-using-mobile-phone-applicat]] — Eggink E et al.
 - `2021` [[2021_34473063_using-social-media-for-peer-to-peer-cancer-support]] — Lazard AJ et al.
 - `2021` [[2021_34965600_consumer-ratings-of-the-most-desirable-hearing-aid]] — Manchaiah V et al.
+- `2021` [[2021_41550248_safety-and-efficacy-of-amplitude-modulated-radiofr]] — Blackstock AW et al.
 - `2020` [[2020_32182667_the-reflectance-of-human-skin-in-the-millimeter-wa]] — Owda AY et al.
 - `2020` [[2020_32399260_covid-19-and-mobile-phone-hygiene-in-healthcare-se]] — Panigrahi SK et al.
+- `2019` [[2019_30690250_radiofrequency-electromagnetic-field-exposure-and]] — Zeleke BM et al.
 - `2018` [[2018_29350541_using-cell-phone-technology-to-investigate-a-delib]] — Eisenkraft A et al.
 - `2018` [[2018_30139897_links-between-blood-pressure-and-medication-intake]] — Taft C et al.
 - `2018` [[2018_30452753_big-data-for-sound-policies-toward-evidence-inform]] — Gutenberg J et al.
 - `2017` [[2017_28387952_work-productivity-in-rhinitis-using-cell-phones-th]] — Bousquet J et al.
+- `2017` [[2017_28499231_radiofrequency-electromagnetic-fields-and-some-can]] — Gonzalez-Rubio J et al.
 - `2017` [[2017_28732291_comments-on-radiofrequency-electromagnetic-fields]] — Mortazavi SAR et al.
 - `2016` [[2016_26965900_the-use-of-cell-phone-and-insight-into-its-potenti]] — Kim KH et al.
 - `2016` [[2016_27097526_dynamic-assessment-of-exposure-to-air-pollution-us]] — Dewulf B et al.
 - `2015` [[2015_26155473_effect-of-prolonged-use-of-mobile-phone-on-brainst]] — Gupta N et al.
 - `2014` [[2014_23440452_cell-phone-utilization-among-foreign-born-latinos]] — Leite L et al.
 - `2014` [[2014_24692074_the-risk-of-subjective-symptoms-in-mobile-phone-us]] — Szyjkowska A et al.
+- `2013` [[2013_23093102_impact-of-one-s-own-mobile-phone-in-stand-by-mode]] — Urbinello D, Röösli M
+- `2012` [[2012_21982030_cohort-study-on-the-effects-of-everyday-life-radio]] — Frei P et al.
 - `2012` [[2012_23440607_electromagnetic-energy-radiated-from-mobile-phone]] — Alhusseiny A et al.
+- `2011` [[2011_21343580_effects-of-cell-phone-radiofrequency-signal-exposu]] — Volkow ND et al.
+- `2010` [[2010_19834920_a-model-for-radiofrequency-electromagnetic-field-p]] — Bürgi A et al.
+- `2010` [[2010_20487532_conduct-of-a-personal-radiofrequency-electromagnet]] — Röösli M et al.
+- `2009` [[2009_19480652_feasibility-of-a-cohort-study-on-health-risks-caus]] — Breckenkamp J et al.
+- `2009` [[2009_19656570_radiofrequency-exposure-in-the-french-general-popu]] — Viel JF et al.
 - `2007` [[2007_17213224_radio-frequency-exposure-in-mobile-phone-users-imp]] — Morrissey JJ
 - `2007` [[2007_17878148_determination-of-exposure-due-to-mobile-phone-base]] — Neitzke HP et al.
+- `2005` [[2005_15743699_epidemiology-of-health-effects-of-radiofrequency-e]] — Kundi M
+- `2003` [[2003_14508584_biological-effects-on-human-health-due-to-radiofre]] — Breckenkamp J et al.
+- `2003` [[2003_14658291_epidemiological-risk-assessment-of-pathology-devel]] — Tikhonova GI
+- `2000` [[2000_10955406_exposure-to-electromagnetic-fields-and-risk-of-cen]] — Johansen C
+- `1999` [[1999_10487059_bacterial-mutation-in-high-magnetic-fields-and-rad]] — Mineta M et al.
+- `1997` [[1997_9125230_amyotrophic-lateral-sclerosis-and-occupational-exp]] — Davanipour Z et al.
+- `1996` [[1996_8717316_cancer-morbidity-in-subjects-occupationally-expose]] — Szmigielski S
+- `1995` [[1995_7677130_occupations-with-exposure-to-electromagnetic-field]] — Sobel E et al.
+- `1993` [[1993_8398864_incidence-of-cancer-in-persons-with-occupational-e]] — Guénel P et al.
+- `1991` [[1991_1877594_occupational-exposure-to-electromagnetic-fields-an]] — Demers PA et al.
 
-## genotoxicite_epigenetique (1)
+## genotoxicite_epigenetique (2)
 
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
+- `2017` [[2017_28777669_impact-of-radiofrequency-radiation-on-dna-damage-a]] — Zothansiama et al.
 
-## neuro_comportement_cognition (53)
+## neuro_comportement_cognition (59)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
 - `2026` [[2026_41604288_interpretable-machine-learning-model-using-dual-en]] — Liu Y et al.
@@ -217,17 +266,23 @@
 - `2017` [[2017_28717768_symptom-levels-in-care-seeking-bangladeshi-and-nep]] — Love RR et al.
 - `2017` [[2017_28873768_digital-support-for-persons-with-cognitive-impairm]] — Andreassen M et al.
 - `2016` [[2016_25768842_neurocognitive-and-functional-correlates-of-mobile]] — Depp CA et al.
+- `2016` [[2016_26769168_does-exposure-to-environmental-radiofrequency-elec]] — Calvente I et al.
 - `2016` [[2016_27665258_mobile-phone-use-behavioural-problems-and-concentr]] — Roser K et al.
 - `2016` [[2016_27788568_a-cross-sectional-study-of-the-association-between]] — Cho YM et al.
 - `2015` [[2015_25967996_association-between-mobile-phone-use-and-self-repo]] — Zheng F et al.
 - `2015` [[2015_26053080_mobile-phone-overuse-among-elementary-school-stude]] — Kim R et al.
 - `2015` [[2015_26187404_mobile-app-delivered-cognitive-behavioral-therapy]] — Babson KA et al.
 - `2015` [[2015_26222312_symptoms-and-cognitive-functions-in-adolescents-in]] — Schoeni A et al.
+- `2015` [[2015_26474271_memory-performance-wireless-communication-and-expo]] — Schoeni A et al.
 - `2014` [[2014_22605787_development-of-a-set-of-mobile-phone-text-messages]] — Redfern J et al.
 - `2013` [[2013_24082641_adverse-health-effects-of-occupational-exposure-to]] — Dehghan N, Taeb S
 - `2012` [[2012_25929484_long-term-digital-mobile-phone-use-and-cognitive-d]] — Ng TP et al.
+- `2007` [[2007_17216609_effects-of-short-and-long-term-pulsed-radiofrequen]] — Fritzer G et al.
+- `2004` [[2004_15031956_symptoms-of-ill-health-ascribed-to-electromagnetic]] — Röösli M et al.
+- `2004` [[2004_15475717_occupational-exposure-to-electromagnetic-fields-an]] — Qiu C et al.
+- `1996` [[1996_8960730_elevated-risk-of-alzheimer-s-disease-among-workers]] — Sobel E et al.
 
-## neurodeveloppement (56)
+## neurodeveloppement (71)
 
 - `2026` [[2026_41498450_rf-emf-risk-perception-and-trust-in-radiation-prot]] — Eggeling-Böcker M et al.
 - `2026` [[2026_41615383_extended-validity-of-hematocrit-for-dual-energy-ct]] — Han L et al.
@@ -260,49 +315,68 @@
 - `2020` [[2020_33149872_determinants-of-maternal-behavior-of-mobile-phone]] — Li M et al.
 - `2020` [[2020_33433511_occurrence-of-micronuclei-in-exfoliated-buccal-muc]] — Rashmi B et al.
 - `2019` [[2019_30448205_real-world-cell-phone-radiofrequency-electromagnet]] — Wall S et al.
+- `2019` [[2019_30530090_exposure-and-health-risks-perception-of-extremely]] — Gallastegi M et al.
 - `2019` [[2019_30614739_mobile-phone-use-habits-among-adolescents-predicto]] — Hirsh-Yechezkel G et al.
+- `2019` [[2019_31288182_ecological-momentary-assessment-study-of-exposure]] — Bolte JFB et al.
 - `2019` [[2019_31298567_associations-of-cell-phone-use-and-screen-viewing]] — Wada K et al.
 - `2018` [[2018_29704776_recall-of-mobile-phone-usage-and-laterality-in-you]] — Goedhart G et al.
 - `2018` [[2018_29902122_mobile-phone-messaging-to-husbands-to-improve-mate]] — Hazra A et al.
+- `2017` [[2017_27741450_radiofrequency-exposure-in-the-neonatal-medium-car]] — Calvente I et al.
+- `2017` [[2017_28038972_personal-radiofrequency-electromagnetic-field-expo]] — Roser K et al.
 - `2017` [[2017_28342194_analysis-of-mobile-phone-use-among-young-patients]] — Sato Y et al.
 - `2017` [[2017_28428170_who-uses-mobile-phone-health-apps-and-does-use-mat]] — Carroll JK et al.
 - `2017` [[2017_28577556_mobile-phone-use-school-electromagnetic-field-leve]] — Durusoy R et al.
 - `2017` [[2017_28729097_post-caesarean-section-surgical-site-infection-sur]] — Castillo E et al.
 - `2016` [[2016_26956811_etiology-of-pituitary-tumors-a-case-control-study]] — Leng L, Zhang Y
+- `2016` [[2016_27348251_outdoor-and-indoor-sources-of-residential-radiofre]] — Guxens M et al.
 - `2015` [[2015_25115529_mobile-phone-use-and-health-symptoms-in-children]] — Chiu CT et al.
 - `2015` [[2015_25204836_adolescents-electronic-media-use-at-night-sleep-di]] — Lemola S et al.
 - `2015` [[2015_25937931_use-of-mobile-phone-during-pregnancy-and-the-risk]] — Mahmoudabadi FS et al.
 - `2015` [[2015_26015082_feasibility-of-a-large-cohort-study-in-sub-saharan]] — Dalal S et al.
+- `2015` [[2015_26509676_environmental-radiofrequency-electromagnetic-field]] — Huss A et al.
 - `2014` [[2014_25273315_association-between-mobile-phone-use-and-inattenti]] — Zheng F et al.
 - `2014` [[2014_25295243_the-mobi-kids-study-protocol-challenges-in-assessi]] — Sadetzki S et al.
 - `2013` [[2013_23574412_cell-phone-exposures-and-hearing-loss-in-children]] — Sudan M et al.
+- `2012` [[2012_22354128_pregnancy-outcomes-after-paternal-radiofrequency-f]] — Baste V et al.
 - `2012` [[2012_22728900_the-suicidal-feelings-self-injury-and-mobile-phone]] — Oshima N et al.
+- `2012` [[2012_22885353_a-population-based-case-control-study-of-radiofreq]] — Li CY et al.
 - `2012` [[2012_23750182_prenatal-and-postnatal-cell-phone-exposures-and-he]] — Sudan M et al.
 - `2010` [[2010_20570865_mobile-phone-base-stations-and-early-childhood-can]] — Elliott P et al.
 - `2010` [[2010_20573849_tinnitus-and-mobile-phone-use]] — Hutter HP et al.
+- `2010` [[2010_21108839_association-between-exposure-to-radiofrequency-ele]] — Heinrich S et al.
+- `2009` [[2009_19476932_temporal-and-spatial-variability-of-personal-expos]] — Frei P et al.
+- `2009` [[2009_19819523_a-prediction-model-for-personal-radio-frequency-el]] — Frei P et al.
 - `2008` [[2008_18415687_radiofrequency-electromagnetic-fields-male-inferti]] — Baste V et al.
 - `2008` [[2008_18467962_prenatal-and-postnatal-exposure-to-cell-phone-use]] — Divan HA et al.
 - `2006` [[2006_16858619_paternal-occupational-exposure-to-radiofrequency-e]] — Mjøen G et al.
+- `2006` [[2006_17193782_the-prevalence-of-symptoms-attributed-to-electroma]] — Schreier N et al.
 - `2001` [[2001_11138823_the-possible-role-of-radiofrequency-radiation-in-t]] — Stang A et al.
 - `2001` [[2001_11505168_parental-occupational-exposures-to-electromagnetic]] — De Roos AJ et al.
+- `1999` [[1999_10622301_electromagnetic-field-exposures-and-childhood-leuk]] — Dockerty JD et al.
+- `1998` [[1998_9684710_electromagnetic-field-exposures-and-childhood-canc]] — Dockerty JD et al.
+- `1990` [[1990_2343871_paternal-occupational-exposure-to-electromagnetic]] — Wilkins JR, Hundley VD
 
 ## plasticite_synaptique (1)
 
 - `2025` [[2025_41300142_the-effect-of-5g-mobile-phone-electromagnetic-expo]] — Torkan A et al.
 
-## reproduction (6)
+## reproduction (8)
 
 - `2025` [[2025_40009800_effects-of-long-term-low-dose-2-45-ghz-microwave-e]] — Zheng Z et al.
 - `2025` [[2025_40559983_does-electromagnetic-pollution-in-the-art-laborato]] — Baldini GM et al.
 - `2022` [[2022_35436442_effects-of-mobile-phone-use-on-semen-parameters-a]] — Zhang S et al.
 - `2017` [[2017_27838386_self-reported-mobile-phone-use-and-semen-parameter]] — Lewis RC et al.
 - `2016` [[2016_29450127_mobile-phones-electromagnetic-radiation-and-nad-de]] — Hagras AM et al.
+- `2010` [[2010_20054844_radiofrequency-exposure-on-fast-patrol-boats-in-th]] — Baste V et al.
+- `2000` [[2000_10926722_cancer-in-radar-technicians-exposed-to-radiofreque]] — Richter E et al.
 - `1996` [[1996_8946566_semen-analysis-of-military-personnel-associated-wi]] — Weyandt TB et al.
 
-## stress_oxydatif (2)
+## stress_oxydatif (4)
 
 - `2026` [[2026_41109595_bisphenol-a-exposure-modulates-ovarian-cancer-gene]] — Alsaeed SA et al.
 - `2025` [[2025_41104887_investigating-the-effects-of-occupational-noise-an]] — Jafarimanesh S et al.
+- `2020` [[2020_32610554_correlation-of-blood-oxidative-stress-parameters-t]] — Akkam Y et al.
+- `2008` [[2008_18421711_statistical-analysis-of-personal-radiofrequency-el]] — Röösli M et al.
 
 ## thermique (3)
 

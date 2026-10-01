@@ -8,7 +8,7 @@ titre: Quantitative Analysis of Genomic DNA Degradation of <i>E. coli</i> Using 
 url: https://pubmed.ncbi.nlm.nih.gov/38667661/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -24,6 +24,7 @@ auteurs:
 - Momeni O
 - Pandey P
 pmcid: PMC11049425
+pdf_local: ''
 volume: ''
 pages: '242'
 modele: non_classe

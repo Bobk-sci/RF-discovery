@@ -9,7 +9,7 @@ titre: Theaflavin-3,3'-digallate prevents radiofrequency radiation-induced learn
 url: https://pubmed.ncbi.nlm.nih.gov/40827634/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hippocampus
 - Animals
@@ -32,6 +32,7 @@ auteurs:
 - Cao H
 - Qin F
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 7199-7216
 modele: in_vivo

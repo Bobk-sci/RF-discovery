@@ -8,7 +8,7 @@ titre: 'Mitigating Heat-Induced Sperm Damage and Testicular Tissue Abnormalities
 url: https://pubmed.ncbi.nlm.nih.gov/41377131/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -31,6 +31,7 @@ auteurs:
 - Mortazavi SMJ
 - Mortazavi SA
 pmcid: PMC12686669
+pdf_local: ''
 volume: ''
 pages: 555-566
 modele: in_vivo

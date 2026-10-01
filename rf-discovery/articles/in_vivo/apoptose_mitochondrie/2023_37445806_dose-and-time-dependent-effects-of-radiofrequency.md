@@ -2,31 +2,30 @@
 pmid: '37445806'
 doi: 10.3390/ijms241310628
 annee: 2023
-journal: ''
+journal: International journal of molecular sciences
 titre: 'Dose- and Time-Dependent Effects of Radiofrequency Electromagnetic Field on
   Adipose Tissue: Implications of Thermoregulation and Mitochondrial Signaling.'
 url: https://pubmed.ncbi.nlm.nih.gov/37445806/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Animals
-- Mice, Inbred C57BL
 - Mice
-- Signal Transduction
-- Thermogenesis
-- Electromagnetic Fields
 - Male
+- Animals
+- Electromagnetic Fields
+- Mice, Inbred C57BL
 - Adipose Tissue, Brown
+- Signal Transduction
 - Adipose Tissue, White
+- Thermogenesis
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Mitochondria
-- Thermoregulation
-- Adipose tissue
-- Radiofrequency
+- adipose tissue
+- mitochondria
+- radiofrequency
+- thermoregulation
 auteurs:
 - Maalouf J
 - Pelletier A
@@ -36,8 +35,9 @@ auteurs:
 - de Seze R
 - Selmaoui B
 pmcid: PMC10342026
-volume: ''
-pages: '10628'
+pdf_local: ''
+volume: '24'
+pages: ''
 modele: in_vivo
 modele_score: 6.0
 modele_secondaires:
@@ -68,7 +68,7 @@ tags:
 
 # Dose- and Time-Dependent Effects of Radiofrequency Electromagnetic Field on Adipose Tissue: Implications of Thermoregulation and Mitochondrial Signaling.
 
-*journal non renseigné — 2023*
+*International journal of molecular sciences — 2023*
 
 ## Résumé (texte d'origine)
 

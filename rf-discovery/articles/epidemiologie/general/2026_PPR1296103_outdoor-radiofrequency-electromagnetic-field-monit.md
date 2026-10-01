@@ -8,7 +8,7 @@ titre: 'Outdoor radiofrequency electromagnetic field monitoring in urban school 
 url: https://doi.org/10.21203/rs.3.rs-10648854/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -17,6 +17,7 @@ auteurs:
 - Rebernig A
 - Belyaev I
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: epidemiologie

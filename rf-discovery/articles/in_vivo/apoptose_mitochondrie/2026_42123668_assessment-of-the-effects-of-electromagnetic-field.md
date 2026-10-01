@@ -8,7 +8,7 @@ titre: Assessment of the Effects of Electromagnetic Fields on Apoptosis and Stre
 url: https://pubmed.ncbi.nlm.nih.gov/42123668/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Spiders
@@ -32,6 +32,7 @@ auteurs:
 - Lis A
 - Babczyńska A
 pmcid: PMC13164240
+pdf_local: ''
 volume: ''
 pages: '4088'
 modele: in_vivo

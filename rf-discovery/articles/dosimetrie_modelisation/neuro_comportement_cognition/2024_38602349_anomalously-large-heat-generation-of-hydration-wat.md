@@ -7,7 +7,7 @@ titre: Anomalously Large Heat Generation of Hydration Water under Microwave Irra
 url: https://pubmed.ncbi.nlm.nih.gov/38602349/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

@@ -8,7 +8,7 @@ titre: Possible effects of radiofrequency electromagnetic fields on in vivo C6 b
 url: https://pubmed.ncbi.nlm.nih.gov/30421158/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -36,6 +36,7 @@ auteurs:
 - Blazy K
 - Villégier AS
 pmcid: ''
+pdf_local: ''
 volume: '140'
 pages: 539-546
 modele: in_vivo

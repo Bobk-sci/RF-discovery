@@ -8,7 +8,7 @@ titre: 'The Biological Effects of Compound Microwave Exposure with 2.8 GHz and 9
 url: https://pubmed.ncbi.nlm.nih.gov/36497106/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Spleen
 - Lymphocytes
@@ -41,6 +41,7 @@ auteurs:
 - Zhao L
 - Peng R
 pmcid: PMC9735949
+pdf_local: ''
 volume: ''
 pages: '3849'
 modele: in_vivo

@@ -7,7 +7,7 @@ titre: Microwave radiation and thermal effects on the bioenergetics of isolated 
 url: https://pubmed.ncbi.nlm.nih.gov/38843455/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Mitochondria, Liver
 - Animals
@@ -35,6 +35,7 @@ auteurs:
 - Vollet-Filho JD
 - Bagnato VS
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1093-1103
 modele: in_vivo

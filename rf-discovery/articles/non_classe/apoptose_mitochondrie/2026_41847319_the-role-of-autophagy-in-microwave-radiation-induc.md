@@ -8,7 +8,7 @@ titre: The role of autophagy in microwave radiation induced toxicity in iPSC-der
 url: https://pubmed.ncbi.nlm.nih.gov/41847319/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -28,6 +28,7 @@ auteurs:
 - Zhang J
 - Feng Q
 pmcid: PMC12990254
+pdf_local: ''
 volume: ''
 pages: '100288'
 modele: non_classe

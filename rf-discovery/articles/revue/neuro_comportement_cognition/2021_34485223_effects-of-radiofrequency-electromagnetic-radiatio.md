@@ -8,7 +8,7 @@ titre: Effects of Radiofrequency Electromagnetic Radiation on Neurotransmitters 
 url: https://pubmed.ncbi.nlm.nih.gov/34485223/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Humans
@@ -33,6 +33,7 @@ auteurs:
 - Zuo H
 - Li Y
 pmcid: PMC8415840
+pdf_local: ''
 volume: ''
 pages: '691880'
 modele: revue

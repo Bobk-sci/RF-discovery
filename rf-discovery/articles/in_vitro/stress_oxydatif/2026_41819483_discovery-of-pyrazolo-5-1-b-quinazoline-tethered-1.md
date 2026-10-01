@@ -9,7 +9,7 @@ titre: 'Discovery of Pyrazolo[5,1-b]quinazoline Tethered 1,2,3-Triazole Analogs 
 url: https://pubmed.ncbi.nlm.nih.gov/41819483/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Quinazolines
 - Antioxidants

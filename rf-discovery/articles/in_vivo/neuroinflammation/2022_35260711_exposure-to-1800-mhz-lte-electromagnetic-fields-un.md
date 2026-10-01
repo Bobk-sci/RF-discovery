@@ -9,7 +9,7 @@ titre: Exposure to 1800 MHz LTE electromagnetic fields under proinflammatory co
 url: https://pubmed.ncbi.nlm.nih.gov/35260711/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Auditory Cortex
 - Neurons
@@ -32,6 +32,7 @@ auteurs:
 - Edeline JM
 - Mallat M
 pmcid: PMC8902282
+pdf_local: ''
 volume: ''
 pages: '4063'
 modele: in_vivo

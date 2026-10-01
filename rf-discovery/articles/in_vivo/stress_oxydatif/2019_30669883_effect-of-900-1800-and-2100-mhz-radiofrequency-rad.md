@@ -8,7 +8,7 @@ titre: Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and o
 url: https://pubmed.ncbi.nlm.nih.gov/30669883/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - 8-Hydroxy-2'-Deoxyguanosine
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Yavas MC
 - Akdag MZ
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 32-47
 modele: in_vivo

@@ -2,48 +2,48 @@
 pmid: '42594945'
 doi: 10.1088/1361-6560/ae99a6
 annee: 2026
-journal: ''
+journal: Physics in medicine and biology
 titre: A programmable electroculture platform for direction-dependent alternating
   electric field delivery in cancer cell models.
 url: https://pubmed.ncbi.nlm.nih.gov/42594945/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Cell Line, Tumor
 - Humans
-- Cell Culture Techniques
+- Cell Line, Tumor
 - Electricity
-- Temperature
 - Cell Survival
-- Finite Element Analysis
+- Cell Culture Techniques
+- Temperature
 - Models, Biological
+- Finite Element Analysis
 types:
 - Journal Article
 mots_cles:
-- Neuroblastoma
-- Glioblastoma
-- Alternating Electric Fields
-- Tumor Treating Fields
-- Field Orientation
-- Electroculture Platform
+- alternating electric fields
+- electroculture platform
+- field orientation
+- glioblastoma
+- neuroblastoma
+- tumor treating fields
 auteurs:
 - Senturk F
 - Kocum IC
 - Aksan ES
 - Duzen U
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '71'
 pages: ''
 modele: in_vitro
-modele_score: 1008.0
+modele_score: 1007.0
 modele_secondaires:
 - dosimetrie_modelisation
 modele_indices:
 - Cell Line (descripteur décisif)
 - Cell Line, Tumor (descripteur décisif)
 - Cell Culture Techniques (descripteur décisif)
-- in vitro
 - cell culture
 - cell line
 - SH-SY5Y
@@ -70,10 +70,10 @@ tags:
 
 # A programmable electroculture platform for direction-dependent alternating electric field delivery in cancer cell models.
 
-*journal non renseigné — 2026*
+*Physics in medicine and biology — 2026*
 
 ## Résumé (texte d'origine)
 
-<i>Objective.</i>Alternating electric fields (AEFs) at intermediate frequencies have been shown to disrupt mitosis and inhibit the proliferation of rapidly dividing tumor cells. Here, we developed a programmable<i>in vitro</i>AEF exposure system (0-500 kHz, 1-3 V cm<sup>-1</sup>) featuring an electroculture platform compatible with standard 12-well tissue culture plates. The system enables investigation of cellular responses to fixed orthogonal field orientations and periodic polarization switching (PPS), defined as sequential alternation of the field direction between<i>x</i>- and<i>y</i>-axes at user-configurable intervals of 10-300 s.<i>Approach.</i>Exposure conditions were characterized using a fully three-dimensional finite-element model to evaluate electric field distribution and specific absorption rate, while thermal simulations and experimental temperature measurements were used to assess thermal stability and non-thermal operation. Human glioblastoma (U-118 MG), neuroblastoma (SH-SY5Y), and non-malignant endothelial (HUVEC) cells were treated with AEFs (200 kHz, 3 V cm<sup>-1</sup>) for 24-72 h. Cytotoxic effects were assessed using MTT assay, Live/Dead fluorescence staining, and Annexin V/PI imaging, followed by quantitative image analysis.<i>Main Results.</i>AEF treatment induced significant, time-dependent reductions in cancer cell viability, reaching an approximately 80% reduction relative to controls in U-118 and SH-SY5Y cells after 72 h. Fluorescence imaging supported pronounced cytotoxic effects in malignant cells, whereas endothelial cells showed comparatively lower sensitivity. In the PPS mode evaluated after 24 h with a 300 s switching interval, viability in both cancer cell lines was further reduced by approximately 15% relative to the corresponding fixed-axis configurations.<i>Significance.</i>These findings show that, under the tested AEF exposure parameters, periodically switched field orientations can produce stronger cellular responses than fixed-orientation AEF delivery, including the first demonstration in SH-SY5Y cells. By integrating programmable directional switching into a standard 12-well electroculture format, the platform provides a configurable framework for future studies of field orientation and switching interval modulation.
+Objective.Alternating electric fields (AEFs) at intermediate frequencies have been shown to disrupt mitosis and inhibit the proliferation of rapidly dividing tumor cells. Here, we developed a programmablein vitroAEF exposure system (0-500 kHz, 1-3 V cm-1) featuring an electroculture platform compatible with standard 12-well tissue culture plates. The system enables investigation of cellular responses to fixed orthogonal field orientations and periodic polarization switching (PPS), defined as sequential alternation of the field direction betweenx- andy-axes at user-configurable intervals of 10-300 s.Approach.Exposure conditions were characterized using a fully three-dimensional finite-element model to evaluate electric field distribution and specific absorption rate, while thermal simulations and experimental temperature measurements were used to assess thermal stability and non-thermal operation. Human glioblastoma (U-118 MG), neuroblastoma (SH-SY5Y), and non-malignant endothelial (HUVEC) cells were treated with AEFs (200 kHz, 3 V cm-1) for 24-72 h. Cytotoxic effects were assessed using MTT assay, Live/Dead fluorescence staining, and Annexin V/PI imaging, followed by quantitative image analysis.Main Results.AEF treatment induced significant, time-dependent reductions in cancer cell viability, reaching an approximately 80% reduction relative to controls in U-118 and SH-SY5Y cells after 72 h. Fluorescence imaging supported pronounced cytotoxic effects in malignant cells, whereas endothelial cells showed comparatively lower sensitivity. In the PPS mode evaluated after 24 h with a 300 s switching interval, viability in both cancer cell lines was further reduced by approximately 15% relative to the corresponding fixed-axis configurations.Significance.These findings show that, under the tested AEF exposure parameters, periodically switched field orientations can produce stronger cellular responses than fixed-orientation AEF delivery, including the first demonstration in SH-SY5Y cells. By integrating programmable directional switching into a standard 12-well electroculture format, the platform provides a configurable framework for future studies of field orientation and switching interval modulation.
 
 [Référence d'origine](https://pubmed.ncbi.nlm.nih.gov/42594945/)

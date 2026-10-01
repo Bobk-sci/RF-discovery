@@ -7,7 +7,7 @@ titre: Immunotoxicity of radiofrequency radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/35863710/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radio Waves
@@ -33,6 +33,7 @@ auteurs:
 - Sharma RS
 - Singh R
 pmcid: ''
+pdf_local: ''
 volume: '309'
 pages: '119793'
 modele: revue

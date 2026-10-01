@@ -8,7 +8,7 @@ titre: Biomimetic Single-Domain Magnetic Nanochains Surpassing Magnetotactic Bac
 url: https://pubmed.ncbi.nlm.nih.gov/41904808/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Magnetosomes
 - Biomimetics

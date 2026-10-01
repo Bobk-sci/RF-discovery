@@ -8,7 +8,7 @@ titre: Development and external validation of a dual-energy CT-biochemical score
 url: https://pubmed.ncbi.nlm.nih.gov/42547357/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

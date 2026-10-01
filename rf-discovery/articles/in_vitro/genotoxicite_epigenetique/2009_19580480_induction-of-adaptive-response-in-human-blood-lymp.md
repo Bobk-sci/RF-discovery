@@ -8,7 +8,7 @@ titre: Induction of adaptive response in human blood lymphocytes exposed to radi
 url: https://pubmed.ncbi.nlm.nih.gov/19580480/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Humans
@@ -30,6 +30,7 @@ auteurs:
 - Vijayalaxmi
 - Scarfì MR
 pmcid: ''
+pdf_local: ''
 volume: '171'
 pages: 735-42
 modele: in_vitro

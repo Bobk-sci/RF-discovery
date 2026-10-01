@@ -8,7 +8,7 @@ titre: Assessing radiofrequency electromagnetic field exposure in multiple micro
 url: https://pubmed.ncbi.nlm.nih.gov/40414185/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -59,6 +59,7 @@ auteurs:
 - Joseph W
 - Röösli M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '109540'
 modele: dosimetrie_modelisation

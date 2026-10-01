@@ -8,7 +8,7 @@ titre: 'The Effect of Microwave Radiation on the Solidification of C-S-H Gels: I
 url: https://pubmed.ncbi.nlm.nih.gov/37998979/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -30,6 +30,7 @@ auteurs:
 - Hobzová K
 - Novotný M
 pmcid: PMC10671405
+pdf_local: ''
 volume: ''
 pages: '889'
 modele: non_classe

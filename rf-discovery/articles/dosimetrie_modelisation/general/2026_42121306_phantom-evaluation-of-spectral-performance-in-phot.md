@@ -8,7 +8,7 @@ titre: Phantom evaluation of spectral performance in photon-counting CT for brea
 url: https://pubmed.ncbi.nlm.nih.gov/42121306/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Breast Neoplasms

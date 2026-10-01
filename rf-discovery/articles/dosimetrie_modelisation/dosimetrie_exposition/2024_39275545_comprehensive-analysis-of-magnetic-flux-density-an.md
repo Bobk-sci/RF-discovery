@@ -8,7 +8,7 @@ titre: 'Comprehensive Analysis of Magnetic Flux Density and RF-EMF Exposure in E
 url: https://pubmed.ncbi.nlm.nih.gov/39275545/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -19,14 +19,15 @@ mots_cles:
 - Magnetic Flux Density
 - Public Transportation
 - Radiofrequency Electromagnetic Field
-- Electric Buses
 - Icnirp
+- Electric Buses
 auteurs:
 - Albayrak ZE
 - Kurnaz C
 - Karadag T
 - Cheema AA
 pmcid: PMC11397961
+pdf_local: ''
 volume: ''
 pages: '5634'
 modele: dosimetrie_modelisation

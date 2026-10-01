@@ -8,7 +8,7 @@ titre: Transcriptomic and metabolic profiling reveals the effects of long-term m
 url: https://pubmed.ncbi.nlm.nih.gov/40086029/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Peng R
 - Fan J
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '118040'
 modele: in_vivo

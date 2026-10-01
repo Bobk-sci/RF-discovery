@@ -8,7 +8,7 @@ titre: Electromagnetic Field Stimulation Effects on Intrinsically Disordered Pro
 url: https://pubmed.ncbi.nlm.nih.gov/41221473/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Kanakri H
 - Rizkalla M
 pmcid: PMC12599974
+pdf_local: ''
 volume: ''
 pages: 408-438
 modele: dosimetrie_modelisation

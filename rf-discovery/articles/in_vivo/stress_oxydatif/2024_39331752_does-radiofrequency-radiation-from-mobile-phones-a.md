@@ -8,7 +8,7 @@ titre: Does Radiofrequency Radiation From Mobile Phones Affect the Formation of 
 url: https://pubmed.ncbi.nlm.nih.gov/39331752/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Parotid Gland
 - Animals
@@ -38,6 +38,7 @@ auteurs:
 - Kalkan Y
 - Ersoz S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 75S-82S
 modele: in_vivo

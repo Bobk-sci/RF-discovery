@@ -8,7 +8,7 @@ titre: Genome-wide sperm DNA methylation alterations in individuals exposed to r
 url: https://doi.org/10.21203/rs.3.rs-8312864/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -17,6 +17,7 @@ auteurs:
 - Ma Y
 - Tang Z
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vivo

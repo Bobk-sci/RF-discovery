@@ -9,7 +9,7 @@ titre: Radiofrequency electromagnetic field ınhibits HIF-1 alpha and activates 
 url: https://pubmed.ncbi.nlm.nih.gov/40084245/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Mesenteric Arteries
 - Animals
@@ -46,6 +46,7 @@ auteurs:
 - Comlekci S
 - Ozmen O
 pmcid: PMC11898852
+pdf_local: ''
 volume: ''
 pages: 1465-1476
 modele: in_vivo

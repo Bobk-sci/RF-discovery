@@ -8,7 +8,7 @@ titre: 'Interpretable machine learning model using dual-energy CT for predicting
 url: https://pubmed.ncbi.nlm.nih.gov/41604288/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Stomach Neoplasms

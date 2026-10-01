@@ -8,7 +8,7 @@ titre: Rapid Immobilisation of Chemical Reactions in Alkali-Activated Materials 
 url: https://doi.org/10.20944/preprints202410.0394.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint

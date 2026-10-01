@@ -8,7 +8,7 @@ titre: Paternal occupational exposure to radiofrequency electromagnetic fields a
 url: https://pubmed.ncbi.nlm.nih.gov/16858619/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Radiation-Induced
 - Electromagnetic Fields
@@ -37,6 +37,7 @@ auteurs:
 - Hannevik M
 - Irgens LM
 pmcid: ''
+pdf_local: ''
 volume: '21'
 pages: 529-35
 modele: epidemiologie

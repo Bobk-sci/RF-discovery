@@ -8,7 +8,7 @@ titre: Effects of wireless local area network exposure on testicular morphology 
 url: https://pubmed.ncbi.nlm.nih.gov/41593330/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Animals
@@ -34,6 +34,7 @@ auteurs:
 - Engiz BK
 - Kocaman A
 pmcid: PMC12909949
+pdf_local: ''
 volume: ''
 pages: '6387'
 modele: in_vivo

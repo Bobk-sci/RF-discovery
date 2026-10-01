@@ -9,7 +9,7 @@ titre: 'Modulation of brain functional connectivity in healthy young adults foll
 url: https://pubmed.ncbi.nlm.nih.gov/41203108/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Neural Pathways
@@ -40,6 +40,7 @@ auteurs:
 - Yahia-Cherif L
 - Yahia-Cherif L
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 103-109
 modele: epidemiologie

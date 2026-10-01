@@ -7,7 +7,7 @@ titre: Radiofrequency Exposure Levels in Greece.
 url: https://pubmed.ncbi.nlm.nih.gov/36786436/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Greece
 - Electromagnetic Fields
@@ -30,6 +30,7 @@ auteurs:
 - Alexias A
 - Kappas C
 pmcid: ''
+pdf_local: ''
 volume: '44'
 pages: 17-25
 modele: dosimetrie_modelisation

@@ -8,7 +8,7 @@ titre: Stimulation of the brain with radiofrequency electromagnetic field pulses
 url: https://pubmed.ncbi.nlm.nih.gov/23482083/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Brain
@@ -40,6 +40,7 @@ auteurs:
 - Achermann P
 - Huber R
 pmcid: ''
+pdf_local: ''
 volume: '6'
 pages: 805-11
 modele: humain_experimental

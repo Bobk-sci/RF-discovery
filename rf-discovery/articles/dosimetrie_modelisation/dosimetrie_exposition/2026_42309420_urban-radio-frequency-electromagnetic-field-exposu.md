@@ -7,7 +7,7 @@ titre: Urban radio-frequency electromagnetic field exposure in New York City.
 url: https://pubmed.ncbi.nlm.nih.gov/42309420/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Environmental Exposure
@@ -25,6 +25,7 @@ auteurs:
 - Hema S
 - Toledo-Crow R
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '125040'
 modele: dosimetrie_modelisation

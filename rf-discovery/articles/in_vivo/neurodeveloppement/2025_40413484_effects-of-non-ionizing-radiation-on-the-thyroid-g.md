@@ -7,7 +7,7 @@ titre: Effects of non-ionizing radiation on the thyroid gland in rats.
 url: https://pubmed.ncbi.nlm.nih.gov/40413484/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Thyroid Gland
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Tavassoli A
 - Shojaeifard M
 pmcid: PMC12103772
+pdf_local: ''
 volume: ''
 pages: '231'
 modele: in_vivo

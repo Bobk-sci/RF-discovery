@@ -8,7 +8,7 @@ titre: 'Microwave-assisted green tea extract for the long-term effective immobil
 url: https://pubmed.ncbi.nlm.nih.gov/41172665/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

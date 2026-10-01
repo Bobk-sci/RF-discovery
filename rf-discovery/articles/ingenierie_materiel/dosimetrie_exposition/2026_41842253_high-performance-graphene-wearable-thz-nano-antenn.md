@@ -8,7 +8,7 @@ titre: 'High-performance graphene wearable THz nano-antenna using a metasurface 
 url: https://pubmed.ncbi.nlm.nih.gov/41842253/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

@@ -9,7 +9,7 @@ titre: 'Analysis of Dual-Energy Computed Tomography Imaging for the Evaluation o
 url: https://pubmed.ncbi.nlm.nih.gov/41622597/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Male

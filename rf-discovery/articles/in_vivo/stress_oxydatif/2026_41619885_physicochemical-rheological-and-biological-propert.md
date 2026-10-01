@@ -9,7 +9,7 @@ titre: Physicochemical, rheological, and biological properties of insect chitosa
 url: https://pubmed.ncbi.nlm.nih.gov/41619885/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Chitosan

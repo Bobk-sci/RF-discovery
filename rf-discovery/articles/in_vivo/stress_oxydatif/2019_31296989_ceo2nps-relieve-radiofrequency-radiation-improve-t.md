@@ -8,7 +8,7 @@ titre: CeO2NPs relieve radiofrequency radiation, improve testosterone synthesis,
 url: https://pubmed.ncbi.nlm.nih.gov/31296989/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Antioxidants
@@ -41,6 +41,7 @@ auteurs:
 - Ye M
 - Pei H
 pmcid: PMC6598754
+pdf_local: ''
 volume: '14'
 pages: 4601-4611
 modele: in_vivo

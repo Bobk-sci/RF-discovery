@@ -8,7 +8,7 @@ titre: 5G EMF Exposure at 3.6 GHz in Greece Using Data From Frequency-Selective 
 url: https://pubmed.ncbi.nlm.nih.gov/40341584/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -26,6 +26,7 @@ auteurs:
 - Apostolidis C
 - Samaras T
 pmcid: PMC12060845
+pdf_local: ''
 volume: ''
 pages: e70008
 modele: dosimetrie_modelisation

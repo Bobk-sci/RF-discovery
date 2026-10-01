@@ -1,18 +1,19 @@
 # dosimetrie_modelisation
 
-252 articles.
+362 articles.
 
-## apoptose_mitochondrie (3)
+## apoptose_mitochondrie (4)
 
 - `2026` [[2026_41111437_applying-spoof-plasmonic-metasurfaces-to-microwave]] — Nichols ZE et al.
 - `2025` [[2025_41221473_electromagnetic-field-stimulation-effects-on-intri]] — Perez FP et al.
 - `2023` [[2023_37628714_role-of-cx43-in-ipsc-cm-damage-induced-by-microwav]] — Yin Y et al.
+- `2004` [[2004_14735563_apoptosis-induced-by-ultraviolet-radiation-is-enha]] — Markkanen A et al.
 
 ## barriere_hemato_encephalique (1)
 
 - `1998` [[1998_9441959_headaches-from-cellular-telephones-are-they-real-a]] — Frey AH
 
-## cancer (8)
+## cancer (10)
 
 - `2026` [[2026_41522074_early-postoperative-recurrence-prediction-in-pancr]] — Zhang Z et al.
 - `2026` [[2026_42147050_clinical-application-of-1h-mrs-in-the-human-brain]] — Keith GA et al.
@@ -21,9 +22,11 @@
 - `2026` [[2026_PPR1291611_compact-cross-dipole-metamaterial-inspired-thz-ant]] — G SM
 - `2026` [[2026_PPR1311291_total-hip-arthroplasty-on-tumor-treating-fields-de]] — Liang O et al.
 - `2023` [[2023_36706903_incongruities-in-recently-revised-radiofrequency-e]] — Lin JC
+- `2022` [[2022_32149530_evidences-of-the-400-mhz-3-ghz-radiofrequency-elec]] — Pareja-Peña F et al.
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
+- `2015` [[2015_25749340_tumor-promotion-by-exposure-to-radiofrequency-elec]] — Lerchl A et al.
 
-## dosimetrie_exposition (103)
+## dosimetrie_exposition (148)
 
 - `2026` [[2026_41411845_variable-spacing-fast-t1-for-the-analysis-of-fast]] — Robinson AD et al.
 - `2026` [[2026_41481179_the-systems-of-radiological-protection-for-ionizin]] — Dumit S et al.
@@ -85,6 +88,7 @@
 - `2024` [[2024_39660198_development-of-flexible-durable-multi-slotted-ante]] — Sainath K et al.
 - `2024` [[2024_PPR794512_emf-exposure-in-public-places-in-central-greece-ac]] — Softa V et al.
 - `2024` [[2024_PPR856001_specific-absorption-rate-in-human-eye-model-expose]] — Shadidi ZA et al.
+- `2023` [[2023_36368387_comparison-of-personal-exposure-to-radiofrequency]] — Ramirez-Vazquez R et al.
 - `2023` [[2023_36609755_evaluation-of-chinese-populational-exposure-to-env]] — Jiang Y et al.
 - `2023` [[2023_36772628_multi-technology-multi-operator-site-sharing-compl]] — Elbasheir MS et al.
 - `2023` [[2023_36901531_5g-service-and-pacemakers-implantable-defibrillato]] — Vivarelli C et al.
@@ -97,6 +101,7 @@
 - `2023` [[2023_37893280_a-conformal-tri-band-antenna-for-flexible-devices]] — Awan WA et al.
 - `2023` [[2023_PPR731001_1-7-ghz-long-term-evolution-radiofrequency-electro]] — Goh J et al.
 - `2022` [[2022_34622411_spatial-variability-of-outdoor-exposure-to-radiofr]] — Mohammed MOA et al.
+- `2022` [[2022_34995546_very-high-radiofrequency-radiation-at-skeppsbron-i]] — Koppel T et al.
 - `2022` [[2022_35162566_assessment-of-human-exposure-levels-due-to-mobile]] — Bonato M et al.
 - `2022` [[2022_35352614_a-novel-and-effective-technique-to-reduce-electrom]] — L M et al.
 - `2022` [[2022_35511688_in-situ-5g-nr-base-station-exposure-of-the-general]] — Deprez K et al.
@@ -108,34 +113,84 @@
 - `2021` [[2021_32974829_functional-and-network-analyses-of-human-exposure]] — Yang L et al.
 - `2021` [[2021_33221309_radiofrequency-exposure-of-people-living-near-mobi]] — De Giudici P et al.
 - `2021` [[2021_33597554_age-dependence-of-electromagnetic-power-and-heat-d]] — Sacco G et al.
+- `2021` [[2021_33654268_radio-frequency-electromagnetic-field-exposure-and]] — van Wel L et al.
 - `2021` [[2021_33673014_personal-exposure-assessment-to-wi-fi-radiofrequen]] — Ramirez-Vazquez R et al.
 - `2021` [[2021_34130354_compliance-assessment-of-the-epithelial-or-absorbe]] — Samaras T et al.
+- `2021` [[2021_34153890_exposure-to-radiofrequency-electromagnetic-fields]] — Huss A et al.
 - `2021` [[2021_34273995_development-of-health-based-exposure-limits-for-ra]] — Uche UI, Naidenko OV
 - `2021` [[2021_34891364_application-of-stochastic-dosimetry-for-assessing]] — Bonato M et al.
 - `2021` [[2021_34960513_towards-environmental-rf-emf-assessment-of-mmwave]] — Celaya-Echarri M et al.
+- `2020` [[2020_32032814_spatial-and-temporal-assessment-of-radiofrequency]] — Aerts S et al.
 - `2020` [[2020_32167495_guidelines-for-limiting-exposure-to-electromagneti]] — International Commission on Non-Ionizing Radiation Protection (ICNIRP)
+- `2020` [[2020_32183369_georeferencing-of-personal-exposure-to-radiofreque]] — Ramirez-Vazquez R et al.
+- `2020` [[2020_32345908_regarding-icnirp-s-evaluation-of-the-national-toxi]] — Melnick R
+- `2020` [[2020_32382839_comprehensive-radiofrequency-electromagnetic-field]] — Kurnaz C, Mutlu M
+- `2020` [[2020_32990753_evaluation-of-specific-absorption-rate-in-the-far]] — Liorni I et al.
+- `2019` [[2019_30782530_characterisation-of-personal-exposure-to-environme]] — Ramirez-Vazquez R et al.
 - `2019` [[2019_31905869_an-evaluation-of-electromagnetic-exposure-while-us]] — Zradziński P et al.
 - `2018` [[2018_29145005_assessment-of-long-term-spatio-temporal-radiofrequ]] — Aerts S et al.
 - `2018` [[2018_29237074_measurement-and-evaluation-of-electric-field-stren]] — Kurnaz C et al.
+- `2017` [[2017_28121727_characterizing-and-mapping-of-exposure-to-radiofre]] — Zhu G et al.
 - `2017` [[2017_28240792_radiofrequency-exposure-near-an-attocell-as-part-o]] — Thielens A et al.
 - `2017` [[2017_28257069_a-technical-approach-to-the-evaluation-of-radiofre]] — Buckus R et al.
+- `2017` [[2017_28355437_radiofrequency-exposures-of-workers-on-low-power-f]] — Valic B et al.
+- `2017` [[2017_28444698_radiofrequency-exposure-levels-in-amsterdam-school]] — van Wel L et al.
+- `2016` [[2016_26643955_low-amplitude-high-frequency-electromagnetic-field]] — Grémiaux A et al.
+- `2016` [[2016_26969843_drone-based-measurement-system-for-radiofrequency]] — Joseph W et al.
+- `2016` [[2016_27336233_use-of-portable-exposimeters-to-monitor-radiofrequ]] — Sagar S et al.
+- `2016` [[2016_27902455_inaccurate-official-assessment-of-radiofrequency-s]] — Starkey SJ
+- `2015` [[2015_25726724_in-situ-measurements-of-radiofrequency-exposure-le]] — Christopoulou M, Karabetsos E
+- `2015` [[2015_25879021_the-role-of-the-location-of-personal-exposimeters]] — Gryz K et al.
+- `2015` [[2015_26107432_public-exposure-from-indoor-radiofrequency-radiati]] — Lahham A et al.
+- `2015` [[2015_26176419_validity-of-at-home-model-predictions-as-a-proxy-f]] — Martens AL et al.
 - `2015` [[2015_26444190_near-field-radiofrequency-electromagnetic-exposure]] — Rubtsova N et al.
+- `2014` [[2014_25196664_evaluation-of-radiofrequency-exposure-levels-from]] — Kim BC et al.
 - `2014` [[2014_25519944_evaluation-of-exposure-to-electromagnetic-radiofre]] — Gryz K et al.
+- `2013` [[2013_23085070_determination-of-the-duty-cycle-of-wlan-for-realis]] — Joseph W et al.
+- `2013` [[2013_23361425_radiofrequency-exposure-in-greek-indoor-environmen]] — Markakis I, Samaras T
 - `2013` [[2013_23625903_study-of-variations-of-radiofrequency-power-densit]] — Ayinmode BO, Farai IP
+- `2013` [[2013_23734401_human-exposure-to-radiofrequency-electromagnetic-f]] — Federal Communications Commission
+- `2013` [[2013_23861537_radiofrequency-radiation-leakage-from-microwave-ov]] — Lahham A, Sharabati A
+- `2012` [[2012_21835841_outdoor-radiofrequency-radiation-levels-in-the-wes]] — Lahham A, Hammash A
+- `2012` [[2012_21964673_residential-characteristics-and-radiofrequency-ele]] — Breckenkamp J et al.
+- `2012` [[2012_22262818_assessment-of-radiofrequency-radiation-within-the]] — Deatanyah P et al.
+- `2012` [[2012_22377680_comparative-international-analysis-of-radiofrequen]] — Rowley JT, Joyner KH
+- `2010` [[2010_19780092_survey-of-electromagnetic-field-exposure-in-bedroo]] — Tomitsch J et al.
+- `2010` [[2010_20564176_evaluation-of-rf-electromagnetic-field-exposure-le]] — Kim BC, Park SO
 - `2009` [[2009_19194889_specific-absorption-rate-and-electric-field-measur]] — Toivonen T et al.
+- `2009` [[2009_19336431_residential-exposure-to-radiofrequency-fields-from]] — Viel JF et al.
+- `2009` [[2009_19359846_in-situ-measurement-procedures-for-temporal-rf-ele]] — Joseph W et al.
+- `2009` [[2009_19667809_icnirp-statement-on-the-guidelines-for-limiting-ex]] — International Commission on Non-Ionizing Radiation Protection (ICNIRP)
+- `2008` [[2008_18695413_characterization-of-personal-rf-electromagnetic-fi]] — Joseph W et al.
+- `2008` [[2008_19054796_a-practical-method-to-evaluate-radiofrequency-expo]] — Alanko T, Hietanen M
+- `2007` [[2007_17166878_occupational-exposure-to-radiofrequency-fields-in]] — Alanko T, Hietanen M
+- `2007` [[2007_17293700_radiofrequency-exposure-from-wireless-lans-utilizi]] — Foster KR
 - `2006` [[2006_16392968_radiofrequency-dosimetry-for-the-ferris-wheel-mous]] — Faraone A et al.
 - `2006` [[2006_16825734_evaluation-of-stray-radiofrequency-radiation-emitt]] — De Marco M, Maggi S
+- `2005` [[2005_17282864_determining-the-influence-of-population-variation]] — Sauren M et al.
+- `2004` [[2004_14696048_electromagnetic-field-exposure-and-health-among-rf]] — Wilén J et al.
 - `2001` [[2001_11534836_distortion-of-millimeter-wave-absorption-in-biolog]] — Alekseev SI, Ziskin MC
+- `1998` [[1998_9790564_comment-on-the-icnirp-guidelines-for-limiting-expo]] — Herbertz J
 - `1993` [[1993_8491619_specific-absorption-rate-and-radiofrequency-curren]] — Olsen RG, Griner TA
 - `1989` [[1989_2627835_5-ht-contents-change-in-peripheral-blood-of-worker]] — Wang SG
+- `1986` [[1986_3635631_the-development-of-biomedical-approaches-and-conce]] — Czerski P
+- `1985` [[1985_3854055_radiofrequency-radiation-exposure-limits-in-easter]] — Czerski P
+- `1980` [[1980_7284014_induction-of-calcium-ion-efflux-from-brain-tissue]] — Blackman CF et al.
 
-## eeg_sommeil (3)
+## eeg_sommeil (10)
 
 - `2026` [[2026_42748123_the-6g-integrated-perception-and-networking-techno]] — Chen H et al.
+- `2024` [[2024_37972294_influence-of-radiofrequency-electromagnetic-fields]] — Besset D et al.
 - `2020` [[2020_32104921_design-and-dosimetric-analysis-of-an-exposure-faci]] — Schmid G et al.
+- `2017` [[2017_27118764_long-term-evolution-electromagnetic-fields-exposur]] — Yang L et al.
+- `2014` [[2014_24523224_modeling-of-eeg-electrode-artifacts-and-thermal-ri]] — Murbach M et al.
 - `2012` [[2012_22268596_is-there-any-exposure-from-a-mobile-phone-in-stand]] — Mild KH et al.
+- `2009` [[2009_19028599_effects-of-radiofrequency-electromagnetic-fields-o]] — Tkalec M et al.
+- `2005` [[2005_15787706_exposure-to-pulse-modulated-radio-frequency-electr]] — Huber R et al.
+- `2003` [[2003_12696086_radio-frequency-electromagnetic-field-exposure-in]] — Huber R et al.
+- `2000` [[2000_11059895_exposure-to-pulsed-high-frequency-electromagnetic]] — Huber R et al.
 
-## general (50)
+## general (77)
 
 - `2026` [[2026_41435553_validation-and-optimization-of-dual-energy-ct-for]] — Razinskas G et al.
 - `2026` [[2026_41484724_measurement-of-urban-environmental-exposure-to-ext]] — Sanchis-Otero A et al.
@@ -175,26 +230,54 @@
 - `2025` [[2025_PPR996795_determining-the-relationship-between-mobile-phone]] — Sandoval-Diez N et al.
 - `2024` [[2024_38475053_design-and-implementation-of-a-specialised-millime]] — Foroughimehr N et al.
 - `2024` [[2024_38566696_assessment-of-effects-of-chronic-mobile-phone-usag]] — Saroch P et al.
+- `2024` [[2024_39326006_comparison-of-a-radiofrequency-electric-and-magnet]] — Turuban M et al.
 - `2024` [[2024_40039333_utilizing-microwave-radiation-for-the-eradication]] — Mohamadi F, Zolghadri M
 - `2024` [[2024_40291791_determining-the-relationship-between-mobile-phone]] — Sandoval-Diez N et al.
 - `2024` [[2024_PPR912660_determining-the-relationship-between-mobile-phone]] — Sandoval-Diez N et al.
+- `2023` [[2023_37598840_comparison-of-ambient-radiofrequency-electromagnet]] — Loizeau N et al.
 - `2022` [[2022_34998169_using-ai-and-passive-medical-radiometry-for-diagno]] — Levshinskii V et al.
 - `2022` [[2022_36044461_comparative-study-between-radiofrequency-induced-a]] — Lemercier CE et al.
+- `2022` [[2022_36366179_electromagnetic-fields-exposure-assessment-in-euro]] — Iakovidis S et al.
 - `2022` [[2022_36554825_controversy-in-electromagnetic-safety]] — Chou CK
 - `2022` [[2022_36742690_effect-of-mobile-phone-use-on-hearing-in-young-adu]] — Sharma D et al.
+- `2021` [[2021_34150266_wi-fi-related-radiofrequency-electromagnetic-field]] — Zeleke BM et al.
+- `2021` [[2021_34360361_radiofrequency-exposure-levels-from-mobile-phone-b]] — Onishi T et al.
 - `2021` [[2021_34886365_methodology-of-studying-effects-of-mobile-phone-ra]] — Bartosova K et al.
 - `2019` [[2019_29993467_synthetic-ultra-high-resolution-millimeter-wave-im]] — Mirbeik-Sabzevari A et al.
+- `2019` [[2019_31200442_assessment-of-personal-occupational-exposure-to-ra]] — Massardier-Pilonchery A et al.
 - `2019` [[2019_31750144_adverse-effect-of-mobile-phone-on-hearing-in-healt]] — Jadia S et al.
 - `2018` [[2018_30168103_microwave-reflectometry-for-noninvasive-imaging-of]] — Kazemi F et al.
+- `2017` [[2017_28454038_long-term-variations-measurement-of-electromagneti]] — Sánchez-Montero R et al.
+- `2016` [[2016_27588949_assessment-of-personal-exposure-from-radiofrequenc]] — Bhatt CR et al.
+- `2015` [[2015_23942394_electromagnetic-field-exposure-assessment-in-europ]] — Gajšek P et al.
+- `2015` [[2015_24460417_analysis-of-estimation-of-electromagnetic-dosimetr]] — Aguirre E et al.
+- `2015` [[2015_25705676_estimation-of-radiofrequency-power-leakage-from-mi]] — Lopez-Iturri P et al.
+- `2014` [[2014_23915231_estimation-of-electromagnetic-dosimetric-values-fr]] — Aguirre E et al.
+- `2014` [[2014_24964580_environmental-impact-of-the-use-of-radiofrequency]] — Gryz K, Karpowicz J
+- `2014` [[2014_25230564_anthropometric-differentiation-of-effects-of-radio]] — Zradziński P et al.
+- `2012` [[2012_22906414_personal-radiofrequency-electromagnetic-field-meas]] — Bolte JF, Eikelboom T
+- `2011` [[2011_20551994_measured-radiofrequency-exposure-during-various-mo]] — Kelsh MA et al.
+- `2011` [[2011_21544843_calibration-and-uncertainties-in-personal-exposure]] — Bolte JF et al.
+- `2010` [[2010_20564178_the-association-between-exposure-determined-by-rad]] — Neubauer G et al.
+- `2009` [[2009_19321926_assessment-of-sar-in-the-tissues-near-a-cochlear-i]] — Sibella F et al.
+- `2009` [[2009_19584141_measurement-and-analysis-of-radiofrequency-radiati]] — Amoako JK et al.
+- `2004` [[2004_15285261_an-evaluation-of-safety-guidelines-to-restrict-exp]] — Shields N et al.
+- `2003` [[2003_12643800_estimation-of-the-sar-in-the-human-head-and-body-d]] — Bit-Babik G et al.
+- `2002` [[2002_11845841_medical-aspects-of-radiofrequency-radiation-overex]]
+- `1997` [[1997_9099436_measurement-of-radiofrequency-electromagnetic-fiel]] — Boivin WS et al.
+- `1990` [[1990_2323174_an-evaluation-of-radiofrequency-exposure-from-ther]] — Martin CJ et al.
+- `1987` [[1987_3679829_proposed-revision-of-the-canadian-recommendations]] — Stuchly MA
+- `1985` [[1985_3850131_radiofrequency-electromagnetic-leakage-fields-from]] — Eriksson A, Mild KH
 - `1975` [[1975_1212147_evaluation-of-possible-microwave-induced-lens-chan]] — Shacklett DE et al.
 
-## genotoxicite_epigenetique (3)
+## genotoxicite_epigenetique (4)
 
 - `2017` [[2017_28844241_is-mobile-phone-radiation-genotoxic-an-analysis-of]] — de Oliveira FM et al.
 - `2016` [[2016_26476436_exposure-to-915-mhz-radiation-induces-micronuclei]] — Gustavino B et al.
 - `2005` [[2005_15785322_genotoxicity-evaluation-of-electromagnetic-fields]] — Chang SK et al.
+- `1994` [[1994_7515472_clastogenic-effects-of-radiofrequency-radiations-o]] — Haider T et al.
 
-## neuro_comportement_cognition (16)
+## neuro_comportement_cognition (18)
 
 - `2026` [[2026_41448143_comparison-of-methodological-uncertainties-in-tiss]] — Yu S et al.
 - `2026` [[2026_41615330_machine-learning-on-systematically-curated-data-re]] — Vega-Carrasco ER et al.
@@ -209,11 +292,13 @@
 - `2025` [[2025_41413440_ml-ga-based-performance-optimization-of-pbg-enhanc]] — Belhaouari SB et al.
 - `2024` [[2024_38602349_anomalously-large-heat-generation-of-hydration-wat]] — Murakami H
 - `2024` [[2024_40040200_cerebral-blood-flow-monitoring-with-a-portable-rad]] — Anwar U et al.
+- `2023` [[2023_39294811_what-evidence-exists-on-the-impact-of-anthropogeni]] — Karipidis K et al.
 - `2022` [[2022_35270862_lessons-learned-from-a-distributed-rf-emf-sensor-n]] — Aerts S et al.
 - `2022` [[2022_35888240_microwave-treatment-of-calcium-phosphate-titanium]] — Park KH et al.
 - `2012` [[2012_21873111_mobile-phone-emission-modulates-event-related-desy]] — Vecchio F et al.
+- `2011` [[2011_21488064_cognitive-effects-of-cellular-phones-a-possible-ro]] — Hareuveny R et al.
 
-## neurodeveloppement (20)
+## neurodeveloppement (31)
 
 - `2026` [[2026_42233965_exposure-of-the-palm-to-handheld-wireless-devices]] — Christ A et al.
 - `2026` [[2026_42426191_environmental-radiofrequency-exposure-and-genotoxi]] — Chokeli R et al.
@@ -225,15 +310,26 @@
 - `2023` [[2023_36786436_radiofrequency-exposure-levels-in-greece]] — Tyrakis C et al.
 - `2023` [[2023_37299897_assessment-of-children-s-exposure-to-intelligent-t]] — Benini M et al.
 - `2023` [[2023_37414391_dosimetric-assessment-in-the-brain-for-downlink-em]] — Lee AK, Choi HD
+- `2023` [[2023_37571584_assessment-of-the-variability-of-human-exposure-to]] — Tognola G et al.
 - `2023` [[2023_PPR757362_realistic-modeling-of-exposure-to-sub-6-ghz-fifth]] — Ramadan AS et al.
+- `2021` [[2021_33530365_numerical-analysis-of-electromagnetic-field-exposu]] — Morelli MS et al.
+- `2021` [[2021_33998013_individual-exposure-to-environmental-radiofrequenc]] — Besset D et al.
+- `2020` [[2020_31740038_environmental-radiofrequency-electromagnetic-field]] — Besset D et al.
 - `2018` [[2018_28504422_effects-of-mobile-phones-on-children-s-and-adolesc]] — Hardell L
+- `2018` [[2018_29469164_heart-rate-variability-affected-by-radiofrequency]] — Misek J et al.
 - `2018` [[2018_29803802_children-s-exposure-assessment-of-radiofrequency-f]] — Gallastegi M et al.
 - `2018` [[2018_30455754_impact-of-maternal-obesity-and-mobile-phone-use-on]] — Saadia Z
 - `2018` [[2018_30857115_assessment-of-radiofrequency-electromagnetic-field]] — Choi J et al.
 - `2017` [[2017_27759027_radiofrequency-electromagnetic-field-exposures-in]] — Bhatt CR et al.
+- `2017` [[2017_28074013_exposure-to-radiofrequency-electromagnetic-fields]] — Karipidis K et al.
 - `2017` [[2017_28267685_mobile-phone-types-and-sar-characteristics-of-the]] — Lee AK et al.
 - `2017` [[2017_29214149_measurements-of-radiofrequency-radiation-with-a-bo]] — Hedendahl LK et al.
+- `2016` [[2016_27633090_radiofrequency-radiation-at-stockholm-central-rail]] — Hardell L et al.
 - `2015` [[2015_24723195_typical-exposure-of-children-to-emf-exposimetry-an]] — Valič B et al.
+- `2013` [[2013_23280584_ecg-changes-in-factory-workers-exposed-to-27-2-mhz]] — Chen Q et al.
+- `2005` [[2005_15850420_simulation-of-exposure-and-sar-estimation-for-adul]] — Bit-Babik G et al.
+- `2003` [[2003_14995060_human-brain-wave-activity-during-exposure-to-radio]] — D'Costa H et al.
+- `2002` [[2002_11793407_health-and-safety-implications-of-exposure-to-elec]] — Litvak E et al.
 - `1988` [[1988_3372031_health-problems-among-operators-of-plastic-welding]] — Kolmodin-Hedman B et al.
 
 ## neuroinflammation (1)
@@ -245,15 +341,16 @@
 - `2026` [[2026_42183756_gender-differentiation-based-mobile-terminal-elect]] — Zhou WY et al.
 - `1982` [[1982_7064810_occupational-exposures-to-radiofrequency-radiation]] — Cox C et al.
 
-## stress_oxydatif (5)
+## stress_oxydatif (6)
 
 - `2025` [[2025_40400323_direct-measurement-of-non-thermal-microwave-effect]] — Miles A et al.
 - `2024` [[2024_39361824_assessing-the-biochemical-and-genotoxic-effects-of]] — Senavirathna MDHJ, Maimaiti Z
 - `2023` [[2023_36910143_ros-production-in-response-to-high-power-microwave]] — Rana JN et al.
 - `2021` [[2021_33828192_activation-of-matrix-metalloproteinases-and-foxo3a]] — Kim JH et al.
 - `2021` [[2021_34234197_evaluation-of-non-thermal-effect-of-microwave-radi]] — Shaw P et al.
+- `2010` [[2010_20638656_comparison-of-personal-radio-frequency-electromagn]] — Joseph W et al.
 
-## thermique (37)
+## thermique (50)
 
 - `2026` [[2026_41384965_dosimetric-applicator-characterization-in-hyperthe]] — Herrera TD et al.
 - `2026` [[2026_41600503_electromagnetic-exposure-from-rf-antennas-on-subwa]] — Li J et al.
@@ -274,6 +371,7 @@
 - `2026` [[2026_42726545_from-dipolar-interactions-to-tissue-heating-a-mult]] — Moisiuc VM et al.
 - `2026` [[2026_42759781_head-only-mri-of-deep-brain-stimulation-devices-at]] — Louka AM et al.
 - `2025` [[2025_39760845_memory-enhancement-by-transcranial-radiofrequency]] — Baranowski R et al.
+- `2025` [[2025_40255192_use-of-radiofrequency-electromagnetic-fields-appli]] — Gerster D et al.
 - `2025` [[2025_40432039_assessment-of-rf-electromagnetic-exposure-to-car-d]] — Wang S, Lu M
 - `2025` [[2025_40437036_experimental-analysis-of-metamaterial-integrated-a]] — Sharma N et al.
 - `2025` [[2025_41364971_compressed-sensing-based-optimization-of-electroma]] — Phal DD et al.
@@ -288,7 +386,19 @@
 - `2024` [[2024_39559194_thermal-wave-and-pennes-models-of-bioheat-transfer]] — Tasnim ZJ, Nasrin R
 - `2023` [[2023_36850949_investigation-of-microwave-electromagnetic-fields]] — Vaverka F et al.
 - `2023` [[2023_37514884_comparison-of-microwave-hyperthermia-applicator-de]] — Yildiz G et al.
+- `2022` [[2022_35613372_analysis-of-icnirp-2020-basic-restrictions-for-loc]] — Lemay E et al.
 - `2021` [[2021_33206197_radiofrequency-fields-and-calcium-movements-into-a]] — Wood A, Karipidis K
+- `2019` [[2019_30675237_high-ambient-radiofrequency-radiation-in-stockholm]] — Carlberg M et al.
+- `2019` [[2019_31033707_personal-exposure-to-radiofrequency-electromagneti]] — Lahham A, Ayyad H
 - `2019` [[2019_31125321_model-of-steady-state-temperature-rise-in-multilay]] — Gajda GB et al.
+- `2018` [[2018_29957690_modeling-tissue-heating-from-exposure-to-radiofreq]] — Foster KR et al.
+- `2018` [[2018_30247338_systematic-derivation-of-safety-limits-for-time-va]] — Neufeld E, Kuster N
+- `2017` [[2017_28342187_effect-of-adverse-environmental-conditions-and-pro]] — Moore SM et al.
+- `2017` [[2017_28413651_high-radiofrequency-radiation-at-stockholm-old-tow]] — Hardell L et al.
 - `2017` [[2017_28542010_thermal-modeling-for-the-next-generation-of-radiof]] — Foster KR et al.
+- `2015` [[2015_25978146_occupational-exposures-to-radiofrequency-fields-re]] — Hareuveny R et al.
 - `2013` [[2013_23675617_electromagnetic-field-occupational-exposure-non-th]] — Israel M et al.
+- `2011` [[2011_21591902_health-council-of-the-netherlands-no-need-to-chang]] — van Rhoon GC et al.
+- `2010` [[2010_20844329_temperature-changes-associated-with-radiofrequency]] — Matikka Virtanen H et al.
+- `2004` [[2004_14989757_modeling-thermal-responses-in-human-subjects-follo]] — Foster KR, Adair ER
+- `1987` [[1987_3679824_radiofrequency-radiation-activities-and-issues-a-1]] — Elder JA

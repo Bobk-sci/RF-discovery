@@ -8,7 +8,7 @@ titre: Multiparametric dual-energy computed tomography radiomics for predicting 
 url: https://pubmed.ncbi.nlm.nih.gov/41430179/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiomics

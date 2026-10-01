@@ -8,7 +8,7 @@ titre: Preoperative colon cancer nodal staging using dual-energy CT and clinical
 url: https://pubmed.ncbi.nlm.nih.gov/41543562/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Tomography, X-Ray Computed

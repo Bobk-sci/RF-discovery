@@ -8,7 +8,7 @@ titre: Replacing true non-contrast imaging with DECT in GI bleeding demonstrates
 url: https://pubmed.ncbi.nlm.nih.gov/41405692/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female

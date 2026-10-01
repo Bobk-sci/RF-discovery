@@ -8,7 +8,7 @@ titre: Evaluation of DNA Methylation Profiles of LINE-1, Alu and Ribosomal DNA R
 url: https://pubmed.ncbi.nlm.nih.gov/37298336/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Humans
@@ -37,6 +37,7 @@ auteurs:
 - Giorgi G
 - Del Re B
 pmcid: PMC10253908
+pdf_local: ''
 volume: ''
 pages: '9380'
 modele: in_vitro

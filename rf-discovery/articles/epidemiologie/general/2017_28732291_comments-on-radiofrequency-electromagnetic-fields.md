@@ -8,7 +8,7 @@ titre: 'Comments on "Radiofrequency electromagnetic fields and some cancers of u
 url: https://pubmed.ncbi.nlm.nih.gov/28732291/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cities
@@ -28,6 +28,7 @@ auteurs:
 - Mortazavi G
 - Mortazavi SMJ
 pmcid: ''
+pdf_local: ''
 volume: '609'
 pages: '1'
 modele: epidemiologie

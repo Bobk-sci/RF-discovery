@@ -8,7 +8,7 @@ titre: 'Clinical Utility of Dual-Energy CT for Detection, Characterization, and 
 url: https://pubmed.ncbi.nlm.nih.gov/42651014/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article

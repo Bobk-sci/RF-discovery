@@ -8,7 +8,7 @@ titre: 'Mobile phone use, exposure to radiofrequency electromagnetic field, and 
 url: https://pubmed.ncbi.nlm.nih.gov/18256587/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -39,6 +39,7 @@ auteurs:
 - Akiba S
 - Yamaguchi N
 pmcid: PMC2243154
+pdf_local: ''
 volume: '98'
 pages: 652-9
 modele: epidemiologie

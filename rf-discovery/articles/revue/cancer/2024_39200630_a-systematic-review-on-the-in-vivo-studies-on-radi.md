@@ -8,7 +8,7 @@ titre: A Systematic Review on the In Vivo Studies on Radiofrequency (100 kHz-300
 url: https://pubmed.ncbi.nlm.nih.gov/39200630/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -36,6 +36,7 @@ auteurs:
 - Villani P
 - Marino C
 pmcid: PMC11354106
+pdf_local: ''
 volume: ''
 pages: '1020'
 modele: revue

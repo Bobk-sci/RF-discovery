@@ -8,7 +8,7 @@ titre: '[Intracranial Hemorrhage Assessment Using Sequential Acquisition Dual-en
 url: https://pubmed.ncbi.nlm.nih.gov/41605690/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Tomography, X-Ray Computed

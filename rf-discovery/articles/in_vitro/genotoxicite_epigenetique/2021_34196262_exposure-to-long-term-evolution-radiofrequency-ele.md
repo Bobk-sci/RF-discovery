@@ -8,7 +8,7 @@ titre: Exposure to long-term evolution radiofrequency electromagnetic fields dec
 url: https://pubmed.ncbi.nlm.nih.gov/34196262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Proliferation
 - Cellular Senescence
@@ -40,6 +40,7 @@ auteurs:
 - Kim KB
 - Kim HR
 pmcid: ''
+pdf_local: ''
 volume: '84'
 pages: 846-857
 modele: in_vitro

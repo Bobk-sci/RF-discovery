@@ -8,7 +8,7 @@ titre: Combined photobiomodulation and pulsed electromagnetic field exposure att
 url: https://pubmed.ncbi.nlm.nih.gov/42726645/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Ahmad M
 - Pooam M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1-12
 modele: non_classe

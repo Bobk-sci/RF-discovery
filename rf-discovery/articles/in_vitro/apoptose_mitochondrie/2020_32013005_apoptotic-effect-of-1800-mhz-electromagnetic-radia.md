@@ -7,7 +7,7 @@ titre: Apoptotic Effect of 1800 MHz Electromagnetic Radiation on NIH/3T3 Cells.
 url: https://pubmed.ncbi.nlm.nih.gov/32013005/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - NIH 3T3 Cells
 - Mitochondria
@@ -38,6 +38,7 @@ auteurs:
 - Wang ML
 - Murbach M
 pmcid: PMC7037840
+pdf_local: ''
 volume: ''
 pages: E819
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Cellular Phone Irradiation of the Head Affects Heart Rate Variability Dep
 url: https://pubmed.ncbi.nlm.nih.gov/30150437/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Humans
@@ -37,6 +37,7 @@ auteurs:
 - Németh B
 - Hejjel L
 pmcid: PMC6199582
+pdf_local: ''
 volume: ''
 pages: 1145-1153
 modele: humain_experimental

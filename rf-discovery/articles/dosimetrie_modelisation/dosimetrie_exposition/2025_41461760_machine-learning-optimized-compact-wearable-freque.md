@@ -8,7 +8,7 @@ titre: Machine learning-optimized compact wearable frequency reconfigurable ante
 url: https://pubmed.ncbi.nlm.nih.gov/41461760/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -30,6 +30,7 @@ auteurs:
 - See CH
 - Abd-Alhameed R
 pmcid: PMC12749218
+pdf_local: ''
 volume: ''
 pages: '44912'
 modele: dosimetrie_modelisation

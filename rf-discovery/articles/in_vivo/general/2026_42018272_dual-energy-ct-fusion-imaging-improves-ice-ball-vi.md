@@ -8,7 +8,7 @@ titre: Dual-energy CT fusion imaging improves ice-ball visualization in bone dur
 url: https://pubmed.ncbi.nlm.nih.gov/42018272/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Tomography, X-Ray Computed

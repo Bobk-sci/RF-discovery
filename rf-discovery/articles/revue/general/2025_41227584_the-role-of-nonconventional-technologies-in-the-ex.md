@@ -8,7 +8,7 @@ titre: The Role of Nonconventional Technologies in the Extraction Enhancement an
 url: https://pubmed.ncbi.nlm.nih.gov/41227584/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article

@@ -8,7 +8,7 @@ titre: 'Alginate and Chitosan-Based Hydrogels: Effects on the Stability of Encap
 url: https://pubmed.ncbi.nlm.nih.gov/42490055/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Glucuronic Acid
 - Hexuronic Acids
@@ -35,6 +35,7 @@ auteurs:
 - Zoumpanioti M
 - Pawlaczyk-Graja I
 pmcid: PMC13394517
+pdf_local: ''
 volume: ''
 pages: e70230
 modele: non_classe

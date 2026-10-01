@@ -9,7 +9,7 @@ titre: 'Surface Functionalization of Iron Oxide Nanoparticles With Polymers and 
 url: https://pubmed.ncbi.nlm.nih.gov/41891277/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Magnetic Iron Oxide Nanoparticles
 - Polymers

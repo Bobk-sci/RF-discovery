@@ -8,7 +8,7 @@ titre: Compact and low mutual coupling 4 × 4 wideband MIMO antenna design f
 url: https://pubmed.ncbi.nlm.nih.gov/41876601/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

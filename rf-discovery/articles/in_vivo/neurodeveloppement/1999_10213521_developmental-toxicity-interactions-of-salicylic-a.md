@@ -8,7 +8,7 @@ titre: Developmental toxicity interactions of salicylic acid and radiofrequency 
 url: https://pubmed.ncbi.nlm.nih.gov/10213521/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Drug-Induced
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Snyder DL
 - Shaw PB
 pmcid: ''
+pdf_local: ''
 volume: '13'
 pages: 137-45
 modele: in_vivo

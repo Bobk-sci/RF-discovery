@@ -7,7 +7,7 @@ titre: Synthesis and Bioactivity Assessment of Novel Quinolinone-Triazole Hybrid
 url: https://pubmed.ncbi.nlm.nih.gov/41594571/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Quinolones

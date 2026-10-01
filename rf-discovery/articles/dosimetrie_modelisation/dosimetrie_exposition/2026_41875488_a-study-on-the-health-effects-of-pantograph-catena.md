@@ -9,7 +9,7 @@ titre: A study on the health effects of pantograph-catenary arc from high-speed 
 url: https://pubmed.ncbi.nlm.nih.gov/41875488/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pacemaker, Artificial
 - Humans

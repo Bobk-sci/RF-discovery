@@ -8,7 +8,7 @@ titre: Low-cost UWB CPW microwave tattoo sensor for respiratory monitoring using
 url: https://pubmed.ncbi.nlm.nih.gov/42380174/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Monitoring, Physiologic

@@ -8,7 +8,7 @@ titre: 'Tracking Devices for Pets: Health Risk Assessment for Exposure to Radiof
 url: https://pubmed.ncbi.nlm.nih.gov/34573686/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -29,6 +29,7 @@ auteurs:
 - Heizmann V
 - Schauberger G
 pmcid: PMC8465301
+pdf_local: ''
 volume: ''
 pages: '2721'
 modele: revue

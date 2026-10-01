@@ -8,7 +8,7 @@ titre: 'Personal exposure to radiofrequency electromagnetic fields: A comparativ
 url: https://pubmed.ncbi.nlm.nih.gov/38199478/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -32,6 +32,7 @@ auteurs:
 - Vandenbosch GAE
 - Arribas E
 pmcid: ''
+pdf_local: ''
 volume: '246'
 pages: '118124'
 modele: dosimetrie_modelisation

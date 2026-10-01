@@ -2,36 +2,36 @@
 pmid: '42106547'
 doi: 10.1007/s10495-026-02356-5
 annee: 2026
-journal: ''
+journal: 'Apoptosis : an international journal on programmed cell death'
 titre: Gut microbiota-tryptophan-serotonin axis drives anxiety-like behavior via NLRP3-mediated
   neuronal pyroptosis in the medial prefrontal cortex.
 url: https://pubmed.ncbi.nlm.nih.gov/42106547/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Prefrontal Cortex
-- Neurons
 - Animals
-- Mice, Inbred C57BL
-- Mice
-- Serotonin
 - Tryptophan
-- Behavior, Animal
+- Serotonin
+- Mice
 - Anxiety
-- Male
+- Prefrontal Cortex
 - Gastrointestinal Microbiome
+- Neurons
 - Pyroptosis
 - NLR Family, Pyrin Domain-Containing 3 Protein
+- Male
+- Mice, Inbred C57BL
+- Behavior, Animal
 types:
-- Research Support, Non-U.S. Gov't
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles:
 - Anxiety
-- Radiofrequency Radiation
-- Tryptophan Metabolism
-- Gut–brain Axis
-- Neuronal Pyroptosis
+- Gut–brain axis
+- Neuronal pyroptosis
+- Radiofrequency radiation
+- Tryptophan metabolism
 auteurs:
 - Zhou G
 - Wang X
@@ -44,9 +44,10 @@ auteurs:
 - He W
 - Li J
 - Ding G
-pmcid: ''
-volume: ''
-pages: '138'
+pmcid: '11864316'
+pdf_local: ''
+volume: '31'
+pages: ''
 modele: in_vivo
 modele_score: 7.0
 modele_secondaires: []
@@ -70,7 +71,7 @@ tags:
 
 # Gut microbiota-tryptophan-serotonin axis drives anxiety-like behavior via NLRP3-mediated neuronal pyroptosis in the medial prefrontal cortex.
 
-*journal non renseigné — 2026*
+*Apoptosis : an international journal on programmed cell death — 2026*
 
 ## Résumé (texte d'origine)
 

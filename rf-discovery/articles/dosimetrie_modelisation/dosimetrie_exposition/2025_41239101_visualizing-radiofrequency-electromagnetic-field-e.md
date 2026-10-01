@@ -8,7 +8,7 @@ titre: Visualizing radiofrequency electromagnetic field exposure through Voronoi
 url: https://pubmed.ncbi.nlm.nih.gov/41239101/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cities
@@ -27,6 +27,7 @@ auteurs:
 - Ramirez-Vazquez R
 - Escobar I
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 26415-26428
 modele: dosimetrie_modelisation

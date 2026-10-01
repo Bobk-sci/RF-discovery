@@ -8,7 +8,7 @@ titre: Evaluation of 4.0 GHz RF Exposure Effects on Bioaerosols Containing Bov
 url: https://pubmed.ncbi.nlm.nih.gov/41589709/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microwaves
 - Coronavirus, Bovine

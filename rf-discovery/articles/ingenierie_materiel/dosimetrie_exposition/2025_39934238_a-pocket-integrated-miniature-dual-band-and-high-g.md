@@ -8,7 +8,7 @@ titre: A pocket-integrated miniature, dual-band, and high gain textile MIMO ante
 url: https://pubmed.ncbi.nlm.nih.gov/39934238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -20,6 +20,7 @@ auteurs:
 - Singh DK
 - Matekovits L
 pmcid: PMC11814098
+pdf_local: ''
 volume: ''
 pages: '5061'
 modele: ingenierie_materiel

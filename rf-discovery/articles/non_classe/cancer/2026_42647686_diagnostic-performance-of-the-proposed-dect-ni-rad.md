@@ -8,7 +8,7 @@ titre: 'Diagnostic performance of the proposed DECT NI-RADS criteria for imaging
 url: https://pubmed.ncbi.nlm.nih.gov/42647686/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

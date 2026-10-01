@@ -7,7 +7,7 @@ titre: Micro CT calibration accuracy for pre-clinical studies in ion therapy.
 url: https://pubmed.ncbi.nlm.nih.gov/41974168/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Calibration
 - Animals

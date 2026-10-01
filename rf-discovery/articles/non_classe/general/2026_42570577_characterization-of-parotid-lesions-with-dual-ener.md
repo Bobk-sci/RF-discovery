@@ -8,8 +8,24 @@ titre: 'Characterization of parotid lesions with dual-energy CT: Can virtual une
 url: https://pubmed.ncbi.nlm.nih.gov/42570577/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
-mesh: []
+collecte: '2026-10-01'
+mesh:
+- Humans
+- Parotid Neoplasms
+- Radiographic Image Interpretation, Computer-Assisted
+- Tomography, X-Ray Computed
+- Radiographic Image Enhancement
+- Radiography, Dual-Energy Scanned Projection
+- Sensitivity and Specificity
+- Retrospective Studies
+- Reproducibility of Results
+- Adult
+- Aged
+- Aged, 80 and over
+- Middle Aged
+- Female
+- Male
+- Young Adult
 types:
 - Journal Article
 mots_cles:

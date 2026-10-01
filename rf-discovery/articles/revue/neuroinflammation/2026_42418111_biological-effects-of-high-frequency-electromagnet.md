@@ -9,7 +9,7 @@ titre: 'Biological Effects of High-Frequency Electromagnetic Fields on CNS Funct
 url: https://pubmed.ncbi.nlm.nih.gov/42418111/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Animals

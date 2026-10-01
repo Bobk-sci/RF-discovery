@@ -8,7 +8,7 @@ titre: Marked increase in the teratogenicity of the combined administration of t
 url: https://pubmed.ncbi.nlm.nih.gov/1882353/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Congenital Abnormalities
@@ -35,6 +35,7 @@ auteurs:
 - Edwards RM
 - Lary JM
 pmcid: ''
+pdf_local: ''
 volume: '43'
 pages: 621-34
 modele: in_vivo

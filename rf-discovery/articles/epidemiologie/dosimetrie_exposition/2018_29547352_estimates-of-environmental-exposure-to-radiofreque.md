@@ -8,7 +8,7 @@ titre: Estimates of Environmental Exposure to Radiofrequency Electromagnetic Fie
 url: https://pubmed.ncbi.nlm.nih.gov/29547352/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -45,6 +45,7 @@ auteurs:
 - Ennas MG
 - Cocco P
 pmcid: ''
+pdf_local: ''
 volume: '189'
 pages: 541-547
 modele: epidemiologie

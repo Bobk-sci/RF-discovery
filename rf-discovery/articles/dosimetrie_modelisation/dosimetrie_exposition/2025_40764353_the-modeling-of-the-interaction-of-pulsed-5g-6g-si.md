@@ -8,7 +8,7 @@ titre: The modeling of the interaction of pulsed 5G/6G signals and the fine stru
 url: https://pubmed.ncbi.nlm.nih.gov/40764353/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Skin
 - Humans
@@ -25,6 +25,7 @@ auteurs:
 - Feldman Y
 - Ben Ishai P
 pmcid: PMC12325998
+pdf_local: ''
 volume: ''
 pages: '28651'
 modele: dosimetrie_modelisation

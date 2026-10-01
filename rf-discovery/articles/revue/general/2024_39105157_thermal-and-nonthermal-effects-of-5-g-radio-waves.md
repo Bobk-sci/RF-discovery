@@ -7,7 +7,7 @@ titre: Thermal and Nonthermal Effects of 5 G Radio-Waves on Human's Tissue.
 url: https://pubmed.ncbi.nlm.nih.gov/39105157/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields

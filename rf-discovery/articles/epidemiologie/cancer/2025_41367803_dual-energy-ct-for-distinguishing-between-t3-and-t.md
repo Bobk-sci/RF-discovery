@@ -8,7 +8,7 @@ titre: Dual-energy CT for distinguishing between T3 and T4 stages of locally adv
 url: https://pubmed.ncbi.nlm.nih.gov/41367803/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

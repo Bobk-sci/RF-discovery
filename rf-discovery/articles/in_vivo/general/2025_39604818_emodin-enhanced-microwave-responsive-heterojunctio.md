@@ -8,7 +8,7 @@ titre: Emodin Enhanced Microwave-Responsive Heterojunction with Powerful Bacteri
 url: https://pubmed.ncbi.nlm.nih.gov/39604818/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Mice
@@ -36,6 +36,7 @@ auteurs:
 - Zhang X
 - Huang D
 pmcid: PMC11744657
+pdf_local: ''
 volume: ''
 pages: e2409979
 modele: in_vivo

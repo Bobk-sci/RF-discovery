@@ -8,7 +8,7 @@ titre: 'Quantitative Dual-Energy CT Perfusion Versus SPECT/CT V/Q Scintigraphy f
 url: https://pubmed.ncbi.nlm.nih.gov/42021514/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

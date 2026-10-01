@@ -8,7 +8,7 @@ titre: Experimental investigation of four-port MIMO-Dual-Band (MDB) antenna for 
 url: https://pubmed.ncbi.nlm.nih.gov/42213724/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Equipment Design
 - Wireless Technology

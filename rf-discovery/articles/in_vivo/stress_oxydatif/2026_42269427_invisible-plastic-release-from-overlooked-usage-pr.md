@@ -2,32 +2,32 @@
 pmid: '42269427'
 doi: 10.1016/j.foodchem.2026.149912
 annee: 2026
-journal: ''
+journal: Food chemistry
 titre: Invisible plastic release from overlooked usage practices in microwaved food
   packaging.
 url: https://pubmed.ncbi.nlm.nih.gov/42269427/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
+- Food Packaging
 - Animals
+- Microwaves
+- Food Contamination
+- Plastics
 - Rats
 - Polyethylene
-- Plastics
-- Food Contamination
 - Oxidative Stress
-- Microwaves
-- Food Packaging
 types:
 - Journal Article
 mots_cles:
-- Polyethylene
+- Convenience food
 - Dynamic light scattering
-- Surface-enhanced Raman Scattering
-- Polymer Degradation
-- Convenience Food
-- Plastic Contamination
 - Nanoplastics
+- Plastic contamination
+- Polyethylene
+- Polymer degradation
+- Surface-enhanced Raman scattering
 auteurs:
 - Lin PY
 - Hsieh SL
@@ -35,7 +35,8 @@ auteurs:
 - Hsieh YC
 - Hsieh S
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '521'
 pages: '149912'
 modele: in_vivo
 modele_score: 5.0
@@ -60,7 +61,7 @@ tags:
 
 # Invisible plastic release from overlooked usage practices in microwaved food packaging.
 
-*journal non renseigné — 2026*
+*Food chemistry — 2026*
 
 ## Résumé (texte d'origine)
 

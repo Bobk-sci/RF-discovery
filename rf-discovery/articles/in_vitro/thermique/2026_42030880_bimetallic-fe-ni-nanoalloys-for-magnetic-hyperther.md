@@ -8,7 +8,7 @@ titre: 'Bimetallic Fe-Ni nanoalloys for magnetic hyperthermia: Correlating struc
 url: https://pubmed.ncbi.nlm.nih.gov/42030880/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Hyperthermia, Induced

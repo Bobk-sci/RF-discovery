@@ -8,7 +8,7 @@ titre: Microwave Radiation Remodels Hippocampal Astrocytes Subpopulations and In
 url: https://pubmed.ncbi.nlm.nih.gov/42346148/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hippocampus
 - Astrocytes
@@ -40,6 +40,7 @@ auteurs:
 - Zuo H
 - Li Y
 pmcid: PMC13296900
+pdf_local: ''
 volume: ''
 pages: '1121'
 modele: in_vivo

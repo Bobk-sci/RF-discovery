@@ -7,7 +7,7 @@ titre: The effect of electromagnetic fields emitted by mobile phones on human sl
 url: https://pubmed.ncbi.nlm.nih.gov/16272890/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -33,6 +33,7 @@ auteurs:
 - Thompson B
 - Stough C
 pmcid: ''
+pdf_local: ''
 volume: '16'
 pages: 1973-6
 modele: epidemiologie

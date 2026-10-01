@@ -8,7 +8,7 @@ titre: 'Radio Frequency Exposure in Military Contexts: A Narrative Review of The
 url: https://pubmed.ncbi.nlm.nih.gov/41445170/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Occupational Exposure
@@ -23,6 +23,7 @@ auteurs:
 - Risling M
 - Günther M
 pmcid: PMC13542620
+pdf_local: ''
 volume: ''
 pages: e1858-e1863
 modele: revue

@@ -7,7 +7,7 @@ titre: 'Breaking the barrier: disruption of bacterial biofilms using microwave r
 url: https://pubmed.ncbi.nlm.nih.gov/41341957/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Biofilms
@@ -33,6 +33,7 @@ auteurs:
 - Khan AA
 - Jain N
 pmcid: PMC12669098
+pdf_local: ''
 volume: ''
 pages: '1670237'
 modele: in_vitro

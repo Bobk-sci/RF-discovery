@@ -7,7 +7,7 @@ titre: 'Wi-Fi technology and human health impact: a brief review of current know
 url: https://pubmed.ncbi.nlm.nih.gov/35792772/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -41,6 +41,7 @@ auteurs:
 - Mihić MS
 - Avdagić SC
 pmcid: PMC9287836
+pdf_local: ''
 volume: ''
 pages: 94-106
 modele: revue

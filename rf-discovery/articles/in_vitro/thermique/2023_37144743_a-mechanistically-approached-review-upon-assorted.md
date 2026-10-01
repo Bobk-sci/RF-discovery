@@ -8,7 +8,7 @@ titre: A mechanistically approached review upon assorted cell lines stimulated b
 url: https://pubmed.ncbi.nlm.nih.gov/37144743/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Signal Transduction
@@ -29,6 +29,7 @@ auteurs:
 - Askaripour K
 - Żak A
 pmcid: PMC10228405
+pdf_local: ''
 volume: ''
 pages: 1319-1342
 modele: in_vitro

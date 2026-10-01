@@ -8,7 +8,7 @@ titre: Regional ventilation imaging in normal and bronchoconstrictedin vivorabbi
 url: https://pubmed.ncbi.nlm.nih.gov/41633038/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rabbits

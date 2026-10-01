@@ -8,7 +8,7 @@ titre: Sulforaphane Effects on Neuronal-like Cells and Peripheral Blood Mononucl
 url: https://pubmed.ncbi.nlm.nih.gov/39063113/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Neurons
 - Leukocytes, Mononuclear
@@ -41,6 +41,7 @@ auteurs:
 - Caccamo D
 - Currò M
 pmcid: PMC11276899
+pdf_local: ''
 volume: ''
 pages: '7872'
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: 'Effect of Microwave Power Cycle on Temperature Uniformity, Microbial Ina
 url: https://pubmed.ncbi.nlm.nih.gov/42477268/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Milk
 - Animals

@@ -9,7 +9,7 @@ titre: Multi-DECT image-based intra- and peritumoral interpretable radiomics and
 url: https://pubmed.ncbi.nlm.nih.gov/42474719/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

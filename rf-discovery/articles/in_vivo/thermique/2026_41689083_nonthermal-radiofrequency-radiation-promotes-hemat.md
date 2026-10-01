@@ -8,7 +8,7 @@ titre: Nonthermal radiofrequency radiation promotes hematopoietic stem and proge
 url: https://pubmed.ncbi.nlm.nih.gov/41689083/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hematopoietic Stem Cells
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Yang X
 - Li C
 pmcid: PMC13011509
+pdf_local: ''
 volume: ''
 pages: '115'
 modele: in_vivo

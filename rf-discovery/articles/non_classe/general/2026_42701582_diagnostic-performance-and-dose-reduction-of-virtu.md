@@ -8,7 +8,7 @@ titre: Diagnostic performance and dose reduction of virtual noncontrast imaging 
 url: https://pubmed.ncbi.nlm.nih.gov/42701582/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article

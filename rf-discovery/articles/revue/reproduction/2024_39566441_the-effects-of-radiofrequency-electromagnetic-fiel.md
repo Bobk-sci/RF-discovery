@@ -8,7 +8,7 @@ titre: 'The effects of radiofrequency electromagnetic field exposure on biomarke
 url: https://pubmed.ncbi.nlm.nih.gov/39566441/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -41,6 +41,7 @@ auteurs:
 - Verbeek J
 - Wright R
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '108940'
 modele: revue

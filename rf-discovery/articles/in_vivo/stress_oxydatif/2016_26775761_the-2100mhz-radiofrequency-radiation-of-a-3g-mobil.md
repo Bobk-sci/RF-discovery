@@ -8,7 +8,7 @@ titre: The 2100MHz radiofrequency radiation of a 3G-mobile phone and the DNA oxi
 url: https://pubmed.ncbi.nlm.nih.gov/26775761/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -37,6 +37,7 @@ auteurs:
 - Sepici-Dinçel A
 - Seyhan N
 pmcid: ''
+pdf_local: ''
 volume: '75'
 pages: 94-8
 modele: in_vivo

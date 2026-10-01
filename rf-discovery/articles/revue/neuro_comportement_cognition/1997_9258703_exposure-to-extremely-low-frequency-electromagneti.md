@@ -8,7 +8,7 @@ titre: 'Exposure to extremely-low-frequency electromagnetic fields and radiofreq
 url: https://pubmed.ncbi.nlm.nih.gov/9258703/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Blood Pressure
@@ -27,6 +27,7 @@ mots_cles: []
 auteurs:
 - Jauchem JR
 pmcid: ''
+pdf_local: ''
 volume: '70'
 pages: 9-21
 modele: revue

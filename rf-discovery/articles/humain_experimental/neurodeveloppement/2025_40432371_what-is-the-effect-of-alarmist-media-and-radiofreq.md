@@ -8,7 +8,7 @@ titre: What is the effect of alarmist media and radiofrequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/40432371/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Saliva
 - Humans
@@ -42,6 +42,7 @@ auteurs:
 - Beange J
 - Croft RJ
 pmcid: PMC12117290
+pdf_local: ''
 volume: ''
 pages: e70044
 modele: humain_experimental

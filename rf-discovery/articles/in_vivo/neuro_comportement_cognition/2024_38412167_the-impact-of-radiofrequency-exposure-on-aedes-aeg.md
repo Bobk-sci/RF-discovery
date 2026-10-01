@@ -8,7 +8,7 @@ titre: 'The impact of radiofrequency exposure on Aedes aegypti (Diptera: Culicid
 url: https://pubmed.ncbi.nlm.nih.gov/38412167/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -29,6 +29,7 @@ auteurs:
 - Jamal Kareem Z
 - Dapari R
 pmcid: PMC10898727
+pdf_local: ''
 volume: ''
 pages: e0298738
 modele: in_vivo

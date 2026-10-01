@@ -9,7 +9,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with sta
 url: https://pubmed.ncbi.nlm.nih.gov/38713716/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hela Cells
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Kim N
 - Song K
 pmcid: PMC11075873
+pdf_local: ''
 volume: ''
 pages: e0302936
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Species-specific impacts of radiofrequency exposure on the structural and
 url: https://pubmed.ncbi.nlm.nih.gov/42020475/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Ovum
 - Animals
@@ -36,6 +36,7 @@ auteurs:
 - Salim H
 - Rahman ATA
 pmcid: PMC13272684
+pdf_local: ''
 volume: ''
 pages: '18767'
 modele: in_vivo

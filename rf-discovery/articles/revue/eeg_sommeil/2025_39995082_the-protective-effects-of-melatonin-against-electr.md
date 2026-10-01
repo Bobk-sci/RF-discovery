@@ -8,7 +8,7 @@ titre: 'The protective effects of melatonin against electromagnetic waves of cel
 url: https://pubmed.ncbi.nlm.nih.gov/39995082/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -31,6 +31,7 @@ auteurs:
 - Khazaie H
 - Mohammadi M
 pmcid: PMC12008444
+pdf_local: ''
 volume: ''
 pages: 629-637
 modele: revue

@@ -8,7 +8,7 @@ titre: 'Exposure to radiofrequency radiation increases the risk of breast cancer
 url: https://pubmed.ncbi.nlm.nih.gov/33262809/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Hou WH
 - Tsai HT
 pmcid: PMC7690245
+pdf_local: ''
 volume: '21'
 pages: '23'
 modele: revue

@@ -8,7 +8,7 @@ titre: 'CT of Soft Tissue Infections: Current and Future Perspectives from Diagn
 url: https://pubmed.ncbi.nlm.nih.gov/42194874/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

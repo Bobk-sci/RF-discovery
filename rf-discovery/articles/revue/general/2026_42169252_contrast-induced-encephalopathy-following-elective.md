@@ -8,7 +8,7 @@ titre: 'Contrast-Induced Encephalopathy Following Elective Endovascular Aneurysm
 url: https://pubmed.ncbi.nlm.nih.gov/42169252/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

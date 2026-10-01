@@ -8,7 +8,7 @@ titre: Wideband Circularly Polarized Conformal Antenna with Physics-Informed Neu
 url: https://pubmed.ncbi.nlm.nih.gov/42351865/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -18,14 +18,15 @@ mots_cles:
 - Circular Polarization
 - Artificial Intelligence (Ai)
 - Wideband Antenna
+- Conformal Microstrip Antenna
 - Physics-informed Neural Network (Pinn)
 - Internet Of Bio-nano Things (Iobnt)
-- Conformal Microstrip Antenna
 auteurs:
 - Nasirishehni P
 - Jamshidi MB
 - Mehranpour M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '620'
 modele: ingenierie_materiel

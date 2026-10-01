@@ -8,7 +8,7 @@ titre: Conceptualization and Realization of a Vibrating Intrinsic Reverberation 
 url: https://pubmed.ncbi.nlm.nih.gov/41395749/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Plants
 - Equipment Design
@@ -31,6 +31,7 @@ auteurs:
 - Win YN
 - Matthes MS
 pmcid: PMC12703826
+pdf_local: ''
 volume: ''
 pages: e70036
 modele: dosimetrie_modelisation

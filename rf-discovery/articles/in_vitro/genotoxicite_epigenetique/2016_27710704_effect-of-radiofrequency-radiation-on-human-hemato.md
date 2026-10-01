@@ -7,7 +7,7 @@ titre: Effect of Radiofrequency Radiation on Human Hematopoietic Stem Cells.
 url: https://pubmed.ncbi.nlm.nih.gov/27710704/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Apoptosis
 - Cell Cycle
@@ -30,6 +30,7 @@ auteurs:
 - Stopper H
 - Hintzsche H
 pmcid: ''
+pdf_local: ''
 volume: '186'
 pages: 455-465
 modele: in_vitro

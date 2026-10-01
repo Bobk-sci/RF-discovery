@@ -8,7 +8,7 @@ titre: Recycling of e-waste power cables using microwave-induced pyrolysis - pro
 url: https://pubmed.ncbi.nlm.nih.gov/39309642/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -19,6 +19,7 @@ auteurs:
 - Hachisuga N
 - Serpone N
 pmcid: PMC11413734
+pdf_local: ''
 volume: ''
 pages: 29955-29964
 modele: non_classe

@@ -8,7 +8,7 @@ titre: An integrated experimental-computational electromagnetic-thermal framewor
 url: https://pubmed.ncbi.nlm.nih.gov/42748860/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -31,6 +31,7 @@ auteurs:
 - Poljak D
 - Ravnik J
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '104570'
 modele: dosimetrie_modelisation

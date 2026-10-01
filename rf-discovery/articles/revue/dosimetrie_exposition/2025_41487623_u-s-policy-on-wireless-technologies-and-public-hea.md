@@ -8,7 +8,7 @@ titre: 'U.S. policy on wireless technologies and public health protection: regul
 url: https://pubmed.ncbi.nlm.nih.gov/41487623/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Public Health
@@ -34,6 +34,7 @@ mots_cles:
 auteurs:
 - Scarato T
 pmcid: PMC12758153
+pdf_local: ''
 volume: ''
 pages: '1677583'
 modele: revue

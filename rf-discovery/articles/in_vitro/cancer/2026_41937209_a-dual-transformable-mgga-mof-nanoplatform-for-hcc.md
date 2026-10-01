@@ -8,7 +8,7 @@ titre: A dual-transformable MgGa-MOF nanoplatform for HCC therapy via lactate me
 url: https://pubmed.ncbi.nlm.nih.gov/41937209/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Animals
@@ -29,9 +29,9 @@ mots_cles:
 - Immune Metabolism
 - Immune Reactivation
 - Microwave Therapy
-- Microwave-responsive Materials
-- Magnesium Ions (Mg²⁺)
 - Lactate Metabolism Modulation
+- Magnesium Ions (Mg²⁺)
+- Microwave-responsive Materials
 auteurs:
 - Li Y
 - Wei Y

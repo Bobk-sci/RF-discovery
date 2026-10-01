@@ -8,7 +8,7 @@ titre: Computed tomography sequence integration for enhanced proton therapy in p
 url: https://pubmed.ncbi.nlm.nih.gov/41265041/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Proton Therapy
 - Tomography, X-Ray Computed

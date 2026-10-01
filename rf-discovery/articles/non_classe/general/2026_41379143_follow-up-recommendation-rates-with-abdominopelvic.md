@@ -8,7 +8,7 @@ titre: 'Follow-up recommendation rates with abdominopelvic photon counting CT: c
 url: https://pubmed.ncbi.nlm.nih.gov/41379143/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Tomography, X-Ray Computed

@@ -8,7 +8,7 @@ titre: 'New pyrimidine derivatives as potential agents against hepatocellular ca
 url: https://pubmed.ncbi.nlm.nih.gov/41693770/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

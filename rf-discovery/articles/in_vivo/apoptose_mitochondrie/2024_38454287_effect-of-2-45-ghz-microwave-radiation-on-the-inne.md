@@ -8,7 +8,7 @@ titre: 'Effect of 2.45 GHz Microwave Radiation on the Inner Ear: A Histopatholog
 url: https://pubmed.ncbi.nlm.nih.gov/38454287/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cochlea
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Korunur Engiz B
 - Turgut A
 pmcid: PMC10895889
+pdf_local: ''
 volume: ''
 pages: 35-43
 modele: in_vivo

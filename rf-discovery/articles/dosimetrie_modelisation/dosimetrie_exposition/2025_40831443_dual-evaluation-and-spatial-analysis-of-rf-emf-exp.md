@@ -8,7 +8,7 @@ titre: 'Dual Evaluation and Spatial Analysis of RF-EMF Exposure in 5G: Theoretic
 url: https://pubmed.ncbi.nlm.nih.gov/40831443/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -30,6 +30,7 @@ auteurs:
 - Gonzalez-Rubio J
 - Garcia-Pardo C
 pmcid: PMC12365736
+pdf_local: ''
 volume: ''
 pages: e70020
 modele: dosimetrie_modelisation

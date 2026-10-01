@@ -8,7 +8,7 @@ titre: Microwave exposure induced ferroptosis by inhibiting the Nrf2 pathway and
 url: https://pubmed.ncbi.nlm.nih.gov/40527021/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Animals
@@ -52,6 +52,7 @@ auteurs:
 - Wang Y
 - Yao B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '118523'
 modele: in_vivo

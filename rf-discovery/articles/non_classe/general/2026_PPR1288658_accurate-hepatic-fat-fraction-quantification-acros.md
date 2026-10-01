@@ -8,7 +8,7 @@ titre: Accurate Hepatic Fat Fraction Quantification Across Body Sizes Using Phot
 url: https://doi.org/10.64898/2026.07.28.26359152
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint

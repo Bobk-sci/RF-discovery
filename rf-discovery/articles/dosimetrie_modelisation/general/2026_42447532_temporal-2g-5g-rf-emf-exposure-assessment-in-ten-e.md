@@ -8,7 +8,7 @@ titre: Temporal 2G-5G RF-EMF exposure assessment in ten European countries durin
 url: https://pubmed.ncbi.nlm.nih.gov/42447532/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Europe
 - Radio Waves
@@ -47,6 +47,7 @@ auteurs:
 - Guxens M
 - Joseph W
 pmcid: ''
+pdf_local: ''
 volume: '1047'
 pages: '182037'
 modele: dosimetrie_modelisation

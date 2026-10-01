@@ -8,7 +8,7 @@ titre: Effect of surfactant functionalization on Fe3O4aqueous ferrofluid stabili
 url: https://pubmed.ncbi.nlm.nih.gov/42302816/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

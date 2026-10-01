@@ -7,7 +7,7 @@ titre: Real-world cell phone radiofrequency electromagnetic field exposures.
 url: https://pubmed.ncbi.nlm.nih.gov/30448205/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Case-Control Studies
 - Cell Phone
@@ -33,6 +33,7 @@ auteurs:
 - Dobraca D
 - Lipsett M
 pmcid: ''
+pdf_local: ''
 volume: '171'
 pages: 581-592
 modele: epidemiologie

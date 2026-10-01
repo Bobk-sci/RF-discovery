@@ -7,7 +7,7 @@ titre: 'ACR Appropriateness Criteria® Renovascular Hypertension: Update 2026.'
 url: https://pubmed.ncbi.nlm.nih.gov/41817473/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hypertension, Renovascular
 - Humans

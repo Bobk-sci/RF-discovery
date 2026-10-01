@@ -2,29 +2,29 @@
 pmid: '42726545'
 doi: 10.3390/nano16171069
 annee: 2026
-journal: ''
+journal: Nanomaterials (Basel, Switzerland)
 titre: 'From Dipolar Interactions to Tissue Heating: A Multiscale Model for Magnetic
   Hyperthermia.'
 url: https://pubmed.ncbi.nlm.nih.gov/42726545/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh: []
 types:
-- research-article
 - Journal Article
 mots_cles:
-- Magnetic Nanoparticles
-- Magnetic Hyperthermia
-- Specific Absorption Rate (Sar)
-- Dipole–dipole Magnetic Interaction
+- dipole–dipole magnetic interaction
+- magnetic hyperthermia
+- magnetic nanoparticles
+- specific absorption rate (SAR)
 auteurs:
 - Moisiuc VM
 - Astefanoaei I
 - Stancu A
 pmcid: PMC13567240
-volume: ''
-pages: '1069'
+pdf_local: ''
+volume: '16'
+pages: ''
 modele: dosimetrie_modelisation
 modele_score: 4.0
 modele_secondaires: []
@@ -48,7 +48,7 @@ tags:
 
 # From Dipolar Interactions to Tissue Heating: A Multiscale Model for Magnetic Hyperthermia.
 
-*journal non renseigné — 2026*
+*Nanomaterials (Basel, Switzerland) — 2026*
 
 ## Résumé (texte d'origine)
 

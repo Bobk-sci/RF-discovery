@@ -7,7 +7,7 @@ titre: Detrimental impact of cell phone radiation on sperm DNA integrity.
 url: https://pubmed.ncbi.nlm.nih.gov/38263592/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -22,6 +22,7 @@ auteurs:
 - Dehghanpour F
 - Seify M
 pmcid: PMC10914500
+pdf_local: ''
 volume: ''
 pages: 13-19
 modele: revue

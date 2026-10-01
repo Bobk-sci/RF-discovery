@@ -9,7 +9,7 @@ titre: Effects of Radiofrequency Electromagnetic Fields Emitted from Mobile Phon
 url: https://pubmed.ncbi.nlm.nih.gov/36059281/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Paknahad M
 - Khandadash S
 pmcid: PMC9395628
+pdf_local: ''
 volume: ''
 pages: 387-394
 modele: non_classe

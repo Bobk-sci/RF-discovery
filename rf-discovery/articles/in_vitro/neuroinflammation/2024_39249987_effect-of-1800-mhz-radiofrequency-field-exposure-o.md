@@ -8,7 +8,7 @@ titre: Effect of 1800 MHz radiofrequency field exposure on cytokine and signal
 url: https://pubmed.ncbi.nlm.nih.gov/39249987/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Monocytes
 - Humans
@@ -35,6 +35,7 @@ auteurs:
 - Smiley S
 - McNamee JP
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1594-1600
 modele: in_vitro

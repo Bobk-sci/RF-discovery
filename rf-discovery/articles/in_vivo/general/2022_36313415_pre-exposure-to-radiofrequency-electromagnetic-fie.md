@@ -8,7 +8,7 @@ titre: Pre-Exposure to Radiofrequency Electromagnetic Fields and Induction of Ra
 url: https://pubmed.ncbi.nlm.nih.gov/36313415/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Seyfizadeh N
 - Shafiee M
 pmcid: PMC9589077
+pdf_local: ''
 volume: ''
 pages: 505-512
 modele: in_vivo

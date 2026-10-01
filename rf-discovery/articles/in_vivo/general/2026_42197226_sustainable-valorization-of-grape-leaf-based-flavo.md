@@ -8,7 +8,7 @@ titre: Sustainable Valorization of Grape-Leaf-Based Flavonoid Natural Dye Molecu
 url: https://pubmed.ncbi.nlm.nih.gov/42197226/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Wool
 - Animals

@@ -8,7 +8,7 @@ titre: 'The International Collaborative Animal Study of mobile phone radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/41527296/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -29,9 +29,9 @@ types:
 mots_cles:
 - Genotoxicity
 - International Collaborative Study
-- Cdma 900 Mhz Rf-emf
 - Long-term Carcinogenicity Bioassay
 - Ntp Validation Study
+- Cdma 900 Mhz Rf-emf
 auteurs:
 - Imaida K
 - Kawabe M
@@ -44,6 +44,7 @@ auteurs:
 - Kim HS
 - Ahn YH
 pmcid: PMC13078595
+pdf_local: ''
 volume: ''
 pages: kfag002
 modele: in_vivo

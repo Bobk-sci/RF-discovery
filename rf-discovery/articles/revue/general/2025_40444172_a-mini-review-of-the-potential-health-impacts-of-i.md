@@ -8,7 +8,7 @@ titre: A Mini-Review of the Potential Health Impacts of Indoor Radiation Exposur
 url: https://pubmed.ncbi.nlm.nih.gov/40444172/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -30,6 +30,7 @@ auteurs:
 - Nikolopoulos CD
 - Kavantzas N
 pmcid: PMC12120279
+pdf_local: ''
 volume: ''
 pages: '11786302251342972'
 modele: revue

@@ -8,7 +8,7 @@ titre: Effects of radiofrequency exposure emitted from a GSM mobile phone on pro
 url: https://pubmed.ncbi.nlm.nih.gov/28713615/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Mortazavi SMJ
 - Azari H
 pmcid: PMC5509895
+pdf_local: ''
 volume: '50'
 pages: 115-123
 modele: in_vitro

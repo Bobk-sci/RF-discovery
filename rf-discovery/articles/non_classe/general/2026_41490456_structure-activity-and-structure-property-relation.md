@@ -9,7 +9,7 @@ titre: 'Structure-activity and structure-property relationships in CARBAZOLE-bas
 url: https://pubmed.ncbi.nlm.nih.gov/41490456/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Structure-Activity Relationship
 - Microbial Sensitivity Tests

@@ -8,7 +8,7 @@ titre: Effects of 2.4 GHz radiofrequency electromagnetic field exposure on hippo
 url: https://doi.org/10.21203/rs.3.rs-4637718/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -25,6 +25,7 @@ auteurs:
 - Zhang Y
 - Wu H
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vivo

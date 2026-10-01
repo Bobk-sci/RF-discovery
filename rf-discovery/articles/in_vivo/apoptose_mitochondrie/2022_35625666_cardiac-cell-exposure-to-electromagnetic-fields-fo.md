@@ -2,21 +2,22 @@
 pmid: '35625666'
 doi: 10.3390/biomedicines10050929
 annee: 2022
-journal: Biomedicines
+journal: ''
 titre: 'Cardiac Cell Exposure to Electromagnetic Fields: Focus on Oxdative Stress
   and Apoptosis.'
 url: https://pubmed.ncbi.nlm.nih.gov/35625666/
-source: pubmed
-acces_ouvert: ''
-collecte: '2026-09-21'
+source: europepmc
+acces_ouvert: open
+collecte: '2026-10-01'
 mesh: []
 types:
+- research-article
 - Journal Article
 mots_cles:
-- apoptosis
-- cardiomyoblasts
-- electromagnetic fields
-- oxidative stress
+- Apoptosis
+- Oxidative stress
+- Electromagnetic fields
+- Cardiomyoblasts
 auteurs:
 - Martinelli I
 - Cinato M
@@ -26,8 +27,9 @@ auteurs:
 - Tao J
 - Kunduzova O
 pmcid: PMC9138495
-volume: '10'
-pages: ''
+pdf_local: ''
+volume: ''
+pages: '929'
 modele: in_vivo
 modele_score: 3.0
 modele_secondaires:
@@ -54,7 +56,7 @@ tags:
 
 # Cardiac Cell Exposure to Electromagnetic Fields: Focus on Oxdative Stress and Apoptosis.
 
-*Biomedicines — 2022*
+*journal non renseigné — 2022*
 
 ## Résumé (texte d'origine)
 

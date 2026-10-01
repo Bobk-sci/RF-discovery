@@ -8,7 +8,7 @@ titre: Epidemiologic Evidence of Radiofrequency Radiation (Microwave) Effects on
 url: https://pubmed.ncbi.nlm.nih.gov/9990158/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -16,6 +16,7 @@ mots_cles: []
 auteurs:
 - Goldsmith JR
 pmcid: ''
+pdf_local: ''
 volume: '1'
 pages: 47-57
 modele: revue

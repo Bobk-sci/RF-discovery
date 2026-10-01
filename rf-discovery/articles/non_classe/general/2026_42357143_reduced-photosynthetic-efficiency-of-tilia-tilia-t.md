@@ -8,7 +8,7 @@ titre: Reduced Photosynthetic Efficiency of Tilia (Tilia tomentosa) Exposed to R
 url: https://pubmed.ncbi.nlm.nih.gov/42357143/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

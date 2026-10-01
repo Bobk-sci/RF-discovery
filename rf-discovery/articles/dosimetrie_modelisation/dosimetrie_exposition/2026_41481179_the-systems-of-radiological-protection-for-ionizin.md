@@ -7,7 +7,7 @@ titre: The Systems of Radiological Protection for Ionizing and Non-Ionizing Radi
 url: https://pubmed.ncbi.nlm.nih.gov/41481179/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Radiation Protection
 - Humans

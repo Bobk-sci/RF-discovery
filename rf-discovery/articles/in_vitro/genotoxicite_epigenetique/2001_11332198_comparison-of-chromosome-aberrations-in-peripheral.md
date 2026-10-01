@@ -8,7 +8,7 @@ titre: Comparison of chromosome aberrations in peripheral blood lymphocytes from
 url: https://pubmed.ncbi.nlm.nih.gov/11332198/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -34,6 +34,7 @@ auteurs:
 - Lekić A
 - Radosević-Stasić B
 pmcid: ''
+pdf_local: ''
 volume: '55'
 pages: 117-27
 modele: in_vitro

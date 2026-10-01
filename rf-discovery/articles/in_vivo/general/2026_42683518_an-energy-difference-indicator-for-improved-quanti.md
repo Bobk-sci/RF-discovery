@@ -8,7 +8,7 @@ titre: An energy-difference indicator for improved quantification of bone minera
 url: https://pubmed.ncbi.nlm.nih.gov/42683518/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Tibia
 - Animals

@@ -8,7 +8,7 @@ titre: 'Density-Dependent Microwave Heating of Aluminum Nanoparticle Compacts: E
 url: https://doi.org/10.21203/rs.3.rs-10463012/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -18,6 +18,7 @@ auteurs:
 - Pantoya ML
 - Saed MA
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: non_classe

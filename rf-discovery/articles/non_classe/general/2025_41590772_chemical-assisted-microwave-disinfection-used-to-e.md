@@ -8,7 +8,7 @@ titre: Chemical-Assisted Microwave Disinfection Used to Eradicate <i>Candida alb
 url: https://pubmed.ncbi.nlm.nih.gov/41590772/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -28,6 +28,7 @@ auteurs:
 - Wawer JK
 - Gawlak D
 pmcid: PMC12841953
+pdf_local: ''
 volume: ''
 pages: '4'
 modele: non_classe

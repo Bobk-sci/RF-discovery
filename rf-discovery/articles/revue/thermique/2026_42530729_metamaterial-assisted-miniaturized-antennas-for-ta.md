@@ -2,29 +2,30 @@
 pmid: '42530729'
 doi: 10.1007/s10439-026-04301-8
 annee: 2026
-journal: ''
+journal: Annals of biomedical engineering
 titre: 'Metamaterial-Assisted Miniaturized Antennas for Targeted Microwave Hyperthermia:
   From Deep Tissue Focus to Energy Efficiency.'
 url: https://pubmed.ncbi.nlm.nih.gov/42530729/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
-- Review
 - Journal Article
+- Review
 mots_cles:
-- SAR
-- microwave hyperthermia
 - Metamaterial
-- Targeted Tumor Therapy
-- Miniaturized Antennas
+- Microwave hyperthermia
+- Miniaturized antennas
+- SAR
+- Targeted tumor therapy
 auteurs:
 - Zuo J
 - Ye J
 - Xu C
 - Zhu H
-pmcid: ''
+pmcid: '8914919'
+pdf_local: ''
 volume: ''
 pages: ''
 modele: revue
@@ -54,7 +55,7 @@ tags:
 
 # Metamaterial-Assisted Miniaturized Antennas for Targeted Microwave Hyperthermia: From Deep Tissue Focus to Energy Efficiency.
 
-*journal non renseigné — 2026*
+*Annals of biomedical engineering — 2026*
 
 ## Résumé (texte d'origine)
 

@@ -8,7 +8,7 @@ titre: 'A Swiss army knife for the treatment of bone cancers: a new multifunctio
 url: https://pubmed.ncbi.nlm.nih.gov/42003487/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Copper
 - Bone Neoplasms

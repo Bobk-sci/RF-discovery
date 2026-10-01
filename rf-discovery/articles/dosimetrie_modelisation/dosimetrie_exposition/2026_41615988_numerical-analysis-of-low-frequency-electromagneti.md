@@ -2,23 +2,22 @@
 pmid: '41615988'
 doi: 10.1371/journal.pone.0340031
 annee: 2026
-journal: ''
+journal: PloS one
 titre: Numerical analysis of low-frequency electromagnetic field effects from three-phase
   transformer on coronary stents and cardiac tissues.
 url: https://pubmed.ncbi.nlm.nih.gov/41615988/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Coronary Vessels
-- Heart
-- Humans
-- Magnesium
-- Stents
 - Electromagnetic Fields
+- Humans
+- Stents
+- Heart
 - Computer Simulation
+- Coronary Vessels
+- Magnesium
 types:
-- research-article
 - Journal Article
 mots_cles: []
 auteurs:
@@ -27,7 +26,8 @@ auteurs:
 - Lu M
 - Cui JJ
 pmcid: PMC12857949
-volume: ''
+pdf_local: ''
+volume: '21'
 pages: e0340031
 modele: dosimetrie_modelisation
 modele_score: 2.0
@@ -49,7 +49,7 @@ tags:
 
 # Numerical analysis of low-frequency electromagnetic field effects from three-phase transformer on coronary stents and cardiac tissues.
 
-*journal non renseigné — 2026*
+*PloS one — 2026*
 
 ## Résumé (texte d'origine)
 

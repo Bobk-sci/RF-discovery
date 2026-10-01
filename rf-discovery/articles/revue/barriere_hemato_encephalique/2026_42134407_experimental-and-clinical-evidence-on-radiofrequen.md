@@ -8,7 +8,7 @@ titre: 'Experimental and clinical evidence on radiofrequency electromagnetic fie
 url: https://pubmed.ncbi.nlm.nih.gov/42134407/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Blood-Brain Barrier
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Paulides MM
 - Buyukatalay EO
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: revue

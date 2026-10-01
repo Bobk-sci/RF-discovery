@@ -2,31 +2,30 @@
 pmid: '38997526'
 doi: 10.1007/s00418-024-02308-7
 annee: 2024
-journal: ''
+journal: Histochemistry and cell biology
 titre: Short and long-term 2100 MHz radiofrequency radiation causes endoplasmic reticulum
   stress in rat testis.
 url: https://pubmed.ncbi.nlm.nih.gov/38997526/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Testis
 - Animals
-- Rats
-- Rats, Sprague-Dawley
-- Apoptosis
-- Radio Waves
 - Male
 - Endoplasmic Reticulum Stress
+- Testis
+- Rats
+- Rats, Sprague-Dawley
+- Radio Waves
+- Apoptosis
 types:
-- research-article
 - Journal Article
 mots_cles:
 - Apoptosis
-- Male infertility
-- endoplasmic reticulum stress
-- Radiofrequency Radiation
+- Endoplasmic reticulum stress
 - Grp78
+- Male infertility
+- Radiofrequency radiation
 auteurs:
 - Kirimlioglu E
 - Oflamaz AO
@@ -35,7 +34,8 @@ auteurs:
 - Yargicoglu P
 - Demir N
 pmcid: PMC11364557
-volume: ''
+pdf_local: ''
+volume: '162'
 pages: 311-321
 modele: in_vivo
 modele_score: 8.5
@@ -62,7 +62,7 @@ tags:
 
 # Short and long-term 2100 MHz radiofrequency radiation causes endoplasmic reticulum stress in rat testis.
 
-*journal non renseigné — 2024*
+*Histochemistry and cell biology — 2024*
 
 ## Résumé (texte d'origine)
 

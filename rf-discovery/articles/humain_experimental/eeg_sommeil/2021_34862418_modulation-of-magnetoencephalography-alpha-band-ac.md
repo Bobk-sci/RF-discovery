@@ -2,34 +2,33 @@
 pmid: '34862418'
 doi: 10.1038/s41598-021-02560-0
 annee: 2021
-journal: ''
+journal: Scientific reports
 titre: Modulation of magnetoencephalography alpha band activity by radiofrequency
   electromagnetic field depicted in sensor and source space.
 url: https://pubmed.ncbi.nlm.nih.gov/34862418/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Cerebral Cortex
-- Saliva
-- Humans
+- Adult
+- Biomarkers
 - Caffeine
-- Magnetoencephalography
+- Cerebral Cortex
 - Chromatography, High Pressure Liquid
 - Cross-Over Studies
 - Double-Blind Method
 - Electromagnetic Fields
-- Rest
-- Adult
 - Female
+- Humans
+- Magnetoencephalography
 - Male
 - Ocular Physiological Phenomena
+- Rest
+- Saliva
 - Young Adult
-- Biomarkers
 types:
-- Research Support, Non-U.S. Gov't
-- research-article
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles: []
 auteurs:
 - Wallace J
@@ -39,7 +38,8 @@ auteurs:
 - Lemaréchal JD
 - Selmaoui B
 pmcid: PMC8642443
-volume: ''
+pdf_local: ''
+volume: '11'
 pages: '23403'
 modele: humain_experimental
 modele_score: 5.0
@@ -66,7 +66,7 @@ tags:
 
 # Modulation of magnetoencephalography alpha band activity by radiofrequency electromagnetic field depicted in sensor and source space.
 
-*journal non renseigné — 2021*
+*Scientific reports — 2021*
 
 ## Résumé (texte d'origine)
 

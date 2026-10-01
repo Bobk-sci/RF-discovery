@@ -2,30 +2,29 @@
 pmid: '37372672'
 doi: 10.3390/ijerph20126085
 annee: 2023
-journal: ''
+journal: International journal of environmental research and public health
 titre: 'NextGEM: Next-Generation Integrated Sensing and Analytical System for Monitoring
   and Assessing Radiofrequency Electromagnetic Field Exposure and Health.'
 url: https://pubmed.ncbi.nlm.nih.gov/37372672/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
 - Humans
-- Environmental Exposure
 - Electromagnetic Fields
+- Environmental Exposure
 - Radio Waves
 - Cell Phone
 types:
-- brief-report
-- Research Support, Non-U.S. Gov't
 - Journal Article
+- Research Support, Non-U.S. Gov't
 mots_cles:
-- Biological effects
-- Electromagnetic field (EMF)
-- OCCUPATIONAL HEALTH
-- Radio Frequency (Rf)
-- Public And Environmental Health
-- Communication Engineering And Systems Telecommunications
+- biological effects
+- communication engineering and systems telecommunications
+- electromagnetic field (EMF)
+- occupational health
+- public and environmental health
+- radio frequency (RF)
 auteurs:
 - Petroulakis N
 - Mattsson MO
@@ -62,8 +61,9 @@ auteurs:
 - Baaken D
 - Bogdanova A
 pmcid: PMC10298460
-volume: ''
-pages: '6085'
+pdf_local: ''
+volume: '20'
+pages: ''
 modele: non_classe
 modele_score: 0.0
 modele_secondaires: []
@@ -81,7 +81,7 @@ tags:
 
 # NextGEM: Next-Generation Integrated Sensing and Analytical System for Monitoring and Assessing Radiofrequency Electromagnetic Field Exposure and Health.
 
-*journal non renseigné — 2023*
+*International journal of environmental research and public health — 2023*
 
 ## Résumé (texte d'origine)
 

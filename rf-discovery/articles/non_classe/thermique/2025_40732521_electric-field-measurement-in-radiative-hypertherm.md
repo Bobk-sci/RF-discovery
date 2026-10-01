@@ -7,7 +7,7 @@ titre: Electric Field Measurement in Radiative Hyperthermia Applications.
 url: https://pubmed.ncbi.nlm.nih.gov/40732521/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Neoplasms

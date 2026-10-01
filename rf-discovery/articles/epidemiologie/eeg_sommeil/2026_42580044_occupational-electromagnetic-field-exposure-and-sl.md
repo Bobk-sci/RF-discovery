@@ -8,7 +8,7 @@ titre: 'Occupational electromagnetic field exposure and sleep disturbances: The 
 url: https://pubmed.ncbi.nlm.nih.gov/42580044/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Sleep Initiation and Maintenance Disorders
@@ -37,6 +37,7 @@ auteurs:
 - Dil JH
 - Guseva Canu I
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '114886'
 modele: epidemiologie

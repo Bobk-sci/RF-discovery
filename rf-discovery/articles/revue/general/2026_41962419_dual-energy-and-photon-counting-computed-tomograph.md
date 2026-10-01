@@ -7,7 +7,7 @@ titre: Dual-energy and photon-counting computed tomography in critical care.
 url: https://pubmed.ncbi.nlm.nih.gov/41962419/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Pulmonary Embolism

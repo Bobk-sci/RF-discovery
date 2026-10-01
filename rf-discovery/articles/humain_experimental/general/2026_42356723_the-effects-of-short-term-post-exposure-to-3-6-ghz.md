@@ -9,7 +9,7 @@ titre: 'The Effects of Short-Term Post-Exposure to 3.6 GHz 5G Mobile Phone Elect
 url: https://pubmed.ncbi.nlm.nih.gov/42356723/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Pilot Projects
@@ -36,6 +36,7 @@ auteurs:
 - Foroughimehr N
 - Jaberzadeh S
 pmcid: PMC13307263
+pdf_local: ''
 volume: ''
 pages: '3750'
 modele: humain_experimental

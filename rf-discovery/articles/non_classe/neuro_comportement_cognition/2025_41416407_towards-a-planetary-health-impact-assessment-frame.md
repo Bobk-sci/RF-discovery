@@ -8,7 +8,7 @@ titre: 'Towards a Planetary Health Impact Assessment Framework: Exploring Expert
 url: https://pubmed.ncbi.nlm.nih.gov/41416407/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Artificial Intelligence
 - Radio Waves

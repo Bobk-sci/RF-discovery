@@ -8,7 +8,7 @@ titre: Placental histomorphology and fetal growth impairment in mice prenatally 
 url: https://pubmed.ncbi.nlm.nih.gov/42376549/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Placenta
 - Animals
@@ -37,6 +37,7 @@ auteurs:
 - Sutanto H
 - Sunarno S
 pmcid: PMC13314349
+pdf_local: ''
 volume: ''
 pages: 6390-6400
 modele: in_vivo

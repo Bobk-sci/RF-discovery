@@ -2,34 +2,33 @@
 pmid: '32072661'
 doi: 10.1002/bem.22255
 annee: 2020
-journal: ''
+journal: Bioelectromagnetics
 titre: The Effects of Mobile Phone Radiofrequency Radiation on Cochlear Stria Marginal
   Cells in Sprague-Dawley Rats.
 url: https://pubmed.ncbi.nlm.nih.gov/32072661/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Stria Vascularis
-- Cells, Cultured
 - Animals
-- Rats, Sprague-Dawley
-- DNA Damage
-- Reactive Oxygen Species
 - Apoptosis
-- Radio Waves
+- Cell Phone
+- Cells, Cultured
+- DNA Damage
 - Female
 - Male
-- Cell Phone
+- Radio Waves
+- Rats, Sprague-Dawley
+- Reactive Oxygen Species
+- Stria Vascularis
 types:
-- research-article
 - Journal Article
 mots_cles:
 - DNA damage
-- Reactive oxygen species
-- Cell Apoptosis
-- Radiofrequency Radiation
-- Cochlear Stria Marginal Cells
+- cell apoptosis
+- cochlear stria marginal cells
+- radiofrequency radiation
+- reactive oxygen species
 auteurs:
 - Yang H
 - Zhang Y
@@ -38,7 +37,8 @@ auteurs:
 - Hu G
 - Zuo W
 pmcid: PMC7154754
-volume: ''
+pdf_local: ''
+volume: '41'
 pages: 219-229
 modele: in_vitro
 modele_score: 1004.0
@@ -69,7 +69,7 @@ tags:
 
 # The Effects of Mobile Phone Radiofrequency Radiation on Cochlear Stria Marginal Cells in Sprague-Dawley Rats.
 
-*journal non renseigné — 2020*
+*Bioelectromagnetics — 2020*
 
 ## Résumé (texte d'origine)
 

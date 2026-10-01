@@ -8,7 +8,7 @@ titre: 'Prenatal Exposure to 3.5 GHz Radiofrequency Radiation and Long-Term Skin
 url: https://pubmed.ncbi.nlm.nih.gov/41479147/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Uslu U
 - Dasdag S
 pmcid: PMC12758509
+pdf_local: ''
 volume: ''
 pages: 209-216
 modele: in_vivo

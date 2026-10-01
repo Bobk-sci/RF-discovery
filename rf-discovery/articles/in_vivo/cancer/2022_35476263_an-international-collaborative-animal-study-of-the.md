@@ -2,31 +2,30 @@
 pmid: '35476263'
 doi: 10.1002/bem.22407
 annee: 2022
-journal: ''
+journal: Bioelectromagnetics
 titre: 'An International Collaborative Animal Study of the Carcinogenicity of Mobile
   Phone Radiofrequency Radiation: Considerations for Preparation of a Global Project.'
 url: https://pubmed.ncbi.nlm.nih.gov/35476263/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Brain
 - Animals
-- Rats
-- Electromagnetic Fields
-- Radio Waves
-- Male
+- Brain
 - Carcinogenesis
 - Cell Phone
+- Electromagnetic Fields
+- Male
+- Radio Waves
+- Rats
 types:
-- brief-report
 - Journal Article
 mots_cles:
-- Rat
 - carcinogenesis
-- Radiofrequency Radiation
-- Cell Phone
-- International Animal Study
+- cell phone
+- international animal study
+- radiofrequency radiation
+- rat
 auteurs:
 - Ahn YH
 - Imaida K
@@ -41,7 +40,8 @@ auteurs:
 - Kawabe M
 - Kim HS
 pmcid: PMC9321571
-volume: ''
+pdf_local: ''
+volume: '43'
 pages: 218-224
 modele: in_vivo
 modele_score: 6.0
@@ -65,7 +65,7 @@ tags:
 
 # An International Collaborative Animal Study of the Carcinogenicity of Mobile Phone Radiofrequency Radiation: Considerations for Preparation of a Global Project.
 
-*journal non renseigné — 2022*
+*Bioelectromagnetics — 2022*
 
 ## Résumé (texte d'origine)
 

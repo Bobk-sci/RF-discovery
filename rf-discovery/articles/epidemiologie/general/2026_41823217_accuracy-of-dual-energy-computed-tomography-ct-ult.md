@@ -9,7 +9,7 @@ titre: 'Accuracy of dual-energy computed tomography (CT), ultrasound, cone-beam 
 url: https://pubmed.ncbi.nlm.nih.gov/41823217/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aged
 - Female

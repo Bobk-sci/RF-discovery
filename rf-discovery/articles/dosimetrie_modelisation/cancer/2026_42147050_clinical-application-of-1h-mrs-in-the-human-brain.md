@@ -7,7 +7,7 @@ titre: Clinical application of 1H MRS in the human brain at 7T.
 url: https://pubmed.ncbi.nlm.nih.gov/42147050/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

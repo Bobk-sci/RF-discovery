@@ -2,36 +2,35 @@
 pmid: '25194051'
 doi: 10.1093/jrr/rru075
 annee: 2015
-journal: ''
+journal: Journal of radiation research
 titre: Effect of a 2.45-GHz radiofrequency electromagnetic field on neutrophil chemotaxis
   and phagocytosis in differentiated human HL-60 cells.
 url: https://pubmed.ncbi.nlm.nih.gov/25194051/
-source: europepmc
-acces_ouvert: open
-collecte: '2026-09-21'
+source: pubmed
+acces_ouvert: ''
+collecte: '2026-10-01'
 mesh:
-- Neutrophils
-- HL-60 Cells
-- Humans
-- Radiation Dosage
-- Dose-Response Relationship, Radiation
+- Absorption, Radiation
 - Cell Differentiation
 - Chemotaxis
-- Phagocytosis
+- Dose-Response Relationship, Radiation
 - Electromagnetic Fields
-- Radio Waves
+- HL-60 Cells
+- Humans
 - Microwaves
-- Absorption, Radiation
-types:
-- Research Support, Non-U.S. Gov't
-- research-article
-- Journal Article
-mots_cles:
-- Chemotaxis
+- Neutrophils
 - Phagocytosis
-- Immune response
+- Radiation Dosage
+- Radio Waves
+types:
+- Journal Article
+- Research Support, Non-U.S. Gov't
+mots_cles:
+- chemotaxis
+- immune response
 - neutrophil
-- Radiofrequency (Rf)
+- phagocytosis
+- radiofrequency (RF)
 auteurs:
 - Koyama S
 - Narita E
@@ -40,8 +39,9 @@ auteurs:
 - Shinohara N
 - Miyakoshi J
 pmcid: PMC4572595
-volume: ''
-pages: 30-36
+pdf_local: ''
+volume: '56'
+pages: 30-6
 modele: in_vitro
 modele_score: 1000.0
 modele_secondaires:
@@ -64,7 +64,7 @@ tags:
 
 # Effect of a 2.45-GHz radiofrequency electromagnetic field on neutrophil chemotaxis and phagocytosis in differentiated human HL-60 cells.
 
-*journal non renseigné — 2015*
+*Journal of radiation research — 2015*
 
 ## Résumé (texte d'origine)
 

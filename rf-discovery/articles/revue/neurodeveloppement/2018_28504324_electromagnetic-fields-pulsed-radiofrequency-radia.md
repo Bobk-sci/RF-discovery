@@ -8,7 +8,7 @@ titre: 'Electromagnetic Fields, Pulsed Radiofrequency Radiation, and Epigenetics
 url: https://pubmed.ncbi.nlm.nih.gov/28504324/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Academic Performance
 - Adolescent
@@ -30,6 +30,7 @@ auteurs:
 - Sage C
 - Burgio E
 pmcid: ''
+pdf_local: ''
 volume: '89'
 pages: 129-136
 modele: revue

@@ -8,7 +8,7 @@ titre: Interactive developmental toxicity of radiofrequency radiation and 2-meth
 url: https://pubmed.ncbi.nlm.nih.gov/7716735/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Abnormalities, Drug-Induced
 - Abnormalities, Radiation-Induced
@@ -32,6 +32,7 @@ auteurs:
 - Edwards RM
 - Hoberman AM
 pmcid: ''
+pdf_local: ''
 volume: '50'
 pages: 275-93
 modele: in_vivo

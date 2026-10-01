@@ -8,7 +8,7 @@ titre: 'Male Reproductive and Cellular Damage After Prenatal 3.5 GHz Radiation 
 url: https://pubmed.ncbi.nlm.nih.gov/41128732/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Spermatozoa
@@ -39,6 +39,7 @@ auteurs:
 - Fernandez-Rodriguez CE
 - Dasdag S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 140-152
 modele: in_vivo

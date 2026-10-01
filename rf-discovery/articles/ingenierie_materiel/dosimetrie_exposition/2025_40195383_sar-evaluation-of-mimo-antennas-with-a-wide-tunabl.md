@@ -7,7 +7,7 @@ titre: SAR evaluation of MIMO antennas with a wide tunable range power divider.
 url: https://pubmed.ncbi.nlm.nih.gov/40195383/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Li K
 - Wang X
 pmcid: PMC11976900
+pdf_local: ''
 volume: ''
 pages: '11895'
 modele: ingenierie_materiel

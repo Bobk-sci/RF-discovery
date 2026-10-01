@@ -8,7 +8,7 @@ titre: Radiofrequency radiation (900 MHz)-induced DNA damage and cell cycle arre
 url: https://pubmed.ncbi.nlm.nih.gov/27738269/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -44,6 +44,7 @@ auteurs:
 - Das S
 - Upadhaya P
 pmcid: ''
+pdf_local: ''
 volume: '33'
 pages: 373-384
 modele: in_vivo

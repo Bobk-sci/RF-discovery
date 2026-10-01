@@ -7,7 +7,7 @@ titre: Variable spacing Fast-T1ρ for the analysis of fast relaxing species at l
 url: https://pubmed.ncbi.nlm.nih.gov/41411845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

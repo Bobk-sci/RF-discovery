@@ -8,7 +8,7 @@ titre: Health problems among operators of plastic welding machines and exposure 
 url: https://pubmed.ncbi.nlm.nih.gov/3372031/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Burns
@@ -37,6 +37,7 @@ auteurs:
 - Andersson MC
 - Eriksson A
 pmcid: ''
+pdf_local: ''
 volume: '60'
 pages: 243-7
 modele: dosimetrie_modelisation

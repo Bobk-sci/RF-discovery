@@ -8,7 +8,7 @@ titre: Derivation of tissue properties from basis-vector model weights for dual-
 url: https://pubmed.ncbi.nlm.nih.gov/41325629/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Monte Carlo Method
 - Phantoms, Imaging
@@ -22,6 +22,7 @@ mesh:
 - Protons
 types:
 - Journal Article
+- Research Support, N.I.H., Extramural
 mots_cles:
 - Monte Carlo dose calculations
 - basis-vector model

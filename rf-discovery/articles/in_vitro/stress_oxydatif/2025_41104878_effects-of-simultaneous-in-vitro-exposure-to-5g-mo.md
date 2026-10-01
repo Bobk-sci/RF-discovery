@@ -9,7 +9,7 @@ titre: Effects of Simultaneous In-Vitro Exposure to 5G-Modulated 3.5 GHz and G
 url: https://pubmed.ncbi.nlm.nih.gov/41104878/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Nerve Net
 - Neurons
@@ -45,6 +45,7 @@ auteurs:
 - Lewis N
 - Percherancier Y
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70026
 modele: in_vitro

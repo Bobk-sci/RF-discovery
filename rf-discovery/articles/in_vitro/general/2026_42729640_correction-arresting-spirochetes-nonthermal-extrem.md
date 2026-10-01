@@ -9,7 +9,7 @@ titre: 'Correction: Arresting spirochetes: nonthermal extremely low-frequency el
 url: https://pubmed.ncbi.nlm.nih.gov/42729640/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Published Erratum
@@ -29,6 +29,7 @@ auteurs:
 - Zubcevik N
 - Embers ME
 pmcid: PMC13563503
+pdf_local: ''
 volume: ''
 pages: '1967438'
 modele: in_vitro

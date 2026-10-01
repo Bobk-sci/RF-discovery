@@ -8,7 +8,7 @@ titre: Biomedical Applications of Chitosan-Coated Gallium Iron Oxide Nanoparticl
 url: https://pubmed.ncbi.nlm.nih.gov/41515471/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Chitosan
 - Humans

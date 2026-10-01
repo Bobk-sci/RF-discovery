@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic field exposure on cancer in lab
 url: https://pubmed.ncbi.nlm.nih.gov/40339346/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Animals, Laboratory
@@ -36,6 +36,7 @@ auteurs:
 - Rivero TM
 - Straif K
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '109482'
 modele: revue

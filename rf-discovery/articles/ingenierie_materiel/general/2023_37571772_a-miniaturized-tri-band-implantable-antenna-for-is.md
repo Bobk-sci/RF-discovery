@@ -7,7 +7,7 @@ titre: A Miniaturized Tri-Band Implantable Antenna for ISM/WMTS/Lower UWB/Wi-Fi 
 url: https://pubmed.ncbi.nlm.nih.gov/37571772/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -17,9 +17,9 @@ mots_cles:
 - Implantable Antenna
 - Communication Technologies
 - Parasitic Patch
-- Tri-band
 - Ism/wmts Bands
 - Asynchronous–spiral Radiator
+- Tri-band
 auteurs:
 - Gupta A
 - Kumar V
@@ -28,6 +28,7 @@ auteurs:
 - Jahid A
 - Cho HS
 pmcid: PMC10422222
+pdf_local: ''
 volume: ''
 pages: '6989'
 modele: ingenierie_materiel

@@ -2,35 +2,35 @@
 pmid: '41934922'
 doi: 10.1016/j.tice.2026.103510
 annee: 2026
-journal: ''
+journal: Tissue & cell
 titre: The neuroprotective role of coenzyme Q10 against endoplasmic reticulum stress
   in the olfactory bulb caused by 5 G electromagnetic field exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/41934922/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
-- Olfactory Bulb
 - Animals
-- Rats
-- Rats, Sprague-Dawley
-- Malondialdehyde
 - Ubiquinone
-- Glutathione
-- Neuroprotective Agents
-- Oxidative Stress
-- Electromagnetic Fields
-- Male
+- Olfactory Bulb
 - Endoplasmic Reticulum Stress
+- Male
+- Rats, Sprague-Dawley
+- Electromagnetic Fields
+- Rats
+- Oxidative Stress
 - Endoplasmic Reticulum Chaperone BiP
+- Neuroprotective Agents
+- Glutathione
+- Malondialdehyde
 types:
 - Journal Article
 mots_cles:
-- Olfactory bulb
-- Electromagnetic field
-- endoplasmic reticulum stress
-- Coenzyme Q10 (Coq10)
 - 5 G
+- Coenzyme Q10 (CoQ10)
+- Electromagnetic field
+- Endoplasmic reticulum stress
+- Olfactory bulb
 auteurs:
 - Yilmaz H
 - Tumkaya L
@@ -38,7 +38,8 @@ auteurs:
 - Gül F
 - Karakas S
 pmcid: ''
-volume: ''
+pdf_local: ''
+volume: '101'
 pages: '103510'
 modele: in_vivo
 modele_score: 6.0
@@ -65,7 +66,7 @@ tags:
 
 # The neuroprotective role of coenzyme Q10 against endoplasmic reticulum stress in the olfactory bulb caused by 5 G electromagnetic field exposure.
 
-*journal non renseigné — 2026*
+*Tissue & cell — 2026*
 
 ## Résumé (texte d'origine)
 

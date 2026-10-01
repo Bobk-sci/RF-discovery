@@ -8,7 +8,7 @@ titre: Heart rate variability responses to 26 GHz millimeter-wave exposure in 
 url: https://pubmed.ncbi.nlm.nih.gov/42725567/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Leveque P
 - Selmaoui B
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1-13
 modele: epidemiologie

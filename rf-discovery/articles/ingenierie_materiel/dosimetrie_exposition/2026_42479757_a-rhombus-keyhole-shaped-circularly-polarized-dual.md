@@ -8,7 +8,7 @@ titre: A rhombus-keyhole shaped circularly polarized dual-band implantable anten
 url: https://pubmed.ncbi.nlm.nih.gov/42479757/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Swine
@@ -24,6 +24,7 @@ auteurs:
 - Vasugi N
 - Karthikeyan M
 pmcid: PMC13387530
+pdf_local: ''
 volume: ''
 pages: e0354130
 modele: ingenierie_materiel

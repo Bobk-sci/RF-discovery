@@ -8,7 +8,7 @@ titre: L arginine and radiofrequency electromagnetic field attenuate inflammator
 url: https://pubmed.ncbi.nlm.nih.gov/42243210/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -47,6 +47,7 @@ auteurs:
 - Comlekci S
 - Ozmen O
 pmcid: PMC13388992
+pdf_local: ''
 volume: ''
 pages: '22832'
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Dual-energy CT based low flow rate, low dose CTPA and lung perfusion in t
 url: https://pubmed.ncbi.nlm.nih.gov/41778043/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

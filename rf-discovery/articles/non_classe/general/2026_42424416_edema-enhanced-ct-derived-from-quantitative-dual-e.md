@@ -8,7 +8,7 @@ titre: Edema-Enhanced CT Derived from Quantitative Dual-Energy CT Reduces Experi
 url: https://pubmed.ncbi.nlm.nih.gov/42424416/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

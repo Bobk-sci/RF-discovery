@@ -8,7 +8,7 @@ titre: Design and Analysis of a Dual-Band Implantable Receiving Antenna for Wire
 url: https://pubmed.ncbi.nlm.nih.gov/41471504/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

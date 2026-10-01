@@ -2,26 +2,25 @@
 pmid: '32672045'
 doi: 10.33549/physiolres.934425
 annee: 2020
-journal: ''
+journal: Physiological research
 titre: Radiofrequency electromagnetic field affects heart rate variability in rabbits.
 url: https://pubmed.ncbi.nlm.nih.gov/32672045/
-source: europepmc
+source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
-- Rabbits
-- Double-Blind Method
-- Random Allocation
-- Models, Animal
-- Environmental Exposure
-- Heart Rate
-- Electromagnetic Fields
-- Radio Waves
 - Arrhythmias, Cardiac
 - Cell Phone
+- Double-Blind Method
+- Electromagnetic Fields
+- Environmental Exposure
+- Heart Rate
+- Models, Animal
+- Rabbits
+- Radio Waves
+- Random Allocation
 types:
-- research-article
 - Journal Article
 mots_cles: []
 auteurs:
@@ -32,7 +31,8 @@ auteurs:
 - Janousek L
 - Jakus J
 pmcid: PMC8549896
-volume: ''
+pdf_local: ''
+volume: '69'
 pages: 633-643
 modele: humain_experimental
 modele_score: 2.0
@@ -54,7 +54,7 @@ tags:
 
 # Radiofrequency electromagnetic field affects heart rate variability in rabbits.
 
-*journal non renseigné — 2020*
+*Physiological research — 2020*
 
 ## Résumé (texte d'origine)
 

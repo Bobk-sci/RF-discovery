@@ -8,7 +8,7 @@ titre: Predicting axillary lymph node metastasis in clinical T1/2 stage breast c
 url: https://pubmed.ncbi.nlm.nih.gov/41763072/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiomics

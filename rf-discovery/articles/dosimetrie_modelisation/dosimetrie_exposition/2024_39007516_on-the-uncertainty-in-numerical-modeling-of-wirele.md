@@ -8,7 +8,7 @@ titre: On the uncertainty in numerical modeling of wireless communication device
 url: https://pubmed.ncbi.nlm.nih.gov/39007516/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Uncertainty
@@ -26,6 +26,7 @@ auteurs:
 - Christ A
 - Keshvari J
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1294-1305
 modele: dosimetrie_modelisation

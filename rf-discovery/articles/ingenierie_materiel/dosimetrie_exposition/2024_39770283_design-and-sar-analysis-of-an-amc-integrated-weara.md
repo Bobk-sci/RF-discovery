@@ -7,7 +7,7 @@ titre: Design and SAR Analysis of an AMC-Integrated Wearable Cavity-Backed SIW A
 url: https://pubmed.ncbi.nlm.nih.gov/39770283/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -23,6 +23,7 @@ auteurs:
 - Thangaraju B
 - Maheswar R
 pmcid: PMC11676499
+pdf_local: ''
 volume: ''
 pages: '1530'
 modele: ingenierie_materiel

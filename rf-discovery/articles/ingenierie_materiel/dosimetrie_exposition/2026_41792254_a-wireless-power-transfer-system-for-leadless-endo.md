@@ -7,7 +7,7 @@ titre: A wireless power transfer system for leadless endovascular electrocortico
 url: https://pubmed.ncbi.nlm.nih.gov/41792254/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
