@@ -1,6 +1,6 @@
 # revue
 
-193 articles.
+195 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -149,11 +149,12 @@
 - `2015` [[2015_26556835_the-microwave-syndrome-or-electro-hypersensitivity]] — Carpenter DO
 - `1997` [[1997_9258703_exposure-to-extremely-low-frequency-electromagneti]] — Jauchem JR
 
-## neurodeveloppement (20)
+## neurodeveloppement (21)
 
 - `2026` [[2026_41911438_determining-the-impact-of-nonionizing-electromagne]] — Armalina D et al.
 - `2026` [[2026_41975739_potential-benefits-of-ultra-high-field-mri-for-emb]] — Boitor D et al.
 - `2026` [[2026_42385664_optimisation-of-radiation-dose-and-image-quality-i]] — Patil NB et al.
+- `2026` [[2026_42799090_a-review-of-potential-health-risks-of-radiofrequen]] — Dogra S et al.
 - `2025` [[2025_38889394_summary-of-seven-swedish-case-reports-on-the-micro]] — Hardell L, Nilsson M
 - `2025` [[2025_41210241_the-value-of-dual-energy-ct-virtual-monoenergetic]] — Li C et al.
 - `2025` [[2025_41255679_dual-energy-computed-tomography-in-children-techni]] — Saini S et al.
@@ -225,7 +226,7 @@
 - `2016` [[2016_26151230_oxidative-mechanisms-of-biological-activity-of-low]] — Yakymenko I et al.
 - `2016` [[2016_26371078_the-link-between-radiofrequencies-emitted-from-wir]] — Dasdag S, Akdag MZ
 
-## thermique (12)
+## thermique (13)
 
 - `2026` [[2026_41445170_radio-frequency-exposure-in-military-contexts-a-na]] — Risling M, Günther M
 - `2026` [[2026_42122726_use-of-microwave-technology-for-agro-based-polymer]] — Cheng HN et al.
@@ -233,6 +234,7 @@
 - `2026` [[2026_42530729_metamaterial-assisted-miniaturized-antennas-for-ta]] — Zuo J et al.
 - `2026` [[2026_42646427_magnetothermally-responsive-mesoporous-silica-nano]] — Jesus J et al.
 - `2026` [[2026_42733872_advancements-in-superparamagnetic-iron-oxide-nanop]] — Sharma S et al.
+- `2026` [[2026_42797853_can-non-thermal-microwave-irradiation-inactivate-v]] — Galati G, Pavan G
 - `2025` [[2025_40339686_electromagnetic-fields-from-mobile-phones-a-risk-f]] — Seewooruttun C et al.
 - `2025` [[2025_40400318_microwave-power-sources-for-industrial-scientific]] — Cripps S
 - `2025` [[2025_40662412_impact-of-radiofrequency-electromagnetic-fields-on]] — Michelant L, Selmaoui B

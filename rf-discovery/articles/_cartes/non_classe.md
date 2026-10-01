@@ -1,6 +1,6 @@
 # non_classe
 
-285 articles.
+291 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -57,7 +57,7 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (135)
+## general (139)
 
 - `2026` [[2026_41198863_predicting-carotid-in-stent-restenosis-with-dual-e]] — Hu W et al.
 - `2026` [[2026_41265782_prediction-of-malignant-acute-middle-cerebral-arte]] — Shang K et al.
@@ -124,11 +124,15 @@
 - `2026` [[2026_42726448_quantitative-coronary-artery-and-aortic-valve-calc]] — Fujito H et al.
 - `2026` [[2026_42742363_welding-screens-and-curtains-part-2-conformity-of]] — Dain SJ et al.
 - `2026` [[2026_42761464_microwave-power-induced-modulation-of-tigernut-lt]] — Qin JW et al.
+- `2026` [[2026_42768244_axial-skeleton-involvement-in-gout-clinical-spectr]] — Sahu RK et al.
+- `2026` [[2026_42769376_association-of-dual-energy-ct-derived-quantitative]] — Zhang Z et al.
+- `2026` [[2026_42786831_the-diagnostic-value-of-dual-energy-ct-multi-param]] — Zhang H et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
 - `2026` [[2026_PPR1276922_dual-energy-ct-derived-extracellular-volume-fracti]] — Lu X et al.
 - `2026` [[2026_PPR1288658_accurate-hepatic-fat-fraction-quantification-acros]] — Li X et al.
+- `2026` [[2026_PPR1325980_distal-occlusion-tracker-sign-in-the-24-hours-dual]] — Diana F et al.
 - `2025` [[2025_39656106_dose-estimation-for-indoor-radon-occupational-radi]] — Sahmaran T et al.
 - `2025` [[2025_39657937_comparison-of-chlorhexidine-gluconate-sodium-hypoc]] — Jabeen B et al.
 - `2025` [[2025_39735903_rapid-degradation-of-pharmaceutical-pollutants-usi]] — Gaffar S et al.
@@ -200,7 +204,7 @@
 - `2018` [[2018_30607077_effect-of-conventional-and-microwave-tissue-proces]] — Dwivedi D et al.
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 
-## neuro_comportement_cognition (41)
+## neuro_comportement_cognition (42)
 
 - `2026` [[2026_41384946_image-quality-assessment-of-deep-learning-based-vi]] — Li K et al.
 - `2026` [[2026_41588287_generating-training-data-for-ureter-segmentation-u]] — Jung DC et al.
@@ -217,6 +221,7 @@
 - `2026` [[2026_42558213_evaluation-of-a-dual-energy-computed-tomography-pa]] — Kan X et al.
 - `2026` [[2026_42715823_evaluation-of-machine-learning-models-for-predicti]] — Nain A et al.
 - `2026` [[2026_42761882_microwave-induced-efficient-degradation-of-tetracy]] — Liu M et al.
+- `2026` [[2026_42797892_cow-behavior-recognition-method-based-on-multi-sou]] — Zhao X et al.
 - `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
@@ -298,13 +303,14 @@
 - `2014` [[2014_24435163_endothelial-function-and-germ-line-ace-i-d-enos-an]] — Gazi E et al.
 - `2014` [[2014_24753545_cell-phone-use-and-parotid-salivary-gland-alterati]] — de Souza FT et al.
 
-## thermique (22)
+## thermique (23)
 
 - `2026` [[2026_41508503_enhanced-inactivation-of-aspergillus-niger-in-low]] — Yao X et al.
 - `2026` [[2026_41548019_modelling-selective-heating-in-microwave-heated-pa]] — Niño CG
 - `2026` [[2026_41598921_effects-of-microwave-on-mortality-and-detection-ef]] — Miao S et al.
 - `2026` [[2026_42091029_valorization-of-industrial-carbide-slag-via-microw]] — Wang F et al.
 - `2026` [[2026_42581785_defect-engineered-microwave-responsive-ni-c-compos]] — Lu X et al.
+- `2026` [[2026_42796541_exsolution-engineered-perovskite-catalysts-for-dur]] — Gámez S et al.
 - `2026` [[2026_IND609501314_impact-of-pretreatments-on-the-reduction-of-allyl]] — Srivastava S et al.
 - `2026` [[2026_PPR1149630_comparative-study-on-the-microwave-assisted-and-co]] — Dağlı R et al.
 - `2026` [[2026_PPR1290262_density-dependent-microwave-heating-of-aluminum-na]] — Vargas E et al.

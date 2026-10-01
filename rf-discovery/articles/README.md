@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1762 articles** rangés le 2026-09-21 (publications 1960–2026).
+**1777 articles** rangés le 2026-10-01 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,23 +8,23 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| non_classe | general | 135 |
-| dosimetrie_modelisation | dosimetrie_exposition | 101 |
+| non_classe | general | 139 |
+| dosimetrie_modelisation | dosimetrie_exposition | 103 |
 | in_vivo | stress_oxydatif | 86 |
 | epidemiologie | general | 81 |
 | in_vivo | neuro_comportement_cognition | 81 |
 | ingenierie_materiel | dosimetrie_exposition | 64 |
-| in_vivo | general | 58 |
+| in_vivo | general | 59 |
 | epidemiologie | neurodeveloppement | 56 |
 | in_vivo | neurodeveloppement | 54 |
 | epidemiologie | neuro_comportement_cognition | 53 |
 | dosimetrie_modelisation | general | 50 |
 | revue | general | 48 |
 | in_vitro | apoptose_mitochondrie | 44 |
-| non_classe | neuro_comportement_cognition | 41 |
+| non_classe | neuro_comportement_cognition | 42 |
 | in_vitro | stress_oxydatif | 38 |
 | dosimetrie_modelisation | thermique | 37 |
-| in_vivo | reproduction | 34 |
+| in_vivo | reproduction | 35 |
 | epidemiologie | cancer | 33 |
 | epidemiologie | eeg_sommeil | 31 |
 | in_vivo | apoptose_mitochondrie | 29 |
@@ -33,31 +33,31 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | revue | reproduction | 25 |
 | revue | neuro_comportement_cognition | 24 |
 | in_vivo | genotoxicite_epigenetique | 23 |
+| non_classe | thermique | 23 |
 | in_vitro | cancer | 22 |
 | in_vitro | genotoxicite_epigenetique | 22 |
-| non_classe | thermique | 22 |
 | in_vitro | general | 21 |
 | non_classe | cancer | 21 |
 | revue | cancer | 21 |
+| revue | neurodeveloppement | 21 |
 | dosimetrie_modelisation | neurodeveloppement | 20 |
-| revue | neurodeveloppement | 20 |
 | humain_experimental | eeg_sommeil | 17 |
 | ingenierie_materiel | general | 17 |
 | dosimetrie_modelisation | neuro_comportement_cognition | 16 |
 | in_vitro | thermique | 15 |
 | non_classe | stress_oxydatif | 14 |
 | revue | stress_oxydatif | 13 |
-| revue | thermique | 12 |
-| humain_experimental | general | 10 |
+| revue | thermique | 13 |
+| humain_experimental | general | 11 |
+| in_vivo | neuroinflammation | 11 |
 | in_vivo | dosimetrie_exposition | 10 |
-| in_vivo | neuroinflammation | 10 |
 | non_classe | eeg_sommeil | 10 |
 | in_vivo | barriere_hemato_encephalique | 9 |
 | dosimetrie_modelisation | cancer | 8 |
 | epidemiologie | dosimetrie_exposition | 8 |
+| humain_experimental | neuro_comportement_cognition | 8 |
 | in_vivo | cancer | 8 |
 | revue | genotoxicite_epigenetique | 8 |
-| humain_experimental | neuro_comportement_cognition | 7 |
 | non_classe | dosimetrie_exposition | 7 |
 | revue | dosimetrie_exposition | 7 |
 | epidemiologie | reproduction | 6 |
