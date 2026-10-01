@@ -8,7 +8,7 @@ titre: Association between trajectories of problematic mobile phone use and chro
 url: https://pubmed.ncbi.nlm.nih.gov/35752086/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Tao F
 - Wu X
 pmcid: ''
+pdf_local: ''
 volume: '134'
 pages: '107398'
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: Cognitive impairment and neurogenotoxic effects in rats exposed to low-in
 url: https://pubmed.ncbi.nlm.nih.gov/25749756/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Behavior, Animal
@@ -52,6 +52,7 @@ auteurs:
 - Tripathi AK
 - Mediratta PK
 pmcid: ''
+pdf_local: ''
 volume: '34'
 pages: 284-90
 modele: in_vivo
@@ -65,7 +66,7 @@ modele_indices:
 - rat
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 12.5
+theme_score: 10.5
 theme_secondaires:
 - genotoxicite_epigenetique
 - neurodeveloppement
@@ -74,7 +75,6 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
 - behavior
 - spatial memory
 tags:

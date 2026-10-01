@@ -7,7 +7,7 @@ titre: Mobile phone induced cognitive and neurochemical consequences.
 url: https://pubmed.ncbi.nlm.nih.gov/31553920/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Behavior, Animal
@@ -38,6 +38,7 @@ auteurs:
 - Singhal PK
 - Shukla S
 pmcid: ''
+pdf_local: ''
 volume: '102'
 pages: '101684'
 modele: in_vivo
@@ -49,12 +50,11 @@ modele_indices:
 - Wistar
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 7.5
+theme_score: 5.5
 theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - cognitive
-- learning
 - anxiety
 - behavior
 tags:

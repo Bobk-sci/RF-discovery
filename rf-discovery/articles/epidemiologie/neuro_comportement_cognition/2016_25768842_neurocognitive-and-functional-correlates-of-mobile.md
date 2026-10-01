@@ -8,7 +8,7 @@ titre: Neurocognitive and functional correlates of mobile phone use in middle-ag
 url: https://pubmed.ncbi.nlm.nih.gov/25768842/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -39,6 +39,7 @@ auteurs:
 - Vahia IV
 - Mausbach BT
 pmcid: PMC4568167
+pdf_local: ''
 volume: '20'
 pages: 29-35
 modele: epidemiologie

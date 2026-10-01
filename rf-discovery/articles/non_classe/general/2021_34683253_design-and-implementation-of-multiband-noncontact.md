@@ -8,7 +8,7 @@ titre: Design and Implementation of Multiband Noncontact Temperature-Measuring M
 url: https://pubmed.ncbi.nlm.nih.gov/34683253/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Wang H
 - Liu Y
 pmcid: PMC8541249
+pdf_local: ''
 volume: '12'
 pages: ''
 modele: non_classe

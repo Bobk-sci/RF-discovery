@@ -8,7 +8,7 @@ titre: Parameter variation effects on millimeter wave dosimetry based on precise
 url: https://pubmed.ncbi.nlm.nih.gov/37833400/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Male
 - Animals
@@ -31,6 +31,7 @@ auteurs:
 - Nagai A
 - Taguchi K
 pmcid: PMC10575911
+pdf_local: ''
 volume: '13'
 pages: '17397'
 modele: in_vivo

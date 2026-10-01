@@ -8,7 +8,7 @@ titre: Effects of Electromagnetic Waves with LTE and 5G Bandwidth on the Skin Pi
 url: https://pubmed.ncbi.nlm.nih.gov/33375304/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Keratinocytes
 - Melanocytes
@@ -41,6 +41,7 @@ auteurs:
 - Kim HR
 - Lim KM
 pmcid: PMC7794711
+pdf_local: ''
 volume: ''
 pages: E170
 modele: in_vitro

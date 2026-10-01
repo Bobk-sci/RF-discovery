@@ -8,7 +8,7 @@ titre: Does Electromagnetic Pollution in the ART Laboratory Affect Sperm Quality
 url: https://pubmed.ncbi.nlm.nih.gov/40559983/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -31,6 +31,7 @@ auteurs:
 - Baldini D
 - Trojano G
 pmcid: PMC12197507
+pdf_local: ''
 volume: ''
 pages: '510'
 modele: epidemiologie

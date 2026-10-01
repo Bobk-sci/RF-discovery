@@ -8,7 +8,7 @@ titre: Exposure to non-ionizing electromagnetic fields emitted from mobile phone
 url: https://pubmed.ncbi.nlm.nih.gov/29667447/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - DNA Damage
@@ -32,6 +32,7 @@ auteurs:
 - Canturk F
 - Akdag MZ
 pmcid: ''
+pdf_local: ''
 volume: '37'
 pages: 66-75
 modele: in_vitro

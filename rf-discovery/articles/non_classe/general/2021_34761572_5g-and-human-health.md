@@ -7,7 +7,7 @@ titre: 5G and human health.
 url: https://pubmed.ncbi.nlm.nih.gov/34761572/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -23,6 +23,7 @@ auteurs:
 - Softa V
 - Kappas C
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 1698-1708
 modele: non_classe

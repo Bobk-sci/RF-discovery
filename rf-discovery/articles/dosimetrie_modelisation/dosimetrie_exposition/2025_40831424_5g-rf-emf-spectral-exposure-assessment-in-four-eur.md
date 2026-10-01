@@ -7,7 +7,7 @@ titre: 5G RF EMF Spectral Exposure Assessment in Four European Countries.
 url: https://pubmed.ncbi.nlm.nih.gov/40831424/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -37,6 +37,7 @@ auteurs:
 - Plets D
 - Joseph W
 pmcid: PMC12365728
+pdf_local: ''
 volume: ''
 pages: e70019
 modele: dosimetrie_modelisation

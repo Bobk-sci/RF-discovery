@@ -7,7 +7,7 @@ titre: Inactivation of β-coronavirus MHV-A59 by 2.8 GHz microwave.
 url: https://pubmed.ncbi.nlm.nih.gov/39809214/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -30,6 +30,7 @@ auteurs:
 - Liu W
 - Zhao L
 pmcid: PMC11596339
+pdf_local: ''
 volume: ''
 pages: e40341
 modele: in_vivo

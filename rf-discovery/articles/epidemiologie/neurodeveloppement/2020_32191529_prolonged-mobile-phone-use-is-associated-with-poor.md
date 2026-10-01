@@ -8,7 +8,7 @@ titre: Prolonged Mobile Phone Use Is Associated with Poor Academic Performance i
 url: https://pubmed.ncbi.nlm.nih.gov/32191529/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Academic Performance
 - Adolescent
@@ -32,6 +32,7 @@ auteurs:
 - Liu J
 - Jia CX
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 303-311
 modele: epidemiologie

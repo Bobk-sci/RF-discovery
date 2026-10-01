@@ -8,7 +8,7 @@ titre: Compact Dual-Band Antenna with Paired L-Shape Slots for On- and Off-Body 
 url: https://pubmed.ncbi.nlm.nih.gov/34883957/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Equipment Design
 - Phantoms, Imaging
@@ -30,6 +30,7 @@ auteurs:
 - Hussain N
 - Kim N
 pmcid: PMC8659880
+pdf_local: ''
 volume: ''
 pages: '7953'
 modele: ingenierie_materiel

@@ -8,7 +8,7 @@ titre: 'Knowledge and Expectations of Hearing Aid Apps Among Smartphone Users an
 url: https://pubmed.ncbi.nlm.nih.gov/34994699/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cross-Sectional Studies
 - Hearing
@@ -39,6 +39,7 @@ auteurs:
 - Seo JH
 - Park MK
 pmcid: PMC8783272
+pdf_local: ''
 volume: '10'
 pages: e27809
 modele: epidemiologie

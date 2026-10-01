@@ -8,7 +8,7 @@ titre: The risk of subjective symptoms in mobile phone users in Poland--an epide
 url: https://pubmed.ncbi.nlm.nih.gov/24692074/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -33,6 +33,7 @@ auteurs:
 - Szymczak W
 - Bortkiewicz A
 pmcid: ''
+pdf_local: ''
 volume: '27'
 pages: 293-303
 modele: epidemiologie

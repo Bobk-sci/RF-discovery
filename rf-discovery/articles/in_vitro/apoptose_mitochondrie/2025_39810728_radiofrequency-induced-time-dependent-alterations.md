@@ -8,7 +8,7 @@ titre: Radiofrequency Induced Time-Dependent Alterations in Gene Expression and 
 url: https://pubmed.ncbi.nlm.nih.gov/39810728/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Glioblastoma
@@ -36,6 +36,7 @@ auteurs:
 - Yagci M
 - Canseven AG
 pmcid: ''
+pdf_local: ''
 volume: '46'
 pages: e22543
 modele: in_vitro

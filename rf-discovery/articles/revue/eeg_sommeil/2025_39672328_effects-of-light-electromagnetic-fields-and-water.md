@@ -7,7 +7,7 @@ titre: Effects of light, electromagnetic fields and water on biological rhythms.
 url: https://pubmed.ncbi.nlm.nih.gov/39672328/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Water
@@ -32,6 +32,7 @@ auteurs:
 - Ojcius DM
 - Young JD
 pmcid: PMC12173616
+pdf_local: ''
 volume: ''
 pages: '100824'
 modele: revue

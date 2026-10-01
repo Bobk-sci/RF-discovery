@@ -8,7 +8,7 @@ titre: 'IN-SITU 5G NR BASE STATION EXPOSURE OF THE GENERAL PUBLIC: COMPARISON OF
 url: https://pubmed.ncbi.nlm.nih.gov/35511688/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Electricity
@@ -30,6 +30,7 @@ auteurs:
 - Plets D
 - Joseph W
 pmcid: ''
+pdf_local: ''
 volume: '198'
 pages: 358-369
 modele: dosimetrie_modelisation

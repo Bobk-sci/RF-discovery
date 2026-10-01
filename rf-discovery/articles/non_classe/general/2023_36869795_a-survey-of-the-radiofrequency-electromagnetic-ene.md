@@ -8,7 +8,7 @@ titre: A SURVEY OF THE RADIOFREQUENCY ELECTROMAGNETIC ENERGY ENVIRONMENT IN MELB
 url: https://pubmed.ncbi.nlm.nih.gov/36869795/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Australia
 - Electromagnetic Fields
@@ -24,6 +24,7 @@ auteurs:
 - Bhatt C
 - Loughran S
 pmcid: PMC10114287
+pdf_local: ''
 volume: '199'
 pages: 519-526
 modele: non_classe

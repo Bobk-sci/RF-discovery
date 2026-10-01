@@ -9,7 +9,7 @@ titre: 'Chinese public''s knowledge, perceived severity, and perceived controlla
 url: https://pubmed.ncbi.nlm.nih.gov/33087109/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adaptation, Psychological
 - Adolescent
@@ -48,6 +48,7 @@ auteurs:
 - Zhang MC
 - Lin XQ
 pmcid: PMC7576982
+pdf_local: ''
 volume: '20'
 pages: '1589'
 modele: epidemiologie

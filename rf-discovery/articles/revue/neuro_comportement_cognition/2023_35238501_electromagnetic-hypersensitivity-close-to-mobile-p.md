@@ -8,7 +8,7 @@ titre: Electromagnetic hypersensitivity close to mobile phone base stations - a
 url: https://pubmed.ncbi.nlm.nih.gov/35238501/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hypersensitivity
@@ -29,6 +29,7 @@ auteurs:
 - Hardell L
 - Koppel T
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 219-228
 modele: revue

@@ -8,7 +8,7 @@ titre: '[Millimeter wave exposure induces apoptosis in human melanoma A375 cells
 url: https://pubmed.ncbi.nlm.nih.gov/30692070/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Apoptosis
 - Caspase 3
@@ -38,6 +38,7 @@ auteurs:
 - Zeng Q
 - Xin X
 pmcid: PMC6765586
+pdf_local: ''
 volume: '39'
 pages: 76-81
 modele: in_vitro

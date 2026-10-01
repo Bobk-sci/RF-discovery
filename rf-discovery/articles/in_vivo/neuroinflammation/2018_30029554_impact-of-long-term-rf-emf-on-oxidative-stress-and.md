@@ -8,7 +8,7 @@ titre: Impact of Long-Term RF-EMF on Oxidative Stress and Neuroinflammation in A
 url: https://pubmed.ncbi.nlm.nih.gov/30029554/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aging
 - Animals
@@ -45,6 +45,7 @@ auteurs:
 - Lee YS
 - Lee HJ
 pmcid: PMC6073444
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: in_vivo

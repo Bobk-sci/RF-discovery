@@ -8,7 +8,7 @@ titre: Assessment of Children's Exposure to Intelligent Transport System 5.9 GHz
 url: https://pubmed.ncbi.nlm.nih.gov/37299897/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Female
 - Humans
@@ -35,6 +35,7 @@ auteurs:
 - Fiocchi S
 - Tognola G
 pmcid: PMC10255686
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: dosimetrie_modelisation

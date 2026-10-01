@@ -8,7 +8,7 @@ titre: Dose Estimation for Indoor Radon, Occupational Radiation, and Electromagn
 url: https://pubmed.ncbi.nlm.nih.gov/39656106/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radon
@@ -33,6 +33,7 @@ auteurs:
 - Atılgan HI
 - Peker H
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 449-456
 modele: non_classe

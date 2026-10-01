@@ -8,7 +8,7 @@ titre: Effect of electromagnetic field exposure on the transcription of repetiti
 url: https://pubmed.ncbi.nlm.nih.gov/31542968/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -29,6 +29,7 @@ auteurs:
 - Bersani F
 - Giorgi G
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 262-270
 modele: in_vitro

@@ -9,7 +9,7 @@ titre: Biocompatibility assessment of bovine serum albumin conjugated manganese 
 url: https://pubmed.ncbi.nlm.nih.gov/38563404/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Male
@@ -39,6 +39,7 @@ auteurs:
 - Nirala JP
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: '58'
 pages: 194-216
 modele: in_vivo

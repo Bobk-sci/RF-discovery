@@ -9,7 +9,7 @@ titre: 'Occurrence of micronuclei in exfoliated buccal mucosal cells in mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/33433511/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Case-Control Studies
@@ -32,6 +32,7 @@ auteurs:
 - Bankur PK
 - Kannaiyan K
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 734-737
 modele: epidemiologie

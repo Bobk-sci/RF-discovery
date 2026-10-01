@@ -32,7 +32,7 @@ modele_indices:
 - Review (descripteur décisif)
 - review
 theme: neuro_comportement_cognition
-theme_score: 5.0
+theme_score: 4.0
 theme_secondaires:
 - stress_oxydatif
 - barriere_hemato_encephalique
@@ -40,7 +40,6 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
-- learning
 - anxiety
 - attention
 tags:

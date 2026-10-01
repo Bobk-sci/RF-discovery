@@ -8,7 +8,7 @@ titre: Comparative Study on the Microwave-Assisted and Conventional Dyeing of Po
 url: https://doi.org/10.20944/preprints202511.0485.v3
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -18,6 +18,7 @@ auteurs:
 - Teker M
 - Usluoğlu A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: non_classe

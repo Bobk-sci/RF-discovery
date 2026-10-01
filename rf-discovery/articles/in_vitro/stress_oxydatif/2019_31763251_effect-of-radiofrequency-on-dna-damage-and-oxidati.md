@@ -9,7 +9,7 @@ titre: Effect of Radiofrequency on DNA Damage and Oxidative Status in Patients w
 url: https://pubmed.ncbi.nlm.nih.gov/31763251/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Koçyiğit A
 - Kesgin S
 pmcid: PMC6848459
+pdf_local: ''
 volume: '71'
 pages: 1810-1815
 modele: in_vitro

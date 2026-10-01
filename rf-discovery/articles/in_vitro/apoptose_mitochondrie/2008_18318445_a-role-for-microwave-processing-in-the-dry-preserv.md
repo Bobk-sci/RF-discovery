@@ -7,7 +7,7 @@ titre: A role for microwave processing in the dry preservation of mammalian cell
 url: https://pubmed.ncbi.nlm.nih.gov/18318445/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Line
@@ -31,6 +31,7 @@ auteurs:
 - Moyer P
 - Elliott GD
 pmcid: ''
+pdf_local: ''
 volume: '100'
 pages: 782-96
 modele: in_vitro

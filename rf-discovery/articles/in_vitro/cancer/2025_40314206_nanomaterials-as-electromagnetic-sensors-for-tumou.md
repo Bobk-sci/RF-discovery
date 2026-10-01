@@ -7,7 +7,7 @@ titre: Nanomaterials as electromagnetic sensors for tumour detection.
 url: https://pubmed.ncbi.nlm.nih.gov/40314206/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Animals
@@ -40,6 +40,7 @@ auteurs:
 - Kosmas P
 - Thanou M
 pmcid: PMC12068346
+pdf_local: ''
 volume: ''
 pages: 1139-1148
 modele: in_vitro

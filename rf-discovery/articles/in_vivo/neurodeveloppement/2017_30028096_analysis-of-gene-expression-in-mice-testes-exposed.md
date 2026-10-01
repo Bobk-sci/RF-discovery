@@ -8,7 +8,7 @@ titre: Analysis of Gene Expression in Mice Testes Exposed to 1.765 GHz Microwave
 url: https://pubmed.ncbi.nlm.nih.gov/30028096/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Autoantigens
@@ -33,6 +33,7 @@ auteurs:
 - Lee JY
 - Hwang JY
 pmcid: ''
+pdf_local: ''
 volume: '62'
 pages: 324-8
 modele: in_vivo

@@ -7,7 +7,7 @@ titre: Effects of mobile phone electromagnetic fields on brain waves in healthy 
 url: https://pubmed.ncbi.nlm.nih.gov/38066035/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -26,6 +26,7 @@ auteurs:
 - Jacobs M
 - Nederveen AJ
 pmcid: PMC10709380
+pdf_local: ''
 volume: '13'
 pages: '21758'
 modele: humain_experimental

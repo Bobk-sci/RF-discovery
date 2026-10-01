@@ -7,7 +7,7 @@ titre: 'The microwave syndrome or electro-hypersensitivity: historical backgroun
 url: https://pubmed.ncbi.nlm.nih.gov/26556835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -21,6 +21,7 @@ mots_cles: []
 auteurs:
 - Carpenter DO
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 217-22
 modele: revue

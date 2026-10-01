@@ -8,7 +8,7 @@ titre: Compact wearable microstrip antenna design using hybrid quasi-Newton and 
 url: https://pubmed.ncbi.nlm.nih.gov/39747224/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -23,6 +23,7 @@ auteurs:
 - Khurshid AA
 - Sharma K
 pmcid: PMC11695700
+pdf_local: ''
 volume: ''
 pages: '116'
 modele: ingenierie_materiel

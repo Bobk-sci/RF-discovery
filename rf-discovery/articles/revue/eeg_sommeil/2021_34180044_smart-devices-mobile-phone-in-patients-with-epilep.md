@@ -7,7 +7,7 @@ titre: Smart devices/mobile phone in patients with epilepsy? A systematic review
 url: https://pubmed.ncbi.nlm.nih.gov/34180044/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Shahisavandi M
 - Asadi-Pooya A
 pmcid: ''
+pdf_local: ''
 volume: '144'
 pages: 355-365
 modele: revue

@@ -8,7 +8,7 @@ titre: A mechanistic understanding of human magnetoreception validates the pheno
 url: https://pubmed.ncbi.nlm.nih.gov/39652433/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -29,6 +29,7 @@ auteurs:
 - Henshaw DL
 - Philips A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 186-204
 modele: revue

@@ -8,7 +8,7 @@ titre: Comparing the Efficacy of Monopolar and Bipolar Radiofrequency Treatment 
 url: https://pubmed.ncbi.nlm.nih.gov/36569525/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Jezierska DH
 - Kubisz L
 pmcid: PMC9762629
+pdf_local: ''
 volume: '15'
 pages: 22-27
 modele: epidemiologie

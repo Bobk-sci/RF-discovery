@@ -7,7 +7,7 @@ titre: 'Nomophobia: a challenge among healthcare professionals in Africa.'
 url: https://pubmed.ncbi.nlm.nih.gov/39582129/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Adult
@@ -41,6 +41,7 @@ auteurs:
 - Kashyap R
 - Surani S
 pmcid: ''
+pdf_local: ''
 volume: '53'
 pages: '2432858'
 modele: epidemiologie

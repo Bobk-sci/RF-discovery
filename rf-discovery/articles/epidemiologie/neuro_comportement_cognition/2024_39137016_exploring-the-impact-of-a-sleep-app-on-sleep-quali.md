@@ -8,7 +8,7 @@ titre: 'Exploring the Impact of a Sleep App on Sleep Quality in a General Popula
 url: https://pubmed.ncbi.nlm.nih.gov/39137016/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Irwin MR
 - Fisher A
 pmcid: PMC11350301
+pdf_local: ''
 volume: '8'
 pages: e39554
 modele: epidemiologie

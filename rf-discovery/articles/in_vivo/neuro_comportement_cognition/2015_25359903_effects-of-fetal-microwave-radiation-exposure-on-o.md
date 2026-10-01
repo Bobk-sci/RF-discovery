@@ -7,7 +7,7 @@ titre: Effects of fetal microwave radiation exposure on offspring behavior in mi
 url: https://pubmed.ncbi.nlm.nih.gov/25359903/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Behavior, Animal
@@ -36,6 +36,7 @@ auteurs:
 - Gao Y
 - Zhang C
 pmcid: PMC4380045
+pdf_local: ''
 volume: '56'
 pages: 261-8
 modele: in_vivo
@@ -57,7 +58,7 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- learning and memory
 - anxiety
 - depression
 - behavior

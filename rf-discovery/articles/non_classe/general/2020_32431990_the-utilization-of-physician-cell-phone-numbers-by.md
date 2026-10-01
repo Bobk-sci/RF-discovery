@@ -8,7 +8,7 @@ titre: The Utilization of Physician Cell Phone Numbers by Patients in an Orthopa
 url: https://pubmed.ncbi.nlm.nih.gov/32431990/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Yeon H
 - Tsai J
 pmcid: PMC7233492
+pdf_local: ''
 volume: '12'
 pages: e7712
 modele: non_classe

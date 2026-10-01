@@ -8,7 +8,7 @@ titre: 'Association between visual impairment and sleep duration in college stud
 url: https://pubmed.ncbi.nlm.nih.gov/33759709/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Female
 - Humans
@@ -40,6 +40,7 @@ auteurs:
 - Ramadan A
 - Khair M
 pmcid: ''
+pdf_local: ''
 volume: '71'
 pages: 228-234
 modele: epidemiologie

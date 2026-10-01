@@ -8,7 +8,7 @@ titre: Utility of Quantitative Parameters From Triple-Phase Contrast Enhanced Du
 url: https://pubmed.ncbi.nlm.nih.gov/41186132/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female

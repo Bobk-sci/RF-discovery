@@ -7,7 +7,7 @@ titre: 'Headaches from cellular telephones: are they real and what are the impli
 url: https://pubmed.ncbi.nlm.nih.gov/9441959/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Blood-Brain Barrier
 - Brain Chemistry
@@ -22,6 +22,7 @@ mots_cles: []
 auteurs:
 - Frey AH
 pmcid: PMC1533043
+pdf_local: ''
 volume: '106'
 pages: 101-3
 modele: dosimetrie_modelisation

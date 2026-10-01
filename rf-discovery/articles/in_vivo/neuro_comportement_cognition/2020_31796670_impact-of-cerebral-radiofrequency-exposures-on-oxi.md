@@ -51,12 +51,11 @@ modele_indices:
 - rats
 - rat
 theme: neuro_comportement_cognition
-theme_score: 6.0
+theme_score: 4.0
 theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - memory
-- learning
 - spatial memory
 tags:
 - rf

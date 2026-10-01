@@ -9,7 +9,7 @@ titre: Pre and postnatal exposure to 900 MHz electromagnetic fields induce infl
 url: https://pubmed.ncbi.nlm.nih.gov/36997060/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pregnancy
 - Rats
@@ -39,6 +39,7 @@ auteurs:
 - Bulut H
 - Meral I
 pmcid: ''
+pdf_local: ''
 volume: '321'
 pages: '121627'
 modele: in_vivo

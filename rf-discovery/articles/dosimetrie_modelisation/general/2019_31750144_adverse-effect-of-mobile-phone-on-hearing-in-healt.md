@@ -9,7 +9,7 @@ titre: 'Adverse Effect of Mobile Phone on Hearing in Healthy Individuals: A Clin
 url: https://pubmed.ncbi.nlm.nih.gov/31750144/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Jain L
 - Shringirishi M
 pmcid: PMC6841797
+pdf_local: ''
 volume: '71'
 pages: 1169-1173
 modele: dosimetrie_modelisation

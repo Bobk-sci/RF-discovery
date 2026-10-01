@@ -43,13 +43,12 @@ modele_secondaires: []
 modele_indices:
 - participants
 theme: neuro_comportement_cognition
-theme_score: 5.5
+theme_score: 4.5
 theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognition
 - cognitive
-- learning
 tags:
 - rf
 - modele/epidemiologie

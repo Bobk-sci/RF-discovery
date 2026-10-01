@@ -8,7 +8,7 @@ titre: Alterations of visual reaction time and short term memory in military rad
 url: https://pubmed.ncbi.nlm.nih.gov/23785684/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Taeb S
 - Dehghan N
 pmcid: PMC3684731
+pdf_local: ''
 volume: '42'
 pages: 428-35
 modele: non_classe

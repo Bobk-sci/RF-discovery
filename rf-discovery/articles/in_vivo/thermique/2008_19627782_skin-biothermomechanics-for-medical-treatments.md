@@ -7,7 +7,7 @@ titre: Skin biothermomechanics for medical treatments.
 url: https://pubmed.ncbi.nlm.nih.gov/19627782/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Burns
@@ -29,6 +29,7 @@ auteurs:
 - Lu TJ
 - Seffen KA
 pmcid: ''
+pdf_local: ''
 volume: '1'
 pages: 172-87
 modele: in_vivo

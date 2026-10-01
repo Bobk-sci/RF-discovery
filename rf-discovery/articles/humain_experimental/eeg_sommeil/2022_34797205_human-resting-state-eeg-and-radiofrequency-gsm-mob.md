@@ -8,7 +8,7 @@ titre: 'Human resting-state EEG and radiofrequency GSM mobile phone exposure: th
 url: https://pubmed.ncbi.nlm.nih.gov/34797205/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Cell Phone
@@ -34,6 +34,7 @@ auteurs:
 - Lemaréchal JD
 - Selmaoui B
 pmcid: ''
+pdf_local: ''
 volume: '98'
 pages: 986-995
 modele: humain_experimental

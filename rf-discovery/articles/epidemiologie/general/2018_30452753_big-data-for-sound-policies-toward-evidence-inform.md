@@ -7,7 +7,7 @@ titre: 'Big Data for Sound Policies: Toward Evidence-Informed Hearing Health Pol
 url: https://pubmed.ncbi.nlm.nih.gov/30452753/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Big Data
 - Denmark
@@ -34,6 +34,7 @@ auteurs:
 - Pontoppidan NH
 - Laplante-Lévesque A
 pmcid: PMC7018447
+pdf_local: ''
 volume: '27'
 pages: 493-502
 modele: epidemiologie

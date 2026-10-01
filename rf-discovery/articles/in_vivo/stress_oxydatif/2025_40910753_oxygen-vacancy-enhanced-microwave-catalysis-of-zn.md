@@ -8,7 +8,7 @@ titre: Oxygen vacancy-enhanced microwave catalysis of Zn-Fe spinel for implant-r
 url: https://pubmed.ncbi.nlm.nih.gov/40910753/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microwaves
 - Zinc
@@ -41,6 +41,7 @@ auteurs:
 - Li J
 - Liang Y
 pmcid: ''
+pdf_local: ''
 volume: '13'
 pages: 12557-12568
 modele: in_vivo

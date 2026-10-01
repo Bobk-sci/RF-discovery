@@ -67,7 +67,7 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- learning and memory
 - attention
 tags:
 - rf

@@ -7,7 +7,7 @@ titre: Analysis of the metabolic profile of humans naturally exposed to RF-EM ra
 url: https://pubmed.ncbi.nlm.nih.gov/38762651/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -34,6 +34,7 @@ auteurs:
 - Kumar N
 - Kumar S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '55'
 modele: non_classe

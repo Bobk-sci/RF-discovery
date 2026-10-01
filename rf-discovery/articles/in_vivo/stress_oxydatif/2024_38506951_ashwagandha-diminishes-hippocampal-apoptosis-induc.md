@@ -9,7 +9,7 @@ titre: Ashwagandha Diminishes Hippocampal Apoptosis Induced by Microwave Radiati
 url: https://pubmed.ncbi.nlm.nih.gov/38506951/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Male
@@ -35,6 +35,7 @@ auteurs:
 - Gupta V
 - Srivastava R
 pmcid: '3794007'
+pdf_local: ''
 volume: '49'
 pages: 1687-1702
 modele: in_vivo

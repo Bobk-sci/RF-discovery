@@ -8,7 +8,7 @@ titre: Affective evaluation and exposure perception of everyday mobile phone usa
 url: https://pubmed.ncbi.nlm.nih.gov/39218794/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Abacioglu F
 - Boehmert C
 pmcid: PMC12087716
+pdf_local: ''
 volume: '45'
 pages: 996-1008
 modele: epidemiologie

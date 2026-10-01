@@ -8,7 +8,7 @@ titre: 'Protective and risk factors associated with adolescent sleep: findings f
 url: https://pubmed.ncbi.nlm.nih.gov/28007360/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adolescent Behavior
@@ -48,6 +48,7 @@ auteurs:
 - Gruber R
 - Gradisar M
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 97-103
 modele: non_classe

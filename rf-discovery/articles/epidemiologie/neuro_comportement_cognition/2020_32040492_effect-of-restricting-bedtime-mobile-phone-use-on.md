@@ -8,7 +8,7 @@ titre: 'Effect of restricting bedtime mobile phone use on sleep, arousal, mood, 
 url: https://pubmed.ncbi.nlm.nih.gov/32040492/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Affect
 - Arousal
@@ -33,6 +33,7 @@ auteurs:
 - Su T
 - Tang YX
 pmcid: PMC7010281
+pdf_local: ''
 volume: '15'
 pages: e0228756
 modele: epidemiologie

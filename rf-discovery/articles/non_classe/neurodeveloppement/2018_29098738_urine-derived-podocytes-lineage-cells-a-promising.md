@@ -8,7 +8,7 @@ titre: 'Urine-derived podocytes-lineage cells: A promising tool for precision me
 url: https://pubmed.ncbi.nlm.nih.gov/29098738/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -54,6 +54,7 @@ auteurs:
 - Renieri A
 - Pinto AM
 pmcid: ''
+pdf_local: ''
 volume: '39'
 pages: 302-314
 modele: non_classe

@@ -8,7 +8,7 @@ titre: An Evaluation of Electromagnetic Exposure While Using Ultra-High Frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/31905869/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Gryz K
 - Ramos V
 pmcid: PMC6982864
+pdf_local: ''
 volume: '20'
 pages: ''
 modele: dosimetrie_modelisation

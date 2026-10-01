@@ -7,7 +7,7 @@ titre: The influence of Wi-Fi on the mesonephros in the 9-day-old chicken embryo
 url: https://pubmed.ncbi.nlm.nih.gov/40493106/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Chick Embryo
 - Mesonephros
@@ -30,6 +30,7 @@ auteurs:
 - Tóth Š
 - Holovská K
 pmcid: PMC12152066
+pdf_local: ''
 volume: ''
 pages: '216'
 modele: in_vivo

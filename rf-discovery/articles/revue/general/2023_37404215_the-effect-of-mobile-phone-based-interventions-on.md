@@ -8,7 +8,7 @@ titre: 'The Effect of Mobile Phone-Based Interventions on Blood Pressure in Stro
 url: https://pubmed.ncbi.nlm.nih.gov/37404215/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -17,6 +17,7 @@ auteurs:
 - Avcı A
 - Gün M
 pmcid: PMC10440970
+pdf_local: ''
 volume: '31'
 pages: 122-130
 modele: revue

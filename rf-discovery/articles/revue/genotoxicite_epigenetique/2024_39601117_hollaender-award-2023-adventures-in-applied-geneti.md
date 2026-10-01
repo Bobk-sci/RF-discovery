@@ -7,7 +7,7 @@ titre: 'Hollaender award 2023: Adventures in applied genetic toxicology.'
 url: https://pubmed.ncbi.nlm.nih.gov/39601117/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Awards and Prizes
 - Humans
@@ -32,6 +32,7 @@ mots_cles:
 auteurs:
 - Elespuru RK
 pmcid: ''
+pdf_local: ''
 volume: '65'
 pages: 301-314
 modele: revue

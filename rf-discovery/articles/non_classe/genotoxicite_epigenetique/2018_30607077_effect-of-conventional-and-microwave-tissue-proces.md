@@ -8,7 +8,7 @@ titre: 'Effect of Conventional and Microwave Tissue Processing Technique on DNA 
 url: https://pubmed.ncbi.nlm.nih.gov/30607077/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Carcinoma, Squamous Cell
 - Clinical Laboratory Techniques
@@ -38,6 +38,7 @@ auteurs:
 - Ragavendra RT
 - Desai A
 pmcid: PMC6308768
+pdf_local: ''
 volume: '28'
 pages: 615-624
 modele: non_classe

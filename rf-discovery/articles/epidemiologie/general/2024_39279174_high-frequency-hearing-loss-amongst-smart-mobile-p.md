@@ -8,7 +8,7 @@ titre: 'High-Frequency Hearing Loss Amongst Smart Mobile Phone Users: A Case-Con
 url: https://pubmed.ncbi.nlm.nih.gov/39279174/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hearing Loss, High-Frequency
@@ -35,6 +35,7 @@ auteurs:
 - Sinha N
 - Kumar T
 pmcid: PMC11556493
+pdf_local: ''
 volume: ''
 pages: 684-687
 modele: epidemiologie

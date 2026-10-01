@@ -7,8 +7,9 @@
 - `2026` [[2026_42045282_no-thermal-skin-effects-at-environmental-26-ghz-fi]] — Michelant L et al.
 - `2026` [[2026_42244435_exposure-to-5g-radiofrequency-and-physiological-ef]] — Layla J et al.
 
-## eeg_sommeil (20)
+## eeg_sommeil (21)
 
+- `2026` [[2026_41668986_a-decision-support-system-for-managing-health-symp]] — Parsaei H et al.
 - `2026` [[2026_41752357_correction-loughran-et-al-radiofrequency-electroma]] — Loughran SP et al.
 - `2024` [[2024_39534742_does-radiofrequency-radiation-impact-sleep-a-doubl]] — Bijlsma N et al.
 - `2023` [[2023_36867417_theta-band-brainwaves-in-human-resting-eeg-modulat]] — Wallace J et al.
@@ -30,9 +31,10 @@
 - `2006` [[2006_16546905_does-evening-exposure-to-mobile-phone-radiation-af]] — Wood AW et al.
 - `2000` [[2000_10817372_human-brain-activity-during-exposure-to-radiofrequ]] — Hietanen M et al.
 
-## general (17)
+## general (18)
 
 - `2026` [[2026_41484072_single-capillary-endothelial-dysfunction-resolved]] — He H et al.
+- `2026` [[2026_41907579_machine-learning-reconstruction-of-digit-bone-rama]] — Hosseini M et al.
 - `2026` [[2026_42234550_effects-of-26-ghz-radiofrequency-exposure-on-elect]] — Michelant L et al.
 - `2026` [[2026_42356723_the-effects-of-short-term-post-exposure-to-3-6-ghz]] — Torkan A et al.
 - `2026` [[2026_42432228_recording-skin-oxygenation-by-dual-wavelength-ultr]] — Aguirre J et al.
@@ -54,11 +56,9 @@
 
 - `2025` [[2025_PPR1086195_effect-of-occupational-exposure-of-dentists-and-he]] — TUR K et al.
 
-## neuro_comportement_cognition (12)
+## neuro_comportement_cognition (10)
 
-- `2026` [[2026_41668986_a-decision-support-system-for-managing-health-symp]] — Parsaei H et al.
 - `2026` [[2026_41719774_one-or-many-environmental-intolerance-s-a-cluster]] — Petzke TM et al.
-- `2026` [[2026_41907579_machine-learning-reconstruction-of-digit-bone-rama]] — Hosseini M et al.
 - `2026` [[2026_42771042_exposure-to-pulse-modulated-radiofrequency-electro]] — Verrender A et al.
 - `2025` [[2025_40744201_effects-of-radiofrequency-electromagnetic-fields-o]] — Sauter C et al.
 - `2024` [[2024_38390734_evaluation-of-the-relationship-between-mobile-phon]] — Hasbek Z et al.

@@ -7,7 +7,7 @@ titre: Comparing online cognitive load on mobile versus PC-based devices.
 url: https://pubmed.ncbi.nlm.nih.gov/36594048/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Antonietti A
 - Mantovani F
 pmcid: PMC9795953
+pdf_local: ''
 volume: '27'
 pages: 495-505
 modele: epidemiologie
@@ -34,13 +35,12 @@ modele_secondaires: []
 modele_indices:
 - participants
 theme: neuro_comportement_cognition
-theme_score: 9.5
+theme_score: 8.5
 theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognitive
 - memory
-- learning
 - anxiety
 - depression
 - behaviour

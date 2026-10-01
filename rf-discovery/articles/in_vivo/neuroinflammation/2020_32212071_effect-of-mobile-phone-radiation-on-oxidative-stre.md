@@ -8,7 +8,7 @@ titre: Effect of mobile phone radiation on oxidative stress, inflammatory respon
 url: https://pubmed.ncbi.nlm.nih.gov/32212071/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pituitary-Adrenal System
 - Hypothalamo-Hypophyseal System
@@ -41,6 +41,7 @@ auteurs:
 - Jha SK
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 19340-19351
 modele: in_vivo

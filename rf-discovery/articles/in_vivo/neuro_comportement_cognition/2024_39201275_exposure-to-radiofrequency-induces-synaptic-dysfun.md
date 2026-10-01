@@ -8,7 +8,7 @@ titre: Exposure to Radiofrequency Induces Synaptic Dysfunction in Cortical Neuro
 url: https://pubmed.ncbi.nlm.nih.gov/39201275/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Mice
@@ -43,6 +43,7 @@ auteurs:
 - Lee JK
 - Kim HR
 pmcid: PMC11355025
+pdf_local: ''
 volume: '25'
 pages: ''
 modele: in_vivo
@@ -54,7 +55,7 @@ modele_indices:
 - mice
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 6.0
+theme_score: 8.0
 theme_secondaires:
 - plasticite_synaptique
 - neurodeveloppement
@@ -62,7 +63,8 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 tags:
 - rf
 - modele/in_vivo

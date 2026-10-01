@@ -8,7 +8,7 @@ titre: Specific absorption rate and electric field measurements in the near fiel
 url: https://pubmed.ncbi.nlm.nih.gov/19194889/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -27,6 +27,7 @@ auteurs:
 - Puranen L
 - Jokela K
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 307-12
 modele: dosimetrie_modelisation

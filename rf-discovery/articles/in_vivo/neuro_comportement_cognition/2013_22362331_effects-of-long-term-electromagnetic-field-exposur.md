@@ -48,11 +48,12 @@ modele_indices:
 - Wistar
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 5.0
+theme_score: 7.5
 theme_secondaires: []
 theme_indices:
 - memory
-- learning
+- learning and memory
+- spatial learning
 tags:
 - rf
 - modele/in_vivo

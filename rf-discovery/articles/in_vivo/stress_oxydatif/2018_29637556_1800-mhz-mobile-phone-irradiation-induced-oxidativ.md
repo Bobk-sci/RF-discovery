@@ -8,7 +8,7 @@ titre: 1800 MHz mobile phone irradiation induced oxidative and nitrosative str
 url: https://pubmed.ncbi.nlm.nih.gov/29637556/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Testis
 - Seminiferous Tubules
@@ -47,6 +47,7 @@ auteurs:
 - Singh SP
 - Chaturvedi CM
 pmcid: PMC13482464
+pdf_local: ''
 volume: ''
 pages: 7253-7267
 modele: in_vivo

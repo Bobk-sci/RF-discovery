@@ -7,7 +7,7 @@ titre: 'Presbyopia Correction in Lens Replacement Surgery: A Review.'
 url: https://pubmed.ncbi.nlm.nih.gov/40295166/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Presbyopia
@@ -29,6 +29,7 @@ auteurs:
 - Stern B
 - Gatinel D
 pmcid: PMC12326228
+pdf_local: ''
 volume: '53'
 pages: 668-681
 modele: revue

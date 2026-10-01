@@ -8,7 +8,7 @@ titre: EFFECTIVENESS OF MOBILE PHONE-BASED DISTANCE VIDEO EDUCATION ON METABOLIC
 url: https://pubmed.ncbi.nlm.nih.gov/40530104/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Tekir Ö
 - Yildiz H
 pmcid: PMC12169823
+pdf_local: ''
 volume: '20'
 pages: 261-268
 modele: epidemiologie

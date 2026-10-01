@@ -8,7 +8,7 @@ titre: Porcine cataract creation using formalin or microwave treatment for an op
 url: https://pubmed.ncbi.nlm.nih.gov/27521661/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cataract
@@ -33,6 +33,7 @@ auteurs:
 - Kutzner M
 - Damji KF
 pmcid: ''
+pdf_local: ''
 volume: '51'
 pages: 244-248
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Resilience enhancement strategies for distribution networks considering t
 url: https://pubmed.ncbi.nlm.nih.gov/41545484/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Li C
 - Liu C
 pmcid: PMC12886813
+pdf_local: ''
 volume: '16'
 pages: '5481'
 modele: non_classe

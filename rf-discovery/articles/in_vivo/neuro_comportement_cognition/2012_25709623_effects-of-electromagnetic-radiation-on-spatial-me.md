@@ -8,7 +8,7 @@ titre: Effects of electromagnetic radiation on spatial memory and synapses in ra
 url: https://pubmed.ncbi.nlm.nih.gov/25709623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Xu Q
 - Liu S
 pmcid: PMC4336960
+pdf_local: ''
 volume: '7'
 pages: 1248-55
 modele: in_vivo
@@ -47,7 +48,7 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - memory
-- learning
+- spatial learning
 - spatial memory
 tags:
 - rf

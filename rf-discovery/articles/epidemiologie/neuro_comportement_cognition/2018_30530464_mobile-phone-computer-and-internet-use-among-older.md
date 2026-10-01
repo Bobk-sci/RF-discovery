@@ -8,7 +8,7 @@ titre: 'Mobile Phone, Computer, and Internet Use Among Older Homeless Adults: Re
 url: https://pubmed.ncbi.nlm.nih.gov/30530464/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Guzman D
 - Kushel M
 pmcid: PMC6305882
+pdf_local: ''
 volume: '6'
 pages: e10049
 modele: epidemiologie

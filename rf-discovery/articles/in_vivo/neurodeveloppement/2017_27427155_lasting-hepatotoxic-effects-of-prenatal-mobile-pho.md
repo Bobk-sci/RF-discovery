@@ -9,7 +9,7 @@ titre: Lasting hepatotoxic effects of prenatal mobile phone exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/27427155/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Alanine Transaminase
 - Analysis of Variance
@@ -45,6 +45,7 @@ auteurs:
 - Uydu HA
 - Yazici ZA
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 1355-1359
 modele: in_vivo

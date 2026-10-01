@@ -8,7 +8,7 @@ titre: 'Evidence for a health risk by RF on humans living around mobile phone ba
 url: https://pubmed.ncbi.nlm.nih.gov/35843283/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -31,6 +31,7 @@ mots_cles:
 auteurs:
 - Balmori A
 pmcid: ''
+pdf_local: ''
 volume: '214'
 pages: '113851'
 modele: revue

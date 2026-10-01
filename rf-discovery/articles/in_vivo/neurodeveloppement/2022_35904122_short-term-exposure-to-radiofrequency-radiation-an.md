@@ -8,7 +8,7 @@ titre: Short-term exposure to radiofrequency radiation and metabolic enzymes' ac
 url: https://pubmed.ncbi.nlm.nih.gov/35904122/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rabbits
@@ -37,6 +37,7 @@ auteurs:
 - Ozturk GG
 - Ulusu NN
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 370-378
 modele: in_vivo

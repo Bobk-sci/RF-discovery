@@ -46,12 +46,12 @@ modele_indices:
 - Review (descripteur décisif)
 - review
 theme: neuro_comportement_cognition
-theme_score: 3.0
+theme_score: 2.0
 theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/revue

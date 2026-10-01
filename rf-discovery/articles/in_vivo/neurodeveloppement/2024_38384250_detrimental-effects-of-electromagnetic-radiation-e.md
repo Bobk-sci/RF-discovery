@@ -8,7 +8,7 @@ titre: Detrimental effects of electromagnetic radiation emitted from cell phone 
 url: https://pubmed.ncbi.nlm.nih.gov/38384250/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Blastocyst
 - Animals
@@ -38,6 +38,7 @@ auteurs:
 - Anbari F
 - Koohestanidehaghi Y
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 149-153
 modele: in_vivo

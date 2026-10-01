@@ -8,7 +8,7 @@ titre: Effect of 2400 MHz mobile phone radiation exposure on the behavior and 
 url: https://pubmed.ncbi.nlm.nih.gov/35002399/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Nabiul Islam M
 - Rafiqul Islam M
 pmcid: PMC8716897
+pdf_local: ''
 volume: '29'
 pages: 102-110
 modele: in_vivo

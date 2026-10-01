@@ -8,7 +8,7 @@ titre: EMF Exposure in Public Places in Central Greece. Active versus Non Active
 url: https://doi.org/10.20944/preprints202401.2045.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -21,6 +21,7 @@ auteurs:
 - Theodorou K
 - Kappas AC
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: dosimetrie_modelisation

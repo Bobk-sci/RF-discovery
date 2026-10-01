@@ -7,7 +7,7 @@ titre: Mobile phone radiation alters proliferation of hepatocarcinoma cells.
 url: https://pubmed.ncbi.nlm.nih.gov/24817642/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cell Proliferation
@@ -28,6 +28,7 @@ auteurs:
 - Kismali G
 - Seyhan N
 pmcid: ''
+pdf_local: ''
 volume: '70'
 pages: 983-91
 modele: in_vitro

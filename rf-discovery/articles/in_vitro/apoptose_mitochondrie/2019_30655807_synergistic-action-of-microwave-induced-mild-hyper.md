@@ -8,7 +8,7 @@ titre: Synergistic action of microwave-induced mild hyperthermia and paclitaxel 
 url: https://pubmed.ncbi.nlm.nih.gov/30655807/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Li Y
 - Liao X
 pmcid: PMC6313200
+pdf_local: ''
 volume: '17'
 pages: 603-615
 modele: in_vitro

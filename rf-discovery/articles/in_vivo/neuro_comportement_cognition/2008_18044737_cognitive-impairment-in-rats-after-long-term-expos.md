@@ -8,7 +8,7 @@ titre: Cognitive impairment in rats after long-term exposure to GSM-900 mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/18044737/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -34,6 +34,7 @@ auteurs:
 - Salford LG
 - Eberhardt J
 pmcid: ''
+pdf_local: ''
 volume: '29'
 pages: 219-32
 modele: in_vivo

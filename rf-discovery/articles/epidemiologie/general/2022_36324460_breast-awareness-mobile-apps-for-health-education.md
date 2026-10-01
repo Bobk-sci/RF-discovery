@@ -8,7 +8,7 @@ titre: Breast awareness mobile apps for health education and promotion for breas
 url: https://pubmed.ncbi.nlm.nih.gov/36324460/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Female
 - Humans
@@ -34,6 +34,7 @@ auteurs:
 - Nasution A
 - Lean Keng S
 pmcid: PMC9620858
+pdf_local: ''
 volume: '10'
 pages: '951641'
 modele: epidemiologie

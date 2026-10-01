@@ -8,7 +8,7 @@ titre: 'My Baby''s Movements: An assessment of the effectiveness of the My Baby'
 url: https://pubmed.ncbi.nlm.nih.gov/36717966/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Infant
 - Pregnancy
@@ -46,6 +46,7 @@ auteurs:
 - Ellwood D
 - Flenady V
 pmcid: ''
+pdf_local: ''
 volume: '63'
 pages: 378-383
 modele: epidemiologie

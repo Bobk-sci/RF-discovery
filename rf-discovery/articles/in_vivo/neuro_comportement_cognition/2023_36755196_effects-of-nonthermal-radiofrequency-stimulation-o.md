@@ -8,7 +8,7 @@ titre: Effects of Nonthermal Radiofrequency Stimulation on Neuronal Activity and
 url: https://pubmed.ncbi.nlm.nih.gov/36755196/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Neurons
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Yang H
 - Li Y
 pmcid: PMC10104648
+pdf_local: ''
 volume: ''
 pages: e2205988
 modele: in_vivo

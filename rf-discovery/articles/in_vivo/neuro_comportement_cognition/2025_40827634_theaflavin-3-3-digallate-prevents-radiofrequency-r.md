@@ -49,7 +49,7 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - memory
-- learning
+- learning and memory
 - neurobehavioral
 tags:
 - rf

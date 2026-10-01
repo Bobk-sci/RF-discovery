@@ -8,7 +8,7 @@ titre: 'Mobile Phone Overuse Among Elementary School Students in Korea: Factors 
 url: https://pubmed.ncbi.nlm.nih.gov/26053080/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Anxiety
 - Behavior, Addictive
@@ -30,6 +30,7 @@ auteurs:
 - Lee KJ
 - Choi YJ
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 81-5
 modele: epidemiologie

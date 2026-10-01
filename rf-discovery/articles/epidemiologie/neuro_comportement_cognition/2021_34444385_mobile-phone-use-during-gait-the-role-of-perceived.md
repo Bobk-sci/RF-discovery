@@ -8,7 +8,7 @@ titre: 'Mobile Phone Use during Gait: The Role of Perceived Prioritization and E
 url: https://pubmed.ncbi.nlm.nih.gov/34444385/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Attention
 - Cell Phone Use
@@ -32,6 +32,7 @@ auteurs:
 - Felberbaum Y
 - Kizony R
 pmcid: PMC8391292
+pdf_local: ''
 volume: '18'
 pages: ''
 modele: epidemiologie

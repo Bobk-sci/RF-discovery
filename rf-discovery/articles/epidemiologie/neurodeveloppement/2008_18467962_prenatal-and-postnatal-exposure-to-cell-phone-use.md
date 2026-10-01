@@ -8,7 +8,7 @@ titre: Prenatal and postnatal exposure to cell phone use and behavioral problems
 url: https://pubmed.ncbi.nlm.nih.gov/18467962/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Child
@@ -36,6 +36,7 @@ auteurs:
 - Obel C
 - Olsen J
 pmcid: ''
+pdf_local: ''
 volume: '19'
 pages: 523-9
 modele: epidemiologie

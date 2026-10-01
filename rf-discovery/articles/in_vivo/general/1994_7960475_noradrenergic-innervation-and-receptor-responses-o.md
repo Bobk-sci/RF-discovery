@@ -8,7 +8,7 @@ titre: Noradrenergic innervation and receptor responses of cardiovascular tissue
 url: https://pubmed.ncbi.nlm.nih.gov/7960475/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aging
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Campagni A
 - Del Bianchi S
 pmcid: ''
+pdf_local: ''
 volume: '76'
 pages: 165-75
 modele: in_vivo

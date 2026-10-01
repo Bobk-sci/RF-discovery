@@ -8,7 +8,7 @@ titre: Parent-child interaction using a mobile and wireless system for blood glu
 url: https://pubmed.ncbi.nlm.nih.gov/16403721/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -36,6 +36,7 @@ auteurs:
 - Jenssen M
 - Taylor T
 pmcid: PMC1550683
+pdf_local: ''
 volume: '7'
 pages: e57
 modele: non_classe

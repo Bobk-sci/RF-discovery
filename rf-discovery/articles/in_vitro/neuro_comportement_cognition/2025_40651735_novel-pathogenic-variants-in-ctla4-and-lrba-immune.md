@@ -8,7 +8,7 @@ titre: 'Novel pathogenic variants in CTLA4 and LRBA immune dysregulation: Reduce
 url: https://pubmed.ncbi.nlm.nih.gov/40651735/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - CTLA-4 Antigen
@@ -41,6 +41,7 @@ auteurs:
 - Kuijpers TW
 - de Bree GJ
 pmcid: ''
+pdf_local: ''
 volume: '280'
 pages: '110565'
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Meta-analysis of in vitro and in vivo studies of the biological effects o
 url: https://pubmed.ncbi.nlm.nih.gov/33727686/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radio Waves
@@ -25,6 +25,7 @@ auteurs:
 - Mate R
 - Karipidis K
 pmcid: PMC7962924
+pdf_local: ''
 volume: '31'
 pages: 606-613
 modele: revue

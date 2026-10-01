@@ -8,7 +8,7 @@ titre: Electromagnetic field exposure monitoring of commercial 28-GHz band 5G ba
 url: https://pubmed.ncbi.nlm.nih.gov/38778514/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Tokyo
@@ -34,6 +34,7 @@ auteurs:
 - Taki M
 - Watanabe S
 pmcid: ''
+pdf_local: ''
 volume: '45'
 pages: 281-292
 modele: dosimetrie_modelisation

@@ -49,13 +49,12 @@ modele_indices:
 - Wistar
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 6.5
+theme_score: 4.5
 theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cognition
 - cognitive
-- learning
 tags:
 - rf
 - modele/in_vivo

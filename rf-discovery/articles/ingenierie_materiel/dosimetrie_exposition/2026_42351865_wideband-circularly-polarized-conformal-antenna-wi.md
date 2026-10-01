@@ -41,7 +41,6 @@ modele_indices:
 theme: dosimetrie_exposition
 theme_score: 2.0
 theme_secondaires:
-- neuro_comportement_cognition
 - thermique
 theme_indices:
 - specific absorption rate
@@ -51,7 +50,6 @@ tags:
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
-- theme/neuro_comportement_cognition
 - theme/thermique
 - annee/2026
 ---

@@ -8,7 +8,7 @@ titre: 2019 international clinical practice guidelines for the treatment and pro
 url: https://pubmed.ncbi.nlm.nih.gov/31492632/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Anticoagulants
 - Central Venous Catheters
@@ -44,6 +44,7 @@ auteurs:
 - Douketis J
 - International Initiative on Thrombosis and Cancer (ITAC) advisory panel
 pmcid: ''
+pdf_local: ''
 volume: '20'
 pages: e566-e581
 modele: revue

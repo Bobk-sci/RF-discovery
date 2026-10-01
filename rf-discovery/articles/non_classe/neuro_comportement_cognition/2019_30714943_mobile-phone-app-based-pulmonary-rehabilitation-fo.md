@@ -8,7 +8,7 @@ titre: 'Mobile Phone App-Based Pulmonary Rehabilitation for Chemotherapy-Treated
 url: https://pubmed.ncbi.nlm.nih.gov/30714943/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aged
 - Drug Therapy
@@ -44,6 +44,7 @@ auteurs:
 - Ji W
 - Choi CM
 pmcid: PMC6378551
+pdf_local: ''
 volume: '7'
 pages: e11094
 modele: non_classe

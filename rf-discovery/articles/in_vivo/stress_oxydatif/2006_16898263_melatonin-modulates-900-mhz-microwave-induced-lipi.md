@@ -8,7 +8,7 @@ titre: Melatonin modulates 900 Mhz microwave-induced lipid peroxidation changes 
 url: https://pubmed.ncbi.nlm.nih.gov/16898263/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Antioxidants
@@ -30,6 +30,7 @@ auteurs:
 - Naziroglu M
 - Delibas N
 pmcid: ''
+pdf_local: ''
 volume: '22'
 pages: 211-6
 modele: in_vivo

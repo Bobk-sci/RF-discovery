@@ -52,7 +52,7 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- spatial learning
 - behaviour
 - spatial memory
 tags:

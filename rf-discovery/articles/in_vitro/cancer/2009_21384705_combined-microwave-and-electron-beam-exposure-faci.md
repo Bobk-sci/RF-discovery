@@ -9,7 +9,7 @@ titre: Combined microwave and electron beam exposure facilities for medical stud
 url: https://pubmed.ncbi.nlm.nih.gov/21384705/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Line, Tumor
@@ -39,6 +39,7 @@ auteurs:
 - Chirita DA
 - Moisescu M
 pmcid: ''
+pdf_local: ''
 volume: '43'
 pages: 12-20
 modele: in_vitro

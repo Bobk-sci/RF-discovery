@@ -8,7 +8,7 @@ titre: An Epidemiological Study of Cell Phone-Related Injuries of the Hand and W
 url: https://pubmed.ncbi.nlm.nih.gov/36974296/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Modrak M
 - Gardner EC
 pmcid: PMC10039299
+pdf_local: ''
 volume: '5'
 pages: 184-188
 modele: epidemiologie

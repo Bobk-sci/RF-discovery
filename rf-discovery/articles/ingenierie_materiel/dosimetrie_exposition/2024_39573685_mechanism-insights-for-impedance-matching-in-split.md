@@ -8,7 +8,7 @@ titre: Mechanism insights for impedance matching in split-ring resonator topolog
 url: https://pubmed.ncbi.nlm.nih.gov/39573685/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Ouyang Z
 - Liu Q
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 38422-38436
 modele: ingenierie_materiel

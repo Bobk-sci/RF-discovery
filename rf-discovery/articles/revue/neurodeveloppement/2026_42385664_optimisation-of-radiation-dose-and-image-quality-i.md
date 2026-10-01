@@ -48,15 +48,13 @@ modele_indices:
 - meta analysis
 theme: neurodeveloppement
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - child
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
-- theme/neuro_comportement_cognition
 - annee/2026
 ---
 

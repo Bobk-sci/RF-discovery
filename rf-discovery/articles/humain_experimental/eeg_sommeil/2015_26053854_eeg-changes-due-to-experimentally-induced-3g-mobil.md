@@ -7,7 +7,7 @@ titre: EEG Changes Due to Experimentally Induced 3G Mobile Phone Radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/26053854/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -27,6 +27,7 @@ auteurs:
 - Viechtbauer W
 - Lousberg R
 pmcid: PMC4459698
+pdf_local: ''
 volume: '10'
 pages: e0129496
 modele: humain_experimental

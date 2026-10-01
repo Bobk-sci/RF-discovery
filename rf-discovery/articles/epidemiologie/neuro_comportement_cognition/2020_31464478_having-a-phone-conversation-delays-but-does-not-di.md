@@ -7,7 +7,7 @@ titre: Having a phone conversation delays but does not disrupt cognitive mechani
 url: https://pubmed.ncbi.nlm.nih.gov/31464478/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Attention
@@ -27,6 +27,7 @@ auteurs:
 - Kunar MA
 - Watson DG
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 199-217
 modele: epidemiologie
@@ -40,7 +41,7 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - cognitive
-- learning
+- spatial learning
 - attention
 - reaction time
 tags:

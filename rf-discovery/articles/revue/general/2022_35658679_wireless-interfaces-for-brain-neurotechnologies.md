@@ -8,7 +8,7 @@ titre: Wireless interfaces for brain neurotechnologies.
 url: https://pubmed.ncbi.nlm.nih.gov/35658679/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Prostheses and Implants
@@ -24,6 +24,7 @@ auteurs:
 - Kim HJ
 - Ho JS
 pmcid: ''
+pdf_local: ''
 volume: '380'
 pages: '20210020'
 modele: revue

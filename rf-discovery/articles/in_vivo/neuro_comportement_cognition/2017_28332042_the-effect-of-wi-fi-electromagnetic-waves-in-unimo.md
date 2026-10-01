@@ -9,7 +9,7 @@ titre: The effect of Wi-Fi electromagnetic waves in unimodal and multimodal obje
 url: https://pubmed.ncbi.nlm.nih.gov/28332042/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Discrimination, Psychological
@@ -44,6 +44,7 @@ auteurs:
 - Roohbakhsh A
 - Shamsizadeh A
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 1069-1076
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Design and Dosimetric Analysis of an Exposure Facility for Investigating 
 url: https://pubmed.ncbi.nlm.nih.gov/32104921/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Brain
@@ -37,6 +37,7 @@ auteurs:
 - Eggert T
 - Danker-Hopfe H
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 230-240
 modele: dosimetrie_modelisation

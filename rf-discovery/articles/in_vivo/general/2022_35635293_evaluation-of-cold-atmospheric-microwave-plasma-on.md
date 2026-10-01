@@ -8,7 +8,7 @@ titre: Evaluation of cold atmospheric microwave plasma on skin physiological par
 url: https://pubmed.ncbi.nlm.nih.gov/35635293/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Dogs
@@ -28,6 +28,7 @@ auteurs:
 - Baek SJ
 - Hwang CY
 pmcid: ''
+pdf_local: ''
 volume: '33'
 pages: 363-370
 modele: in_vivo

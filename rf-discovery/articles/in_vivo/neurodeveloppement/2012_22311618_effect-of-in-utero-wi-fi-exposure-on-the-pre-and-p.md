@@ -8,7 +8,7 @@ titre: Effect of in utero wi-fi exposure on the pre- and postnatal development o
 url: https://pubmed.ncbi.nlm.nih.gov/22311618/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Animals, Newborn
@@ -42,6 +42,7 @@ auteurs:
 - Veyret B
 - Lagroye I
 pmcid: ''
+pdf_local: ''
 volume: '95'
 pages: 130-6
 modele: in_vivo

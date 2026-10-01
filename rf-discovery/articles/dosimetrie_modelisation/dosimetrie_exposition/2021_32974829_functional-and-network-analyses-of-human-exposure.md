@@ -7,7 +7,7 @@ titre: Functional and network analyses of human exposure to long-term evolution 
 url: https://pubmed.ncbi.nlm.nih.gov/32974829/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Magnetic Resonance Imaging
@@ -29,6 +29,7 @@ auteurs:
 - Li C
 - Wu T
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 5755-5773
 modele: dosimetrie_modelisation

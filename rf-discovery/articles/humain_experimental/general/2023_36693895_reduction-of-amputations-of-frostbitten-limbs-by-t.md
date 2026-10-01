@@ -8,7 +8,7 @@ titre: Reduction of amputations of frostbitten limbs by treatment using microwav
 url: https://pubmed.ncbi.nlm.nih.gov/36693895/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Extremities
 - Humans
@@ -32,6 +32,7 @@ auteurs:
 - Antipov V
 - Nechaev A
 pmcid: PMC9873917
+pdf_local: ''
 volume: ''
 pages: '1362'
 modele: humain_experimental

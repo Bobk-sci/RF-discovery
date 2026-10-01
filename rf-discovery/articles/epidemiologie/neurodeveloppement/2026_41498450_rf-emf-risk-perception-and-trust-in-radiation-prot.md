@@ -8,7 +8,7 @@ titre: 'RF-EMF Risk Perception and Trust in Radiation Protection Authorities: A 
 url: https://pubmed.ncbi.nlm.nih.gov/41498450/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -44,6 +44,7 @@ auteurs:
 - Abacioglu F
 - Boehmert C
 pmcid: PMC12777509
+pdf_local: ''
 volume: '47'
 pages: e70042
 modele: epidemiologie

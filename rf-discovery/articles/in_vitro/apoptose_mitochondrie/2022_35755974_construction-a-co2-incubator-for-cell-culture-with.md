@@ -8,7 +8,7 @@ titre: Construction a CO2 Incubator for Cell Culture with Capability of Transmit
 url: https://pubmed.ncbi.nlm.nih.gov/35755974/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Fardid R
 - Zafari J
 pmcid: PMC9215836
+pdf_local: ''
 volume: '12'
 pages: 127-132
 modele: in_vitro

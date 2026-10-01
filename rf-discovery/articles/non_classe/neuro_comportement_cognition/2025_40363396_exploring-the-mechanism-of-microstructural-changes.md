@@ -8,7 +8,7 @@ titre: 'Exploring the Mechanism of Microstructural Changes in Ultra-High-Perform
 url: https://pubmed.ncbi.nlm.nih.gov/40363396/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Li S
 - Liu D
 pmcid: PMC12073028
+pdf_local: ''
 volume: ''
 pages: '1892'
 modele: non_classe

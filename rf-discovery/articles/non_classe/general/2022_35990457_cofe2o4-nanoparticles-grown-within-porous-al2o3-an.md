@@ -8,7 +8,7 @@ titre: 'CoFe2O4 Nanoparticles Grown within Porous Al2O3 and Immobilized on Graph
 url: https://pubmed.ncbi.nlm.nih.gov/35990457/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Das MR
 - Ghosh NN
 pmcid: PMC9386821
+pdf_local: ''
 volume: '7'
 pages: 28624-28635
 modele: non_classe

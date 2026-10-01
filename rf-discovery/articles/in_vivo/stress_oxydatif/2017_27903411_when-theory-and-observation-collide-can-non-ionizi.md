@@ -7,7 +7,7 @@ titre: 'When theory and observation collide: Can non-ionizing radiation cause ca
 url: https://pubmed.ncbi.nlm.nih.gov/27903411/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -31,6 +31,7 @@ mots_cles:
 auteurs:
 - Havas M
 pmcid: ''
+pdf_local: ''
 volume: '221'
 pages: 501-505
 modele: in_vivo

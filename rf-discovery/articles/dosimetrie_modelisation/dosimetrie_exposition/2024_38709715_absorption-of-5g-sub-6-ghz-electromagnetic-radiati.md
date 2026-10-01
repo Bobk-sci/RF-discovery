@@ -8,7 +8,7 @@ titre: Absorption of 5G sub-6 GHz electromagnetic radiation from base station 
 url: https://pubmed.ncbi.nlm.nih.gov/38709715/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Male
 - Humans
@@ -31,6 +31,7 @@ auteurs:
 - Li J
 - Ding G
 pmcid: ''
+pdf_local: ''
 volume: '100'
 pages: 1085-1092
 modele: dosimetrie_modelisation

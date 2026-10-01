@@ -7,7 +7,7 @@ titre: Mobile phone use and brain tumour risk - COSMOS, a prospective cohort stu
 url: https://pubmed.ncbi.nlm.nih.gov/38458118/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Meningioma
@@ -47,6 +47,7 @@ auteurs:
 - Tettamanti G
 - Elliott P
 pmcid: ''
+pdf_local: ''
 volume: '185'
 pages: '108552'
 modele: epidemiologie

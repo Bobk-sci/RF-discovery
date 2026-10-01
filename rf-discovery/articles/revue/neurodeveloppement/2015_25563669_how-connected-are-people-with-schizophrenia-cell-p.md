@@ -8,7 +8,7 @@ titre: How connected are people with schizophrenia? Cell phone, computer, email,
 url: https://pubmed.ncbi.nlm.nih.gov/25563669/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -44,6 +44,7 @@ auteurs:
 - Peeples D
 - Buckley PF
 pmcid: ''
+pdf_local: ''
 volume: '225'
 pages: 458-63
 modele: revue

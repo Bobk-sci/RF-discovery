@@ -8,7 +8,7 @@ titre: Rhesus monkey behavior during exposure to high-peak-power 5.62-GHz microw
 url: https://pubmed.ncbi.nlm.nih.gov/8024607/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Analysis of Variance
 - Animals
@@ -29,6 +29,7 @@ auteurs:
 - Thomas A
 - Hatcher DJ
 pmcid: ''
+pdf_local: ''
 volume: '15'
 pages: 163-76
 modele: in_vivo

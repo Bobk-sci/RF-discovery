@@ -7,7 +7,7 @@ titre: A study on the effect of mobile phone use on sleep.
 url: https://pubmed.ncbi.nlm.nih.gov/35946229/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Actigraphy
 - Cell Phone
@@ -38,6 +38,7 @@ auteurs:
 - Mohan A
 - Sharma SK
 pmcid: PMC9707689
+pdf_local: ''
 volume: '155'
 pages: 380-386
 modele: epidemiologie

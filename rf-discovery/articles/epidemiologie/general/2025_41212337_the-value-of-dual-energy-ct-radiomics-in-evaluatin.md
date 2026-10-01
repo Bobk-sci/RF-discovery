@@ -8,7 +8,7 @@ titre: The value of dual-energy CT radiomics in evaluating vascular maturity and
 url: https://pubmed.ncbi.nlm.nih.gov/41212337/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

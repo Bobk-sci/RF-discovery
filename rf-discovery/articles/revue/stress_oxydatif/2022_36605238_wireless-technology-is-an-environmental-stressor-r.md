@@ -8,7 +8,7 @@ titre: Wireless technology is an environmental stressor requiring new understand
 url: https://pubmed.ncbi.nlm.nih.gov/36605238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Oxidative Stress
@@ -33,6 +33,7 @@ auteurs:
 - Weller S
 - Leach V
 pmcid: PMC9809975
+pdf_local: ''
 volume: ''
 pages: '986315'
 modele: revue

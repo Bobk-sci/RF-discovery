@@ -8,7 +8,7 @@ titre: 'Cell phone use and risk of thyroid cancer: a population-based case-contr
 url: https://pubmed.ncbi.nlm.nih.gov/30446214/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -46,6 +46,7 @@ auteurs:
 - Udelsman R
 - Zhang Y
 pmcid: PMC6344271
+pdf_local: ''
 volume: '29'
 pages: 39-45
 modele: epidemiologie

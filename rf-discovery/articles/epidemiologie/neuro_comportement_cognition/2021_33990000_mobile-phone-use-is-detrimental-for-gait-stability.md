@@ -7,7 +7,7 @@ titre: Mobile phone use is detrimental for gait stability in young adults.
 url: https://pubmed.ncbi.nlm.nih.gov/33990000/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Attention
 - Cell Phone Use
@@ -27,6 +27,7 @@ auteurs:
 - Javid P
 - Di Giulio I
 pmcid: ''
+pdf_local: ''
 volume: '88'
 pages: 37-41
 modele: epidemiologie

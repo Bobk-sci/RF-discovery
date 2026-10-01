@@ -7,7 +7,7 @@ titre: Distribution of sleep components while working remotely.
 url: https://pubmed.ncbi.nlm.nih.gov/38214483/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Sleep
@@ -33,6 +33,7 @@ auteurs:
 - Jurewicz J
 - Polanska K
 pmcid: PMC10959275
+pdf_local: ''
 volume: '37'
 pages: 34-44
 modele: epidemiologie

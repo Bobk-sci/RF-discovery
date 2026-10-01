@@ -8,7 +8,7 @@ titre: Effects of 5G-modulated 3.5 GHz radiofrequency field exposures on HSF1, 
 url: https://pubmed.ncbi.nlm.nih.gov/37221363/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Fibroblasts
 - Keratinocytes
@@ -36,6 +36,7 @@ auteurs:
 - Arnaud-Cormos D
 - Percherancier Y
 pmcid: PMC10203668
+pdf_local: ''
 volume: ''
 pages: '8305'
 modele: in_vitro

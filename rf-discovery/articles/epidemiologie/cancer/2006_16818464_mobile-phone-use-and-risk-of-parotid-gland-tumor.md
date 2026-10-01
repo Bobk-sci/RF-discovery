@@ -7,7 +7,7 @@ titre: Mobile phone use and risk of parotid gland tumor.
 url: https://pubmed.ncbi.nlm.nih.gov/16818464/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -41,6 +41,7 @@ auteurs:
 - Wennerberg J
 - Feychting M
 pmcid: ''
+pdf_local: ''
 volume: '164'
 pages: 637-43
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: 'Mobile phone use, behavioural problems and concentration capacity in ado
 url: https://pubmed.ncbi.nlm.nih.gov/27665258/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adolescent Behavior
@@ -39,6 +39,7 @@ auteurs:
 - Schoeni A
 - Röösli M
 pmcid: ''
+pdf_local: ''
 volume: '219'
 pages: 759-769
 modele: epidemiologie

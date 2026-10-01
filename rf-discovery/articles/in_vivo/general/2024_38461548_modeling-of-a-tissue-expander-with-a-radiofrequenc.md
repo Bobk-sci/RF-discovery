@@ -8,7 +8,7 @@ titre: Modeling of a tissue expander with a radiofrequency identification port i
 url: https://pubmed.ncbi.nlm.nih.gov/38461548/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Mastectomy
 - Humans
@@ -34,6 +34,7 @@ auteurs:
 - Harada A
 - Yoshioka Y
 pmcid: PMC11115439
+pdf_local: ''
 volume: '65'
 pages: 360-368
 modele: in_vivo

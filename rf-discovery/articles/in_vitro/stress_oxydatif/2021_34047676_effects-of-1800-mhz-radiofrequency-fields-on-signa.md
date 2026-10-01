@@ -8,7 +8,7 @@ titre: Effects of 1800 MHz radiofrequency fields on signal transduction and an
 url: https://pubmed.ncbi.nlm.nih.gov/34047676/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -31,6 +31,7 @@ auteurs:
 - Qutob SS
 - Bellier PV
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1316-1323
 modele: in_vitro

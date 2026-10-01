@@ -8,7 +8,7 @@ titre: Development and Testing of a Novel Whole-body Exposure System for Investi
 url: https://pubmed.ncbi.nlm.nih.gov/40966368/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Review
@@ -27,6 +27,7 @@ auteurs:
 - Stout MD
 - Walker NJ
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: revue

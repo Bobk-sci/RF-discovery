@@ -58,7 +58,7 @@ theme_secondaires:
 theme_indices:
 - cognition
 - memory
-- learning
+- spatial learning
 - behavior
 - locomotor activity
 - spatial memory

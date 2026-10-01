@@ -8,7 +8,7 @@ titre: Effects of High Temperature and High Humidity on the Degree of Ocular Dam
 url: https://pubmed.ncbi.nlm.nih.gov/39222016/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Eye
 - Cornea
@@ -35,6 +35,7 @@ auteurs:
 - Ikehata M
 - Sasaki H
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 557-564
 modele: in_vivo

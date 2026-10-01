@@ -7,7 +7,7 @@ titre: Lessons Learned from a Distributed RF-EMF Sensor Network.
 url: https://pubmed.ncbi.nlm.nih.gov/35270862/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cities
 - Environmental Exposure
@@ -36,6 +36,7 @@ auteurs:
 - Martens L
 - Joseph W
 pmcid: PMC8914968
+pdf_local: ''
 volume: ''
 pages: '1715'
 modele: dosimetrie_modelisation

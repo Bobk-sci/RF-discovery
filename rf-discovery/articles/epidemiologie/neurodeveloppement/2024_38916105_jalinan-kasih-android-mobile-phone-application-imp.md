@@ -9,7 +9,7 @@ titre: 'Jalinan Kasih android mobile phone application improves knowledge, attit
 url: https://pubmed.ncbi.nlm.nih.gov/38916105/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female
@@ -37,6 +37,7 @@ auteurs:
 - Villia A
 - Muslim Z
 pmcid: ''
+pdf_local: ''
 volume: '28'
 pages: 47-54
 modele: epidemiologie

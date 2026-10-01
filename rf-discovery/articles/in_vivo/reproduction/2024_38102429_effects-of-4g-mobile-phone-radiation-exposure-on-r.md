@@ -8,7 +8,7 @@ titre: Effects of 4G mobile phone radiation exposure on reproductive, hepatic, r
 url: https://pubmed.ncbi.nlm.nih.gov/38102429/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Rats
@@ -42,6 +42,7 @@ auteurs:
 - Sarsaiya P
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 4384-4399
 modele: in_vivo

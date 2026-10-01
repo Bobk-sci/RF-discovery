@@ -8,7 +8,7 @@ titre: Specific absorption rate and radiofrequency current-to-ground in human mo
 url: https://pubmed.ncbi.nlm.nih.gov/8491619/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Absorption
 - Calorimetry
@@ -23,6 +23,7 @@ auteurs:
 - Olsen RG
 - Griner TA
 pmcid: ''
+pdf_local: ''
 volume: '64'
 pages: 633-7
 modele: dosimetrie_modelisation

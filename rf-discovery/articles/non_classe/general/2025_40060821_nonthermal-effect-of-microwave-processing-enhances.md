@@ -8,7 +8,7 @@ titre: 'Nonthermal Effect of Microwave Processing Enhances Interface Reactivity 
 url: https://pubmed.ncbi.nlm.nih.gov/40060821/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -21,6 +21,7 @@ auteurs:
 - Tsai YS
 - Tien-Hsi Lee B
 pmcid: PMC11886901
+pdf_local: ''
 volume: ''
 pages: 7662-7671
 modele: non_classe

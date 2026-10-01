@@ -9,7 +9,7 @@ titre: 'The MOBI-Kids Study Protocol: Challenges in Assessing Childhood and Adol
 url: https://pubmed.ncbi.nlm.nih.gov/25295243/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -79,6 +79,7 @@ auteurs:
 - Reedijk AA
 - Cardis E
 pmcid: PMC4172002
+pdf_local: ''
 volume: '2'
 pages: '124'
 modele: epidemiologie

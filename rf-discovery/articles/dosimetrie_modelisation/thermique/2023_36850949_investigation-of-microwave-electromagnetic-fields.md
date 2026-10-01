@@ -8,7 +8,7 @@ titre: Investigation of Microwave Electromagnetic Fields in Open and Shielded Ar
 url: https://pubmed.ncbi.nlm.nih.gov/36850949/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -31,6 +31,7 @@ auteurs:
 - Gombarska D
 - Psenakova Z
 pmcid: PMC9961501
+pdf_local: ''
 volume: ''
 pages: '2351'
 modele: dosimetrie_modelisation

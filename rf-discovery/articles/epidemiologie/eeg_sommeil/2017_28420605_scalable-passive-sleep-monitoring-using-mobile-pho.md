@@ -7,7 +7,7 @@ titre: 'Scalable Passive Sleep Monitoring Using Mobile Phones: Opportunities and
 url: https://pubmed.ncbi.nlm.nih.gov/28420605/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -35,6 +35,7 @@ auteurs:
 - Kording KP
 - Mohr DC
 pmcid: PMC5413802
+pdf_local: ''
 volume: '19'
 pages: e118
 modele: epidemiologie

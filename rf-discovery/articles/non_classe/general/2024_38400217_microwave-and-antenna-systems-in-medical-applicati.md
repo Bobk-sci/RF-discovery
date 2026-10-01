@@ -7,7 +7,7 @@ titre: Microwave and Antenna Systems in Medical Applications.
 url: https://pubmed.ncbi.nlm.nih.gov/38400217/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microwaves
 types:
@@ -17,6 +17,7 @@ auteurs:
 - Lui HS
 - Persson M
 pmcid: PMC10892428
+pdf_local: ''
 volume: ''
 pages: '1059'
 modele: non_classe

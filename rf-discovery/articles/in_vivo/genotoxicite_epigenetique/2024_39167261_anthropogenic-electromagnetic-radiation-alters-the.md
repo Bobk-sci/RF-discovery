@@ -9,7 +9,7 @@ titre: Anthropogenic electromagnetic radiation alters the transcription levels o
 url: https://pubmed.ncbi.nlm.nih.gov/39167261/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Ixodes
@@ -40,6 +40,7 @@ auteurs:
 - Šimo L
 - Majláthová V
 pmcid: PMC11339154
+pdf_local: ''
 volume: ''
 pages: '306'
 modele: in_vivo

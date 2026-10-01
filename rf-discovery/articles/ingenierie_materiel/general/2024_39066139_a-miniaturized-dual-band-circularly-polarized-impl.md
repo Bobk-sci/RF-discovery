@@ -8,7 +8,7 @@ titre: A Miniaturized Dual-Band Circularly Polarized Implantable Antenna for Use
 url: https://pubmed.ncbi.nlm.nih.gov/39066139/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Telemetry
@@ -32,6 +32,7 @@ auteurs:
 - Shi Y
 - Zheng X
 pmcid: PMC11280927
+pdf_local: ''
 volume: ''
 pages: '4743'
 modele: ingenierie_materiel

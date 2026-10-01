@@ -8,7 +8,7 @@ titre: Microwave-Assisted Enzymatic Extraction of Flavonoids from Armeniaca mume
 url: https://pubmed.ncbi.nlm.nih.gov/33562018/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Colitis
@@ -35,6 +35,7 @@ auteurs:
 - Adhikari B
 - Lv W
 pmcid: PMC7915570
+pdf_local: ''
 volume: '26'
 pages: ''
 modele: in_vivo

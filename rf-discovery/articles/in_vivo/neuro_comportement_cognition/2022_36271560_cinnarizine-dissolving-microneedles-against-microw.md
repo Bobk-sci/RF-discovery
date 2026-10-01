@@ -7,7 +7,7 @@ titre: Cinnarizine dissolving microneedles against microwave-induced brain injur
 url: https://pubmed.ncbi.nlm.nih.gov/36271560/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Rats
 - Animals
@@ -42,6 +42,7 @@ auteurs:
 - Du L
 - Jin Y
 pmcid: ''
+pdf_local: ''
 volume: '155'
 pages: '113779'
 modele: in_vivo
@@ -56,7 +57,7 @@ theme_score: 4.0
 theme_secondaires: []
 theme_indices:
 - memory
-- learning
+- learning and memory
 - behavior
 - spatial memory
 tags:

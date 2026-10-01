@@ -8,7 +8,7 @@ titre: Microwave-assisted one-pot synthesis of new phenanthrene fused-tetrahydro
 url: https://pubmed.ncbi.nlm.nih.gov/29609122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Acridines
 - Antineoplastic Agents
@@ -39,6 +39,7 @@ auteurs:
 - Bhargava SK
 - Kamal A
 pmcid: ''
+pdf_local: ''
 volume: '151'
 pages: 173-185
 modele: in_vitro

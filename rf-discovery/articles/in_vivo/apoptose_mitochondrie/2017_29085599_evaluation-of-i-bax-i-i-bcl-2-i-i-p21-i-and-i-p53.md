@@ -9,7 +9,7 @@ titre: Evaluation of <i>bax</i>, <i>bcl-2</i>, <i>p21</i> and <i>p53</i> genes e
 url: https://pubmed.ncbi.nlm.nih.gov/29085599/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -29,6 +29,7 @@ auteurs:
 - Targhi RG
 - Haghir H
 pmcid: PMC5651457
+pdf_local: ''
 volume: ''
 pages: 1037-1043
 modele: in_vivo

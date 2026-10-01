@@ -7,7 +7,7 @@ titre: Role of Cx43 in iPSC-CM Damage Induced by Microwave Radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/37628714/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Membrane
 - Humans
@@ -37,6 +37,7 @@ auteurs:
 - Zhang J
 - Peng R
 pmcid: PMC10454302
+pdf_local: ''
 volume: ''
 pages: '12533'
 modele: dosimetrie_modelisation

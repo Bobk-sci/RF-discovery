@@ -9,7 +9,7 @@ titre: 'Evaluating the Usefulness and Ease of Use of a Next-Generation-Connected
 url: https://pubmed.ncbi.nlm.nih.gov/37531173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Koledova E
 - Rivera-Romero O
 pmcid: PMC10433030
+pdf_local: ''
 volume: '10'
 pages: e46893
 modele: epidemiologie

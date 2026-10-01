@@ -8,7 +8,7 @@ titre: 'Reducing unintentional injuries in under fives: Development and testing 
 url: https://pubmed.ncbi.nlm.nih.gov/31782175/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Accident Prevention
 - Adult
@@ -46,6 +46,7 @@ auteurs:
 - Gibson F
 - Shawe J
 pmcid: ''
+pdf_local: ''
 volume: '46'
 pages: 203-212
 modele: epidemiologie

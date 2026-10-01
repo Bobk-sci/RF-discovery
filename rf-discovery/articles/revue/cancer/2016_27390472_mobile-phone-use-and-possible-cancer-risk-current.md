@@ -7,7 +7,7 @@ titre: 'Mobile phone use and possible cancer risk: Current perspectives in India
 url: https://pubmed.ncbi.nlm.nih.gov/27390472/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - review-article
@@ -26,6 +26,7 @@ auteurs:
 - Kohli C
 - Ingle GK
 pmcid: PMC4922278
+pdf_local: ''
 volume: ''
 pages: 5-9
 modele: revue

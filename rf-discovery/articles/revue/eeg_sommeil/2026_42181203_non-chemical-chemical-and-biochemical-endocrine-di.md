@@ -8,7 +8,7 @@ titre: 'Non-chemical, chemical, and biochemical, endocrine disruptors: biphasic 
 url: https://pubmed.ncbi.nlm.nih.gov/42181203/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -31,6 +31,7 @@ mots_cles:
 auteurs:
 - Ulusu NN
 pmcid: PMC13193988
+pdf_local: ''
 volume: ''
 pages: '1813234'
 modele: revue

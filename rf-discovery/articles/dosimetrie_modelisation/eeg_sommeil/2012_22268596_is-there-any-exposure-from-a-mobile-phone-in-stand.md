@@ -7,7 +7,7 @@ titre: Is there any exposure from a mobile phone in stand-by mode?
 url: https://pubmed.ncbi.nlm.nih.gov/22268596/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Environmental Exposure
@@ -22,6 +22,7 @@ auteurs:
 - Andersen JB
 - Pedersen GF
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 52-6
 modele: dosimetrie_modelisation

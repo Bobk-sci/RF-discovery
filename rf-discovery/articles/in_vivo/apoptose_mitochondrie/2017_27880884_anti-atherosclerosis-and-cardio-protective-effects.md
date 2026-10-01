@@ -8,7 +8,7 @@ titre: Anti-atherosclerosis and cardio-protective effects of the Angong Niuhuang
 url: https://pubmed.ncbi.nlm.nih.gov/27880884/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Anti-Inflammatory Agents
@@ -60,6 +60,7 @@ auteurs:
 - Qu L
 - Nie H
 pmcid: ''
+pdf_local: ''
 volume: '195'
 pages: 118-126
 modele: in_vivo

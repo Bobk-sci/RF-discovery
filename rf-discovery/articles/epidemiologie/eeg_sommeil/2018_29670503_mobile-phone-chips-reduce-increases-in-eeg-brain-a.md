@@ -8,7 +8,7 @@ titre: Mobile Phone Chips Reduce Increases in EEG Brain Activity Induced by Mobi
 url: https://pubmed.ncbi.nlm.nih.gov/29670503/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Schöllhorn WI
 - Poeggeler B
 pmcid: PMC5893900
+pdf_local: ''
 volume: '12'
 pages: '190'
 modele: epidemiologie

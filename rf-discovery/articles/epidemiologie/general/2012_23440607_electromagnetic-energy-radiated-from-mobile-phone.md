@@ -8,7 +8,7 @@ titre: Electromagnetic energy radiated from mobile phone alters electrocardiogra
 url: https://pubmed.ncbi.nlm.nih.gov/23440607/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Al-Nimer M
 - Majeed A
 pmcid: PMC3573509
+pdf_local: ''
 volume: '2'
 pages: 146-51
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: Investigation of the Ocular Response and Corneal Damage Threshold of Expo
 url: https://pubmed.ncbi.nlm.nih.gov/39787318/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cornea
 - Animals
@@ -34,6 +34,7 @@ auteurs:
 - Ikehata M
 - Sasaki H
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 487-496
 modele: in_vivo

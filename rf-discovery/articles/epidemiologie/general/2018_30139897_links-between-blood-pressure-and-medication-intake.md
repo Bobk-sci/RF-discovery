@@ -9,7 +9,7 @@ titre: 'Links between blood pressure and medication intake, well-being, stress, 
 url: https://pubmed.ncbi.nlm.nih.gov/30139897/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -47,6 +47,7 @@ auteurs:
 - Manhem K
 - Kjellgren K
 pmcid: PMC6112389
+pdf_local: ''
 volume: '8'
 pages: e020849
 modele: epidemiologie

@@ -21,10 +21,11 @@
 
 - `2025` [[2025_40004170_influence-of-super-low-intensity-microwave-radiati]] — Artamonov MY et al.
 
-## cancer (34)
+## cancer (35)
 
 - `2026` [[2026_41898377_en-bloc-resection-of-stage-t4-non-small-cell-lung]] — Lee WT et al.
 - `2026` [[2026_41945987_theranostic-magnetic-hydrogels-for-treatment-recur]] — Sampath B, Charles J
+- `2026` [[2026_42318412_research-progress-on-the-application-of-dual-energ]] — Wu LN et al.
 - `2026` [[2026_42437082_non-ionizing-radiation-and-cancer-a-review-on-curr]] — Agrahari M et al.
 - `2026` [[2026_42442967_corrigendum-to-effects-of-radiofrequency-electroma]] — Mevissen M et al.
 - `2026` [[2026_42525387_zero-echo-time-mri-and-dual-energy-ct-virtual-non]] — Marinelli L et al.
@@ -77,12 +78,13 @@
 - `2008` [[2008_18359015_radiofrequency-electromagnetic-field-exposure-and]] — Röösli M
 - `2007` [[2007_17431492_workgroup-report-base-stations-and-wireless-networ]] — Valberg PA et al.
 
-## eeg_sommeil (13)
+## eeg_sommeil (14)
 
 - `2026` [[2026_42181203_non-chemical-chemical-and-biochemical-endocrine-di]] — Ulusu NN
 - `2025` [[2025_39672328_effects-of-light-electromagnetic-fields-and-water]] — Martel J et al.
 - `2025` [[2025_39995082_the-protective-effects-of-melatonin-against-electr]] — Amiri M et al.
 - `2024` [[2024_38640611_the-effects-of-radiofrequency-electromagnetic-fiel]] — Bosch-Capblanch X et al.
+- `2023` [[2023_38384281_morpheusnet-resource-efficient-sleep-stage-classif]] — Kavoosi A et al.
 - `2022` [[2022_34635042_melatonin-a-potential-shield-against-electromagnet]] — Jammoul M, Lawand N
 - `2022` [[2022_34735955_the-effects-of-radiofrequency-electromagnetic-fiel]] — Bosch-Capblanch X et al.
 - `2021` [[2021_34180044_smart-devices-mobile-phone-in-patients-with-epilep]] — Asadi-Pooya AA et al.
@@ -93,7 +95,7 @@
 - `1993` [[1993_8098713_static-and-extremely-low-frequency-electromagnetic]] — Reiter RJ
 - `1989` [[1989_2677573_neuroendocrine-mediated-effects-of-electromagnetic]] — Wilson BW et al.
 
-## general (68)
+## general (69)
 
 - `2026` [[2026_41349167_technical-performance-of-dual-energy-ct-in-the-eva]] — Asmundo L et al.
 - `2026` [[2026_41405692_replacing-true-non-contrast-imaging-with-dect-in-g]] — Oberparleiter M et al.
@@ -129,6 +131,7 @@
 - `2025` [[2025_41789182_diagnostic-performance-of-dual-energy-ct-for-diffe]] — Ji W, Shi Y
 - `2024` [[2024_38433903_interactions-between-electromagnetic-radiation-and]] — Liu L et al.
 - `2024` [[2024_39105157_thermal-and-nonthermal-effects-of-5-g-radio-waves]] — Jazyah YH
+- `2024` [[2024_39413371_ai-in-psoriatic-disease-scoping-review]] — Barlow R et al.
 - `2024` [[2024_39539656_the-role-of-digital-device-use-on-the-risk-of-migr]] — He Z et al.
 - `2023` [[2023_37048013_cell-phone-radiation-exposure-limits-and-engineeri]] — Héroux P et al.
 - `2023` [[2023_37404215_the-effect-of-mobile-phone-based-interventions-on]] — Avcı A, Gün M
@@ -184,13 +187,11 @@
 - `1998` [[1998_9707093_genotoxicity-of-radiofrequency-radiation-dna-genet]] — Brusick D et al.
 - `1993` [[1993_8496241_effects-of-electromagnetic-field-exposure-on-gene]] — Phillips JL
 
-## neuro_comportement_cognition (41)
+## neuro_comportement_cognition (37)
 
 - `2026` [[2026_41311192_thiazolotriazoles-their-biological-activity-and-st]] — Purakkel UK et al.
 - `2026` [[2026_41561002_an-overview-on-emerging-green-organic-corrosion-in]] — Kumar N et al.
 - `2026` [[2026_41932003_electric-fields-for-warming-cryopreserved-tissue]] — Wowk B
-- `2026` [[2026_42220131_from-history-to-innovation-pathophysiology-and-the]] — Rastogi A et al.
-- `2026` [[2026_42318412_research-progress-on-the-application-of-dual-energ]] — Wu LN et al.
 - `2026` [[2026_42451259_precision-livestock-farming-and-biomedical-enginee]] — Kiktev N et al.
 - `2025` [[2025_40076887_brain-disease-modifying-effects-of-radiofrequency]] — Sun S et al.
 - `2025` [[2025_41149527_electromagnetic-interference-in-the-modern-era-con]] — Prekodravac Filipovic J et al.
@@ -201,10 +202,8 @@
 - `2024` [[2024_39104617_unveiling-the-biological-effects-of-radio-frequenc]] — Eskandani R, Zibaii MI
 - `2024` [[2024_39265322_the-effect-of-exposure-to-radiofrequency-electroma]] — Pophof B et al.
 - `2024` [[2024_39325510_optimizing-detection-and-prediction-of-cognitive-f]] — Kratz AL et al.
-- `2024` [[2024_39413371_ai-in-psoriatic-disease-scoping-review]] — Barlow R et al.
 - `2024` [[2024_39640342_microwave-radiofrequencies-5g-6g-graphene-nanomate]] — Deruelle F
 - `2023` [[2023_35238501_electromagnetic-hypersensitivity-close-to-mobile-p]] — Hardell L, Koppel T
-- `2023` [[2023_38384281_morpheusnet-resource-efficient-sleep-stage-classif]] — Kavoosi A et al.
 - `2022` [[2022_34953282_the-effect-of-long-term-radiofrequency-exposure-on]] — Benke G et al.
 - `2022` [[2022_36012552_microwave-radiation-and-the-brain-mechanisms-curre]] — Mumtaz S et al.
 - `2021` [[2021_34333292_the-effect-of-exposure-to-radiofrequency-electroma]] — Pophof B et al.
@@ -310,8 +309,9 @@
 - `1993` [[1993_8206019_human-adverse-reproductive-outcomes-and-electromag]] — Shaw GM, Croen LA
 - `1988` [[1988_2462414_mechanisms-of-biological-effects-of-radiofrequency]] — Erwin DN
 
-## stress_oxydatif (18)
+## stress_oxydatif (19)
 
+- `2026` [[2026_42220131_from-history-to-innovation-pathophysiology-and-the]] — Rastogi A et al.
 - `2025` [[2025_40970078_a-systematic-review-of-the-impact-of-electromagnet]] — Danho S et al.
 - `2025` [[2025_41111969_review-of-the-evidence-on-the-influence-of-wi-fi-2]] — Laván D et al.
 - `2024` [[2024_38773047_review-on-the-impact-of-cell-phone-radiation-effec]] — Panda DK et al.

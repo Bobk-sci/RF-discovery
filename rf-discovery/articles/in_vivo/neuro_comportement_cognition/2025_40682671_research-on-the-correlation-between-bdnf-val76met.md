@@ -8,7 +8,7 @@ titre: Research on the Correlation between BDNF Val76Met Polymorphism and Suscep
 url: https://pubmed.ncbi.nlm.nih.gov/40682671/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Ma L
 - Wang L
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '238'
 modele: in_vivo
@@ -50,7 +51,7 @@ modele_indices:
 - rats
 - Sprague-Dawley
 theme: neuro_comportement_cognition
-theme_score: 6.5
+theme_score: 5.5
 theme_secondaires:
 - plasticite_synaptique
 - neurodeveloppement
@@ -59,7 +60,6 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
 tags:
 - rf
 - modele/in_vivo

@@ -7,7 +7,7 @@ titre: The effects of microwave radiation on rabbit's retina.
 url: https://pubmed.ncbi.nlm.nih.gov/29564413/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Alighanbari A
 - Khalili MR
 pmcid: PMC5859505
+pdf_local: ''
 volume: '30'
 pages: 74-79
 modele: in_vivo

@@ -7,7 +7,7 @@ titre: Feasibility of a Wearable Reflectometric System for Sensing Skin Hydratio
 url: https://pubmed.ncbi.nlm.nih.gov/32429375/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aged
 - Feasibility Studies
@@ -38,6 +38,7 @@ auteurs:
 - De Benedetto E
 - Cataldo A
 pmcid: PMC7284366
+pdf_local: ''
 volume: '20'
 pages: ''
 modele: revue

@@ -7,7 +7,7 @@ titre: Association of Autonomic Balance With Phone Call Duration in Healthy Indi
 url: https://pubmed.ncbi.nlm.nih.gov/36779133/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Jasrotia RB
 - Singh A
 pmcid: PMC9908824
+pdf_local: ''
 volume: '15'
 pages: e33566
 modele: epidemiologie

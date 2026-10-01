@@ -8,7 +8,7 @@ titre: Problematic Use of Smartphones and Social Media on Sleep Quality of High 
 url: https://pubmed.ncbi.nlm.nih.gov/39338060/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Adolescent
@@ -36,6 +36,7 @@ auteurs:
 - Guerrero-López B
 - Diaz-Olavarrieta C
 pmcid: PMC11431134
+pdf_local: ''
 volume: '21'
 pages: ''
 modele: epidemiologie

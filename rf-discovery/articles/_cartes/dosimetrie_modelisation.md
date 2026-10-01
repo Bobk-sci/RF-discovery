@@ -26,7 +26,7 @@
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
 - `2015` [[2015_25749340_tumor-promotion-by-exposure-to-radiofrequency-elec]] — Lerchl A et al.
 
-## dosimetrie_exposition (148)
+## dosimetrie_exposition (151)
 
 - `2026` [[2026_41411845_variable-spacing-fast-t1-for-the-analysis-of-fast]] — Robinson AD et al.
 - `2026` [[2026_41481179_the-systems-of-radiological-protection-for-ionizin]] — Dumit S et al.
@@ -43,12 +43,14 @@
 - `2026` [[2026_41938658_hybrid-ray-tracing-quadriga-fdtd-method-for-realis]] — Wydaeghe R et al.
 - `2026` [[2026_42213724_experimental-investigation-of-four-port-mimo-dual]] — Sharma M et al.
 - `2026` [[2026_42230940_fat-intra-body-communication-system-using-flexible]] — Mandal B et al.
+- `2026` [[2026_42295906_physics-constrained-deep-learning-framework-for-mr]] — Zheng J et al.
 - `2026` [[2026_42309420_urban-radio-frequency-electromagnetic-field-exposu]] — Thielens A et al.
 - `2026` [[2026_42346924_sar-efficient-sub-volume-imaging-using-nonlinear-g]] — Kopanoglu E et al.
 - `2026` [[2026_42365512_smartwatch-low-sar-approach-based-on-antenna-integ]] — Zhou WY et al.
 - `2026` [[2026_42402072_computational-dosimetry-of-electromagnetic-and-the]] — Song Y, Lu M
 - `2026` [[2026_42546006_motion-aware-low-power-wearable-photoplethysmograp]] — Khurelbaatar L et al.
 - `2026` [[2026_42557268_design-of-a-wearable-compact-pulsed-electromagneti]] — Geyikoglu MD et al.
+- `2026` [[2026_42620040_mwf-mimosa-for-efficient-simultaneous-relaxometry]] — Chen Y et al.
 - `2026` [[2026_42702745_feasibility-of-laminar-functional-quantitative-sus]] — Straub S et al.
 - `2026` [[2026_42732847_rf-safety-assessment-of-dental-retainers-for-human]] — Berezko EV et al.
 - `2026` [[2026_42740072_microwave-radar-sensing-for-non-invasive-intra-abd]] — Tayebi S et al.
@@ -75,6 +77,7 @@
 - `2025` [[2025_41239101_visualizing-radiofrequency-electromagnetic-field-e]] — Arribas E et al.
 - `2025` [[2025_41337259_shielded-relay-coil-design-to-optimize-wpt-and-sar]] — Daling MH et al.
 - `2025` [[2025_41395749_conceptualization-and-realization-of-a-vibrating-i]] — Oppermann L et al.
+- `2025` [[2025_41413440_ml-ga-based-performance-optimization-of-pbg-enhanc]] — Belhaouari SB et al.
 - `2025` [[2025_41461760_machine-learning-optimized-compact-wearable-freque]] — Salisu A et al.
 - `2025` [[2025_IND608844840_auto-induced-uplink-4g-and-5g-rf-emf-exposure-asse]] — Stroobandt B et al.
 - `2024` [[2024_38199478_personal-exposure-to-radiofrequency-electromagneti]] — Ramirez-Vazquez R et al.
@@ -190,9 +193,10 @@
 - `2003` [[2003_12696086_radio-frequency-electromagnetic-field-exposure-in]] — Huber R et al.
 - `2000` [[2000_11059895_exposure-to-pulsed-high-frequency-electromagnetic]] — Huber R et al.
 
-## general (77)
+## general (79)
 
 - `2026` [[2026_41435553_validation-and-optimization-of-dual-energy-ct-for]] — Razinskas G et al.
+- `2026` [[2026_41448143_comparison-of-methodological-uncertainties-in-tiss]] — Yu S et al.
 - `2026` [[2026_41484724_measurement-of-urban-environmental-exposure-to-ext]] — Sanchis-Otero A et al.
 - `2026` [[2026_41579102_evaluation-of-a-fast-kv-switching-dual-energy-ct-i]] — Wang H et al.
 - `2026` [[2026_41604713_adaptive-optimization-framework-for-accurate-multi]] — Lee HB et al.
@@ -202,6 +206,7 @@
 - `2026` [[2026_41821452_assessing-accuracy-and-artefacts-in-proton-stoppin]] — Pettersson E et al.
 - `2026` [[2026_41886819_accuracy-of-virtual-non-contrast-images-from-dual]] — Grkovski R et al.
 - `2026` [[2026_42091752_geospatial-mapping-and-7-year-temporal-trends-of-e]] — Kiouvrekis Y et al.
+- `2026` [[2026_42120409_a-dataset-for-victim-detection-in-search-and-rescu]] — Michalopoulos AP et al.
 - `2026` [[2026_42121306_phantom-evaluation-of-spectral-performance-in-phot]] — Ren L et al.
 - `2026` [[2026_42236375_dosimetric-comparison-of-proton-therapy-plans-calc]] — Wang H et al.
 - `2026` [[2026_42244425_a-ten-country-study-on-public-perceptions-of-5g-em]] — Link SC et al.
@@ -277,19 +282,13 @@
 - `2005` [[2005_15785322_genotoxicity-evaluation-of-electromagnetic-fields]] — Chang SK et al.
 - `1994` [[1994_7515472_clastogenic-effects-of-radiofrequency-radiations-o]] — Haider T et al.
 
-## neuro_comportement_cognition (18)
+## neuro_comportement_cognition (12)
 
-- `2026` [[2026_41448143_comparison-of-methodological-uncertainties-in-tiss]] — Yu S et al.
-- `2026` [[2026_41615330_machine-learning-on-systematically-curated-data-re]] — Vega-Carrasco ER et al.
 - `2026` [[2026_41828198_multiphysical-characterization-of-a-tissue-mimicki]] — Reyes-Vera E et al.
 - `2026` [[2026_42076313_modeling-of-polyolefin-aluminum-bonding-technology]] — Ciobanu RC et al.
 - `2026` [[2026_42090102_impact-of-automatic-exposure-control-on-radiation]] — Matsubara K et al.
-- `2026` [[2026_42120409_a-dataset-for-victim-detection-in-search-and-rescu]] — Michalopoulos AP et al.
-- `2026` [[2026_42295906_physics-constrained-deep-learning-framework-for-mr]] — Zheng J et al.
 - `2026` [[2026_42501850_dual-temperature-and-magnetic-responsive-pnipaam-b]] — Tsou CK et al.
-- `2026` [[2026_42620040_mwf-mimosa-for-efficient-simultaneous-relaxometry]] — Chen Y et al.
 - `2026` [[2026_PPR1317233_first-experimental-realization-of-a-cable-free-and]] — Jung MH
-- `2025` [[2025_41413440_ml-ga-based-performance-optimization-of-pbg-enhanc]] — Belhaouari SB et al.
 - `2024` [[2024_38602349_anomalously-large-heat-generation-of-hydration-wat]] — Murakami H
 - `2024` [[2024_40040200_cerebral-blood-flow-monitoring-with-a-portable-rad]] — Anwar U et al.
 - `2023` [[2023_39294811_what-evidence-exists-on-the-impact-of-anthropogeni]] — Karipidis K et al.
@@ -350,10 +349,11 @@
 - `2021` [[2021_34234197_evaluation-of-non-thermal-effect-of-microwave-radi]] — Shaw P et al.
 - `2010` [[2010_20638656_comparison-of-personal-radio-frequency-electromagn]] — Joseph W et al.
 
-## thermique (50)
+## thermique (51)
 
 - `2026` [[2026_41384965_dosimetric-applicator-characterization-in-hyperthe]] — Herrera TD et al.
 - `2026` [[2026_41600503_electromagnetic-exposure-from-rf-antennas-on-subwa]] — Li J et al.
+- `2026` [[2026_41615330_machine-learning-on-systematically-curated-data-re]] — Vega-Carrasco ER et al.
 - `2026` [[2026_41657279_iron-oxide-nanocube-assembly-on-silver-nanowire-te]] — Arica TA et al.
 - `2026` [[2026_41675186_green-synthesis-and-magnetothermal-performance-of]] — Salem SB et al.
 - `2026` [[2026_41675654_ferrite-nanocubes-coupled-with-gold-nanorods-a-pla]] — Martinez-Boubeta C et al.

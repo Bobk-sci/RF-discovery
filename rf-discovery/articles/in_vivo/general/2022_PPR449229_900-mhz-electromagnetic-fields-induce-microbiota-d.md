@@ -8,7 +8,7 @@ titre: 900 MHz Electromagnetic Fields Induce Microbiota Dysbiosis and Adaptive I
 url: https://doi.org/10.21203/rs.3.rs-1276651/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -28,6 +28,7 @@ auteurs:
 - Pelletier A
 - Marolleau J
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Efficient in vitro and in vivo pulmonary delivery of nucleic acid by carb
 url: https://pubmed.ncbi.nlm.nih.gov/25771019/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Carbon
@@ -50,6 +50,7 @@ auteurs:
 - Pons F
 - Lebeau L
 pmcid: ''
+pdf_local: ''
 volume: '51'
 pages: 290-302
 modele: in_vivo

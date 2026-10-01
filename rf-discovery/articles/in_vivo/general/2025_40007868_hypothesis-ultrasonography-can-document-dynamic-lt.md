@@ -8,7 +8,7 @@ titre: 'Hypothesis: ultrasonography can document dynamic &lt;i&gt;in vivo&lt;/i&
 url: https://pubmed.ncbi.nlm.nih.gov/40007868/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Brown RR
 - Biebrich B
 pmcid: PMC11850513
+pdf_local: ''
 volume: ''
 pages: '1499499'
 modele: in_vivo

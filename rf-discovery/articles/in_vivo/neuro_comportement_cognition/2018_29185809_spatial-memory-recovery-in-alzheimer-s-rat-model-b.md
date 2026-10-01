@@ -53,12 +53,13 @@ modele_indices:
 - Wistar
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 10.0
+theme_score: 11.0
 theme_secondaires: []
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 - spatial memory
 - reaction time
 tags:

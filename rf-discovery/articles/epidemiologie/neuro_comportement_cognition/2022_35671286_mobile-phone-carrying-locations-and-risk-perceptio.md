@@ -8,7 +8,7 @@ titre: 'Mobile phone carrying locations and risk perception of men: A cross-sect
 url: https://pubmed.ncbi.nlm.nih.gov/35671286/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cross-Sectional Studies
@@ -32,6 +32,7 @@ auteurs:
 - Wiedemann PM
 - Benke G
 pmcid: PMC9173639
+pdf_local: ''
 volume: '17'
 pages: e0269457
 modele: epidemiologie

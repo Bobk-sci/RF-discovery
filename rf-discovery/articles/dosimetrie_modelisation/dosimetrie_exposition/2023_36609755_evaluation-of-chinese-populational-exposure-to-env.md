@@ -8,7 +8,7 @@ titre: Evaluation of Chinese populational exposure to environmental electromagne
 url: https://pubmed.ncbi.nlm.nih.gov/36609755/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiometry
@@ -35,6 +35,7 @@ auteurs:
 - Li C
 - Wu T
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 40445-40460
 modele: dosimetrie_modelisation
@@ -48,8 +49,7 @@ modele_indices:
 - anatomical model
 theme: dosimetrie_exposition
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - specific absorption rate
 tags:
@@ -57,7 +57,6 @@ tags:
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/dosimetrie_exposition
-- theme/neuro_comportement_cognition
 - annee/2023
 ---
 

@@ -8,7 +8,7 @@ titre: 'Patient and provider radiation exposure during fluoroscopy guided chemic
 url: https://pubmed.ncbi.nlm.nih.gov/39238854/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - McCarthy RJ
 - Walega DR
 pmcid: PMC11373051
+pdf_local: ''
 volume: '1'
 pages: '100158'
 modele: epidemiologie

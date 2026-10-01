@@ -8,7 +8,7 @@ titre: 'Tribulus terrestris: preliminary study of its diuretic and contractile e
 url: https://pubmed.ncbi.nlm.nih.gov/12639749/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Behavior, Animal
@@ -36,6 +36,7 @@ auteurs:
 - Twaij H
 - Al-Badr A
 pmcid: ''
+pdf_local: ''
 volume: '85'
 pages: 257-60
 modele: in_vivo

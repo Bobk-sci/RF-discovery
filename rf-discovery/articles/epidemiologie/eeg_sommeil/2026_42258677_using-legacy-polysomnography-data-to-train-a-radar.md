@@ -34,8 +34,7 @@ modele_indices:
 - participants
 theme: eeg_sommeil
 theme_score: 5.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
@@ -43,7 +42,6 @@ tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
-- theme/neuro_comportement_cognition
 - annee/2026
 ---
 

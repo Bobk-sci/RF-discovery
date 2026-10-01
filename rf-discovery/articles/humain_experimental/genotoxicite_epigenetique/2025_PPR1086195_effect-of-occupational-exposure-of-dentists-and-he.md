@@ -8,7 +8,7 @@ titre: Effect of occupational exposure of dentists and healthcare personnel to e
 url: https://doi.org/10.21203/rs.3.rs-7300847/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -20,6 +20,7 @@ auteurs:
 - ASLAN D
 - TAN FC
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: humain_experimental

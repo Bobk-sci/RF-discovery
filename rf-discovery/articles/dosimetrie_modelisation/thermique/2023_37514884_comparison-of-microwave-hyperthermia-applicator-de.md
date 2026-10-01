@@ -8,7 +8,7 @@ titre: Comparison of Microwave Hyperthermia Applicator Designs with Fora Dipole 
 url: https://pubmed.ncbi.nlm.nih.gov/37514884/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -30,6 +30,7 @@ auteurs:
 - Yilmaz T
 - Akduman I
 pmcid: PMC10383607
+pdf_local: ''
 volume: ''
 pages: '6592'
 modele: dosimetrie_modelisation

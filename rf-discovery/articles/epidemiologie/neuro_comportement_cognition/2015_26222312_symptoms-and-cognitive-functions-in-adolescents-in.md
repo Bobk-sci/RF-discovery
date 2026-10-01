@@ -8,7 +8,7 @@ titre: Symptoms and Cognitive Functions in Adolescents in Relation to Mobile Pho
 url: https://pubmed.ncbi.nlm.nih.gov/26222312/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -34,6 +34,7 @@ auteurs:
 - Roser K
 - Röösli M
 pmcid: PMC4519186
+pdf_local: ''
 volume: '10'
 pages: e0133528
 modele: epidemiologie

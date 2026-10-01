@@ -8,7 +8,7 @@ titre: Wi-Fi (2.4 GHz) affects anti-oxidant capacity, DNA repair genes expressio
 url: https://pubmed.ncbi.nlm.nih.gov/32695301/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Daneshparvar A
 - Jamhiri I
 pmcid: PMC7351435
+pdf_local: ''
 volume: '23'
 pages: 833-840
 modele: in_vivo

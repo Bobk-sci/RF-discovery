@@ -8,7 +8,7 @@ titre: 'Assessing the Role of the Autonomic Nervous System as a Driver of Sleep 
 url: https://pubmed.ncbi.nlm.nih.gov/41341239/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - PHRT Author Consortium
 - Holz C
 pmcid: PMC12671311
+pdf_local: ''
 volume: '3'
 pages: e48148
 modele: epidemiologie

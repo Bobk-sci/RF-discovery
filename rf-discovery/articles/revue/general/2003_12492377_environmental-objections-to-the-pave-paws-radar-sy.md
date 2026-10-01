@@ -7,7 +7,7 @@ titre: 'Environmental objections to the PAVE PAWS radar system: a scientific rev
 url: https://pubmed.ncbi.nlm.nih.gov/12492377/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Environmental Exposure
 - Epidemiology
@@ -22,6 +22,7 @@ mots_cles: []
 auteurs:
 - Adair RK
 pmcid: ''
+pdf_local: ''
 volume: '159'
 pages: 128-34
 modele: revue

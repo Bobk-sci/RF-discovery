@@ -8,7 +8,7 @@ titre: The Relationship between Mobile Phone Anxiety and Sleep Quality Occupatio
 url: https://pubmed.ncbi.nlm.nih.gov/36262377/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Adolescent
@@ -24,6 +24,7 @@ mots_cles: []
 auteurs:
 - Bi J
 pmcid: PMC9553688
+pdf_local: ''
 volume: '2022'
 pages: '8489077'
 modele: non_classe

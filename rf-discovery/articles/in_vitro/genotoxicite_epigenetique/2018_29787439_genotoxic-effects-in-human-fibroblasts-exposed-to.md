@@ -7,7 +7,7 @@ titre: Genotoxic Effects in Human Fibroblasts Exposed to Microwave Radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/29787439/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aneuploidy
@@ -45,6 +45,7 @@ auteurs:
 - Masuelli L
 - Lista F
 pmcid: ''
+pdf_local: ''
 volume: '115'
 pages: 126-139
 modele: in_vitro

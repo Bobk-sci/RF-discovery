@@ -8,7 +8,7 @@ titre: A novel experimental design approach to generating orbital angular moment
 url: https://pubmed.ncbi.nlm.nih.gov/40445884/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Equipment Design
@@ -30,6 +30,7 @@ auteurs:
 - Rambe AH
 - Ashyap AYI
 pmcid: PMC12124574
+pdf_local: ''
 volume: ''
 pages: e0310113
 modele: ingenierie_materiel

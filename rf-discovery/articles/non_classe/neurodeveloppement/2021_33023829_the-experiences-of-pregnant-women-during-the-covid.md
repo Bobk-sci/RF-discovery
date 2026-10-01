@@ -8,7 +8,7 @@ titre: 'The experiences of pregnant women during the COVID-19 pandemic in Turkey
 url: https://pubmed.ncbi.nlm.nih.gov/33023829/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Anxiety
@@ -41,6 +41,7 @@ auteurs:
 - Mizrak Sahin B
 - Kabakci EN
 pmcid: PMC7528828
+pdf_local: ''
 volume: '34'
 pages: 162-169
 modele: non_classe

@@ -8,7 +8,7 @@ titre: Millimeter-wave emissivity as a metric for the non-contact diagnosis of h
 url: https://pubmed.ncbi.nlm.nih.gov/28836682/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Burns
@@ -37,6 +37,7 @@ auteurs:
 - Rezgui ND
 - Shah M
 pmcid: PMC5638105
+pdf_local: ''
 volume: '38'
 pages: 559-569
 modele: humain_experimental

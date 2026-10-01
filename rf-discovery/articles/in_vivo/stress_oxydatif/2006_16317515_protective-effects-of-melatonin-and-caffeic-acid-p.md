@@ -8,7 +8,7 @@ titre: 'Protective effects of melatonin and caffeic acid phenethyl ester against
 url: https://pubmed.ncbi.nlm.nih.gov/16317515/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Antioxidants
@@ -38,6 +38,7 @@ auteurs:
 - Bardak Y
 - Comlekci S
 pmcid: ''
+pdf_local: ''
 volume: '282'
 pages: 83-8
 modele: in_vivo

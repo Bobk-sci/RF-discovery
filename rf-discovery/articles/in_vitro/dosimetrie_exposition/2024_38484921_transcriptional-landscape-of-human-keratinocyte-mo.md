@@ -8,7 +8,7 @@ titre: Transcriptional landscape of human keratinocyte models exposed to 60-GHz 
 url: https://pubmed.ncbi.nlm.nih.gov/38484921/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Keratinocytes
@@ -33,6 +33,7 @@ auteurs:
 - Le Dréan Y
 - Habauzit D
 pmcid: ''
+pdf_local: ''
 volume: '97'
 pages: '105808'
 modele: in_vitro

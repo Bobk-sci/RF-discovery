@@ -8,7 +8,7 @@ titre: Sex-dependent impact of perinatal 5G electromagnetic field exposure in th
 url: https://pubmed.ncbi.nlm.nih.gov/37851267/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -38,6 +38,7 @@ auteurs:
 - Pelletier A
 - Villégier AS
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 113704-113717
 modele: in_vivo

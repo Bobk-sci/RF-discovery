@@ -8,7 +8,7 @@ titre: Effects of exposure to GSM mobile phone base station signals on salivary 
 url: https://pubmed.ncbi.nlm.nih.gov/20708499/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -36,6 +36,7 @@ auteurs:
 - Hutter J
 - Pauser G
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 199-207
 modele: epidemiologie

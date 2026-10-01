@@ -8,7 +8,7 @@ titre: Specific smartphone usage and cognitive performance affect gait character
 url: https://pubmed.ncbi.nlm.nih.gov/29649707/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -48,6 +48,7 @@ auteurs:
 - Vogt L
 - Banzer W
 pmcid: ''
+pdf_local: ''
 volume: '62'
 pages: 415-421
 modele: epidemiologie

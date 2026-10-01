@@ -8,7 +8,7 @@ titre: 'Content, Usability, and Utilization of Plain Language in Breast Cancer M
 url: https://pubmed.ncbi.nlm.nih.gov/28288954/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Kreuter MW
 - Kinney AY
 pmcid: PMC5368351
+pdf_local: ''
 volume: '5'
 pages: e20
 modele: non_classe

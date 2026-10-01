@@ -8,7 +8,7 @@ titre: '[5-HT contents change in peripheral blood of workers exposed to microwav
 url: https://pubmed.ncbi.nlm.nih.gov/2627835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Bradycardia
@@ -27,6 +27,7 @@ mots_cles: []
 auteurs:
 - Wang SG
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 207-10
 modele: dosimetrie_modelisation

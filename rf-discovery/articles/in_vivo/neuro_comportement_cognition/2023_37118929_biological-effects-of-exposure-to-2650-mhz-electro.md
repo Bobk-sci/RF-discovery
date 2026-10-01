@@ -56,13 +56,12 @@ modele_indices:
 - Morris water maze
 - open field test
 theme: neuro_comportement_cognition
-theme_score: 12.5
+theme_score: 10.0
 theme_secondaires:
 - plasticite_synaptique
 - dosimetrie_exposition
 theme_indices:
 - memory
-- learning
 - anxiety
 - behavior
 - spatial memory

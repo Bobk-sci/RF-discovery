@@ -8,7 +8,7 @@ titre: 2.45 GHz microwave radiation impairs learning, memory, and hippocampal 
 url: https://pubmed.ncbi.nlm.nih.gov/30345889/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Hippocampus
@@ -36,6 +36,7 @@ auteurs:
 - Saadi HF
 - Ghazipour GR
 pmcid: ''
+pdf_local: ''
 volume: '34'
 pages: 873-883
 modele: in_vivo

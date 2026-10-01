@@ -7,7 +7,7 @@ titre: A Multi-Frequency 3D Printed Hand Phantom for Electromagnetic Measurement
 url: https://pubmed.ncbi.nlm.nih.gov/36699954/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Guag JW
 - Liu Y
 pmcid: PMC9871728
+pdf_local: ''
 volume: ''
 pages: 49-54
 modele: dosimetrie_modelisation

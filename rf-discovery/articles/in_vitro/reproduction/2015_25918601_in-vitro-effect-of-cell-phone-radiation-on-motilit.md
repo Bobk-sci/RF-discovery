@@ -8,7 +8,7 @@ titre: In vitro effect of cell phone radiation on motility, DNA fragmentation an
 url: https://pubmed.ncbi.nlm.nih.gov/25918601/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -24,6 +24,7 @@ auteurs:
 - El-Baiomy Y
 - Mostafa T
 pmcid: PMC4410031
+pdf_local: ''
 volume: '9'
 pages: 129-36
 modele: in_vitro

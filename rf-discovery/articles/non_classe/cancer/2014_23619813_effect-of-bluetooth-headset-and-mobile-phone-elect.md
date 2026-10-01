@@ -8,7 +8,7 @@ titre: Effect of Bluetooth headset and mobile phone electromagnetic fields on th
 url: https://pubmed.ncbi.nlm.nih.gov/23619813/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cochlear Nerve
@@ -36,6 +36,7 @@ auteurs:
 - Marcocci A
 - Colletti L
 pmcid: ''
+pdf_local: ''
 volume: '124'
 pages: 255-9
 modele: non_classe

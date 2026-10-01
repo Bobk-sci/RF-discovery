@@ -7,7 +7,7 @@ titre: 'Postoperative Home Monitoring After Joint Replacement: Feasibility Study
 url: https://pubmed.ncbi.nlm.nih.gov/33401364/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -31,6 +31,7 @@ auteurs:
 - Zhang T
 - Taljaard M
 pmcid: PMC7728409
+pdf_local: ''
 volume: '1'
 pages: e10168
 modele: non_classe

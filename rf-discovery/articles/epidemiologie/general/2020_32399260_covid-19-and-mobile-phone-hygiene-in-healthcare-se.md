@@ -7,7 +7,7 @@ titre: Covid-19 and mobile phone hygiene in healthcare settings.
 url: https://pubmed.ncbi.nlm.nih.gov/32399260/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Betacoronavirus
 - COVID-19
@@ -37,6 +37,7 @@ auteurs:
 - Raj U
 - Priya P K
 pmcid: PMC7204931
+pdf_local: ''
 volume: '5'
 pages: e002505
 modele: epidemiologie

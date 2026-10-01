@@ -8,7 +8,7 @@ titre: 'Aroylhydrazone Diorganotin Complexes Causes DNA Damage and Apoptotic Cel
 url: https://pubmed.ncbi.nlm.nih.gov/34948323/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antineoplastic Agents
 - Apoptosis
@@ -36,6 +36,7 @@ auteurs:
 - Tan Y
 - Peng Y
 pmcid: PMC8709053
+pdf_local: ''
 volume: '22'
 pages: ''
 modele: in_vitro

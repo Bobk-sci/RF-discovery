@@ -7,7 +7,7 @@ titre: Measuring childhood mortality through mobile phone interviews in Mozambiq
 url: https://pubmed.ncbi.nlm.nih.gov/40888227/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Mozambique
@@ -48,6 +48,7 @@ auteurs:
 - Macicame I
 - Amouzou A
 pmcid: PMC12501560
+pdf_local: ''
 volume: '30'
 pages: 1087-1096
 modele: epidemiologie

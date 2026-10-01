@@ -8,7 +8,7 @@ titre: The Effect of Prenatal Exposure to 2.4 GHz Radio Frequency on the Histolo
 url: https://pubmed.ncbi.nlm.nih.gov/31875120/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -30,6 +30,7 @@ auteurs:
 - Heidari MH
 - Abdollahifar MA
 pmcid: PMC6885904
+pdf_local: ''
 volume: '10'
 pages: 283-289
 modele: in_vivo

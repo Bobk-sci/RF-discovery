@@ -7,7 +7,7 @@ titre: Mobile Phone Use and Time Trend of Brain Cancer Incidence Rate in Korea.
 url: https://pubmed.ncbi.nlm.nih.gov/34541704/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain Neoplasms
 - Cell Phone
@@ -38,6 +38,7 @@ auteurs:
 - Kwon HJ
 - Jung KW
 pmcid: ''
+pdf_local: ''
 volume: '42'
 pages: 629-648
 modele: non_classe

@@ -8,7 +8,7 @@ titre: A Facile and Microwave-assisted Rapid Synthesis of 2-Arylamino-4-(3'-indo
 url: https://pubmed.ncbi.nlm.nih.gov/27338299/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antineoplastic Agents
 - Apoptosis
@@ -38,6 +38,7 @@ auteurs:
 - Chakrabarti G
 - Kumar D
 pmcid: ''
+pdf_local: ''
 volume: '17'
 pages: 442-455
 modele: in_vitro

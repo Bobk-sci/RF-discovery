@@ -7,7 +7,7 @@ titre: Assessment of Bandaged Burn Wounds Using Porcine Skin and Millimetric Rad
 url: https://pubmed.ncbi.nlm.nih.gov/31277437/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Bandages
@@ -32,6 +32,7 @@ auteurs:
 - Shylo S
 - Owda M
 pmcid: PMC6651191
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: in_vivo

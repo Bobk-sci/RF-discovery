@@ -50,7 +50,7 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/revue

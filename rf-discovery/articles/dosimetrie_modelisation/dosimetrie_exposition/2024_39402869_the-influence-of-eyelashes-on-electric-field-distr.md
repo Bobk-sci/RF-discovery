@@ -8,7 +8,7 @@ titre: The influence of eyelashes on electric field distribution and absorbed po
 url: https://pubmed.ncbi.nlm.nih.gov/39402869/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Eyelashes
 - Cornea
@@ -29,6 +29,7 @@ auteurs:
 - Yavari A
 - Wood A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 375-386
 modele: dosimetrie_modelisation

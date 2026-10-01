@@ -57,10 +57,9 @@ modele_indices:
 - Review (descripteur décisif)
 - review
 theme: neuro_comportement_cognition
-theme_score: 6.0
+theme_score: 3.5
 theme_secondaires: []
 theme_indices:
-- learning
 - behavior
 - attention
 tags:

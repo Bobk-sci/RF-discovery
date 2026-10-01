@@ -8,7 +8,7 @@ titre: Symptoms associated with environmental factors are positively related to 
 url: https://pubmed.ncbi.nlm.nih.gov/41160934/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cross-Sectional Studies
@@ -37,6 +37,7 @@ auteurs:
 - Köteles F
 - Szemerszky R
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '112425'
 modele: epidemiologie

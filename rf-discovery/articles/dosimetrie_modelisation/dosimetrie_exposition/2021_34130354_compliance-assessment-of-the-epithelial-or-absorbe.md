@@ -8,7 +8,7 @@ titre: Compliance Assessment of the Epithelial or Absorbed Power Density Below 1
 url: https://pubmed.ncbi.nlm.nih.gov/34130354/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Algorithms
 - Electromagnetic Fields
@@ -27,6 +27,7 @@ auteurs:
 - Christ A
 - Kuster N
 pmcid: ''
+pdf_local: ''
 volume: '42'
 pages: 484-490
 modele: dosimetrie_modelisation

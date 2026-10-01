@@ -8,7 +8,7 @@ titre: Development and Evaluation of Antifungal Activity of Carbopol and Neem Se
 url: https://pubmed.ncbi.nlm.nih.gov/41208067/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antifungal Agents
 - Viscosity

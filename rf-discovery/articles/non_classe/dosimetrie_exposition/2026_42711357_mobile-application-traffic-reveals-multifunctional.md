@@ -8,7 +8,7 @@ titre: Mobile application traffic reveals multifunctional use patterns in Parisi
 url: https://pubmed.ncbi.nlm.nih.gov/42711357/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Parks, Recreational
 - Paris
@@ -25,6 +25,7 @@ auteurs:
 - Smoreda Z
 - Quercia D
 pmcid: PMC13554209
+pdf_local: ''
 volume: '16'
 pages: ''
 modele: non_classe

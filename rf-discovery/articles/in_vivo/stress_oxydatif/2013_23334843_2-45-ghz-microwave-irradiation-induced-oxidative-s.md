@@ -8,7 +8,7 @@ titre: 2.45 GHz microwave irradiation-induced oxidative stress affects implantat
 url: https://pubmed.ncbi.nlm.nih.gov/23334843/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -43,6 +43,7 @@ auteurs:
 - Singh SP
 - Chaturvedi CM
 pmcid: ''
+pdf_local: ''
 volume: '169'
 pages: 1727-51
 modele: in_vivo

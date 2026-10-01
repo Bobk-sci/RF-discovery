@@ -7,7 +7,7 @@ titre: Detection of subclinical synovial inflammation by microwave radiometry.
 url: https://pubmed.ncbi.nlm.nih.gov/23741349/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -39,6 +39,7 @@ auteurs:
 - Siores E
 - Sfikakis PP
 pmcid: PMC3669424
+pdf_local: ''
 volume: '8'
 pages: e64606
 modele: in_vivo

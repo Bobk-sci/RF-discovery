@@ -7,7 +7,7 @@ titre: A Simulation Study of Triband Low SAR Wearable Antenna.
 url: https://pubmed.ncbi.nlm.nih.gov/37421052/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Nizam-Uddin N
 - Alnakhli M
 pmcid: PMC10141759
+pdf_local: ''
 volume: ''
 pages: '819'
 modele: ingenierie_materiel

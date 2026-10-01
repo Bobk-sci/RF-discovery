@@ -8,7 +8,7 @@ titre: 'Radio frequency exposure in mobile phone users: implications for exposur
 url: https://pubmed.ncbi.nlm.nih.gov/17213224/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -30,6 +30,7 @@ mots_cles: []
 auteurs:
 - Morrissey JJ
 pmcid: ''
+pdf_local: ''
 volume: '123'
 pages: 490-7
 modele: epidemiologie

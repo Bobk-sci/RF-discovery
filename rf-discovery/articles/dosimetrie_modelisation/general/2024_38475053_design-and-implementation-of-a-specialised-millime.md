@@ -8,7 +8,7 @@ titre: Design and Implementation of a Specialised Millimetre-Wave Exposure Syste
 url: https://pubmed.ncbi.nlm.nih.gov/38475053/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Karipidis K
 - Yavari A
 pmcid: PMC10934416
+pdf_local: ''
 volume: '24'
 pages: ''
 modele: dosimetrie_modelisation

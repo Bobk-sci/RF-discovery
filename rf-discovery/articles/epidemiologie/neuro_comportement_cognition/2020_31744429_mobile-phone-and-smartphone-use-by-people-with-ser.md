@@ -7,7 +7,7 @@ titre: Mobile Phone and Smartphone Use by People With Serious Mental Illness.
 url: https://pubmed.ncbi.nlm.nih.gov/31744429/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -42,6 +42,7 @@ auteurs:
 - Goldberg RW
 - Whelan F
 pmcid: PMC7054173
+pdf_local: ''
 volume: '71'
 pages: 280-283
 modele: epidemiologie

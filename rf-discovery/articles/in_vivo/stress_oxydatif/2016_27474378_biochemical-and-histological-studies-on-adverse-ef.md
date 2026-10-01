@@ -8,7 +8,7 @@ titre: Biochemical and histological studies on adverse effects of mobile phone r
 url: https://pubmed.ncbi.nlm.nih.gov/27474378/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -37,6 +37,7 @@ auteurs:
 - El-Saba AA
 - Galal MK
 pmcid: ''
+pdf_local: ''
 volume: '78'
 pages: 10-19
 modele: in_vivo

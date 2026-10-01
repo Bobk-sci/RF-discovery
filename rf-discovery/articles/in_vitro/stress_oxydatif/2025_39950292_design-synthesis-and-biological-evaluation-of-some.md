@@ -7,7 +7,7 @@ titre: Design, Synthesis, and Biological Evaluation of Some Novel o-aminophenol 
 url: https://pubmed.ncbi.nlm.nih.gov/39950292/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aminophenols
 - Humans
@@ -43,6 +43,7 @@ auteurs:
 - Ngo AL
 - Duong HQ
 pmcid: ''
+pdf_local: ''
 volume: '22'
 pages: 754-768
 modele: in_vitro

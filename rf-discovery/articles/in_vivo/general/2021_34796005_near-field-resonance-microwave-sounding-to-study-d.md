@@ -8,7 +8,7 @@ titre: Near-Field Resonance Microwave Sounding to Study Dielectric Properties of
 url: https://pubmed.ncbi.nlm.nih.gov/34796005/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Electric Conductivity
@@ -32,6 +32,7 @@ auteurs:
 - Fedotova АS
 - Galka АG
 pmcid: PMC8596257
+pdf_local: ''
 volume: '12'
 pages: 57-60
 modele: in_vivo

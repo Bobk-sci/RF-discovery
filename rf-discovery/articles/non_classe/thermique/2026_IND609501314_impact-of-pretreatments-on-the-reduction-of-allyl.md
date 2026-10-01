@@ -8,7 +8,7 @@ titre: Impact of Pretreatments on the Reduction of Allyl Isothiocyanate (AITC) C
 url: ''
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -20,6 +20,7 @@ auteurs:
 - Chopra R
 - Dar AH
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 657-670
 modele: non_classe

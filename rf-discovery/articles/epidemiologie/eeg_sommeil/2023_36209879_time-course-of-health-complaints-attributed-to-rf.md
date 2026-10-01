@@ -9,7 +9,7 @@ titre: Time course of health complaints attributed to RF-EMF exposure and predic
 url: https://pubmed.ncbi.nlm.nih.gov/36209879/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hypersensitivity
@@ -37,6 +37,7 @@ auteurs:
 - Vermeulen RCH
 - Huss A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '159240'
 modele: epidemiologie

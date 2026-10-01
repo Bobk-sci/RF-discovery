@@ -8,7 +8,7 @@ titre: 'ROS production in response to high-power microwave pulses induces p53 ac
 url: https://pubmed.ncbi.nlm.nih.gov/36910143/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Choi EH
 - Han I
 pmcid: PMC9996137
+pdf_local: ''
 volume: ''
 pages: '1067861'
 modele: dosimetrie_modelisation

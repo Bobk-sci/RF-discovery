@@ -8,7 +8,7 @@ titre: Advanced In Situ Nitrate Sensing and Wireless Data Transmission Prototype
 url: ''
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Mahbub I
 - Tabassum S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: Not Available
 modele: ingenierie_materiel

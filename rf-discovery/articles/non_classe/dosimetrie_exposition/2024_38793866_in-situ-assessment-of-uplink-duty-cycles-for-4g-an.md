@@ -7,7 +7,7 @@ titre: In Situ Assessment of Uplink Duty Cycles for 4G and 5G Wireless Communica
 url: https://pubmed.ncbi.nlm.nih.gov/38793866/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -24,6 +24,7 @@ auteurs:
 - Martens L
 - Joseph W
 pmcid: PMC11124896
+pdf_local: ''
 volume: '24'
 pages: ''
 modele: non_classe

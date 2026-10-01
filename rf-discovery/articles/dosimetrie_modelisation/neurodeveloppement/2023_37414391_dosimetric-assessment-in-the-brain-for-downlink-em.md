@@ -8,7 +8,7 @@ titre: Dosimetric assessment in the brain for downlink EMF exposure in Korean mo
 url: https://pubmed.ncbi.nlm.nih.gov/37414391/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Child
@@ -35,6 +35,7 @@ auteurs:
 - Lee AK
 - Choi HD
 pmcid: ''
+pdf_local: ''
 volume: '234'
 pages: '116542'
 modele: dosimetrie_modelisation

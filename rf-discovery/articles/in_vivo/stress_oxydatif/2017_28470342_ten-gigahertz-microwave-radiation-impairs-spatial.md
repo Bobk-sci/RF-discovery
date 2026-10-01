@@ -8,7 +8,7 @@ titre: Ten gigahertz microwave radiation impairs spatial memory, enzymes activit
 url: https://pubmed.ncbi.nlm.nih.gov/28470342/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -32,6 +32,7 @@ auteurs:
 - Saxena VK
 - Sisodia R
 pmcid: ''
+pdf_local: ''
 volume: '435'
 pages: 1-13
 modele: in_vivo

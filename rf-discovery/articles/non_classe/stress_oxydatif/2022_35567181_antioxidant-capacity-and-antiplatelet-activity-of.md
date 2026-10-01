@@ -8,7 +8,7 @@ titre: Antioxidant Capacity and Antiplatelet Activity of Aqueous Extracts of Com
 url: https://pubmed.ncbi.nlm.nih.gov/35567181/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Palomo I
 - Fuentes E
 pmcid: PMC9102907
+pdf_local: ''
 volume: '11'
 pages: ''
 modele: non_classe

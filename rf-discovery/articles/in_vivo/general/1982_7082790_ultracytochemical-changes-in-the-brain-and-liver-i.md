@@ -8,7 +8,7 @@ titre: '[Ultracytochemical changes in the brain and liver in exposure to low-int
 url: https://pubmed.ncbi.nlm.nih.gov/7082790/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Brain
@@ -28,6 +28,7 @@ auteurs:
 - Tomashevskaia LA
 - Konobeeva GI
 pmcid: ''
+pdf_local: ''
 volume: '93'
 pages: 112-6
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Self-reported mobile phone use and semen parameters among men from a fert
 url: https://pubmed.ncbi.nlm.nih.gov/27838386/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -43,6 +43,7 @@ auteurs:
 - Hauser R
 - EARTH Study Team
 pmcid: PMC5303122
+pdf_local: ''
 volume: '67'
 pages: 42-47
 modele: epidemiologie

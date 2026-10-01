@@ -8,7 +8,7 @@ titre: Cherry extracts attenuate inflammation and oxidative stress triggered by 
 url: https://pubmed.ncbi.nlm.nih.gov/32729157/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -28,6 +28,7 @@ auteurs:
 - Fernández-Torres J
 - Zamudio-Cuevas Y
 pmcid: ''
+pdf_local: ''
 volume: '44'
 pages: e13403
 modele: non_classe

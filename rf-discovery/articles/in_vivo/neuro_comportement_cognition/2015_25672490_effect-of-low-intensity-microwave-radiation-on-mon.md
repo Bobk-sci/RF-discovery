@@ -8,7 +8,7 @@ titre: Effect of Low-Intensity Microwave Radiation on Monoamine Neurotransmitter
 url: https://pubmed.ncbi.nlm.nih.gov/25672490/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Biogenic Monoamines
@@ -38,6 +38,7 @@ auteurs:
 - Abegaonkar MP
 - Banerjee BD
 pmcid: ''
+pdf_local: ''
 volume: '73'
 pages: 93-100
 modele: in_vivo
@@ -55,7 +56,7 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

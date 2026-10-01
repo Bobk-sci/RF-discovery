@@ -8,7 +8,7 @@ titre: '[Environmental and health investigation in female workers exposed to a r
 url: https://pubmed.ncbi.nlm.nih.gov/4088122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Electroencephalography
@@ -37,6 +37,7 @@ auteurs:
 - Resti C
 - Camerino D
 pmcid: ''
+pdf_local: ''
 volume: '76'
 pages: 399-411
 modele: non_classe

@@ -7,7 +7,7 @@ titre: 'Mobile phone use and glioma risk: A systematic review and meta-analysis.
 url: https://pubmed.ncbi.nlm.nih.gov/28472042/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain Neoplasms
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Xu X
 - Jiang G
 pmcid: PMC5417432
+pdf_local: ''
 volume: '12'
 pages: e0175136
 modele: revue

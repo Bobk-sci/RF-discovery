@@ -8,7 +8,7 @@ titre: Application of microwave-irradiation technique in deglycosylation of gins
 url: https://pubmed.ncbi.nlm.nih.gov/30594431/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antineoplastic Agents, Phytogenic
 - Apoptosis
@@ -46,6 +46,7 @@ auteurs:
 - Kang KS
 - Ham J
 pmcid: ''
+pdf_local: ''
 volume: '29'
 pages: 400-405
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: 'Association between mobile phone use and inattention in 7102 Chinese ado
 url: https://pubmed.ncbi.nlm.nih.gov/25273315/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Attention
@@ -35,6 +35,7 @@ auteurs:
 - Yu Z
 - Zhang L
 pmcid: PMC4190308
+pdf_local: ''
 volume: '14'
 pages: '1022'
 modele: epidemiologie

@@ -7,7 +7,7 @@ titre: Using AI and passive medical radiometry for diagnostics (MWR) of venous d
 url: https://pubmed.ncbi.nlm.nih.gov/34998169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Artificial Intelligence
 - COVID-19
@@ -27,6 +27,7 @@ auteurs:
 - Vesnin S
 - Goryanin I
 pmcid: ''
+pdf_local: ''
 volume: '215'
 pages: '106611'
 modele: dosimetrie_modelisation

@@ -8,7 +8,7 @@ titre: 'Using Social Media for Peer-to-Peer Cancer Support: Interviews With Youn
 url: https://pubmed.ncbi.nlm.nih.gov/34473063/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -30,6 +30,7 @@ auteurs:
 - Brooks E
 - Benedict C
 pmcid: PMC8446843
+pdf_local: ''
 volume: '7'
 pages: e28234
 modele: epidemiologie

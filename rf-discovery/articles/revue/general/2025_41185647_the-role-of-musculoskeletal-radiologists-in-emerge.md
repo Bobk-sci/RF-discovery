@@ -8,7 +8,7 @@ titre: 'The role of musculoskeletal radiologists in emergency and trauma setting
 url: https://pubmed.ncbi.nlm.nih.gov/41185647/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

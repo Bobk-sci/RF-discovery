@@ -8,7 +8,7 @@ titre: 'Assessment of Electromagnetic Field Exposure on European Roads: A Compre
 url: https://pubmed.ncbi.nlm.nih.gov/37447899/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Atanasov BN
 - Atanasov NT
 pmcid: PMC10346964
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: dosimetrie_modelisation

@@ -8,7 +8,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with eff
 url: https://doi.org/10.1101/2023.09.25.559414
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -21,6 +21,7 @@ auteurs:
 - Kim N
 - Song K
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: dosimetrie_modelisation

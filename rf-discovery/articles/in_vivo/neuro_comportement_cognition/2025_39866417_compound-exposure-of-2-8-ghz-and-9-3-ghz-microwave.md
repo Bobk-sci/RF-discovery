@@ -56,7 +56,7 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

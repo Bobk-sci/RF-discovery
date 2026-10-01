@@ -8,7 +8,7 @@ titre: Nerve cell damage in mammalian brain after exposure to microwaves from GS
 url: https://pubmed.ncbi.nlm.nih.gov/12782486/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Albumins
 - Animals
@@ -35,6 +35,7 @@ auteurs:
 - Malmgren L
 - Persson BR
 pmcid: PMC1241519
+pdf_local: ''
 volume: '111'
 pages: 881-3; discussion A408
 modele: in_vivo

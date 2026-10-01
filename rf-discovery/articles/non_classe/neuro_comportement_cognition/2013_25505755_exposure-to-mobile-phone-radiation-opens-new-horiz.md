@@ -8,7 +8,7 @@ titre: Exposure to mobile phone radiation opens new horizons in Alzheimer's dise
 url: https://pubmed.ncbi.nlm.nih.gov/25505755/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Shokrpour N
 - Mortazavi S
 pmcid: PMC4204502
+pdf_local: ''
 volume: '3'
 pages: 109-12
 modele: non_classe

@@ -8,7 +8,7 @@ titre: The effect of 900 MHz electromagnetic fields on biological pathways induc
 url: https://pubmed.ncbi.nlm.nih.gov/33306410/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Animals
@@ -32,6 +32,7 @@ auteurs:
 - Firoozabadi SMP
 - Hassan ZM
 pmcid: ''
+pdf_local: ''
 volume: '40'
 pages: 158-168
 modele: in_vitro

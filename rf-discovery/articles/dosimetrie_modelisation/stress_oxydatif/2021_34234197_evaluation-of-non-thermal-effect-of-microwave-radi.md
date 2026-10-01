@@ -8,7 +8,7 @@ titre: Evaluation of non-thermal effect of microwave radiation and its mode of a
 url: https://pubmed.ncbi.nlm.nih.gov/34234197/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Bacteria
 - Escherichia coli
@@ -34,6 +34,7 @@ auteurs:
 - Bogaerts A
 - Choi EH
 pmcid: PMC8263747
+pdf_local: ''
 volume: ''
 pages: '14003'
 modele: dosimetrie_modelisation

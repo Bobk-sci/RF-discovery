@@ -7,7 +7,7 @@ titre: The use of cell phone and insight into its potential human health impacts
 url: https://pubmed.ncbi.nlm.nih.gov/26965900/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Environmental Exposure
@@ -28,6 +28,7 @@ auteurs:
 - Kabir E
 - Jahan SA
 pmcid: ''
+pdf_local: ''
 volume: '188'
 pages: '221'
 modele: epidemiologie

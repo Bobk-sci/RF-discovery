@@ -7,7 +7,7 @@ titre: On radar and radio exposure and cancer in the military setting.
 url: https://pubmed.ncbi.nlm.nih.gov/36279918/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Young Adult
@@ -33,6 +33,7 @@ auteurs:
 - Nativ O
 - Richter E
 pmcid: ''
+pdf_local: ''
 volume: '216'
 pages: '114610'
 modele: epidemiologie

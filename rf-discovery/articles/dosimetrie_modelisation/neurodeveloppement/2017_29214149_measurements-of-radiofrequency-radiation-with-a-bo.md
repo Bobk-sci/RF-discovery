@@ -38,15 +38,13 @@ modele_indices:
 - emissions
 theme: neurodeveloppement
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - children
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
-- theme/neuro_comportement_cognition
 - annee/2017
 ---
 

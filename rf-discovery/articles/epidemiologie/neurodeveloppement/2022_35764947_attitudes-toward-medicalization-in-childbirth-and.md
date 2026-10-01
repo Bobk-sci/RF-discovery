@@ -8,7 +8,7 @@ titre: Attitudes toward medicalization in childbirth and their relationship with
 url: https://pubmed.ncbi.nlm.nih.gov/35764947/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adaptation, Psychological
 - Cross-Sectional Studies
@@ -33,6 +33,7 @@ auteurs:
 - García-Álvarez A
 - ema-Q. Group
 pmcid: PMC9241227
+pdf_local: ''
 volume: '22'
 pages: '529'
 modele: epidemiologie

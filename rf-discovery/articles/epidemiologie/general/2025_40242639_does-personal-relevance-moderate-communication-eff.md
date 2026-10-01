@@ -8,7 +8,7 @@ titre: Does personal relevance moderate communication effects? The example of ri
 url: https://pubmed.ncbi.nlm.nih.gov/40242639/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -28,6 +28,7 @@ auteurs:
 - Abacioglu F
 - Boehmert C
 pmcid: PMC12000800
+pdf_local: ''
 volume: '5'
 pages: '13'
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: 'Human Fibroblasts In Vitro Exposed to 2.45 GHz Continuous and Pulsed Wav
 url: https://pubmed.ncbi.nlm.nih.gov/32992895/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aged
 - Cell Cycle
@@ -44,6 +44,7 @@ auteurs:
 - Trodella E
 - Sgura A
 pmcid: PMC7584027
+pdf_local: ''
 volume: '21'
 pages: ''
 modele: in_vitro

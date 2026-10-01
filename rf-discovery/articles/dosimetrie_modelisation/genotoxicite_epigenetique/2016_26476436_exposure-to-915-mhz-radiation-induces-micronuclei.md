@@ -7,7 +7,7 @@ titre: Exposure to 915 MHz radiation induces micronuclei in Vicia faba root tips
 url: https://pubmed.ncbi.nlm.nih.gov/26476436/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Micronuclei, Chromosome-Defective
 - Micronucleus Tests
@@ -25,6 +25,7 @@ auteurs:
 - Santovetti E
 - Rizzoni M
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 187-92
 modele: dosimetrie_modelisation

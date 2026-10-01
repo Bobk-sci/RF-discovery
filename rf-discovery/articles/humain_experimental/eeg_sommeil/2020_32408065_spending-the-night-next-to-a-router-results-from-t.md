@@ -8,7 +8,7 @@ titre: Spending the night next to a router - Results from the first human experi
 url: https://pubmed.ncbi.nlm.nih.gov/32408065/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cross-Over Studies
@@ -38,6 +38,7 @@ auteurs:
 - Hirtl R
 - Eggert T
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '113550'
 modele: humain_experimental

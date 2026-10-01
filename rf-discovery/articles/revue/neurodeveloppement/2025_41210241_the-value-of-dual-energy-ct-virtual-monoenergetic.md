@@ -9,7 +9,7 @@ titre: 'The value of dual-energy CT virtual monoenergetic imaging and metal-arti
 url: https://pubmed.ncbi.nlm.nih.gov/41210241/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article

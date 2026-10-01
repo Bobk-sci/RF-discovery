@@ -7,7 +7,7 @@ titre: The Reflectance of Human Skin in the Millimeter-Wave Band.
 url: https://pubmed.ncbi.nlm.nih.gov/32182667/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Electromagnetic Radiation
@@ -35,6 +35,7 @@ auteurs:
 - Casson AJ
 - Owda M
 pmcid: PMC7085580
+pdf_local: ''
 volume: '20'
 pages: ''
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: Association of parent-child relationship quality and problematic mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/37127572/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Male
@@ -37,6 +37,7 @@ auteurs:
 - Wan Y
 - Tao F
 pmcid: PMC10152594
+pdf_local: ''
 volume: '23'
 pages: '304'
 modele: epidemiologie

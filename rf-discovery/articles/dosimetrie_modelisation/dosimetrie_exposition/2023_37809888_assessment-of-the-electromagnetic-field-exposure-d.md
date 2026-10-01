@@ -8,7 +8,7 @@ titre: Assessment of the electromagnetic field exposure due to wireless communic
 url: https://pubmed.ncbi.nlm.nih.gov/37809888/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Yepes SM
 - Escobar A
 pmcid: PMC10560042
+pdf_local: ''
 volume: ''
 pages: e20323
 modele: dosimetrie_modelisation

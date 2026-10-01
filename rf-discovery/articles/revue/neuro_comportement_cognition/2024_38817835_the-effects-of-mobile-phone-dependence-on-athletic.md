@@ -7,7 +7,7 @@ titre: The effects of mobile phone dependence on athletic performance and its me
 url: https://pubmed.ncbi.nlm.nih.gov/38817835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Luo S
 - Luo S
 pmcid: PMC11138105
+pdf_local: ''
 volume: '15'
 pages: '1391258'
 modele: revue

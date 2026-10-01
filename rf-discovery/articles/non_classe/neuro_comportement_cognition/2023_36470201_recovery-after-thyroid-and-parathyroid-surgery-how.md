@@ -8,7 +8,7 @@ titre: 'Recovery After Thyroid and Parathyroid Surgery: How Do Our Patients Real
 url: https://pubmed.ncbi.nlm.nih.gov/36470201/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Female
 - Humans
@@ -34,6 +34,7 @@ auteurs:
 - Suh I
 - Chen Y
 pmcid: ''
+pdf_local: ''
 volume: '283'
 pages: 764-770
 modele: non_classe

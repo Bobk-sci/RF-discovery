@@ -8,7 +8,7 @@ titre: 'Disrupting vector competence: exploring radiofrequency exposure as a nov
 url: https://pubmed.ncbi.nlm.nih.gov/41073070/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -39,6 +39,7 @@ auteurs:
 - de Gara L
 - Giovanetti M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 343-350
 modele: revue

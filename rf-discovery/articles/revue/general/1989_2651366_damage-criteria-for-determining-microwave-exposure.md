@@ -7,7 +7,7 @@ titre: Damage criteria for determining microwave exposure.
 url: https://pubmed.ncbi.nlm.nih.gov/2651366/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Environmental Exposure
 - Humans
@@ -21,6 +21,7 @@ mots_cles: []
 auteurs:
 - Servantie B
 pmcid: ''
+pdf_local: ''
 volume: '56'
 pages: 781-6
 modele: revue

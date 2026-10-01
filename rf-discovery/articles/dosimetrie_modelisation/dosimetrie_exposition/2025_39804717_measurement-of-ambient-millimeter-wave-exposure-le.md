@@ -7,7 +7,7 @@ titre: Measurement of Ambient Millimeter Wave Exposure Levels around Small Base 
 url: https://pubmed.ncbi.nlm.nih.gov/39804717/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -26,6 +26,7 @@ auteurs:
 - Bushberg JT
 - Butcher MJ
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 442-448
 modele: dosimetrie_modelisation

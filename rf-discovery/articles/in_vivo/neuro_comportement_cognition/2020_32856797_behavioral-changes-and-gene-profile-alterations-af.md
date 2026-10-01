@@ -49,14 +49,13 @@ modele_indices:
 - hippocampus
 - open field test
 theme: neuro_comportement_cognition
-theme_score: 5.0
+theme_score: 3.0
 theme_secondaires:
 - neurodeveloppement
 - dosimetrie_exposition
 theme_indices:
 - cognitive
 - memory
-- learning
 tags:
 - rf
 - modele/in_vivo

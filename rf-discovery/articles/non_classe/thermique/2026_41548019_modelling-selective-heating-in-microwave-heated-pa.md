@@ -7,7 +7,7 @@ titre: Modelling selective heating in microwave-heated packed-bed reactors.
 url: https://pubmed.ncbi.nlm.nih.gov/41548019/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -21,6 +21,7 @@ mots_cles:
 auteurs:
 - Niño CG
 pmcid: PMC12891532
+pdf_local: ''
 volume: ''
 pages: '5636'
 modele: non_classe

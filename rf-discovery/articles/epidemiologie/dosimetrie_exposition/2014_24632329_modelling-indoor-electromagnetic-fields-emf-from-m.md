@@ -8,7 +8,7 @@ titre: Modelling indoor electromagnetic fields (EMF) from mobile phone base stat
 url: https://pubmed.ncbi.nlm.nih.gov/24632329/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Construction Materials
@@ -38,6 +38,7 @@ auteurs:
 - Kromhout H
 - Huss A
 pmcid: ''
+pdf_local: ''
 volume: '67'
 pages: 22-6
 modele: epidemiologie

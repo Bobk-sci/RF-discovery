@@ -8,7 +8,7 @@ titre: 'Sleep in everyday life - relationship to mood and performance in young a
 url: https://pubmed.ncbi.nlm.nih.gov/38078262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Åkerstedt T
 - Kecklund G
 pmcid: PMC10701737
+pdf_local: ''
 volume: '14'
 pages: '1264881'
 modele: epidemiologie

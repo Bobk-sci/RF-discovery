@@ -8,7 +8,7 @@ titre: Comparative study between radiofrequency-induced and muscimol-induced inh
 url: https://pubmed.ncbi.nlm.nih.gov/36044461/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Action Potentials
 - Muscimol
@@ -30,6 +30,7 @@ auteurs:
 - Percherancier Y
 - Lewis N
 pmcid: PMC9432733
+pdf_local: ''
 volume: '17'
 pages: e0268605
 modele: dosimetrie_modelisation

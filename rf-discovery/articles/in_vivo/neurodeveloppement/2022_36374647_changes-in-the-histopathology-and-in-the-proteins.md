@@ -9,7 +9,7 @@ titre: Changes in the histopathology and in the proteins related to the MAPK pat
 url: https://pubmed.ncbi.nlm.nih.gov/36374647/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Pregnancy
 - Rats
@@ -39,6 +39,7 @@ auteurs:
 - Yegin K
 - Yay AH
 pmcid: ''
+pdf_local: ''
 volume: '126'
 pages: '102187'
 modele: in_vivo

@@ -44,8 +44,7 @@ modele_indices:
 - ICNIRP
 theme: dosimetrie_exposition
 theme_score: 3.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
@@ -56,7 +55,6 @@ tags:
 - modele/ingenierie_materiel
 - modele/revue
 - theme/dosimetrie_exposition
-- theme/neuro_comportement_cognition
 - annee/2025
 ---
 

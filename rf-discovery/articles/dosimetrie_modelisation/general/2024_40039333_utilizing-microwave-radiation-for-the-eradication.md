@@ -7,7 +7,7 @@ titre: Utilizing Microwave Radiation for the Eradication of Bacteria and Fungi.
 url: https://pubmed.ncbi.nlm.nih.gov/40039333/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Bacteria
@@ -22,6 +22,7 @@ auteurs:
 - Mohamadi F
 - Zolghadri M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1-6
 modele: dosimetrie_modelisation

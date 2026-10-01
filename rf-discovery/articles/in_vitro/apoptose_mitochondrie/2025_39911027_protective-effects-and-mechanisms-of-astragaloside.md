@@ -8,7 +8,7 @@ titre: Protective Effects and Mechanisms of Astragaloside on Microwave Radiation
 url: https://pubmed.ncbi.nlm.nih.gov/39911027/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Heart
 - Cell Line
@@ -41,6 +41,7 @@ auteurs:
 - Lv Y
 - Peng R
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 142-154
 modele: in_vitro

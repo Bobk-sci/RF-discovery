@@ -8,7 +8,7 @@ titre: 'Methodology of Studying Effects of Mobile Phone Radiation on Organisms: 
 url: https://pubmed.ncbi.nlm.nih.gov/34886365/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -33,6 +33,7 @@ auteurs:
 - Neruda M
 - Vojtech L
 pmcid: PMC8656635
+pdf_local: ''
 volume: ''
 pages: '12642'
 modele: dosimetrie_modelisation

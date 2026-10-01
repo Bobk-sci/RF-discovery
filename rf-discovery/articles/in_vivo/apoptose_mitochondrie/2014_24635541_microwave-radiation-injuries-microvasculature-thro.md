@@ -8,7 +8,7 @@ titre: Microwave radiation injuries microvasculature through inducing endoplasmi
 url: https://pubmed.ncbi.nlm.nih.gov/24635541/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -30,6 +30,7 @@ auteurs:
 - Song D
 - Liu X
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vivo

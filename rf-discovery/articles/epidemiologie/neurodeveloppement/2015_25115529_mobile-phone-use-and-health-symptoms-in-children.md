@@ -7,7 +7,7 @@ titre: Mobile phone use and health symptoms in children.
 url: https://pubmed.ncbi.nlm.nih.gov/25115529/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -42,6 +42,7 @@ auteurs:
 - Ko MC
 - Li CY
 pmcid: ''
+pdf_local: ''
 volume: '114'
 pages: 598-604
 modele: epidemiologie

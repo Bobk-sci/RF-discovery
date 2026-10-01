@@ -8,7 +8,7 @@ titre: Maternal mobile phone exposure alters intrinsic electrophysiological prop
 url: https://pubmed.ncbi.nlm.nih.gov/24604340/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - CA1 Region, Hippocampal
@@ -38,6 +38,7 @@ auteurs:
 - Moazzami K
 - Shabani M
 pmcid: ''
+pdf_local: ''
 volume: '32'
 pages: 968-79
 modele: in_vivo
@@ -51,7 +52,7 @@ modele_indices:
 - offspring
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 7.0
+theme_score: 6.0
 theme_secondaires:
 - neurodeveloppement
 - plasticite_synaptique
@@ -59,7 +60,7 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

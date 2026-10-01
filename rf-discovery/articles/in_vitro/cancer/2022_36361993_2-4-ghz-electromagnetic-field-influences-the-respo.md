@@ -8,7 +8,7 @@ titre: 2.4 GHz Electromagnetic Field Influences the Response of the Circadian Os
 url: https://pubmed.ncbi.nlm.nih.gov/36361993/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cell Proliferation
@@ -34,6 +34,7 @@ auteurs:
 - Moravčík R
 - Herichová I
 pmcid: PMC9656412
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: in_vitro

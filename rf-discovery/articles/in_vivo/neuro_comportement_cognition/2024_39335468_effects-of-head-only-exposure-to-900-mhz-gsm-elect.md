@@ -44,7 +44,7 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - memory
-- learning
+- spatial learning
 tags:
 - rf
 - modele/in_vivo

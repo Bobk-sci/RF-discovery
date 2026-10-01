@@ -7,7 +7,7 @@ titre: Prenatal and Postnatal Cell Phone Exposures and Headaches in Children.
 url: https://pubmed.ncbi.nlm.nih.gov/23750182/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Olsen J
 - Zeltzer L
 pmcid: PMC3674098
+pdf_local: ''
 volume: '6'
 pages: 46-52
 modele: epidemiologie

@@ -7,7 +7,7 @@ titre: '5G Service and Pacemakers/Implantable Defibrillators: What Is the Actual
 url: https://pubmed.ncbi.nlm.nih.gov/36901531/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Defibrillators, Implantable
@@ -29,6 +29,7 @@ auteurs:
 - Calò L
 - Mattei E
 pmcid: PMC10001652
+pdf_local: ''
 volume: '20'
 pages: ''
 modele: dosimetrie_modelisation

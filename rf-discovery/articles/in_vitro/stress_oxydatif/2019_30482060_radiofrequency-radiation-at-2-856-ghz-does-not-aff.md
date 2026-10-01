@@ -8,7 +8,7 @@ titre: Radiofrequency radiation at 2.856 GHz does not affect key cellular endpoi
 url: https://pubmed.ncbi.nlm.nih.gov/30482060/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Endpoint Determination
@@ -36,6 +36,7 @@ auteurs:
 - Zhi W
 - Wang C
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 102-110
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: 'Using mobile phone-based text message to recruit representative samples:
 url: https://pubmed.ncbi.nlm.nih.gov/35842978/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Brazil
@@ -40,6 +40,7 @@ auteurs:
 - Bisseto VCQ
 - Ribeiro EAC
 pmcid: PMC9278996
+pdf_local: ''
 volume: '165'
 pages: '104832'
 modele: epidemiologie

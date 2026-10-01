@@ -8,7 +8,7 @@ titre: Iron deposition in rabbit cerebellum after exposure to generated and mobi
 url: https://pubmed.ncbi.nlm.nih.gov/29198122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aluminum
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Zdimalova M
 - Jakus J
 pmcid: ''
+pdf_local: ''
 volume: '118'
 pages: 575-579
 modele: in_vivo

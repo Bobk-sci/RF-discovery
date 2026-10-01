@@ -9,7 +9,7 @@ titre: Exposure to Global System for Mobile Communication 900 MHz Cellular Phone
 url: https://pubmed.ncbi.nlm.nih.gov/30034669/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Aliakbari M
 - Shahbazi-Gahrouei S
 pmcid: PMC6028991
+pdf_local: ''
 volume: ''
 pages: '51'
 modele: in_vitro

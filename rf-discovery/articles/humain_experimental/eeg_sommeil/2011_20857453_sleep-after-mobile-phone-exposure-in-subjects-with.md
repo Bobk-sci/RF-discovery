@@ -7,7 +7,7 @@ titre: Sleep after mobile phone exposure in subjects with mobile phone-related s
 url: https://pubmed.ncbi.nlm.nih.gov/20857453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -36,6 +36,7 @@ auteurs:
 - Nilsson JP
 - Arnetz B
 pmcid: ''
+pdf_local: ''
 volume: '32'
 pages: 4-14
 modele: humain_experimental

@@ -8,7 +8,7 @@ titre: 'Wireless technologies, non-ionizing electromagnetic fields and children:
 url: https://pubmed.ncbi.nlm.nih.gov/36935315/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Physical Examination
@@ -34,6 +34,7 @@ auteurs:
 - Butler T
 - Scarato T
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '101374'
 modele: revue

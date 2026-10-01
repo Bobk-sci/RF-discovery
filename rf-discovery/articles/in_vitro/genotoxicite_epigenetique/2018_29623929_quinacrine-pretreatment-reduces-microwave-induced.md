@@ -8,7 +8,7 @@ titre: Quinacrine pretreatment reduces microwave-induced neuronal damage by stab
 url: https://pubmed.ncbi.nlm.nih.gov/29623929/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -32,6 +32,7 @@ auteurs:
 - Fan M
 - Zhao YQ
 pmcid: PMC5900507
+pdf_local: ''
 volume: '13'
 pages: 449-455
 modele: in_vitro

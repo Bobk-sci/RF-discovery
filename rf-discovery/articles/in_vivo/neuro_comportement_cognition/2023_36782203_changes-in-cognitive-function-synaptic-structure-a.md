@@ -8,7 +8,7 @@ titre: Changes in cognitive function, synaptic structure and protein expression 
 url: https://pubmed.ncbi.nlm.nih.gov/36782203/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Hippocampus
 - Animals
@@ -37,6 +37,7 @@ auteurs:
 - Liu S
 - Peng R
 pmcid: PMC9926547
+pdf_local: ''
 volume: ''
 pages: '34'
 modele: in_vivo
@@ -46,14 +47,15 @@ modele_indices:
 - animals
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 9.5
+theme_score: 10.5
 theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 - attention
 tags:
 - rf

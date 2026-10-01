@@ -7,7 +7,7 @@ titre: 'Typical exposure of children to EMF: exposimetry and dosimetry.'
 url: https://pubmed.ncbi.nlm.nih.gov/24723195/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Child
@@ -29,6 +29,7 @@ auteurs:
 - Kos B
 - Gajšek P
 pmcid: ''
+pdf_local: ''
 volume: '163'
 pages: 70-80
 modele: dosimetrie_modelisation

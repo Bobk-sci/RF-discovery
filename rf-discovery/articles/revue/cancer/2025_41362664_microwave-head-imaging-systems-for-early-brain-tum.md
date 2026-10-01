@@ -45,7 +45,6 @@ modele_indices:
 theme: cancer
 theme_score: 2.5
 theme_secondaires:
-- neuro_comportement_cognition
 - dosimetrie_exposition
 theme_indices:
 - tumor
@@ -54,7 +53,6 @@ tags:
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/cancer
-- theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
 - annee/2025
 ---

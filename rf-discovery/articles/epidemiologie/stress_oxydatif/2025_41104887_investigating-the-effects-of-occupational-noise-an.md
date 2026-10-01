@@ -8,7 +8,7 @@ titre: Investigating the Effects of Occupational Noise and Extremely Low-Frequen
 url: https://pubmed.ncbi.nlm.nih.gov/41104887/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Malondialdehyde
@@ -40,6 +40,7 @@ auteurs:
 - Moosazadeh M
 - Samaei SE
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: e70027
 modele: epidemiologie

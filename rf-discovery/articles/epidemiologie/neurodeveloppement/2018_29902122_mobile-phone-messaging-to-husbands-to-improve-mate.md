@@ -8,7 +8,7 @@ titre: Mobile Phone Messaging to Husbands to Improve Maternal and Child Health B
 url: https://pubmed.ncbi.nlm.nih.gov/29902122/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -31,6 +31,7 @@ auteurs:
 - Khan ME
 - Mondal SK
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 542-549
 modele: epidemiologie

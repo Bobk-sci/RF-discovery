@@ -8,7 +8,7 @@ titre: Enriched Environment Decreases Cognitive Impairment in Elderly Rats With 
 url: https://pubmed.ncbi.nlm.nih.gov/32581772/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Wu H
 - Wang L
 pmcid: PMC7287020
+pdf_local: ''
 volume: '12'
 pages: '162'
 modele: in_vivo
@@ -37,7 +38,7 @@ modele_indices:
 - offspring
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 5.5
+theme_score: 6.5
 theme_secondaires:
 - neurodeveloppement
 - plasticite_synaptique
@@ -45,7 +46,8 @@ theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 tags:
 - rf
 - modele/in_vivo

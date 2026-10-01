@@ -8,7 +8,7 @@ titre: A co-polarization-insensitive metamaterial absorber for 5G n78 mobile dev
 url: https://pubmed.ncbi.nlm.nih.gov/35778453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Computers, Handheld
@@ -25,6 +25,7 @@ auteurs:
 - Misran N
 - Islam MS
 pmcid: PMC9249790
+pdf_local: ''
 volume: '12'
 pages: '11193'
 modele: dosimetrie_modelisation

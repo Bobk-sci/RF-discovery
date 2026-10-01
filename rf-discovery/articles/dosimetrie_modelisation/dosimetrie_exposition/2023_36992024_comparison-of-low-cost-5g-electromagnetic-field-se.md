@@ -7,7 +7,7 @@ titre: Comparison of Low-Cost 5G Electromagnetic Field Sensors.
 url: https://pubmed.ncbi.nlm.nih.gov/36992024/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -30,6 +30,7 @@ auteurs:
 - Joseph W
 - Bolte J
 pmcid: PMC10056984
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: dosimetrie_modelisation

@@ -9,7 +9,7 @@ titre: Impacts of exposure to 900 MHz mobile phone radiation on liver function i
 url: https://pubmed.ncbi.nlm.nih.gov/27215026/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -35,6 +35,7 @@ auteurs:
 - Cao XH
 - Zhang GH
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 567-71
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Effects of pulsed 2.856 GHz microwave exposure on BM-MSCs isolated from C
 url: https://pubmed.ncbi.nlm.nih.gov/25658708/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -43,6 +43,7 @@ auteurs:
 - Peng R
 - Hu X
 pmcid: PMC4319787
+pdf_local: ''
 volume: '10'
 pages: e0117550
 modele: in_vitro

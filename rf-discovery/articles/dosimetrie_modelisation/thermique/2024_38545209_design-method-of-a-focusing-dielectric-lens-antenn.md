@@ -8,7 +8,7 @@ titre: Design method of a focusing dielectric lens antenna and temperature incre
 url: https://pubmed.ncbi.nlm.nih.gov/38545209/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -24,6 +24,7 @@ auteurs:
 - Yamada Y
 - Takahashi M
 pmcid: PMC10965516
+pdf_local: ''
 volume: ''
 pages: e28061
 modele: dosimetrie_modelisation

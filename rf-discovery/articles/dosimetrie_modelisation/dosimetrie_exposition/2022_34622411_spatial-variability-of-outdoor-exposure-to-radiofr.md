@@ -8,7 +8,7 @@ titre: Spatial variability of outdoor exposure to radiofrequency radiation from 
 url: https://pubmed.ncbi.nlm.nih.gov/34622411/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Communication
@@ -32,6 +32,7 @@ auteurs:
 - Babiker BA
 - Eid OI
 pmcid: ''
+pdf_local: ''
 volume: '29'
 pages: 15026-15039
 modele: dosimetrie_modelisation

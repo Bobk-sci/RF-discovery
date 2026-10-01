@@ -8,7 +8,7 @@ titre: Assessment of the effects of radiofrequency radiation on human colon epit
 url: https://pubmed.ncbi.nlm.nih.gov/31023054/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Apoptosis
 - Cell Survival
@@ -28,6 +28,7 @@ auteurs:
 - Terzi YK
 - Guler GO
 pmcid: ''
+pdf_local: ''
 volume: '120'
 pages: 299-308
 modele: in_vitro

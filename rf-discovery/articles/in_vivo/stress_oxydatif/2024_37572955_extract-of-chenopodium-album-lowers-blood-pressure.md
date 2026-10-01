@@ -8,7 +8,7 @@ titre: Extract of Chenopodium album lowers blood pressure in rats through endoth
 url: https://pubmed.ncbi.nlm.nih.gov/37572955/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Rats
 - Animals
@@ -45,6 +45,7 @@ auteurs:
 - Khan T
 - Shah AJ
 pmcid: ''
+pdf_local: ''
 volume: '82'
 pages: 84-95
 modele: in_vivo

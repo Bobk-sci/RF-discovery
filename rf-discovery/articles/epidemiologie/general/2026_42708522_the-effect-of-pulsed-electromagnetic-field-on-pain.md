@@ -8,7 +8,7 @@ titre: The Effect of Pulsed Electromagnetic Field on Pain and Foot Function Inde
 url: https://pubmed.ncbi.nlm.nih.gov/42708522/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Foot
 - Humans
@@ -37,6 +37,7 @@ auteurs:
 - Taheri N
 - Tarrahi MJ
 pmcid: PMC13552193
+pdf_local: ''
 volume: ''
 pages: e70061
 modele: epidemiologie

@@ -7,7 +7,7 @@ titre: Analysis of mobile phone use among young patients with brain tumors in Ja
 url: https://pubmed.ncbi.nlm.nih.gov/28342194/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Brain Neoplasms
@@ -33,6 +33,7 @@ auteurs:
 - Kojimahara N
 - Yamaguchi N
 pmcid: ''
+pdf_local: ''
 volume: '38'
 pages: 349-355
 modele: epidemiologie

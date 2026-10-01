@@ -54,11 +54,10 @@ modele_indices:
 - hippocampus
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 5.5
+theme_score: 3.5
 theme_secondaires: []
 theme_indices:
 - memory
-- learning
 - locomotor activity
 tags:
 - rf

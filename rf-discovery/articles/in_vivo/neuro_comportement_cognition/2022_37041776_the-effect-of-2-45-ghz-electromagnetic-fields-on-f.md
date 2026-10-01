@@ -8,7 +8,7 @@ titre: The Effect of 2.45 GHz Electromagnetic Fields on Fear Memory Extinction i
 url: https://pubmed.ncbi.nlm.nih.gov/37041776/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Mansouri V
 - Jahani Sherafat S
 pmcid: PMC10082905
+pdf_local: ''
 volume: ''
 pages: e52
 modele: in_vivo
@@ -42,7 +43,7 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

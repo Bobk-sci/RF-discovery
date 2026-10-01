@@ -8,7 +8,7 @@ titre: MEASUREMENT AND EVALUATION OF ELECTRIC FIELD STRENGTH LEVELS IN PRIMARY A
 url: https://pubmed.ncbi.nlm.nih.gov/29237074/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -26,6 +26,7 @@ auteurs:
 - Korunur Engiz B
 - Bozkurt MC
 pmcid: ''
+pdf_local: ''
 volume: '179'
 pages: 282-290
 modele: dosimetrie_modelisation

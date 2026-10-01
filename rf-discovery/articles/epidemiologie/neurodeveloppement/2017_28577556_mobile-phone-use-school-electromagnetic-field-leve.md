@@ -8,7 +8,7 @@ titre: 'Mobile phone use, school electromagnetic field levels and related sympto
 url: https://pubmed.ncbi.nlm.nih.gov/28577556/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -43,6 +43,7 @@ auteurs:
 - Özkurt A
 - Karababa AO
 pmcid: PMC5455117
+pdf_local: ''
 volume: '16'
 pages: '51'
 modele: epidemiologie

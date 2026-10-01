@@ -8,7 +8,7 @@ titre: Hydrogel device for analgesic drugs with in-situ loading and polymerizati
 url: https://pubmed.ncbi.nlm.nih.gov/37451545/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Analgesics, Opioid
@@ -43,6 +43,7 @@ auteurs:
 - Muratoglu O
 - Oral E
 pmcid: ''
+pdf_local: ''
 volume: '361'
 pages: 20-28
 modele: in_vivo

@@ -7,7 +7,7 @@ titre: Pathophysiology of microwave-induced traumatic brain injury.
 url: https://pubmed.ncbi.nlm.nih.gov/26171150/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Naito Z
 - Yokota H
 pmcid: PMC4487000
+pdf_local: ''
 volume: '3'
 pages: 468-472
 modele: in_vivo

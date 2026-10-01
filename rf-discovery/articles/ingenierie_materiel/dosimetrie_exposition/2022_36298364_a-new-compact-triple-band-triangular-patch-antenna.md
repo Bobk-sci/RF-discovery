@@ -8,7 +8,7 @@ titre: A New Compact Triple-Band Triangular Patch Antenna for RF Energy Harvesti
 url: https://pubmed.ncbi.nlm.nih.gov/36298364/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Polytetrafluoroethylene
@@ -35,6 +35,7 @@ auteurs:
 - Kasbari AE
 - Feham M
 pmcid: PMC9610987
+pdf_local: ''
 volume: ''
 pages: '8009'
 modele: ingenierie_materiel

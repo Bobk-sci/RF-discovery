@@ -7,7 +7,7 @@ titre: Effects of generalization descriptions on risk perception.
 url: https://pubmed.ncbi.nlm.nih.gov/36738768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radio Waves
@@ -34,6 +34,7 @@ auteurs:
 - Loughran SP
 - Wiedemann PM
 pmcid: ''
+pdf_local: ''
 volume: '223'
 pages: '115422'
 modele: epidemiologie

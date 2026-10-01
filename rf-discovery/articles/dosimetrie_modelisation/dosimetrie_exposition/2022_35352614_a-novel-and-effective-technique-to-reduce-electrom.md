@@ -8,7 +8,7 @@ titre: A novel and effective technique to reduce electromagnetic radiation absor
 url: https://pubmed.ncbi.nlm.nih.gov/35352614/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Equipment Design
 - Wireless Technology
@@ -26,6 +26,7 @@ auteurs:
 - S A
 - Menon SK
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 184-200
 modele: dosimetrie_modelisation

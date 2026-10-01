@@ -8,7 +8,7 @@ titre: 'Mobile phones, non-ionizing radiofrequency fields and brain cancer: is t
 url: https://pubmed.ncbi.nlm.nih.gov/25249839/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -21,6 +21,7 @@ auteurs:
 - Vijayalaxmi
 - Prihoda TJ
 pmcid: PMC4146338
+pdf_local: ''
 volume: '12'
 pages: 509-14
 modele: epidemiologie

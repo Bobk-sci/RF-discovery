@@ -8,7 +8,7 @@ titre: Mobile phone signal exposure triggers a hormesis-like effect in Atm+/+ an
 url: https://pubmed.ncbi.nlm.nih.gov/27857169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Ataxia Telangiectasia Mutated Proteins
@@ -35,6 +35,7 @@ auteurs:
 - Chen G
 - Xu Z
 pmcid: PMC5114646
+pdf_local: ''
 volume: '6'
 pages: '37423'
 modele: in_vivo

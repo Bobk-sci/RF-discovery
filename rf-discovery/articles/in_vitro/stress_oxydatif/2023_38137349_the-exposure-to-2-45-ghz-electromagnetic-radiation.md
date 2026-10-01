@@ -8,7 +8,7 @@ titre: The Exposure to 2.45 GHz Electromagnetic Radiation Induced Different Cell
 url: https://pubmed.ncbi.nlm.nih.gov/38137349/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -26,6 +26,7 @@ auteurs:
 - Caccamo D
 - Currò M
 pmcid: PMC10740707
+pdf_local: ''
 volume: ''
 pages: '3129'
 modele: in_vitro

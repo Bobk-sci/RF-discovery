@@ -7,7 +7,7 @@ titre: Digital Pathology in Cameroon.
 url: https://pubmed.ncbi.nlm.nih.gov/34524835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cameroon
 - Hematoxylin
@@ -27,6 +27,7 @@ auteurs:
 - Kuran A
 - Chamala S
 pmcid: PMC8457846
+pdf_local: ''
 volume: '7'
 pages: 1380-1389
 modele: non_classe

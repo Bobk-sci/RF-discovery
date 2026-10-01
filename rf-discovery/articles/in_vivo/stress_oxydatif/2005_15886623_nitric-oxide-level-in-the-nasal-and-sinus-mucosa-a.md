@@ -9,7 +9,7 @@ titre: Nitric oxide level in the nasal and sinus mucosa after exposure to electr
 url: https://pubmed.ncbi.nlm.nih.gov/15886623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -31,6 +31,7 @@ auteurs:
 - Dogru H
 - Delibas N
 pmcid: ''
+pdf_local: ''
 volume: '132'
 pages: 713-6
 modele: in_vivo

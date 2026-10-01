@@ -7,7 +7,7 @@ titre: Cell phone and technology use by octogenarians.
 url: https://pubmed.ncbi.nlm.nih.gov/32223848/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Aged, 80 and over
 - Cell Phone
@@ -32,6 +32,7 @@ auteurs:
 - Kerse N
 - Jatrana S
 pmcid: ''
+pdf_local: ''
 volume: '12'
 pages: 35-40
 modele: epidemiologie

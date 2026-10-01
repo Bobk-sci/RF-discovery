@@ -7,7 +7,7 @@ titre: Impact of Mobile Phone Screen Exposure on Adolescents' Cognitive Health.
 url: https://pubmed.ncbi.nlm.nih.gov/36231371/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -33,6 +33,7 @@ auteurs:
 - Lopez-Vicente M
 - Julvez J
 pmcid: PMC9566493
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: epidemiologie

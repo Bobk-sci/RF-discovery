@@ -8,7 +8,7 @@ titre: 'Effect of electromagnetic waves from mobile phone on immune status of ma
 url: https://pubmed.ncbi.nlm.nih.gov/27901344/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Basophils
@@ -42,6 +42,7 @@ auteurs:
 - El-Gohary OA
 - Said MA
 pmcid: ''
+pdf_local: ''
 volume: '95'
 pages: 151-156
 modele: in_vivo

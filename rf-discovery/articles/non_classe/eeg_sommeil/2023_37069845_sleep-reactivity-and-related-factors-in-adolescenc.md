@@ -8,7 +8,7 @@ titre: 'Sleep Reactivity and Related Factors in Adolescence: An Increased Risk f
 url: https://pubmed.ncbi.nlm.nih.gov/37069845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Schlarb AA
 - Lohaus A
 pmcid: PMC10105585
+pdf_local: ''
 volume: '15'
 pages: 207-216
 modele: non_classe

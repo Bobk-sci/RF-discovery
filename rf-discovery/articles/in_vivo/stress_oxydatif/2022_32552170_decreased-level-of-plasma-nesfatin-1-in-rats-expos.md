@@ -8,7 +8,7 @@ titre: Decreased level of plasma nesfatin-1 in rats exposed to cell phone radiat
 url: https://pubmed.ncbi.nlm.nih.gov/32552170/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -29,6 +29,7 @@ auteurs:
 - Mousa AM
 - Shoman AA
 pmcid: ''
+pdf_local: ''
 volume: '128'
 pages: 1486-1492
 modele: in_vivo

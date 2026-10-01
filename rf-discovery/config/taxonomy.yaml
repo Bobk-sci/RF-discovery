@@ -255,6 +255,11 @@ recherche:
     - "food quality"
     - "pasteurization"
     - "shelf life"
+    # Mesure diélectrique d'un produit agricole : l'animal est le sujet d'élevage, pas
+    # l'exposé. Termes étroits, pour ne pas écarter les études d'exposition sur bétail.
+    - "mastitis"
+    - "milk quality"
+    - "dairy cows"
   # …sauf si la notice porte une vraie marque d'étude d'exposition : une étude de
   # provocation qui mesure l'effet d'un téléphone par IRM doit rester dans le corpus.
   annulations:
@@ -516,7 +521,16 @@ axes:
           - "cognition"
           - "cognitive"
           - "memory"
-          - "learning"
+          # Pas « learning » seul : « machine learning » et « deep learning » rangeaient
+          # des articles de méthode dans la cognition — 13 fiches du corpus en venaient,
+          # dont une étude de mastite bovine mesurée par spectroscopie micro-ondes.
+          - "learning and memory"
+          - "spatial learning"
+          - "motor learning"
+          - "avoidance learning"
+          - "learning deficit"
+          - "learning impairment"
+          - "learning performance"
           - "anxiety"
           - "depression"
           - "behavior"

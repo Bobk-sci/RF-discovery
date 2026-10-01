@@ -8,7 +8,7 @@ titre: 'Effect of Mobile Phone use on Hearing in Young Adults: An Observational 
 url: https://pubmed.ncbi.nlm.nih.gov/36742690/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Chauhan A
 - Thakur S
 pmcid: PMC9895735
+pdf_local: ''
 volume: '74'
 pages: 3754-3757
 modele: dosimetrie_modelisation

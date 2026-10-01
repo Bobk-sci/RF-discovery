@@ -8,7 +8,7 @@ titre: The effect of prenatal exposure to 1800 MHz electromagnetic field on calc
 url: https://pubmed.ncbi.nlm.nih.gov/26959616/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -42,6 +42,7 @@ auteurs:
 - Cure E
 - Sehitoglu I
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 74-83
 modele: in_vivo

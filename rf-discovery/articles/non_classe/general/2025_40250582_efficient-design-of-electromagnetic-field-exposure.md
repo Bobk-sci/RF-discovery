@@ -8,7 +8,7 @@ titre: Efficient design of electromagnetic field exposure maps with multi-method
 url: https://pubmed.ncbi.nlm.nih.gov/40250582/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -30,6 +30,7 @@ auteurs:
 - López-Espí PL
 - Salcedo-Sanz S
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '121636'
 modele: non_classe

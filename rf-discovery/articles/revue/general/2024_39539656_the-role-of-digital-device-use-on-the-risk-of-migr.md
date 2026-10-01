@@ -8,7 +8,7 @@ titre: 'The role of digital device use on the risk of migraine: a univariable an
 url: https://pubmed.ncbi.nlm.nih.gov/39539656/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Yang J
 - Zhao M
 pmcid: PMC11557339
+pdf_local: ''
 volume: ''
 pages: '1462414'
 modele: revue

@@ -8,7 +8,7 @@ titre: The effect of smartphones on daytime sleepiness, temporomandibular disord
 url: https://pubmed.ncbi.nlm.nih.gov/33880912/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Bruxism
 - Disorders of Excessive Somnolence
@@ -32,6 +32,7 @@ auteurs:
 - Friedman-Rubin P
 - Eli I
 pmcid: ''
+pdf_local: ''
 volume: '52'
 pages: 548-559
 modele: non_classe

@@ -8,7 +8,7 @@ titre: 'Microwave cell death: molecular analysis using DNA electrophoresis, PCR 
 url: https://pubmed.ncbi.nlm.nih.gov/19432670/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Death
@@ -35,6 +35,7 @@ auteurs:
 - Taniguchi E
 - Kakudo K
 pmcid: ''
+pdf_local: ''
 volume: '59'
 pages: 294-9
 modele: in_vivo

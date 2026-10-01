@@ -7,7 +7,7 @@ titre: Effects of mobile phone electromagnetic radiation on rat hippocampus prot
 url: https://pubmed.ncbi.nlm.nih.gov/34984797/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -31,6 +31,7 @@ auteurs:
 - Nanda RK
 - Rajamani P
 pmcid: ''
+pdf_local: ''
 volume: '37'
 pages: 836-847
 modele: in_vivo

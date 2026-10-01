@@ -8,7 +8,7 @@ titre: A case-control study on dietary calcium intake and risk of glioma.
 url: https://pubmed.ncbi.nlm.nih.gov/32956078/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Calcium, Dietary
@@ -30,6 +30,7 @@ auteurs:
 - Sharifi G
 - Esmaillzadeh A
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 322-327
 modele: epidemiologie

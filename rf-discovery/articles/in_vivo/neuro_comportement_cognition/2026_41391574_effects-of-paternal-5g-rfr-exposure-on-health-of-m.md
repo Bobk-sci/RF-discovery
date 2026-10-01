@@ -62,7 +62,7 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
 - anxiety
 - depression
 - behavior

@@ -7,7 +7,7 @@ titre: Assessment of Human Exposure Levels Due to Mobile Phone Antennas in 5G Ne
 url: https://pubmed.ncbi.nlm.nih.gov/35162566/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Computers, Handheld
@@ -31,6 +31,7 @@ auteurs:
 - Tognola G
 - Parazzini M
 pmcid: PMC8835459
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: dosimetrie_modelisation

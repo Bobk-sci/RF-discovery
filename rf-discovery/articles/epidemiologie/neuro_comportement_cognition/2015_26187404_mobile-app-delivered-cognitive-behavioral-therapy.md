@@ -8,7 +8,7 @@ titre: 'Mobile App-Delivered Cognitive Behavioral Therapy for Insomnia: Feasibil
 url: https://pubmed.ncbi.nlm.nih.gov/26187404/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Vandrey R
 - Bonn-Miller MO
 pmcid: PMC4527004
+pdf_local: ''
 volume: '4'
 pages: e87
 modele: epidemiologie

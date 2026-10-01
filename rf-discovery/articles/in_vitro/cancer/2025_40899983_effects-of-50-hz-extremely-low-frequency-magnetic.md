@@ -8,7 +8,7 @@ titre: 'Effects of 50 Hz extremely low-frequency magnetic field exposure on pro
 url: https://pubmed.ncbi.nlm.nih.gov/40899983/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -29,6 +29,7 @@ auteurs:
 - Gundu S
 - Mahto SK
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 1108-1124
 modele: in_vitro

@@ -9,7 +9,7 @@ titre: Effect of mobile phone app-based training on the quality of life for wome
 url: https://pubmed.ncbi.nlm.nih.gov/33882446/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Breast Neoplasms
 - Cell Phone
@@ -32,6 +32,7 @@ auteurs:
 - Karadakovan A
 - Erdoğan AP
 pmcid: ''
+pdf_local: ''
 volume: '52'
 pages: '101960'
 modele: epidemiologie

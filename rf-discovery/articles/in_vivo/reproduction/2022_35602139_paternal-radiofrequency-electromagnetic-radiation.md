@@ -8,7 +8,7 @@ titre: Paternal Radiofrequency Electromagnetic Radiation Exposure Causes Sex-Spe
 url: https://pubmed.ncbi.nlm.nih.gov/35602139/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Body-Weight Trajectory
@@ -39,6 +39,7 @@ auteurs:
 - Wang J
 - Wang X
 pmcid: PMC9120541
+pdf_local: ''
 volume: '10'
 pages: '872198'
 modele: in_vivo

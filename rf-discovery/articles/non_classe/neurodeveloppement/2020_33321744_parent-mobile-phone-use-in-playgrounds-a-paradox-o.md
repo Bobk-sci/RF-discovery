@@ -7,7 +7,7 @@ titre: 'Parent Mobile Phone Use in Playgrounds: A Paradox of Convenience.'
 url: https://pubmed.ncbi.nlm.nih.gov/33321744/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -23,6 +23,7 @@ auteurs:
 - Jancey J
 - Leavy JE
 pmcid: PMC7764574
+pdf_local: ''
 volume: '7'
 pages: ''
 modele: non_classe

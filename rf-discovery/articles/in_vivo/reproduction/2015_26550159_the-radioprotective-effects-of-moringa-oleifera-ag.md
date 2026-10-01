@@ -8,7 +8,7 @@ titre: The radioprotective effects of Moringa oleifera against mobile phone elec
 url: https://pubmed.ncbi.nlm.nih.gov/26550159/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Bin-Meferij MM
 - El-Kott AF
 pmcid: PMC4612844
+pdf_local: ''
 volume: '8'
 pages: 12487-97
 modele: in_vivo

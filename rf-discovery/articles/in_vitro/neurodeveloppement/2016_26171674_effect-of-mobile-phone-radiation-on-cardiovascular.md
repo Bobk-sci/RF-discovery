@@ -7,7 +7,7 @@ titre: Effect of Mobile Phone Radiation on Cardiovascular Development of Chick E
 url: https://pubmed.ncbi.nlm.nih.gov/26171674/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Atrial Natriuretic Factor
@@ -39,6 +39,7 @@ auteurs:
 - Zhao W
 - Wang J
 pmcid: ''
+pdf_local: ''
 volume: '45'
 pages: 197-208
 modele: in_vitro

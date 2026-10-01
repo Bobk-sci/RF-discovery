@@ -51,13 +51,12 @@ modele_indices:
 - Wistar
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 7.0
+theme_score: 5.0
 theme_secondaires:
 - neurodeveloppement
 - thermique
 theme_indices:
 - memory
-- learning
 - behavior
 tags:
 - rf

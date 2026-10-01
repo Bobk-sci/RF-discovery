@@ -8,7 +8,7 @@ titre: Using Cell Phone Technology to Investigate a Deliberate Bacillus anthraci
 url: https://pubmed.ncbi.nlm.nih.gov/29350541/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Algorithms
 - Anthrax
@@ -37,6 +37,7 @@ auteurs:
 - Shaul H
 - Balicer RD
 pmcid: ''
+pdf_local: ''
 volume: '16'
 pages: 22-29
 modele: epidemiologie

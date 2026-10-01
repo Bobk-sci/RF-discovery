@@ -8,7 +8,7 @@ titre: Morphological, biochemical and genotoxic effects of non-ionizing radiatio
 url: https://pubmed.ncbi.nlm.nih.gov/39472374/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Onions
 - Plant Roots
@@ -31,6 +31,7 @@ auteurs:
 - Bahel S
 - Katnoria JK
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 63225-63238
 modele: non_classe

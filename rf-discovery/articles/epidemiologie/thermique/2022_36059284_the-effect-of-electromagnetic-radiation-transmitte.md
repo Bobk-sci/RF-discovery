@@ -8,7 +8,7 @@ titre: The Effect of Electromagnetic Radiation Transmitted from Routers on Antib
 url: https://pubmed.ncbi.nlm.nih.gov/36059284/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -30,6 +30,7 @@ auteurs:
 - Vagdatli E
 - Papamitsou T
 pmcid: PMC9395630
+pdf_local: ''
 volume: ''
 pages: 327-338
 modele: epidemiologie

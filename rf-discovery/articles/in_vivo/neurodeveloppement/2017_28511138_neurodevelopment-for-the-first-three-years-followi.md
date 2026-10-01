@@ -8,7 +8,7 @@ titre: Neurodevelopment for the first three years following prenatal mobile phon
 url: https://pubmed.ncbi.nlm.nih.gov/28511138/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -51,6 +51,7 @@ auteurs:
 - Kim S
 - Park C
 pmcid: ''
+pdf_local: ''
 volume: '156'
 pages: 810-817
 modele: in_vivo

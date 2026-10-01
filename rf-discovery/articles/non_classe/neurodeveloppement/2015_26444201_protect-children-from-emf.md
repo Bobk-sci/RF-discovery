@@ -7,7 +7,7 @@ titre: Protect children from EMF.
 url: https://pubmed.ncbi.nlm.nih.gov/26444201/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Absorption, Radiation
 - Adolescent
@@ -26,6 +26,7 @@ auteurs:
 - Markov M
 - Grigoriev Y
 pmcid: ''
+pdf_local: ''
 volume: '34'
 pages: 251-6
 modele: non_classe

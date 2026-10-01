@@ -8,7 +8,7 @@ titre: Abnormal Expression of Connexin43 in Cardiac Injury Induced by S-Band and
 url: https://pubmed.ncbi.nlm.nih.gov/34957312/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Myocardium
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Zhang J
 - Peng R
 pmcid: PMC8709747
+pdf_local: ''
 volume: ''
 pages: '3985697'
 modele: in_vivo

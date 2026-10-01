@@ -8,7 +8,7 @@ titre: Miniaturized circularly polarized wearable array antenna for medical devi
 url: https://pubmed.ncbi.nlm.nih.gov/39472595/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Wearable Electronic Devices
 - Miniaturization
@@ -30,6 +30,7 @@ auteurs:
 - Nourinia J
 - Shokri M
 pmcid: PMC11522514
+pdf_local: ''
 volume: '14'
 pages: '26036'
 modele: ingenierie_materiel

@@ -7,7 +7,7 @@ titre: Letter to the editor.
 url: https://pubmed.ncbi.nlm.nih.gov/38677087/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Brain Neoplasms
 - Humans
@@ -30,6 +30,7 @@ mots_cles: []
 auteurs:
 - Kundi M
 pmcid: ''
+pdf_local: ''
 volume: '187'
 pages: '108665'
 modele: epidemiologie

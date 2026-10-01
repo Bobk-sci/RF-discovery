@@ -8,7 +8,7 @@ titre: 'Total Hip Arthroplasty on Tumor Treating Fields Delivery for Ovarian Car
 url: https://doi.org/10.20944/preprints202609.0196.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -20,6 +20,7 @@ auteurs:
 - Haack M
 - Wong ET
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: dosimetrie_modelisation

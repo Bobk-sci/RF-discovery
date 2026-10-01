@@ -8,7 +8,7 @@ titre: Anticancer Effects of Plasma-Activated Medium Produced by a Microwave-Exc
 url: https://pubmed.ncbi.nlm.nih.gov/32802265/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antineoplastic Agents
 - Argon
@@ -25,6 +25,7 @@ auteurs:
 - Chung TH
 - Chung JW
 pmcid: PMC7415084
+pdf_local: ''
 volume: '2020'
 pages: '4205640'
 modele: in_vitro

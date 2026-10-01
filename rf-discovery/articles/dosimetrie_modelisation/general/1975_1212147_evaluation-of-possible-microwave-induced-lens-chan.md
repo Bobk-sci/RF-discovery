@@ -8,7 +8,7 @@ titre: Evaluation of possible microwave-induced lens changes in the United State
 url: https://pubmed.ncbi.nlm.nih.gov/1212147/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aerospace Medicine
@@ -25,6 +25,7 @@ auteurs:
 - Tredici TJ
 - Epstein DL
 pmcid: ''
+pdf_local: ''
 volume: '46'
 pages: 1403-6
 modele: dosimetrie_modelisation

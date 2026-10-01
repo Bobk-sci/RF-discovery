@@ -7,7 +7,7 @@ titre: Research on heart rate extraction method based on mobile phone video.
 url: https://pubmed.ncbi.nlm.nih.gov/37838408/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Heart Rate
@@ -31,6 +31,7 @@ auteurs:
 - Liu J
 - Gu S
 pmcid: ''
+pdf_local: ''
 volume: '120'
 pages: '104051'
 modele: non_classe

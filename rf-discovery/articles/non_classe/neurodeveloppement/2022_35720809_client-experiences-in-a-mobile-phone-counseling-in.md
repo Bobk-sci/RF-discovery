@@ -8,7 +8,7 @@ titre: Client Experiences in a Mobile-Phone Counseling Intervention for Enhancin
 url: https://pubmed.ncbi.nlm.nih.gov/35720809/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Kinywa EA
 - Kalibala S
 pmcid: PMC9204057
+pdf_local: ''
 volume: '3'
 pages: '785194'
 modele: non_classe

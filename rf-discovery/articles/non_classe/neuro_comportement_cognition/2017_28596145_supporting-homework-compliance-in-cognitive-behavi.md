@@ -8,7 +8,7 @@ titre: 'Supporting Homework Compliance in Cognitive Behavioural Therapy: Essenti
 url: https://pubmed.ncbi.nlm.nih.gov/28596145/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -20,6 +20,7 @@ auteurs:
 - Tang W
 - Kreindler D
 pmcid: PMC5481663
+pdf_local: ''
 volume: '4'
 pages: e20
 modele: non_classe
@@ -27,12 +28,11 @@ modele_score: 0.0
 modele_secondaires: []
 modele_indices: []
 theme: neuro_comportement_cognition
-theme_score: 5.5
+theme_score: 4.5
 theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cognitive
-- learning
 - anxiety
 - depression
 tags:

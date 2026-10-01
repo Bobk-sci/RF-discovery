@@ -8,7 +8,7 @@ titre: 'Indirect effects of interference of two emerging environmental contamina
 url: https://pubmed.ncbi.nlm.nih.gov/38092171/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - CHO Cells
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Goliaei B
 - Faraji-Dana R
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '140942'
 modele: in_vitro

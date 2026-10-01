@@ -8,7 +8,7 @@ titre: 'Partner Phubbing and Sleep Quality: Serial Mediation Models With Relatio
 url: https://pubmed.ncbi.nlm.nih.gov/39322200/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Female
@@ -34,6 +34,7 @@ auteurs:
 - Dikdere B
 - Türkarslan KK
 pmcid: ''
+pdf_local: ''
 volume: '129'
 pages: 3040-3063
 modele: epidemiologie

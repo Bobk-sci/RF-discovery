@@ -8,7 +8,7 @@ titre: '[Association of mobile phone overuse with sleep disorder and unhealthy e
 url: https://pubmed.ncbi.nlm.nih.gov/31907144/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Feeding Behavior
@@ -33,6 +33,7 @@ auteurs:
 - Zhang L
 - Zhang B
 pmcid: PMC6942992
+pdf_local: ''
 volume: '39'
 pages: 1500-1505
 modele: epidemiologie

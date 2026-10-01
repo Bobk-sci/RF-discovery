@@ -8,7 +8,7 @@ titre: Mobile phone (1800MHz) radiation impairs female reproduction in mice, Mus
 url: https://pubmed.ncbi.nlm.nih.gov/28780396/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -44,6 +44,7 @@ auteurs:
 - Singh SP
 - Chaturvedi CM
 pmcid: ''
+pdf_local: ''
 volume: '73'
 pages: 41-60
 modele: in_vivo

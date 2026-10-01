@@ -8,7 +8,7 @@ titre: Association between vestibular schwannomas and mobile phone use.
 url: https://pubmed.ncbi.nlm.nih.gov/23975478/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Case-Control Studies
@@ -34,6 +34,7 @@ auteurs:
 - Lee JD
 - Lee WS
 pmcid: PMC3907669
+pdf_local: ''
 volume: '35'
 pages: 581-7
 modele: epidemiologie

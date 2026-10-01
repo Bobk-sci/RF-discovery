@@ -8,7 +8,7 @@ titre: Activating Transcription Factor 4 regulation of radiofrequency radiation-
 url: https://pubmed.ncbi.nlm.nih.gov/40831178/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Mitochondria
@@ -35,6 +35,7 @@ auteurs:
 - Ding C
 - Cao Y
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 551-565
 modele: in_vitro

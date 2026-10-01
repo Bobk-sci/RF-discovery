@@ -8,7 +8,7 @@ titre: 'Analysis of the Genotoxic Effects of Mobile Phone Radiation using Buccal
 url: https://pubmed.ncbi.nlm.nih.gov/27135009/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -26,6 +26,7 @@ auteurs:
 - Sreedhar G
 - Mukherjee S
 pmcid: PMC4843394
+pdf_local: ''
 volume: ''
 pages: ZC82-5
 modele: non_classe

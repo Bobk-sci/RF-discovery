@@ -8,7 +8,7 @@ titre: RF-EMF exposure assessment with add-on uplink exposure sensor in differen
 url: https://pubmed.ncbi.nlm.nih.gov/40090040/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -40,6 +40,7 @@ auteurs:
 - Guxens M
 - Joseph W
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: '109368'
 modele: dosimetrie_modelisation

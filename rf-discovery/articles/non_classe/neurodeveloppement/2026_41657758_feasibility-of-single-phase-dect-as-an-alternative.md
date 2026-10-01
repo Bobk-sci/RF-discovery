@@ -40,15 +40,13 @@ modele_secondaires: []
 modele_indices: []
 theme: neurodeveloppement
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - child
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
-- theme/neuro_comportement_cognition
 - annee/2026
 ---
 

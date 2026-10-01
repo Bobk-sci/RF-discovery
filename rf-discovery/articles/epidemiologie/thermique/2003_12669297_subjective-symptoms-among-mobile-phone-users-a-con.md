@@ -8,7 +8,7 @@ titre: Subjective symptoms among mobile phone users--a consequence of absorption
 url: https://pubmed.ncbi.nlm.nih.gov/12669297/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Body Temperature
 - Cell Phone
@@ -38,6 +38,7 @@ auteurs:
 - Sandström M
 - Hansson Mild K
 pmcid: ''
+pdf_local: ''
 volume: '24'
 pages: 152-9
 modele: epidemiologie

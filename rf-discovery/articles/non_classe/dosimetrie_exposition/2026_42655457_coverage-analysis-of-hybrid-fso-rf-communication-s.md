@@ -8,7 +8,7 @@ titre: Coverage Analysis of Hybrid FSO/RF Communication Systems with Selection C
 url: https://pubmed.ncbi.nlm.nih.gov/42655457/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Li YY
 - Wang JY
 pmcid: PMC13517919
+pdf_local: ''
 volume: '26'
 pages: ''
 modele: non_classe

@@ -7,7 +7,7 @@ titre: The Fundamental Reasons Why Laptop Computers should not be Used on Your L
 url: https://pubmed.ncbi.nlm.nih.gov/28144597/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Habibzadeh P
 - Shojaei-Fard MB
 pmcid: PMC5219578
+pdf_local: ''
 volume: '6'
 pages: 279-284
 modele: non_classe
@@ -34,8 +35,7 @@ modele_secondaires: []
 modele_indices: []
 theme: reproduction
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - sperm
 - reproductive
@@ -43,7 +43,6 @@ tags:
 - rf
 - modele/non_classe
 - theme/reproduction
-- theme/neuro_comportement_cognition
 - annee/2016
 ---
 

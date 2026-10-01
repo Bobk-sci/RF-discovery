@@ -8,7 +8,7 @@ titre: 'Field-Frustrated Cooperative Distortions: Suppressing Jahn-Teller Orderi
 url: https://pubmed.ncbi.nlm.nih.gov/42237760/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -23,6 +23,7 @@ auteurs:
 - Vashaee D
 - Dsouza K
 pmcid: PMC13336883
+pdf_local: ''
 volume: ''
 pages: e76001
 modele: non_classe

@@ -8,7 +8,7 @@ titre: '"Notification! You May Have Cancer." Could Smartphones and Wearables Hel
 url: https://pubmed.ncbi.nlm.nih.gov/38767941/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -34,6 +34,7 @@ auteurs:
 - Scott SE
 - Thompson MJ
 pmcid: PMC11148520
+pdf_local: ''
 volume: '10'
 pages: e52577
 modele: non_classe

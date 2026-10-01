@@ -8,7 +8,7 @@ titre: NUMERICAL EVALUATION OF SPECIFIC ABSORPTION RATE IN HUMAN HEAD AND TORSO 
 url: https://pubmed.ncbi.nlm.nih.gov/35718697/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Head
 - Humans
@@ -23,6 +23,7 @@ auteurs:
 - Mahmood A
 - Mahboob MA
 pmcid: ''
+pdf_local: ''
 volume: '198'
 pages: 491-502
 modele: dosimetrie_modelisation

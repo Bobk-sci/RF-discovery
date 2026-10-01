@@ -56,14 +56,15 @@ modele_indices:
 - Wistar
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 9.0
+theme_score: 10.0
 theme_secondaires:
 - eeg_sommeil
 - dosimetrie_exposition
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 - spatial memory
 - attention
 tags:

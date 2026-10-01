@@ -8,7 +8,7 @@ titre: 'Effect of Smartphone Use on Sleep in Undergraduate Medical Students: A C
 url: https://pubmed.ncbi.nlm.nih.gov/37958035/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -33,6 +33,7 @@ auteurs:
 - Chopra H
 - Greig NH
 pmcid: PMC10649238
+pdf_local: ''
 volume: '11'
 pages: ''
 modele: epidemiologie

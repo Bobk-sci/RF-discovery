@@ -7,7 +7,7 @@ titre: Effect of 2.45 GHz microwave radiation on the fertility pattern in male m
 url: https://pubmed.ncbi.nlm.nih.gov/30220680/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Dose-Response Relationship, Radiation
@@ -27,6 +27,7 @@ auteurs:
 - Saxena VK
 - Kesari KK
 pmcid: ''
+pdf_local: ''
 volume: '37'
 pages: 453-460
 modele: in_vivo

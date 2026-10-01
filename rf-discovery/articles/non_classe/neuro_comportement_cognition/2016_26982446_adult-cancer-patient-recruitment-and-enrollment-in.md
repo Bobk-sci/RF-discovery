@@ -9,7 +9,7 @@ titre: Adult Cancer Patient Recruitment and Enrollment into Cell Phone Text Mess
 url: https://pubmed.ncbi.nlm.nih.gov/26982446/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -54,6 +54,7 @@ auteurs:
 - Schueller M
 - Given BA
 pmcid: PMC5087987
+pdf_local: ''
 volume: '22'
 pages: 836-842
 modele: non_classe

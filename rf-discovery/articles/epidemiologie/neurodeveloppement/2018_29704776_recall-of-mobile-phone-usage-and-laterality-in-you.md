@@ -8,7 +8,7 @@ titre: 'Recall of mobile phone usage and laterality in young people: The multina
 url: https://pubmed.ncbi.nlm.nih.gov/29704776/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -63,6 +63,7 @@ auteurs:
 - Vrijheid M
 - Vermeulen R
 pmcid: ''
+pdf_local: ''
 volume: '165'
 pages: 150-157
 modele: epidemiologie

@@ -7,7 +7,7 @@ titre: Effects of mobile phone radiation on X-ray-induced tumorigenesis in mice.
 url: https://pubmed.ncbi.nlm.nih.gov/11741502/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Drinking Behavior
@@ -38,6 +38,7 @@ auteurs:
 - Puranen L
 - Juutilainen J
 pmcid: ''
+pdf_local: ''
 volume: '156'
 pages: 775-85
 modele: in_vivo

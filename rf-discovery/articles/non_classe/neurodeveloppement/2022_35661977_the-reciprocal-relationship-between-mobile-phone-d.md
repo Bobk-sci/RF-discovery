@@ -8,7 +8,7 @@ titre: 'The reciprocal relationship between mobile phone dependence and school a
 url: https://pubmed.ncbi.nlm.nih.gov/35661977/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Choe C
 - Yu S
 pmcid: ''
+pdf_local: ''
 volume: '228'
 pages: '103628'
 modele: non_classe

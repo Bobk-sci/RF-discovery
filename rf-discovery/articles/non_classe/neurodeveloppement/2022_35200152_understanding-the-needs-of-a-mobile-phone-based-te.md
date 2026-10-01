@@ -9,7 +9,7 @@ titre: 'Understanding the Needs of a Mobile Phone-Based Telemonitoring Program f
 url: https://pubmed.ncbi.nlm.nih.gov/35200152/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -32,6 +32,7 @@ auteurs:
 - Bhutta Z
 - Seto E
 pmcid: PMC8914731
+pdf_local: ''
 volume: '6'
 pages: e32428
 modele: non_classe
@@ -40,8 +41,7 @@ modele_secondaires: []
 modele_indices: []
 theme: neurodeveloppement
 theme_score: 4.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - pregnancy
 - neonatal
@@ -50,7 +50,6 @@ tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
-- theme/neuro_comportement_cognition
 - annee/2022
 ---
 

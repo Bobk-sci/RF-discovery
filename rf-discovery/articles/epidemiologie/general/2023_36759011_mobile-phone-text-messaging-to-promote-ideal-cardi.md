@@ -7,7 +7,7 @@ titre: Mobile-phone text messaging to promote ideal cardiovascular health in wom
 url: https://pubmed.ncbi.nlm.nih.gov/36759011/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Female
@@ -32,6 +32,7 @@ auteurs:
 - Lopez R
 - Smith SC
 pmcid: PMC9923351
+pdf_local: ''
 volume: '10'
 pages: ''
 modele: epidemiologie

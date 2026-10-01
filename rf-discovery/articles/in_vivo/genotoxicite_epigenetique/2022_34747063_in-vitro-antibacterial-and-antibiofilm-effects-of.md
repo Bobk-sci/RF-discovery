@@ -8,7 +8,7 @@ titre: In vitro antibacterial and antibiofilm effects of cold atmospheric microw
 url: https://pubmed.ncbi.nlm.nih.gov/34747063/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Anti-Bacterial Agents
@@ -31,6 +31,7 @@ auteurs:
 - Baek SJ
 - Hwang CY
 pmcid: ''
+pdf_local: ''
 volume: '33'
 pages: 29-e10
 modele: in_vivo

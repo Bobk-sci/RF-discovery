@@ -8,7 +8,7 @@ titre: Effects of the combined Herba Epimedii and Fructus Ligustri Lucidi on bon
 url: https://pubmed.ncbi.nlm.nih.gov/28254481/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Bone Density
@@ -44,6 +44,7 @@ auteurs:
 - Wang X
 - Liu R
 pmcid: ''
+pdf_local: ''
 volume: '201'
 pages: 91-99
 modele: in_vivo

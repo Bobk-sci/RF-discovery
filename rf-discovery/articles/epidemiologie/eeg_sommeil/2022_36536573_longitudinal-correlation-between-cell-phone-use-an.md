@@ -8,7 +8,7 @@ titre: '[Longitudinal correlation between cell phone use and sleep quality in co
 url: https://pubmed.ncbi.nlm.nih.gov/36536573/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Sleep Quality
@@ -37,6 +37,7 @@ auteurs:
 - Tao FB
 - Wu XY
 pmcid: ''
+pdf_local: ''
 volume: '56'
 pages: 1828-1833
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: 'Brain temperature measurements in rats: a comparison of microwave and am
 url: https://pubmed.ncbi.nlm.nih.gov/3753529/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Air
 - Animals
@@ -32,6 +32,7 @@ auteurs:
 - Long MD
 - Kinn JB
 pmcid: ''
+pdf_local: ''
 volume: '7'
 pages: 243-58
 modele: in_vivo

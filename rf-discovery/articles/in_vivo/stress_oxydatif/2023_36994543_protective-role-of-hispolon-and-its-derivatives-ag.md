@@ -8,7 +8,7 @@ titre: Protective role of hispolon and its derivatives against apoptosis in cort
 url: https://pubmed.ncbi.nlm.nih.gov/36994543/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Rats
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - V C
 - Narayanasamy D
 pmcid: ''
+pdf_local: ''
 volume: '37'
 pages: e23351
 modele: in_vivo

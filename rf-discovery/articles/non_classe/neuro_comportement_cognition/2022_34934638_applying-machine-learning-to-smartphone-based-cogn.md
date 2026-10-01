@@ -8,7 +8,7 @@ titre: Applying machine learning to smartphone based cognitive and sleep assessm
 url: https://pubmed.ncbi.nlm.nih.gov/34934638/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Vaidyam A
 - Torous J
 pmcid: PMC8655108
+pdf_local: ''
 volume: '27'
 pages: '100216'
 modele: non_classe
@@ -32,13 +33,12 @@ modele_score: 0.0
 modele_secondaires: []
 modele_indices: []
 theme: neuro_comportement_cognition
-theme_score: 6.0
+theme_score: 3.5
 theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognition
 - cognitive
-- learning
 tags:
 - rf
 - modele/non_classe

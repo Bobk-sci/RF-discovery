@@ -8,7 +8,7 @@ titre: 'Enhancement of Apoptosis by Titanium Alloy Internal Fixations during Mic
 url: https://pubmed.ncbi.nlm.nih.gov/26132082/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Alloys
 - Animals
@@ -45,6 +45,7 @@ auteurs:
 - Fu T
 - Bai Y
 pmcid: PMC4488932
+pdf_local: ''
 volume: '10'
 pages: e0132046
 modele: in_vivo

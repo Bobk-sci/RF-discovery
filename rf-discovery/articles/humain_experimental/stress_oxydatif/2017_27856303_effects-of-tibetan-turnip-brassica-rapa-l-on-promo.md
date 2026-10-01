@@ -8,7 +8,7 @@ titre: Effects of Tibetan turnip (Brassica rapa L.) on promoting hypoxia-toleran
 url: https://pubmed.ncbi.nlm.nih.gov/27856303/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Acclimatization
 - Adult
@@ -55,6 +55,7 @@ auteurs:
 - Jin L
 - Zhang Y
 pmcid: ''
+pdf_local: ''
 volume: '195'
 pages: 246-254
 modele: humain_experimental

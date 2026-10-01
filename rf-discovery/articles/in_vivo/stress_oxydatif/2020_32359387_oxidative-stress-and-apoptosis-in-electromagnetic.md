@@ -8,7 +8,7 @@ titre: Oxidative stress and apoptosis in electromagnetic waves exposed Zebrafish
 url: https://pubmed.ncbi.nlm.nih.gov/32359387/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -44,6 +44,7 @@ auteurs:
 - Sancak E
 - Emekli-Alturfan E
 pmcid: ''
+pdf_local: ''
 volume: '66'
 pages: 70-75
 modele: in_vivo

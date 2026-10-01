@@ -8,7 +8,7 @@ titre: Influence of pre- and postnatal exposure of rats to 2.45-GHz microwave ra
 url: https://pubmed.ncbi.nlm.nih.gov/3730002/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Animals, Newborn
@@ -34,6 +34,7 @@ auteurs:
 - Peterson J
 - McRee DI
 pmcid: ''
+pdf_local: ''
 volume: '7'
 pages: 57-71
 modele: in_vivo

@@ -8,7 +8,7 @@ titre: Genetic profiling of rat gliomas and cardiac schwannomas from life-time r
 url: https://pubmed.ncbi.nlm.nih.gov/38232086/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Humans
@@ -43,6 +43,7 @@ auteurs:
 - Belpoggi F
 - Pandiri AR
 pmcid: PMC10793937
+pdf_local: ''
 volume: ''
 pages: e0296699
 modele: in_vivo

@@ -7,7 +7,7 @@ titre: Association between reproductive health and nonionizing radiation exposur
 url: https://pubmed.ncbi.nlm.nih.gov/33471575/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Negi P
 - Singh R
 pmcid: ''
+pdf_local: ''
 volume: '40'
 pages: 92-102
 modele: revue

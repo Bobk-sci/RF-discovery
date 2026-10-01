@@ -7,7 +7,7 @@ titre: Impact of Maternal Obesity and Mobile Phone Use on Fetal Cardiotocography
 url: https://pubmed.ncbi.nlm.nih.gov/30455754/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -19,6 +19,7 @@ mots_cles:
 auteurs:
 - Saadia Z
 pmcid: PMC6236027
+pdf_local: ''
 volume: '6'
 pages: 1813-1817
 modele: dosimetrie_modelisation

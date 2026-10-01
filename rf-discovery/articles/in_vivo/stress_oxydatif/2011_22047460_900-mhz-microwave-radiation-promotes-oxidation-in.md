@@ -7,7 +7,7 @@ titre: 900-MHz microwave radiation promotes oxidation in rat brain.
 url: https://pubmed.ncbi.nlm.nih.gov/22047460/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Antioxidants
@@ -34,6 +34,7 @@ auteurs:
 - Kumar S
 - Behari J
 pmcid: ''
+pdf_local: ''
 volume: '30'
 pages: 219-34
 modele: in_vivo

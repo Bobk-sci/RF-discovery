@@ -47,7 +47,7 @@ theme_secondaires:
 - genotoxicite_epigenetique
 - thermique
 theme_indices:
-- learning
+- spatial learning
 - behavior
 tags:
 - rf

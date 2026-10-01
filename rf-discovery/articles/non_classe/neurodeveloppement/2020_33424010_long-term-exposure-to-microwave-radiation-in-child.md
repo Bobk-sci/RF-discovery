@@ -8,7 +8,7 @@ titre: Long Term Exposure to Microwave Radiation in Children Due to COVID-19 Pan
 url: https://pubmed.ncbi.nlm.nih.gov/33424010/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Microwaves
@@ -24,6 +24,7 @@ auteurs:
 - Zaroushani V
 - Khajehnasiri F
 pmcid: PMC8695782
+pdf_local: ''
 volume: ''
 pages: e00501
 modele: non_classe

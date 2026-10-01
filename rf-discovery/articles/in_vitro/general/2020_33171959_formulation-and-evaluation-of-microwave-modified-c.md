@@ -9,7 +9,7 @@ titre: Formulation and Evaluation of Microwave-Modified Chitosan-Curcumin Nanopa
 url: https://pubmed.ncbi.nlm.nih.gov/33171959/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Shah SU
 - Khan NR
 pmcid: PMC7694694
+pdf_local: ''
 volume: '12'
 pages: ''
 modele: in_vitro

@@ -8,7 +8,7 @@ titre: Picosecond and Terahertz Perturbation of Interfacial Water and Electroper
 url: https://pubmed.ncbi.nlm.nih.gov/25796485/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Calcium
@@ -37,6 +37,7 @@ auteurs:
 - Semenov I
 - Pakhomov AG
 pmcid: PMC4565733
+pdf_local: ''
 volume: '248'
 pages: 837-47
 modele: in_vitro

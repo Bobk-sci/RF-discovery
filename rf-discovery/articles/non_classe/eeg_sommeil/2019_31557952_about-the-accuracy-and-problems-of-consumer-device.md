@@ -7,7 +7,7 @@ titre: About the Accuracy and Problems of Consumer Devices in the Assessment of 
 url: https://pubmed.ncbi.nlm.nih.gov/31557952/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -34,6 +34,7 @@ auteurs:
 - Hahn MA
 - Schabus M
 pmcid: PMC6806072
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: non_classe

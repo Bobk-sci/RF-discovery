@@ -7,7 +7,7 @@ titre: An EBG-Based Triple-Band Wearable Antenna for WBAN Applications.
 url: https://pubmed.ncbi.nlm.nih.gov/36363959/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -25,6 +25,7 @@ auteurs:
 - Zhao Y
 - Luo W
 pmcid: PMC9693111
+pdf_local: ''
 volume: ''
 pages: '1938'
 modele: ingenierie_materiel

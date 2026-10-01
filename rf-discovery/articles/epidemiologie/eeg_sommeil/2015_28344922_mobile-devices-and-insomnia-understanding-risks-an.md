@@ -7,7 +7,7 @@ titre: 'Mobile Devices and Insomnia: Understanding Risks and Benefits.'
 url: https://pubmed.ncbi.nlm.nih.gov/28344922/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -29,6 +29,7 @@ auteurs:
 - Nock R
 - Gooneratne NS
 pmcid: PMC5363971
+pdf_local: ''
 volume: '1'
 pages: 226-231
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: 'Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hor
 url: https://pubmed.ncbi.nlm.nih.gov/34630149/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Systematic Review
@@ -26,6 +26,7 @@ auteurs:
 - Jaffar FHF
 - Ibrahim SF
 pmcid: PMC8497974
+pdf_local: ''
 volume: ''
 pages: '732420'
 modele: revue

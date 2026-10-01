@@ -8,7 +8,7 @@ titre: Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPKα2
 url: https://pubmed.ncbi.nlm.nih.gov/35322852/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Rats
@@ -39,6 +39,7 @@ auteurs:
 - Zhao L
 - Peng R
 pmcid: PMC9069443
+pdf_local: ''
 volume: ''
 pages: BSR20212584
 modele: in_vivo

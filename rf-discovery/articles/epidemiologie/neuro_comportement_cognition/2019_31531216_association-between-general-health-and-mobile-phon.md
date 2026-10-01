@@ -8,7 +8,7 @@ titre: 'Association between General Health and Mobile Phone Dependency among Med
 url: https://pubmed.ncbi.nlm.nih.gov/31531216/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -27,6 +27,7 @@ auteurs:
 - Mansori K
 - Samani RO
 pmcid: PMC6683405
+pdf_local: ''
 volume: '10'
 pages: '126'
 modele: epidemiologie

@@ -7,7 +7,7 @@ titre: Radiofrequency Fields and Calcium Movements Into and Out of Cells.
 url: https://pubmed.ncbi.nlm.nih.gov/33206197/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Calcium
 - Calcium Channels
@@ -22,6 +22,7 @@ auteurs:
 - Wood A
 - Karipidis K
 pmcid: ''
+pdf_local: ''
 volume: '195'
 pages: 101-113
 modele: dosimetrie_modelisation

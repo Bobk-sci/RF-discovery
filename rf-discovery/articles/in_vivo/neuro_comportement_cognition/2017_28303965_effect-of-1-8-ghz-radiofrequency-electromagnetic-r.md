@@ -55,7 +55,7 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - memory
-- learning
+- learning and memory
 - locomotor activity
 tags:
 - rf

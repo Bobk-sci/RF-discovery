@@ -2,14 +2,16 @@
 
 349 articles.
 
-## cancer (48)
+## cancer (50)
 
 - `2026` [[2026_41186132_utility-of-quantitative-parameters-from-triple-pha]] — Chen M et al.
 - `2026` [[2026_41251127_personal-radio-use-and-risk-of-cancers-among-polic]] — Di Gravio C et al.
 - `2026` [[2026_41669464_diagnostic-efficacy-of-dual-energy-computed-tomogr]] — Zhang C et al.
+- `2026` [[2026_41740269_non-invasive-prediction-of-ki-67-expression-in-gas]] — Chen Y et al.
 - `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
 - `2026` [[2026_41763072_predicting-axillary-lymph-node-metastasis-in-clini]] — Zeng F et al.
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
+- `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
 - `2025` [[2025_39301814_occupational-exposure-to-radiofrequency-electromag]] — Turuban M et al.
@@ -109,7 +111,7 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (103)
+## general (108)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41212451_correlation-between-intrahepatic-iodine-quantity-a]] — Komada T et al.
@@ -117,6 +119,7 @@
 - `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
 - `2026` [[2026_41500857_effect-of-nitroglycerin-enhanced-dual-energy-ct-on]] — Wang X et al.
 - `2026` [[2026_41565492_preoperative-prediction-of-perineural-invasion-and]] — Zhang M et al.
+- `2026` [[2026_41604288_interpretable-machine-learning-model-using-dual-en]] — Liu Y et al.
 - `2026` [[2026_41668047_pretreatment-dual-energy-ct-versus-diffusion-weigh]] — Cao Y et al.
 - `2026` [[2026_41668915_optimized-dual-source-dual-energy-computed-tomogra]] — Wang Q et al.
 - `2026` [[2026_41681836_spectral-precision-the-added-value-of-dual-energy]] — Guerrini S et al.
@@ -138,7 +141,9 @@
 - `2026` [[2026_42360352_delayed-phase-dual-energy-ct-for-early-peritoneal]] — Feng Q et al.
 - `2026` [[2026_42406506_millimeter-wave-imaging-for-idiopathic-scoliosis-s]] — Li W et al.
 - `2026` [[2026_42422427_development-and-validation-of-a-multimodal-predict]] — Zhang Y et al.
+- `2026` [[2026_42474719_multi-dect-image-based-intra-and-peritumoral-inter]] — Yang B et al.
 - `2026` [[2026_42547357_development-and-external-validation-of-a-dual-ener]] — Demir L et al.
+- `2026` [[2026_42550187_deep-learning-image-reconstruction-improves-visual]] — Wu B et al.
 - `2026` [[2026_42682338_noninvasive-stratification-of-her2-status-in-breas]] — Chen H et al.
 - `2026` [[2026_42705926_dual-energy-ct-derived-extracellular-volume-fracti]] — Wang S et al.
 - `2026` [[2026_42708522_the-effect-of-pulsed-electromagnetic-field-on-pain]] — Arani ZSY et al.
@@ -154,6 +159,7 @@
 - `2025` [[2025_41160934_symptoms-associated-with-environmental-factors-are]] — Reddington K et al.
 - `2025` [[2025_41212337_the-value-of-dual-energy-ct-radiomics-in-evaluatin]] — Li R et al.
 - `2025` [[2025_41291538_distinguishing-benign-from-malignant-thyroid-nodul]] — He J et al.
+- `2025` [[2025_41327160_enhancing-prediction-accuracy-for-muscle-invasion]] — Du C et al.
 - `2025` [[2025_41361282_artifact-reduction-and-diagnostic-value-of-monoene]] — Li H et al.
 - `2025` [[2025_41368655_study-on-bone-mineral-density-around-the-knee-in-p]] — Guo Z et al.
 - `2025` [[2025_41395608_application-of-dual-energy-ct-in-assessing-the-eff]] — Wang Y et al.
@@ -165,6 +171,7 @@
 - `2023` [[2023_36759011_mobile-phone-text-messaging-to-promote-ideal-cardi]] — Acevedo M et al.
 - `2023` [[2023_36779133_association-of-autonomic-balance-with-phone-call-d]] — Gangwar V et al.
 - `2023` [[2023_36974296_an-epidemiological-study-of-cell-phone-related-inj]] — McLaughlin WM et al.
+- `2023` [[2023_37096352_forecasting-migraine-with-machine-learning-based-o]] — Stubberud A et al.
 - `2023` [[2023_37698975_feasibility-and-acceptability-of-a-combined-digita]] — Carter J et al.
 - `2022` [[2022_34647191_the-efficacy-and-safety-of-a-combined-multipolar-r]] — Wattanakrai P et al.
 - `2022` [[2022_34994699_knowledge-and-expectations-of-hearing-aid-apps-amo]] — Han JS et al.
@@ -220,25 +227,18 @@
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 - `2017` [[2017_28777669_impact-of-radiofrequency-radiation-on-dna-damage-a]] — Zothansiama et al.
 
-## neuro_comportement_cognition (59)
+## neuro_comportement_cognition (52)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
-- `2026` [[2026_41604288_interpretable-machine-learning-model-using-dual-en]] — Liu Y et al.
-- `2026` [[2026_41740269_non-invasive-prediction-of-ki-67-expression-in-gas]] — Chen Y et al.
-- `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
-- `2026` [[2026_42474719_multi-dect-image-based-intra-and-peritumoral-inter]] — Yang B et al.
-- `2026` [[2026_42550187_deep-learning-image-reconstruction-improves-visual]] — Wu B et al.
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.
-- `2025` [[2025_41327160_enhancing-prediction-accuracy-for-muscle-invasion]] — Du C et al.
 - `2025` [[2025_41847591_enhancing-agent-based-models-with-real-time-moveme]] — Thota RC et al.
 - `2024` [[2024_38993329_mobile-phone-short-video-use-negatively-impacts-at]] — Yan T et al.
 - `2024` [[2024_39137016_exploring-the-impact-of-a-sleep-app-on-sleep-quali]] — Armitage BT et al.
 - `2024` [[2024_39703810_depression-severity-mediates-the-relationships-bet]] — He Q et al.
 - `2023` [[2023_36496184_forecasting-and-analysis-of-the-effect-of-lifestyl]] — Zhao D et al.
 - `2023` [[2023_36594048_comparing-online-cognitive-load-on-mobile-versus-p]] — Caldiroli CL et al.
-- `2023` [[2023_37096352_forecasting-migraine-with-machine-learning-based-o]] — Stubberud A et al.
 - `2023` [[2023_37905240_absolute-and-relative-preferences-for-mobile-phone]] — Yang H et al.
 - `2023` [[2023_38093382_problematic-mobile-phone-use-and-time-management-d]] — Yuan Y et al.
 - `2022` [[2022_35482373_impact-of-visual-game-like-features-on-cognitive-p]] — Redlinger E et al.

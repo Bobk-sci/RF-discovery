@@ -8,7 +8,7 @@ titre: Mobile phone use and trends in the incidence of cancers of the parotid an
 url: https://pubmed.ncbi.nlm.nih.gov/34020314/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone Use
@@ -36,6 +36,7 @@ auteurs:
 - Urban D
 - Elwood M
 pmcid: ''
+pdf_local: ''
 volume: '73'
 pages: '101961'
 modele: non_classe

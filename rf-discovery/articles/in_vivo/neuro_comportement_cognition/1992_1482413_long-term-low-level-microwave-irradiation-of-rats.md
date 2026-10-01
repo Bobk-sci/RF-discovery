@@ -7,7 +7,7 @@ titre: Long-term, low-level microwave irradiation of rats.
 url: https://pubmed.ncbi.nlm.nih.gov/1482413/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Behavior, Animal
@@ -36,6 +36,7 @@ auteurs:
 - Crowley JJ
 - Krupp JH
 pmcid: ''
+pdf_local: ''
 volume: '13'
 pages: 469-96
 modele: in_vivo

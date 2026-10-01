@@ -8,7 +8,7 @@ titre: The relationships between mobile phone use and depressive symptoms, bodil
 url: https://pubmed.ncbi.nlm.nih.gov/31076240/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adolescent Behavior
@@ -49,6 +49,7 @@ auteurs:
 - Leung KC
 - Leung SF
 pmcid: ''
+pdf_local: ''
 volume: '101'
 pages: '105975'
 modele: epidemiologie

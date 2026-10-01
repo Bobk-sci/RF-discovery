@@ -8,7 +8,7 @@ titre: 'Effects of 2G and 3G mobile phones on human alpha rhythms: Resting EEG i
 url: https://pubmed.ncbi.nlm.nih.gov/20564174/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -37,6 +37,7 @@ auteurs:
 - Hamblin DL
 - Cooper NR
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 434-44
 modele: humain_experimental

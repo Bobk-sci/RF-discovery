@@ -8,7 +8,7 @@ titre: Evaluation of oxidative stress and genetic instability among residents ne
 url: https://pubmed.ncbi.nlm.nih.gov/38820877/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cell Phone
@@ -46,6 +46,7 @@ auteurs:
 - Vigasova K
 - Belyaev I
 pmcid: ''
+pdf_local: ''
 volume: '279'
 pages: '116486'
 modele: non_classe

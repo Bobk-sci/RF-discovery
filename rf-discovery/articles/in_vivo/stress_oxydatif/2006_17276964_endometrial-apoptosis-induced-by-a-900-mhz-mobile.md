@@ -8,7 +8,7 @@ titre: 'Endometrial apoptosis induced by a 900-MHz mobile phone: preventive effe
 url: https://pubmed.ncbi.nlm.nih.gov/17276964/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Apoptosis
@@ -40,6 +40,7 @@ auteurs:
 - Comlekci S
 - Cesur G
 pmcid: ''
+pdf_local: ''
 volume: '23'
 pages: 957-73
 modele: in_vivo

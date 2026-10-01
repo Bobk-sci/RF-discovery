@@ -7,7 +7,7 @@ titre: Passive Millimeter-Wave Imaging for Burns Diagnostics under Dressing Mate
 url: https://pubmed.ncbi.nlm.nih.gov/35408043/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Bandages
@@ -28,6 +28,7 @@ mots_cles:
 auteurs:
 - Owda AY
 pmcid: PMC9003280
+pdf_local: ''
 volume: '22'
 pages: ''
 modele: in_vivo

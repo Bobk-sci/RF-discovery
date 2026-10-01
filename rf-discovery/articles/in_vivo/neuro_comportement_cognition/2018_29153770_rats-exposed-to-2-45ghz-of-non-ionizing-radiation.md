@@ -9,7 +9,7 @@ titre: Rats exposed to 2.45GHz of non-ionizing radiation exhibit behavioral chan
 url: https://pubmed.ncbi.nlm.nih.gov/29153770/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Kumar G
 - Shukla A
 pmcid: ''
+pdf_local: ''
 volume: '25'
 pages: 19-30
 modele: in_vivo
@@ -41,7 +42,7 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - memory
-- learning
+- learning and memory
 - anxiety
 - behavior
 tags:

@@ -8,7 +8,7 @@ titre: Age-dependence of electromagnetic power and heat deposition in near-surfa
 url: https://pubmed.ncbi.nlm.nih.gov/33597554/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -19,6 +19,7 @@ auteurs:
 - Pisa S
 - Zhadobov M
 pmcid: PMC7889919
+pdf_local: ''
 volume: '11'
 pages: '3983'
 modele: dosimetrie_modelisation

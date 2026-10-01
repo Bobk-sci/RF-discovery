@@ -8,7 +8,7 @@ titre: The Study of Manufacturing Thermal Insulation Materials Based on Inorgani
 url: https://pubmed.ncbi.nlm.nih.gov/35956716/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -30,6 +30,7 @@ auteurs:
 - Beran M
 - Burlutskyy O
 pmcid: PMC9370901
+pdf_local: ''
 volume: ''
 pages: '3202'
 modele: non_classe

@@ -8,7 +8,7 @@ titre: Stereological Study on the Effect of Carnosine on of Purkinje Cells in th
 url: https://pubmed.ncbi.nlm.nih.gov/35416258/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cerebellum
 - Purkinje Cells
@@ -30,6 +30,7 @@ auteurs:
 - Dagdelen U
 - Saracoglu OG
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 618-624
 modele: in_vivo

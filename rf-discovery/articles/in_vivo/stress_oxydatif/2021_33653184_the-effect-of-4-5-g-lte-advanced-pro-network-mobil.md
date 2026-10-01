@@ -8,7 +8,7 @@ titre: The effect of 4.5 G (LTE Advanced-Pro network) mobile phone radiation o
 url: https://pubmed.ncbi.nlm.nih.gov/33653184/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Phone
@@ -44,6 +44,7 @@ auteurs:
 - Koyuncu DD
 - Ozbay E
 pmcid: ''
+pdf_local: ''
 volume: '40'
 pages: 198-206
 modele: in_vivo

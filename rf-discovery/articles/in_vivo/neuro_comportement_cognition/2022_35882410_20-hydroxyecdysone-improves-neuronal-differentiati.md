@@ -8,7 +8,7 @@ titre: 20-Hydroxyecdysone Improves Neuronal Differentiation of Adult Hippocampal
 url: https://pubmed.ncbi.nlm.nih.gov/35882410/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Cell Proliferation
@@ -37,6 +37,7 @@ auteurs:
 - Feng H
 - Chu WH
 pmcid: ''
+pdf_local: ''
 volume: '35'
 pages: 504-517
 modele: in_vivo
@@ -57,7 +58,7 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

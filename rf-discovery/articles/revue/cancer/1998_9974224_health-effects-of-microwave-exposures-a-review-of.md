@@ -9,7 +9,7 @@ titre: 'Health effects of microwave exposures: a review of the recent (1995-1998
 url: https://pubmed.ncbi.nlm.nih.gov/9974224/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Phenomena
 - Humans
@@ -23,6 +23,7 @@ mots_cles: []
 auteurs:
 - Jauchem JR
 pmcid: ''
+pdf_local: ''
 volume: '33'
 pages: 263-74
 modele: revue

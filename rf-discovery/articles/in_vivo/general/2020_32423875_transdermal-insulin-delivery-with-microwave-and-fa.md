@@ -7,7 +7,7 @@ titre: Transdermal insulin delivery with microwave and fatty acids as permeation
 url: https://pubmed.ncbi.nlm.nih.gov/32423875/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Administration, Cutaneous
 - Animals
@@ -39,6 +39,7 @@ auteurs:
 - Wong TW
 - Caramella C
 pmcid: ''
+pdf_local: ''
 volume: '584'
 pages: '119416'
 modele: in_vivo

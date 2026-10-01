@@ -8,7 +8,7 @@ titre: Mobile phone radiation induces reactive oxygen species production and DNA
 url: https://pubmed.ncbi.nlm.nih.gov/19649291/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - DNA Damage
@@ -29,6 +29,7 @@ auteurs:
 - King BV
 - Aitken RJ
 pmcid: PMC2714176
+pdf_local: ''
 volume: '4'
 pages: e6446
 modele: in_vitro

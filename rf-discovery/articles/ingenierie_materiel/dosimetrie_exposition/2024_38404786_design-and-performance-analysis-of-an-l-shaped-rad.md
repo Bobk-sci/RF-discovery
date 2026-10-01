@@ -8,7 +8,7 @@ titre: Design and performance analysis of an L-shaped radiator and defected grou
 url: https://pubmed.ncbi.nlm.nih.gov/38404786/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Dhasarathan V
 - Sharma M
 pmcid: PMC10884931
+pdf_local: ''
 volume: ''
 pages: e26398
 modele: ingenierie_materiel

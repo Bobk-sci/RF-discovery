@@ -8,7 +8,7 @@ titre: 1800 MHz radiofrequency fields inhibits testosterone production via CaM
 url: https://pubmed.ncbi.nlm.nih.gov/30125682/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Benzylamines
@@ -42,6 +42,7 @@ auteurs:
 - Cao Y
 - Tong J
 pmcid: ''
+pdf_local: ''
 volume: '81'
 pages: 229-236
 modele: in_vitro

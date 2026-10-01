@@ -7,7 +7,7 @@ titre: Effect of 902 MHz mobile phone transmission on cognitive function in chil
 url: https://pubmed.ncbi.nlm.nih.gov/15931678/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Body Burden
 - Cell Phone
@@ -33,6 +33,7 @@ auteurs:
 - Manktelow TC
 - Wesnes K
 pmcid: ''
+pdf_local: ''
 volume: Suppl 7
 pages: S138-43
 modele: humain_experimental

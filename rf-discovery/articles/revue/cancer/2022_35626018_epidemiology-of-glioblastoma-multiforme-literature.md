@@ -7,7 +7,7 @@ titre: Epidemiology of Glioblastoma Multiforme-Literature Review.
 url: https://pubmed.ncbi.nlm.nih.gov/35626018/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -28,6 +28,7 @@ auteurs:
 - Chlubek D
 - Baranowska-Bosiacka I
 pmcid: PMC9139611
+pdf_local: ''
 volume: '14'
 pages: ''
 modele: revue

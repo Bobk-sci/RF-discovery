@@ -8,7 +8,7 @@ titre: 'Regular Mobile Phone Use and Incident Cardiovascular Diseases: Mediating
 url: https://pubmed.ncbi.nlm.nih.gov/39230550/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cardiovascular Diseases
@@ -41,6 +41,7 @@ auteurs:
 - Gan X
 - Qin X
 pmcid: ''
+pdf_local: ''
 volume: '40'
 pages: 2156-2165
 modele: epidemiologie

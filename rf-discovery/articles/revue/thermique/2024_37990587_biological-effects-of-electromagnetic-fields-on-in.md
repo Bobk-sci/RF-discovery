@@ -8,7 +8,7 @@ titre: 'Biological effects of electromagnetic fields on insects: a systematic re
 url: https://pubmed.ncbi.nlm.nih.gov/37990587/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Electromagnetic Fields
 - Animals
@@ -30,6 +30,7 @@ auteurs:
 - Cammaerts MC
 - Balmori A
 pmcid: ''
+pdf_local: ''
 volume: '39'
 pages: 853-869
 modele: revue

@@ -8,7 +8,7 @@ titre: Investigation of oxidative damage, antioxidant balance, DNA repair genes,
 url: https://pubmed.ncbi.nlm.nih.gov/36062506/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Mice
@@ -41,6 +41,7 @@ auteurs:
 - Akarca Dizakar O
 - Yegin K
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 389-401
 modele: in_vivo

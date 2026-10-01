@@ -9,7 +9,7 @@ titre: 'Optimizing Detection and Prediction of Cognitive Function in Multiple Sc
 url: https://pubmed.ncbi.nlm.nih.gov/39325510/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Female
@@ -48,6 +48,7 @@ auteurs:
 - Ginell K
 - Fritz NE
 pmcid: PMC11467611
+pdf_local: ''
 volume: '13'
 pages: e59876
 modele: revue

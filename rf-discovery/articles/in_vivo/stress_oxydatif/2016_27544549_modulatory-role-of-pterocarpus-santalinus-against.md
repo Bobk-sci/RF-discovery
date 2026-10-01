@@ -8,7 +8,7 @@ titre: Modulatory role of Pterocarpus santalinus against alcohol-induced liver o
 url: https://pubmed.ncbi.nlm.nih.gov/27544549/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Alcohols
 - Animals
@@ -43,6 +43,7 @@ auteurs:
 - Maturu P
 - N Ch V
 pmcid: ''
+pdf_local: ''
 volume: '83'
 pages: 1057-1063
 modele: in_vivo

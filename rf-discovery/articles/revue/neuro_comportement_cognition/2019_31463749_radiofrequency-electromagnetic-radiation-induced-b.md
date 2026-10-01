@@ -59,7 +59,7 @@ theme_secondaires:
 - thermique
 theme_indices:
 - memory
-- learning
+- learning and memory
 - anxiety
 - behavior
 tags:

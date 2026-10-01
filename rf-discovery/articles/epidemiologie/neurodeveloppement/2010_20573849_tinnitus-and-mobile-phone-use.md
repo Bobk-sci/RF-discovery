@@ -7,7 +7,7 @@ titre: Tinnitus and mobile phone use.
 url: https://pubmed.ncbi.nlm.nih.gov/20573849/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -35,6 +35,7 @@ auteurs:
 - Ehrenberger K
 - Kundi M
 pmcid: ''
+pdf_local: ''
 volume: '67'
 pages: 804-8
 modele: epidemiologie

@@ -36,10 +36,9 @@ modele_score: 0.0
 modele_secondaires: []
 modele_indices: []
 theme: neuro_comportement_cognition
-theme_score: 4.5
+theme_score: 2.5
 theme_secondaires: []
 theme_indices:
-- learning
 - behavior
 tags:
 - rf

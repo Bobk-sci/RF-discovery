@@ -9,7 +9,7 @@
 - `2025` [[2025_40968852_a-compact-implantable-multiple-input-multiple-outp]] — Smida J et al.
 - `2024` [[2024_39409350_design-and-implementation-of-an-ultra-wideband-wat]] — Tan F, Wang H
 
-## dosimetrie_exposition (65)
+## dosimetrie_exposition (66)
 
 - `2026` [[2026_41533703_mobile-phone-mimo-antenna-array-miniaturization-ba]] — Hou WQ et al.
 - `2026` [[2026_41534213_towards-smarter-pacemakers-robot-shaped-antenna-fo]] — Kaur S et al.
@@ -36,6 +36,7 @@
 - `2026` [[2026_42740124_a-distributed-4-port-hilbert-slot-mimo-antenna-wit]] — Saleh S et al.
 - `2026` [[2026_42740425_an-ultra-miniaturized-dual-band-circularly-polariz]] — A Chandran A et al.
 - `2025` [[2025_39747224_compact-wearable-microstrip-antenna-design-using-h]] — Tiwari A et al.
+- `2025` [[2025_39899529_a-machine-learning-driven-computationally-efficien]] — Rasool Khan U et al.
 - `2025` [[2025_39934238_a-pocket-integrated-miniature-dual-band-and-high-g]] — Sharma D et al.
 - `2025` [[2025_40195383_sar-evaluation-of-mimo-antennas-with-a-wide-tunabl]] — Gu Y et al.
 - `2025` [[2025_40283363_a-single-field-finite-difference-time-domain-metho]] — Qi Y et al.
@@ -97,12 +98,11 @@
 - `2024` [[2024_39066139_a-miniaturized-dual-band-circularly-polarized-impl]] — Song Z et al.
 - `2023` [[2023_37571772_a-miniaturized-tri-band-implantable-antenna-for-is]] — Gupta A et al.
 
-## neuro_comportement_cognition (5)
+## neuro_comportement_cognition (4)
 
 - `2026` [[2026_41688491_a-scalable-uwb-to-reconfigurable-mimo-filtenna-wit]] — Fouda HS et al.
 - `2026` [[2026_41901916_electromagnetic-performance-characterization-and-c]] — Ali W et al.
 - `2026` [[2026_42236755_a-high-gain-low-sar-uwb-all-textile-two-port-mimo]] — Douhi S et al.
-- `2025` [[2025_39899529_a-machine-learning-driven-computationally-efficien]] — Rasool Khan U et al.
 - `2025` [[2025_41315784_efficient-phase-shift-in-metamaterial-spoof-surfac]] — Mazdouri B, Mirzavand R
 
 ## reproduction (1)

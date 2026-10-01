@@ -8,7 +8,7 @@ titre: Cytological effects of microwave radiation in Chinese hamster cells in vi
 url: https://pubmed.ncbi.nlm.nih.gov/657002/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Line
 - Chromosomes
@@ -24,6 +24,7 @@ auteurs:
 - Lambert NG
 - Kasatiya SS
 pmcid: ''
+pdf_local: ''
 volume: '20'
 pages: 23-30
 modele: in_vitro

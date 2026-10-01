@@ -8,7 +8,7 @@ titre: Tasmanian devil whale optimization (TDWO) is introduced for secure video 
 url: https://pubmed.ncbi.nlm.nih.gov/40824955/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Algorithms
 - Video Recording
@@ -24,6 +24,7 @@ auteurs:
 - Lin F
 - Lu M
 pmcid: PMC12360583
+pdf_local: ''
 volume: '20'
 pages: e0330270
 modele: in_vivo

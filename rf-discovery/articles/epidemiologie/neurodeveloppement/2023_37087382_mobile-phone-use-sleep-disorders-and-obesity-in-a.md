@@ -7,7 +7,7 @@ titre: Mobile phone use, sleep disorders and obesity in a social exclusion zone.
 url: https://pubmed.ncbi.nlm.nih.gov/37087382/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Child
 - Humans
@@ -36,6 +36,7 @@ auteurs:
 - García-Lara GM
 - Garach-Gómez A
 pmcid: ''
+pdf_local: ''
 volume: '98'
 pages: 344-352
 modele: epidemiologie

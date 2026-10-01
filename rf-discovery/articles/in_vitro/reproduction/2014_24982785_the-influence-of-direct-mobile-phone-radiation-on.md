@@ -7,7 +7,7 @@ titre: The influence of direct mobile phone radiation on sperm quality.
 url: https://pubmed.ncbi.nlm.nih.gov/24982785/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -22,6 +22,7 @@ auteurs:
 - Banyra O
 - Shulyak A
 pmcid: PMC4074720
+pdf_local: ''
 volume: '67'
 pages: 65-71
 modele: in_vitro

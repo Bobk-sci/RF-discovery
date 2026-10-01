@@ -7,7 +7,7 @@ titre: Controversy in Electromagnetic Safety.
 url: https://pubmed.ncbi.nlm.nih.gov/36554825/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Environmental Exposure
@@ -27,6 +27,7 @@ mots_cles:
 auteurs:
 - Chou CK
 pmcid: PMC9778992
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: dosimetrie_modelisation

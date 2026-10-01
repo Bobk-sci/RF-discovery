@@ -7,7 +7,7 @@ titre: Determinants of Maternal Behavior of Mobile Phone Use during Pregnancy.
 url: https://pubmed.ncbi.nlm.nih.gov/33149872/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Cell Phone Use
@@ -29,6 +29,7 @@ auteurs:
 - Sun G
 - Peng M
 pmcid: PMC7603607
+pdf_local: ''
 volume: '2020'
 pages: '9465019'
 modele: epidemiologie

@@ -8,7 +8,7 @@ titre: Synergistical Induction of Apoptosis via Cold Atmospheric Plasma and Nano
 url: https://pubmed.ncbi.nlm.nih.gov/40298279/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Plasma Gases
 - Apoptosis
@@ -44,6 +44,7 @@ auteurs:
 - Bao C
 - Liu X
 pmcid: PMC12508692
+pdf_local: ''
 volume: '58'
 pages: e70041
 modele: in_vitro

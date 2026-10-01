@@ -8,7 +8,7 @@ titre: Cell phone exposures and hearing loss in children in the Danish National 
 url: https://pubmed.ncbi.nlm.nih.gov/23574412/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cell Phone
 - Child
@@ -38,6 +38,7 @@ auteurs:
 - Arah OA
 - Olsen J
 pmcid: PMC3625978
+pdf_local: ''
 volume: '27'
 pages: 247-57
 modele: epidemiologie

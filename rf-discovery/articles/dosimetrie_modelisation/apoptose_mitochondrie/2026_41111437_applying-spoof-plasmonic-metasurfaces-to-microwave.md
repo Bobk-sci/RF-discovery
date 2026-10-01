@@ -8,7 +8,7 @@ titre: Applying spoof-plasmonic metasurfaces to microwave sample preparation of 
 url: https://pubmed.ncbi.nlm.nih.gov/41111437/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Specimen Handling
 - Microwaves
@@ -26,6 +26,7 @@ auteurs:
 - Mutasim A
 - Geddes CD
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 924-939
 modele: dosimetrie_modelisation

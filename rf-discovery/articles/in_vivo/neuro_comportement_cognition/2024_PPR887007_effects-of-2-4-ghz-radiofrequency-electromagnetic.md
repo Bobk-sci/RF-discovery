@@ -39,7 +39,7 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - memory
-- learning
+- learning and memory
 tags:
 - rf
 - modele/in_vivo

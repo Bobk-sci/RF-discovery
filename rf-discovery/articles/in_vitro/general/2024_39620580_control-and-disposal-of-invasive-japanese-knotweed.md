@@ -8,7 +8,7 @@ titre: Control and Disposal of Invasive Japanese Knotweed Reynoutria japonica Ho
 url: https://pubmed.ncbi.nlm.nih.gov/39620580/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Microwaves
 - Introduced Species
@@ -26,6 +26,7 @@ auteurs:
 - Bucior S
 - Synowiec A
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vitro

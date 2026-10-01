@@ -8,7 +8,7 @@ titre: Depression Severity Mediates the Relationships Between Parenting Styles, 
 url: https://pubmed.ncbi.nlm.nih.gov/39703810/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Zhou Y
 - Liu L
 pmcid: PMC11656327
+pdf_local: ''
 volume: '17'
 pages: 4281-4290
 modele: epidemiologie

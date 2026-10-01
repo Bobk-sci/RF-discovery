@@ -8,7 +8,7 @@ titre: Repeated head-exposures to a 5G-3.5 GHz signal do not alter behavior but 
 url: https://doi.org/10.1101/2024.12.13.628345
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -24,6 +24,7 @@ auteurs:
 - Edeline J
 - Mallat M
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vivo

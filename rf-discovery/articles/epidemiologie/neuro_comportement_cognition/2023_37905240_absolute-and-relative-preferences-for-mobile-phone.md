@@ -9,7 +9,7 @@ titre: 'Absolute and relative preferences for mobile phone internet content, mob
 url: https://pubmed.ncbi.nlm.nih.gov/37905240/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Male
 - Adolescent
@@ -36,6 +36,7 @@ auteurs:
 - Jiang Y
 - Tang J
 pmcid: PMC10613496
+pdf_local: ''
 volume: '11'
 pages: '1247438'
 modele: epidemiologie

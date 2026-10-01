@@ -8,7 +8,7 @@ titre: Behaviour of Children and Adolescents and the Use of Mobile Phones in Pri
 url: https://pubmed.ncbi.nlm.nih.gov/34444102/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Behavior, Addictive
@@ -33,6 +33,7 @@ auteurs:
 - Gómez-García G
 - Mikulcová K
 pmcid: PMC8393999
+pdf_local: ''
 volume: '18'
 pages: ''
 modele: non_classe

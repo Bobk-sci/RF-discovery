@@ -7,7 +7,7 @@ titre: Effects of field orientation during 700-MHz radiofrequency irradiation of
 url: https://pubmed.ncbi.nlm.nih.gov/2694195/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Blood Pressure
@@ -31,6 +31,7 @@ auteurs:
 - Jauchem JR
 - Padilla JM
 pmcid: ''
+pdf_local: ''
 volume: '21'
 pages: 65-72
 modele: in_vivo

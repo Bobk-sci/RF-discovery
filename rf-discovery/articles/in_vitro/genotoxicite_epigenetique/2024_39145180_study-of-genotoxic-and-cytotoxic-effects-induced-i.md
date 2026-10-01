@@ -8,7 +8,7 @@ titre: Study of genotoxic and cytotoxic effects induced in human fibroblasts by 
 url: https://pubmed.ncbi.nlm.nih.gov/39145180/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Cells, Cultured
 - Fibroblasts
@@ -47,6 +47,7 @@ auteurs:
 - Bei R
 - Lista F
 pmcid: PMC11323689
+pdf_local: ''
 volume: ''
 pages: '1419525'
 modele: in_vitro

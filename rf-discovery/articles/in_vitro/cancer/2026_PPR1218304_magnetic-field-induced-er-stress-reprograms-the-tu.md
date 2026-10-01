@@ -8,7 +8,7 @@ titre: Magnetic field-induced ER stress reprograms the tumor microenvironment to
 url: https://doi.org/10.64898/2026.03.22.713285
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
@@ -18,6 +18,7 @@ auteurs:
 - Khantwal C
 - Konwar K
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: in_vitro

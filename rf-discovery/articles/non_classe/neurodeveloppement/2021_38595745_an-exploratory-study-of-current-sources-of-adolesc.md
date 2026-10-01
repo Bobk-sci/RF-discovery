@@ -10,7 +10,7 @@ titre: 'An Exploratory Study of Current Sources of Adolescent Sexual and Reprodu
 url: https://pubmed.ncbi.nlm.nih.gov/38595745/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -25,6 +25,7 @@ auteurs:
 - Nduati R
 - Carrion C
 pmcid: PMC10929578
+pdf_local: ''
 volume: '33'
 pages: 357-370
 modele: non_classe

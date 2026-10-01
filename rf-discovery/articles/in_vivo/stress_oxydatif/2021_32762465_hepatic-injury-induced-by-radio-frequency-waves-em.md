@@ -8,7 +8,7 @@ titre: Hepatic injury induced by radio frequency waves emitted from conventional
 url: https://pubmed.ncbi.nlm.nih.gov/32762465/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Liver
 - Animals
@@ -33,6 +33,7 @@ auteurs:
 - Fahmy HM
 - Mohammed FF
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 136-147
 modele: in_vivo

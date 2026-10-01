@@ -8,7 +8,7 @@ titre: 'Multi-Technology Multi-Operator Site Sharing: Compliance Distance Analys
 url: https://pubmed.ncbi.nlm.nih.gov/36772628/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -24,6 +24,7 @@ auteurs:
 - Saeed RA
 - Edam S
 pmcid: PMC9919820
+pdf_local: ''
 volume: '23'
 pages: ''
 modele: dosimetrie_modelisation

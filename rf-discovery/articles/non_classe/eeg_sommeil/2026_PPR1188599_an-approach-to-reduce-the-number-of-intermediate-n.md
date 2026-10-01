@@ -8,13 +8,14 @@ titre: An Approach to Reduce the Number of Intermediate Nodes in a Free Space Wi
 url: https://doi.org/10.21203/rs.3.rs-7575931/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Preprint
 mots_cles: []
 auteurs: []
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: ''
 modele: non_classe

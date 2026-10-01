@@ -8,7 +8,7 @@ titre: Personal Exposure to Radio Frequency Electromagnetic Fields among Austral
 url: https://pubmed.ncbi.nlm.nih.gov/30321997/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Aged
@@ -40,6 +40,7 @@ auteurs:
 - Wiedemann P
 - Benke G
 pmcid: PMC6211035
+pdf_local: ''
 volume: '15'
 pages: ''
 modele: epidemiologie

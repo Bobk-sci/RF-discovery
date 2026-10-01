@@ -7,7 +7,7 @@ titre: Microwave propagation on acupuncture channels.
 url: https://pubmed.ncbi.nlm.nih.gov/17063827/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Acupuncture Points
 - Acupuncture Therapy
@@ -39,6 +39,7 @@ auteurs:
 - Lee SM
 - Yoon G
 pmcid: ''
+pdf_local: ''
 volume: '31'
 pages: 1-12
 modele: non_classe

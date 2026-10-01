@@ -8,7 +8,7 @@ titre: Electromagnetic exposure levels of electric vehicle drive motors to cochl
 url: https://pubmed.ncbi.nlm.nih.gov/40367213/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cochlear Implants
@@ -25,6 +25,7 @@ auteurs:
 - Qian YD
 - Lu M
 pmcid: PMC12077798
+pdf_local: ''
 volume: ''
 pages: e0322735
 modele: dosimetrie_modelisation

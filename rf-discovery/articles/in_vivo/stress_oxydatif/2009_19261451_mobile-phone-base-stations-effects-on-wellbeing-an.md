@@ -8,7 +8,7 @@ titre: Mobile phone base stations-Effects on wellbeing and health.
 url: https://pubmed.ncbi.nlm.nih.gov/19261451/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -17,6 +17,7 @@ auteurs:
 - Kundi M
 - Hutter HP
 pmcid: ''
+pdf_local: ''
 volume: '16'
 pages: 123-35
 modele: in_vivo

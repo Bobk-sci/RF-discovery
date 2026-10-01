@@ -7,7 +7,7 @@ titre: Digital Support for Persons with Cognitive Impairment.
 url: https://pubmed.ncbi.nlm.nih.gov/28873768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Activities of Daily Living
 - Cell Phone
@@ -32,6 +32,7 @@ auteurs:
 - Danielsson H
 - Hemmingsson H
 pmcid: ''
+pdf_local: ''
 volume: '242'
 pages: 5-8
 modele: epidemiologie

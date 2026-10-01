@@ -8,7 +8,7 @@ titre: Effect of cell phone-like electromagnetic radiation on primary human thyr
 url: https://pubmed.ncbi.nlm.nih.gov/26689947/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Absorption, Radiation
 - Adult
@@ -44,6 +44,7 @@ auteurs:
 - Hauptman Y
 - Feinmesser R
 pmcid: ''
+pdf_local: ''
 volume: '92'
 pages: 107-15
 modele: in_vitro

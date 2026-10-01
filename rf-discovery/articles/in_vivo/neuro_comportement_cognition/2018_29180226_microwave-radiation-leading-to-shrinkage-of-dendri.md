@@ -8,7 +8,7 @@ titre: Microwave radiation leading to shrinkage of dendritic spines in hippocamp
 url: https://pubmed.ncbi.nlm.nih.gov/29180226/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Dendritic Spines
@@ -53,6 +53,7 @@ auteurs:
 - Wang LF
 - Hu XJ
 pmcid: ''
+pdf_local: ''
 volume: '1679'
 pages: 134-143
 modele: in_vivo
@@ -64,12 +65,13 @@ modele_indices:
 - Wistar
 - hippocampus
 theme: neuro_comportement_cognition
-theme_score: 5.0
+theme_score: 6.0
 theme_secondaires: []
 theme_indices:
 - cognitive
 - memory
-- learning
+- learning and memory
+- spatial learning
 tags:
 - rf
 - modele/in_vivo

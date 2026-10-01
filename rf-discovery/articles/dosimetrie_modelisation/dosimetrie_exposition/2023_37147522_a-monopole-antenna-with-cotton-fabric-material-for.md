@@ -7,7 +7,7 @@ titre: A monopole antenna with cotton fabric material for wearable applications.
 url: https://pubmed.ncbi.nlm.nih.gov/37147522/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -18,6 +18,7 @@ auteurs:
 - Hassan WM
 - Ibrahim AA
 pmcid: PMC10163037
+pdf_local: ''
 volume: ''
 pages: '7315'
 modele: dosimetrie_modelisation

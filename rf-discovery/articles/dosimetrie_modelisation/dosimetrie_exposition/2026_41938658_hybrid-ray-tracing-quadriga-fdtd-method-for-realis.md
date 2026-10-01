@@ -38,8 +38,7 @@ modele_indices:
 - ICNIRP
 theme: dosimetrie_exposition
 theme_score: 2.0
-theme_secondaires:
-- neuro_comportement_cognition
+theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
@@ -48,7 +47,6 @@ tags:
 - modele/dosimetrie_modelisation
 - modele/revue
 - theme/dosimetrie_exposition
-- theme/neuro_comportement_cognition
 - annee/2026
 ---
 

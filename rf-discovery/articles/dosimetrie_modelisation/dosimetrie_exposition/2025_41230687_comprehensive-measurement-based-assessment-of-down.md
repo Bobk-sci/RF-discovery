@@ -8,7 +8,7 @@ titre: 'Comprehensive Measurement-Based Assessment of Downlink RF-EMF Exposure i
 url: https://pubmed.ncbi.nlm.nih.gov/41230687/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Radio Waves
 - Cities
@@ -37,6 +37,7 @@ auteurs:
 - Ourak L
 - Wiart J
 pmcid: PMC12613141
+pdf_local: ''
 volume: '46'
 pages: e70033
 modele: dosimetrie_modelisation

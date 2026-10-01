@@ -8,7 +8,7 @@ titre: Does evening exposure to mobile phone radiation affect subsequent melaton
 url: https://pubmed.ncbi.nlm.nih.gov/16546905/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -35,6 +35,7 @@ auteurs:
 - Loughran SP
 - Stough C
 pmcid: ''
+pdf_local: ''
 volume: '82'
 pages: 69-76
 modele: humain_experimental

@@ -8,7 +8,7 @@ titre: A low-cost, portable device for the study of the malaria parasite's growt
 url: https://pubmed.ncbi.nlm.nih.gov/38988372/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - research-article
@@ -27,6 +27,7 @@ auteurs:
 - Spadafora C
 - Von Chong A
 pmcid: PMC11234006
+pdf_local: ''
 volume: ''
 pages: e00540
 modele: ingenierie_materiel

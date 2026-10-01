@@ -7,7 +7,7 @@ titre: 'Microwave cataract and litigation: a case study.'
 url: https://pubmed.ncbi.nlm.nih.gov/2529231/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Animals
 - Australia
@@ -27,6 +27,7 @@ mots_cles: []
 auteurs:
 - Joyner KH
 pmcid: ''
+pdf_local: ''
 volume: '57'
 pages: 545-9
 modele: in_vivo

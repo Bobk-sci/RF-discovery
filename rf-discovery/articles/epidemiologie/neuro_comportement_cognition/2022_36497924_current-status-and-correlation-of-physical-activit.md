@@ -8,7 +8,7 @@ titre: Current Status and Correlation of Physical Activity and Tendency to Probl
 url: https://pubmed.ncbi.nlm.nih.gov/36497924/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Cell Phone Use
@@ -41,6 +41,7 @@ auteurs:
 - Sun H
 - Xu ZZ
 pmcid: PMC9741295
+pdf_local: ''
 volume: '19'
 pages: ''
 modele: epidemiologie

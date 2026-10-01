@@ -7,7 +7,7 @@ titre: Long-term mobile phone use and brain tumor risk.
 url: https://pubmed.ncbi.nlm.nih.gov/15746469/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Age Distribution
@@ -36,6 +36,7 @@ auteurs:
 - Feychting M
 - Swedish Interphone Study Group
 pmcid: ''
+pdf_local: ''
 volume: '161'
 pages: 526-35
 modele: epidemiologie

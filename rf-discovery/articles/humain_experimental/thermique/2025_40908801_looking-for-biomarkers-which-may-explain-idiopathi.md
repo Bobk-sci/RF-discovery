@@ -9,7 +9,7 @@ titre: 'Looking for Biomarkers Which May Explain Idiopathic Environmental Intole
 url: https://pubmed.ncbi.nlm.nih.gov/40908801/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Hydrocortisone
@@ -38,6 +38,7 @@ auteurs:
 - Loughran SP
 - Croft RJ
 pmcid: PMC12411804
+pdf_local: ''
 volume: '46'
 pages: e70021
 modele: humain_experimental

@@ -8,7 +8,7 @@ titre: Effect of electromagnetic radiations from mobile phone base stations on g
 url: https://pubmed.ncbi.nlm.nih.gov/27011934/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -26,6 +26,7 @@ auteurs:
 - Pareek S
 - Vishnani P
 pmcid: PMC4784065
+pdf_local: ''
 volume: '6'
 pages: 54-9
 modele: epidemiologie

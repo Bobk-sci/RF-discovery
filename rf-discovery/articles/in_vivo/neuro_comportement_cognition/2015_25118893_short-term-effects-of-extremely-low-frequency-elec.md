@@ -52,14 +52,13 @@ modele_indices:
 - hippocampus
 - Morris water maze
 theme: neuro_comportement_cognition
-theme_score: 7.0
+theme_score: 5.0
 theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - cognition
 - cognitive
 - memory
-- learning
 tags:
 - rf
 - modele/in_vivo

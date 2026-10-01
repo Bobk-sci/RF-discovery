@@ -8,7 +8,7 @@ titre: 'Adverse Effects of Wi-Fi Radiation on Male Reproductive System: A System
 url: https://pubmed.ncbi.nlm.nih.gov/31353326/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Genitalia, Male
 - Animals
@@ -31,6 +31,7 @@ auteurs:
 - Chin KY
 - Ibrahim SF
 pmcid: ''
+pdf_local: ''
 volume: ''
 pages: 169-179
 modele: revue

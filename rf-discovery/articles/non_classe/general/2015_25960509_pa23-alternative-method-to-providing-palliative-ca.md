@@ -8,7 +8,7 @@ titre: PA23 Alternative method to providing palliative care where there are ca
 url: https://pubmed.ncbi.nlm.nih.gov/25960509/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh: []
 types:
 - Journal Article
@@ -18,6 +18,7 @@ auteurs:
 - Sarkar SK
 - Khanra LK
 pmcid: ''
+pdf_local: ''
 volume: 5 Suppl 1
 pages: A26
 modele: non_classe

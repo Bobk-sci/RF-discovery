@@ -7,7 +7,7 @@ titre: Are thyroid dysfunctions related to stress or microwave exposure (900 MHz
 url: https://pubmed.ncbi.nlm.nih.gov/15345189/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Cell Phone
@@ -30,6 +30,7 @@ auteurs:
 - Coppeta L
 - Somma G
 pmcid: ''
+pdf_local: ''
 volume: '17'
 pages: 31-6
 modele: epidemiologie

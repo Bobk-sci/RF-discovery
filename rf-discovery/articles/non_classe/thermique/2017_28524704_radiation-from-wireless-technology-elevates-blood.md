@@ -8,7 +8,7 @@ titre: Radiation from wireless technology elevates blood glucose and body temper
 url: https://pubmed.ncbi.nlm.nih.gov/28524704/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adult
 - Blood Glucose
@@ -33,6 +33,7 @@ mots_cles:
 auteurs:
 - Kleiber CE
 pmcid: ''
+pdf_local: ''
 volume: '36'
 pages: 259-264
 modele: non_classe

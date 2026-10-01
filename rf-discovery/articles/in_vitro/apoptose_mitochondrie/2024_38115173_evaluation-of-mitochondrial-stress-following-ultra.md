@@ -8,7 +8,7 @@ titre: Evaluation of mitochondrial stress following ultraviolet radiation and 5G
 url: https://pubmed.ncbi.nlm.nih.gov/38115173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Reactive Oxygen Species
@@ -39,6 +39,7 @@ auteurs:
 - Percherancier Y
 - Lagroye I
 pmcid: ''
+pdf_local: ''
 volume: '45'
 pages: 110-129
 modele: in_vitro

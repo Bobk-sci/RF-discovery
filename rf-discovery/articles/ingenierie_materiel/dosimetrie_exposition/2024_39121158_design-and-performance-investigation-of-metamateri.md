@@ -8,7 +8,7 @@ titre: Design and performance investigation of metamaterial-inspired dual band a
 url: https://pubmed.ncbi.nlm.nih.gov/39121158/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Humans
 - Equipment Design
@@ -27,6 +27,7 @@ auteurs:
 - Kamal B
 - Matekovits L
 pmcid: PMC11315293
+pdf_local: ''
 volume: ''
 pages: e0306737
 modele: ingenierie_materiel

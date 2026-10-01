@@ -8,7 +8,7 @@ titre: Liver tissues oxidative status, epigenetic and molecular characteristics 
 url: https://pubmed.ncbi.nlm.nih.gov/36928800/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Antioxidants
 - Epigenesis, Genetic
@@ -33,6 +33,7 @@ auteurs:
 - Alyamani NM
 - Zedan AMG
 pmcid: PMC10020533
+pdf_local: ''
 volume: '13'
 pages: '4406'
 modele: in_vivo

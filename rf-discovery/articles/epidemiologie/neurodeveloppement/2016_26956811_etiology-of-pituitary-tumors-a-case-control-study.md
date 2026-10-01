@@ -7,7 +7,7 @@ titre: 'Etiology of Pituitary Tumors: A Case Control Study.'
 url: https://pubmed.ncbi.nlm.nih.gov/26956811/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-09-21'
+collecte: '2026-10-01'
 mesh:
 - Adolescent
 - Adult
@@ -34,6 +34,7 @@ auteurs:
 - Leng L
 - Zhang Y
 pmcid: ''
+pdf_local: ''
 volume: '26'
 pages: 195-9
 modele: epidemiologie
