@@ -25,7 +25,7 @@ on:
         description: "Plafond d'articles par source"
         default: '1000'
       sources:
-        description: 'Sources interrogées (europepmc,pubmed,emfportal)'
+        description: 'Sources interrogées (europepmc,pubmed,openalex,emfportal)'
         default: 'europepmc,pubmed'
       tout:
         description: 'Tout re-collecter en ignorant la mémoire de déduplication'
@@ -71,18 +71,29 @@ jobs:
           # relève seulement le quota. Tout passe par les secrets, jamais par le YAML.
           CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-        # `[tout]` dans le message de commit force une re-collecte complète : utile quand
-        # les fiches doivent être réécrites (nouveau champ, par exemple les auteurs).
-        # Un push ne peut pas passer d'`inputs`, d'où ce signal dans le commit.
+          # Le message de commit passe par l'environnement, jamais par interpolation
+          # directe dans le shell : il contient du texte libre.
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+          IN_TOUT: ${{ inputs.tout }}
+          IN_SOURCES: ${{ inputs.sources }}
+          IN_MAX: ${{ inputs.max_results }}
+        # Un push ne peut pas passer d'`inputs` : deux signaux se lisent donc dans le
+        # message de commit. `[tout]` force une re-collecte complète (utile quand les
+        # fiches doivent être réécrites, par exemple pour un nouveau champ) et
+        # `[openalex]` ajoute le filet OpenAlex à la collecte de ce run.
         run: |
           TOUT=""
-          if [ "${{ inputs.tout }}" = "true" ] || \
-             printf '%s' "${{ github.event.head_commit.message }}" | grep -q '\[tout\]'; then
+          if [ "$IN_TOUT" = "true" ] || printf '%s' "$COMMIT_MSG" | grep -q '\[tout\]'; then
             TOUT="--tout"
           fi
+          SOURCES="${IN_SOURCES:-europepmc,pubmed}"
+          if printf '%s' "$COMMIT_MSG" | grep -q '\[openalex\]'; then
+            case "$SOURCES" in *openalex*) ;; *) SOURCES="$SOURCES,openalex" ;; esac
+          fi
+          echo "Sources : $SOURCES"
           python -m collect_library \
-            --sources "${{ inputs.sources || 'europepmc,pubmed' }}" \
-            --max-results "${{ inputs.max_results || '1000' }}" \
+            --sources "$SOURCES" \
+            --max-results "${IN_MAX:-1000}" \
             $TOUT | tee library.json
 
       - name: Complete missing metadata
