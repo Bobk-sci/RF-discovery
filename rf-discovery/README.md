@@ -5,6 +5,7 @@ Collecte d'articles scientifiques sur les **champs électromagnétiques radiofr�
 
 ```bash
 python -m collect_library --max-results 400                  # Europe PMC + PubMed
+python -m collect_library --sources europepmc,pubmed,openalex   # filet élargi
 python -m collect_library --sources europepmc,pubmed,emfportal
 python -m collect_library --emfportal-file page.html         # page EMF-Portal enregistrée
 python -m collect_library --import-json export.json --import-source pubmed
@@ -58,14 +59,25 @@ génotoxicité, apoptose, calcium, cancer, reproduction, thermique, dosimétrie)
 
 | Source | Accès | Remarque |
 |---|---|---|
-| Europe PMC | REST, pagination `cursorMark` | couvre aussi les prépublications |
+| Europe PMC | REST, pagination `cursorMark` | couvre aussi les prépublications (bioRxiv, medRxiv) |
 | PubMed | E-utilities NCBI (`esearch` + `efetch`) | apporte MeSH et types de publication |
+| OpenAlex | REST, pagination `cursor`, sans clé | ~250 M de notices : attrape les revues hors PubMed |
 | EMF-Portal | pages publiques | pas d'API : on n'extrait que les identifiants |
 
-EMF-Portal n'ayant pas d'API, l'outil ne lit de ses pages que les identifiants stables
-(PMID/DOI) et va chercher les métadonnées auprès de PubMed/Europe PMC, qui font foi. Si le
-portail change ou devient injoignable, l'étape rend **zéro** article plutôt qu'une notice
-approximative. Le gabarit d'URL de recherche est paramétrable (`--emfportal-url`).
+**Sources-pont : identifiants seulement.** EMF-Portal n'a pas d'API ; OpenAlex ne publie
+pas son résumé en clair mais sous forme d'**index inversé** (mot → positions), pour des
+raisons de droits. Le reconstruire donnerait un texte dont la ponctuation n'est plus celle
+de l'original — donc plus un résumé recopié mot pour mot. De ces deux sources, l'outil ne
+retient donc que les identifiants stables (PMID/DOI) et va chercher titre, résumé et
+descripteurs auprès de PubMed/Europe PMC, qui font foi (`collect/resolve.py`). Si l'une
+d'elles change ou devient injoignable, l'étape rend **zéro** article plutôt qu'une notice
+approximative. Le gabarit d'URL EMF-Portal est paramétrable (`--emfportal-url`).
+
+OpenAlex n'est pas dans les sources par défaut : il élargit le filet vers l'ingénierie, la
+dosimétrie et les revues nationales, au prix d'un temps de collecte plus long (une requête
+par terme d'exposition). On l'active au besoin :
+`--sources europepmc,pubmed,openalex`. Le courriel passé par `--email` sert de paramètre de
+courtoisie (« polite pool ») ; sans lui, rien n'est transmis.
 
 ## Importer dans EndNote ou Zotero, et récupérer les PDF
 

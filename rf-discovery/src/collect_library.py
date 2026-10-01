@@ -28,7 +28,7 @@ import logging
 import os
 from pathlib import Path
 
-from collect import emfportal, pubmed
+from collect import emfportal, openalex, pubmed
 from collect.europepmc import Paper
 from collect.europepmc import search as epmc_search
 from library.classify import (
@@ -75,6 +75,17 @@ def collect(tax: Taxonomy, sources: list[str], max_results: int, *,
                               max_results=max_results, domain="rf",
                               api_key=api_key, email=email)
         log.info("PubMed : %d notices", len(found))
+        papers += found
+    if "openalex" in sources:
+        # Filet élargi : OpenAlex indexe des revues hors PubMed/Europe PMC. On n'en
+        # retient que PMID/DOI — les métadonnées viennent de PubMed/Europe PMC (§resolve).
+        found = openalex.resolve(tax.rf_terms, annee_min=tax.annee_min,
+                                 api_key=api_key, email=email, mailto=email,
+                                 max_results=max_results,
+                                 search_epmc=lambda q, max_results=40: epmc_search(
+                                     q, max_results=max_results,
+                                     cache_dir="data/cache/library"))
+        log.info("OpenAlex : %d notices résolues", len(found))
         papers += found
     if "emfportal" in sources:
         texts = emfportal.read_files(emfportal_files) if emfportal_files else \
@@ -198,7 +209,7 @@ def main() -> None:
     ap.add_argument("--out", default=str(ROOT / "articles"))
     ap.add_argument("--seen", default=str(ROOT / "data" / "seen_library.json"))
     ap.add_argument("--sources", default="europepmc,pubmed",
-                    help="europepmc,pubmed,emfportal (séparées par des virgules)")
+                    help="europepmc,pubmed,openalex,emfportal (séparées par des virgules)")
     ap.add_argument("--max-results", type=int, default=300, help="plafond par source")
     ap.add_argument("--emfportal-url", default=emfportal.DEFAULT_URL,
                     help="gabarit d'URL de recherche EMF-Portal ({query} = les termes)")

@@ -5,9 +5,10 @@ règle « aucune référence inventée » : ce qui manque à la source reste vid
 """
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
-from collect import emfportal, pubmed
+from collect import emfportal, openalex, pubmed
 from collect.europepmc import Paper
 from collect_library import collect, file_papers, reclasser
 from library.classify import (
@@ -210,6 +211,60 @@ def test_emfportal_indisponible_ne_fabrique_rien():
 
     assert emfportal.fetch_pages("rf", fetcher_text=boom) == []
     assert emfportal.resolve([], fetcher_text=boom) == []
+
+
+def _openalex_fixture():
+    return json.loads((FIX / "openalex_works.json").read_text(encoding="utf-8"))
+
+
+def test_openalex_ne_retient_que_les_identifiants_stables():
+    pmids, dois = openalex.search_ids(["5G"], fetcher=lambda u, p: _openalex_fixture())
+    assert pmids == ["31234567"]
+    # Le DOI n'est retenu que faute de PMID, et il est normalisé en minuscules.
+    assert dois == ["10.1000/only-a-doi.2021"]
+
+
+def test_openalex_passe_les_parametres_attendus():
+    vus: list[dict] = []
+
+    def fetcher(url, params):
+        vus.append({"url": url, **params})
+        return _openalex_fixture()
+
+    openalex.search_ids(["Wi-Fi"], annee_min=1970, mailto="moi@exemple.fr",
+                        fetcher=fetcher)
+    assert vus[0]["url"].endswith("/works")
+    assert "title_and_abstract.search:Wi-Fi" in vus[0]["filter"]
+    assert "from_publication_date:1970-01-01" in vus[0]["filter"]
+    assert vus[0]["mailto"] == "moi@exemple.fr"
+
+
+def test_openalex_sans_courriel_ne_transmet_rien():
+    vus: list[dict] = []
+    openalex.search_ids(["GSM"], fetcher=lambda u, p: vus.append(p) or _openalex_fixture())
+    assert "mailto" not in vus[0]
+
+
+def test_openalex_resout_via_pubmed_et_epmc():
+    xml = (FIX / "pubmed_efetch.xml").read_text(encoding="utf-8")
+    epmc = [Paper(pmid="", doi="10.1000/only-a-doi.2021", title="Study indexed by DOI only",
+                  abstract="", year=2021, journal="Fixture", source="europepmc")]
+    papers = openalex.resolve(
+        ["5G"], fetcher=lambda u, p: _openalex_fixture(),
+        fetcher_text=lambda u, p: xml,
+        search_epmc=lambda q, max_results=40: epmc if "only-a-doi" in q else [])
+    # Le titre vient de PubMed, jamais d'OpenAlex : aucun résumé n'est reconstruit.
+    assert all(p.source in {"pubmed", "europepmc"} for p in papers)
+    assert all(p.extra.get("via") == "openalex" for p in papers)
+    assert any(p.doi == "10.1000/only-a-doi.2021" for p in papers)
+
+
+def test_openalex_indisponible_ne_fabrique_rien():
+    def boom(url, params):
+        raise RuntimeError("OpenAlex injoignable")
+
+    assert openalex.search_ids(["5G"], fetcher=boom) == ([], [])
+    assert openalex.resolve(["5G"], fetcher=boom, fetcher_text=boom) == []
 
 
 def test_requete_contient_les_termes_rf_et_les_filtres():

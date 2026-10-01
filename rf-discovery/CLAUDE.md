@@ -20,8 +20,15 @@ arborescence lisible : `articles/<modèle d'étude>/<thème>/<année>_<pmid>_<ti
   notice dont le plan d'étude n'est pas explicite va en catégorie par défaut.
 
 ## Modules (`src/`)
-`collect/` (europepmc, pubmed, emfportal, cache) · `normalize/dedupe.py` ·
-`library/` (classify, organize, importer) · `collect_library.py` (CLI).
+`collect/` (europepmc, pubmed, openalex, emfportal, resolve, cache) ·
+`normalize/dedupe.py` · `library/` (classify, organize, importer) ·
+`collect_library.py` (CLI).
+
+**Sources-pont.** EMF-Portal et OpenAlex ne fournissent pas de métadonnées recopiables
+telles quelles (l'un n'a pas d'API, l'autre ne publie son résumé que sous forme d'index
+inversé). On n'en retient que PMID et DOI, et `collect/resolve.py` va chercher la notice
+auprès de PubMed / Europe PMC, qui font foi. Une source-pont injoignable rend **zéro**
+article, jamais une notice reconstruite.
 
 ## Contraintes techniques
 Python 3.11+, fonctions ≤ 50 lignes, docstrings en français, couche réseau injectable

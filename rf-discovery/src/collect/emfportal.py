@@ -22,9 +22,9 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import quote_plus
 
-from collect import pubmed
 from collect.cache import get_text
 from collect.europepmc import Paper
+from collect.resolve import by_ids
 
 # Gabarit par défaut ; à confirmer/remplacer par l'URL réelle vue dans le navigateur.
 DEFAULT_URL = "https://www.emf-portal.org/en/article/search?query={query}"
@@ -73,15 +73,6 @@ def read_files(paths: Iterable[str | Path]) -> list[str]:
             if Path(p).exists()]
 
 
-def _by_doi(dois: list[str], search_epmc, batch: int = 40) -> list[Paper]:
-    papers: list[Paper] = []
-    for start in range(0, len(dois), batch):
-        chunk = dois[start:start + batch]
-        query = " OR ".join(f'DOI:"{d}"' for d in chunk)
-        papers.extend(search_epmc(query, max_results=len(chunk)))
-    return papers
-
-
 def resolve(texts: Iterable[str], *, domain: str = "emfportal", api_key: str = "",
             email: str = "", max_results: int = 500,
             fetcher_text: Callable[[str, dict[str, Any]], str] | None = None,
@@ -94,13 +85,6 @@ def resolve(texts: Iterable[str], *, domain: str = "emfportal", api_key: str = "
         page_pmids, page_dois = extract_ids(text)
         pmids += [p for p in page_pmids if p not in pmids]
         dois += [d for d in page_dois if d not in dois]
-    papers = pubmed.fetch_records(pmids[:max_results], api_key=api_key, email=email,
-                                  domain=domain, fetcher_text=fetcher_text,
-                                  cache_dir=cache_dir)
-    known = {p.doi.lower() for p in papers if p.doi}
-    if search_epmc is not None:
-        rest = [d for d in dois if d not in known][:max_results]
-        papers += _by_doi(rest, search_epmc)
-    for paper in papers:
-        paper.extra.setdefault("via", "emf-portal")
-    return papers
+    return by_ids(pmids, dois, via="emf-portal", domain=domain, api_key=api_key,
+                  email=email, max_results=max_results, fetcher_text=fetcher_text,
+                  search_epmc=search_epmc, cache_dir=cache_dir)

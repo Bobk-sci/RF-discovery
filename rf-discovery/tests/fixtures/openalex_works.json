@@ -1,0 +1,31 @@
+{
+  "meta": {"count": 3, "next_cursor": null},
+  "results": [
+    {
+      "id": "https://openalex.org/W1",
+      "title": "Radiofrequency exposure and hippocampal neurogenesis",
+      "publication_year": 2023,
+      "ids": {
+        "openalex": "https://openalex.org/W1",
+        "doi": "https://doi.org/10.1000/Already.Known.2023",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/31234567"
+      },
+      "abstract_inverted_index": {"Exposure": [0], "to": [1], "radiofrequency": [2]}
+    },
+    {
+      "id": "https://openalex.org/W2",
+      "title": "SAR modelling in a journal PubMed does not index",
+      "publication_year": 2022,
+      "ids": {
+        "openalex": "https://openalex.org/W2",
+        "doi": "https://doi.org/10.1000/ONLY-A-DOI.2021"
+      }
+    },
+    {
+      "id": "https://openalex.org/W3",
+      "title": "Notice sans aucun identifiant stable",
+      "publication_year": 2020,
+      "ids": {"openalex": "https://openalex.org/W3"}
+    }
+  ]
+}
