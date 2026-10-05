@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-201 articles.
+202 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -120,7 +120,7 @@
 - `2020` [[2020_32104921_design-and-dosimetric-analysis-of-an-exposure-faci]] — Schmid G et al.
 - `2012` [[2012_22268596_is-there-any-exposure-from-a-mobile-phone-in-stand]] — Mild KH et al.
 
-## general (38)
+## general (39)
 
 - `2026` [[2026_41725151_comparison-of-low-iodine-concentration-quantificat]] — Sirituenlee C et al.
 - `2026` [[2026_41812336_evaluation-of-proton-range-differences-in-photon-c]] — Lustermans D et al.
@@ -137,6 +137,7 @@
 - `2026` [[2026_42640536_comparison-of-breast-level-surface-dose-between-si]] — Yamada M et al.
 - `2026` [[2026_42685782_assessment-of-elemental-decomposition-algorithms-f]] — Li Y et al.
 - `2026` [[2026_42753715_low-frequency-magnetic-flux-density-levels-in-vari]] — Dobruna J et al.
+- `2026` [[2026_42817330_demonstration-of-a-2-18-ghz-multispectral-sar]] — Sletten MA et al.
 - `2026` [[2026_PPR1284137_photon-counting-computed-tomography-for-phantom-le]] — Boyd SK et al.
 - `2025` [[2025_39643257_exploring-rf-emf-levels-in-swiss-microenvironments]] — Veludo AF et al.
 - `2025` [[2025_39812400_the-development-of-a-reverberation-chamber-for-the]] — Iskra S et al.

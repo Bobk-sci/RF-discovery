@@ -3145,6 +3145,28 @@ KW  - theme:general
 ER  - 
 
 TY  - JOUR
+AU  - Sletten MA
+AU  - Toporkov JV
+AU  - Menk SP
+AU  - Wang Y
+TI  - Demonstration of a 2-18 GHz Multispectral SAR.
+PY  - 2026
+SP  - 5737
+AB  - This paper describes a polarimetric, frequency-modulated continuous wave (FMCW) synthetic aperture radar (SAR) with an ultrawide bandwidth that spans 2-18 GHz. It is being developed as an airborne sensor called SKuSAR. The intent is to generate a set of sub-band images, thereby creating a multispectral SAR. This opens the prospect for new remote sensing algorithms that exploit variations in the scene's polarization/frequency response occurring over the system's three octaves of bandwidth. We describe the SKuSAR hardware and the processing steps applied to the FMCW data to create a multispectral SAR. The approach is practically demonstrated using data collected against calibration targets deployed in a field with the system mounted on a truck. This ground-based arrangement provided an inexpensive solution to test and fine-tune the system hardware and processing algorithms. A few complicating factors specific to the ground-based geometry were encountered, such as multipath signal contamination due to ground reflection and rather short data collections that affected attainable azimuth resolutions. Both these factors were identified and analyzed. The measured characteristics follow theoretical predictions rather well, giving confidence that the system meets its expected nominal performance once airborne, with the mentioned limiting factors absent or of reduced significance.
+DO  - 10.3390/s26185737
+UR  - https://pubmed.ncbi.nlm.nih.gov/42817330/
+AN  - 42817330
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+KW  - modele:ingenierie_materiel
+KW  - Synthetic Aperture Radar
+KW  - Spectral Signatures
+KW  - Ultra-wideband Radar
+KW  - Sub-band Processing
+KW  - Frequency-Modulated Continuous Wave Radar
+ER  - 
+
+TY  - JOUR
 AU  - Boyd SK
 AU  - Lackner NA
 AU  - Liphardt A
@@ -11462,6 +11484,26 @@ KW  - modele:in_vivo
 ER  - 
 
 TY  - JOUR
+AU  - Liang D
+AU  - Zhang H
+AU  - Peng K
+AU  - Ren H
+AU  - Zou Y
+AU  - Huang S
+AU  - Luo L
+AU  - Huang L
+AU  - Liang H
+TI  - Multiphase dual-energy CT parameters combined with CT features in differentiating three common lung cancers
+PY  - 2026
+AB  - <title>Abstract</title>  <p>  Objective  To evaluate the differential value of triphasic contrast-enhanced dual-energy CT (DECT) parameters combined with CT features for three common lung cancers: adenocarcinoma (AC), squamous cell carcinoma (SCC), and small cell lung cancer (SCLC). Methods and materials  A total of 151 pathologically confirmed lung cancer patients were prospectively enrolled. Dual-source CT triphasic (arterial, venous, delayed) enhanced scans were performed to obtain DECT quantitative parameters (40/80keV CT value, spectral curve slope λHU, iodine concentration (IC), normalized iodine concentration (NIC)). Sixteen CT features were analyzed by two observers in a double-blind manner. Intraclass correlation coefficients (ICC) were used to test inter-observer consistency. Univariate/multivariate Logistic regression screened independent predictors, and DECT, CT feature, and combined models were constructed. Diagnostic efficacy was evaluated via receiver operating characteristic (ROC) curves, area under the curve (AUC), and Delong test. Results  Among 151 patients (81 AC, 38 SCC, 32 SCLC; mean age 64.16 ± 10.25 years; 95 males, 56 females), 13 CT features and all triphasic DECT parameters showed significant differences (all  <italic>p</italic>   < 0.05). AC was predominantly peripheral (67.90%) with pleural retraction (79.01%). SCLC was mainly central (93.75%) with mediastinal lymph node fusion (87.50%). SCLC had lower parameters than AC and SCC; IC and NIC differences between AC and SCC were more prominent in venous/delayed phases. The combined model exhibited the best efficacy (  <italic>p</italic>   < 0.05 vs. single models): AUC 0.873 (AC vs. SCC), 0.980 (AC vs. SCLC), 0.937 (SCC vs. SCLC). Conclusion  DECT parameters combined with CT features significantly improve lung cancer differentiation accuracy.  </p>
+DO  - 10.21203/rs.3.rs-10793249/v1
+UR  - https://doi.org/10.21203/rs.3.rs-10793249/v1
+AN  - PPR1327894
+KW  - modele:humain_experimental
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
 AU  - TUR K
 AU  - VAROL S
 AU  - ERBAŞ T
@@ -11631,6 +11673,29 @@ KW  - Idiopathic Environmental Intolerances
 KW  - K-prototypes Clustering
 KW  - Lumping Vs. Splitting
 KW  - Symptoms Associated With Environmental Factors
+ER  - 
+
+TY  - JOUR
+AU  - Verrender A
+AU  - Dalecki A
+AU  - Loughran SP
+AU  - Duff A
+AU  - Shore JL
+AU  - Croft RJ
+TI  - Exposure to pulse modulated radiofrequency electromagnetic fields does not affect Sternberg working memory performance.
+PY  - 2026
+SP  - 1-8
+AB  - <h4>Purpose</h4>To replicate a previously reported finding that radiofrequency electromagnetic field (RF-EMF) exposure improves performance on the Sternberg working memory task, as indicated by decreased reaction time, and to test whether this effect, if verified, can also be induced by exposure to an infrared electromagnetic field (IR-EMF).<h4>Materials and methods</h4>Forty-eight healthy adults participated in a randomized, counterbalanced provocation study. Working memory performance was assessed using a modified Sternberg working memory task, which was calibrated to individual performance levels in a preliminary testing session. An sXh920 planar exposure system was used to generate a 920 MHz GSM-like signal, providing two double-blind conditions (peak-spatial SAR average over 10 g) of 0 W/kg (Sham) and 2 W/kg (RF-EMF). A standard, 'off the shelf' 250 W infrared globe provided an IR-EMF exposure with an equivalent heating profile over the skin as that due to the RF-EMF exposure (circa 0.3 °C).<h4>Results</h4>RF-EMF exposure did not reduce reaction time in the Sternberg working memory task. Exploratory tests also revealed there was no effect of IR-EMF on reaction time, and no other performance measures (response bias and response discrimination) were affected by either RF-EMF or IR-EMF exposure.<h4>Conclusions</h4>The current study found no evidence that acute exposure to RF-EMF decreases reaction time on a Sternberg working memory task. The failure to replicate our previously reported effect of RF-EMF exposure on reaction time indicates that our initial finding was not an effect of RF-EMF exposure and was likely due to chance.
+DO  - 10.1080/09553002.2026.2733658
+UR  - https://pubmed.ncbi.nlm.nih.gov/42771042/
+AN  - 42771042
+KW  - modele:humain_experimental
+KW  - theme:neuro_comportement_cognition
+KW  - modele:dosimetrie_modelisation
+KW  - theme:thermique
+KW  - Cognition
+KW  - Mobile Phones
+KW  - Rf-bioeffects
 ER  - 
 
 TY  - JOUR
@@ -18474,6 +18539,32 @@ KW  - Quantitative Bone Assessment
 ER  - 
 
 TY  - JOUR
+AU  - Nhili M
+AU  - Menassol JB
+AU  - Diop GL
+AU  - Diop M
+AU  - Ndoye A
+AU  - Ndiaye M
+AU  - Ba A
+AU  - Dione M
+AU  - Fall AG
+AU  - El Khattabi N
+AU  - Lo MM
+AU  - Abik M
+AU  - Apolloni A
+AU  - Diallo A
+TI  - How fast can PPRV spread? Analyzing the results of an experimental PPRV infection of goats equipped with Ultra-Wideband sensors.
+PY  - 2026
+SP  - e0358839
+AB  - Peste des Petits Ruminants (PPR) is a highly contagious disease affecting goats and sheep. The speed and extent of its spread depend on contact patterns and the virus's intrinsic characteristics. To estimate its propagation speed and the role of inter-individual contacts, we conducted PPR virus transmission experiments in goats that were equipped with Ultra-Wideband (UWB) sensors to continuously track inter-individual distances alongside clinical and virological monitoring. Using Bayesian modeling, we integrated contact data and health status to estimate the basic reproduction number (R0), the incubation period, and the virus transmissibility. The novel integration of distance tracking revealed that animal density in an area critically drives infection risk: the minimum exposure time that is required for a naïve animal to become infected dropped from nearly two days at low density to just four hours at high density. Overall, the derived R0 estimates were 4.3 (95% HDI: 3.1-4.8) for a 5-day infectious period and 8.6 (95% HDI: 6.2-9.6) for a 10-day infectious period. The incubation period was estimated to be around 14.7 days (95% CI 11.6-20.1). The exposure time varies greatly depending on the density, ranging from nearly two days at low density to around four hours at high density. These findings highlight high-density environments, such as conditions in livestock markets, as an important factor of PPRV transmission between animals and the disease spread. Considering the high frequency of animals' movement on long distances, the high incubation period, about 15 days, might be one of the factors explaining the spread of PPR along long distances from the source of infection. To efficiently control and eradicate PPR, sheep and goats' movement control must be one of the means to be applied. Our findings, based on a single lineage IV PPRV strain (Senegal 20-GP) evaluated under experimental conditions, suggest that the adequacy of the current 21-day quarantine period, as specified in the World Organization for Animal Health (WOAH) Terrestrial Code, deserves further evaluation and validation under field conditions.
+DO  - 10.1371/journal.pone.0358839
+UR  - https://pubmed.ncbi.nlm.nih.gov/42776981/
+AN  - 42776981
+KW  - modele:in_vivo
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
 AU  - Valerii Z
 AU  - Karl V
 AU  - Olexandr M
@@ -18503,6 +18594,27 @@ AN  - PPR1286608
 KW  - modele:in_vivo
 KW  - theme:general
 KW  - modele:dosimetrie_modelisation
+ER  - 
+
+TY  - JOUR
+AU  - Bruno E
+AU  - Creusen AD
+AU  - Perchiazzi G
+AU  - Pellegrini M
+AU  - Szum A
+AU  - Einarsson F
+AU  - Svennerholm K
+AU  - Lipcsey M
+AU  - Liss P
+AU  - Rylander C
+TI  - Regional Ventilation and Perfusion During Flow-Controlled Ventilation in Experimental Lung Injury: Assessment from Dual-Energy Computed Tomography
+PY  - 2026
+AB  - <title>Abstract</title>  <p>  Purpose  Flow-controlled ventilation (FCV) improves lung aeration and gas exchange but may raise intrathoracic pressure, potentially impeding pulmonary perfusion. This study explores radiographical image analysis to detect potential perturbations of regional ventilation-perfusion matching from application of FCV in experimental acute lung injury. Methods  We compared FCV adjusted to the 1) minute volume (FCV-MV) and 2) capnography values (FCV-CO  <sub>2</sub>  ) of volume-controlled ventilation (VCV) at 1:1 inspiratory to expiratory (I:E) ratio in lavage (n = 2) or oleic acid (n = 9) induced porcine lung injury. Transverse, juxtadiaphragmatic dual-energy computed tomography (DECT) images were acquired during uninterrupted mechanical ventilation. The ratio between ventilated gas volume (VGV) and perfused blood volume (PBV) was computed and used as surrogates to assess regional ventilation-perfusion matching. Results  Nine (n = 9) animals completed the protocol. Lung aeration increased during expiration in FCV, but the end-expiratory gas volume, mean airway pressure and gas exchange were similar to VCV 1:1. The VGV within the entire transverse section was 5.35 [4.62–8.15] mL in VCV 1:1, 5.45 [4.84–6.18] mL in FCV-MV and 5.78 [4.73–6.41] mL in FCV-CO  <sub>2</sub>  . The corresponding PBV was 13.62 [12.09–19.01], 14.25 [13.28–20.79] and 17.31 [13.76–19.44] mL. The VGV to PBV ratio was 0.43 [0.29–0.49] in VCV 1:1, 0.32 [0.26–0.40] in FCV-MV and 0.31 [0.28–0.39] in FCV-CO  <sub>2</sub>  . There were no differences between the modes in any of ten ventro-dorsal, horizontally orientated lung regions. Conclusion  Using surrogate volumes of gas and blood computed from DECT images, regional ventilation-perfusion matching in FCV was not different from VCV with 1:1 I:E ratio in experimental acute lung injury.  </p>
+DO  - 10.21203/rs.3.rs-10810728/v1
+UR  - https://doi.org/10.21203/rs.3.rs-10810728/v1
+AN  - PPR1330333
+KW  - modele:in_vivo
+KW  - theme:general
 ER  - 
 
 TY  - JOUR
@@ -21146,6 +21258,27 @@ KW  - Millimetre-wave Frequency
 ER  - 
 
 TY  - JOUR
+AU  - Yoo K
+AU  - Park S
+AU  - Yang J
+AU  - Kim M
+AU  - Lee S
+AU  - Kim G
+AU  - Chou N
+AU  - Shin H
+AU  - Park S
+TI  - Battery-free, fully wireless neurostimulation via radiative RF power transfer in freely behaving mice.
+PY  - 2026
+SP  - 332
+AB  - Wireless neurostimulators are essential for investigating causal relationships between neural circuit activity and behavior in freely behaving animals. However, most existing systems rely on onboard batteries, while near-field magnetic wireless power transfer (WPT) requires specialized environments such as large transmission coils. Radiative radio-frequency (RF) WPT enables longer transmission distances but has been considered unsuitable for freely moving conditions due to alignment sensitivity and output instability. Here, we present a battery-free, fully wireless transcranial direct current stimulation (tDCS) system based on radiative RF WPT that operates reliably in freely behaving mice. The system integrates a quasi-omnidirectional flexible printed circuit board-based monopole antenna with an RF-to-DC rectifier and a DC-DC converter, enabling robust power management despite continuous changes in position and orientation. Experiments in freely behaving mice showed that the neurostimulator maintained the regulated output voltage (~9.7 V) for the majority of the experimental period across a cage-scale environment, while transient voltage reductions occasionally occurred during abrupt posture and orientation changes. Furthermore, targeted tDCS of the M2 cortical region consistently induces circling behavior, demonstrating functional neurostimulation at the behavioral level. This work establishes the feasibility of radiative RF WPT-enabled fully wireless neurostimulation in freely behaving in vivo environments and demonstrates stable extended-duration electrical operation under continuous radiative RF powering conditions. The proposed platform provides a practical foundation for battery-free wireless neurostimulation without tethered connections or coil-embedded behavioral environments.
+DO  - 10.1038/s41378-026-01439-2
+UR  - https://pubmed.ncbi.nlm.nih.gov/42805979/
+AN  - 42805979
+KW  - modele:in_vivo
+KW  - theme:neuro_comportement_cognition
+ER  - 
+
+TY  - JOUR
 AU  - Smialowicz RJ
 AU  - Weil CM
 AU  - Kinn JB
@@ -22721,6 +22854,32 @@ KW  - Jammer Signals
 ER  - 
 
 TY  - JOUR
+AU  - Zhang C
+AU  - Deng W
+AU  - Yao B
+AU  - Dong J
+AU  - Wang H
+AU  - Xu X
+AU  - Peng R
+AU  - Zhang J
+TI  - Putative role of NF-κB-mediated inflammation in acute cardiac injury induced by S-band microwave radiation in rats.
+PY  - 2026
+SP  - 120830
+AB  - With the widespread adoption of wireless communication technology, the issue of environmental exposure to microwave radiation has become increasingly prominent. In the field of cardiovascular research, it has been observed that microwave radiation may have potential effects on target organs such as the heart. However, the dynamic evolution characteristics of this radiation over time and its relationship with inflammation still require further exploration. This study aimed to establish a rat model of uniform whole-body exposure to S-band microwaves. A range of methods were used, including detection of myocardial injury markers, pathological structure staining, ultrastructural analysis, blood pressure monitoring, electrocardiography, ultrasound, proteomics, immunofluorescence staining, and Western blotting. These approaches systematically revealed the dynamic changes in microwave radiation-induced cardiac injury, the dynamic progression from functional compensation to structural decompensation, and the temporal association between NF-κB pathway activation and inflammatory processes. The results showed the following time-dependent changes. At 1 d after radiation, there was a sudden increase in serum myocardial injury markers, mitochondrial cristae rupture, and compensatory enhancement of contractile function. At 3 d, we observed continuous activation of the NF-κB pathway, significant increases in TNF-α and IL-6, myocardial hypertrophy, and electrophysiological disorders. At 7 d, early collagen deposition, intercalated disc rupture, and diastolic decompensation were evident. In conclusion, this study suggests that NF-κB pathway activation is temporally associated with the inflammatory response in rats with microwave radiation-induced cardiac injury. These findings offer preliminary evidence that may inform the development of electromagnetic pollution protection strategies and early monitoring approaches. This work highlights a potential direction for reducing public health risks associated with environmental electromagnetic pollution.
+DO  - 10.1016/j.ecoenv.2026.120830
+UR  - https://pubmed.ncbi.nlm.nih.gov/42785117/
+AN  - 42785117
+KW  - modele:in_vivo
+KW  - theme:neuroinflammation
+KW  - theme:apoptose_mitochondrie
+KW  - Cardiovascular function
+KW  - NF-κB
+KW  - Microwave radiation
+KW  - Heart injury
+KW  - S-band
+ER  - 
+
+TY  - JOUR
 AU  - Mausset-Bonnefont AL
 AU  - Hirbec H
 AU  - Bonnefont X
@@ -23726,6 +23885,44 @@ KW  - Spermatogenesis
 KW  - Histology
 KW  - Electromagnetic fields
 KW  - Moringa Oleifera
+ER  - 
+
+TY  - JOUR
+AU  - Palone F
+AU  - Novelli F
+AU  - Pasquali E
+AU  - Leonardi S
+AU  - De Stefano I
+AU  - Fratini E
+AU  - Tanori M
+AU  - Piscitelli M
+AU  - Merla C
+AU  - Pinto R
+AU  - Ardoino L
+AU  - Zambotti A
+AU  - Camera F
+AU  - Pazzaglia S
+AU  - Capstick M
+AU  - Samaras T
+AU  - Mancuso M
+TI  - Strain-dependent effects of long-term exposure to 27.5 GHz 5 G millimeter waves on male reproductive outcomes in mice.
+PY  - 2026
+SP  - 109370
+AB  - <h4>Background</h4>The biological impact of prolonged exposure to 5 G millimeter-wave frequencies (FR2) on male reproductive health remains insufficiently characterized despite the global deployment of this technology in the near future. Here, we investigated the effects of chronic 27.5 GHz FR2 exposure on testicular function and sperm quality in three mouse strains with distinct genetic backgrounds (Car-S, CD1, and C57BL/6 J).<h4>Methods</h4>Adult males (8-weeks old at the onset of the study) were exposed for 100 days to low (6.67 W/m²) or high (20 W/m²) power density, or were SHAM-exposed. Reproductive parameters were assessed through testicular histopathology, serum testosterone measurement, and quantitative and qualitative sperm analyses.<h4>Results</h4>Continuous temperature monitoring and dosimetry confirmed that exposure remained strictly non-thermal throughout the experiments. The average ambient temperature recorded during the study was 22.8°C, while the mean whole-body specific absorption rate (SAR) was 0.26 W/kg and 0.77 W/kg under the LPD and HPD exposure conditions, respectively. Car-S mice showed significant reductions in sperm concentration and motility, increased tail abnormalities, and alterations in testicular architecture and testosterone levels, irrespective of prior carcinogen treatment administered for the evaluation of skin carcinogenesis. CD1 mice were largely resistant, displaying preserved sperm parameters with only minor morphological defects, whereas C57BL/6 J mice exhibited intermediate sensitivity, with reduced sperm viability and motility but normal concentration, morphology, and histology.<h4>Conclusions</h4>These findings demonstrate that genetic background strongly influences susceptibility to long-term 27.5 GHz FR2 exposure, highlighting the importance of integrating functional sperm endpoints and population heterogeneity in human health risk assessment.
+DO  - 10.1016/j.reprotox.2026.109370
+UR  - https://pubmed.ncbi.nlm.nih.gov/42810696/
+AN  - 42810696
+KW  - modele:in_vivo
+KW  - theme:reproduction
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+KW  - theme:cancer
+KW  - theme:thermique
+KW  - Genetic susceptibility
+KW  - Sperm quality
+KW  - Male Reproductive Toxicity
+KW  - Radiofrequency Electromagnetic Fields
+KW  - 5 G Millimeter-wave Exposure
 ER  - 
 
 TY  - JOUR
@@ -30960,6 +31157,52 @@ KW  - Tigernut Starch
 ER  - 
 
 TY  - JOUR
+AU  - Zhang Z
+AU  - Li J
+AU  - Yuan F
+AU  - Li D
+AU  - Xiong Q
+AU  - Wei W
+AU  - Cui X
+AU  - Chenhuang J
+AU  - Fen D
+AU  - Zhang J
+AU  - Han D
+TI  - Association of dual-energy CT-derived quantitative parameters with hydroxyproline levels and pulmonary function in nonspecific interstitial pneumonia.
+PY  - 2026
+SP  - 1862309
+AB  - <h4>Background</h4>This study evaluated the feasibility of dual-energy CT (DECT) for assessing the correlation between hydroxyproline (HYP) levels in lung tissue of patients with nonspecific interstitial pneumonia (NSIP) and lung volume and pulmonary function.<h4>Methods</h4>We retrospectively analyzed 99 NSIP patients (51 cellular, 48 fibrotic) and 40 controls. All underwent DECT imaging. Lung HYP‑equivalent density (HYP‑ED) and volume were quantified using spectral post-processing. Pulmonary function parameters, including FVC% Pred and DLCO% Pred, were collected. Intergroup differences, correlations, and diagnostic performance were assessed.<h4>Results</h4>Lung volume was higher in controls (3797.40 ± 1155.68 cc) than in cellular (2796.88 ± 334.03 cc) and fibrotic NSIP (2156.76 ± 423.40 cc; <i>P</i> < 0.001). HYP‑ED was lower in controls (206.29 ± 22.40 mg/cm<sup>3</sup>) than in cellular (264.31 ± 24.99 mg/cm<sup>3</sup>) and fibrotic NSIP (327.12 ± 36.26 mg/cm<sup>3</sup>; <i>P</i> < 0.001), and lower in cellular than fibrotic NSIP (<i>P</i> < 0.001). FVC% Pred and DLCO% Pred were higher in cellular NSIP (75.98 ± 4.07% and 69.96 ± 4.41%) than in fibrotic NSIP (71.44 ± 5.49% and 64.58 ± 3.38%; <i>P</i> < 0.05). HYP‑ED content showed significant negative correlations with lung volume and pulmonary function (all <i>P</i> < 0.01). HYP‑ED demonstrated excellent diagnostic performance for distinguishing NSIP subtypes (AUC 0.977), with 91.8% sensitivity and 92.9% specificity.<h4>Conclusions</h4>DECT enables noninvasive quantification of lung HYP-ED in NSIP. HYP‑ED correlates with disease severity and may serve as a promising imaging biomarker for fibrosis assessment and monitoring.
+DO  - 10.3389/fimmu.2026.1862309
+UR  - https://pubmed.ncbi.nlm.nih.gov/42769376/
+AN  - 42769376
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Hydroxyproline
+KW  - Pulmonary fibrosis
+KW  - pulmonary function
+KW  - Dual-energy Ct
+KW  - Nonspecific Interstitial Pneumonia
+ER  - 
+
+TY  - JOUR
+AU  - Lee HY
+AU  - Jeon JY
+TI  - Dual-energy CT virtual non-calcium imaging for differentiating pathologic from non-pathologic femoral fractures: a study of inexperienced non-radiologist readers.
+PY  - 2026
+AB  - <h4>Objective</h4>To assess the effect of dual-energy CT (DECT) virtual non-calcium (VNCa) imaging on the ability of inexperienced non-radiologist readers to differentiate pathologic from non-pathologic femoral fractures.<h4>Materials and methods</h4>In this retrospective diagnostic accuracy study, 45 eligible emergency department patients with femoral fractures who underwent DECT between January 2022 and September 2024 were included, comprising 20 patients with pathologic fractures and 25 with non-pathologic fractures. The reference standard for fracture classification was established using surgical records or histopathologic results. Two inexperienced non-radiologist readers independently evaluated conventional CT alone and conventional CT combined with color-coded DECT VNCa images in separate reading sessions. Sensitivity, specificity, accuracy, and area under the receiver operating characteristic curve (AUC) were compared between the two sessions. AUCs were compared using the paired DeLong test.<h4>Results</h4>The addition of DECT VNCa significantly improved sensitivity for detecting pathologic fractures in both readers. For Reader 1, sensitivity increased from 65 to 95% (p = 0.031), and accuracy increased from 77.8% to 95.6%. For Reader 2, sensitivity increased from 50 to 85% (p = 0.016), and accuracy increased from 68.9% to 91.1%. Specificity remained high without significant differences between sessions. AUC increased from 0.765 (95% CI, 0.617-0.913) to 0.955 (95% CI, 0.883-1.0) for Reader 1 and from 0.670 (95% CI, 0.506-0.834) to 0.905 (95% CI, 0.802-1.0) for Reader 2 (p = 0.0135 and < 0.01, respectively).<h4>Conclusion</h4>Adding color-coded DECT VNCa to conventional CT improves the diagnostic performance of inexperienced non-radiologist readers in detecting pathologic femoral fractures.
+DO  - 10.1007/s00256-026-05382-1
+UR  - https://pubmed.ncbi.nlm.nih.gov/42820978/
+AN  - 42820978
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Femur
+KW  - Bone Metastasis
+KW  - Pathologic Fracture
+KW  - Dual-energy Ct
+KW  - Virtual Non-calcium Imaging
+ER  - 
+
+TY  - JOUR
 AU  - Nascimento DM
 AU  - Santos PL
 AU  - Ribeiro-Junior MR
@@ -31039,6 +31282,25 @@ AB  - <h4>Objective</h4>  To identify common photon-counting CT (PCCT) virtual m
 DO  - 10.64898/2026.07.28.26359152
 UR  - https://doi.org/10.64898/2026.07.28.26359152
 AN  - PPR1288658
+KW  - modele:non_classe
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Diana F
+AU  - Franchini E
+AU  - Dall’Ora E
+AU  - Guensom GN
+AU  - Ferro F
+AU  - Gulli G
+AU  - Romoli M
+AU  - Comai A
+TI  - Distal Occlusion Tracker Sign in the 24 Hours Dual-Energy CT control after Thrombectomy: Significance and association with clinical outcome
+PY  - 2026
+AB  - <title>Abstract</title>  <p>Purpose  The distal occlusion tracker (DOT) sign in the immediate post thrombectomy flat-panel detector CT (FPDCT) has been identified as a marker of persistent hypoperfusion. However, its applicability and significance in Dual-Energy CT (DECT) imaging performed 24 hours post-treatment remains unclear. We systematically investigated the DOT sign in the DECT with the aim to assess its relations with thrombectomy procedure and patients’ clinical outcome. Methods  We retrospectively analyzed data from our institutional prospective registry of patients with acute ischemic stroke (AIS) treated with mechanical thrombectomy between January 2020 and January 2025. Inclusion criteria were: (I) patients with AIS due to large vessel occlusion (LVO), (II) availability of DECT imaging at 24 hours post-treatment, and (III) absence of missing data. We collected location and type of the sign, patients’ baseline characteristics, data regarding mechanical thrombectomy and clinical outcomes. Association of the DOT sign with technical and clinical outcomes were evaluated using logistic regression analysis. Results  Among the patients analyzed, 28.2% (n = 111) exhibited a DOT sign on DECT at 24 hours. The presence of the DOT sign was significantly associated with lower successful (TICI≥2b67) and optimal (TICI≥2c) reperfusion rates (42.2% vs 80%, and 22% vs 60% respectively; p < 0.001), worse clinical evolution (median 24h NIHSS 18 [16–21] vs 10 [9–13], p < 0.001). The DOT sign was independently associated with a poor functional outcome (aOR = 0.44, 95%CI = 0.21–0.92, p = 0.029). Conclusion  The DOT sign observed in DECT at 24 hours post-treatment seems to be associated with lower recanalization rate, worse clinical evolution and poor functional outcome.</p>
+DO  - 10.21203/rs.3.rs-10943721/v1
+UR  - https://doi.org/10.21203/rs.3.rs-10943721/v1
+AN  - PPR1325980
 KW  - modele:non_classe
 KW  - theme:general
 ER  - 
@@ -31857,6 +32119,30 @@ AN  - 42761882
 KW  - modele:non_classe
 KW  - theme:neuro_comportement_cognition
 KW  - theme:thermique
+ER  - 
+
+TY  - JOUR
+AU  - Zhao X
+AU  - Sun H
+AU  - Zhang K
+AU  - Sun J
+AU  - Lin Y
+AU  - Liu J
+TI  - Cow Behavior Recognition Method Based on Multi-Source Perceptual Information Fusion.
+PY  - 2026
+SP  - 856
+AB  - This study proposes a multi-source perceptual information fusion method to improve the accuracy and stability of dairy cow behavior monitoring. Existing machine vision approaches are often affected by lighting conditions, occlusion, and complex cowshed environments, while single wearable inertial measurement unit (IMU) devices may confuse similar behaviors such as eating, ruminating, standing, and lying. To address these limitations, a wireless collar was developed to synchronously collect nine-axis IMU data and ultra-wideband (UWB) ranging data in real time. Combined with manual behavioral observations, a dataset covering seven behaviors-eating, ruminating, standing, lying, drinking, sleeping, and lateral trunk contact-was constructed. By integrating neck-motion features extracted from the IMU data with spatial-distance features obtained from the UWB data, an IMU-UWB dual-branch fusion model was developed to automatically classify dairy cow behaviors. The results indicate that the proposed method can effectively reduce confusion among similar behaviors and improve the recognition of behaviors with limited samples. This approach enables more comprehensive assessment of dairy cows' daily activities and health status, providing technical support for health monitoring, early disease warning, and intelligent dairy farm management.
+DO  - 10.3390/vetsci13090856
+UR  - https://pubmed.ncbi.nlm.nih.gov/42797892/
+AN  - 42797892
+KW  - modele:non_classe
+KW  - theme:neuro_comportement_cognition
+KW  - Dairy cow
+KW  - Wearable Sensors
+KW  - Inertial Measurement Unit
+KW  - Deep Learning
+KW  - Behavior Classification
+KW  - Ultra-wideband Ranging
 ER  - 
 
 TY  - JOUR
@@ -35013,6 +35299,24 @@ KW  - Bioelectromagnetic
 ER  - 
 
 TY  - JOUR
+AU  - Adebayo D
+AU  - England A
+AU  - McEntee M
+AU  - Ryan DJ
+AU  - Maher M
+TI  - Correlation of the Diagnostic Accuracy of Dual Energy Computed Tomography and Positron Emission Tomography/Computed Tomography in Mediastinal Lymph Node Staging in Lung Cancer: A Systematic Review.
+PY  - 2026
+SP  - e115779
+AB  - This study aims to correlate the accuracy of derived parameters of dual-energy computed tomography (DECT) against the reference imaging modality of choice, positron-emission tomography/computed tomography (PET/CT), in the diagnosis and staging of mediastinal lymph nodes in lung cancer. An extensive database search was conducted to retrieve literature comparing the performance of DECT parameters against PET/CT. Articles published between 2010 and January 2025 were retrieved from Embase, Web of Science, PubMed/MEDLINE (Medical Literature Analysis and Retrieval System Online), CINAHL (Cumulative Index to Nursing and Allied Health Literature), and Ovid. Articles were screened and selected based on clearly defined inclusion criteria. Methodological quality, heterogeneity, and bias were evaluated, and data were extracted and synthesized to identify correlations between DECT parameters and PET/CT parameters in mediastinal lymph node staging. Five articles that met the inclusion criteria were included in this review; these consisted of 212 patients, with 314 pathological mediastinal lymph nodes. DECT attenuation parameters including arterial phase/delayed phase ratio (A/D ratio) or maximum iodine related attenuation (IRAmax) were either strongly or moderately correlated with maximum standard uptake value (SUVmax) in PET/CT (r=0.80, p =0.027; r = 0.57, p= 0.047), and iodine concentration or iodine density had a weak or no correlation with SUVmax (r=0.23, p=0.14; r=0.064, p =0.453). 18fluorine-fluorodeoxyglucose (18F-FDG) PET/CT is the imaging modality of choice in the diagnosis of suspected mediastinal lymph nodes, but it is not widely accessible and has higher cost and high false positive rates. This review investigated the potential role of DECT as a possible surrogate of 18F-FDG PET/CT and found a good correlation between DECT attenuation parameters (only) and SUVmax in 18F-FDG PET/CT. There is a significant gap in the literature in relation to the investigation of this correlation. This review found that in DECT, attenuation parameters either strongly or moderately correlated with SUVmax from 18F-FDG PET/CT and may serve as an excellent complement; however, it may be inadequate to replace 18F-FDG-PET/CT in mediastinal lymph node staging in lung cancer.
+DO  - 10.7759/cureus.115779
+UR  - https://pubmed.ncbi.nlm.nih.gov/42831153/
+AN  - 42831153
+KW  - modele:revue
+KW  - theme:general
+KW  - modele:dosimetrie_modelisation
+ER  - 
+
+TY  - JOUR
 AU  - Ota K
 AU  - Yabusaki S
 TI  - DECT Diagnosis of Gouty Tophi with Normal Uric Acid: A Case Report
@@ -35697,6 +36001,28 @@ KW  - Tnm Staging
 ER  - 
 
 TY  - JOUR
+AU  - Bai W
+AU  - Lu M
+TI  - Electromagnetic exposure safety assessment of electromagnetic security gates: a review.
+PY  - 2026
+SP  - 1935419
+AB  - In this review, electromagnetic security gates include walk-through metal detectors (WTMDs), electronic article surveillance (EAS) systems, radio-frequency identification (RFID) systems, and millimeter-wave (MMW) security screening systems. These technologies are widely used in public-security screening, theft prevention, access control, and industrial inspection, making electromagnetic-exposure safety a public-health concern. This review traces their technological development, summarizes operating principles and emission characteristics, and examines potential biological effects of electromagnetic-field exposure. It also reviews exposure-assessment methods and applies an adapted evidence-appraisal framework to synthesize experimental, numerical, and epidemiological evidence, evaluate interactions with active medical devices and passive metallic implants, and assess evidence strength and limitations. Particular attention is given to potentially susceptible populations and frequency-specific exposure metrics. Major evidence gaps and future research priorities are identified.
+DO  - 10.3389/fpubh.2026.1935419
+UR  - https://pubmed.ncbi.nlm.nih.gov/42828174/
+AN  - 42828174
+KW  - modele:revue
+KW  - theme:neuro_comportement_cognition
+KW  - modele:dosimetrie_modelisation
+KW  - modele:epidemiologie
+KW  - Medical devices
+KW  - Electromagnetic Exposure
+KW  - Electronic Article Surveillance Systems
+KW  - Electromagnetic Security Gates
+KW  - Radio-frequency Identification Systems
+KW  - Walk-through Metal Detectors
+ER  - 
+
+TY  - JOUR
 AU  - Heynick LN
 AU  - Merritt JH
 TI  - Radiofrequency fields and teratogenesis.
@@ -36059,6 +36385,39 @@ KW  - Systematic review
 KW  - teratogenicity
 KW  - Electromagnetic Waves
 KW  - Nonionizing Radiation
+ER  - 
+
+TY  - JOUR
+AU  - Dogra S
+AU  - Rajput S
+AU  - Rathi A
+AU  - Gautam R
+AU  - Mazumder P
+AU  - Sinha A
+AU  - Sahoo RK
+AU  - Pati S
+AU  - Mukherjee A
+AU  - Arora T
+TI  - A review of potential health risks of radiofrequency electromagnetic field exposure from mobile phones and base stations in children and pregnant women.
+PY  - 2026
+SP  - 1915745
+AB  - Over the last decade, the rapid expansion of mobile communication technologies has substantially increased population exposure to radiofrequency electromagnetic fields (RF-EMF). This has raised concerns about possible health implications, particularly for vulnerable groups like children and pregnant women. Although international agencies have reported no consistent evidence of harmful effects at established exposure limits, uncertainties remain regarding long-term and developmental effects. This review synthesizes and evaluates epidemiological and experimental evidence published between 2015 and 2025; a period characterized by rapid technological transitions (4G to 5G), advances in exposure assessment techniques, and increasing reliance on wireless devices. Confining the timeframe ensures a more relevant and up-to-date assessment of current exposure patterns and emerging biological insights. The review explores the association between RF-EMF exposure and major health outcomes, including reproductive and developmental effects, cancer risk, and neurological changes. It also integrates mechanistic pathways involving oxidative stress, DNA damage, and ROS signalling. Although no definitive causal relationship has been established, the evidence remains inconsistent due to variability in study design, exposure metrics, and outcome definitions. Notably, experimental and high-exposure studies provide biologically plausible mechanisms, particularly through oxidative stress pathways; however, these findings have not been consistently observed in the human population. Children and foetuses may exhibit greater susceptibility because of developmental and physiological factors, yet high-quality longitudinal evidence remains limited. Overall, further standardized, mechanistic, and long-term studies are needed to strengthen the scientific evidence base and inform public health policy.
+DO  - 10.3389/fpubh.2026.1915745
+UR  - https://pubmed.ncbi.nlm.nih.gov/42799090/
+AN  - 42799090
+KW  - modele:revue
+KW  - theme:neurodeveloppement
+KW  - modele:dosimetrie_modelisation
+KW  - modele:epidemiologie
+KW  - theme:stress_oxydatif
+KW  - theme:genotoxicite_epigenetique
+KW  - theme:cancer
+KW  - Children
+KW  - Mobile phone
+KW  - Pregnant women
+KW  - Base Stations
+KW  - Birth Outcomes
+KW  - Radiofrequency Electromagnetic Fields (Rf-emf)
 ER  - 
 
 TY  - JOUR
@@ -37276,4 +37635,24 @@ KW  - microwave hyperthermia
 KW  - Metamaterial
 KW  - Targeted Tumor Therapy
 KW  - Miniaturized Antennas
+ER  - 
+
+TY  - JOUR
+AU  - Galati G
+AU  - Pavan G
+TI  - Can Non-Thermal Microwave Irradiation Inactivate Viruses? A Review with Some Computations.
+PY  - 2026
+SP  - 1022
+AB  - The use of non-thermal, human-safe electromagnetic (e.m.) waves in the GHz range to inactivate viruses has been proposed by a few groups. It is allegedly based on a transformation of a microwave photon into a phonon, which would produce a so-called Structure Resonance Energy Transfer (SRET) strong enough to break the capsid due to Confined Acoustic Vibration (CAV) at virus-specific frequencies. However, it is well known that e.m. photons' absorption in water or in organic media does not generate single phonons at the same frequency. Rather, it generates many thermal phonons across a wide frequency spectrum according to the widely known microwave heating effect, as exploited, inter alia, in the microwave oven. However, there remains interest in proposed usages of non-thermal microwave fields to inactivate respiratory viruses for air sanitization purposes. Hence, this paper poses the question: can human-safe microwave irradiation inactivate viruses?
+DO  - 10.3390/v18091022
+UR  - https://pubmed.ncbi.nlm.nih.gov/42797853/
+AN  - 42797853
+KW  - modele:revue
+KW  - theme:thermique
+KW  - Influenza
+KW  - Virus Inactivation
+KW  - microwave irradiation
+KW  - Radiofrequency Exposure
+KW  - Sars-cov-2
+KW  - Non-thermal Microwave
 ER  - 

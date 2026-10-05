@@ -1,6 +1,6 @@
 # in_vivo
 
-419 articles.
+424 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -76,7 +76,7 @@
 - `2012` [[2012_21996712_effects-of-electromagnetic-radiation-from-3g-mobil]] — Colak C et al.
 - `2004` [[2004_15941010_prevention-of-mobile-phone-induced-skin-tissue-cha]] — Ozguner F et al.
 
-## general (51)
+## general (53)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
 - `2026` [[2026_41786740_design-green-synthesis-and-bioevaluation-of-1-3-th]] — Alrayes AA et al.
@@ -85,8 +85,10 @@
 - `2026` [[2026_42066503_development-of-a-dual-energy-cbct-calibration-meth]] — Cho IC et al.
 - `2026` [[2026_42197226_sustainable-valorization-of-grape-leaf-based-flavo]] — Habib N et al.
 - `2026` [[2026_42683518_an-energy-difference-indicator-for-improved-quanti]] — Li Y et al.
+- `2026` [[2026_42776981_how-fast-can-pprv-spread-analyzing-the-results-of]] — Nhili M et al.
 - `2026` [[2026_PPR1215129_the-comparative-study-of-the-effect-of-low-intensi]] — Valerii Z et al.
 - `2026` [[2026_PPR1286608_a-candidate-electromagnetic-channel-for-coordinati]] — Douka K et al.
+- `2026` [[2026_PPR1330333_regional-ventilation-and-perfusion-during-flow-con]] — Bruno E et al.
 - `2025` [[2025_39564560_scalable-neuroanatomical-and-behavioral-phenotypin]] — Wu X et al.
 - `2025` [[2025_39604818_emodin-enhanced-microwave-responsive-heterojunctio]] — Xu T et al.
 - `2025` [[2025_39814783_selected-microwave-irradiation-effectively-inactiv]] — Bia P et al.
@@ -156,7 +158,7 @@
 - `2013` [[2013_23526156_elf-alternating-magnetic-field-decreases-reproduct]] — Panagopoulos DJ et al.
 - `2013` [[2013_23833433_detection-of-low-level-microwave-radiation-induced]] — Deshmukh PS et al.
 
-## neuro_comportement_cognition (77)
+## neuro_comportement_cognition (78)
 
 - `2026` [[2026_41391574_effects-of-paternal-5g-rfr-exposure-on-health-of-m]] — Zhaowen Z et al.
 - `2026` [[2026_41643305_single-and-combined-microwave-induced-anxiety-like]] — Zhou G et al.
@@ -168,6 +170,7 @@
 - `2026` [[2026_42566258_chronic-3-5-ghz-radiofrequency-exposure-is-associa]] — Bektas H et al.
 - `2026` [[2026_42613487_linking-signal-integrity-to-probabilistic-models-o]] — Sayfoori R, Cao H
 - `2026` [[2026_42653107_differential-effects-of-3-5-ghz-and-24-ghz-5g-radi]] — Hairulazam A et al.
+- `2026` [[2026_42805979_battery-free-fully-wireless-neurostimulation-via-r]] — Yoo K et al.
 - `2025` [[2025_39866417_compound-exposure-of-2-8-ghz-and-9-3-ghz-microwave]] — Sun L et al.
 - `2025` [[2025_39999628_mechanistic-insights-into-microwave-radiation-indu]] — Zhi W et al.
 - `2025` [[2025_40141104_repeated-head-exposures-to-a-5g-3-5-ghz-signal-do]] — Lameth J et al.
@@ -292,8 +295,9 @@
 - `1984` [[1984_6487382_in-utero-exposure-to-microwave-radiation-and-rat-b]] — Merritt JH et al.
 - `1982` [[1982_6925593_exposure-of-rats-to-425-mhz-cw-radiofrequency-radi]] — Smialowicz RJ et al.
 
-## neuroinflammation (10)
+## neuroinflammation (11)
 
+- `2026` [[2026_42785117_putative-role-of-nf-b-mediated-inflammation-in-acu]] — Zhang C et al.
 - `2025` [[2025_40083229_microwaves-activate-immune-response-and-promote-ly]] — Lizhen M et al.
 - `2025` [[2025_40259937_effect-of-non-ionizing-radiations-on-liver-and-kid]] — Farahani S et al.
 - `2023` [[2023_37282482_long-term-radiofrequency-electromagnetic-fields-ex]] — Son Y et al.
@@ -313,7 +317,7 @@
 - `2018` [[2018_30345889_2-45-ghz-microwave-radiation-impairs-learning-memo]] — Karimi N et al.
 - `2004` [[2004_15571980_acute-exposure-to-gsm-900-mhz-electromagnetic-fiel]] — Mausset-Bonnefont AL et al.
 
-## reproduction (33)
+## reproduction (34)
 
 - `2026` [[2026_41069247_assessing-the-potential-of-carbon-fibre-reinforced]] — Farindra I et al.
 - `2026` [[2026_41578890_ameliorative-role-of-coenzyme-q10-in-rf-radiation]] — Bektas H et al.
@@ -323,6 +327,7 @@
 - `2026` [[2026_42196560_the-effect-of-2-45-ghz-radiofrequency-electromagne]] — Vijay S et al.
 - `2026` [[2026_42690869_effects-of-5g-frequencies-on-sperm-parameters-mati]] — Hairulazam A et al.
 - `2026` [[2026_42693069_moringa-leaf-mitigates-4g-cell-phone-radiation-ind]] — Ramalingam S, Somanath D
+- `2026` [[2026_42810696_strain-dependent-effects-of-long-term-exposure-to]] — Palone F et al.
 - `2025` [[2025_39806168_amelioration-and-immuno-modulation-by-ashwagandha]] — Gupta V, Srivastava R
 - `2025` [[2025_40002366_the-influence-of-2-45-ghz-wi-fi-exposure-duration]] — Jamaludin N et al.
 - `2025` [[2025_40086029_transcriptomic-and-metabolic-profiling-reveals-the]] — Yao B et al.

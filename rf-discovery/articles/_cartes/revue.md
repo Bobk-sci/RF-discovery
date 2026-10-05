@@ -1,6 +1,6 @@
 # revue
 
-167 articles.
+171 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -57,7 +57,7 @@
 - `2021` [[2021_34180044_smart-devices-mobile-phone-in-patients-with-epilep]] — Asadi-Pooya AA et al.
 - `2021` [[2021_34497578_seizure-forecasting-using-a-novel-sub-scalp-ultra]] — Stirling RE et al.
 
-## general (39)
+## general (40)
 
 - `2026` [[2026_41600235_next-generation-biomedical-microwave-antennas-meta]] — Koutsoupidou M, Karanasiou IS
 - `2026` [[2026_41600329_low-cost-sensors-in-5g-rf-emf-exposure-monitoring]] — Rathebe PC, Kholopo M
@@ -73,6 +73,7 @@
 - `2026` [[2026_42525727_toward-measurement-of-muscle-forces-during-movemen]] — Tan T et al.
 - `2026` [[2026_42667564_what-you-don-t-see-matters-dual-energy-ct-in-emerg]] — Anichini M et al.
 - `2026` [[2026_42730093_impacts-of-geomagnetic-and-man-made-electromagneti]] — Fadlou Allah T et al.
+- `2026` [[2026_42831153_correlation-of-the-diagnostic-accuracy-of-dual-ene]] — Adebayo D et al.
 - `2026` [[2026_PPR1173925_dect-diagnosis-of-gouty-tophi-with-normal-uric-aci]] — Ota K, Yabusaki S
 - `2026` [[2026_PPR1305059_autonomous-rescue-robots-for-post-disaster-search]] — Ahmad S
 - `2025` [[2025_39652433_a-mechanistic-understanding-of-human-magnetorecept]] — Henshaw DL, Philips A
@@ -110,10 +111,11 @@
 - `2021` [[2021_33539186_genetic-effects-of-non-ionizing-electromagnetic-fi]] — Lai H
 - `2021` [[2021_34567874_an-exploration-of-the-effects-of-radiofrequency-ra]] — Alkayyali T et al.
 
-## neuro_comportement_cognition (20)
+## neuro_comportement_cognition (21)
 
 - `2026` [[2026_41932003_electric-fields-for-warming-cryopreserved-tissue]] — Wowk B
 - `2026` [[2026_42318412_research-progress-on-the-application-of-dual-energ]] — Wu LN et al.
+- `2026` [[2026_42828174_electromagnetic-exposure-safety-assessment-of-elec]] — Bai W, Lu M
 - `2025` [[2025_40076887_brain-disease-modifying-effects-of-radiofrequency]] — Sun S et al.
 - `2025` [[2025_41149527_electromagnetic-interference-in-the-modern-era-con]] — Prekodravac Filipovic J et al.
 - `2024` [[2024_38533994_mobile-phone-text-messaging-for-medication-adheren]] — Redfern J et al.
@@ -133,9 +135,10 @@
 - `2015` [[2015_26556835_the-microwave-syndrome-or-electro-hypersensitivity]] — Carpenter DO
 - `1997` [[1997_9258703_exposure-to-extremely-low-frequency-electromagneti]] — Jauchem JR
 
-## neurodeveloppement (15)
+## neurodeveloppement (16)
 
 - `2026` [[2026_41911438_determining-the-impact-of-nonionizing-electromagne]] — Armalina D et al.
+- `2026` [[2026_42799090_a-review-of-potential-health-risks-of-radiofrequen]] — Dogra S et al.
 - `2025` [[2025_38889394_summary-of-seven-swedish-case-reports-on-the-micro]] — Hardell L, Nilsson M
 - `2024` [[2024_37609829_the-european-union-assessments-of-radiofrequency-r]] — Nyberg R et al.
 - `2024` [[2024_38783888_investigation-of-the-adverse-health-effects-of-cel]] — Elyasi H et al.
@@ -199,11 +202,12 @@
 - `2016` [[2016_26151230_oxidative-mechanisms-of-biological-activity-of-low]] — Yakymenko I et al.
 - `2016` [[2016_26371078_the-link-between-radiofrequencies-emitted-from-wir]] — Dasdag S, Akdag MZ
 
-## thermique (9)
+## thermique (10)
 
 - `2026` [[2026_41445170_radio-frequency-exposure-in-military-contexts-a-na]] — Risling M, Günther M
 - `2026` [[2026_42122726_use-of-microwave-technology-for-agro-based-polymer]] — Cheng HN et al.
 - `2026` [[2026_42530729_metamaterial-assisted-miniaturized-antennas-for-ta]] — Zuo J et al.
+- `2026` [[2026_42797853_can-non-thermal-microwave-irradiation-inactivate-v]] — Galati G, Pavan G
 - `2025` [[2025_40339686_electromagnetic-fields-from-mobile-phones-a-risk-f]] — Seewooruttun C et al.
 - `2025` [[2025_40400318_microwave-power-sources-for-industrial-scientific]] — Cripps S
 - `2025` [[2025_40662412_impact-of-radiofrequency-electromagnetic-fields-on]] — Michelant L, Selmaoui B
