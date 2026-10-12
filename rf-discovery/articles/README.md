@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1550 articles** rangés le 2026-10-05 (publications 1960–2026).
+**1550 articles** rangés le 2026-10-12 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 

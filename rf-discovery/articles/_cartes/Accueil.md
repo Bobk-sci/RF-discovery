@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-1550 articles, carte mise à jour le 2026-10-05.
+1550 articles, carte mise à jour le 2026-10-12.
 
 ## Par modèle d'étude
 
