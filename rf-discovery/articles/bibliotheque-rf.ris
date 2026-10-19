@@ -3167,6 +3167,31 @@ KW  - Frequency-Modulated Continuous Wave Radar
 ER  - 
 
 TY  - JOUR
+AU  - Baruah A
+AU  - Sandoval-Diez N
+AU  - Belácková L
+AU  - Roga L
+AU  - Jalilian H
+AU  - Fröhlich J
+AU  - Thielens A
+AU  - Röösli M
+AU  - Huss A
+TI  - Citizen science-based mapping of radiofrequency electromagnetic field exposure in Europe : A proof-of-concept validation study.
+PY  - 2026
+SP  - 125886
+AB  - Characterising population-level radiofrequency electromagnetic field (RF-EMF) exposure from mobile telecommunications networks at fine spatial resolution has been limited by the cost and scale of conventional measurement methods. The ETAIN 5G Scientist app, developed within the ETAIN (Exposure To electromAgnetic fIelds and plaNetary health) project uses citizen science smartphone data to produce calibrated RF-EMF exposure maps for 4G/5G networks at 25 x 25 m <sup>2</sup> spatial resolution across Europe. As of 2026, the app had collected over 19 million measurements globally. We conducted a proof-of-concept validation of these exposure maps in two European cities with contrasting urban and network characteristics: Utrecht (Netherlands) and Basel (Switzerland). Walking measurement campaigns used the ETAIN app installed on smartphones and the ExpoM-RF4 reference exposimeter carried simultaneously in a backpack. App-derived exposure estimates were compared with spatiotemporally matched reference measurements at the grid-cell level. Validation was performed separately for 4G Long-Term Evolution (LTE) and combined 4G LTE and 5G New Radio (NR) environmental exposure estimates. 4G LTE exposure estimates correlated strongly with measured exposure in both Utrecht (r<sub>s</sub> = 0.87, 95% CI: 0.80-0.91, N = 127) and Basel (r<sub>s</sub> = 0.71, 95% CI: 0.63-0.78, N = 214; both p < 0.001). The combined 4G LTE and 5G NR exposure estimates correlated strongly in Utrecht (r<sub>s</sub> = 0.88, 95% CI: 0.81-0.92; 19.7% of grid cells with 5G NR detection) but showed moderate correlation in Basel (r<sub>s</sub> = 0.41, 95% CI: 0.29-0.53; 45.3% of grid cells with 5G NR detection). Sensitivity analyses showed map reliability stabilised at five or more observations per grid cell and improved when data from two network operators were combined. These results demonstrate that the ETAIN 5G Scientist application can produce validated, spatially continuous RF-EMF exposure maps at scale. The approach is well suited for characterising exposure trends as mobile networks continue to evolve.
+DO  - 10.1016/j.envres.2026.125886
+UR  - https://pubmed.ncbi.nlm.nih.gov/42849653/
+AN  - 42849653
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+KW  - Spatial mapping
+KW  - Citizen Science
+KW  - Radiofrequency Electromagnetic Fields
+KW  - Proof-of-concept Validation
+ER  - 
+
+TY  - JOUR
 AU  - Boyd SK
 AU  - Lackner NA
 AU  - Liphardt A
@@ -28107,6 +28132,28 @@ KW  - Aramid Honeycomb
 ER  - 
 
 TY  - JOUR
+AU  - Feng Y
+AU  - Zhu S
+AU  - Lv X
+AU  - Chen P
+AU  - Liu H
+AU  - Cao Z
+TI  - Metasurface-Aerogel-Composite Reconfigurable Electromagnetic Functional Surface with Thermally Robust and Ultra-Wideband Stealth via Hybrid Absorption-Diffusion Mechanisms.
+PY  - 2026
+AB  - Electromagnetic functional surfaces capable of multimode electromagnetic (EM) reconfiguration and reliable operation under extreme thermal environments are highly desirable for advanced aerospace and defense systems. However, simultaneously achieving flexible functional switching, ultra-wideband stealth capability, and thermal robustness remains challenging. Here, a metasurface-aerogel-composite reconfigurable electromagnetic functional surface (REFS) is proposed. The proposed architecture consists of three key components: an absorption-transmission resistive metasurface (AT-RMS) for low-frequency wideband absorption, a transmission-scattering diffusive metasurface (TS-DMS) for high-frequency wideband diffuse scattering, and an aerogel composite layer for thermal protection and impedance optimization. Through the synergistic integration of these functional components, coordinated absorption loss and scattering manipulation are achieved, enabling ultra-wideband radar cross-section (RCS) reduction outside the operating band while maintaining low-loss in-band transmission performance. Furthermore, PIN diode-based reconfigurable elements enable dynamic in-band switching among transmission (T), reflection (R), and absorption (A) states, while the polarization-independent biasing strategy further extends the reconfigurability to nine distinct operating modes. The employed aerogel composite not only provides effective thermal protection with an ultralow thermal conductivity of 0.0176 W/(m · K) but also improves impedance matching through its low permittivity, thereby enhancing the overall EM performance. A 10 × 10 array prototype is fabricated and experimentally characterized to verify the multifunctional and thermally robust performance of the proposed REFS. The fabricated prototype achieves stable T/R/A reconfigurable operation within 5.74-6.23 GHz, a 7-dB ultra-wideband RCS reduction from 2.18 to 17.86 GHz in the transmission state, and maintains stable EM performance after exposure to 600 K for 1 h. These results demonstrate a promising strategy for integrating thermal protection, multimode EM reconfigurability, and ultra-wideband stealth capability into advanced aerospace electromagnetic skins and multifunctional stealth radome systems.
+DO  - 10.1021/acsami.6c15131
+UR  - https://pubmed.ncbi.nlm.nih.gov/42849124/
+AN  - 42849124
+KW  - modele:ingenierie_materiel
+KW  - theme:general
+KW  - Aerogel
+KW  - Metasurface
+KW  - Thermal Robustness
+KW  - Hybrid Absorption-diffusion Mechanisms
+KW  - Reconfigurable Electromagnetic Functional Surface
+ER  - 
+
+TY  - JOUR
 AU  - Pinchera D
 AU  - Schettino F
 AU  - Lucido M
@@ -31203,6 +31250,31 @@ KW  - Virtual Non-calcium Imaging
 ER  - 
 
 TY  - JOUR
+AU  - Banerjee S
+AU  - Gupta A
+AU  - Madhusudhan KS
+AU  - Seth A
+AU  - Singh P
+AU  - Nayyar R
+AU  - Kaushal S
+AU  - Sharma S
+TI  - Head-to-head comparison of quantitative perfusion parameters derived from DECT, IVIM, and DCE-MRI for renal mass characterization: a within-patient, prospective study.
+PY  - 2026
+AB  - <h4>Purpose</h4>Accurate characterization of solid renal masses is essential because management and outcomes differ substantially by histologic subtype. Clear cell renal cell carcinoma (ccRCC), the most common and aggressive RCC subtype, is also the most responsive to targeted anti-angiogenic therapies. Quantitative perfusion imaging may enable a noninvasive "virtual biopsy" approach, but the comparative performance of dual-energy CT (DECT), intravoxel incoherent motion (IVIM), and dynamic contrast-enhanced MRI (DCE-MRI) remains unclear. This study compared perfusion biomarkers from these modalities for differentiating ccRCC from other solid renal masses.<h4>Methods</h4>In this prospective single-center study, adults with solid renal masses underwent preoperative DECT, IVIM, and DCE-MRI, with postoperative histopathology as the reference standard. DECT-derived iodine concentration (IC) and iodine ratio (IR), IVIM-derived perfusion fraction (f) and pseudodiffusivity (D*), and DCE-MRI-derived wash-in rate (WIR), wash-out rate (WOR), and area under the time-intensity curve (AUTIC) were evaluated. Diagnostic performance for differentiating ccRCC from other solid renal masses was assessed using receiver operating characteristic (ROC) analysis and multivariable logistic regression.<h4>Results</h4>Thirty-three patients (mean age, 49.8 ± 11.9 years; 21 men) were included. Compared with other solid renal masses, ccRCC demonstrated significantly higher IC and IR (p < 0.02) and higher AUTIC and WIR (p < 0.05). IVIM parameters did not differ significantly (p > 0.05). IC achieved the highest diagnostic performance across readers (AUC, 0.79-0.83). After exclusion of benign tumors, IC demonstrated excellent discrimination (AUC, 0.96; 95% CI, 0.89-1.00). Multivariable models did not improve performance over the best individual parameter.<h4>Conclusion</h4>DECT and DCE-MRI perfusion biomarkers showed comparable performance for differentiating ccRCC from other solid renal masses, whereas IVIM provided limited diagnostic value. The lack of incremental benefit from multiparametric modeling suggests that DECT-derived iodine concentration alone may be sufficient for clinical virtual biopsy workflows, particularly when MRI is unavailable or contraindicated.
+DO  - 10.1007/s00261-026-05770-0
+UR  - https://pubmed.ncbi.nlm.nih.gov/42841922/
+AN  - 42841922
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Clear Cell Renal Cell Carcinoma
+KW  - Dual-energy Ct
+KW  - Dynamic Contrast-enhanced Mri
+KW  - Intravoxel Incoherent Motion
+KW  - Quantitative Imaging Biomarkers
+KW  - Split-bolus Ct
+ER  - 
+
+TY  - JOUR
 AU  - Nascimento DM
 AU  - Santos PL
 AU  - Ribeiro-Junior MR
@@ -34149,6 +34221,45 @@ KW  - Pulmonary nodule
 KW  - Dual-energy Ct
 KW  - Radiomics
 KW  - Iodine Mapping
+ER  - 
+
+TY  - JOUR
+AU  - Kawasaki Y
+AU  - Yokoyama K
+AU  - Hada H
+AU  - Yamada H
+AU  - Tsuchiya J
+AU  - Yamamoto K
+AU  - Onishi I
+AU  - Ariizumi Y
+AU  - Honda T
+AU  - Okubo K
+AU  - Aruga T
+AU  - Asano D
+AU  - Ban D
+AU  - Yoshida S
+AU  - Fujii Y
+AU  - Wakana K
+AU  - Hanaoka M
+AU  - Tanaka K
+AU  - Yamamoto M
+AU  - Mori T
+AU  - Ikeda S
+AU  - Tateishi U
+TI  - Practical applications of photon-counting CT in oncology: an organ-based pictorial review.
+PY  - 2026
+SP  - 248
+AB  - Spectral computed tomography (CT) has become an important extension of contrast-enhanced CT (CECT) in oncologic imaging by providing material-specific information beyond conventional morphologic assessment. Dual-energy CT (DECT), implemented on energy-integrating detector CT (EID-CT) platforms, has demonstrated the value of low-keV virtual monoenergetic imaging (VMI), iodine mapping, and material decomposition for improving tumor conspicuity, delineating local extent, and supporting tissue characterization. However, broader clinical adoption of EID-CT-based DECT has been limited by increased low-keV image noise and workflow complexity. Photon-counting detector CT (PCD-CT) addresses these limitations by offering improved energy resolution, reduced electronic noise, and routine acquisition of multi-energy data without dedicated dual-energy protocols. In particular, low-keV VMI around 40 keV can be generated with clinically acceptable noise, enabling consistent enhancement-based assessment in daily practice. Iodine-based reconstructions further complement morphologic evaluation by visualizing viable tumor enhancement and enabling quantitative analysis. This organ-based pictorial review summarizes practical applications of PCD-CT-based spectral imaging in oncology. Across organ systems, spectral CT may provide complementary problem-solving information by improving lesion detection, tumor extent delineation, and diagnostic confidence, particularly when conventional CT findings are equivocal, or MRI is unavailable, contraindicated, or limited. Emerging quantitative parameters, including electron density, effective atomic number, and advanced material decomposition, may further expand oncologic CT applications, although outcome-driven validation remains limited. Together, these features position PCD-CT as a practical spectral imaging platform for routine oncologic CT. KEY POINTS: Question How can PCD-CT address low-keV image noise and workflow barriers that have limited routine DECT-based spectral imaging in oncologic CT practice? Findings PCD-CT enables low-keV VMI and iodine-based reconstructions that may improve lesion conspicuity, tumor-extent assessment, and problem-solving across organ-specific oncologic workflows. Critical relevance statement This review clarifies practical, evidence-aware uses of PCD-CT spectral reconstructions in oncology, highlighting low-keV VMI as an adjunct, selective iodine-map problem-solving, and investigational quantitative parameters.
+DO  - 10.1186/s13244-026-02399-x
+UR  - https://pubmed.ncbi.nlm.nih.gov/42855624/
+AN  - 42855624
+KW  - modele:revue
+KW  - theme:cancer
+KW  - Neoplasms
+KW  - Contrast Media
+KW  - Diagnostic Imaging
+KW  - Iodine Compounds
+KW  - Tomography (X-ray Computed)
 ER  - 
 
 TY  - JOUR

@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1550 articles** rangés le 2026-10-12 (publications 1960–2026).
+**1554 articles** rangés le 2026-10-19 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,7 +8,7 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| non_classe | general | 101 |
+| non_classe | general | 102 |
 | dosimetrie_modelisation | dosimetrie_exposition | 90 |
 | in_vivo | stress_oxydatif | 84 |
 | in_vivo | neuro_comportement_cognition | 78 |
@@ -18,8 +18,8 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | in_vivo | neurodeveloppement | 53 |
 | ingenierie_materiel | dosimetrie_exposition | 51 |
 | epidemiologie | neuro_comportement_cognition | 49 |
+| dosimetrie_modelisation | general | 40 |
 | revue | general | 40 |
-| dosimetrie_modelisation | general | 39 |
 | in_vitro | apoptose_mitochondrie | 38 |
 | non_classe | neuro_comportement_cognition | 35 |
 | in_vivo | reproduction | 34 |
@@ -36,13 +36,13 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | dosimetrie_modelisation | neurodeveloppement | 20 |
 | dosimetrie_modelisation | thermique | 20 |
 | in_vitro | cancer | 20 |
+| revue | cancer | 19 |
 | in_vitro | general | 18 |
 | non_classe | thermique | 18 |
-| revue | cancer | 18 |
 | humain_experimental | eeg_sommeil | 17 |
 | non_classe | cancer | 17 |
+| ingenierie_materiel | general | 16 |
 | revue | neurodeveloppement | 16 |
-| ingenierie_materiel | general | 15 |
 | non_classe | stress_oxydatif | 13 |
 | revue | stress_oxydatif | 13 |
 | in_vivo | neuroinflammation | 11 |

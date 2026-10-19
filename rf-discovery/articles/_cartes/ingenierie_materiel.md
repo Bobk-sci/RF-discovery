@@ -1,6 +1,6 @@
 # ingenierie_materiel
 
-74 articles.
+75 articles.
 
 ## cancer (2)
 
@@ -61,7 +61,7 @@
 - `2022` [[2022_36363959_an-ebg-based-triple-band-wearable-antenna-for-wban]] — Li R et al.
 - `2021` [[2021_34883957_compact-dual-band-antenna-with-paired-l-shape-slot]] — Ahmad S et al.
 
-## general (15)
+## general (16)
 
 - `2026` [[2026_41501245_a-compact-circularly-polarized-ultra-wide-bandwidt]] — Song Z et al.
 - `2026` [[2026_41753815_design-of-a-compact-uhf-wilkinson-power-divider-us]] — Roshani S et al.
@@ -69,6 +69,7 @@
 - `2026` [[2026_42303738_low-profile-conformal-triple-band-textile-antenna]] — Hussain M et al.
 - `2026` [[2026_42451414_design-of-a-soc-based-highly-integrated-rf-transce]] — Wu J et al.
 - `2026` [[2026_42522738_regional-segregated-architecture-strategy-for-high]] — Li N et al.
+- `2026` [[2026_42849124_metasurface-aerogel-composite-reconfigurable-elect]] — Feng Y et al.
 - `2026` [[2026_PPR1139336_design-and-realization-of-an-ultra-wideband-patter]] — Pinchera D et al.
 - `2025` [[2025_40363376_design-of-small-sized-spiral-slot-pifa-antenna-use]] — Li R et al.
 - `2025` [[2025_40419691_compact-dual-band-crossover-for-5g-low-and-mid-ban]] — Shallah AB et al.

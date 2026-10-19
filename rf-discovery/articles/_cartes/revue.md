@@ -1,6 +1,6 @@
 # revue
 
-171 articles.
+172 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -17,12 +17,13 @@
 
 - `2025` [[2025_40004170_influence-of-super-low-intensity-microwave-radiati]] — Artamonov MY et al.
 
-## cancer (18)
+## cancer (19)
 
 - `2026` [[2026_42437082_non-ionizing-radiation-and-cancer-a-review-on-curr]] — Agrahari M et al.
 - `2026` [[2026_42442967_corrigendum-to-effects-of-radiofrequency-electroma]] — Mevissen M et al.
 - `2026` [[2026_42525387_zero-echo-time-mri-and-dual-energy-ct-virtual-non]] — Marinelli L et al.
 - `2026` [[2026_42651014_clinical-utility-of-dual-energy-ct-for-detection-c]] — Sidiqy H et al.
+- `2026` [[2026_42855624_practical-applications-of-photon-counting-ct-in-on]] — Kawasaki Y et al.
 - `2025` [[2025_40339346_effects-of-radiofrequency-electromagnetic-field-ex]] — Mevissen M et al.
 - `2025` [[2025_40966368_development-and-testing-of-a-novel-whole-body-expo]] — Wyde ME et al.
 - `2025` [[2025_41135061_toward-breast-tumor-detection-a-miniature-antenna]] — Amaria S et al.

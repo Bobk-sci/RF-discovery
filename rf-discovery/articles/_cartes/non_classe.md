@@ -1,6 +1,6 @@
 # non_classe
 
-234 articles.
+235 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -52,7 +52,7 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (101)
+## general (102)
 
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
 - `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
@@ -93,6 +93,7 @@
 - `2026` [[2026_42761464_microwave-power-induced-modulation-of-tigernut-lt]] — Qin JW et al.
 - `2026` [[2026_42769376_association-of-dual-energy-ct-derived-quantitative]] — Zhang Z et al.
 - `2026` [[2026_42820978_dual-energy-ct-virtual-non-calcium-imaging-for-dif]] — Lee HY, Jeon JY
+- `2026` [[2026_42841922_head-to-head-comparison-of-quantitative-perfusion]] — Banerjee S et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
