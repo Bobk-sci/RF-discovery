@@ -1,12 +1,13 @@
 # in_vitro
 
-159 articles.
+161 articles.
 
-## apoptose_mitochondrie (38)
+## apoptose_mitochondrie (39)
 
 - `2026` [[2026_41562640_neurotoxic-effects-of-3-5-ghz-gsm-like-rf-exposure]] — Bektas H et al.
 - `2026` [[2026_41660276_the-effect-of-4-3-ghz-high-power-microwave-exposur]] — Gao A et al.
 - `2026` [[2026_42277135_microwave-induced-modulation-of-intracellular-dist]] — Kayamori F et al.
+- `2026` [[2026_42882524_radiofrequency-radiation-alters-redox-homeostasis]] — Ahmad S et al.
 - `2025` [[2025_39810728_radiofrequency-induced-time-dependent-alterations]] — Tuysuz MZ et al.
 - `2025` [[2025_39911027_protective-effects-and-mechanisms-of-astragaloside]] — Zhang X et al.
 - `2025` [[2025_40831178_activating-transcription-factor-4-regulation-of-ra]] — Wang H et al.
@@ -189,8 +190,9 @@
 - `2014` [[2014_24105709_effects-of-combined-radiofrequency-radiation-expos]] — Kang KA et al.
 - `2012` [[2012_23724375_effects-of-radiofrequency-radiation-on-human-ferri]] — Fattahi-Asl J et al.
 
-## thermique (8)
+## thermique (9)
 
+- `2026` [[2026_42860714_comparative-analysis-of-the-biological-effects-on]] — van Oossanen R et al.
 - `2024` [[2024_38153906_dielectric-and-magnetic-composites-of-fe3o4-apns-f]] — Zhan YL et al.
 - `2023` [[2023_37144743_a-mechanistically-approached-review-upon-assorted]] — Askaripour K, Żak A
 - `2023` [[2023_37221363_effects-of-5g-modulated-3-5-ghz-radiofrequency-fie]] — Joushomme A et al.

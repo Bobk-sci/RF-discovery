@@ -3192,6 +3192,56 @@ KW  - Proof-of-concept Validation
 ER  - 
 
 TY  - JOUR
+AU  - Titternes R
+AU  - Poludniowski G
+AU  - Brismar TB
+AU  - Nowik P
+AU  - Thor D
+TI  - Evaluation of iodine detection and quantification limits in photon-counting CT-a phantom study.
+PY  - 2026
+SP  - 154
+AB  - <h4>Objective</h4>Clinical decisions using CT iodine maps are based on evaluation of contrast enhancement, making it essential to understand how accurately CT systems detect and quantify iodine, yet quantitative evaluations remain scarce, and few studies treat iodine as an analyte for which detection threshold, quantification precision, and measurement linearity can be determined using standard laboratory-science concepts. No study has applied such concepts across photon-counting CT (PCCT) and dual-energy CT (DECT) systems.<h4>Materials and methods</h4>Using head and abdominal protocols, test tubes with iodine concentrations (0.0-2.0 mg/mL) were placed in a phantom providing head- and abdomen-equivalent attenuation. Scans were performed at two dose levels per protocol, on two DECT and one PCCT system. Iodine images were reconstructed for repeated scans using varying iterative reconstruction (IR) levels. Limit-of-detection (LoD), limit-of-quantification (LoQ), and lower-limit-of-linear-interval (LLLI) were calculated for two ROI sizes (3 and 10 mm), and differences between scanners were analyzed with Welch ANOVA and Games-Howell tests (α = 0.05).<h4>Results</h4>PCCT demonstrated significantly lower LoD/LoQ values than the DECT systems across most protocols. For low-dose abdomen (3 mGy, medium-IR), LoD for 3 and 10 mm ROI size were 0.78 and 0.16 mg/mL (PCCT), 1.28 and 0.26 mg/mL (split-filter CT), and 1.42 and 0.57 mg/mL (dual-source CT). LoQ values were also lower for PCCT. Improvements were most pronounced in low-dose protocols, with LoD reductions up to 68% (brain) and 45% (abdomen). LLLI was similar across systems.<h4>Conclusion</h4>PCCT outperformed DECT in iodine detection and quantification, particularly in low-dose protocols. These findings highlight the potential use of reduced iodine contrast and/or radiation dose.<h4>Key points</h4>Question Objective comparison of iodine detection and quantification performance between PCCT and DECT systems remains limited, particularly for low-iodine contrast media doses. Findings PCCT achieved significantly lower detection and quantification thresholds than conventional CT systems, particularly for small lesions and low-dose imaging protocols. Relevance statement Task-based LoD and LoQ metrics enable objective comparison of CT system performance and may provide clinically relevant thresholds for iodine detectability, quantification, and protocol optimization.
+DO  - 10.1186/s41747-026-00824-w
+UR  - https://pubmed.ncbi.nlm.nih.gov/42862273/
+AN  - 42862273
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+KW  - Iodine
+KW  - Quantification
+KW  - Contrast Media
+KW  - Limit Of Detection
+KW  - Pcct
+ER  - 
+
+TY  - JOUR
+AU  - Sandoval-Diez N
+AU  - Belácková L
+AU  - Jalilian H
+AU  - Veludo AF
+AU  - Roga L
+AU  - Deltour I
+AU  - Henderson S
+AU  - Loughran S
+AU  - Thielens A
+AU  - Zahner M
+AU  - Fröhlich J
+AU  - Huss A
+AU  - Röösli M
+TI  - Estimating Environmental RF-EMF Exposure From Mobile Networks Using Signal Indicators Collected With the ETAIN 5G Scientist App.
+PY  - 2026
+SP  - e70071
+AB  - Smartphones track indicators of a reference signal to maintain network connectivity. These can serve as proxies for a subset of environmental radiofrequency electromagnetic field (RF-EMF) exposure from mobile networks. In this multi-country study, we developed conversion functions linking signal indicators collected with the ETAIN 5G-Scientist app to measured RF-EMF exposure. Parallel measurements were conducted across six European countries and Australia using frequency-selective exposimeters and the app. Associations of signal strength and quality indicators with exposure were analysed using log-linear regression models: (1) serving-cell level, relating exposure in the serving frequency band to indicators of the connected cell (Europe n = 2960; Australia n = 747); and (2) location level, relating indicators aggregated across network providers to environmental exposure from 4G-LTE and 5G-NR networks (Europe n = 61; Australia n = 48). At the serving-cell level, 4G-LTE signal strength was positively associated with exposure, while signal quality was inversely associated. For 5G-NR, only signal strength was associated with exposure, with weaker and less consistent relationships than for 4G-LTE. At location level, aggregation across providers reduced model error, suggesting residual variability operates at short temporal and spatial scales. These findings support using smartphone signal indicators to estimate components of environmental RF-EMF exposure, although further validation is needed, particularly for 5G-NR. Bioelectromagnetics. 00:00-00, 2026. © 2026 Bioelectromagnetics Society.
+DO  - 10.1002/bem.70071
+UR  - https://pubmed.ncbi.nlm.nih.gov/42867131/
+AN  - 42867131
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+KW  - Measurement error
+KW  - Population‐Level Exposure Assessment
+KW  - Smartphone‐Based Measurements
+ER  - 
+
+TY  - JOUR
 AU  - Boyd SK
 AU  - Lackner NA
 AU  - Liphardt A
@@ -3205,6 +3255,20 @@ AB  - The advent of photon-counting computed tomography (PCCT) provides new oppo
 DO  - 10.64898/2026.07.22.26358681
 UR  - https://doi.org/10.64898/2026.07.22.26358681
 AN  - PPR1284137
+KW  - modele:dosimetrie_modelisation
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Lobbia VR
+AU  - Orsetti A
+AU  - van Ingen H
+TI  - Methyl-TROSY NMR at 1.2 GHz: exploiting resolution and magnetic field alignment for structure and dynamics of large biomolecular assemblies
+PY  - 2026
+AB  - The range of protein assemblies that can be studied by NMR has greatly expanded both by increases in magnetic field strength and by development of new NMR approaches, such as methyl-group specific transverse relaxation optimized spectroscopy (methyl-TROSY). Recently, a new generation of NMR magnets operating at 1.2 GHz have become available, offering the highest resolution for biomolecular NMR. Here, we investigated the performance of methyl-TROSY NMR at 1.2 GHz in the characterization of the structure and dynamics of large biomolecular assemblies, using the nucleosome, a 200 kDa protein-DNA complex, as a test sample. We find that the increased resolution of the 1.2 GHz system allowed to resolve small asymmetries in sidechain conformations that remained hidden at lower magnetic field strengths. Increased CSA relaxation effectively increased 13C transverse relaxation rates by 20% at 1200 compared to 900 MHz, negatively impacting sensitivity. We further observed significant magnetic field alignment of the nucleosome at 1.2 GHz, giving rise to methyl 1H-13C residual dipolar couplings (RDCs). We show that these histone methyl group RDCs can be used to aid stereo-specific assignment and to determine the overall conformation of the nucleosomal DNA, revealing a significant unwrapping of the DNA from the histone core in solution. We expect that 1.2 GHz NMR will be very advantageous for studies of large biomolecular assemblies, and in particular for protein-DNA complexes.
+DO  - 10.64898/2026.10.21.760675
+UR  - https://doi.org/10.64898/2026.10.21.760675
+AN  - PPR1349260
 KW  - modele:dosimetrie_modelisation
 KW  - theme:general
 ER  - 
@@ -4564,6 +4628,28 @@ KW  - modele:dosimetrie_modelisation
 KW  - theme:thermique
 KW  - theme:dosimetrie_exposition
 KW  - None
+ER  - 
+
+TY  - JOUR
+AU  - Sharma N
+AU  - Khanna R
+AU  - Rai MK
+TI  - Design and optimization of a multi-band spiral antenna for frequency-dependent hyperthermia heating in head and neck cancer treatment.
+PY  - 2026
+AB  - This research presents a compact multi-band spiral antenna designed for frequency-dependent hyperthermia therapy in head and neck cancers. The antenna is designed on a low-cost FR4 substrate with overall dimensions of 70 × 70 × 1.6 mm<sup>3</sup> and is optimized to cover the 915 MHz, 1.8 GHz, and 2.45 GHz frequency bands. Its geometry enables stable tri-band resonance with excellent impedance matching, ensuring efficient energy transfer into biological tissues. The antenna's performance is evaluated through S-parameter analysis, specific absorption rate (SAR) distribution, penetration depth (PD), and effective field size (EFS) using homogeneous and heterogeneous phantoms, as well as the Katja voxel model with and without a tumor. The thermal simulations confirm that therapeutic temperatures of 41-45 °C are achieved with low input powers between 2.5-6 W. At 2.45 GHz, the antenna provides localized heating for superficial tumors (≤ 3 cm), at 1.8 GHz it is effective for intermediate tumor depths (3-3.6 cm), and at 915 MHz it achieves deeper penetration for tumors located beyond 3.6 cm. Experimental validation using head-simulating liquid and ex vivo chicken tissue demonstrates good agreement with simulation results, confirming reliable and efficient heating. The proposed applicator offers a practical and versatile solution, enabling personalized hyperthermia therapy across a wide range of tumor depths in head and neck cancer treatment.
+DO  - 10.1007/s11517-026-03701-1
+UR  - https://pubmed.ncbi.nlm.nih.gov/42891889/
+AN  - 42891889
+KW  - modele:dosimetrie_modelisation
+KW  - theme:thermique
+KW  - modele:ingenierie_materiel
+KW  - theme:cancer
+KW  - theme:dosimetrie_exposition
+KW  - Head And Neck Cancer
+KW  - Sar Analysis
+KW  - Hyperthermia Therapy
+KW  - Multi-band Antenna
+KW  - Frequency-dependent Heating
 ER  - 
 
 TY  - JOUR
@@ -7644,6 +7730,36 @@ KW  - 5G
 ER  - 
 
 TY  - JOUR
+AU  - Loo JH
+AU  - Yeow SM
+AU  - Yong KR
+AU  - Lee HZR
+AU  - Yee SY
+AU  - Uppaluri SA
+AU  - Aftab S
+AU  - Venkatesh SH
+AU  - Jawan F
+AU  - Kok SSX
+AU  - Yogendra PM
+AU  - Tan MO
+TI  - Dual-Energy Computed Tomography Versus Conventional Magnetic Resonance In-Phase/Opposed-Phase Imaging for Liver Fat Fraction Quantification: A Retrospective Cohort Study.
+PY  - 2026
+SP  - 3260
+AB  - <b>Background/Objectives</b>: Multiple imaging modalities are available for non-invasive hepatic fat quantification. We performed a hypothesis-generating methods-comparison study to compare liver fat fraction (FF) measurements obtained using magnetic resonance imaging (MRI) in-phase/opposed-phase (IP/OP) with dual-energy computed tomography (DECT) multi-material decomposition (MMD) techniques. <b>Methods</b>: This retrospective method-comparison study included 45 patients who underwent abdominal DECT and MRI. Corresponding 2-cm<sup>2</sup> regions of interest were placed in hepatic segments VI and VII. DECT and MRI fat fraction measurements were compared using Spearman's correlation and Bland-Altman and Passing-Bablok analyses. Exploratory receiver operating characteristic area under the curve (ROC AUC) analyses evaluated the ability of DECT fat fraction measurements to discriminate MRI-defined steatosis thresholds. <b>Results</b>: DECT FF was positively associated with MRI FF in segment VI (Spearman's ρ = 0.50, <i>p</i> < 0.001) and segment VII (ρ = 0.57, <i>p</i> < 0.001). Bland-Altman analysis showed that DECT measurements were lower than MRI measurements on average, with mean biases (MRI-DECT) of 3.39% and 2.57% for segments VI and VII respectively, accompanied by wide limits of agreement. Passing-Bablok analysis showed no statistically significant proportional or constant bias. The ability of DECT FF to classify MRI-defined steatosis improved with increasing disease severity, with AUCs of 0.77 for mild steatosis and 0.88-0.99 for moderate-to-severe steatosis. <b>Conclusions</b>: This preliminary method-comparison study demonstrates an association between DECT and MRI fat fraction measurements and supports the feasibility of DECT for opportunistic hepatic fat quantification. Although exploratory AUC analyses provide preliminary estimates for future validation studies, substantial inter-modality variability currently limits definitive clinical application.
+DO  - 10.3390/diagnostics16193260
+UR  - https://pubmed.ncbi.nlm.nih.gov/42882415/
+AN  - 42882415
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - hepatic steatosis
+KW  - Dual-energy Ct
+KW  - Mri Dixon
+KW  - Multi-material Decomposition
+KW  - In-Phase Imaging
+KW  - Opposed-Phase Imaging
+ER  - 
+
+TY  - JOUR
 AU  - Zhu H
 AU  - Ming S
 AU  - Cheng P
@@ -8927,6 +9043,50 @@ KW  - computed tomography
 KW  - Contrast Agents
 KW  - Dual Energy
 KW  - Deep Learning
+ER  - 
+
+TY  - JOUR
+AU  - Ma T
+AU  - Liu J
+AU  - Wu M
+AU  - Yu H
+AU  - Liu S
+AU  - Gao L
+TI  - Quantitative dual-energy computed tomography parameters as imaging biomarkers for assessing the histopathologic grade of colorectal cancer.
+PY  - 2026
+SP  - 788
+AB  - <h4>Background</h4>Colorectal cancer (CRC) represents a major global healthcare burden. Tumor differentiation grade is a critical prognostic factor for evaluating patients with CRC. The objective of this study was to examine the value of dual-energy computed tomography (DECT) quantitative parameters as imaging biomarkers for the preoperative prediction of histopathologic CRC grade.<h4>Methods</h4>A total of 117 patients with pathologically confirmed CRC who underwent preoperative contrast-enhanced DECT were enrolled and divided into low-grade (n=74) and high-grade (n=43) groups. Monoenergetic 74-keV images from the arterial phase (AP), venous phase (VP), and delayed phase (DP) were reconstructed as conventional 120 kVp-like computed tomography (CT) images. Lesion CT attenuation values, iodine concentration (IC), normalized iodine concentration (NIC), effective atomic number (Zeff), and extracellular volume (ECV) were measured in three phases by two radiologists, and clinical data were collected. Intergroup comparisons and Spearman correlation analyses were conducted to determine the associations between spectral parameters and the histopathologic grade of CRC, and multivariable logistic regression analyses were applied to identify independent correlates. Three types of predictive models were established: a baseline model incorporating clinical variables and CT attenuation values, a single spectral parameter model, and combined models integrating clinical features with different spectral parameters. Receiver operating characteristic (ROC) curves and the DeLong test were used to compare the area under the curve (AUC) between the models. Bootstrap internal validation with 1,000 resamples was performed on the optimal model.<h4>Results</h4>Serum carcinoembryonic antigen (CEA) concentration showed significant differences between the low-grade group and high-grade group (P=0.009), whereas triphasic 120 kVp-like CT attenuation values showed no statistical differences (P>0.05). For the AP, only IC differed significantly (P=0.011); for the VP and DP, IC, NIC, Zeff, and ECV differed significantly (P<0.05), with ECV showing the strongest correlation with histopathologic grade in CRC (r=0.650: P<0.001). Multivariable analysis identified VP IC [odds ratio (OR) =4.601; P=0.046] and ECV (OR =1.492; P<0.001) as independent correlates of high histopathologic grade in CRC, with AUCs of 0.749 and 0.889, respectively. The integrated model combining clinical indicators with VP and DP spectral parameters achieved the best performance for predicting high histopathologic grade in CRC [AUC =0.904, 95% confidence interval (CI): 0.845-0.962; bias‑corrected AUC =0.904, 95% CI: 0.837-0.954], with an accuracy, sensitivity, and specificity of 85.5%, 88.4%, and 83.8%, respectively. The DeLong test revealed that this integrated model had significantly better diagnostic performance than did the baseline model (AUC =0.538; P<0.001), whereas no statistically significant difference was observed between the integrated model and the VP + DP dual-phase model (P=0.504).<h4>Conclusions</h4>DECT quantitative parameters have potential clinical value for predicting the histopathologic grade of patients with CRC. They may serve as imaging biomarkers and provide valuable information for understanding tumor biological behavior.
+DO  - 10.21037/qims-2025-1-2641
+UR  - https://pubmed.ncbi.nlm.nih.gov/42861220/
+AN  - 42861220
+KW  - modele:epidemiologie
+KW  - theme:neuro_comportement_cognition
+KW  - theme:cancer
+KW  - Colorectal Cancer (Crc)
+KW  - Imaging Biomarkers
+KW  - Histopathologic Grading
+KW  - Dual-energy Computed Tomography (Dect)
+KW  - Spectral Parameters
+ER  - 
+
+TY  - JOUR
+AU  - Tokgöz EÖ
+TI  - Effect of 7E instruction on primary students' non-ionizing radiation knowledge and protective behaviors.
+PY  - 2026
+SP  - 388
+AB  - <h4>Background</h4>This study examined the effect of a 7E learning model-based instructional process on primary school students' knowledge, perceptions, and protective behavior awareness regarding nonionizing radiation.<h4>Materıals and methods</h4>A mixed-methods design was used, including a quasi-experimental pretest-posttest-control group and qualitative interviews. The study involved 48 fourth-grade students from a public primary school in Türkiye. Two classes were selected by drawing lots and randomly assigned to experimental and control groups. Quantitative data were collected using the rubric-based Radiation Information Form; Mann-Whitney U and Wilcoxon signed-rank tests were applied, and effect sizes were calculated. Qualitative data were obtained through semi-structured interviews and analyzed using inductive thematic content analysis.<h4>Results</h4>Both groups showed significant posttest improvement, but the experimental group demonstrated significantly greater gains with a very large observed effect size. Qualitative findings suggested more coherent conceptual understanding and increased awareness of protective behaviors among experimental group students.<h4>Conclusion</h4>The 7E learning model appears to support the development of children's understanding and awareness regarding nonionizing radiation. However, the findings should be interpreted with caution due to the single-school sample, short intervention duration, and reliance on students' self-reported data.
+DO  - 10.4103/jehp.jehp_2312_25
+UR  - https://pubmed.ncbi.nlm.nih.gov/42924320/
+AN  - 42924320
+KW  - modele:epidemiologie
+KW  - theme:neuro_comportement_cognition
+KW  - theme:neurodeveloppement
+KW  - Science
+KW  - Primary School
+KW  - Radiation Awareness
+KW  - 7e Model
+KW  - Radioactivity Education
+KW  - Safe Technology Use
 ER  - 
 
 TY  - JOUR
@@ -12798,6 +12958,32 @@ KW  - 2.45 Ghz
 ER  - 
 
 TY  - JOUR
+AU  - Ahmad S
+AU  - Nagar G
+AU  - Yadav N
+AU  - Singh S
+AU  - Shrivastava A
+AU  - Singh R
+TI  - Radiofrequency Radiation Alters Redox Homeostasis, ATP Status, and Apoptosis-Associated Responses in Human Ovarian Epithelial Cells.
+PY  - 2026
+SP  - 1826
+AB  - With the expansion of wireless communication technologies, radiofrequency radiation (RFR) has become a persistent component of the environmental exposome. The 2450 MHz frequency is a widely used RF band in wireless and microwave technologies, providing an environmentally relevant model for evaluating non-ionising radiation effects. Although non-ionising, RFR may influence cellular homeostasis through non-thermal stress pathways, yet its cellular effects in ovarian-derived models remain insufficiently defined. This study examined whether 2450 MHz RFR was associated with redox, ATP-related, and apoptosis-associated responses in SKOV3 ovarian epithelial cells. Cells were exposed for 30, 60, and 120 min under controlled conditions at a measured electric field intensity of 13.44 V/m. MTT-based viability/metabolic activity at 24 h and 48 h post-exposure, ROS, nitrite, ATP, mitochondrial membrane potential, apoptosis-related gene expression, and Annexin V-FITC/PI staining were assessed. RFR exposure did not significantly reduce MTT-based viability/metabolic activity at 24 h post-exposure; at 48 h, a significant reduction was observed in the 120-min group compared with the control and 30-min groups. Exposed cells showed progressive ROS accumulation, increased nitrite levels, and changes in ATP levels, with an increase at 30 min followed by lower levels at 60 and 120 min relative to 30 min, while the JC-1 red/green ratio showed no significant change. Apoptosis-associated transcriptional changes were marked by increased Bak1, Nip-2, and Caspase-4 and reduced Bcl-xL and Bag3 expression and a non-significant increase in Bad expression. Annexin V-FITC/PI analysis demonstrated an exposure-duration-associated increase in Annexin V-positive populations, with a predominance of Annexin V<sup>+</sup>/PI<sup>+</sup> cells following 120 min of exposure. Overall, these findings indicate an exposure-associated cellular stress phenotype involving redox, ATP status, and apoptosis-related alterations in SKOV3 cells under defined in vitro conditions.
+DO  - 10.3390/cells15191826
+UR  - https://pubmed.ncbi.nlm.nih.gov/42882524/
+AN  - 42882524
+KW  - modele:in_vitro
+KW  - theme:apoptose_mitochondrie
+KW  - theme:stress_oxydatif
+KW  - theme:cancer
+KW  - theme:reproduction
+KW  - Radiofrequency Radiation
+KW  - Oxidative–nitrosative Stress
+KW  - Apoptosis-Associated Responses
+KW  - Atp Status
+KW  - Skov3 Ovarian Carcinoma-Derived Epithelial Cells
+ER  - 
+
+TY  - JOUR
 AU  - Wang LF
 AU  - Li X
 AU  - Gao YB
@@ -15966,6 +16152,35 @@ KW  - antibacterial
 KW  - black phosphorus
 KW  - electromagnetism
 KW  - microwave sensitizer
+ER  - 
+
+TY  - JOUR
+AU  - van Oossanen R
+AU  - Nadar RA
+AU  - van de Kamp G
+AU  - Kuijten MMP
+AU  - Androulakis I
+AU  - Godart J
+AU  - Denkova AG
+AU  - van Rhoon GC
+AU  - Essers J
+AU  - Djanashvili K
+TI  - Comparative analysis of the biological effects on U87 and FaDu 3D spheroids after their exposure to different hyperthermia modes.
+PY  - 2026
+SP  - 2740826
+AB  - <h4>Objective</h4>To systematically compare the impact of four hyperthermia (HT) modalities, water bath (WB), amplitude-modulated and non-modulated radiofrequency electromagnetic fields (AMRF and RF), and magnetic nanoparticles (MNP) in 3D tumor spheroid models, and to evaluate how different thermal doses influence treatment outcomes and translational relevance.<h4>Methods</h4>3D spheroids of U87 glioblastoma and FaDu squamous carcinoma cells were exposed to thermal doses of 15, 30 and 120 CEM43 corresponding to 42 °C (60 min), 43 °C (30 min), and 45 °C (30 min), accounting for modality-dependent heating rates. Cell viability was assessed immediately after treatment and seven days later. Morphological changes, TUNEL staining, and apoptosis were evaluated in FaDu spheroids, while BRCA2 protein levels were analyzed in both spheroid types to investigate potential effects on homologous recombination-mediated DNA repair.<h4>Results</h4>Immediately after treatment, U87 spheroids showed up to a 40% reduction in viability, while FaDu spheroids exhibited moderate sensitivity. By day 7, viability had largely recovered across most heating modalities and doses. However, U87 spheroids treated with MNP heating at 45 °C displayed sustained cytotoxicity, with viability reduced to 29%. In FaDu spheroids, morphological alterations, TUNEL positivity, and apoptosis correlated with increasing thermal dose. Reduced BRCA2 protein levels suggested possible impairment of homologous recombination repair, though functional validation was not conducted. At moderate thermal doses, all modalities produced comparable biological effects, whereas high-dose MNP heating resulted in enhanced cytotoxicity.<h4>Conclusions</h4>Our findings indicate that at moderate thermal doses, all tested HT-modalities produced comparable biological responses in both 3D spheroid models, while high-dose MNP-mediated heating markedly enhanced cytotoxicity, likely due to combined nanoparticle-specific and thermal effects. These results highlight the usefulness of 3D spheroid models for assessing modality-dependent HT responses and may help guide the design of clinically relevant thermal therapies.
+DO  - 10.1080/02656736.2026.2740826
+UR  - https://pubmed.ncbi.nlm.nih.gov/42860714/
+AN  - 42860714
+KW  - modele:in_vitro
+KW  - theme:thermique
+KW  - theme:apoptose_mitochondrie
+KW  - theme:cancer
+KW  - Hyperthermia
+KW  - Magnetic Hyperthermia
+KW  - Cancer Cell Lines
+KW  - 3D In Vitro Models
+KW  - Radiofrequency Electromagnetic Field
 ER  - 
 
 TY  - JOUR
@@ -22610,6 +22825,35 @@ KW  - 3.5 Ghz
 ER  - 
 
 TY  - JOUR
+AU  - Kovalyk X
+AU  - Saniternik S
+AU  - Nies I
+AU  - Schütz MB
+AU  - Gremse F
+AU  - Hamacher LM
+AU  - Rosendahl A
+AU  - Schwab K
+AU  - Schmidt AM
+AU  - Große-Hokamp N
+AU  - Grüll H
+TI  - Biodegradable radiopaque polymeric particles for computed tomography-guided intraperitoneal drug delivery.
+PY  - 2026
+SP  - 115477
+AB  - An iodinated hydrophobic oil containing the 2,3,5-triiodobenzoate moiety was encapsulated in biodegradable poly(lactic acid)-based polymer particles using a solvent emulsion-evaporation technique that provided control over particle size. The hydrophobic iodinated oil served a dual function as radiopaque contrast agent for particle quantification using dual-energy x-ray computed tomography (DECT) imaging and furthermore as solvent for the chemotherapeutic drug paclitaxel (PTX), establishing a novel theranostic system. Release kinetics of PTX was studied in fetal bovine serum over seven days demonstrating sustainable drug release over the entire period, with cumulative release mainly depending on particle diameter. Intraperitoneal administration of a therapeutic dosage of radiopaque spheres in mice provided sufficient iodine contrast to track biodistribution and clearance over 18 days. Importantly, imaging showed unexpected particle aggregation in vivo with about 50% clearance over 18 days, emphasizing the value of real-time distribution assessment as a complementary method to conventional ex-vivo histology. A proof of concept of longitudinal dual imaging using single-photon emission CT (SPECT)/DECT was demonstrated in a mouse model of colorectal cancer with intraperitoneal metastases following a single intraperitoneal dose of PTX or PTX-loaded particles. Treatment response was monitored using SPECT, while particle distribution was tracked by DECT. This theranostic approach integrates controlled intraperitoneal drug delivery with non-invasive quantitative DECT-based imaging and may improve treatment precision and therapeutic outcomes.
+DO  - 10.1016/j.jconrel.2026.115477
+UR  - https://pubmed.ncbi.nlm.nih.gov/42926018/
+AN  - 42926018
+KW  - modele:in_vivo
+KW  - theme:neurodeveloppement
+KW  - modele:dosimetrie_modelisation
+KW  - biodistribution
+KW  - Biodegradable Polymer
+KW  - Radiopaque
+KW  - Intraperitoneal Drug Delivery
+KW  - Ct-guided
+ER  - 
+
+TY  - JOUR
 AU  - Chen G
 AU  - Ran X
 AU  - Li B
@@ -23948,6 +24192,28 @@ KW  - Sperm quality
 KW  - Male Reproductive Toxicity
 KW  - Radiofrequency Electromagnetic Fields
 KW  - 5 G Millimeter-wave Exposure
+ER  - 
+
+TY  - JOUR
+AU  - Beigi SAD
+AU  - Khalili MA
+AU  - Anbari F
+AU  - Woodward BJ
+AU  - Zare F
+AU  - Aflatoonian B
+TI  - Cell phone radiofrequency electromagnetic radiation exposure alters mouse sperm quality and impairs preimplantation development of embryos derived from exposed sperm
+PY  - 2026
+AB  - <title>Abstract</title>  <p>  Cell phone radiofrequency electromagnetic radiation (RF-EMR) may adversely affect male reproductive function, but its effects on sperm and embryos derived from exposed sperm remain incompletely understood. This study investigated the effects of 30-min in vitro exposure to RF-EMR (900–1800 MHz, call mode; SAR ~ 0.6–1.8 W/kg; 10 cm distance) on mouse sperm quality and subsequent preimplantation embryo development. Sperm count, motility, viability, morphology, DNA fragmentation, acrosome reaction (AR), malondialdehyde (MDA) levels, and mitochondrial gene expression (  <italic>mt-Nd1, mt-Nd2</italic>  , and  <italic>mt-Atp6</italic>  ) were assessed. Embryos generated by in vitro fertilization (IVF) using exposed sperm were monitored by time-lapse imaging. RF-EMR exposure significantly reduced progressive motility, viability, and normal morphology (P < 0.001), while sperm count and AR were unaffected. DNA fragmentation significantly increased following exposure (P < 0.0001), accompanied by elevated MDA levels (P = 0.0491) and downregulation of all assessed mitochondrial genes (P < 0.05). Embryos derived from exposed sperm exhibited delayed cleavage and compaction, reduced embryo quality and survival, and increased fragmentation and developmental arrest compared with controls (P < 0.05). These findings suggest that short-duration exposure of mouse sperm to cell phone RF-EMR can impair sperm functional and molecular characteristics and is associated with adverse preimplantation development of embryos derived from exposed sperm.  </p>
+DO  - 10.21203/rs.3.rs-10975314/v1
+UR  - https://doi.org/10.21203/rs.3.rs-10975314/v1
+AN  - PPR1344853
+KW  - modele:in_vivo
+KW  - theme:reproduction
+KW  - modele:in_vitro
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neurodeveloppement
+KW  - theme:stress_oxydatif
+KW  - theme:genotoxicite_epigenetique
 ER  - 
 
 TY  - JOUR
@@ -31275,6 +31541,63 @@ KW  - Split-bolus Ct
 ER  - 
 
 TY  - JOUR
+AU  - Takatori N
+AU  - Uchiyama Y
+AU  - Imai T
+AU  - Watanabe M
+TI  - MRI goutallier classification, DECT and MRI IDEAL for evaluating supraspinatus fatty infiltration: A prospective comparison.
+PY  - 2026
+SP  - S0949-2658(26)00302-7
+AB  - <h4>Background</h4>The Goutallier classification has been used worldwide for evaluating fatty infiltration of rotator cuff muscles, but offers relatively low interobserver reliability because visual evaluations are subjective. We previously evaluated fatty infiltration of rotator cuff muscles using dual-energy computed tomography (DECT) in patients with rotator cuff tears and reported a significant positive correlation between the intramuscular muscle-to-fat ratio and the Goutallier stage. This study aimed to investigate the relationship between the Goutallier classification, DECT and iterative decomposition of water and fat with echo asymmetry and least-squares estimation (IDEAL) for fatty infiltration of the supraspinatus muscle in patients with rotator cuff tears.<h4>Methods</h4>This study examined 90 patients (92 shoulders; 50 men, 40 women; mean age, 71 years). Fatty infiltration of the supraspinatus was evaluated qualitatively by the Goutallier classification using magnetic resonance imaging (MRI), and quantitatively by both intramuscular muscle-to-fat ratio using DECT (DECT-%f/m) and fat fraction using IDEAL (IDEAL-ff). Each assessment was performed by three orthopedic surgeons independently. We evaluated the following: 1) interobserver reliability of the Goutallier classification and DECT-%f/m and IDEAL-ff; and 2) correlations between each evaluation.<h4>Results</h4>The κ value was 0.628 b y the Goutallier classification, and the intraclass correlation coefficient<sub>(2,1)</sub> was 0.921 for DECT-%f/m and 0.983 for IDEAL-ff. Significant positive correlations with the Goutallier classification were seen for both DECT-%f/m and IDEAL-ff. Moreover, DECT-%f/m and IDEAL-ff displayed a significant positive correlation.<h4>Conclusions</h4>Interobserver reliabilities were higher for both DECT-%f/m and IDEAL-ff than for the Goutallier classification, and both correlated positively with the Goutallier classification and with each other. These findings suggest that quantitative evaluations such as DECT-%f/m and IDEAL-ff may prove useful for assessing fatty infiltration of rotator cuff muscles, and DECT may be useful for evaluating the condition of rotator cuff muscle in patients who cannot be examined using MRI.
+DO  - 10.1016/j.jos.2026.10.002
+UR  - https://pubmed.ncbi.nlm.nih.gov/42875272/
+AN  - 42875272
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Quantitative evaluation
+KW  - Rotator Cuff Tear
+KW  - Dual-energy Computed Tomography
+KW  - Fat Infiltration
+KW  - Goutallier Classification
+KW  - Ideal Method
+ER  - 
+
+TY  - JOUR
+AU  - Heggie BT
+AU  - Arreola M
+AU  - Leon SM
+AU  - Barreto IL
+TI  - Filament deposition modeling quality assurance testing for the medical physicist.
+PY  - 2026
+SP  - e70856
+AB  - <h4>Background</h4>Filament deposition modeling (FDM) can be a practical method for producing quality control (QC) imaging resources for the clinic. However, frequent printing may degrade print quality over time.<h4>Purpose</h4>To develop a process to ensure prints for the diagnostic physicist are accurate and reproducible.<h4>Methods</h4>Four FDM systems were evaluated by printing a custom, novel QC model on each printer 12 times over a period of 12 months. Several tests were performed, including print resolvability (lp/cm), XYZ dimension accuracy (mm), density (g/cm3), line width (mm), XY position accuracy (mm), clearance fits (mm), and thickness uniformity (mm). Polylactic acid (PLA) samples were printed, measured, and imaged with a dual energy CT scanner. Linear regression models were then created to monitor changes in QC density measurements as a function of x-ray and material property characteristics (i.e., Hounsfield units and electron density). Between monthly prints, heat uniformity across the build plate was also tested for each printer using a NIST-certified infrared thermometer and 3D printed grids. All physical measurements were obtained using a calibrated digital caliper and milligram scale.<h4>Results</h4>Mean percent error (MPE) for all tests was calculated from ground truth (CAD dimensions and filament density) and baseline values (first month of QC measurements). Among printers investigated, MPE was ± 5% of ground truth for all tests except density and thickness uniformity. Baseline MPE was also observed within ± 5% except for resolvability and clearance fit tests among printers. Subtle trend increases were presented for higher density QC prints based on DECT linear regression models. Reduced chi-squared values indicate uniform and reproducible heat bed temperature measurements.<h4>Conclusions</h4>This work offers an innovative approach toward evaluating and monitoring FDM system performance. Future work should track performance over a longer time period and across a wider variety of printers.
+DO  - 10.1002/acm2.70856
+UR  - https://pubmed.ncbi.nlm.nih.gov/42900553/
+AN  - 42900553
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Quality assurance
+KW  - 3D Printing
+KW  - Dual‐energy Computed Tomography
+KW  - Filament Deposition Modeling
+ER  - 
+
+TY  - JOUR
+AU  - Uzunbayir B
+AU  - Uyulgan B
+AU  - Saf O
+TI  - Microwave-Treated Structural and Network Changes in Filled Industrial EPDM Waste: Effects of Particle Size and Exposure Time.
+PY  - 2026
+SP  - 62838-62851
+AB  - Ethylene-propylene-diene monomer (EPDM) compounds used in automotive sealing systems contain permanent cross-links and high amounts of fillers and process oils, which complicate their recycling. This study examined the effects of particle-size fraction (≤125 and ≥125 μm) and microwave exposure time (60-180 s at 600 W) on the structural response of a highly filled industrial EPDM waste. Apparent sol fraction and apparent cross-link density were used as comparative indicators, supported by ATR-FTIR, XPS, TGA, and SEM analyses. The fine fraction treated for 60 s showed the lowest apparent cross-link density (0.72 × 10<sup>-4</sup> mol/cm<sup>3</sup>), corresponding to an apparent reduction of 17.11% relative to untreated ground EPDM. Longer exposure is increasingly favored by network-forming responses, particularly in the coarse fraction, demonstrating competition between network loosening and secondary cross-linking. XPS showed changes in sulfur-containing surface environments, while ATR-FTIR revealed no appreciable shifts in the principal EPDM bands. TGA and SEM showed clear differences between the particle-size fractions. In revulcanized compounds containing 10 phr recycled EPDM, tensile strength remained within 7.71-8.32 MPa, and none of the recycled formulations differed significantly from the reference C-EPDM. Microwave treatment had a significant overall effect on tensile strength (<i>p</i> = 0.014), but only the treated fine fraction differed from its untreated counterpart (<i>p</i> = 0.046); elongation at break did not differ significantly. Surface roughness and Shore A hardness remained broadly comparable. Overall, microwave exposure produced competing particle-size- and time-dependent network responses, indicating a narrow processing window for the controlled modification of highly filled industrial EPDM waste.
+DO  - 10.1021/acsomega.6c04739
+UR  - https://pubmed.ncbi.nlm.nih.gov/42923967/
+AN  - 42923967
+KW  - modele:non_classe
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
 AU  - Nascimento DM
 AU  - Santos PL
 AU  - Ribeiro-Junior MR
@@ -32215,6 +32538,34 @@ KW  - Inertial Measurement Unit
 KW  - Deep Learning
 KW  - Behavior Classification
 KW  - Ultra-wideband Ranging
+ER  - 
+
+TY  - JOUR
+AU  - Zhu H
+AU  - Wang S
+AU  - Bai L
+AU  - Zhu Q
+AU  - Li W
+AU  - Yu L
+AU  - Liu X
+AU  - Zhang Y
+AU  - Liu S
+AU  - Yang B
+AU  - Qiu J
+TI  - Enhanced two-stage cascaded network for high-precision stopping power ratio and functional image generation from conventional CT.
+PY  - 2026
+SP  - 113012
+AB  - <h4>Purpose</h4>Accurate stopping power ratio (SPR) estimation is essential for proton therapy dose calculation; however, SPR and related functional images-electron density (ED), effective atomic number (Zeff), and iodine concentration (IC)-currently require dual-energy CT (DECT), whose clinical adoption is limited by high cost and restricted availability. To our knowledge, no previous study has synthesized DECT-derived functional images directly from conventional single-energy CT (SECT). This study proposes, for the first time, a deep learning framework that generates SPR, ED, Zeff, and IC maps simultaneously from conventional CT, and investigates whether a physics-informed two-stage cascaded architecture can outperform conventional single-stage networks.<h4>Methods</h4>Seventy-four head-and-neck cancer patients scanned with a dual-layer DECT scanner were retrospectively analyzed. Integrated detector-layer signals provided SECT-equivalent input images, while DECT-derived maps served as references. Four networks were compared: a single-output UNet (UNet-1), a multi-output UNet (UNet-4), a two-stage cascaded UNet (Cascade-UNet), and the proposed enhanced two-stage cascaded model (Cascade-New), which incorporates an asymmetric encoder-decoder with residual vision modules and Mamba-based dense connectivity, and exploits the physical dependency chain CT → ED/Zeff → SPR through a three-term training loss. Models were evaluated on an independent test set using mean absolute error (MAE), peak signal-to-noise ratio (PSNR), structural similarity index measure (SSIM), and Pearson correlation coefficient (PCC), with pairwise Wilcoxon signed-rank tests.<h4>Results</h4>The proposed Cascade-New model achieved the best overall performance: the lowest SPR MAE (11.65 ± 1.58 in units of SPR × 10<sup>-3</sup> vs. 12.99 ± 1.46 for UNet-4, a 10.3% relative reduction), the highest SSIM (0.9971 ± 0.0016), and the strongest correlation (PCC = 0.9996 ± 0.0002). Improvements over UNet-4 in ED, Zeff, and IC synthesis were all statistically significant (all p = 0.031). Visual and error map analyses confirmed its improved performance, particularly in bone and heterogeneous tissue regions.<h4>Conclusion</h4>This study provides the first demonstration that SPR and other DECT-derived functional images can be synthesized directly from conventional SECT with high precision. The proposed physics-informed cascaded framework offers a cost-effective alternative to DECT, enabling radiotherapy centers to obtain accurate SPR maps with conventional CT for proton dose calculation, potentially reducing range uncertainty and expanding access to high-precision functional imaging.
+DO  - 10.1016/j.apradiso.2026.113012
+UR  - https://pubmed.ncbi.nlm.nih.gov/42874510/
+AN  - 42874510
+KW  - modele:non_classe
+KW  - theme:neuro_comportement_cognition
+KW  - Functional Imaging
+KW  - Electron Density
+KW  - Dual-energy Ct
+KW  - Stopping Power Ratio
+KW  - Cascaded Networks
 ER  - 
 
 TY  - JOUR
@@ -35428,6 +35779,28 @@ KW  - modele:dosimetrie_modelisation
 ER  - 
 
 TY  - JOUR
+AU  - Majeed NF
+AU  - Cao J
+AU  - Mroueh N
+AU  - Kambadakone AR
+TI  - Hyperdense Renal Lesion Characterization on Three DECT Technologies: Can Iodine Quantification Differentiate Hyperattenuating Renal Cysts From Papillary Renal Cell Cancers?
+PY  - 2026
+SP  - S1076-6332(26)00783-X
+AB  - <h4>Rationale and objectives</h4>To evaluate the performance of dual-energy computed tomography (DECT) in differentiation of hyperattenuating renal cysts (HCs) from papillary renal cell cancers (pRCCs) on three different DECT technologies (dual-source [dsDECT], rapid kVp-switching [rsDECT], and dual-layer detector-based [dlDECT]).<h4>Materials and methods</h4>In this institutional review board-approved retrospective study, we included 85 patients with a total of 108 incidental hyperdense renal lesions detected on contrast-enhanced DECT scans (dsDECT, n = 41; rsDECT, n = 42; and dlDECT, n = 25). The study cohort included HCs (n = 73) and pRCCs (n = 35). Final confirmation was obtained with histopathology for pRCCs and with magnetic resonance imaging within 6 months of the DECT for HCs. Quantitative iodine evaluation was performed with iodine concentration (IC) measured within the lesion and the abdominal aorta. Normalized IC (NIC) was generated for each lesion by normalizing the lesion IC to the aortic IC.<h4>Results</h4>Both IC and NIC measurements yielded significant differences between HCs and pRCCs for the dsDECT and rsDECT techniques (P < 0.001) but not for the dlDECT (P > 0.05). Cutoff values with 100% sensitivity for pRCC detection were 0.30 and 0.60 mg/mL for dsDECT and rsDECT, respectively. Normalization to the abdominal aorta allowed creation of a uniform cutoff on both technologies, with an NIC value of 0.09 allowing 100% sensitivity for each.<h4>Conclusion</h4>Significant intertechnique differences exist for the differentiation of HCs from pRCCs. Normalization of IC to the aorta provides a uniform cutoff for differentiation of these lesions on dsDECT and rsDECT.
+DO  - 10.1016/j.acra.2026.09.048
+UR  - https://pubmed.ncbi.nlm.nih.gov/42892596/
+AN  - 42892596
+KW  - modele:revue
+KW  - theme:general
+KW  - modele:epidemiologie
+KW  - computed tomography
+KW  - Dual Energy
+KW  - Iodine Quantification
+KW  - Papillary Renal Cell Cancer
+KW  - Hemorrhagic Renal Cyst
+ER  - 
+
+TY  - JOUR
 AU  - Ota K
 AU  - Yabusaki S
 TI  - DECT Diagnosis of Gouty Tophi with Normal Uric Acid: A Case Report
@@ -35451,6 +35824,20 @@ AN  - PPR1305059
 KW  - modele:revue
 KW  - theme:general
 KW  - modele:dosimetrie_modelisation
+ER  - 
+
+TY  - JOUR
+AU  - Abduljalil Mohamed M
+TI  - Electrical and Electromagnetic Field Exposure as a Candidate Antimalarial Strategy: A Systematic Review of Preclinical and Early Clinical Evidence
+PY  - 2026
+AB  - Background Partial artemisinin resistance is spreading in African  Plasmodium falciparum malaria, renewing interest in non-drug antimalarial strategies. Electrical and electromagnetic fields have been proposed to damage parasites via haemozoin biophysics and calcium signalling, but this evidence has never been systematically appraised. Methods We searched for studies exposing Plasmodium, infected blood, infected animals or malaria patients to electrical, magnetic or electromagnetic fields. The search was limited to PubMed/PubMed Central and open web sources (single AI-assisted reviewer, September 2026); Scopus, Embase and Web of Science were not searched (disclosed limitation). Risk of bias was assessed with a seven-domain preclinical tool and ROBINS-I. Because of incompatible outcomes and limited data, we used synthesis without meta-analysis (SWiM). Results Thirteen studies (≈2000–2025) from seven groups were included (six in vitro, one ex vivo, five rodent, one human). Ten reported net inhibition under at least one condition. Pulsed 2.45 GHz microwaves non-thermally killed >90% of cultured parasites via a calcium-dependent pathway; this was reproduced with a portable device by the same network. A rotating magnetic field suppressed growth at 5–10 Hz but increased it at 1 Hz or under static conditions. In the only head-to-head comparison, artemisinin-based combination therapy cleared more parasites (88.3%) than any magnetic-field dose. Risk of bias was high in seven studies and of some concern in six. Certainty was very low throughout. Conclusions Electrical and electromagnetic fields can inhibit malaria parasites under laboratory conditions; microwave exposure is the best characterised. No field approach has matched standard therapy. The evidence remains preclinical, limited to a few research groups, and is hypothesis-generating rather than a candidate treatment. A minimum reporting standard is proposed.
+DO  - 10.12688/f1000research.192359.1
+UR  - https://doi.org/10.12688/f1000research.192359.1
+AN  - PPR1345446
+KW  - modele:revue
+KW  - theme:general
+KW  - modele:in_vivo
+KW  - modele:in_vitro
 ER  - 
 
 TY  - JOUR
@@ -37187,6 +37574,34 @@ KW  - Environmental factors
 KW  - Male infertility
 KW  - Sperm quality
 KW  - Endocrine Disruptors
+ER  - 
+
+TY  - JOUR
+AU  - Gautam R
+AU  - Tomar AK
+AU  - Tanwar S
+AU  - Mazumder P
+AU  - Sharma A
+AU  - Verma A
+AU  - Arora T
+TI  - Global research trends on RF-EMR and reproductive health: Bibliometric insights and mechanistic review.
+PY  - 2026
+SP  - 102832
+AB  - The widespread adoption of mobile phones has raised public health concerns regarding the biological effects of radiofrequency electromagnetic radiation (RF-EMR), with reproductive health considered a potentially vulnerable domain. This study systematically characterized the global research landscape through a combined bibliometric analysis and mechanistic narrative review. Web of Science Core Collection was searched on 19 February 2025 with no year restriction. After applying inclusion and exclusion criteria, 828 publications were retained. Bibliometric networks were constructed using VOSviewer (version 1.6.20) at institutional, country, author, keyword, and journal levels. A complementary mechanistic review was conducted independently of the bibliometric dataset. Publication output increased substantially from 2005, peaking between 2018 and 2020. The United States and China were the most frequently represented countries (152 and 151 documents, respectively). Keyword co-occurrence identified oxidative stress as the dominant mechanistic theme (110 occurrences; TLS = 838), co-occurring with apoptosis, sperm quality, DNA fragmentation, testosterone, and spermatogenesis. A temporal shift from genetic risk studies towards targeted mechanistic investigations was observed. Evidence from in vitro, animal, and human studies suggests RF-EMR may adversely affect reproductive health through oxidative stress, mitochondrial dysfunction, DNA damage, apoptosis, hormonal disruption, and impaired spermatogenesis, though direct extrapolation to human outcomes requires caution. This study maps global research trends in RF-EMR and reproductive health and identifies key collaborative networks and mechanistic themes. Standardized experimental designs, long-term human studies, and interdisciplinary approaches are needed to resolve outstanding uncertainties.
+DO  - 10.1016/j.bbrep.2026.102832
+UR  - https://pubmed.ncbi.nlm.nih.gov/42898233/
+AN  - 42898233
+KW  - modele:revue
+KW  - theme:reproduction
+KW  - modele:in_vitro
+KW  - theme:stress_oxydatif
+KW  - theme:apoptose_mitochondrie
+KW  - theme:genotoxicite_epigenetique
+KW  - Oxidative stress
+KW  - Reproductive Health
+KW  - Bibliometric Analysis
+KW  - Mobile Phone Radiation
+KW  - Rf-emr
 ER  - 
 
 TY  - JOUR

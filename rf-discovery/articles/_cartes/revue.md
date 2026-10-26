@@ -1,6 +1,6 @@
 # revue
 
-172 articles.
+175 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -58,7 +58,7 @@
 - `2021` [[2021_34180044_smart-devices-mobile-phone-in-patients-with-epilep]] — Asadi-Pooya AA et al.
 - `2021` [[2021_34497578_seizure-forecasting-using-a-novel-sub-scalp-ultra]] — Stirling RE et al.
 
-## general (40)
+## general (42)
 
 - `2026` [[2026_41600235_next-generation-biomedical-microwave-antennas-meta]] — Koutsoupidou M, Karanasiou IS
 - `2026` [[2026_41600329_low-cost-sensors-in-5g-rf-emf-exposure-monitoring]] — Rathebe PC, Kholopo M
@@ -75,8 +75,10 @@
 - `2026` [[2026_42667564_what-you-don-t-see-matters-dual-energy-ct-in-emerg]] — Anichini M et al.
 - `2026` [[2026_42730093_impacts-of-geomagnetic-and-man-made-electromagneti]] — Fadlou Allah T et al.
 - `2026` [[2026_42831153_correlation-of-the-diagnostic-accuracy-of-dual-ene]] — Adebayo D et al.
+- `2026` [[2026_42892596_hyperdense-renal-lesion-characterization-on-three]] — Majeed NF et al.
 - `2026` [[2026_PPR1173925_dect-diagnosis-of-gouty-tophi-with-normal-uric-aci]] — Ota K, Yabusaki S
 - `2026` [[2026_PPR1305059_autonomous-rescue-robots-for-post-disaster-search]] — Ahmad S
+- `2026` [[2026_PPR1345446_electrical-and-electromagnetic-field-exposure-as-a]] — Abduljalil Mohamed M
 - `2025` [[2025_39652433_a-mechanistic-understanding-of-human-magnetorecept]] — Henshaw DL, Philips A
 - `2025` [[2025_40295166_presbyopia-correction-in-lens-replacement-surgery]] — Stern B, Gatinel D
 - `2025` [[2025_40444172_a-mini-review-of-the-potential-health-impacts-of-i]] — Maipas S et al.
@@ -159,9 +161,10 @@
 
 - `2025` [[2025_40363190_effects-of-mobile-electromagnetic-exposure-on-brai]] — Torkan A et al.
 
-## reproduction (25)
+## reproduction (26)
 
 - `2026` [[2026_41809810_environmental-and-microbiome-determinants-of-sperm]] — Qi Y et al.
+- `2026` [[2026_42898233_global-research-trends-on-rf-emr-and-reproductive]] — Gautam R et al.
 - `2025` [[2025_38584548_response-of-male-reproductive-system-against-ioniz]] — Parashar R et al.
 - `2025` [[2025_40108785_the-effects-of-radiofrequency-radiation-on-male-re]] — Bektas H, Dasdag S
 - `2025` [[2025_41034851_the-who-commissioned-systematic-reviews-on-health]] — Melnick RL et al.

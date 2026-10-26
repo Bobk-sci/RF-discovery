@@ -1,6 +1,6 @@
 # in_vivo
 
-424 articles.
+426 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -239,10 +239,11 @@
 - `1989` [[1989_2712841_lack-of-behavioral-effects-in-the-rhesus-monkey-hi]] — D'Andrea JA et al.
 - `1986` [[1986_3730002_influence-of-pre-and-postnatal-exposure-of-rats-to]] — Galvin MJ et al.
 
-## neurodeveloppement (53)
+## neurodeveloppement (54)
 
 - `2026` [[2026_41125539_one-year-follow-up-of-thyroid-status-in-rats-expos]] — Özyılmaz C et al.
 - `2026` [[2026_42423814_prenatal-3-5-ghz-radiofrequency-exposure-induces-r]] — Gelenli Dolanbay E et al.
+- `2026` [[2026_42926018_biodegradable-radiopaque-polymeric-particles-for-c]] — Kovalyk X et al.
 - `2025` [[2025_39692219_effect-of-6-ghz-radiofrequency-electromagnetic-fie]] — Karamazı Y et al.
 - `2025` [[2025_40099659_the-effect-on-rat-peripheral-nerve-morphology-and]] — Hancı H et al.
 - `2025` [[2025_40413484_effects-of-non-ionizing-radiation-on-the-thyroid-g]] — Sarhad ZS et al.
@@ -317,7 +318,7 @@
 - `2018` [[2018_30345889_2-45-ghz-microwave-radiation-impairs-learning-memo]] — Karimi N et al.
 - `2004` [[2004_15571980_acute-exposure-to-gsm-900-mhz-electromagnetic-fiel]] — Mausset-Bonnefont AL et al.
 
-## reproduction (34)
+## reproduction (35)
 
 - `2026` [[2026_41069247_assessing-the-potential-of-carbon-fibre-reinforced]] — Farindra I et al.
 - `2026` [[2026_41578890_ameliorative-role-of-coenzyme-q10-in-rf-radiation]] — Bektas H et al.
@@ -328,6 +329,7 @@
 - `2026` [[2026_42690869_effects-of-5g-frequencies-on-sperm-parameters-mati]] — Hairulazam A et al.
 - `2026` [[2026_42693069_moringa-leaf-mitigates-4g-cell-phone-radiation-ind]] — Ramalingam S, Somanath D
 - `2026` [[2026_42810696_strain-dependent-effects-of-long-term-exposure-to]] — Palone F et al.
+- `2026` [[2026_PPR1344853_cell-phone-radiofrequency-electromagnetic-radiatio]] — Beigi SAD et al.
 - `2025` [[2025_39806168_amelioration-and-immuno-modulation-by-ashwagandha]] — Gupta V, Srivastava R
 - `2025` [[2025_40002366_the-influence-of-2-45-ghz-wi-fi-exposure-duration]] — Jamaludin N et al.
 - `2025` [[2025_40086029_transcriptomic-and-metabolic-profiling-reveals-the]] — Yao B et al.

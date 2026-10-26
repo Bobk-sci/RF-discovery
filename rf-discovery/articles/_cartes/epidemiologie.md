@@ -1,6 +1,6 @@
 # epidemiologie
 
-244 articles.
+247 articles.
 
 ## cancer (26)
 
@@ -76,7 +76,7 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (62)
+## general (63)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
@@ -98,6 +98,7 @@
 - `2026` [[2026_42705926_dual-energy-ct-derived-extracellular-volume-fracti]] — Wang S et al.
 - `2026` [[2026_42708522_the-effect-of-pulsed-electromagnetic-field-on-pain]] — Arani ZSY et al.
 - `2026` [[2026_42725567_heart-rate-variability-responses-to-26-ghz-millime]] — Michelant L et al.
+- `2026` [[2026_42882415_dual-energy-computed-tomography-versus-conventiona]] — Loo JH et al.
 - `2026` [[2026_PPR1263729_model-construction-and-validation-of-dual-energy-c]] — Zhu H et al.
 - `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I
@@ -145,12 +146,14 @@
 
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 
-## neuro_comportement_cognition (49)
+## neuro_comportement_cognition (51)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
 - `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
 - `2026` [[2026_42474719_multi-dect-image-based-intra-and-peritumoral-inter]] — Yang B et al.
 - `2026` [[2026_42550187_deep-learning-image-reconstruction-improves-visual]] — Wu B et al.
+- `2026` [[2026_42861220_quantitative-dual-energy-computed-tomography-param]] — Ma T et al.
+- `2026` [[2026_42924320_effect-of-7e-instruction-on-primary-students-non-i]] — Tokgöz EÖ
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.

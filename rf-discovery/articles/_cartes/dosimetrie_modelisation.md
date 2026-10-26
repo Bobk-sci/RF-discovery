@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-203 articles.
+207 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -120,7 +120,7 @@
 - `2020` [[2020_32104921_design-and-dosimetric-analysis-of-an-exposure-faci]] — Schmid G et al.
 - `2012` [[2012_22268596_is-there-any-exposure-from-a-mobile-phone-in-stand]] — Mild KH et al.
 
-## general (40)
+## general (43)
 
 - `2026` [[2026_41725151_comparison-of-low-iodine-concentration-quantificat]] — Sirituenlee C et al.
 - `2026` [[2026_41812336_evaluation-of-proton-range-differences-in-photon-c]] — Lustermans D et al.
@@ -139,7 +139,10 @@
 - `2026` [[2026_42753715_low-frequency-magnetic-flux-density-levels-in-vari]] — Dobruna J et al.
 - `2026` [[2026_42817330_demonstration-of-a-2-18-ghz-multispectral-sar]] — Sletten MA et al.
 - `2026` [[2026_42849653_citizen-science-based-mapping-of-radiofrequency-el]] — Baruah A et al.
+- `2026` [[2026_42862273_evaluation-of-iodine-detection-and-quantification]] — Titternes R et al.
+- `2026` [[2026_42867131_estimating-environmental-rf-emf-exposure-from-mobi]] — Sandoval-Diez N et al.
 - `2026` [[2026_PPR1284137_photon-counting-computed-tomography-for-phantom-le]] — Boyd SK et al.
+- `2026` [[2026_PPR1349260_methyl-trosy-nmr-at-1-2-ghz-exploiting-resolution]] — Lobbia VR et al.
 - `2025` [[2025_39643257_exploring-rf-emf-levels-in-swiss-microenvironments]] — Veludo AF et al.
 - `2025` [[2025_39812400_the-development-of-a-reverberation-chamber-for-the]] — Iskra S et al.
 - `2025` [[2025_40090040_rf-emf-exposure-assessment-with-add-on-uplink-expo]] — Bladel HV et al.
@@ -221,13 +224,14 @@
 - `2021` [[2021_33828192_activation-of-matrix-metalloproteinases-and-foxo3a]] — Kim JH et al.
 - `2021` [[2021_34234197_evaluation-of-non-thermal-effect-of-microwave-radi]] — Shaw P et al.
 
-## thermique (20)
+## thermique (21)
 
 - `2026` [[2026_41600503_electromagnetic-exposure-from-rf-antennas-on-subwa]] — Li J et al.
 - `2026` [[2026_42076502_dosimetry-of-a-thermoregulated-tem-cell-for-5g-700]] — Nasri A et al.
 - `2026` [[2026_42569626_biogenic-nickel-ferrite-nanoparticles-synthesized]] — Góral-Kowalczyk M et al.
 - `2026` [[2026_42726545_from-dipolar-interactions-to-tissue-heating-a-mult]] — Moisiuc VM et al.
 - `2026` [[2026_42759781_head-only-mri-of-deep-brain-stimulation-devices-at]] — Louka AM et al.
+- `2026` [[2026_42891889_design-and-optimization-of-a-multi-band-spiral-ant]] — Sharma N et al.
 - `2025` [[2025_39760845_memory-enhancement-by-transcranial-radiofrequency]] — Baranowski R et al.
 - `2025` [[2025_40432039_assessment-of-rf-electromagnetic-exposure-to-car-d]] — Wang S, Lu M
 - `2025` [[2025_40437036_experimental-analysis-of-metamaterial-integrated-a]] — Sharma N et al.
