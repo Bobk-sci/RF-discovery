@@ -3524,6 +3524,28 @@ KW  - Iodine Detectability
 ER  - 
 
 TY  - JOUR
+AU  - Wei J
+AU  - Tian R
+AU  - Zhang R
+AU  - Lu M
+TI  - [A deep learning-based method for rapid reconstruction and prediction of electromagnetic exposure in pacemaker patients].
+PY  - 2026
+SP  - 1035-1043
+AB  - Microwave ovens and other electromagnetic devices may leak electromagnetic fields, which can interfere with implanted cardiac pacemakers in patients. The traditional finite element method (FEM) is time-consuming and difficult to meet the needs of rapid risk assessment. This paper proposes a fast reconstruction and prediction method for electromagnetic exposure based on 3D U-Net to predict the electromagnetic exposure in patients with implanted cardiac pacemakers caused by microwave oven leakage under random scenarios. First, the FEM was used to simulate the thoracic electric field, specific absorption rate (SAR), and induced electric field in the pacemaker under different electromagnetic exposure conditions, and a sample set was constructed after preprocessing. Second, the 3D U-Net model was trained with spatial coordinates, microwave oven power, distance between the human body and the microwave oven, and oven door gap as inputs, and the thoracic electric field, SAR, and induced electric field in the pacemaker as labels. The results showed that the predicted thoracic electric field, SAR, and induced electric field in the pacemaker were in good agreement with the FEM simulation results. On the validation set, the relative error rates of the thoracic electric field, SAR, and induced electric field in the pacemaker were 0.78%, 0.72%, and 0.94%, respectively. The prediction time for a single case was only 0.93 s. This method can serve as an effective supplement to traditional numerical simulation and provides a new approach for rapid assessment of electromagnetic exposure in patients with implanted cardiac pacemakers.
+DO  - 10.7507/1001-5515.202509051
+UR  - https://pubmed.ncbi.nlm.nih.gov/42934140/
+AN  - 42934140
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuro_comportement_cognition
+KW  - theme:dosimetrie_exposition
+KW  - Induced electric field
+KW  - Cardiac Pacemaker
+KW  - Specific Absorption Rate
+KW  - Electromagnetic Exposure
+KW  - U-net Neural Network
+ER  - 
+
+TY  - JOUR
 AU  - Jung MH
 TI  - First Experimental Realization of a Cable-Free and Battery-Free Spatial Power Grid Infrastructure
 PY  - 2026
@@ -5262,6 +5284,35 @@ KW  - Papillary Thyroid Carcinoma
 KW  - Metastatic Lymph Node
 KW  - Dual-energy Computed Tomography
 KW  - Primary Tumor
+ER  - 
+
+TY  - JOUR
+AU  - Ren T
+AU  - You H
+AU  - Liu X
+AU  - Ren J
+AU  - Ma L
+AU  - Zhang C
+AU  - Bao J
+AU  - Xu M
+AU  - Peng Y
+AU  - Xu Y
+AU  - Sun J
+AU  - Su X
+AU  - Zhang W
+AU  - Zhou J
+TI  - Preoperative risk stratification for anastomotic leakage after gastrectomy: a model based on dual‑energy CT extracellular volume fraction and sarcopenia.
+PY  - 2026
+AB  - <h4>Purpose</h4>To develop a purely preoperative risk stratification model for anastomotic leakage (AL) after radical gastrectomy using clinical, dual-energy CT (DECT), and body composition variables available before surgery.<h4>Methods</h4>This retrospective study included 439 patients with gastric cancer who underwent radical gastrectomy. Preoperative clinical, DECT, and body composition data were collected. A domain-based predictor selection strategy was used, followed by Firth penalized logistic regression to account for the low event rate. Internal validation was performed using 1000 bootstrap resamples, with an additional full-pipeline bootstrap sensitivity analysis. Model performance was assessed by discrimination, calibration, decision curve analysis (DCA), and risk stratification.<h4>Results</h4>AL occurred in 27 patients (6.15%). The final model included cardia tumor location (OR = 4.44), higher ECV (OR = 1.09 per 1%), and sarcopenia (OR = 3.66). The model showed good discrimination, with an apparent AUC of 0.853 and a bootstrap-corrected AUC of 0.843. Full-pipeline bootstrap sensitivity analysis yielded an optimism-corrected AUC of 0.833. Calibration was acceptable, with a Brier score of 0.050, and DCA suggested potential net benefit. Observed AL rates increased stepwise across low-risk (< 3%), intermediate-risk (3%-10%), and high-risk (≥ 10%) groups: 1.23%, 5.13%, and 22.78%, respectively. The high-risk group comprised 18.0% of the cohort but accounted for 66.7% of all AL events.<h4>Conclusion</h4>A concise model integrating tumor location, DECT-derived ECV, and sarcopenia showed favorable performance for preoperative AL risk stratification after gastrectomy. This internally validated model may help preoperative AL risk stratification, but multicenter external validation and impact analysis are required before implementation.
+DO  - 10.1007/s00261-026-05839-w
+UR  - https://pubmed.ncbi.nlm.nih.gov/42944910/
+AN  - 42944910
+KW  - modele:epidemiologie
+KW  - theme:cancer
+KW  - Gastric cancer
+KW  - Anastomotic leakage
+KW  - Sarcopenia
+KW  - Dual-energy Ct
 ER  - 
 
 TY  - JOUR
@@ -15938,6 +15989,31 @@ KW  - L929 Cells
 ER  - 
 
 TY  - JOUR
+AU  - Miser Salihoğlu E
+AU  - Elçi MP
+AU  - Fatsa T
+AU  - Ören S
+AU  - Eşmekaya M
+AU  - Yardım S
+TI  - Investigation of the Effect of Calcitriol on Radiofrequency Radiation-Exposed Breast Cancer Cell Lines.
+PY  - 2026
+SP  - 130-139
+AB  - <h4>Objectives</h4>Radiofrequency (RF) fields have been classified as probable human carcinogens and nonthermal. RF radiation can increase oxidative stress and inflammation in tissues. Vitamin D has been studied for many years for its anti-cancer properties and its ability to suppress cancer cell growth. In this study, we aimed to examine the effects of RF exposure on cell viability, free radical formation, and inflammation, as well as the therapeutic effect of vitamin D against such effects. MCF-7 and MDA-MB-231 cells were exposed to 2.1-GHz W-CDMA-modulated RF radiation.<h4>Materials and methods</h4>The MTT was used for cell viability, and the FITC-conjugated annexin-V/PI was applied for apoptosis. The vitamin D receptor (VDR), NF-κB, cyclooxygenase-2 (COX-2), and <i>p53</i> gene expression levels were studied using real-time PCR. Reactive oxygen species (ROS) analysis was performed using flow cytometry.<h4>Results</h4>A statistically significant decrease in MCF-7 cell viability (<i>p</i> < 0.001) was observed with increasing doses of calcitriol compared to the control group; no significant difference in MDA-MB-231 cell viability was observed (<i>p</i> > 0.05). ROS analysis revealed that calcitriol caused significant decreases in cell viability in both cell types. Both cell lines showed a statistically significant increase in p53 expression with increasing calcitriol doses. An increase in the expression of VDR, NF-κB B, and COX-2 was also observed in MCF-7 cells.<h4>Conclusion</h4>We observed that while calcitriol administered after RF exposure did not cause statistically significant changes in ROS levels, we observed that it caused an increase in messenger RNA expression of apoptosis and inflammation markers, which could be evaluated in cancer treatment or prevention.
+DO  - 10.4274/tjps.galenos.2026.65179
+UR  - https://pubmed.ncbi.nlm.nih.gov/42937328/
+AN  - 42937328
+KW  - modele:in_vitro
+KW  - theme:stress_oxydatif
+KW  - theme:apoptose_mitochondrie
+KW  - theme:genotoxicite_epigenetique
+KW  - Apoptosis
+KW  - Breast cancer
+KW  - ROS
+KW  - Calcitriol
+KW  - Radiofrequency Radiation
+ER  - 
+
+TY  - JOUR
 AU  - Ballardin M
 AU  - Tusa I
 AU  - Fontana N
@@ -18802,6 +18878,29 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42776981/
 AN  - 42776981
 KW  - modele:in_vivo
 KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Verelst E
+AU  - Bayat S
+AU  - Verbanck S
+AU  - Van Gompel G
+AU  - de Mey J
+AU  - Buls N
+TI  - Dynamic Xenon-Enhanced Spectral CT Imaging to Evaluate Regional Lung Function in an In Vivo Rabbit Model.
+PY  - 2026
+SP  - 3396
+AB  - <b>Background/Objectives</b>: Pulmonary diseases exhibit spatially heterogeneous functional and structural abnormalities that are inadequately represented by conventional lung function testing. This pilot study investigates dynamic xenon-enhanced dual-energy CT (Xe-DECT) for a multiparametric assessment of lung ventilation and tissue. <b>Methods</b>: Four mechanically ventilated rabbits were scanned during washout of 70% xenon in oxygen using multibreath imaging with a clinical DECT both before (baseline) and after methacholine administration (post-MCh). Tracheal Xe concentration (<i>C<sub>Xe</sub></i>) and flow were monitored using mass spectrometry and pneumotachometry to estimate specific ventilation (sV˙ms) and end-expiratory lung volume (EELV<sub>ms</sub>). DECT-derived xenon concentration and tissue density images (mg/mL) were obtained by material decomposition, yielding sV˙DECT and EELV<sub>DECT</sub>, respectively. Agreement with mass spectrometry and differences between baseline and post-MCh were assessed. <b>Results</b>: The baseline sV˙DECT and EELV<sub>DECT</sub> agreed with the mass spectrometry, with mean differences of 0.6 min<sup>-1</sup> [-0.2 min<sup>-1</sup>, 1.4 min<sup>-1</sup>] and 0.6 mL [-6.7 mL, 7.9 mL], respectively. Following MCh administration, the mean differences increased to -2.9 min<sup>-1</sup> [-4.1 min<sup>-1</sup>, -1.6 min<sup>-1</sup>] for sV˙ and 1.3 mL [-15.3 mL, 12.8 mL] for EELV. Post-MCh, sV˙DECT decreased from 8.6 ± 1.6 min<sup>-1</sup> to 3.7 ± 0.9 min<sup>-1</sup> (<i>p</i> = 0.034) and EELV<sub>DECT</sub> from 29.3 ± 1.0 mL to 27.0 ± 1.3 mL (<i>p</i> = 0.036), whereas sV˙ms (<i>p</i> = 0.308) and EELV<sub>ms</sub> (<i>p</i> = 0.653) showed no substantial changes. Regional analysis revealed that sV˙DECT in well-ventilated regions matched tracheal sV˙ms. <b>Conclusions:</b> Dynamic Xe-DECT imaging enabled spatial and quantitative assessments of specific ventilation and tissue densities in an in vivo rabbit model. This technique allowed detection of focal alterations that remained undetected by tracheal measurements.
+DO  - 10.3390/diagnostics16203396
+UR  - https://pubmed.ncbi.nlm.nih.gov/42938235/
+AN  - 42938235
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - Animal study
+KW  - Xenon
+KW  - In Vivo Imaging
+KW  - Dual-energy Ct
+KW  - Pulmonary Functional Imaging
 ER  - 
 
 TY  - JOUR
@@ -26330,6 +26429,42 @@ KW  - Nlrp3 Phosphorylation
 ER  - 
 
 TY  - JOUR
+AU  - Zhang S
+AU  - Lei J
+AU  - Liu X
+AU  - Ou Z
+AU  - Tong B
+AU  - Liang H
+AU  - Wu D
+AU  - Zhang Z
+AU  - Wei J
+AU  - Wang H
+AU  - Xu H
+AU  - Peng S
+AU  - Qian Y
+AU  - Chen Z
+AU  - Jia Y
+AU  - Tan L
+AU  - Xie L
+AU  - Yang C
+AU  - Feng X
+TI  - Microwave-responsive thermoelectric microneedles for efficient biofilm eradication and sustained repair of infected wounds.
+PY  - 2026
+SP  - 993
+AB  - Infected wounds present a high clinical incidence, and current treatments are inadequate in both effectively eliminating bacterial biofilms and continuously promoting tissue regeneration. To address these challenges, we develop a microwave-responsive thermoelectric nanocomposite of zinc oxide-bismuth telluride (ZnO-Bi<sub>2</sub>Te<sub>3</sub>) via hydrothermal synthesis for the treatment of biofilm infected wounds. The heterointerface within the nanocomposite enhances phonon scattering, while the ZnO component provides additional charge carrier transport pathways, collectively significantly improving the thermoelectric conversion performance. Under microwave irradiation, the ZnO-Bi<sub>2</sub>Te<sub>3</sub> rapidly generates substantial amounts of reactive oxygen species (ROS), enabling efficient penetration and eradication of biofilms with an antibacterial rate of 99.2%. After irradiation ceases, the ZnO-Bi<sub>2</sub>Te<sub>3</sub> utilizes the wound-environment temperature difference to continuously produce thermoelectric signals. The continuous thermoelectric signals, in synergy with the release of zinc ions, activate the MAPK pathway and promote protein synthesis, processing, and transport, thereby enhancing cell migration, differentiation, and angiogenesis, leading to continuous tissue regeneration. In a mouse model of MRSA-biofilm infected wounds, the ZnO-Bi<sub>2</sub>Te<sub>3</sub> loaded microneedles effectively clear the infection and accelerate healing. This study develops a microwave-responsive thermoelectric system for infected wounds through efficient biofilm clearance and sustained pro-regeneration.
+DO  - 10.1186/s12951-026-04858-5
+UR  - https://pubmed.ncbi.nlm.nih.gov/42947133/
+AN  - 42947133
+KW  - modele:in_vivo
+KW  - theme:stress_oxydatif
+KW  - Microwave
+KW  - Bacterial biofilm
+KW  - Thermoelectricity
+KW  - Infected Wound
+KW  - Sustained Pro-regeneration
+ER  - 
+
+TY  - JOUR
 AU  - Ortner MJ
 AU  - Galvin MJ
 TI  - The effect of 2450 MHz microwave radiation on histamine secretion by rat peritoneal mast cells.
@@ -28076,6 +28211,25 @@ KW  - Ultra-miniaturized
 ER  - 
 
 TY  - JOUR
+AU  - Douhi S
+AU  - El Achaby M
+AU  - Zakaria Z
+AU  - Al-Gburi AJA
+AU  - Eddiai A
+TI  - Metamaterial-Inspired Dual-Band Flexible Textile Antenna Using Wool-Felt Substrate for Body-Centric Wireless Electronics.
+PY  - 2026
+SP  - 63151-63169
+AB  - Flexible textile-based electronic systems are emerging as promising candidates for next-generation wearable technologies due to their mechanical compliance, lightweight nature, and seamless integration into garments. In this work, a metamaterial-inspired dual-band flexible textile antenna based on a wool-felt substrate is presented for body-centric wireless applications. The proposed device is designed as a flexible electronic structure integrating coplanar waveguide (CPW) feeding with symmetric square-ring resonators to enable compact size and dual-band electromagnetic functionality. The wool-felt substrate serves as a functional textile material offering low density, high flexibility, and stable dielectric behavior under mechanical deformation. The fabricated structure exhibits an overall dimension of 40 × 52 mm<sup>2</sup>, making it suitable for garment-integrated electronic systems. Experimental results demonstrate two impedance bandwidths of 3.11-3.70 GHz and 5.52-6.89 GHz (|<i>S</i> <sub>11</sub>| < -10 dB), covering sub-6 GHz 5G and ISM wireless communication bands. The proposed flexible electronic system achieves measured gains of 1.81 dBi and 4.35 dBi at the lower and upper frequency bands, respectively, with good agreement between simulated and experimental results. Mechanical bending analysis confirms stable electromagnetic performance, with resonance shifts below 1%, indicating robust mechanical-electromagnetic coupling under deformation. Furthermore, specific absorption rate (SAR) analysis verifies compliance with international safety standards for on-body wireless operation. Owing to its combination of a functional textile substrate, compact architecture, and stable dual-band performance, the proposed wool-felt-based flexible antenna represents a promising candidate for wearable and body-centric electronic systems.
+DO  - 10.1021/acsomega.6c06181
+UR  - https://pubmed.ncbi.nlm.nih.gov/42924129/
+AN  - 42924129
+KW  - modele:ingenierie_materiel
+KW  - theme:dosimetrie_exposition
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuro_comportement_cognition
+ER  - 
+
+TY  - JOUR
 AU  - Gupta A
 AU  - Kumar V
 AU  - Bansal S
@@ -28344,6 +28498,24 @@ KW  - PDMS
 KW  - 5G
 KW  - Wearable Antenna
 KW  - Conductive Fabric
+ER  - 
+
+TY  - JOUR
+AU  - Lehoczký P
+AU  - Turcsány M
+AU  - Krajčovičová L
+AU  - Zatroch F
+AU  - Kajan M
+AU  - Galinski M
+TI  - Performance Management Counters from Live 5G, 4G and 2G Radio Access Network.
+PY  - 2026
+SP  - 1480
+AB  - We introduce an open live multi-technology cellular network dataset derived from real, operational base stations of a commercial mobile operator in Slovakia. It provides a rare look inside live 2G, 4G and 5G Radio Access Networks (RANs) through Performance Management (PM) counters collected at 15-minute intervals and mapped to cell-level granularity. Each baseband processes multiple radio configurations, enabling multi-band and multi-generation correlation studies across real network deployments. Unlike any previously released resource, this dataset exposes real energy consumption values alongside radio and user-level performance indicators such as utilisation, Channel Quality Indicator (CQI), number of Radio Resource Control (RRC) connected and active users, uplink and downlink data volume and Multiple-Input Multiple-Output (MIMO) rank for all network cells where applicable. It supports research in energy-aware RAN optimisation, data-driven network management and cross-layer performance modelling. The dataset has been validated for internal consistency and is released under the Creative Commons Attribution (CC BY) license to foster reproducible and open telecommunications research.
+DO  - 10.1038/s41597-026-07723-0
+UR  - https://pubmed.ncbi.nlm.nih.gov/42399262/
+AN  - 42399262
+KW  - modele:ingenierie_materiel
+KW  - theme:general
 ER  - 
 
 TY  - JOUR
@@ -31563,6 +31735,28 @@ KW  - Ideal Method
 ER  - 
 
 TY  - JOUR
+AU  - Said MA
+AU  - Ramadan M
+AU  - Helmy FM
+AU  - Abd El-Lateef HM
+AU  - Khalaf MM
+AU  - Basubaih MAO
+AU  - Shaaban S
+AU  - Shaalan NM
+AU  - Saber AA
+AU  - Mohsen A
+TI  - Curing regime controlled performance of basalt-modified alkali activated slag: phase composition, porosity profile, microstructure and compressive strength.
+PY  - 2026
+SP  - 62858-62875
+AB  - The transition from traditional cement to low-carbon alkali-activated materials is no longer an environmental obligation but a materials-design challenge requiring precise control of reaction kinetics. In this study, basalt-modified alkali-activated slag was cured under various conditions to demonstrate how mix design and curing regimes affect gel formation and strength development. Ground-granulated blast-furnace slag (GGBFS) was replaced with 5-20 wt% basalt (BT) and then activated with 6 wt% NaOH. The developed materials were cured under normal conditions (1-28 days), hydrothermal conditions (135-170 °C/5 h) and microwave conditions (450 W/5-15 min). Advanced microstructural analyses (XRD, FTIR, SEM/EDX and BET/BJH) elucidated the phase evolution, morphological features and porosity profile within the matrices. The results reveal that BT has a slight effect on the fresh properties (workability and setting time) of the alkali-activated slag. Despite diluting reactive calcium phases in GGBFS, the AAS-20BT (80% GGBFS + 20% BT) composite delivered robust, structural-grade compressive strengths: 49.5 MPa under normal curing, 56 MPa after 170 °C/5 h hydrothermal treatment, and a rapid 37 MPa after just 10 min at 450 W of microwave exposure. From the compressive-strength results and advanced analysis techniques, it can be concluded that the curing regime strongly controls the composition of the load-bearing capacity phases, microstructural development and pore refinement. Overall, hydrothermal curing provides the most favorable balance between reaction kinetics, zeolitic phase formation, hydrate morphology and microstructural development. Under normal conditions, BT particles act as fillers and nucleation seeds, while hydrothermal curing increases their reactivity, facilitating Si and Al dissolution and participation in geopolymeric products. Accordingly, the AAS-20BT can be considered a promising low-carbon binder that offers a highly scalable, eco-efficient pathway for next-generation construction materials.
+DO  - 10.1039/d6ra07623h
+UR  - https://pubmed.ncbi.nlm.nih.gov/42877711/
+AN  - 42877711
+KW  - modele:non_classe
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
 AU  - Heggie BT
 AU  - Arreola M
 AU  - Leon SM
@@ -31593,6 +31787,50 @@ AB  - Ethylene-propylene-diene monomer (EPDM) compounds used in automotive seali
 DO  - 10.1021/acsomega.6c04739
 UR  - https://pubmed.ncbi.nlm.nih.gov/42923967/
 AN  - 42923967
+KW  - modele:non_classe
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Piscone S
+AU  - Stoppino LP
+AU  - Matera M
+AU  - Di Millo B
+AU  - Schiraldi G
+AU  - Milillo P
+AU  - Vinci R
+AU  - Macarini L
+TI  - Site-Specific Material Decomposition Versus Universal Z-Effective: Optimizing Opportunistic Bone Mineral Density Screening via Dual-Energy CT.
+PY  - 2026
+SP  - 478
+AB  - Dual-energy computed tomography (DECT) represents a high-precision tool for opportunistic bone mineral density (BMD) assessment, yet optimal algorithmic standardization across anatomical sites remains debated. This opportunistic study evaluated 60 postmenopausal female patients who underwent both dual-energy X-ray absorptiometry (DXA) and contrast-enhanced spectral DECT (80/140 kVp) within a 6-month interval. Quantitative trabecular measurements were obtained at the femoral neck and lumbar spine (L1-L4) across five distinct Base Material Pairs (BMPs) and Effective Atomic Number (Z-Effective). Material decomposition revealed significant anatomical site dependency: fat-based pairs demonstrated superior correlation with DXA BMD at the femoral neck (Calcium-Fat: <i>ρ</i> = 0.703; <i>p</i> ≤ 0.001), whereas water-based pairs performed best in the cellular, red-marrow-rich lumbar spine (CaOxMono-Water: <i>ρ</i> = 0.525; <i>p</i> ≤ 0.001). In contrast, Z-Effective functioned as a robust biomarker, maintaining significant positive linear correlations across both the proximal femur (<i>ρ</i> = 0.652; <i>p</i> ≤ 0.001) and lumbar spine (<i>ρ</i> = 0.489; <i>p</i> ≤ 0.001). Multivariable linear regression demonstrated severe multicollinearity between site-matched BMPs and Z-Effective (VIF > 5.0), confirming they capture identical physical mineral depletion. In conclusion, opportunistic DECT screening requires anatomically tailored BMP selection or, alternatively, Z-Effective alone as a unified spectral parameter to achieve reliable, accurate BMD evaluation during routine CT acquisitions.
+DO  - 10.3390/jimaging12100478
+UR  - https://pubmed.ncbi.nlm.nih.gov/42930628/
+AN  - 42930628
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Osteoporosis
+KW  - Bone mineral density (BMD)
+KW  - Opportunistic Screening
+KW  - Dual-energy X-ray Absorptiometry (Dxa)
+KW  - Dual-energy Ct (Dect)
+KW  - Base Material Pairs
+KW  - Effective Atomic Number (Z-Effective)
+ER  - 
+
+TY  - JOUR
+AU  - Yao DX
+AU  - Lin XX
+AU  - Bei TX
+AU  - Ma F
+AU  - Wang Y
+AU  - Li J
+TI  - Node-RADS outperforms dual-energy CT-derived quantifications for distinguishing metastatic from non-metastatic regional lymph nodes in resectable gastric cancer.
+PY  - 2026
+AB  - To evaluate and compare the diagnostic performance of Node-RADS, dual-energy CT (DECT)-derived quantitative parameters, and their combination for distinguishing metastatic from non-metastatic regional lymph nodes (LNs) in patients with resectable gastric cancer (GC). Between Jan 2022 and Oct 2025, 115 consecutive patients with resectable GC who underwent preoperative triple-phase enhanced DECT scans and radical gastrectomy with D2 lymphadenectomy were retrospectively enrolled. A total of 151 regional LNs (70 metastatic, 81 non-metastatic) with region-level pathological confirmation were selected for node-level comparison. Two radiologists independently assessed Node-RADS scores for each LN. LN short diameter (SD) was measured at the venous phase on the maximal axial slice. DECT-derived parameters (CT attenuation at 40 keV, iodine concentration (IC), and effective atomic number (Zeff) across arterial, venous, and delayed phases) were analyzed using a freehand region of interest on the maximal axial slice of the LN. Diagnostic performances were evaluated using receiver operating characteristic curve analysis and compared using the DeLong test. IC at delayed phase (ICDP) was the sole parameter associated with LN involvement. The initial Node-RADS score (cut-off ≥ 3) achieved an AUC of 0.859 (95% CI: 0.793-0.910), significantly outperforming SD (AUC: 0.780, p < 0.05) and ICDP (AUC: 0.612, p < 0.05). Two modified Node-RADS algorithms incorporating ICDP under different rule-in and rule-out criteria were established, but did not improve diagnostic performance beyond the initial Node-RADS scores. Node-RADS demonstrates superior diagnostic performance compared with DECT-derived quantitative parameters for identifying metastatic regional LNs in resectable GC, and can be reliably applied in the DECT settings. Question Preoperative differentiation of metastatic from non-metastatic regional lymph nodes in resectable gastric cancer remains inaccurate using conventional size criteria. Findings Node-RADS  (AUC = 0.859) outperformed SD diameter (continuous: AUC = 0.780; its > 8 mm dichotomized counterpart: AUC = 0.748) and ICDP (AUC = 0.612) for metastatic LN discrimination. Clinical relevance Node-RADS is a standardized and reproducible criterion that can be applied in dual-energy CT scenarios to effectively identify regional lymph node metastasis in resectable gastric cancer.
+DO  - 10.1007/s00330-026-12993-8
+UR  - https://pubmed.ncbi.nlm.nih.gov/42967258/
+AN  - 42967258
 KW  - modele:non_classe
 KW  - theme:general
 ER  - 
@@ -32582,6 +32820,20 @@ AB  - Caregiver–patient traceability is essential for measuring care workload 
 DO  - 10.20944/preprints202606.0170.v1
 UR  - https://doi.org/10.20944/preprints202606.0170.v1
 AN  - PPR1244429
+KW  - modele:non_classe
+KW  - theme:neuro_comportement_cognition
+ER  - 
+
+TY  - JOUR
+AU  - Islam MR
+AU  - Razzaque MA
+AU  - Islam MS
+TI  - Machine Learning Prediction of Rice Seedling Growth and Physiological Responses Under Controlled Electromagnetic Field Exposure Using Early-Stage Longitudinal Features
+PY  - 2026
+AB  - <title>Abstract</title>  <p>Reliable prediction of plant growth and physiological characteristics can aid effective phenotyping and computational evaluation of environmental treatments. The purpose of this study was to create a leakage-controlled machine learning system to predict the endpoint characteristics of rice seedlings under controlled electromagnetic field (EMF) conditions with early longitudinal measurements. Two data sets were analyzed, one synthetic and the other generated in the computer, consisting of the 2800 observations of 200 plants randomly distributed from control and low, medium and high-EMF exposure groups respectively. The morphological, biomass, chlorophyll, leaf-area and image-derived phenotypic variables were summarized into longitudinal features for Days 3–7 and Day-14 measurements were only used as prediction endpoints. Plant-level grouped training, validation and independent testing sets with a ratio of 70:15:15 were adopted so as to reduce the amount of information leaked from repeated measurements taken from individual plants. Three models were tested for predicting final height, dry biomass and chlorophyll content: Random Forest, Bagged Ensemble and Gaussian Process Regression. The models had an R² of 0.9645, 0.9698 and 0.6676 for the synthetic data set, and 0.9051, 0.9202 and 0.8194 for the computational data set. Independent-test RMSE values ranged from 0.1783–0.00421 cm/g for the synthetic dataset and 0.3298–0.00915 cm/g and 1.1339 for the computational data based on the predicted trait. In general, early longitudinal phenotypes showed promise for computational prediction of rice seedling endpoints and model performance depended on trait and data generation structure. The framework offers a repeatable method for the prediction and comparison of leakage-controlled rice phenotypic reactions using controlled EMF exposure.</p>
+DO  - 10.21203/rs.3.rs-11105391/v1
+UR  - https://doi.org/10.21203/rs.3.rs-11105391/v1
+AN  - PPR1352114
 KW  - modele:non_classe
 KW  - theme:neuro_comportement_cognition
 ER  - 

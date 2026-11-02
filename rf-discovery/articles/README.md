@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1572 articles** rangés le 2026-10-26 (publications 1960–2026).
+**1583 articles** rangés le 2026-11-02 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,25 +8,25 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| non_classe | general | 105 |
+| non_classe | general | 108 |
 | dosimetrie_modelisation | dosimetrie_exposition | 90 |
-| in_vivo | stress_oxydatif | 84 |
+| in_vivo | stress_oxydatif | 85 |
 | in_vivo | neuro_comportement_cognition | 78 |
 | epidemiologie | general | 63 |
 | epidemiologie | neurodeveloppement | 55 |
+| in_vivo | general | 54 |
 | in_vivo | neurodeveloppement | 54 |
-| in_vivo | general | 53 |
+| ingenierie_materiel | dosimetrie_exposition | 52 |
 | epidemiologie | neuro_comportement_cognition | 51 |
-| ingenierie_materiel | dosimetrie_exposition | 51 |
 | dosimetrie_modelisation | general | 43 |
 | revue | general | 42 |
 | in_vitro | apoptose_mitochondrie | 39 |
-| non_classe | neuro_comportement_cognition | 36 |
+| non_classe | neuro_comportement_cognition | 37 |
 | in_vivo | reproduction | 35 |
+| in_vitro | stress_oxydatif | 32 |
 | epidemiologie | eeg_sommeil | 31 |
-| in_vitro | stress_oxydatif | 31 |
+| epidemiologie | cancer | 27 |
 | in_vivo | apoptose_mitochondrie | 27 |
-| epidemiologie | cancer | 26 |
 | non_classe | neurodeveloppement | 26 |
 | revue | reproduction | 26 |
 | in_vivo | thermique | 24 |
@@ -40,16 +40,16 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 | in_vitro | general | 18 |
 | non_classe | thermique | 18 |
 | humain_experimental | eeg_sommeil | 17 |
+| ingenierie_materiel | general | 17 |
 | non_classe | cancer | 17 |
-| ingenierie_materiel | general | 16 |
 | revue | neurodeveloppement | 16 |
 | non_classe | stress_oxydatif | 13 |
 | revue | stress_oxydatif | 13 |
 | in_vivo | neuroinflammation | 11 |
+| dosimetrie_modelisation | neuro_comportement_cognition | 10 |
 | humain_experimental | general | 10 |
 | non_classe | eeg_sommeil | 10 |
 | revue | thermique | 10 |
-| dosimetrie_modelisation | neuro_comportement_cognition | 9 |
 | in_vitro | thermique | 9 |
 | in_vivo | barriere_hemato_encephalique | 9 |
 | in_vivo | dosimetrie_exposition | 9 |

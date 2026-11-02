@@ -1,6 +1,6 @@
 # in_vitro
 
-161 articles.
+162 articles.
 
 ## apoptose_mitochondrie (39)
 
@@ -156,12 +156,13 @@
 - `2014` [[2014_24982785_the-influence-of-direct-mobile-phone-radiation-on]] — Gorpinchenko I et al.
 - `2009` [[2009_19649291_mobile-phone-radiation-induces-reactive-oxygen-spe]] — De Iuliis GN et al.
 
-## stress_oxydatif (31)
+## stress_oxydatif (32)
 
 - `2026` [[2026_41596185_5g-rf-emfs-mitigate-uv-induced-genotoxic-stress-th]] — Kim JH et al.
 - `2026` [[2026_41904248_biological-effects-of-5g-modulated-700-mhz-rf-emf]] — Puginier E et al.
 - `2026` [[2026_41921593_cellular-redox-disruption-and-apoptosis-differenti]] — Jangid P et al.
 - `2026` [[2026_42057982_evaluating-the-protective-effect-of-melatonin-on-a]] — Fardid R et al.
+- `2026` [[2026_42937328_investigation-of-the-effect-of-calcitriol-on-radio]] — Miser Salihoğlu E et al.
 - `2025` [[2025_39950292_design-synthesis-and-biological-evaluation-of-some]] — Nguyen DV et al.
 - `2025` [[2025_40150722_a-novel-method-for-achieving-precision-and-reprodu]] — Dahon C et al.
 - `2025` [[2025_40298279_synergistical-induction-of-apoptosis-via-cold-atmo]] — Qi W et al.

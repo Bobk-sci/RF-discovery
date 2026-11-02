@@ -1,13 +1,14 @@
 # epidemiologie
 
-247 articles.
+248 articles.
 
-## cancer (26)
+## cancer (27)
 
 - `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
+- `2026` [[2026_42944910_preoperative-risk-stratification-for-anastomotic-l]] — Ren T et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.

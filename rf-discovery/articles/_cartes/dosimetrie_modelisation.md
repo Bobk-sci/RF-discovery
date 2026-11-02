@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-207 articles.
+208 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -172,11 +172,12 @@
 - `2016` [[2016_26476436_exposure-to-915-mhz-radiation-induces-micronuclei]] — Gustavino B et al.
 - `2005` [[2005_15785322_genotoxicity-evaluation-of-electromagnetic-fields]] — Chang SK et al.
 
-## neuro_comportement_cognition (9)
+## neuro_comportement_cognition (10)
 
 - `2026` [[2026_41828198_multiphysical-characterization-of-a-tissue-mimicki]] — Reyes-Vera E et al.
 - `2026` [[2026_42076313_modeling-of-polyolefin-aluminum-bonding-technology]] — Ciobanu RC et al.
 - `2026` [[2026_42090102_impact-of-automatic-exposure-control-on-radiation]] — Matsubara K et al.
+- `2026` [[2026_42934140_a-deep-learning-based-method-for-rapid-reconstruct]] — Wei J et al.
 - `2026` [[2026_PPR1317233_first-experimental-realization-of-a-cable-free-and]] — Jung MH
 - `2024` [[2024_38602349_anomalously-large-heat-generation-of-hydration-wat]] — Murakami H
 - `2024` [[2024_40040200_cerebral-blood-flow-monitoring-with-a-portable-rad]] — Anwar U et al.

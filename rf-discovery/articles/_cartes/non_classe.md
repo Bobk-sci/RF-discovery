@@ -1,6 +1,6 @@
 # non_classe
 
-239 articles.
+243 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -52,7 +52,7 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (105)
+## general (108)
 
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
 - `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
@@ -95,8 +95,11 @@
 - `2026` [[2026_42820978_dual-energy-ct-virtual-non-calcium-imaging-for-dif]] — Lee HY, Jeon JY
 - `2026` [[2026_42841922_head-to-head-comparison-of-quantitative-perfusion]] — Banerjee S et al.
 - `2026` [[2026_42875272_mri-goutallier-classification-dect-and-mri-ideal-f]] — Takatori N et al.
+- `2026` [[2026_42877711_curing-regime-controlled-performance-of-basalt-mod]] — Said MA et al.
 - `2026` [[2026_42900553_filament-deposition-modeling-quality-assurance-tes]] — Heggie BT et al.
 - `2026` [[2026_42923967_microwave-treated-structural-and-network-changes-i]] — Uzunbayir B et al.
+- `2026` [[2026_42930628_site-specific-material-decomposition-versus-univer]] — Piscone S et al.
+- `2026` [[2026_42967258_node-rads-outperforms-dual-energy-ct-derived-quant]] — Yao DX et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
@@ -165,7 +168,7 @@
 - `2018` [[2018_30607077_effect-of-conventional-and-microwave-tissue-proces]] — Dwivedi D et al.
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 
-## neuro_comportement_cognition (36)
+## neuro_comportement_cognition (37)
 
 - `2026` [[2026_41602187_design-and-synthesis-of-novel-sulfa-azo-dyes-a-sus]] — Sherif S et al.
 - `2026` [[2026_41917285_microwave-scattering-signatures-for-distinguishing]] — Moradi A, Bait-Suwailam MM
@@ -180,6 +183,7 @@
 - `2026` [[2026_42797892_cow-behavior-recognition-method-based-on-multi-sou]] — Zhao X et al.
 - `2026` [[2026_42874510_enhanced-two-stage-cascaded-network-for-high-preci]] — Zhu H et al.
 - `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
+- `2026` [[2026_PPR1352114_machine-learning-prediction-of-rice-seedling-growt]] — Islam MR et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
 - `2024` [[2024_38767941_notification-you-may-have-cancer-could-smartphones]] — Scott SE, Thompson MJ

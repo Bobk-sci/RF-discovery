@@ -1,13 +1,13 @@
 # ingenierie_materiel
 
-75 articles.
+77 articles.
 
 ## cancer (2)
 
 - `2026` [[2026_42144411_a-miniature-bio-inspired-antenna-for-sub-6-ghz-con]] — Nahar T et al.
 - `2024` [[2024_39409350_design-and-implementation-of-an-ultra-wideband-wat]] — Tan F, Wang H
 
-## dosimetrie_exposition (51)
+## dosimetrie_exposition (52)
 
 - `2026` [[2026_41533703_mobile-phone-mimo-antenna-array-miniaturization-ba]] — Hou WQ et al.
 - `2026` [[2026_41593293_electronically-switchable-dual-band-capsule-antenn]] — Gogosh N et al.
@@ -23,6 +23,7 @@
 - `2026` [[2026_42590639_a-compact-dual-port-dual-polarized-ultrawideband-w]] — Guo K et al.
 - `2026` [[2026_42591782_electroactive-pvdf-based-composite-thin-films-inco]] — Douhi S et al.
 - `2026` [[2026_42740425_an-ultra-miniaturized-dual-band-circularly-polariz]] — A Chandran A et al.
+- `2026` [[2026_42924129_metamaterial-inspired-dual-band-flexible-textile-a]] — Douhi S et al.
 - `2025` [[2025_39747224_compact-wearable-microstrip-antenna-design-using-h]] — Tiwari A et al.
 - `2025` [[2025_39934238_a-pocket-integrated-miniature-dual-band-and-high-g]] — Sharma D et al.
 - `2025` [[2025_40195383_sar-evaluation-of-mimo-antennas-with-a-wide-tunabl]] — Gu Y et al.
@@ -61,12 +62,13 @@
 - `2022` [[2022_36363959_an-ebg-based-triple-band-wearable-antenna-for-wban]] — Li R et al.
 - `2021` [[2021_34883957_compact-dual-band-antenna-with-paired-l-shape-slot]] — Ahmad S et al.
 
-## general (16)
+## general (17)
 
 - `2026` [[2026_41501245_a-compact-circularly-polarized-ultra-wide-bandwidt]] — Song Z et al.
 - `2026` [[2026_41753815_design-of-a-compact-uhf-wilkinson-power-divider-us]] — Roshani S et al.
 - `2026` [[2026_42249013_batteryless-wireless-tilt-sensor-with-self-calibra]] — Moznebi AR et al.
 - `2026` [[2026_42303738_low-profile-conformal-triple-band-textile-antenna]] — Hussain M et al.
+- `2026` [[2026_42399262_performance-management-counters-from-live-5g-4g-an]] — Lehoczký P et al.
 - `2026` [[2026_42451414_design-of-a-soc-based-highly-integrated-rf-transce]] — Wu J et al.
 - `2026` [[2026_42522738_regional-segregated-architecture-strategy-for-high]] — Li N et al.
 - `2026` [[2026_42849124_metasurface-aerogel-composite-reconfigurable-elect]] — Feng Y et al.
