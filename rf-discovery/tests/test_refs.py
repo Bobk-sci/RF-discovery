@@ -139,6 +139,40 @@ def test_403_est_compte_a_part_et_la_source_suivante_est_essayee(tmp_path):
     assert counts["refus_editeur"] == 1 and counts["echecs"] == 0
 
 
+def test_un_lien_mort_n_est_pas_un_refus_d_editeur(tmp_path):
+    """404, délai dépassé, coupure : des échecs techniques, pas des portes fermées.
+
+    Les confondre rendait le compteur `echecs` inexploitable — on ne savait pas s'il
+    fallait agir (lien mort à corriger) ou laisser faire Zotero (403).
+    """
+    def grab(url, target):
+        if "mort" in url:
+            raise RuntimeError("404 Client Error: Not Found for url: " + url)
+        raise TimeoutError("La lecture a dépassé le délai imparti")
+
+    journal: list[dict] = []
+    counts = fetch_all([{"pmid": "3", "doi": "10.1/z"}], tmp_path, "a@b.c",
+                       url_resolver=lambda _d: ["https://ex.org/mort.pdf",
+                                                "https://ex.org/lent.pdf"],
+                       downloader=grab, sleep=lambda _s: None, journal=journal)
+    assert counts["echecs"] == 1 and counts["refus_editeur"] == 0
+    # Le relevé doit nommer la cause de chaque source, pour que l'échec soit diagnosticable.
+    assert [s["code"] for s in journal[0]["sources"]] == ["404", "TimeoutError"]
+    assert journal[0]["classe"] == "echecs"
+
+
+def test_le_journal_distingue_les_deux_classes(tmp_path):
+    def grab(url, target):
+        raise RuntimeError("403 Client Error: Forbidden for url: " + url)
+
+    journal: list[dict] = []
+    fetch_all([{"pmid": "4", "doi": "10.1/w"}], tmp_path, "a@b.c",
+              url_resolver=lambda _d: ["https://wiley.com/a.pdf"],
+              downloader=grab, sleep=lambda _s: None, journal=journal)
+    assert journal[0]["classe"] == "refus_editeur"
+    assert journal[0]["sources"][0]["code"] == "403"
+
+
 def test_fetch_all_compte_chaque_situation(tmp_path):
     records = [
         {"pmid": "1", "doi": "10.1/libre"},

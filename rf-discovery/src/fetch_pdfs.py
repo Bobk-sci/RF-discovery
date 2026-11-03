@@ -21,7 +21,9 @@ import argparse
 import json
 import logging
 import os
+import re
 import time
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -30,6 +32,9 @@ from export_refs import collect_records
 
 ROOT = Path(__file__).resolve().parents[1]
 UNPAYWALL = "https://api.unpaywall.org/v2"
+# Le code HTTP est la seule information exploitable dans le message d'une exception
+# `requests` : 403 vient d'un éditeur qui refuse les scripts, 404 d'un lien mort.
+_CODE_HTTP = re.compile(r"\b([45]\d{2})\b")
 log = logging.getLogger("pdfs")
 
 
@@ -102,8 +107,14 @@ def _name(meta: dict[str, Any]) -> str:
 
 def fetch_all(records: list[dict[str, Any]], out: Path, email: str, *,
               limit: int | None = None, pause_s: float = 1.0,
-              url_resolver=None, downloader=None, sleep=time.sleep) -> dict[str, int]:
-    """Parcourt la bibliothèque et récupère ce qui est légalement téléchargeable."""
+              url_resolver=None, downloader=None, sleep=time.sleep,
+              journal: list[dict[str, Any]] | None = None) -> dict[str, int]:
+    """Parcourt la bibliothèque et récupère ce qui est légalement téléchargeable.
+
+    ``journal``, s'il est fourni, reçoit une entrée par article non obtenu : le DOI, la
+    classe retenue et, pour chaque source essayée, le code HTTP et le message. Sans ce
+    relevé, le compteur ``echecs`` est un nombre sans cause, donc sans action possible.
+    """
     resolve = url_resolver or (lambda doi: oa_pdf_urls(doi, email))
     grab = downloader or (lambda url, target: download(url, target, email=email))
     counts = {"deja_present": 0, "telecharges": 0, "sans_acces_libre": 0,
@@ -121,14 +132,23 @@ def fetch_all(records: list[dict[str, Any]], out: Path, email: str, *,
         if not urls:
             counts["sans_acces_libre"] += 1
             continue
-        _essayer(urls, target, doi, grab, counts)
+        _essayer(urls, target, doi, grab, counts, journal)
         sleep(pause_s)
     return counts
 
 
-def _essayer(urls: list[str], target: Path, doi: str, grab, counts: dict[str, int]) -> None:
-    """Essaie chaque source jusqu'à obtenir le PDF ; note la raison du dernier échec."""
+def _motif(exc: Exception) -> tuple[str, str]:
+    """(code HTTP si présent, sinon type d'erreur ; message abrégé)."""
+    texte = str(exc)
+    trouve = _CODE_HTTP.search(texte)
+    return (trouve.group(1) if trouve else type(exc).__name__), texte[:140]
+
+
+def _essayer(urls: list[str], target: Path, doi: str, grab, counts: dict[str, int],
+             journal: list[dict[str, Any]] | None = None) -> None:
+    """Essaie chaque source jusqu'à obtenir le PDF ; retient la cause de chaque échec."""
     refus = False
+    sources: list[dict[str, str]] = []
     for url in urls:
         try:
             if grab(url, target):
@@ -136,10 +156,18 @@ def _essayer(urls: list[str], target: Path, doi: str, grab, counts: dict[str, in
                 return
         except Exception as exc:
             # 403 = l'éditeur refuse les scripts, pas un article payant. Zotero, qui
-            # agit depuis un navigateur, y arrive généralement.
-            refus = refus or "403" in str(exc)
-            log.info("source refusée pour %s : %s", doi, str(exc)[:90])
-    counts["refus_editeur" if refus else "echecs"] += 1
+            # agit depuis un navigateur, y arrive généralement. Tout le reste — délai
+            # dépassé, lien mort, coupure — est un échec technique, et se dit autrement.
+            code, message = _motif(exc)
+            refus = refus or code == "403"
+            sources.append({"url": url, "code": code, "message": message})
+            log.info("%s pour %s : %s",
+                     "refus de l'éditeur" if code == "403" else f"échec {code}",
+                     doi, message[:80])
+    classe = "refus_editeur" if refus else "echecs"
+    counts[classe] += 1
+    if journal is not None:
+        journal.append({"doi": doi, "classe": classe, "sources": sources})
 
 
 def main() -> None:
@@ -157,12 +185,29 @@ def main() -> None:
     records = collect_records(Path(args.articles))
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    counts = fetch_all(records, out, args.email, limit=args.limit)
+    journal: list[dict[str, Any]] = []
+    counts = fetch_all(records, out, args.email, limit=args.limit, journal=journal)
     print(json.dumps({"articles": len(records), **counts}, indent=2, ensure_ascii=False))
     if counts["refus_editeur"]:
         print(f"\n{counts['refus_editeur']} articles en accès libre dont l'éditeur refuse "
               "les scripts (403). Ils ne sont pas payants : dans Zotero, « Trouver le PDF "
               "disponible » les récupère depuis un navigateur.")
+    _rapport(journal, out, counts)
+
+
+def _rapport(journal: list[dict[str, Any]], out: Path, counts: dict[str, int]) -> None:
+    """Écrit le relevé des échecs et en affiche les causes, par fréquence."""
+    if not journal:
+        return
+    chemin = out / "rapport-echecs.json"
+    chemin.write_text(json.dumps(journal, indent=1, ensure_ascii=False), encoding="utf-8")
+    causes = Counter(s["code"] for e in journal if e["classe"] == "echecs"
+                     for s in e["sources"])
+    if causes:
+        print(f"\n{counts['echecs']} échecs techniques, par cause :")
+        for code, n in causes.most_common(8):
+            print(f"  {n:>5}  {code}")
+    print(f"\nRelevé détaillé : {chemin}")
 
 
 if __name__ == "__main__":
