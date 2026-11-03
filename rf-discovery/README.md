@@ -79,6 +79,44 @@ par terme d'exposition). On l'active au besoin :
 `--sources europepmc,pubmed,openalex`. Le courriel passé par `--email` sert de paramètre de
 courtoisie (« polite pool ») ; sans lui, rien n'est transmis.
 
+## Recherche exhaustive : filtrer un corpus complet en local
+
+Interroger une API, c'est demander à un moteur de deviner ce qu'on cherche. La requête
+PubMed de ce dépôt a rendu **zéro** notice pendant des semaines sans le dire, parce qu'elle
+était écrite dans la syntaxe d'Europe PMC. Télécharger le corpus entier et le filtrer
+soi-même supprime ce risque : on lit **toutes** les notices, et c'est `taxonomy.yaml` qui
+décide — le même comptage de mots-clés que partout ailleurs.
+
+```bash
+# 1. le baseline PubMed complet (FTP public NCBI), puis
+python -m import_baseline --dump E:/pubmed-baseline --format pubmed
+python -m import_baseline --dump E:/pubmed-baseline --limite 50000   # essai
+
+# 2. le snapshot OpenAlex : identifiants seulement, résolus ensuite par PubMed/Europe PMC
+python -m import_baseline --dump E:/openalex/works --format openalex
+```
+
+| Source | Contenu | Licence | Accès |
+|---|---|---|---|
+| **PubMed baseline** | toutes les notices PubMed, résumé + MeSH | domaine public | FTP NCBI `pubmed/baseline/` |
+| **PMC Open Access Subset** | textes intégraux et PDF du sous-ensemble ouvert | CC-BY / CC0 selon l'article | FTP NCBI / S3 `pmc-oa-opendata` |
+| **OpenAlex snapshot** | 464 M de notices, 675 Go (version 2026-10-14) | **CC0** | S3 `s3://openalex/data/jsonl/works/` |
+| **Unpaywall** | statut d'accès libre, liens légaux | CC0 | instantané sur demande |
+
+La lecture est incrémentale : un fichier d'archive est parcouru notice par notice, jamais
+chargé entier. Un poste de 16 Go traite le baseline complet sans difficulté.
+
+**OpenAlex ne produit aucune fiche** par cette voie : son résumé n'est publié que sous forme
+d'index inversé (mot → positions) et le reconstruire donnerait un texte dont la ponctuation
+n'est plus celle de l'original. Le scan écrit une liste de PMID/DOI candidats, résolus
+ensuite auprès de PubMed / Europe PMC, qui font foi — la règle déjà appliquée à EMF-Portal.
+
+**Ce que l'outil ne fera pas.** Aucune acquisition d'articles sous abonnement par des
+canaux non autorisés. Ce n'est de toute façon pas le besoin : le classement travaille sur
+titre, résumé et descripteurs MeSH, tous librement redistribuables en vrac. Les PDF ne
+servent qu'au relevé des paramètres d'exposition, et pour ceux-là la voie est l'accès
+institutionnel (`fetch_pdfs` + proxy de bibliothèque dans Zotero).
+
 ## Importer dans EndNote ou Zotero, et récupérer les PDF
 
 ```bash
