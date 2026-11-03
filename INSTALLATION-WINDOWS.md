@@ -3,10 +3,13 @@
 Résultat final :
 
 ```
-E:\rf-library\rf-discovery\articles\      coffre Obsidian (1370 fiches)
-E:\rf-library\rf-discovery\articles\bibliotheque-rf.ris   à importer dans EndNote
-E:\rf-library\rf-discovery\pdf\           PDF en accès libre
-E:\ollama-models\                         modèles locaux (plusieurs Go)
+E:\rf-library\rf-discovery\articles\             coffre Obsidian (2470 fiches)
+E:\rf-library\rf-discovery\articles\_syntheses\  synthèses et schémas
+E:\rf-library\rf-discovery\articles\_veilles\    compte rendu de chaque collecte
+E:\rf-library\rf-discovery\articles\_textes\     textes intégraux (Europe PMC)
+E:\rf-library\rf-discovery\articles\bibliotheque-rf.ris   à importer dans Zotero
+E:\rf-library\rf-discovery\pdf\                  PDF en accès libre
+E:\ollama-models\                                modèles locaux (plusieurs Go)
 ```
 
 ---
@@ -54,12 +57,21 @@ Comptez une trentaine de minutes, l'essentiel étant le téléchargement des PDF
 Options utiles :
 
 ```powershell
-# sans les PDF (références seules, deux minutes)
+# mise à jour hebdomadaire : synchronise et réexporte, sans retélécharger (2 minutes)
+... -Email votre@adresse.fr -Rapide
+
+# sans les PDF (références seules)
 ... -Email votre@adresse.fr -SansPdf
 
 # ailleurs que E:\rf-library
 ... -Email votre@adresse.fr -Racine "E:\Documents\veille-rf"
+
+# créer la jonction vers un coffre Obsidian situé sur C:
+... -Email votre@adresse.fr -Coffre "C:\biblio\Biblio"
 ```
+
+À la fin, le script affiche l'état réel du corpus — nombre de fiches, de textes intégraux,
+de PDF et de synthèses — pour que vous sachiez ce qui est arrivé sur le disque.
 
 **Sur les PDF, sans détour :** environ la moitié du corpus est en accès libre et sera
 téléchargée. L'autre moitié est sous abonnement et ne le sera pas — aucun script ne
@@ -88,7 +100,7 @@ ollama pull qwen2.5:7b           # dialogue, ~4,7 Go
 Redémarrez Ollama pour qu'il prenne en compte `E:\ollama-models`, puis dans Obsidian :
 *Paramètres → Modules complémentaires → Parcourir* → **Smart Connections** → dans ses
 réglages, choisissez **Ollama** et le modèle `nomic-embed-text`. L'indexation des
-1 370 fiches prend une à deux minutes.
+2 470 fiches prend deux à quatre minutes.
 
 Pour dialoguer avec le corpus, ajoutez **Copilot for Obsidian** et pointez-le sur
 `http://localhost:11434/v1`, modèle `qwen2.5:7b`.
@@ -115,7 +127,7 @@ Ensuite : *Fichier → Importer → Un fichier* →
 `E:\rf-library\rf-discovery\articles\bibliotheque-rf.ris`
 
 Cochez **« Placer les collections et éléments importés dans une nouvelle collection »** :
-les 1 370 articles arrivent groupés, sans se mélanger à vos références existantes.
+les 2 470 articles arrivent groupés, sans se mélanger à vos références existantes.
 
 Ce que vous récupérez :
 
@@ -154,12 +166,36 @@ EndNote.
 
 ## 6. Mettre à jour plus tard
 
+La collecte tourne **toute seule chaque lundi à 05:00 UTC** sur GitHub. Vous n'avez rien à
+lancer pour que le corpus grossisse ; vous lancez seulement pour le rapatrier sur `E:`.
+
 ```powershell
-powershell -ExecutionPolicy Bypass -File E:\rf-library\scripts\installer-windows.ps1 -Email votre@adresse.fr
+powershell -ExecutionPolicy Bypass -File E:\rf-library\scripts\installer-windows.ps1 -Email votre@adresse.fr -Rapide
 ```
 
-Le script fait un `git pull` : vous récupérez les articles ajoutés par la collecte
-hebdomadaire, et seuls les PDF manquants sont téléchargés.
+Deux minutes : le script aligne le dossier sur le dépôt et réexporte les références. Les
+PDF et les textes intégraux déjà présents sont conservés.
+
+Sans `-Rapide`, il reprend aussi les PDF et les textes intégraux manquants — à faire après
+une grosse arrivée d'articles, pas toutes les semaines.
+
+Après une grosse mise à jour, deux gestes manuels :
+
+1. **Obsidian** : relancer l'indexation Smart Connections, sinon les nouvelles fiches ne
+   ressortent pas dans les rapprochements.
+2. **Zotero** : réimporter `bibliotheque-rf.ris` dans une nouvelle collection.
+
+### Recherche exhaustive (facultatif, long)
+
+Pour ne plus dépendre d'une requête d'API, on peut filtrer un corpus complet en local :
+
+```powershell
+cd E:\rf-library\rf-discovery
+.\.venv\Scripts\python.exe -m import_baseline --dump E:\pubmed-baseline --limite 50000
+```
+
+Commencez toujours par `--limite` : vous voyez le taux de rétention avant d'y passer la
+nuit. Détails et sources dans `rf-discovery/README.md`.
 
 ---
 
