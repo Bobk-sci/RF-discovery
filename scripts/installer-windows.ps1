@@ -44,9 +44,26 @@ if (Test-Path (Join-Path $Racine ".git")) {
         # Ce dossier est un MIROIR du dépôt : on n'y attend aucun travail local. On aligne
         # donc sur la branche distante plutôt que de fusionner — un `pull --ff-only`
         # échoue dès que l'historique distant a été réécrit, ce qui bloquait tout.
-        $sale = (git status --porcelain) | Where-Object { $_ -notmatch "^\?\?" }
+        #
+        # Mais le pipeline local réécrit lui-même cinq fichiers SUIVIS : export_refs pose
+        # les chemins `file:///E:/...` des PDF dans le RIS et le BibTeX, et la collecte
+        # régénère l'index, le README et la mémoire de déduplication. Les traiter comme un
+        # travail à sauvegarder bloquait le script dès la deuxième exécution. Ils sont
+        # régénérés juste après le reset : on les laisse donc passer, et on n'interrompt
+        # que pour une modification qu'on ne sait pas reproduire.
+        $regenerables = @(
+            "rf-discovery/articles/bibliotheque-rf.ris",
+            "rf-discovery/articles/bibliotheque-rf.bib",
+            "rf-discovery/articles/index.csv",
+            "rf-discovery/articles/README.md",
+            "rf-discovery/data/seen_library.json"
+        )
+        $sale = @(git status --porcelain) |
+            Where-Object { $_ -notmatch "^\?\?" } |
+            Where-Object { $regenerables -notcontains $_.Substring(3).Trim('"') }
         if ($sale) {
-            throw "Des fichiers suivis ont été modifiés dans $Racine. Sauvegardez-les ou supprimez le dossier, puis relancez."
+            $liste = ($sale | ForEach-Object { "  " + $_.Substring(3) }) -join "`n"
+            throw "Ces fichiers suivis ont été modifiés dans $Racine :`n$liste`n`nSauvegardez-les ailleurs, ou annulez-les avec : git -C `"$Racine`" checkout -- . "
         }
         git fetch origin $Branche
         Verifier "git fetch"
