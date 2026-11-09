@@ -1,6 +1,6 @@
 # revue
 
-175 articles.
+176 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -114,11 +114,12 @@
 - `2021` [[2021_33539186_genetic-effects-of-non-ionizing-electromagnetic-fi]] — Lai H
 - `2021` [[2021_34567874_an-exploration-of-the-effects-of-radiofrequency-ra]] — Alkayyali T et al.
 
-## neuro_comportement_cognition (21)
+## neuro_comportement_cognition (22)
 
 - `2026` [[2026_41932003_electric-fields-for-warming-cryopreserved-tissue]] — Wowk B
 - `2026` [[2026_42318412_research-progress-on-the-application-of-dual-energ]] — Wu LN et al.
 - `2026` [[2026_42828174_electromagnetic-exposure-safety-assessment-of-elec]] — Bai W, Lu M
+- `2026` [[2026_42981375_physiological-and-health-related-effects-of-5g-rel]] — Bodewein L et al.
 - `2025` [[2025_40076887_brain-disease-modifying-effects-of-radiofrequency]] — Sun S et al.
 - `2025` [[2025_41149527_electromagnetic-interference-in-the-modern-era-con]] — Prekodravac Filipovic J et al.
 - `2024` [[2024_38533994_mobile-phone-text-messaging-for-medication-adheren]] — Redfern J et al.

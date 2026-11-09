@@ -1,14 +1,15 @@
 # epidemiologie
 
-248 articles.
+250 articles.
 
-## cancer (27)
+## cancer (28)
 
 - `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
 - `2026` [[2026_42944910_preoperative-risk-stratification-for-anastomotic-l]] — Ren T et al.
+- `2026` [[2026_42988510_noninvasive-prediction-of-tumor-malignancy-grade-i]] — Li M et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.
@@ -147,7 +148,7 @@
 
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 
-## neuro_comportement_cognition (51)
+## neuro_comportement_cognition (52)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
 - `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
@@ -156,6 +157,7 @@
 - `2026` [[2026_42861220_quantitative-dual-energy-computed-tomography-param]] — Ma T et al.
 - `2026` [[2026_42924320_effect-of-7e-instruction-on-primary-students-non-i]] — Tokgöz EÖ
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
+- `2026` [[2026_PPR1358207_electromagnetic-field-exposure-during-the-use-of-n]] — İnam Ö et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.
 - `2024` [[2024_38993329_mobile-phone-short-video-use-negatively-impacts-at]] — Yan T et al.

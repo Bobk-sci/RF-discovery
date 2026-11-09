@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-208 articles.
+209 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -21,7 +21,7 @@
 - `2023` [[2023_36706903_incongruities-in-recently-revised-radiofrequency-e]] — Lin JC
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
 
-## dosimetrie_exposition (90)
+## dosimetrie_exposition (91)
 
 - `2026` [[2026_41615988_numerical-analysis-of-low-frequency-electromagneti]] — Tian R et al.
 - `2026` [[2026_41645932_effects-of-exposure-to-nearby-mobile-phone-base-st]] — Laldinpuii et al.
@@ -38,6 +38,7 @@
 - `2026` [[2026_42740072_microwave-radar-sensing-for-non-invasive-intra-abd]] — Tayebi S et al.
 - `2026` [[2026_42748860_an-integrated-experimental-computational-electroma]] — Horvat ID et al.
 - `2026` [[2026_42756263_compact-metasurface-track-side-pis-antenna-based-o]] — Luo MF et al.
+- `2026` [[2026_42975315_emc-evaluation-in-radiation-emitting-medical-devic]] — Censi F et al.
 - `2025` [[2025_39746061_numerical-dosimetry-of-specific-absorption-rate-of]] — Jeladze V et al.
 - `2025` [[2025_39804717_measurement-of-ambient-millimeter-wave-exposure-le]] — Bushberg JT, Butcher MJ
 - `2025` [[2025_39909091_auto-induced-uplink-4g-and-5g-rf-emf-exposure-asse]] — Stroobandt B et al.

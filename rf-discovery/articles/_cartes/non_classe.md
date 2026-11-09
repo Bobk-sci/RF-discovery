@@ -1,6 +1,6 @@
 # non_classe
 
-243 articles.
+248 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -10,7 +10,7 @@
 
 - `2026` [[2026_42395102_value-of-dual-energy-computed-tomography-with-mate]] — Dong LW et al.
 
-## cancer (17)
+## cancer (20)
 
 - `2026` [[2026_41815122_construction-of-a-postoperative-disease-free-survi]] — Zhao W et al.
 - `2026` [[2026_41863573_increasing-the-production-of-l-asparaginase-from-b]] — Daifallah V, Jaafar AAK
@@ -24,6 +24,9 @@
 - `2026` [[2026_42571761_baseline-dual-energy-ct-iodine-uptake-predicts-sys]] — Bleymehl V et al.
 - `2026` [[2026_42647686_diagnostic-performance-of-the-proposed-dect-ni-rad]] — Sananmuang T et al.
 - `2026` [[2026_42661227_dual-energy-ct-extracellular-volume-fraction-for-p]] — Ming S et al.
+- `2026` [[2026_42977926_preoperative-assessment-of-her-2-status-in-breast]] — Yang D et al.
+- `2026` [[2026_42983216_preoperative-prediction-of-lymph-node-metastasis-i]] — Chai HF et al.
+- `2026` [[2026_42996559_dual-energy-computed-tomography-as-an-alternative]] — Ming S et al.
 - `2024` [[2024_39337813_a-breast-tumor-monitoring-vest-with-flexible-uwb-a]] — Dessai R et al.
 - `2022` [[2022_35271102_heterogeneous-skin-phantoms-for-experimental-valid]] — Boparai J, Popović M
 - `2021` [[2021_34541704_mobile-phone-use-and-time-trend-of-brain-cancer-in]] — Choi KH et al.
@@ -52,7 +55,7 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (108)
+## general (110)
 
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
 - `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
@@ -100,12 +103,14 @@
 - `2026` [[2026_42923967_microwave-treated-structural-and-network-changes-i]] — Uzunbayir B et al.
 - `2026` [[2026_42930628_site-specific-material-decomposition-versus-univer]] — Piscone S et al.
 - `2026` [[2026_42967258_node-rads-outperforms-dual-energy-ct-derived-quant]] — Yao DX et al.
+- `2026` [[2026_42969276_photoelectric-dominant-imaging-in-dual-energy-ct-c]] — Romman M et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
 - `2026` [[2026_PPR1276922_dual-energy-ct-derived-extracellular-volume-fracti]] — Lu X et al.
 - `2026` [[2026_PPR1288658_accurate-hepatic-fat-fraction-quantification-acros]] — Li X et al.
 - `2026` [[2026_PPR1325980_distal-occlusion-tracker-sign-in-the-24-hours-dual]] — Diana F et al.
+- `2026` [[2026_PPR1356238_exemption-without-exposure-formally-verified-condi]] — Aliu A et al.
 - `2025` [[2025_39656106_dose-estimation-for-indoor-radon-occupational-radi]] — Sahmaran T et al.
 - `2025` [[2025_39657937_comparison-of-chlorhexidine-gluconate-sodium-hypoc]] — Jabeen B et al.
 - `2025` [[2025_39735903_rapid-degradation-of-pharmaceutical-pollutants-usi]] — Gaffar S et al.

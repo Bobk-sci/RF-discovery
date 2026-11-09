@@ -2151,6 +2151,27 @@ KW  - Track-Side Inspectors
 ER  - 
 
 TY  - JOUR
+AU  - Censi F
+AU  - D'Agostino S
+AU  - Apolinio F
+AU  - Masini EP
+AU  - Burriesci G
+TI  - EMC evaluation in radiation-emitting medical devices: regulatory limits and an integrated safety approach.
+PY  - 2026
+AB  - <h4>Introduction</h4>Electromagnetic compatibility (EMC) is a fundamental safety requirement for medical devices, ensuring both the limitation of electromagnetic emissions and adequate immunity to external electromagnetic disturbances.<h4>Areas covered</h4>Within the European regulatory framework, EMC is addressed in the Regulation 2017/745 (MDR), which requires manufacturers to minimize radiation emissions, prevent interference with other devices, and provide appropriate information in the instructions for use. The main technical reference standard for EMC is IEC 60,601-1-2, which defines test methods and limits for electromagnetic emissions and immunity. However, this standard evaluates radiated emissions only above 30 MHz, creating a regulatory gap for devices operating at lower frequencies. Moreover, it does not address the assessment of unintended or spurious emissions below this threshold.<h4>Expert opinion</h4>To address these limitations, additional standards and guidelines must be considered. IEC 62,311 provides methodologies for assessing human exposure to electromagnetic fields across the frequency range 0 Hz-300 GHz, while exposure limits can be derived from the ICNIRP guidelines and the European Directive 2013/35/EU. By combining EMC testing according to IEC 60,601-1-2 with exposure assessment based on IEC 62,311 and comparison with ICNIRP limits, manufacturers can demonstrate full regulatory compliance in terms of EMC.
+DO  - 10.1080/17434440.2026.2759441
+UR  - https://pubmed.ncbi.nlm.nih.gov/42975315/
+AN  - 42975315
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+KW  - OCCUPATIONAL HEALTH
+KW  - Medical devices
+KW  - Electromagnetic Field Exposure
+KW  - Medical Device Regulation
+KW  - Electromagnetic Compatibility
+ER  - 
+
+TY  - JOUR
 AU  - Mild KH
 AU  - Andersen JB
 AU  - Pedersen GF
@@ -5313,6 +5334,32 @@ KW  - Gastric cancer
 KW  - Anastomotic leakage
 KW  - Sarcopenia
 KW  - Dual-energy Ct
+ER  - 
+
+TY  - JOUR
+AU  - Li M
+AU  - Wang B
+AU  - Ming S
+AU  - Cheng P
+AU  - Wang M
+AU  - Zhang W
+AU  - Li J
+AU  - Shi D
+AU  - Wei W
+TI  - Noninvasive Prediction of Tumor Malignancy Grade in Pancreatic Ductal Adenocarcinoma with Dual-Energy CT: A Novel Index Integrating Histopathological Differentiation and Ki-67.
+PY  - 2026
+SP  - 5657-5668
+AB  - <h4>Rationale and objectives</h4>To preliminarily develop and validate an integrated model based on clinical features and rapid-kVp-switching dual-energy CT (DECT) 3D volumetric parameters for the noninvasive prediction of a novel Grade of Malignancy (GOM) in pancreatic ductal adenocarcinoma (PDAC)-a composite index integrating histopathological differentiation and Ki-67 index.<h4>Materials and methods</h4>This retrospective study enrolled 183 patients with pathologically confirmed PDAC. Patients were randomly allocated into training (n=128) and validation (n=55) cohorts. From the portal venous phase scans, three quantitative 3D volumetric parameters were extracted from the tumor volume: iodine concentration (IC), the slope of the spectral attenuation curve, and effective atomic number. Independent predictors for the GOM were identified through univariate and multivariate logistic regression analysis. The discriminatory performance of the developed models was evaluated using receiver operating characteristic curve analysis, and clinical utility was assessed with decision curve analysis.<h4>Results</h4>The integrated model, which combined the DECT parameter (3D VOI-IC) and CA125, demonstrated superior predictive performance compared to models using clinical or DECT features alone. In the training cohort, the integrated model achieved an area under the curve (AUC) of 0.821 (95% CI: 0.743-0.899), which was robustly validated with an AUC of 0.806 (95% CI: 0.684-0.928) in the validation cohort. Decision curve analysis confirmed that this combined model provided the highest clinical net benefit across a wide range of threshold probabilities.<h4>Conclusion</h4>Our findings suggest that an integrated model incorporating the 3D volumetric parameter IC from DECT and CA125 could be a useful and noninvasive adjunct for preoperative prediction of the comprehensive GOM in PDAC, though further validation is needed.
+DO  - 10.1016/j.acra.2026.09.001
+UR  - https://pubmed.ncbi.nlm.nih.gov/42988510/
+AN  - 42988510
+KW  - modele:epidemiologie
+KW  - theme:cancer
+KW  - Differentiation
+KW  - Ki-67
+KW  - Pancreatic Ductal Adenocarcinoma
+KW  - Grade Of Malignancy
+KW  - Rapid-kvp-switching Dual-energy Ct
 ER  - 
 
 TY  - JOUR
@@ -9158,6 +9205,21 @@ AN  - PPR1306903
 KW  - modele:epidemiologie
 KW  - theme:neuro_comportement_cognition
 KW  - modele:humain_experimental
+ER  - 
+
+TY  - JOUR
+AU  - İnam Ö
+AU  - Kuşman S
+AU  - Bozdemir T
+TI  - Electromagnetic Field Exposure During the Use of New-Generation and Conventional Household Appliances and Health Indicators in Women: A Comparative Cross-Sectional Study
+PY  - 2026
+AB  - <title>Abstract</title>  <p>Objective  This study aimed to compare magnetic flux density (µT) measured during the use of new-generation and conventional household and personal-care appliances among women and to examine the associations of magnetic flux density and appliance-use characteristics with headache impact, fatigue, anxiety, and sleep quality. Methods  This comparative cross-sectional study included 56 women aged 18–55 years living in Istanbul, Türkiye. Comparisons were conducted separately according to appliance type, including hair styling devices and cooking appliances. Appliance-use duration, frequency of use, total years of use, and magnetic flux density were recorded. Magnetic flux density was measured in microtesla (µT) using a portable Benetech GM3120 Electromagnetic Field Radiation Detector during appliance operation. Measurements were performed under real-life household conditions, with the measurement device held approximately 10–15 cm from the operating appliance. The appliances included in the study were newly purchased and had not been routinely used before the measurements. Health indicators were assessed using the Chalder Fatigue Scale, the anxiety subscale of the Depression Anxiety Stress Scale-21 (DASS-21), the Richards-Campbell Sleep Questionnaire, and the Headache Impact Test-6 (HIT-6). Results  Mean magnetic flux density was significantly higher for conventional hair styling devices than for new-generation hair stylers (38.24 ± 20.39 µT vs. 14.89 ± 11.28 µT; p < 0.001). In contrast, magnetic flux density was significantly higher during air fryer use than during conventional oven use (29.95 ± 19.88 µT vs. 5.20 ± 1.95 µT; p = 0.003). No significant differences were found between appliance types in HIT-6, fatigue, anxiety, or sleep quality scores (all p > 0.05). Mean magnetic flux density was not significantly associated with any health scale score. However, longer weekly appliance-use duration was associated with lower sleep quality (r = − 0.27; p < 0.05) and higher anxiety scores (r = 0.28; p < 0.05). Conclusion  New-generation household appliances did not show a consistent pattern of lower magnetic flux density compared with conventional appliances. Magnetic flux density varied according to appliance type. Although measured magnetic flux density was not directly associated with headache impact, fatigue, anxiety, or sleep quality, longer weekly appliance-use duration was associated with poorer sleep quality and higher anxiety. These findings suggest that appliance type and patterns of use should be considered when evaluating magnetic field exposure in household settings.</p>
+DO  - 10.21203/rs.3.rs-10832971/v1
+UR  - https://doi.org/10.21203/rs.3.rs-10832971/v1
+AN  - PPR1358207
+KW  - modele:epidemiologie
+KW  - theme:neuro_comportement_cognition
+KW  - theme:eeg_sommeil
 ER  - 
 
 TY  - JOUR
@@ -13032,6 +13094,26 @@ KW  - Oxidative–nitrosative Stress
 KW  - Apoptosis-Associated Responses
 KW  - Atp Status
 KW  - Skov3 Ovarian Carcinoma-Derived Epithelial Cells
+ER  - 
+
+TY  - JOUR
+AU  - Çağdaş B
+AU  - Kuduğ Ceylan H
+AU  - Elibol M
+TI  - Microwave-assisted green synthesis of &lt;i&gt;Cordyceps militaris&lt;/i&gt;-derived silver nanoparticles and conjugation with salinomycin for the enhanced anticancer and antimicrobial activity.
+PY  - 2026
+SP  - 1-11
+AB  - Green synthesis of silver nanoparticles (AgNPs) using extract of a medicinal mushroom <i>Cordyceps militaris (C. militaris)</i> has emerged as a promising alternative to conventional nanoparticle synthesis methods. In this study, microwave-assisted fungal-mediated biosynthesized AgNPs were conjugated with salinomycin (Sal), an anticancer compound with activity against cancer stem cell populations. The extract of <i>C. militaris</i> effectively mediated the reduction of silver ions, leading to the formation of AgNPs that exhibited a characteristic peak at 417 nm in the UV-visible spectrum. DLS, TEM, SEM-EDS and FTIR analysis verified the morphology, stability, and functional groups. The antibacterial activity of the AgNP, Sal, and Sal-AgNP was evaluated against <i>E. coli</i> and <i>S. aureus.</i> Additionally, the cytotoxicity was determined by MTT assay in L-929 and MCF-7 cell lines, revealing that the Sal-AgNP conjugate, substantially decreased cell viability compared with individual treatments, with a more noticeable cytotoxic effect observed in MCF-7 cell lines, indicating enhanced anticancer activity. The findings of Annexin V-PI double staining imply that conjugated AgNPs enhance irreversible cell death and salinomycin-induced apoptosis. Overall, salinomycin-conjugated AgNPs enhanced the observed antimicrobial and anticancer activities under the tested in vitro conditions, highlighting their potential as a promising nanotherapeutic platform that warrants further investigation in preclinical studies.
+DO  - 10.1080/10826068.2026.2755271
+UR  - https://pubmed.ncbi.nlm.nih.gov/42992795/
+AN  - 42992795
+KW  - modele:in_vitro
+KW  - theme:apoptose_mitochondrie
+KW  - microwave irradiation
+KW  - Green Synthesis
+KW  - Silver Nanoparticles (Agnps)
+KW  - Salinomycin
+KW  - Cordyceps Militaris (C. Militaris)
 ER  - 
 
 TY  - JOUR
@@ -18901,6 +18983,29 @@ KW  - Xenon
 KW  - In Vivo Imaging
 KW  - Dual-energy Ct
 KW  - Pulmonary Functional Imaging
+ER  - 
+
+TY  - JOUR
+AU  - Colcimen N
+AU  - Keskin S
+AU  - Altindag F
+AU  - Cakir T
+AU  - Yildizhan K
+TI  - Modulatory effects of alpha-lipoic acid on cardiac tissue alterations associated with 2.45 GHz radiofrequency electromagnetic radiation exposure.
+PY  - 2026
+SP  - 363
+AB  - The widespread use of devices emitting electromagnetic radiation (EMR) at 2.45 GHz has raised concerns regarding their potential impact on biological systems, particularly the cardiovascular system. This study aimed to characterize cardiac tissue alterations associated with repeated 2.45 GHz EMR exposure and to evaluate whether ALA administration modulated these alterations. EMR exposure was generated using a voltage-controlled oscillator and a low-noise RF amplifier, and the electric-field intensity within the exposure cage was measured using a calibrated electromagnetic field meter. The EMR and ALA + EMR groups were exposed to 2.45 GHz EMR at 2 h per day for 30 days. The ALA and ALA + EMR groups received ALA (30 mg/kg/day) by oral gavage for 30 consecutive days; in the ALA + EMR group, ALA was administered 1 h before each RF-EMR exposure session. Histopathological and histomorphometric evaluations revealed significant lymphocytic infiltration, collagen deposition, and increased mast cell area fraction in the EMR group compared to controls. These alterations were markedly alleviated in the ALA + EMR group. Furthermore, 2.45 GHz EMR exposure significantly increased the immunoreactivity of TNF-α, NF-κB, IL-6, iNOS, and S100A4, as well as serum cTnI and CK levels. ALA administration significantly attenuated these alterations. Stereological analysis further showed increased myocardial volume density in the EMR group, which ALA + EMR significantly attenuated. Collectively, these findings indicate that ALA administration attenuated cardiac structural, inflammatory, and biochemical alterations observed under the present 2.45 GHz RF-EMR exposure conditions; however, the experimental design does not establish a causal RF-EMR-specific effect.
+DO  - 10.1007/s10735-026-11030-8
+UR  - https://pubmed.ncbi.nlm.nih.gov/42980940/
+AN  - 42980940
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - modele:humain_experimental
+KW  - Mast cells
+KW  - S100A4 protein
+KW  - Alpha-lipoic Acid
+KW  - Cardiac Inflammation
+KW  - 2.45 Ghz Electromagnetic Radiation
 ER  - 
 
 TY  - JOUR
@@ -26465,6 +26570,33 @@ KW  - Sustained Pro-regeneration
 ER  - 
 
 TY  - JOUR
+AU  - Elmas A
+AU  - Asci H
+AU  - Tepebası MY
+AU  - Taner R
+AU  - Selver MB
+AU  - Comlekci S
+AU  - Akcam M
+AU  - Ozmen O
+TI  - Combined radiofrequency electromagnetic and pulsed magnetic field exposure attenuates histological and molecular markers of acute colonic injury in young rats.
+PY  - 2026
+SP  - 1-16
+AB  - Inflammatory bowel disease involves epithelial injury, ulceration, apoptosis, inflammation, and oxidative-stress dysregulation. Although bioelectromagnetic fields may modulate tissue responses, their effects on acute colitis remain unclear. This exploratory study assessed histological and molecular changes associated with combined radiofrequency electromagnetic field (RF-EMF) and pulsed magnetic field (PMF) exposure in acetic-acid-induced colitis.Thirty-two young female Wistar albino rats were allocated to Control, Colitis, Colitis+RF-EMF+PMF, or RF-EMF+PMF groups (n=8 each). Colitis was induced intrarectally with 4% acetic acid. Exposure comprised RF-EMF (27.12 MHz, 30 min/session, 12 cycles/day) and PMF (0.5 mT, continuous). After seven days, distal colonic specimens underwent semiquantitative histopathology, crypt morphometry, immunohistochemistry for CAS-3, IL-6, and TNF-α, and RT-qPCR for SIRT-1, NRF-2, and HO-1. Colitis caused histological injury, reduced crypt dimensions, increased CAS-3, IL-6, and TNF-α immunopositivity, and decreased SIRT-1, NRF-2, and HO-1 expression. Compared with untreated colitis, combined exposure increased crypt depth and width and reduced all three immunohistochemical markers (all Tukey-adjusted p<0.001). Overall histopathological injury was lower but not statistically significant (Dunn-adjusted p=0.068), whereas submucosal inflammatory infiltration decreased significantly (p=0.048). NRF-2 expression increased (Tukey-adjusted p=0.002); SIRT-1 and HO-1 increased numerically without statistical significance (p=0.057 and 0.134).Combined RF-EMF+PMF exposure was associated with preserved crypt architecture, reduced apoptotic and inflammatory immunopositivity, and increased NRF-2 expression. Absent barrier-function testing and incomplete RF dosimetry preclude conclusions regarding restored epithelial barrier function or established therapeutic efficacy.
+DO  - 10.1080/15368378.2026.2755411
+UR  - https://pubmed.ncbi.nlm.nih.gov/42980472/
+AN  - 42980472
+KW  - modele:in_vivo
+KW  - theme:stress_oxydatif
+KW  - modele:dosimetrie_modelisation
+KW  - theme:apoptose_mitochondrie
+KW  - Electromagnetic fields
+KW  - Intestinal barrier
+KW  - Rat model
+KW  - Experimental colitis
+KW  - Pulsed Magnetic Field
+ER  - 
+
+TY  - JOUR
 AU  - Ortner MJ
 AU  - Galvin MJ
 TI  - The effect of 2450 MHz microwave radiation on histamine secretion by rat peritoneal mast cells.
@@ -29213,6 +29345,81 @@ KW  - Extracellular Volume
 ER  - 
 
 TY  - JOUR
+AU  - Yang D
+AU  - Zheng X
+AU  - Chen S
+AU  - Lin Z
+AU  - Zhong S
+AU  - Sun L
+AU  - Yue X
+TI  - Preoperative assessment of HER-2 status in breast cancer using imaging features and quantitative parameters derived from chest contrast-enhanced fast kVp switching dual-energy computed tomography.
+PY  - 2026
+SP  - 576
+AB  - <h4>Objective</h4>To construct a human epithelial growth factor receptor 2 (HER-2) status predictive model in breast cancer using chest contrast-enhanced fast kVp switching dual-energy CT (DECT).<h4>Methods</h4>One hundred and fourteen breast cancer patients who underwent preoperative contrast-enhanced DECT scanning and surgery were retrospectively collected and divided into the HER-2 high group (n = 41), the HER-2 low group (n = 51) and the HER-2 negative group (n = 22). Conventional imaging features and DECT quantitative parameters were recorded. Independent predictors were identified by multi-variable logistic regression. Based on the binary classification of HER-2 high group and the combination group of HER-2 low and negative group, imaging feature model, DECT parameter model and combined model were constructed. The predictive performance was analyzed using area under the receiver operating characteristic curves (AUC).<h4>Results</h4>Lobulation, microcalcification, arterial-phase NIC and λHu, venous-phase NCT, NIC, NZeff and λHu showed statistically significant differences among the three groups, while only venous-phase NIC was statistically different during multiple comparisons (all P < 0.05). The maximum tumor diameter, arterial-phase normalized iodine concentration (NIC), slope for Hounsfield unite curve (λHu) and venous-phase normalized CT value, NIC, normalized effective atom number (NZeff) and λHu were higher in the HER-2 high group than in the combined group of Her-2 low and Her-2 negative individuals (all P < 0.05). Lobulation, microcalcification, arterial-phase λHu and venous-phase NZeff were identified as independent predictors of high HER-2 expression. Among all metrics, arterial-phase λHu had the highest AUC of 0.720 (95%CI: 0.623-0.816).The imaging feature model, DECT parameter model and combined model showed AUCs of 0.742 (95%CI: 0.647-0.836), 0.770 (95%CI: 0.685-0.854) and 0.831 (95%CI: 0.759-0.904), respectively. The combined model and its corresponding nomogram exhibit favorable calibration and possess clinical value for risk stratification.<h4>Conclusion</h4>The model combining imaging features and DECT parameters demonstrated certain reference value for predicting HER‑2 status in breast cancer, and may provide potential auxiliary support for clinical decision‑making. Further validations should be conducted.<h4>Clinical trial number</h4>Not applicable.
+DO  - 10.1186/s12880-026-02646-z
+UR  - https://pubmed.ncbi.nlm.nih.gov/42977926/
+AN  - 42977926
+KW  - modele:non_classe
+KW  - theme:cancer
+KW  - Breast cancer
+KW  - Chest Ct
+KW  - Dual-energy Ct
+KW  - Quantitative Parameters
+KW  - Epithelial Growth Factor Receptor 2
+ER  - 
+
+TY  - JOUR
+AU  - Chai HF
+AU  - Yang BL
+AU  - Zhang L
+AU  - Li YX
+AU  - Ren ZW
+AU  - Tang MY
+AU  - Li SS
+AU  - Deng GL
+TI  - Preoperative Prediction of Lymph Node Metastasis in Esophageal Squamous Cell Carcinoma using Multiple Quantitative Parameters from Dual-Source Energy Spectrum CT.
+PY  - 2026
+AB  - <h4>Objectives</h4>This study evaluated the diagnostic performance of quantitative parameters derived from dual-source spectral CT (DECT) for preoperative prediction of lymph node metastasis (LNM) in esophageal squamous cell carcinoma (ESCC).<h4>Methods</h4>From January 2024 to August 2025, a total of 117 ESCC patients meeting the inclusion and exclusion criteria were recruited. Based on postoperative pathology, patients were categorized into two groups: LNM-positive (n=55) and LNM-negative (n=62). Preoperative DECT was performed on all patients. Measurable parameters of the original tumor, including iodine concentration (IC), normalized iodine concentration (NIC), effective atomic number (Zeff), electron density (Rho), spectral curve slope (λHU, 40-70 keV), dual-energy index (DEI), and virtual noncontrast (VNC), were acquired during the arterial phase (AP) and the venous phase (VP). Clinicopathological data were collected. T-tests and chi-square tests were used for between-group comparisons; logistic regression analysis was employed to identify independent risk factors for lymph node metastasis; and receiver operating characteristic (ROC) curves were used to evaluate their predictive performance.<h4>Results</h4>Primary tumor length (L) differed significantly between groups (P<0.05; AUC=0.68). Statistical analysis revealed that within both AP and VP, the LNM-negative group had significantly elevated IC, NIC, λHU, Zeff, and DEI relative to the LNM-positive group (all P<0.05). Multivariate analysis showed that VP-NIC is an independent predictor of lymph node metastasis, with an AUC value of 0.86. The combination of VP-NIC and tumor length (L) achieved the highest predictive efficacy (AUC=0.88; sensitivity=95.2%; specificity=69.1%).<h4>Discussion</h4>This is the first study to demonstrate that primary tumor-derived DECT parameters can predict ESCC LNM preoperatively. VP-NIC independently predicted nodal status; its combination with tumor length enhanced predictive performance.<h4>Conclusion</h4>DECT-derived multiparametric analysis, especially the combined model, may serve as a non-invasive supplementary method for preoperative LNM assessment in ESCC, though further validation is warranted.
+DO  - 10.2174/0115734056502107261009175829
+UR  - https://pubmed.ncbi.nlm.nih.gov/42983216/
+AN  - 42983216
+KW  - modele:non_classe
+KW  - theme:cancer
+KW  - Esophageal cancer
+KW  - lymph node metastasis
+KW  - Iodine Concentration
+KW  - Effective Atomic Number
+KW  - Dual-energy Index
+KW  - Dual-source Energy Spectrum Ct
+ER  - 
+
+TY  - JOUR
+AU  - Ming S
+AU  - Ruan Y
+AU  - Cheng P
+AU  - Shi D
+AU  - Wang B
+AU  - Li J
+AU  - Du M
+AU  - Zhang Y
+AU  - Yang Y
+AU  - Zhu H
+AU  - Zhu C
+AU  - Zhang X
+AU  - Sun A
+AU  - Wei W
+TI  - Dual-energy computed tomography as an alternative to computed tomography perfusion for assessment of pancreatic ductal adenocarcinoma.
+PY  - 2026
+SP  - 316
+AB  - Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with a poor prognosis. Computed tomography perfusion (CTP) can quantify tumor hemodynamic parameters. Dual-energy computed tomography (DECT) can quantify iodine concentration and may provide perfusion-related information. This study aimed to establish the relationship strength between DECT-derived iodine values and CTP-based parameters in PDAC. This study aimed to establish the relationship strength between DECT derived iodine values and CTP based parameters in PDAC. A total of 47 patients having histologically proven PDAC were enrolled in this study. These patients underwent multi-phase DECT scanning and concurrent dynamic CTP using a single source, fast kVp switching CT scanner. The DECT derived parameters and CTP derived parameters of pancreatic tumor and tumor-free pancreatic parenchyma were calculated, including iodine concentration (IC) and normalized iodine concentration (NIC) in the portal venous and delayed phases, as well as blood flow (BF), blood volume (BV), etc. Statistical different parameters between pancreatic tumor and tumor-free pancreatic parenchyma were analyzed by receiver-operating characteristic (ROC) curves. The diagnostic capability was determined by calculating the area under the curve (AUC). A paired t-test and Pearson correlation were used to evaluate the two techniques. For the tumor lesion, IC was 15.21±5.09 and 15.98±4.71 mg/mL in the portal venous and delayed phases, while NIC was 0.31±0.10 and 0.51±0.14. For the tumor-free pancreatic parenchyma, the corresponding values were 27.25±5.43 mg/mL and 21.67±5.23 mg/mL for IC, and 0.55±0.11 and 0.70±0.18 for NIC, respectively. For the tumor lesion, BF and BV were 30.25±11.80 mL/100 g/min and 3.53±2.42 mL/100 g, respectively. For the tumor-free pancreatic parenchyma, BF and BV were 109.74±56.79 mL/100 g/min and 10.77±2.84 mL/100 g, respectively. BF, BV, mean slope of increase (MSI), positive enhancement integral (PEI) and IC in portal venous phase (IC_VP), NIC in portal venous phase (NIC_VP) showed very high diagnostic accuracy (AUC: 0.957-0.981), while IC in delayed phase (IC_DP) and NIC in delayed phase (NIC_DP) demonstrated moderate accuracy. The IC_VP of the tumor lesions showed a moderate positive correlation with BF and BV (r=0.653 and r=0.461, respectively; both P<0.001). The NIC_VP of the tumor lesions also showed a moderate positive correlation with BF and BV (r=0.645 and r=0.491, respectively; both P<0.001). In PDAC tumor lesions, DECT derived IC and NIC both show moderate positive correlations with BF and BV, with stronger correlations observed for BF, enabling DECT to evaluate both morphological and perfusion changes.
+DO  - 10.21037/jgo-2026-0553
+UR  - https://pubmed.ncbi.nlm.nih.gov/42996559/
+AN  - 42996559
+KW  - modele:non_classe
+KW  - theme:cancer
+ER  - 
+
+TY  - JOUR
 AU  - Vermeeren G
 AU  - Verloock L
 AU  - Aerts S
@@ -31836,6 +32043,30 @@ KW  - theme:general
 ER  - 
 
 TY  - JOUR
+AU  - Romman M
+AU  - Goldberg SN
+AU  - Nevo A
+AU  - Zeineh W
+AU  - Daud M
+AU  - Romman Z
+AU  - Sosna J
+AU  - Lenkinski RE
+AU  - Lev-Cohain N
+TI  - Photoelectric Dominant Imaging in Dual-Energy CT: Clinical Potential for Mucosal Enhancement in the Abdomen.
+PY  - 2026
+AB  - <h4>Introduction</h4>CT photoelectric-dominant imaging (PED) offers the potential to enhance contrast between tissues of similar electron density and improve lesion conspicuity. Despite this promise, PED is not yet clinically implemented. This study aimed to evaluate the diagnostic performance of PED compared with the commonly used DECT reconstructions for mucosal enhancement assessment in acute abdominal pathologies.<h4>Methods</h4>This retrospective single-center study included 38 patients with acute abdominal pathology (cystitis, appendicitis, colitis, cholecystitis) who underwent contrast-enhanced DECT in the venous phase. For each case, conventional, 40 keV, and 50 keV images, iodine maps, and PED images were generated. Six radiologists graded mucosal enhancement using a 4-point Likert scale. Scores were compared using repeated-measures ANOVA with post hoc testing, and interobserver agreement was assessed.<h4>Results</h4>PED images consistently outperformed conventional and 50 keV images across all evaluated pathologies (4/4, P<0.01). Compared to 40 keV images, PED images showed superior performance in 3/4 conditions (P<0.01), with the exception of cholecystitis, where 40 keV achieved the highest overall score (P<0.01). When compared with iodine maps, PED received slightly higher-but not statistically significant-scores, indicating near-equivalent diagnostic performance; however, it received the highest agreement among all reviewers (0.84, 0.77).<h4>Conclusions</h4>PED images demonstrate a promising diagnostic potential for mucosal enhancement assessment in acute abdominal inflammatory conditions. Their superior performance compared to conventional and 50 keV DECT images-and even marginally to iodine maps-supports further research in larger cohorts to better clarify organ- and pathology-specific advantages and to define their diagnostic role.
+DO  - 10.1097/rct.0000000000001921
+UR  - https://pubmed.ncbi.nlm.nih.gov/42969276/
+AN  - 42969276
+KW  - modele:non_classe
+KW  - theme:general
+KW  - Abdomen
+KW  - Dual-energy Ct
+KW  - Photoelectric
+KW  - Iodine Map
+ER  - 
+
+TY  - JOUR
 AU  - Nascimento DM
 AU  - Santos PL
 AU  - Ribeiro-Junior MR
@@ -31934,6 +32165,21 @@ AB  - <title>Abstract</title>  <p>Purpose  The distal occlusion tracker (DOT) si
 DO  - 10.21203/rs.3.rs-10943721/v1
 UR  - https://doi.org/10.21203/rs.3.rs-10943721/v1
 AN  - PPR1325980
+KW  - modele:non_classe
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Aliu A
+AU  - Ikharo B
+AU  - Makinde AS
+AU  - Obeten OM
+TI  - Exemption Without Exposure: Formally Verified Conditional Privacy-Preserving Authentication with Secure-Ranging Binding for Authorised Armed Carriers in AI Weapon Surveillance
+PY  - 2026
+AB  - <title>Abstract</title>  <p>Automated weapon detectors treat every visible firearm as a threat, yet plain-clothes soldiers, police officers and licensed guards lawfully carry weapons on the roads where kidnappers operate. Exempting them keeps false alarms manageable, but an exemption is also an attack surface: a stolen, relayed or wrongly attributed credential can silence an alert about a genuine threat. This paper presents conditional privacy-preserving authentication (CPPA) for authorised armed carriers in artificial intelligence surveillance. Carriers present short-lived pseudonymous role credentials through a challenge-response exchange, so the verifier learns a role but not an identity, while an oversight authority can resolve a pseudonym only under lawful order. Ultra-wideband secure ranging binds the credential to the vehicle the camera flagged, and a three-outcome policy ensures that no weapon detection is silently discarded. The protocol is verified in the Tamarin prover: unforgeability, injective agreement, identity secrecy and unlinkability hold, and weakening any of four design elements yields an attack. A reference implementation verifies a 225-byte presentation in a median of 253\,{\unboldmath$\upmu$}s on one 2.1~GHz virtual processor. Monte Carlo simulation shows a binding error of {\unboldmath$6.7\times10^{-4}$} for side-by-side vehicles with 0.1~m ranging and 0.5~m camera localisation, against 0.08 with 1~m ranging and localisation. In a representative scenario, binding lowers the probability that a threat is silently exempted from 0.21 to the credential compromise rate of 0.01. A closed-form analysis of multi-agent threat verification shows that half of its accuracy gain is lost once agent errors correlate at about 0.4.</p>
+DO  - 10.21203/rs.3.rs-11376107/v1
+UR  - https://doi.org/10.21203/rs.3.rs-11376107/v1
+AN  - PPR1356238
 KW  - modele:non_classe
 KW  - theme:general
 ER  - 
@@ -36770,6 +37016,35 @@ KW  - Electronic Article Surveillance Systems
 KW  - Electromagnetic Security Gates
 KW  - Radio-frequency Identification Systems
 KW  - Walk-through Metal Detectors
+ER  - 
+
+TY  - JOUR
+AU  - Bodewein L
+AU  - Dechent D
+AU  - Emonds T
+AU  - Graefrath D
+AU  - Keller AS
+AU  - Krabbe J
+AU  - Morgan L
+AU  - Scheelhaase PJ
+AU  - Schmid G
+AU  - Schneeweiss P
+AU  - Driessen S
+TI  - Physiological and health-related effects of 5G-relevant radiofrequency fields: A systematic review of experimental studies in humans and mammals.
+PY  - 2026
+SP  - e0361104
+AB  - The introduction of the latest mobile communications standard of the fifth generation (5G) is accompanied by controversial discussions about potential health risks due to radiofrequency electromagnetic field exposure. Therefore, we conducted a systematic review of experimental and epidemiological studies investigating the physiological and health-related effects of 5G-relevant radiofrequency electromagnetic fields in humans and mammals. The review protocol has been registered in PROSPERO (CRD42022374434) and the review conforms to the PRISMA guidelines. The risk of bias and the quality of included studies were assessed using the recommended approach by the Office of Health Assessment and Translation of the National Toxicology Program. A total of 100 experimental animal and seven human controlled studies were included, analyzed, and evaluated. Narrative summaries were performed for a total of 23 topics (e.g., effects on cognition, male fertility, and thermoregulation). However, investigated species and outcomes in studies were very heterogeneous. Additionally, most studies had substantial methodological weaknesses. Only 11 studies showed a low risk of bias. In summary, for most topics, the current scientific data were inadequate to draw any conclusions about the physiological and health-related effects of radiofrequency electromagnetic fields in the investigated frequency range of 3-30 GHz. However, moderate evidence below the limit values was found for cytokine secretion in mice and low evidence was found for structural changes in the hippocampus of rats above the limit values, when taking the exposure limits presently recommended by the International Commission on Non-Ionizing Radiation Protection as the basis. Therefore, we strongly recommend high-quality systematic research. Particular attention should be paid to reasonable hypotheses, experimental studies on effects on the skin, eyes, and temperature increase, exposures to different frequencies and field strengths, as well as epidemiological studies with separate consideration of 5G (if possible).
+DO  - 10.1371/journal.pone.0361104
+UR  - https://pubmed.ncbi.nlm.nih.gov/42981375/
+AN  - 42981375
+KW  - modele:revue
+KW  - theme:neuro_comportement_cognition
+KW  - modele:in_vivo
+KW  - modele:epidemiologie
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuroinflammation
+KW  - theme:reproduction
+KW  - theme:thermique
 ER  - 
 
 TY  - JOUR

@@ -1,6 +1,6 @@
 # in_vivo
 
-428 articles.
+430 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -76,7 +76,7 @@
 - `2012` [[2012_21996712_effects-of-electromagnetic-radiation-from-3g-mobil]] — Colak C et al.
 - `2004` [[2004_15941010_prevention-of-mobile-phone-induced-skin-tissue-cha]] — Ozguner F et al.
 
-## general (54)
+## general (55)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
 - `2026` [[2026_41786740_design-green-synthesis-and-bioevaluation-of-1-3-th]] — Alrayes AA et al.
@@ -87,6 +87,7 @@
 - `2026` [[2026_42683518_an-energy-difference-indicator-for-improved-quanti]] — Li Y et al.
 - `2026` [[2026_42776981_how-fast-can-pprv-spread-analyzing-the-results-of]] — Nhili M et al.
 - `2026` [[2026_42938235_dynamic-xenon-enhanced-spectral-ct-imaging-to-eval]] — Verelst E et al.
+- `2026` [[2026_42980940_modulatory-effects-of-alpha-lipoic-acid-on-cardiac]] — Colcimen N et al.
 - `2026` [[2026_PPR1215129_the-comparative-study-of-the-effect-of-low-intensi]] — Valerii Z et al.
 - `2026` [[2026_PPR1286608_a-candidate-electromagnetic-channel-for-coordinati]] — Douka K et al.
 - `2026` [[2026_PPR1330333_regional-ventilation-and-perfusion-during-flow-con]] — Bruno E et al.
@@ -357,7 +358,7 @@
 - `2016` [[2016_26775760_does-prolonged-radiofrequency-radiation-emitted-fr]] — Akdag MZ et al.
 - `2015` [[2015_26550159_the-radioprotective-effects-of-moringa-oleifera-ag]] — Bin-Meferij MM, El-Kott AF
 
-## stress_oxydatif (85)
+## stress_oxydatif (86)
 
 - `2026` [[2026_41729317_synergistic-mitigation-of-endotoxin-induced-liver]] — Turan B et al.
 - `2026` [[2026_41934922_the-neuroprotective-role-of-coenzyme-q10-against-e]] — Yilmaz H et al.
@@ -370,6 +371,7 @@
 - `2026` [[2026_42718837_swadamshtradi-rasayana-attenuates-radiofrequency-r]] — Abdul VR et al.
 - `2026` [[2026_42737802_pulsed-electromagnetic-field-exposure-attenuates-u]] — Byun KA et al.
 - `2026` [[2026_42947133_microwave-responsive-thermoelectric-microneedles-f]] — Zhang S et al.
+- `2026` [[2026_42980472_combined-radiofrequency-electromagnetic-and-pulsed]] — Elmas A et al.
 - `2025` [[2025_40005355_radiofrequency-electromagnetic-and-pulsed-magnetic]] — Balci Ç et al.
 - `2025` [[2025_40084245_radiofrequency-electromagnetic-field-nhibits-hif-1]] — Ozden ES et al.
 - `2025` [[2025_40243492_the-impact-of-9-375-ghz-microwave-radiation-on-the]] — Wang X et al.

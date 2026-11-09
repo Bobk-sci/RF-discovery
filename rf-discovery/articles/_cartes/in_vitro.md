@@ -1,13 +1,14 @@
 # in_vitro
 
-162 articles.
+163 articles.
 
-## apoptose_mitochondrie (39)
+## apoptose_mitochondrie (40)
 
 - `2026` [[2026_41562640_neurotoxic-effects-of-3-5-ghz-gsm-like-rf-exposure]] — Bektas H et al.
 - `2026` [[2026_41660276_the-effect-of-4-3-ghz-high-power-microwave-exposur]] — Gao A et al.
 - `2026` [[2026_42277135_microwave-induced-modulation-of-intracellular-dist]] — Kayamori F et al.
 - `2026` [[2026_42882524_radiofrequency-radiation-alters-redox-homeostasis]] — Ahmad S et al.
+- `2026` [[2026_42992795_microwave-assisted-green-synthesis-of-lt-i-gt-cord]] — Çağdaş B et al.
 - `2025` [[2025_39810728_radiofrequency-induced-time-dependent-alterations]] — Tuysuz MZ et al.
 - `2025` [[2025_39911027_protective-effects-and-mechanisms-of-astragaloside]] — Zhang X et al.
 - `2025` [[2025_40831178_activating-transcription-factor-4-regulation-of-ra]] — Wang H et al.

@@ -1,6 +1,6 @@
 # Bibliothèque RF
 
-**1583 articles** rangés le 2026-11-02 (publications 1960–2026).
+**1595 articles** rangés le 2026-11-09 (publications 1960–2026).
 
 Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Portal : titre, résumé et métadonnées sont recopiés tels quels, jamais reformulés ni complétés. Le PMID/DOI de chaque fiche renvoie à la source (données PubMed / Europe PMC, NLM & EMBL-EBI).
 
@@ -8,40 +8,40 @@ Chaque fiche est un article **réel** indexé par Europe PMC, PubMed ou EMF-Port
 
 | Modèle | Thème | Articles |
 | --- | --- | ---: |
-| non_classe | general | 108 |
-| dosimetrie_modelisation | dosimetrie_exposition | 90 |
-| in_vivo | stress_oxydatif | 85 |
+| non_classe | general | 110 |
+| dosimetrie_modelisation | dosimetrie_exposition | 91 |
+| in_vivo | stress_oxydatif | 86 |
 | in_vivo | neuro_comportement_cognition | 78 |
 | epidemiologie | general | 63 |
 | epidemiologie | neurodeveloppement | 55 |
-| in_vivo | general | 54 |
+| in_vivo | general | 55 |
 | in_vivo | neurodeveloppement | 54 |
+| epidemiologie | neuro_comportement_cognition | 52 |
 | ingenierie_materiel | dosimetrie_exposition | 52 |
-| epidemiologie | neuro_comportement_cognition | 51 |
 | dosimetrie_modelisation | general | 43 |
 | revue | general | 42 |
-| in_vitro | apoptose_mitochondrie | 39 |
+| in_vitro | apoptose_mitochondrie | 40 |
 | non_classe | neuro_comportement_cognition | 37 |
 | in_vivo | reproduction | 35 |
 | in_vitro | stress_oxydatif | 32 |
 | epidemiologie | eeg_sommeil | 31 |
-| epidemiologie | cancer | 27 |
+| epidemiologie | cancer | 28 |
 | in_vivo | apoptose_mitochondrie | 27 |
 | non_classe | neurodeveloppement | 26 |
 | revue | reproduction | 26 |
 | in_vivo | thermique | 24 |
 | in_vivo | genotoxicite_epigenetique | 23 |
+| revue | neuro_comportement_cognition | 22 |
 | dosimetrie_modelisation | thermique | 21 |
 | in_vitro | genotoxicite_epigenetique | 21 |
-| revue | neuro_comportement_cognition | 21 |
 | dosimetrie_modelisation | neurodeveloppement | 20 |
 | in_vitro | cancer | 20 |
+| non_classe | cancer | 20 |
 | revue | cancer | 19 |
 | in_vitro | general | 18 |
 | non_classe | thermique | 18 |
 | humain_experimental | eeg_sommeil | 17 |
 | ingenierie_materiel | general | 17 |
-| non_classe | cancer | 17 |
 | revue | neurodeveloppement | 16 |
 | non_classe | stress_oxydatif | 13 |
 | revue | stress_oxydatif | 13 |
