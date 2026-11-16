@@ -1,6 +1,6 @@
 # revue
 
-176 articles.
+178 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -103,9 +103,10 @@
 - `1990` [[1990_2286052_quantitative-thermal-imaging]] — Ring EF
 - `1989` [[1989_2651366_damage-criteria-for-determining-microwave-exposure]] — Servantie B
 
-## genotoxicite_epigenetique (8)
+## genotoxicite_epigenetique (9)
 
 - `2026` [[2026_41478346_is-it-time-to-reconsider-chronic-electromagnetic-f]] — Krishnasamy N et al.
+- `2026` [[2026_43006849_5g-mobile-phone-technology-and-the-risk-of-skin-ca]] — Zupunski L et al.
 - `2025` [[2025_41145349_radiofrequency-radiation-induced-gene-expression]] — Lai H, Levitt BB
 - `2024` [[2024_39410093_a-review-of-electromagnetic-fields-in-cellular-int]] — Guzmán-Armenteros TM et al.
 - `2024` [[2024_39601117_hollaender-award-2023-adventures-in-applied-geneti]] — Elespuru RK
@@ -191,8 +192,9 @@
 - `1995` [[1995_9990158_epidemiologic-evidence-of-radiofrequency-radiation]] — Goldsmith JR
 - `1988` [[1988_2462414_mechanisms-of-biological-effects-of-radiofrequency]] — Erwin DN
 
-## stress_oxydatif (13)
+## stress_oxydatif (14)
 
+- `2026` [[2026_PPR1362618_effects-of-extremely-low-frequency-50-60-hz-electr]] — Kasa RA et al.
 - `2025` [[2025_40970078_a-systematic-review-of-the-impact-of-electromagnet]] — Danho S et al.
 - `2025` [[2025_41111969_review-of-the-evidence-on-the-influence-of-wi-fi-2]] — Laván D et al.
 - `2024` [[2024_38773047_review-on-the-impact-of-cell-phone-radiation-effec]] — Panda DK et al.

@@ -1,6 +1,6 @@
 # epidemiologie
 
-250 articles.
+252 articles.
 
 ## cancer (28)
 
@@ -78,7 +78,7 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (63)
+## general (64)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
@@ -101,6 +101,7 @@
 - `2026` [[2026_42708522_the-effect-of-pulsed-electromagnetic-field-on-pain]] — Arani ZSY et al.
 - `2026` [[2026_42725567_heart-rate-variability-responses-to-26-ghz-millime]] — Michelant L et al.
 - `2026` [[2026_42882415_dual-energy-computed-tomography-versus-conventiona]] — Loo JH et al.
+- `2026` [[2026_43036029_virtual-non-calcium-dual-energy-computed-tomograph]] — Öztepe MF et al.
 - `2026` [[2026_PPR1263729_model-construction-and-validation-of-dual-energy-c]] — Zhu H et al.
 - `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I
@@ -265,8 +266,9 @@
 
 - `2025` [[2025_41300142_the-effect-of-5g-mobile-phone-electromagnetic-expo]] — Torkan A et al.
 
-## reproduction (6)
+## reproduction (7)
 
+- `2026` [[2026_43017762_serum-sex-hormones-and-semen-quality-characteristi]] — Lu Y et al.
 - `2025` [[2025_40009800_effects-of-long-term-low-dose-2-45-ghz-microwave-e]] — Zheng Z et al.
 - `2025` [[2025_40559983_does-electromagnetic-pollution-in-the-art-laborato]] — Baldini GM et al.
 - `2022` [[2022_35436442_effects-of-mobile-phone-use-on-semen-parameters-a]] — Zhang S et al.

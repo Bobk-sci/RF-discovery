@@ -1,6 +1,6 @@
 # non_classe
 
-248 articles.
+253 articles.
 
 ## apoptose_mitochondrie (1)
 
@@ -10,7 +10,7 @@
 
 - `2026` [[2026_42395102_value-of-dual-energy-computed-tomography-with-mate]] — Dong LW et al.
 
-## cancer (20)
+## cancer (21)
 
 - `2026` [[2026_41815122_construction-of-a-postoperative-disease-free-survi]] — Zhao W et al.
 - `2026` [[2026_41863573_increasing-the-production-of-l-asparaginase-from-b]] — Daifallah V, Jaafar AAK
@@ -27,6 +27,7 @@
 - `2026` [[2026_42977926_preoperative-assessment-of-her-2-status-in-breast]] — Yang D et al.
 - `2026` [[2026_42983216_preoperative-prediction-of-lymph-node-metastasis-i]] — Chai HF et al.
 - `2026` [[2026_42996559_dual-energy-computed-tomography-as-an-alternative]] — Ming S et al.
+- `2026` [[2026_43026676_microwave-triggered-no-o-lt-sub-gt-2-lt-sub-gt-dua]] — Guo W et al.
 - `2024` [[2024_39337813_a-breast-tumor-monitoring-vest-with-flexible-uwb-a]] — Dessai R et al.
 - `2022` [[2022_35271102_heterogeneous-skin-phantoms-for-experimental-valid]] — Boparai J, Popović M
 - `2021` [[2021_34541704_mobile-phone-use-and-time-trend-of-brain-cancer-in]] — Choi KH et al.
@@ -55,7 +56,7 @@
 - `2019` [[2019_31557952_about-the-accuracy-and-problems-of-consumer-device]] — Ameen MS et al.
 - `2007` [[2007_17548154_mobile-phone-talk-mode-signal-delays-eeg-determine]] — Hung CS et al.
 
-## general (110)
+## general (111)
 
 - `2026` [[2026_41599522_reversible-joining-technology-for-polyolefins-usin]] — Ciobanu RC et al.
 - `2026` [[2026_41746823_quantitative-dual-energy-ct-in-abdominal-imaging-t]] — García-Figueiras R et al.
@@ -104,6 +105,7 @@
 - `2026` [[2026_42930628_site-specific-material-decomposition-versus-univer]] — Piscone S et al.
 - `2026` [[2026_42967258_node-rads-outperforms-dual-energy-ct-derived-quant]] — Yao DX et al.
 - `2026` [[2026_42969276_photoelectric-dominant-imaging-in-dual-energy-ct-c]] — Romman M et al.
+- `2026` [[2026_43021811_optimized-dual-energy-ct-protocol-for-inferior-ven]] — Deng J et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
@@ -173,7 +175,7 @@
 - `2018` [[2018_30607077_effect-of-conventional-and-microwave-tissue-proces]] — Dwivedi D et al.
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 
-## neuro_comportement_cognition (37)
+## neuro_comportement_cognition (39)
 
 - `2026` [[2026_41602187_design-and-synthesis-of-novel-sulfa-azo-dyes-a-sus]] — Sherif S et al.
 - `2026` [[2026_41917285_microwave-scattering-signatures-for-distinguishing]] — Moradi A, Bait-Suwailam MM
@@ -187,8 +189,10 @@
 - `2026` [[2026_42761882_microwave-induced-efficient-degradation-of-tetracy]] — Liu M et al.
 - `2026` [[2026_42797892_cow-behavior-recognition-method-based-on-multi-sou]] — Zhao X et al.
 - `2026` [[2026_42874510_enhanced-two-stage-cascaded-network-for-high-preci]] — Zhu H et al.
+- `2026` [[2026_43005650_insight-into-the-adsorption-mechanisms-of-cr-vi-fr]] — Huynh TN et al.
 - `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
 - `2026` [[2026_PPR1352114_machine-learning-prediction-of-rice-seedling-growt]] — Islam MR et al.
+- `2026` [[2026_PPR1361504_physics-guided-machine-learning-for-abdominal-tiss]] — Satriya AB et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
 - `2024` [[2024_38767941_notification-you-may-have-cancer-could-smartphones]] — Scott SE, Thompson MJ
@@ -249,11 +253,12 @@
 - `2022` [[2022_35360230_long-term-wi-fi-exposure-from-pre-pubertal-to-adul]] — Jaffar FHF et al.
 - `2016` [[2016_28144597_the-fundamental-reasons-why-laptop-computers-shoul]] — Mortazavi SA et al.
 
-## stress_oxydatif (13)
+## stress_oxydatif (14)
 
 - `2026` [[2026_41747184_effects-of-industrial-scientific-and-medical-ism-b]] — Tomar AK et al.
 - `2026` [[2026_42490055_alginate-and-chitosan-based-hydrogels-effects-on-t]] — Tsirigotis-Maniecka M et al.
 - `2026` [[2026_42726645_combined-photobiomodulation-and-pulsed-electromagn]] — Thongyoo K et al.
+- `2026` [[2026_43013599_electromagnetic-field-induced-oxidative-stress-inf]] — Arslan A et al.
 - `2024` [[2024_38762651_analysis-of-the-metabolic-profile-of-humans-natura]] — Rangesh NM et al.
 - `2024` [[2024_38786928_oxidative-stress-response-of-honey-bee-colonies-i]] — Vilić M et al.
 - `2024` [[2024_38820877_evaluation-of-oxidative-stress-and-genetic-instabi]] — Gulati S et al.

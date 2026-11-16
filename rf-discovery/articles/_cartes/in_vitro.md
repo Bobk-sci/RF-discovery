@@ -1,6 +1,6 @@
 # in_vitro
 
-163 articles.
+164 articles.
 
 ## apoptose_mitochondrie (40)
 
@@ -132,8 +132,9 @@
 - `2025` [[2025_40651735_novel-pathogenic-variants-in-ctla4-and-lrba-immune]] — Tromp SAM et al.
 - `2020` [[2020_33375304_effects-of-electromagnetic-waves-with-lte-and-5g-b]] — Kim K et al.
 
-## neurodeveloppement (2)
+## neurodeveloppement (3)
 
+- `2026` [[2026_PPR1366671_impact-of-in-vitro-exposure-to-5g-modulated-3-5-gh]] — Moussay M et al.
 - `2020` [[2020_32199316_a-meta-analysis-of-in-vitro-exposures-to-weak-radi]] — Halgamuge MN et al.
 - `2016` [[2016_26171674_effect-of-mobile-phone-radiation-on-cardiovascular]] — Ye W et al.
 

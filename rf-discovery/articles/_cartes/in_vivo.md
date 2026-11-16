@@ -1,6 +1,6 @@
 # in_vivo
 
-430 articles.
+432 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -67,16 +67,17 @@
 - `2009` [[2009_19603498_abnormality-of-synaptic-vesicular-associated-prote]] — Wang L et al.
 - `1977` [[1977_557906_detergent-toxicity-survey]] — Seabaugh VM et al.
 
-## eeg_sommeil (6)
+## eeg_sommeil (7)
 
 - `2026` [[2026_42621506_environmental-enrichment-reduces-displacements-and]] — Thomas M et al.
+- `2026` [[2026_43012736_effects-of-900-mhz-electromagnetic-field-exposure]] — Kaplan AA et al.
 - `2025` [[2025_39912376_impact-of-microwave-exposure-on-cynomolgus-monkeys]] — Ma L et al.
 - `2021` [[2021_33440456_effects-of-2600-mhz-radiofrequency-radiation-in-br]] — Delen K et al.
 - `2014` [[2014_24905635_does-exposure-to-a-radiofrequency-electromagnetic]] — Pelletier A et al.
 - `2012` [[2012_21996712_effects-of-electromagnetic-radiation-from-3g-mobil]] — Colak C et al.
 - `2004` [[2004_15941010_prevention-of-mobile-phone-induced-skin-tissue-cha]] — Ozguner F et al.
 
-## general (55)
+## general (56)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
 - `2026` [[2026_41786740_design-green-synthesis-and-bioevaluation-of-1-3-th]] — Alrayes AA et al.
@@ -88,6 +89,7 @@
 - `2026` [[2026_42776981_how-fast-can-pprv-spread-analyzing-the-results-of]] — Nhili M et al.
 - `2026` [[2026_42938235_dynamic-xenon-enhanced-spectral-ct-imaging-to-eval]] — Verelst E et al.
 - `2026` [[2026_42980940_modulatory-effects-of-alpha-lipoic-acid-on-cardiac]] — Colcimen N et al.
+- `2026` [[2026_43033406_a-novel-image-domain-denoising-method-for-triple-m]] — Wu J et al.
 - `2026` [[2026_PPR1215129_the-comparative-study-of-the-effect-of-low-intensi]] — Valerii Z et al.
 - `2026` [[2026_PPR1286608_a-candidate-electromagnetic-channel-for-coordinati]] — Douka K et al.
 - `2026` [[2026_PPR1330333_regional-ventilation-and-perfusion-during-flow-con]] — Bruno E et al.

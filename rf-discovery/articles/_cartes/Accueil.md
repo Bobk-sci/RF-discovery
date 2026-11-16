@@ -1,17 +1,17 @@
 # Bibliothèque RF
 
-1595 articles, carte mise à jour le 2026-11-09.
+1609 articles, carte mise à jour le 2026-11-16.
 
 ## Par modèle d'étude
 
-- [[dosimetrie_modelisation]] (209)
-- [[epidemiologie]] (250)
+- [[dosimetrie_modelisation]] (211)
+- [[epidemiologie]] (252)
 - [[humain_experimental]] (42)
-- [[in_vitro]] (163)
-- [[in_vivo]] (430)
+- [[in_vitro]] (164)
+- [[in_vivo]] (432)
 - [[ingenierie_materiel]] (77)
-- [[non_classe]] (248)
-- [[revue]] (176)
+- [[non_classe]] (253)
+- [[revue]] (178)
 
 ## Étiquettes
 

@@ -1,6 +1,6 @@
 # dosimetrie_modelisation
 
-209 articles.
+211 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -12,16 +12,17 @@
 
 - `1998` [[1998_9441959_headaches-from-cellular-telephones-are-they-real-a]] — Frey AH
 
-## cancer (6)
+## cancer (7)
 
 - `2026` [[2026_42382435_the-role-of-low-energy-virtual-monoenergetic-image]] — Miller JR et al.
 - `2026` [[2026_42527916_conflicting-views-in-experimental-carcinogenesis-a]] — Melnick RL et al.
 - `2026` [[2026_PPR1291611_compact-cross-dipole-metamaterial-inspired-thz-ant]] — G SM
 - `2026` [[2026_PPR1311291_total-hip-arthroplasty-on-tumor-treating-fields-de]] — Liang O et al.
+- `2026` [[2026_PPR1362766_performance-comparison-of-ultra-wideband-and-narro]] — Moussa MN et al.
 - `2023` [[2023_36706903_incongruities-in-recently-revised-radiofrequency-e]] — Lin JC
 - `2020` [[2020_31902750_millimeter-wave-substrate-integrated-waveguide-pro]] — Mansutti G et al.
 
-## dosimetrie_exposition (91)
+## dosimetrie_exposition (92)
 
 - `2026` [[2026_41615988_numerical-analysis-of-low-frequency-electromagneti]] — Tian R et al.
 - `2026` [[2026_41645932_effects-of-exposure-to-nearby-mobile-phone-base-st]] — Laldinpuii et al.
@@ -39,6 +40,7 @@
 - `2026` [[2026_42748860_an-integrated-experimental-computational-electroma]] — Horvat ID et al.
 - `2026` [[2026_42756263_compact-metasurface-track-side-pis-antenna-based-o]] — Luo MF et al.
 - `2026` [[2026_42975315_emc-evaluation-in-radiation-emitting-medical-devic]] — Censi F et al.
+- `2026` [[2026_43034823_swedish-public-railway-transportation-environments]] — Hardell L, Nilsson M
 - `2025` [[2025_39746061_numerical-dosimetry-of-specific-absorption-rate-of]] — Jeladze V et al.
 - `2025` [[2025_39804717_measurement-of-ambient-millimeter-wave-exposure-le]] — Bushberg JT, Butcher MJ
 - `2025` [[2025_39909091_auto-induced-uplink-4g-and-5g-rf-emf-exposure-asse]] — Stroobandt B et al.

@@ -203,6 +203,22 @@ KW  - theme:dosimetrie_exposition
 ER  - 
 
 TY  - JOUR
+AU  - Moussa MN
+AU  - El Abbassi M
+AU  - Madi MA
+AU  - Kabalan KY
+TI  - Performance Comparison of Ultra-Wideband and Narrowband Circular Patch Antennas for Microwave Breast Tumor Detection
+PY  - 2026
+AB  - Microwave breast tumor detection relies on the dielectric contrast between healthy and malignant tissue, and the antenna bandwidth affects the cost, complexity and sensitivity of the system. This paper compares an ultra-wideband (UWB) and a narrowband (NB) circular patch antenna that share the same FR4 substrate, 30 × 30 mm2 footprint and radiator but differ in their ground plane and feed. Both antennas were fabricated and measured; the simulated UWB antenna covers 3.56–14.73 GHz, and the NB antenna resonates at 7.79 GHz in its TM21 mode; a finite-difference time-domain (FDTD) model with the measured patch dimensions explains the measured NB resonance shift. Sensing is evaluated with finite-element and FDTD solvers, with each antenna 10 mm from a homogeneous healthy or malignant phantom. Both solvers predict the same 140 MHz tumor-induced resonance shift for the NB antenna and a similar peak reflection-coefficient contrast for the two antennas (19.2 and 21.9 dB in the finite-element model; 7.1 and 9.7 dB in the FDTD model), while the UWB antenna is sensitive over a three to seven times wider spectrum and directs 5.5–6 dB more gain toward the phantom. The NB antenna therefore suits low-cost single-frequency detection, whereas the UWB antenna suits imaging systems that exploit frequency diversity.
+DO  - 10.20944/preprints202611.0828.v1
+UR  - https://doi.org/10.20944/preprints202611.0828.v1
+AN  - PPR1362766
+KW  - modele:dosimetrie_modelisation
+KW  - theme:cancer
+KW  - modele:ingenierie_materiel
+ER  - 
+
+TY  - JOUR
 AU  - Wang SG
 TI  - [5-HT contents change in peripheral blood of workers exposed to microwave and high frequency radiation].
 JO  - Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]
@@ -2169,6 +2185,29 @@ KW  - Medical devices
 KW  - Electromagnetic Field Exposure
 KW  - Medical Device Regulation
 KW  - Electromagnetic Compatibility
+ER  - 
+
+TY  - JOUR
+AU  - Hardell L
+AU  - Nilsson M
+TI  - Swedish Public Railway Transportation Environments May Be Associated With High Exposure to Radiofrequency Electromagnetic Field (RF-EMF) Radiation.
+PY  - 2026
+SP  - e117957
+AB  - Background The increasing use of wireless communication technologies has substantially changed the radiofrequency electromagnetic field (RF-EMF) environment. Public transportation systems represent complex RF-EMF exposure environments, but there is limited information regarding maximum environmental RF-EMF levels during routine travel across different transportation settings. Objectives This study aimed to characterize maximum environmental RF-EMF power density in Swedish transportation environments, including the Arlanda Express, Stockholm Central Railway Station, the Stockholm subway system, and intercity railway travel between Stockholm and Örebro. Methods Broadband RF-EMF measurements were performed using a Safe and Sound Pro II exposimeter for at least 2 minutes at each measured point.  Results RF-EMF exposure showed substantial spatial and temporal variability across all investigated environments. The highest maximum power densities were consistently recorded at Stockholm Central Railway Station, where repeated measurements at ground level exceeded the instrument's upper measurement limit (>2,500,000 µW/m²). Subway measurements showed considerable variability, with localized maximum values exceeding 200,000 µW/m². Lower levels were generally observed during railway travel between stations, although high RF-EMF power density occurred on some railway sections. Exposure levels during travel varied according to location, network conditions, and transportation environment. Conclusions Public transportation environments, particularly major railway stations, can represent locations with high maximum power density levels. The measured levels were below current exposure limits recommended by the Federal Communications Commission (FCC) and International Commission on Non-Ionizing Radiation Protection (ICNIRP), which are based on protection against established thermal effects and do not incorporate non-thermal biological effects. However, the measured levels substantially exceeded the precautionary exposure levels recommended in the EUROPAEM EMF guideline 2016 for Wi-Fi exposure during daytime of 10 µW/m<sup>2</sup>, for nighttime 1 µW/m<sup>2</sup>, and for sensitive persons 0.1 µW/m<sup>2</sup> to protect against non-thermal effects. Future studies combining broadband measurements, frequency-selective analyses, and personal dosimetry are needed to better characterize individual exposure during modern daily travel.
+DO  - 10.7759/cureus.117957
+UR  - https://pubmed.ncbi.nlm.nih.gov/43034823/
+AN  - 43034823
+KW  - modele:dosimetrie_modelisation
+KW  - theme:dosimetrie_exposition
+KW  - theme:thermique
+KW  - Sweden
+KW  - Personal Exposure
+KW  - Subway
+KW  - Environmental Exposure Assessment
+KW  - Public Transportation
+KW  - Radiofrequency Electromagnetic Fields
+KW  - Rf-emf Exposure
+KW  - Railway Station
 ER  - 
 
 TY  - JOUR
@@ -7858,6 +7897,23 @@ KW  - Opposed-Phase Imaging
 ER  - 
 
 TY  - JOUR
+AU  - Öztepe MF
+AU  - Acar TB
+AU  - Kızılgöz V
+AU  - Terzi M
+AU  - Kucukatalay O
+AU  - Kantarci M
+TI  - Virtual non-calcium dual-energy computed tomography for postoperative lumbar spine evaluation following pedicle screw instrumentation.
+PY  - 2026
+AB  - To compare standard grayscale CT, 140-keV virtual monoenergetic imaging, and virtual non-calcium (VNCa) for detection of magnetic resonance imaging (MRI)-defined relevant foraminal stenosis, disc protrusion or extrusion, and relevant nerve root compression. This retrospective study included patients who underwent dual-energy computed tomography (DECT) on a 128-slice single-tube system and MRI within 1 week between August and December 2025; CT reconstructions were read in consensus. Foraminal stenosis and nerve root compression grades 2-3 were considered imaging-defined relevant findings. Only segments with an MRI confidence score of 5 were included. Diagnostic performance and CT confidence scores were summarized descriptively. Twenty-three patients (mean age, 60 ± 12 years; 15 women) contributed 185 evaluated segments. MRI showed relevant foraminal stenosis in 26 segments and disc protrusion or extrusion and relevant nerve root compression in 18 segments each. Foraminal-stenosis sensitivity was 100.0% (26/26) for VNCa and 92.3% (24/26) for both comparators; specificity was 88.7%, 71.1%, and 72.3% for VNCa, standard CT, and 140-keV CT, respectively. Disc protrusion or extrusion sensitivity was 77.8% (14/18) for VNCa and 11.1% (2/18) for both comparators. Standard CT and VNCa each had 83.3% sensitivity and 97.0% specificity for nerve root compression. In this small, selected cohort, VNCa had higher observed specificity for MRI-defined foraminal stenosis and higher observed sensitivity for disc protrusion or extrusion. These exploratory findings require confirmation in larger studies that account for patient-level clustering and include more artifact-limited examinations. VNCa reconstruction from an existing DECT examination may complement grayscale CT for evaluating MRI-defined foraminal stenosis and disc protrusion or extrusion following lumbar pedicle screw instrumentation without requiring additional scanning.
+DO  - 10.4274/dir.2026.264368
+UR  - https://pubmed.ncbi.nlm.nih.gov/43036029/
+AN  - 43036029
+KW  - modele:epidemiologie
+KW  - theme:general
+ER  - 
+
+TY  - JOUR
 AU  - Zhu H
 AU  - Ming S
 AU  - Cheng P
@@ -10982,6 +11038,28 @@ KW  - Oxidative stress
 KW  - Electromagnetic fields
 KW  - Mobile Phones
 KW  - Wi-fi
+ER  - 
+
+TY  - JOUR
+AU  - Lu Y
+AU  - Chang X
+AU  - Si S
+AU  - Gao F
+AU  - Zhang H
+AU  - Cheng Q
+AU  - Chen W
+AU  - Li H
+AU  - Ma X
+AU  - Zhu J
+TI  - [Serum sex hormones and semen quality characteristics in populations exposed to microwave radiation: A cross-sectional study].
+PY  - 2026
+SP  - 896-902
+AB  - Objective To evaluate the association between occupational exposure to microwave radiation and the characteristics of male serum sex hormones and semen quality. Methods A cross-sectional study of male reproductive function was conducted from June 2024 to April 2025 at workplaces involving potential microwave radiation exposure, including space tracking, telemetry, and command stations and high-power microwave testing facilities. Participants were classified into control and exposed groups according to whether their job involved microwave radiation exposure. All participants underwent measurements of five serum sex hormones and routine semen analysis. Results Among 137 participants, 109 were from inland regions (55 controls and 54 exposed) and 28 were from coastal regions (all exposed). In the primary analysis of the inland population, PRL was higher in the exposed group than in controls (6.44 ［5.16，10.31］ vs 5.53 ［3.88，6.89］ ng/mL; unadjusted P=0.004; Holm-adjusted P=0.019), with consistent results in the log-transformed model (geometric mean ratio=1.334，95%CI 1.106－1.610; P=0.003). No significant between-group differences were found in E2, FSH, LH, T, or any semen parameter. Exposure duration was not correlated with testosterone among inland exposed participants (Spearman's ρ=0.097, P=0.483). Full-sample sensitivity analyses yielded consistent results. Exploratory regional analyses showed higher progressive motility, total motility, and sperm concentration in coastal than in inland participants.Conclusion Occupational microwave radiation exposure is associated with higher PRL levels, although the clinical significance still needs to be interpreted with caution. The current data do not show a clear association between exposure and other sex hormones or abnormal semen quality. Exploratory comparisons among regions suggest that the semen quality in coastal areas is higher than that in inland areas.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43017762/
+AN  - 43017762
+KW  - modele:epidemiologie
+KW  - theme:reproduction
+KW  - Microwave Radiation; Occupational Exposure; Male Reproductive Health; Serum Sex Hormones; Semen Quality
 ER  - 
 
 TY  - JOUR
@@ -14925,6 +15003,34 @@ KW  - Specific absorption rate (SAR)
 ER  - 
 
 TY  - JOUR
+AU  - Moussay M
+AU  - Arnaud-Cormos D
+AU  - Pragatheeswaran NS
+AU  - Albert A
+AU  - Dufour A
+AU  - Gibert A
+AU  - Lebon S
+AU  - Matrot B
+AU  - Gressens P
+AU  - Passemard S
+AU  - Steenwinckel J
+AU  - Lévêque P
+AU  - Ghouzzi VE
+TI  - Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on human forebrain organoids
+PY  - 2026
+AB  - <title>Abstract</title>  <p>The development of 5G mobile technology exposes populations to electromagnetic fields at 3.5 GHz, raising concerns about their effects on human brain development. Most studies on the cerebral effects of radiofrequencies have used rodents, despite major differences between human and rodent corticogenesis, including progenitor subtypes and maturation timing. Here, 40-day-old human forebrain organoids, with actively proliferating apical and basal neural progenitors, were exposed to 5G-modulated 3.5 GHz radiofrequencies at an average specific absorption rate (SAR) of 1.5 W/kg. Effects on neural and glial development were assessed at 7 and 13 weeks using immunocytochemistry and RNA sequencing. Exposed and control organoids showed comparable size and morphology. Progenitor subtype identity and number, proliferation, and apoptotic death rates were similar at both stages. No significant differences were observed in the proportions of cortical neurons, oligodendrocytes, or astrocytes. Transcriptomic analysis confirmed neuronal maturation from 7 to 13 weeks but revealed no significant change in gene expression following exposure. These findings suggest that, under the in vitro conditions tested, 5G-modulated 3.5 GHz radiofrequencies have no major effect on human forebrain organoid development.</p>
+DO  - 10.21203/rs.3.rs-11360170/v1
+UR  - https://doi.org/10.21203/rs.3.rs-11360170/v1
+AN  - PPR1366671
+KW  - modele:in_vitro
+KW  - theme:neurodeveloppement
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuroinflammation
+KW  - theme:genotoxicite_epigenetique
+KW  - theme:dosimetrie_exposition
+ER  - 
+
+TY  - JOUR
 AU  - Szilágyi Z
 AU  - Németh Z
 AU  - Bakos J
@@ -17813,6 +17919,29 @@ KW  - Dairy Calf Behaviour
 ER  - 
 
 TY  - JOUR
+AU  - Kaplan AA
+AU  - Uzun KN
+AU  - Altun G
+AU  - Aktaş A
+AU  - Kaplan S
+TI  - Effects of 900 MHz electromagnetic field exposure on the optic nerve of pregnant rats: Evaluation of melatonin and omega-3.
+PY  - 2026
+SP  - 1-13
+AB  - This study investigated the effects of 900 MHz electromagnetic field (EMF) exposure on the maternal optic nerve and evaluated the potential modulatory effects of melatonin and omega-3. Pregnant Wistar albino rats were divided into Control, Sham, EMF, EMF+melatonin (EMF+Mel), and EMF+omega-3 (EMF+ω3) groups. The EMF, EMF+Mel, and EMF+ω3 groups were exposed to 900 MHz EMF for 2 h/day throughout the 21-day gestational period. Optic nerves were examined using stereological and transmission electron microscopic methods. The number of myelinated nerve fibers was significantly higher in the EMF group compared to the Sham group, whereas axon diameter, myelin sheath thickness, and g-ratio did not differ significantly among groups. Ultrastructural examination of the EMF group revealed a common axoplasmic vacuolization, separation of myelin lamellae, and degeneration of axons and nerve fiber bundles. Most myelinated fibers in the EMF+Mel group exhibited relatively preserved ultrastructure, although some alterations remained. In contrast, balloon-like vacuolization of the myelin sheath and axoplasm persisted in the EMF+ω3 group. These findings indicate that gestational 900 MHz EMF exposure induces measurable quantitative and ultrastructural alterations in the maternal optic nerve, while melatonin, but not omega-3, appears to provide partial preservation of nerve fiber ultrastructure.
+DO  - 10.1080/15368378.2026.2758212
+UR  - https://pubmed.ncbi.nlm.nih.gov/43012736/
+AN  - 43012736
+KW  - modele:in_vivo
+KW  - theme:eeg_sommeil
+KW  - theme:stress_oxydatif
+KW  - Environmental pollution
+KW  - Electron microscopy
+KW  - Oxidative stress
+KW  - Radiofrequency
+KW  - stereology
+ER  - 
+
+TY  - JOUR
 AU  - Belokrinitskiĭ VS
 AU  - Tomashevskaia LA
 AU  - Konobeeva GI
@@ -19006,6 +19135,25 @@ KW  - S100A4 protein
 KW  - Alpha-lipoic Acid
 KW  - Cardiac Inflammation
 KW  - 2.45 Ghz Electromagnetic Radiation
+ER  - 
+
+TY  - JOUR
+AU  - Wu J
+AU  - Yuan X
+AU  - Yang Y
+TI  - A novel image-domain denoising method for triple-material decomposition in dual-energy CT.
+PY  - 2026
+SP  - e70723
+AB  - <h4>Background</h4>Triple-material decomposition (TMD) holds significant clinical value in dual-energy computed tomography (DECT), as it enables simultaneous differentiation of bone, soft tissue, and contrast agents-three key components commonly targeted in clinical imaging assessments. However, the inherent noise amplification artifact associated with material decomposition remains a critical technical bottleneck that restricts its widespread clinical translation.<h4>Purpose</h4>To address this limitation, this study proposes an image-domain denoising strategy to mitigate noise amplification, thereby improving the quantitative accuracy and qualitative quality of TMD in DECT.<h4>Method</h4>First, DECT images were transformed into amplitude and argument components via vectorization. Second, a spectral joint bilateral filtering algorithm was developed to specifically denoise the argument images, leveraging inter-spectral correlation to preserve structural details while suppressing noise. Subsequently, denoised DECT images were reconstructed using the original amplitude and denoised argument components. TMD was performed with soft tissue, bone, and contrast agent as basis materials, utilizing two decomposition approaches: direct matrix inversion (DMI) and the penalized weighted least squares-expectation maximization-loop (PWLS-EP-LOOP) iterative method. The proposed denoising strategy was validated on a benchtop micro-CT system, with evaluations conducted on both a customized anthropomorphic phantom and an in vivo mouse model injected with ExiTron nano 6000 contrast agent.<h4>Results</h4>For DMI-based decomposition, the proposed method achieved noise reduction rates (NRRs) of 68.9% in soft tissue images, 74.4% in contrast-enhanced images, and 78.7% in bone images. For PWLS-EP-LOOP-based iterative decomposition, the corresponding NRRs were 22.4% (soft tissue), 48.6% (contrast agent), and 37.5% (bone). Furthermore, the number of iteration cycles required for convergence in the PWLS-EP-LOOP algorithm was reduced by 75.4%, substantially improving computational efficiency.<h4>Conclusion</h4>Experimental results demonstrate that the proposed image-domain denoising method, tailored for DECT TMD, effectively suppresses noise in both DMI and iterative workflows while preserving structural fidelity. This work thus provides a promising solution to enhance the clinical utility of DECT material decomposition.
+DO  - 10.1002/mp.70723
+UR  - https://pubmed.ncbi.nlm.nih.gov/43033406/
+AN  - 43033406
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - modele:dosimetrie_modelisation
+KW  - Denoising
+KW  - Dual‐Energy Ct
+KW  - Triple‐material Decomposition
 ER  - 
 
 TY  - JOUR
@@ -29420,6 +29568,37 @@ KW  - theme:cancer
 ER  - 
 
 TY  - JOUR
+AU  - Guo W
+AU  - Chen Z
+AU  - Wu Q
+AU  - Hang L
+AU  - Fang L
+AU  - Fu C
+AU  - Ren X
+AU  - Li W
+AU  - Diao Y
+AU  - Tan L
+AU  - Gong M
+AU  - Meng X
+AU  - Jiang G
+TI  - Microwave Triggered NO/O&lt;sub&gt;2&lt;/sub&gt; Dual Gas Release Nano Synergistic System for Overcoming Tumor Thermotherapy Resistance and Activating Immunotherapy.
+PY  - 2026
+SP  - e76695
+AB  - Microwave thermotherapy, as an effective physical therapy for solid tumors, often leads to treatment resistance due to limitations such as hypoxia and abnormal blood vessels, resulting in tumor residue, metastasis, and recurrence. This study constructed a microwave-responsive multifunctional nanocomposite (CCGM NCs). Using cobalt-gallium (Co-Ga) nanosheets as carriers, NO donor S-nitrosocysteine is loaded, and temperature-controlled material L-menthol is coated to form a synergistic delivery system with thermal switch characteristics. Under microwave radiation, the material simultaneously achieves three functions: acting as a microwave sensitizer to generate local thermotherapy. Catalytic generation of O<sub>2</sub> from hydrogen peroxide decomposition within the tumor and release of NO through microwave irradiation. The synergistic effect of O<sub>2</sub> and NO inside the tumor not only alleviates hypoxia and improves vascular function, but also generates peroxynitrite anions, which work together with thermotherapy and reactive nitrogen species to enhance tumor killing. This system can effectively induce immunogenic cell death and initiate systemic anti-tumor immune responses. Through the validation of bilateral tumor models and lung metastasis models, this strategy can efficiently ablate in situ tumors while stimulating significant distal tumor suppression and immune memory effects, effectively inhibiting tumor metastasis and recurrence.
+DO  - 10.1002/smll.76695
+UR  - https://pubmed.ncbi.nlm.nih.gov/43026676/
+AN  - 43026676
+KW  - modele:non_classe
+KW  - theme:cancer
+KW  - theme:apoptose_mitochondrie
+KW  - theme:neuro_comportement_cognition
+KW  - Treatment Resistance
+KW  - Immunogenic Cell Death
+KW  - Microwave Thermotherapy
+KW  - Dual Gas
+ER  - 
+
+TY  - JOUR
 AU  - Vermeeren G
 AU  - Verloock L
 AU  - Aerts S
@@ -32067,6 +32246,41 @@ KW  - Iodine Map
 ER  - 
 
 TY  - JOUR
+AU  - Deng J
+AU  - Fan X
+AU  - Zhang Q
+AU  - Yan J
+AU  - Li Y
+AU  - Yan G
+AU  - Zhao L
+AU  - Shen X
+AU  - Peng Q
+AU  - Ma T
+AU  - Wu S
+AU  - Wang X
+AU  - He X
+AU  - McClure MA
+AU  - Bhetuwal A
+TI  - Optimized dual-energy CT protocol for inferior vena cava CT angiography using 60 keV virtual monoenergetic imaging and 60% ASIR-V.
+PY  - 2026
+SP  - 1969018
+AB  - <h4>Objective</h4>To investigate the effects of a dual-energy CT (DECT) protocol combining virtual monoenergetic imaging (VMI) with adaptive statistical iterative reconstruction-V (ASIR-V) on image quality and radiation dose for inferior vena cava (IVC) CT angiography (CTA), and to compare the optimized protocol with a conventional 120 kVp protocol.<h4>Methods</h4>120 consecutive patients undergoing IVC-CTA were enrolled and allocated sequentially to two groups (<i>n</i> = 60 each). Group A underwent conventional 120 kVp scanning with 400 mgI/mL contrast medium at 1.5 mL/kg and 50% ASIR-V reconstruction. Group B underwent DECT (rapid 80/140 kVp switching) with 320 mgI/mL contrast medium at 1.2 mL/kg. In Group B, seven VMI datasets from 40 to 70 keV in 5 keV increments were first reconstructed with 50% ASIR-V. At 60 keV, images were reconstructed with filtered back projection (FBP; 0% ASIR-V) and ASIR-V levels from 20% to 100% in 20% increments. Objective image quality was assessed using CT attenuation, standard deviation (SD), background noise, signal-to-noise ratio (SNR), and contrast-to-noise ratio (CNR) at five venous levels. Two radiologists independently rated subjective image quality and diagnostic confidence on 5-point Likert scales. Dose-length product (DLP), effective dose (ED), contrast medium volume, and iodine intake were also recorded and compared between protocols.<h4>Results</h4>In Group B, with ASIR-V fixed at 50%, CT attenuation, SD, background noise, SNR, and CNR decreased progressively as VMI energy increased. Among the seven VMI levels, 60 keV achieved the highest subjective image-quality score (all <i>P</i> < 0.05). At 60 keV, increasing ASIR-V reduced vascular SD and background noise and increased SNR and CNR. The 60 keV VMI plus 60% ASIR-V combination (Group B1) achieved the highest subjective score. Compared with Group A, Group B1 had significantly higher IVC CT attenuation and background noise (both <i>P</i> < 0.001), but SNR, CNR, and subjective image-quality scores did not differ significantly (all <i>P</i> > 0.05). Diagnostic-confidence scores for thrombosis, luminal stenosis, post-filter placement, and normal IVC findings were similar between Groups A and B1 (all <i>P</i> > 0.05). Relative to Group A, Group B1 reduced contrast medium volume, iodine intake, and ED by approximately 20.0%, 36.0%, and 12.51%, respectively (all <i>P</i> < 0.001).<h4>Conclusion</h4>The DECT protocol combining 60 keV VMI with 60% ASIR-V provided a favorable balance of image quality for IVC-CTA. The optimized protocol achieved SNR, CNR, subjective image quality, and diagnostic confidence similar to those of the conventional 120 kVp protocol while reducing contrast medium volume, iodine intake, and effective radiation dose.
+DO  - 10.3389/fcvm.2026.1969018
+UR  - https://pubmed.ncbi.nlm.nih.gov/43021811/
+AN  - 43021811
+KW  - modele:non_classe
+KW  - theme:general
+KW  - radiation dose
+KW  - computed tomography
+KW  - inferior vena cava
+KW  - Ct Angiography
+KW  - Dual-energy Ct
+KW  - Iodinated Contrast Medium
+KW  - Virtual Monoenergetic Imaging
+KW  - Adaptive Statistical Iterative Reconstruction-v
+ER  - 
+
+TY  - JOUR
 AU  - Nascimento DM
 AU  - Santos PL
 AU  - Ribeiro-Junior MR
@@ -33053,6 +33267,23 @@ KW  - Cascaded Networks
 ER  - 
 
 TY  - JOUR
+AU  - Huynh TN
+AU  - Tu Le NQ
+AU  - Duc TA
+AU  - Lam VT
+AU  - Dinh VP
+TI  - Insight into the adsorption mechanisms of Cr(vi) from aqueous solution using biochar prepared &lt;i&gt;via&lt;/i&gt; conventional pyrolysis and microwave-assisted pyrolysis.
+PY  - 2026
+AB  - The management of hexavalent chromium (Cr(vi)) in aqueous environments remains a critical challenge in environmental engineering due to its high toxicity, mobility, and industrial prevalence. This study investigates the synthesis and performance of a structurally robust, highly porous rice husk-derived biochar prepared <i>via</i> a novel integrated approach of microwave-assisted pyrolysis followed by hydrothermal functionalization (RHB-MW), comparatively evaluating it against biochar prepared <i>via</i> conventional thermal carbonization coupled with the same hydrothermal post-treatment (RHB-Calc). Optimal preparation conditions utilizing internal volumetric microwave heating (800 W, 10 minutes), prior to hydrothermal conditioning, successfully preserved the cellular architecture of the biomass, yielding an advanced biochar with a superior specific surface area of 296.56 m<sup>2</sup> g<sup>-1</sup> and a mesoporous architecture (average pore size of 5.41 nm). The Langmuir maximum adsorption was 39.52 and 33.38 mg g<sup>-1</sup> for RHB-MW and RHB-Calc, respectively. The macroscopic adsorption process for both materials closely aligned with the Krishnamurti isotherm, suggesting complex, cooperative sorption behavior. Kinetic modeling indicated that RHB-MW behavior is consistent with pseudo-second-order chemisorption pathways, while RHB-Calc displayed kinetic limitations typical of an energetically heterogeneous surface described by the Elovich model. Cyclic regeneration trials utilizing 0.5 M NaOH demonstrated highly effective desorption <i>via</i> alkaline deprotonation and electrostatic repulsion; RHB-MW retained an adsorption capacity of 26.32 mg g<sup>-1</sup> by the third cycle, whereas RHB-Calc capacity fell sharply to 15.98 mg g<sup>-1</sup>. These findings highlight that integrating microwave-assisted pyrolysis with hydrothermal treatment is a highly effective, physically transformative upcycling strategy for converting abundant agricultural residues into high-performance, structurally resilient mesoporous matrices for complex heavy metal remediation.
+DO  - 10.1039/d6ra09765k
+UR  - https://pubmed.ncbi.nlm.nih.gov/43005650/
+AN  - 43005650
+KW  - modele:non_classe
+KW  - theme:neuro_comportement_cognition
+KW  - theme:thermique
+ER  - 
+
+TY  - JOUR
 AU  - Polo-Rodríguez A
 AU  - Escalera-Esteban A
 AU  - Anguita-Molina MA
@@ -33080,6 +33311,21 @@ AB  - <title>Abstract</title>  <p>Reliable prediction of plant growth and physio
 DO  - 10.21203/rs.3.rs-11105391/v1
 UR  - https://doi.org/10.21203/rs.3.rs-11105391/v1
 AN  - PPR1352114
+KW  - modele:non_classe
+KW  - theme:neuro_comportement_cognition
+ER  - 
+
+TY  - JOUR
+AU  - Satriya AB
+AU  - Tan MJT
+AU  - Yoon Y
+AU  - Kim G
+TI  - Physics-Guided Machine Learning for Abdominal Tissue Thickness Estimation Using RF Scattering Parameters
+PY  - 2026
+AB  - Radio-frequency (RF) reflection measurements provide a non-ionizing approach for estimating biological tissue thickness; however, accurately resolving deeper tissues is difficult because their reflections are attenuated and superimposed with those from overlying layers. This study presents a physics-guided stacked-regression framework for estimating subcutaneous adipose tissue (SAT), muscle tissue (MT), and visceral adipose tissue (VAT) thicknesses from simulated scattering parameters. A planar multilayer abdominal model containing 120 combinations of SAT, MT, and VAT thicknesses was evaluated. The input features consisted of the magnitude of S11 at ten frequencies from 300 MHz to 2 GHz, including four intermediate frequencies at 600, 700, 800, and 900 MHz that were absent from the previous model. Target-specific frequency subsets were selected and evaluated using polynomial regression and five-fold cross-validation. Multilayer reflection theory was used to explain the nonlinear relationship between tissue thickness and the measured RF response. The extended-frequency models achieved errors of 1.96%, 7.60%, and 19.86% for SAT, MT, and VAT, respectively, compared with 2.56%, 11.42%, and 39.10% in the previous model. A selective stacked architecture was subsequently evaluated by using an estimated overlying tissue thickness as an additional input for a deeper-tissue estimator. Adding predicted SAT thickness degraded MT estimation, whereas adding predicted MT thickness improved VAT estimation. The final stacked VAT model achieved an RMSE of 0.14±0.11 mm, an R2 of 0.97±0.02, and an error of 12.49%, corresponding to a 68.06% error reduction relative to the previous VAT model. These findings demonstrate that denser frequency sampling and selectively applied anatomical guidance can improve RF-based estimation of deeper tissue layers.
+DO  - 10.20944/preprints202611.0752.v1
+UR  - https://doi.org/10.20944/preprints202611.0752.v1
+AN  - PPR1361504
 KW  - modele:non_classe
 KW  - theme:neuro_comportement_cognition
 ER  - 
@@ -34118,6 +34364,30 @@ KW  - High glucose
 KW  - Chronic Inflammation
 KW  - Photobiomodulation
 KW  - Redox Signaling
+ER  - 
+
+TY  - JOUR
+AU  - Arslan A
+AU  - Parlak SN
+AU  - Güney MN
+AU  - Dumrul HKY
+TI  - Electromagnetic FIELD-INDUCED oxidative stress, inflammation, and APOPTOSIS: A BIBLIOMETRIC and KNOWLEDGE-MAPPING analysis.
+PY  - 2026
+SP  - 1-15
+AB  - <h4>Purpose</h4>Public and occupational exposure to extremely low-frequency magnetic fields and radiofrequency electromagnetic fields has expanded over recent decades, while redox-mediated non-thermal mechanisms have become a major framework linking such exposure to biological effects. Despite extensive experimental research, the intellectual structure of this field remains insufficiently mapped. This study analyses global scientific production linking electromagnetic field exposure with oxidative stress, inflammation, and apoptosis.<h4>Materials and methods</h4>Web of Science Core Collection was searched using exposure descriptors combined with redox, inflammatory, and cell-death terms. English-language original articles were included, yielding 2,169 documents published between 1989 and 2026 across 847 sources by 8,812 authors. Performance analysis, Bradford and Lotka modelling, h-, g-, and m-indices, co-word clustering, Callon-based thematic mapping, trend-topic detection, co-citation analysis, and collaboration network analysis were performed using the bibliometrix R package.<h4>Results</h4>Annual output grew by 12.97% and peaked at 147 articles in 2025, with 21.63 mean citations per document. Twenty-one journals constituted the Bradford core, led by Electromagnetic Biology and Medicine (<i>n</i> = 141) and Bioelectromagnetics (<i>n</i> = 123). China (343), Türkiye (317), and Italy (193) led corresponding-author output, while international co-authorship was 15.72%. Co-word analysis identified three clusters: oxidative stress and apoptosis occupied motor-theme positions, whereas DNA damage formed a peripheral, declining cluster.<h4>Conclusions</h4>Inflammation, ROS, pulsed electromagnetic fields, nanoparticles, hypoxia, male infertility, and ferroptosis emerged as recent research fronts, indicating a shift from genotoxic endpoints toward regulated cell-death and inflammatory signalling pathways.
+DO  - 10.1080/15368378.2026.2761953
+UR  - https://pubmed.ncbi.nlm.nih.gov/43013599/
+AN  - 43013599
+KW  - modele:non_classe
+KW  - theme:stress_oxydatif
+KW  - theme:apoptose_mitochondrie
+KW  - theme:genotoxicite_epigenetique
+KW  - theme:thermique
+KW  - Apoptosis
+KW  - Oxidative stress
+KW  - Inflammation
+KW  - Electromagnetic fields
+KW  - Bibliometric Analysis
 ER  - 
 
 TY  - JOUR
@@ -36533,6 +36803,59 @@ KW  - Cell Phone
 ER  - 
 
 TY  - JOUR
+AU  - Zupunski L
+AU  - Samaras T
+AU  - Gaide O
+AU  - Mancuso M
+AU  - Bitsch A
+AU  - Capstick M
+AU  - Pich-Bavastro C
+AU  - Pinto R
+AU  - Conil E
+AU  - Kuhne J
+AU  - Bories S
+AU  - Karabetsos E
+AU  - Martens L
+AU  - Gajsek P
+AU  - Kuster N
+AU  - Böhmert C
+AU  - Kühn S
+AU  - Wang S
+AU  - Babas D
+AU  - Christopoulou M
+AU  - Prajapati N
+AU  - Vermeeren G
+AU  - Valic B
+AU  - Djuari M
+AU  - Apostolidis C
+AU  - Su Z
+AU  - Ardoino L
+AU  - Iakovidis S
+AU  - Manassas A
+AU  - Ziemann C
+AU  - Dasenbrock C
+AU  - Schüz J
+TI  - 5G Mobile Phone Technology and the Risk of Skin Cancer: A Risk Assessment by the SEAWave Consortium.
+PY  - 2026
+SP  - e70075
+AB  - To meet the ever-growing demands of wireless communication and enable new applications, the 5th generation (5G) New Radio (NR) cellular system was developed to offer better connectivity, to reduce latency, and enable higher data transfer rates. The use of the 5G frequency spectrum is divided into two frequency ranges, Frequency Range 1 (5G NR FR1) from 0.41 GHz to 7.125 GHz, operating in the same frequency range as the 2G-4G cellular systems and WLAN systems, and Frequency Range 2 (5G NR FR2) from 24.25 to 52.60 GHz using millimetre waves (mmWaves) to enable fast transfer of large amounts of data. Since 2019, FR1 has been rapidly deployed in Europe. Until today, in Europe, FR2 has very limited applications. The objective of SEAWave project was to conduct two risk assessments, one for FR1 and one for FR2. Risk assessment procedure included evaluation of evidence of an association between skin cancer and exposure to FR1 and FR2 radiofrequency electromagnetic field (RF-EMF), with the skin being the most exposed organ during use. Both assessments are based on: a comprehensive review of the scientific literature available before the end of the project and the consolidated findings from research studies generated within the SEAWave project. Experiments conducted within SEAWave project included: (i) In vivo experiments on Carcinogenesis-susceptible (Car-S) mice and Patched heterozygous knockout mice (Ptch1 +/-) to investigate the effects of prolonged exposure to 5G FR2 RF-EMF at 27.5 GHz on the development of squamous cell carcinoma (SCC) and basal cell carcinoma (BCC), two of the most common skin tumours. In addition, skin inflammation and nociceptive signalling were analysed in dorsal skin samples taken from mice after early stage whole-body exposure in the first 21 days of postnatal life and after 100 days and 6 months of exposure; (ii) Clinical trial where participants' inner arms were exposed to 5G FR2 RF-EMF at 27.5 GHz to study transcriptomic changes in skin samples induced by 5G FR2 RF-EMF exposure, with particular attention to inflammatory processes; (iii) In vitro experiments using different primary human skin cell lines, that is, light-pigmented primary epidermal juvenile and adult keratinocytes (NHEK-f.c. and NHEK-c.) and light-pigmented primary epidermal adult melanocytes (NHEM) exposed to 5G FR2 RF-EMF at 27.5 GHz to study several endpoints including genotoxicity, aneugenicity, telomere measurement, DNA methylation and transcriptomics. The overall evidence for an association between skin cancer and 5G FR1 has been classified as 'inconclusive' based on the evaluations of human evidence, evidence from animal studies and mechanistic studies classified as 'inadequate'. 5G FR1 evaluations were mainly based on literature review. The overall evidence for an association between skin cancer and 5G FR2 has been classified as 'inconclusive' based on the evaluations of human evidence, and evidence from animal studies and mechanistic studies classified as 'inadequate'. 5G FR2 evaluations were mainly based on findings from the SEAWave project. All classifications were unanimous except for the 5G FR2 mechanistic evidence which a minority considered 'limited'; even with limited evidence the overall assessment for 5G FR2 would have remained 'inconclusive'. An impact evaluation completes the risk assessment, as for inconclusive evidence no quantitative risk assessment could be carried out.
+DO  - 10.1002/bem.70075
+UR  - https://pubmed.ncbi.nlm.nih.gov/43006849/
+AN  - 43006849
+KW  - modele:revue
+KW  - theme:genotoxicite_epigenetique
+KW  - modele:in_vivo
+KW  - modele:epidemiologie
+KW  - modele:in_vitro
+KW  - theme:neuro_comportement_cognition
+KW  - Electromagnetic fields
+KW  - Radio waves
+KW  - risk assessment
+KW  - Skin Cancer
+KW  - Hazard Identification
+ER  - 
+
+TY  - JOUR
 AU  - Jauchem JR
 TI  - Exposure to extremely-low-frequency electromagnetic fields and radiofrequency radiation: cardiovascular effects in humans.
 JO  - International archives of occupational and environmental health
@@ -38500,6 +38823,34 @@ KW  - Alzheimer’s disease
 KW  - Electromagnetic Radiation
 KW  - Neuronal Damage
 KW  - Wi-fi Exposure Y Neurodegeneration
+ER  - 
+
+TY  - JOUR
+AU  - Kasa RA
+AU  - Maulidiyah NS
+AU  - Maula EM
+AU  - Hamami SMA
+AU  - Azzahra NK
+AU  - Tefu MOFI
+AU  - Tarigan J
+AU  - Sida LDI
+AU  - Octaviani S
+AU  - Albab U
+AU  - Hadiwijaya R
+AU  - Ayu J
+AU  - Fitri LE
+TI  - Effects of Extremely Low-Frequency (50/60 Hz) Electromagnetic Field Exposure on Oxidative Stress Biomarkers in Rodent Models: A Systematic Review and Meta-analysis
+PY  - 2026
+AB  - Extremely low-frequency electromagnetic fields at the 50/60 Hz mains frequency are ubiquitous and classified by the International Agency for Research on Cancer as possibly carcinogenic to humans. Altered redox balance is the most frequently proposed mechanism, yet rodent findings are inconsistent and have not been quantitatively synthesised. Following PRISMA 2020, PubMed and Scopus were searched for controlled studies in rats or mice exposed to 50/60 Hz fields and reporting oxidative stress biomarkers. Risk of bias (SYRCLE) and certainty of evidence (GRADE, adapted for animal studies) were assessed, and Hedges’ g was pooled using random-effects models. Eight rat studies (1–7000 μT) yielded 48 non-independent effect estimates across seven biomarkers. Exposure increased malondialdehyde (SMD 2.84; 95% CI 1.70–3.98), total oxidant status (1.33; 0.50–2.17), total thiol molecules (1.27; 0.25–2.29), and total antioxidant status (1.25; 0.72–1.78), whereas superoxide dismutase and catalase were unchanged. Heterogeneity was substantial (I  2 52–82%), four biomarkers derived from a single laboratory, and certainty was very low throughout. Findings suggest a shift toward oxidative stress, with greater lipid peroxidation and oxidant burden alongside higher non-enzymatic antioxidant capacity; direction is better supported than magnitude. Most exposures exceeded ICNIRP public reference levels, so results reflect laboratory conditions rather than human risk.
+DO  - 10.12688/f1000research.193123.1
+UR  - https://doi.org/10.12688/f1000research.193123.1
+AN  - PPR1362618
+KW  - modele:revue
+KW  - theme:stress_oxydatif
+KW  - modele:in_vivo
+KW  - modele:dosimetrie_modelisation
+KW  - theme:cancer
+KW  - theme:dosimetrie_exposition
 ER  - 
 
 TY  - JOUR
