@@ -1,6 +1,6 @@
 # non_classe
 
-343 articles.
+363 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -12,7 +12,7 @@
 
 - `2026` [[2026_42395102_value-of-dual-energy-computed-tomography-with-mate]] — Dong LW et al.
 
-## cancer (25)
+## cancer (29)
 
 - `2026` [[2026_41369899_differentiation-of-tumor-budding-grade-in-colon-ca]] — He C et al.
 - `2026` [[2026_41815122_construction-of-a-postoperative-disease-free-survi]] — Zhao W et al.
@@ -28,6 +28,10 @@
 - `2026` [[2026_42571761_baseline-dual-energy-ct-iodine-uptake-predicts-sys]] — Bleymehl V et al.
 - `2026` [[2026_42647686_diagnostic-performance-of-the-proposed-dect-ni-rad]] — Sananmuang T et al.
 - `2026` [[2026_42661227_dual-energy-ct-extracellular-volume-fraction-for-p]] — Ming S et al.
+- `2026` [[2026_42977926_preoperative-assessment-of-her-2-status-in-breast]] — Yang D et al.
+- `2026` [[2026_42983216_preoperative-prediction-of-lymph-node-metastasis-i]] — Chai HF et al.
+- `2026` [[2026_42996559_dual-energy-computed-tomography-as-an-alternative]] — Ming S et al.
+- `2026` [[2026_43026676_microwave-triggered-no-o-lt-sub-gt-2-lt-sub-gt-dua]] — Guo W et al.
 - `2025` [[2025_41295740_quantitative-conspicuity-of-pancreatic-canine-insu]] — Camosci V et al.
 - `2025` [[2025_41367767_dual-energy-ct-multiparametric-analysis-improves-d]] — Yao J et al.
 - `2025` [[2025_41372989_cd31-associated-vascular-phenotyping-using-doppler]] — Zhou Y et al.
@@ -66,7 +70,7 @@
 - `1998` [[1998_10212373_alteration-of-diurnal-rhythms-of-blood-pressure-an]] — Szmigielski S et al.
 - `1998` [[1998_9554698_human-sleep-under-the-influence-of-pulsed-radiofre]] — Wagner P et al.
 
-## general (175)
+## general (189)
 
 - `2026` [[2026_41198863_predicting-carotid-in-stent-restenosis-with-dual-e]] — Hu W et al.
 - `2026` [[2026_41265782_prediction-of-malignant-acute-middle-cerebral-arte]] — Shang K et al.
@@ -141,12 +145,26 @@
 - `2026` [[2026_42768244_axial-skeleton-involvement-in-gout-clinical-spectr]] — Sahu RK et al.
 - `2026` [[2026_42769376_association-of-dual-energy-ct-derived-quantitative]] — Zhang Z et al.
 - `2026` [[2026_42786831_the-diagnostic-value-of-dual-energy-ct-multi-param]] — Zhang H et al.
+- `2026` [[2026_42820978_dual-energy-ct-virtual-non-calcium-imaging-for-dif]] — Lee HY, Jeon JY
+- `2026` [[2026_42841922_head-to-head-comparison-of-quantitative-perfusion]] — Banerjee S et al.
+- `2026` [[2026_42874510_enhanced-two-stage-cascaded-network-for-high-preci]] — Zhu H et al.
+- `2026` [[2026_42875272_mri-goutallier-classification-dect-and-mri-ideal-f]] — Takatori N et al.
+- `2026` [[2026_42877711_curing-regime-controlled-performance-of-basalt-mod]] — Said MA et al.
+- `2026` [[2026_42900553_filament-deposition-modeling-quality-assurance-tes]] — Heggie BT et al.
+- `2026` [[2026_42923967_microwave-treated-structural-and-network-changes-i]] — Uzunbayir B et al.
+- `2026` [[2026_42930628_site-specific-material-decomposition-versus-univer]] — Piscone S et al.
+- `2026` [[2026_42967258_node-rads-outperforms-dual-energy-ct-derived-quant]] — Yao DX et al.
+- `2026` [[2026_42969276_photoelectric-dominant-imaging-in-dual-energy-ct-c]] — Romman M et al.
+- `2026` [[2026_43021811_optimized-dual-energy-ct-protocol-for-inferior-ven]] — Deng J et al.
 - `2026` [[2026_PPR1159388_microwave-radiation-as-an-alternative-for-controll]] — Nascimento DM et al.
 - `2026` [[2026_PPR1176506_diagnostic-value-of-dual-energy-ct-in-differential]] — Shi J et al.
 - `2026` [[2026_PPR1207915_a-system-for-energy-efficient-remote-health-monito]] — Guimarães MA, Macêdo RJdA
 - `2026` [[2026_PPR1276922_dual-energy-ct-derived-extracellular-volume-fracti]] — Lu X et al.
 - `2026` [[2026_PPR1288658_accurate-hepatic-fat-fraction-quantification-acros]] — Li X et al.
 - `2026` [[2026_PPR1325980_distal-occlusion-tracker-sign-in-the-24-hours-dual]] — Diana F et al.
+- `2026` [[2026_PPR1352114_machine-learning-prediction-of-rice-seedling-growt]] — Islam MR et al.
+- `2026` [[2026_PPR1356238_exemption-without-exposure-formally-verified-condi]] — Aliu A et al.
+- `2026` [[2026_PPR1361504_physics-guided-machine-learning-for-abdominal-tiss]] — Satriya AB et al.
 - `2025` [[2025_39656106_dose-estimation-for-indoor-radon-occupational-radi]] — Sahmaran T et al.
 - `2025` [[2025_39657937_comparison-of-chlorhexidine-gluconate-sodium-hypoc]] — Jabeen B et al.
 - `2025` [[2025_39735903_rapid-degradation-of-pharmaceutical-pollutants-usi]] — Gaffar S et al.
@@ -251,7 +269,7 @@
 - `2016` [[2016_27135009_analysis-of-the-genotoxic-effects-of-mobile-phone]] — Banerjee S et al.
 - `2000` [[2000_11145105_the-effect-of-electromagnetic-field-exposure-on-th]] — Lourencini da Silva R et al.
 
-## neuro_comportement_cognition (35)
+## neuro_comportement_cognition (36)
 
 - `2026` [[2026_41602187_design-and-synthesis-of-novel-sulfa-azo-dyes-a-sus]] — Sherif S et al.
 - `2026` [[2026_41917285_microwave-scattering-signatures-for-distinguishing]] — Moradi A, Bait-Suwailam MM
@@ -261,6 +279,7 @@
 - `2026` [[2026_42517296_shark-preferences-only-subtle-effects-of-electroma]] — Bouwman LJ et al.
 - `2026` [[2026_42761882_microwave-induced-efficient-degradation-of-tetracy]] — Liu M et al.
 - `2026` [[2026_42797892_cow-behavior-recognition-method-based-on-multi-sou]] — Zhao X et al.
+- `2026` [[2026_43005650_insight-into-the-adsorption-mechanisms-of-cr-vi-fr]] — Huynh TN et al.
 - `2026` [[2026_PPR1244429_smart-bedside-traceability-of-caregiver-patient-in]] — Polo-Rodríguez A et al.
 - `2025` [[2025_40050313_impact-of-high-frequency-electromagnetic-radiation]] — Hegazy EA, El-Antrawy MA
 - `2025` [[2025_40363396_exploring-the-mechanism-of-microstructural-changes]] — Chen J et al.
@@ -331,12 +350,13 @@
 - `2016` [[2016_28144597_the-fundamental-reasons-why-laptop-computers-shoul]] — Mortazavi SA et al.
 - `2013` [[2013_24082653_male-reproductive-health-under-threat-short-term-e]] — Mortazavi S et al.
 
-## stress_oxydatif (16)
+## stress_oxydatif (17)
 
 - `2026` [[2026_41747184_effects-of-industrial-scientific-and-medical-ism-b]] — Tomar AK et al.
 - `2026` [[2026_42490055_alginate-and-chitosan-based-hydrogels-effects-on-t]] — Tsirigotis-Maniecka M et al.
 - `2026` [[2026_42585747_ultrasound-assisted-deep-eutectic-solvent-extracti]] — Sun Y et al.
 - `2026` [[2026_42726645_combined-photobiomodulation-and-pulsed-electromagn]] — Thongyoo K et al.
+- `2026` [[2026_43013599_electromagnetic-field-induced-oxidative-stress-inf]] — Arslan A et al.
 - `2024` [[2024_38762651_analysis-of-the-metabolic-profile-of-humans-natura]] — Rangesh NM et al.
 - `2024` [[2024_38786928_oxidative-stress-response-of-honey-bee-colonies-i]] — Vilić M et al.
 - `2024` [[2024_38820877_evaluation-of-oxidative-stress-and-genetic-instabi]] — Gulati S et al.

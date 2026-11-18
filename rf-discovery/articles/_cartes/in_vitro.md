@@ -1,8 +1,8 @@
 # in_vitro
 
-320 articles.
+328 articles.
 
-## apoptose_mitochondrie (59)
+## apoptose_mitochondrie (63)
 
 - `2026` [[2026_41562640_neurotoxic-effects-of-3-5-ghz-gsm-like-rf-exposure]] — Bektas H et al.
 - `2026` [[2026_41660276_the-effect-of-4-3-ghz-high-power-microwave-exposur]] — Gao A et al.
@@ -13,6 +13,10 @@
 - `2026` [[2026_42450219_the-effect-of-radiofrequency-exposure-on-the-cytot]] — Erol Bozkurt A et al.
 - `2026` [[2026_42472453_repurposing-simvastatin-with-piperine-through-cycl]] — Alzhrani RF et al.
 - `2026` [[2026_42653765_trifluoromethyl-benzimidazole-hydrazone-derivative]] — Özil M et al.
+- `2026` [[2026_42860159_field-assisted-interfacial-passivation-microwave-e]] — Wang M et al.
+- `2026` [[2026_42880645_radiofrequency-electromagnetic-radiation-induces-m]] — Jangid P et al.
+- `2026` [[2026_42882524_radiofrequency-radiation-alters-redox-homeostasis]] — Ahmad S et al.
+- `2026` [[2026_42992795_microwave-assisted-green-synthesis-of-lt-i-gt-cord]] — Çağdaş B et al.
 - `2025` [[2025_39810728_radiofrequency-induced-time-dependent-alterations]] — Tuysuz MZ et al.
 - `2025` [[2025_39911027_protective-effects-and-mechanisms-of-astragaloside]] — Zhang X et al.
 - `2025` [[2025_40831178_activating-transcription-factor-4-regulation-of-ra]] — Wang H et al.
@@ -77,7 +81,7 @@
 - `2007` [[2007_17620299_acute-exposure-to-low-level-cw-and-gsm-modulated-9]] — Platano D et al.
 - `2006` [[2006_16838272_extremely-low-frequency-electromagnetic-field-expo]] — Lisi A et al.
 
-## cancer (31)
+## cancer (32)
 
 - `2026` [[2026_41850480_radiofrequency-exposure-to-lte-signal-does-not-alt]] — Allocca M et al.
 - `2026` [[2026_41937209_a-dual-transformable-mgga-mof-nanoplatform-for-hcc]] — Li Y et al.
@@ -85,6 +89,7 @@
 - `2026` [[2026_42280148_gold-nanoparticle-complexes-with-pamam-dendrimers]] — Kołodziejczyk AM et al.
 - `2026` [[2026_42545398_synergistic-magnetic-nano-chemotherapy-overcomes-c]] — Phalake SS et al.
 - `2026` [[2026_42594945_a-programmable-electroculture-platform-for-directi]] — Senturk F et al.
+- `2026` [[2026_42929866_a-clickable-phospholipid-platform-for-ultra-fast-a]] — Gonzales L et al.
 - `2026` [[2026_PPR1218304_magnetic-field-induced-er-stress-reprograms-the-tu]] — Sharma V et al.
 - `2025` [[2025_40314206_nanomaterials-as-electromagnetic-sensors-for-tumou]] — Wilson AJ et al.
 - `2025` [[2025_40899983_effects-of-50-hz-extremely-low-frequency-magnetic]] — Tekam CKS et al.
@@ -243,8 +248,9 @@
 - `2011` [[2011_21210623_low-frequency-electromagnetic-field-exposure-accel]] — Chang SH et al.
 - `2010` [[2010_21133497_exposure-of-biological-preparations-to-radiofreque]] — Jacquot JF et al.
 
-## neurodeveloppement (6)
+## neurodeveloppement (7)
 
+- `2026` [[2026_PPR1366671_impact-of-in-vitro-exposure-to-5g-modulated-3-5-gh]] — Moussay M et al.
 - `2020` [[2020_32199316_a-meta-analysis-of-in-vitro-exposures-to-weak-radi]] — Halgamuge MN et al.
 - `2017` [[2017_28892876_effect-of-radiofrequency-radiation-emitted-from-2g]] — D'Silva MH et al.
 - `2016` [[2016_26171674_effect-of-mobile-phone-radiation-on-cardiovascular]] — Ye W et al.
@@ -279,7 +285,7 @@
 - `2000` [[2000_10615087_ets1-oncogene-induction-by-elf-modulated-50-mhz-ra]] — Romano-Spica V et al.
 - `1987` [[1987_3107975_effects-of-radiofrequency-radiation-and-simultaneo]] — Ciaravino V et al.
 
-## stress_oxydatif (56)
+## stress_oxydatif (57)
 
 - `2026` [[2026_41455308_glycolysis-inhibition-based-breakdown-of-ferroptos]] — Liu N et al.
 - `2026` [[2026_41596185_5g-rf-emfs-mitigate-uv-induced-genotoxic-stress-th]] — Kim JH et al.
@@ -289,6 +295,7 @@
 - `2026` [[2026_41954586_integrating-green-chemistry-into-spion-development]] — Morais B et al.
 - `2026` [[2026_42057982_evaluating-the-protective-effect-of-melatonin-on-a]] — Fardid R et al.
 - `2026` [[2026_42179931_design-synthesis-anticancer-antioxidant-and-comput]] — Kamanna K et al.
+- `2026` [[2026_42937328_investigation-of-the-effect-of-calcitriol-on-radio]] — Miser Salihoğlu E et al.
 - `2025` [[2025_39950292_design-synthesis-and-biological-evaluation-of-some]] — Nguyen DV et al.
 - `2025` [[2025_40150722_a-novel-method-for-achieving-precision-and-reprodu]] — Dahon C et al.
 - `2025` [[2025_40298279_synergistical-induction-of-apoptosis-via-cold-atmo]] — Qi W et al.
@@ -338,13 +345,14 @@
 - `2006` [[2006_16552570_ros-release-and-hsp70-expression-after-exposure-to]] — Lantow M et al.
 - `2004` [[2004_15624304_evaluation-of-parameters-of-oxidative-stress-after]] — Hook GJ et al.
 
-## thermique (23)
+## thermique (24)
 
 - `2026` [[2026_41515471_biomedical-applications-of-chitosan-coated-gallium]] — Orzechowska M et al.
 - `2026` [[2026_41650811_3d-printed-gelma-fe-gqd-magneto-hydrogel-as-a-smar]] — Dar MS, Sahu NK
 - `2026` [[2026_41811074_translating-magnetic-fluid-hyperthermia-toward-lun]] — Sikorska M et al.
 - `2026` [[2026_41891277_surface-functionalization-of-iron-oxide-nanopartic]] — Mehak et al.
 - `2026` [[2026_42030880_bimetallic-fe-ni-nanoalloys-for-magnetic-hyperther]] — Bastia A et al.
+- `2026` [[2026_42860714_comparative-analysis-of-the-biological-effects-on]] — van Oossanen R et al.
 - `2025` [[2025_41267302_preserving-resistant-starch-in-retrograded-maize-s]] — Li C et al.
 - `2025` [[2025_41319327_optimized-inductive-heating-of-a-superparamagnetic]] — Khan MA et al.
 - `2024` [[2024_38153906_dielectric-and-magnetic-composites-of-fe3o4-apns-f]] — Zhan YL et al.

@@ -1,8 +1,8 @@
 # epidemiologie
 
-349 articles.
+358 articles.
 
-## cancer (50)
+## cancer (52)
 
 - `2026` [[2026_41186132_utility-of-quantitative-parameters-from-triple-pha]] — Chen M et al.
 - `2026` [[2026_41251127_personal-radio-use-and-risk-of-cancers-among-polic]] — Di Gravio C et al.
@@ -14,6 +14,8 @@
 - `2026` [[2026_42364263_deep-learning-reconstruction-dual-energy-computed]] — Liu Y et al.
 - `2026` [[2026_42440112_integrated-dual-energy-ct-spectral-kinetics-and-su]] — Wang C et al.
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
+- `2026` [[2026_42944910_preoperative-risk-stratification-for-anastomotic-l]] — Ren T et al.
+- `2026` [[2026_42988510_noninvasive-prediction-of-tumor-malignancy-grade-i]] — Li M et al.
 - `2025` [[2025_39301814_occupational-exposure-to-radiofrequency-electromag]] — Turuban M et al.
 - `2025` [[2025_41357589_dual-energy-ct-based-nomogram-for-predicting-progr]] — Pei W et al.
 - `2025` [[2025_41367803_dual-energy-ct-for-distinguishing-between-t3-and-t]] — Li L et al.
@@ -111,7 +113,7 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (108)
+## general (111)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41212451_correlation-between-intrahepatic-iodine-quantity-a]] — Komada T et al.
@@ -148,6 +150,9 @@
 - `2026` [[2026_42705926_dual-energy-ct-derived-extracellular-volume-fracti]] — Wang S et al.
 - `2026` [[2026_42708522_the-effect-of-pulsed-electromagnetic-field-on-pain]] — Arani ZSY et al.
 - `2026` [[2026_42725567_heart-rate-variability-responses-to-26-ghz-millime]] — Michelant L et al.
+- `2026` [[2026_42882415_dual-energy-computed-tomography-versus-conventiona]] — Loo JH et al.
+- `2026` [[2026_43036029_virtual-non-calcium-dual-energy-computed-tomograph]] — Öztepe MF et al.
+- `2026` [[2026_43040275_nomogram-model-based-on-dual-energy-ct-quantitativ]] — Yu C et al.
 - `2026` [[2026_PPR1263729_model-construction-and-validation-of-dual-energy-c]] — Zhu H et al.
 - `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I
@@ -227,10 +232,12 @@
 - `2023` [[2023_37051497_a-comparative-evaluation-of-the-genotoxic-effects]] — Kadeh H et al.
 - `2017` [[2017_28777669_impact-of-radiofrequency-radiation-on-dna-damage-a]] — Zothansiama et al.
 
-## neuro_comportement_cognition (52)
+## neuro_comportement_cognition (54)
 
 - `2026` [[2026_41317834_no-measurable-impact-of-acute-26-ghz-5g-exposure-o]] — Michelant L et al.
+- `2026` [[2026_42861220_quantitative-dual-energy-computed-tomography-param]] — Ma T et al.
 - `2026` [[2026_PPR1306903_plasma-proteomics-identifies-a-microtesla-magnetic]] — Brady NR et al.
+- `2026` [[2026_PPR1358207_electromagnetic-field-exposure-during-the-use-of-n]] — İnam Ö et al.
 - `2025` [[2025_40727578_do-expectations-shape-interoceptive-perceptions-ac]] — Schmitz N et al.
 - `2025` [[2025_41203108_modulation-of-brain-functional-connectivity-in-hea]] — Iranfar S et al.
 - `2025` [[2025_41847591_enhancing-agent-based-models-with-real-time-moveme]] — Thota RC et al.
@@ -282,12 +289,13 @@
 - `2004` [[2004_15475717_occupational-exposure-to-electromagnetic-fields-an]] — Qiu C et al.
 - `1996` [[1996_8960730_elevated-risk-of-alzheimer-s-disease-among-workers]] — Sobel E et al.
 
-## neurodeveloppement (71)
+## neurodeveloppement (72)
 
 - `2026` [[2026_41498450_rf-emf-risk-perception-and-trust-in-radiation-prot]] — Eggeling-Böcker M et al.
 - `2026` [[2026_41615383_extended-validity-of-hematocrit-for-dual-energy-ct]] — Han L et al.
 - `2026` [[2026_42176942_personal-radio-frequency-electromagnetic-field-exp]] — Jalilian H et al.
 - `2026` [[2026_42386297_spondyloarthritis-inception-cohort-of-southern-den]] — Kröber G et al.
+- `2026` [[2026_42924320_effect-of-7e-instruction-on-primary-students-non-i]] — Tokgöz EÖ
 - `2025` [[2025_40566359_trends-in-malignant-and-benign-brain-tumor-inciden]] — Zhang L, Muscat JE
 - `2025` [[2025_40786381_radiofrequency-electromagnetic-field-emissions-and]] — Setia MS et al.
 - `2025` [[2025_40888227_measuring-childhood-mortality-through-mobile-phone]] — Kante AM et al.
@@ -360,8 +368,9 @@
 
 - `2025` [[2025_41300142_the-effect-of-5g-mobile-phone-electromagnetic-expo]] — Torkan A et al.
 
-## reproduction (8)
+## reproduction (9)
 
+- `2026` [[2026_43017762_serum-sex-hormones-and-semen-quality-characteristi]] — Lu Y et al.
 - `2025` [[2025_40009800_effects-of-long-term-low-dose-2-45-ghz-microwave-e]] — Zheng Z et al.
 - `2025` [[2025_40559983_does-electromagnetic-pollution-in-the-art-laborato]] — Baldini GM et al.
 - `2022` [[2022_35436442_effects-of-mobile-phone-use-on-semen-parameters-a]] — Zhang S et al.

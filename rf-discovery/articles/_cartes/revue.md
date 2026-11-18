@@ -1,6 +1,6 @@
 # revue
 
-308 articles.
+323 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -21,7 +21,7 @@
 
 - `2025` [[2025_40004170_influence-of-super-low-intensity-microwave-radiati]] — Artamonov MY et al.
 
-## cancer (35)
+## cancer (37)
 
 - `2026` [[2026_41898377_en-bloc-resection-of-stage-t4-non-small-cell-lung]] — Lee WT et al.
 - `2026` [[2026_41945987_theranostic-magnetic-hydrogels-for-treatment-recur]] — Sampath B, Charles J
@@ -30,6 +30,8 @@
 - `2026` [[2026_42442967_corrigendum-to-effects-of-radiofrequency-electroma]] — Mevissen M et al.
 - `2026` [[2026_42525387_zero-echo-time-mri-and-dual-energy-ct-virtual-non]] — Marinelli L et al.
 - `2026` [[2026_42651014_clinical-utility-of-dual-energy-ct-for-detection-c]] — Sidiqy H et al.
+- `2026` [[2026_42855624_practical-applications-of-photon-counting-ct-in-on]] — Kawasaki Y et al.
+- `2026` [[2026_42936742_artificial-intelligence-and-machine-learning-for-m]] — Yao Y, Nafo W
 - `2025` [[2025_40339346_effects-of-radiofrequency-electromagnetic-field-ex]] — Mevissen M et al.
 - `2025` [[2025_40966368_development-and-testing-of-a-novel-whole-body-expo]] — Wyde ME et al.
 - `2025` [[2025_41135061_toward-breast-tumor-detection-a-miniature-antenna]] — Amaria S et al.
@@ -95,7 +97,7 @@
 - `1993` [[1993_8098713_static-and-extremely-low-frequency-electromagnetic]] — Reiter RJ
 - `1989` [[1989_2677573_neuroendocrine-mediated-effects-of-electromagnetic]] — Wilson BW et al.
 
-## general (69)
+## general (75)
 
 - `2026` [[2026_41349167_technical-performance-of-dual-energy-ct-in-the-eva]] — Asmundo L et al.
 - `2026` [[2026_41405692_replacing-true-non-contrast-imaging-with-dect-in-g]] — Oberparleiter M et al.
@@ -118,8 +120,14 @@
 - `2026` [[2026_42525727_toward-measurement-of-muscle-forces-during-movemen]] — Tan T et al.
 - `2026` [[2026_42667564_what-you-don-t-see-matters-dual-energy-ct-in-emerg]] — Anichini M et al.
 - `2026` [[2026_42730093_impacts-of-geomagnetic-and-man-made-electromagneti]] — Fadlou Allah T et al.
+- `2026` [[2026_42831153_correlation-of-the-diagnostic-accuracy-of-dual-ene]] — Adebayo D et al.
+- `2026` [[2026_42871716_osteoporosis-current-diagnostic-possibilities-a-li]] — Swoboda M, Pluskiewicz W
+- `2026` [[2026_42892596_hyperdense-renal-lesion-characterization-on-three]] — Majeed NF et al.
+- `2026` [[2026_42945597_spectral-ct-in-modern-radiotherapy-a-clinical-fram]] — Meng Q et al.
+- `2026` [[2026_43018489_impact-of-bronchial-thermoplasty-on-exacerbation-r]] — Alotaibi A et al.
 - `2026` [[2026_PPR1173925_dect-diagnosis-of-gouty-tophi-with-normal-uric-aci]] — Ota K, Yabusaki S
 - `2026` [[2026_PPR1305059_autonomous-rescue-robots-for-post-disaster-search]] — Ahmad S
+- `2026` [[2026_PPR1345446_electrical-and-electromagnetic-field-exposure-as-a]] — Abduljalil Mohamed M
 - `2025` [[2025_39652433_a-mechanistic-understanding-of-human-magnetorecept]] — Henshaw DL, Philips A
 - `2025` [[2025_40295166_presbyopia-correction-in-lens-replacement-surgery]] — Stern B, Gatinel D
 - `2025` [[2025_40444172_a-mini-review-of-the-potential-health-impacts-of-i]] — Maipas S et al.
@@ -167,9 +175,10 @@
 - `1989` [[1989_2651366_damage-criteria-for-determining-microwave-exposure]] — Servantie B
 - `1988` [[1988_3077025_nonionizing-radiation-protection-radiofrequency-ra]] — Elder JA et al.
 
-## genotoxicite_epigenetique (17)
+## genotoxicite_epigenetique (18)
 
 - `2026` [[2026_41478346_is-it-time-to-reconsider-chronic-electromagnetic-f]] — Krishnasamy N, K HS
+- `2026` [[2026_43006849_5g-mobile-phone-technology-and-the-risk-of-skin-ca]] — Zupunski L et al.
 - `2025` [[2025_41145349_radiofrequency-radiation-induced-gene-expression]] — Lai H, Levitt BB
 - `2024` [[2024_39410093_a-review-of-electromagnetic-fields-in-cellular-int]] — Guzmán-Armenteros TM et al.
 - `2024` [[2024_39476595_genotoxicity-of-radiofrequency-electromagnetic-fie]] — Romeo S et al.
@@ -187,12 +196,14 @@
 - `1998` [[1998_9707093_genotoxicity-of-radiofrequency-radiation-dna-genet]] — Brusick D et al.
 - `1993` [[1993_8496241_effects-of-electromagnetic-field-exposure-on-gene]] — Phillips JL
 
-## neuro_comportement_cognition (37)
+## neuro_comportement_cognition (39)
 
 - `2026` [[2026_41311192_thiazolotriazoles-their-biological-activity-and-st]] — Purakkel UK et al.
 - `2026` [[2026_41561002_an-overview-on-emerging-green-organic-corrosion-in]] — Kumar N et al.
 - `2026` [[2026_41932003_electric-fields-for-warming-cryopreserved-tissue]] — Wowk B
 - `2026` [[2026_42451259_precision-livestock-farming-and-biomedical-enginee]] — Kiktev N et al.
+- `2026` [[2026_42828174_electromagnetic-exposure-safety-assessment-of-elec]] — Bai W, Lu M
+- `2026` [[2026_42981375_physiological-and-health-related-effects-of-5g-rel]] — Bodewein L et al.
 - `2025` [[2025_40076887_brain-disease-modifying-effects-of-radiofrequency]] — Sun S et al.
 - `2025` [[2025_41149527_electromagnetic-interference-in-the-modern-era-con]] — Prekodravac Filipovic J et al.
 - `2024` [[2024_38104437_the-effects-of-radiofrequency-electromagnetic-fiel]] — Röösli M et al.
@@ -273,9 +284,11 @@
 
 - `2025` [[2025_40363190_effects-of-mobile-electromagnetic-exposure-on-brai]] — Torkan A et al.
 
-## reproduction (33)
+## reproduction (35)
 
 - `2026` [[2026_41809810_environmental-and-microbiome-determinants-of-sperm]] — Qi Y et al.
+- `2026` [[2026_42898233_global-research-trends-on-rf-emr-and-reproductive]] — Gautam R et al.
+- `2026` [[2026_43037649_the-effects-of-electromagnetic-field-exposure-from]] — Meyer F et al.
 - `2025` [[2025_38584548_response-of-male-reproductive-system-against-ioniz]] — Parashar R et al.
 - `2025` [[2025_40108785_the-effects-of-radiofrequency-radiation-on-male-re]] — Bektas H, Dasdag S
 - `2025` [[2025_41034851_the-who-commissioned-systematic-reviews-on-health]] — Melnick RL et al.
@@ -309,9 +322,10 @@
 - `1993` [[1993_8206019_human-adverse-reproductive-outcomes-and-electromag]] — Shaw GM, Croen LA
 - `1988` [[1988_2462414_mechanisms-of-biological-effects-of-radiofrequency]] — Erwin DN
 
-## stress_oxydatif (19)
+## stress_oxydatif (20)
 
 - `2026` [[2026_42220131_from-history-to-innovation-pathophysiology-and-the]] — Rastogi A et al.
+- `2026` [[2026_PPR1362618_effects-of-extremely-low-frequency-50-60-hz-electr]] — Kasa RA et al.
 - `2025` [[2025_40970078_a-systematic-review-of-the-impact-of-electromagnet]] — Danho S et al.
 - `2025` [[2025_41111969_review-of-the-evidence-on-the-influence-of-wi-fi-2]] — Laván D et al.
 - `2024` [[2024_38773047_review-on-the-impact-of-cell-phone-radiation-effec]] — Panda DK et al.
@@ -331,7 +345,7 @@
 - `2016` [[2016_27601711_the-effects-of-radiofrequency-electromagnetic-radi]] — Houston BJ et al.
 - `2012` [[2012_23152390_biological-indicators-in-response-to-radiofrequenc]] — Marjanović AM et al.
 
-## thermique (21)
+## thermique (22)
 
 - `2026` [[2026_41445170_radio-frequency-exposure-in-military-contexts-a-na]] — Risling M, Günther M
 - `2026` [[2026_42122726_use-of-microwave-technology-for-agro-based-polymer]] — Cheng HN et al.
@@ -340,6 +354,7 @@
 - `2026` [[2026_42646427_magnetothermally-responsive-mesoporous-silica-nano]] — Jesus J et al.
 - `2026` [[2026_42733872_advancements-in-superparamagnetic-iron-oxide-nanop]] — Sharma S et al.
 - `2026` [[2026_42797853_can-non-thermal-microwave-irradiation-inactivate-v]] — Galati G, Pavan G
+- `2026` [[2026_43040920_a-biophysical-perspective-on-microwave-induced-neu]] — Chen E et al.
 - `2025` [[2025_40339686_electromagnetic-fields-from-mobile-phones-a-risk-f]] — Seewooruttun C et al.
 - `2025` [[2025_40400318_microwave-power-sources-for-industrial-scientific]] — Cripps S
 - `2025` [[2025_40662412_impact-of-radiofrequency-electromagnetic-fields-on]] — Michelant L, Selmaoui B

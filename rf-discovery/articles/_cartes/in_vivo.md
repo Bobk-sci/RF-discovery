@@ -1,6 +1,6 @@
 # in_vivo
 
-637 articles.
+648 articles.
 
 ## apoptose_mitochondrie (34)
 
@@ -106,9 +106,10 @@
 - `1984` [[1984_6514713_heart-rate-changes-due-to-5-6-ghz-radiofrequency-r]] — Jauchem JR et al.
 - `1977` [[1977_557906_detergent-toxicity-survey]] — Seabaugh VM et al.
 
-## eeg_sommeil (9)
+## eeg_sommeil (10)
 
 - `2026` [[2026_42621506_environmental-enrichment-reduces-displacements-and]] — Thomas M et al.
+- `2026` [[2026_43012736_effects-of-900-mhz-electromagnetic-field-exposure]] — Kaplan AA et al.
 - `2025` [[2025_39912376_impact-of-microwave-exposure-on-cynomolgus-monkeys]] — Ma L et al.
 - `2021` [[2021_33440456_effects-of-2600-mhz-radiofrequency-radiation-in-br]] — Delen K et al.
 - `2020` [[2020_31706765_effects-of-co-exposure-to-900-mhz-radiofrequency-e]] — Bosquillon de Jenlis A et al.
@@ -118,7 +119,7 @@
 - `2003` [[2003_14603472_gsm-modulated-radiofrequency-radiation-does-not-af]] — Bakos J et al.
 - `1997` [[1997_9261542_melatonin-and-a-spin-trap-compound-block-radiofreq]] — Lai H, Singh NP
 
-## general (90)
+## general (95)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
 - `2026` [[2026_41606259_assessment-of-thyroid-iodine-accumulation-followin]] — Rhee C et al.
@@ -136,8 +137,13 @@
 - `2026` [[2026_42197226_sustainable-valorization-of-grape-leaf-based-flavo]] — Habib N et al.
 - `2026` [[2026_42683518_an-energy-difference-indicator-for-improved-quanti]] — Li Y et al.
 - `2026` [[2026_42776981_how-fast-can-pprv-spread-analyzing-the-results-of]] — Nhili M et al.
+- `2026` [[2026_42834590_characterization-of-animal-tissues-for-monte-carlo]] — Xiaoli L, Moyers MF
+- `2026` [[2026_42938235_dynamic-xenon-enhanced-spectral-ct-imaging-to-eval]] — Verelst E et al.
+- `2026` [[2026_42980940_modulatory-effects-of-alpha-lipoic-acid-on-cardiac]] — Colcimen N et al.
+- `2026` [[2026_43033406_a-novel-image-domain-denoising-method-for-triple-m]] — Wu J et al.
 - `2026` [[2026_PPR1215129_the-comparative-study-of-the-effect-of-low-intensi]] — Valerii Z et al.
 - `2026` [[2026_PPR1286608_a-candidate-electromagnetic-channel-for-coordinati]] — Douka K et al.
+- `2026` [[2026_PPR1330333_regional-ventilation-and-perfusion-during-flow-con]] — Bruno E et al.
 - `2025` [[2025_39564560_scalable-neuroanatomical-and-behavioral-phenotypin]] — Wu X et al.
 - `2025` [[2025_39604818_emodin-enhanced-microwave-responsive-heterojunctio]] — Xu T et al.
 - `2025` [[2025_39814783_selected-microwave-irradiation-effectively-inactiv]] — Bia P et al.
@@ -257,7 +263,7 @@
 - `1997` [[1997_9092931_frequency-of-micronuclei-in-the-peripheral-blood-a]] — Vijayalaxmi et al.
 - `1996` [[1996_8627134_single-and-double-strand-dna-breaks-in-rat-brain-c]] — Lai H, Singh NP
 
-## neuro_comportement_cognition (95)
+## neuro_comportement_cognition (96)
 
 - `2026` [[2026_41208067_development-and-evaluation-of-antifungal-activity]] — Jain P et al.
 - `2026` [[2026_41391574_effects-of-paternal-5g-rfr-exposure-on-health-of-m]] — Zhaowen Z et al.
@@ -272,6 +278,7 @@
 - `2026` [[2026_42566258_chronic-3-5-ghz-radiofrequency-exposure-is-associa]] — Bektas H et al.
 - `2026` [[2026_42613487_linking-signal-integrity-to-probabilistic-models-o]] — Sayfoori R, Cao H
 - `2026` [[2026_42653107_differential-effects-of-3-5-ghz-and-24-ghz-5g-radi]] — Hairulazam A et al.
+- `2026` [[2026_42805979_battery-free-fully-wireless-neurostimulation-via-r]] — Yoo K et al.
 - `2025` [[2025_39866417_compound-exposure-of-2-8-ghz-and-9-3-ghz-microwave]] — Sun L et al.
 - `2025` [[2025_39999628_mechanistic-insights-into-microwave-radiation-indu]] — Zhi W et al.
 - `2025` [[2025_40141104_repeated-head-exposures-to-a-5g-3-5-ghz-signal-do]] — Lameth J et al.
@@ -355,11 +362,12 @@
 - `1989` [[1989_2712841_lack-of-behavioral-effects-in-the-rhesus-monkey-hi]] — D'Andrea JA et al.
 - `1986` [[1986_3730002_influence-of-pre-and-postnatal-exposure-of-rats-to]] — Galvin MJ et al.
 
-## neurodeveloppement (84)
+## neurodeveloppement (85)
 
 - `2026` [[2026_41125539_one-year-follow-up-of-thyroid-status-in-rats-expos]] — Özyılmaz C et al.
 - `2026` [[2026_41657441_can-virtual-non-contrast-images-replace-true-non-c]] — Liu T et al.
 - `2026` [[2026_42423814_prenatal-3-5-ghz-radiofrequency-exposure-induces-r]] — Gelenli Dolanbay E et al.
+- `2026` [[2026_42926018_biodegradable-radiopaque-polymeric-particles-for-c]] — Kovalyk X et al.
 - `2025` [[2025_39692219_effect-of-6-ghz-radiofrequency-electromagnetic-fie]] — Karamazı Y et al.
 - `2025` [[2025_40099659_the-effect-on-rat-peripheral-nerve-morphology-and]] — Hancı H et al.
 - `2025` [[2025_40413484_effects-of-non-ionizing-radiation-on-the-thyroid-g]] — Sarhad ZS et al.
@@ -470,7 +478,7 @@
 - `2001` [[2001_11520491_effects-of-radiofrequency-exposure-on-the-gabaergi]] — Mausset AL et al.
 - `1995` [[1995_8789065_biologic-effects-of-prolonged-exposure-to-elf-elec]] — Margonato V et al.
 
-## reproduction (48)
+## reproduction (49)
 
 - `2026` [[2026_41069247_assessing-the-potential-of-carbon-fibre-reinforced]] — Farindra I et al.
 - `2026` [[2026_41578890_ameliorative-role-of-coenzyme-q10-in-rf-radiation]] — Bektas H et al.
@@ -482,6 +490,7 @@
 - `2026` [[2026_42690869_effects-of-5g-frequencies-on-sperm-parameters-mati]] — Hairulazam A et al.
 - `2026` [[2026_42693069_moringa-leaf-mitigates-4g-cell-phone-radiation-ind]] — Ramalingam S, Somanath D
 - `2026` [[2026_42810696_strain-dependent-effects-of-long-term-exposure-to]] — Palone F et al.
+- `2026` [[2026_PPR1344853_cell-phone-radiofrequency-electromagnetic-radiatio]] — Beigi SAD et al.
 - `2025` [[2025_39806168_amelioration-and-immuno-modulation-by-ashwagandha]] — Gupta V, Srivastava R
 - `2025` [[2025_40002366_the-influence-of-2-45-ghz-wi-fi-exposure-duration]] — Jamaludin N et al.
 - `2025` [[2025_40086029_transcriptomic-and-metabolic-profiling-reveals-the]] — Yao B et al.
@@ -521,7 +530,7 @@
 - `2005` [[2005_15806208_biological-and-morphological-effects-on-the-reprod]] — Ozguner M et al.
 - `2004` [[2004_15064831_effects-of-60-hz-electromagnetic-field-exposure-on]] — Lee JS et al.
 
-## stress_oxydatif (99)
+## stress_oxydatif (101)
 
 - `2026` [[2026_41619885_physicochemical-rheological-and-biological-propert]] — Sáenz-Mendoza AI et al.
 - `2026` [[2026_41729317_synergistic-mitigation-of-endotoxin-induced-liver]] — Turan B et al.
@@ -535,6 +544,8 @@
 - `2026` [[2026_42708859_protective-effects-of-fushiming-against-microwave]] — Chen Y et al.
 - `2026` [[2026_42718837_swadamshtradi-rasayana-attenuates-radiofrequency-r]] — Abdul VR et al.
 - `2026` [[2026_42737802_pulsed-electromagnetic-field-exposure-attenuates-u]] — Byun KA et al.
+- `2026` [[2026_42947133_microwave-responsive-thermoelectric-microneedles-f]] — Zhang S et al.
+- `2026` [[2026_42980472_combined-radiofrequency-electromagnetic-and-pulsed]] — Elmas A et al.
 - `2025` [[2025_40005355_radiofrequency-electromagnetic-and-pulsed-magnetic]] — Balci Ç et al.
 - `2025` [[2025_40084245_radiofrequency-electromagnetic-field-nhibits-hif-1]] — Ozden ES et al.
 - `2025` [[2025_40243492_the-impact-of-9-375-ghz-microwave-radiation-on-the]] — Wang X et al.
