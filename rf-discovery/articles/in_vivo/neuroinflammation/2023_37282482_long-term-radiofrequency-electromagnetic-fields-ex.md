@@ -8,7 +8,7 @@ titre: Long-term radiofrequency electromagnetic fields exposure attenuates cogni
 url: https://pubmed.ncbi.nlm.nih.gov/37282482/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -51,6 +51,13 @@ theme_indices:
 - microglia
 - glial
 - cytokine
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -59,6 +66,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

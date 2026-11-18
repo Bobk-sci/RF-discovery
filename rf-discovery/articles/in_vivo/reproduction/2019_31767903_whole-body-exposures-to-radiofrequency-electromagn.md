@@ -8,7 +8,7 @@ titre: Whole-body exposures to radiofrequency-electromagnetic energy can cause D
 url: https://pubmed.ncbi.nlm.nih.gov/31767903/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - DNA Damage
@@ -56,6 +56,13 @@ theme_indices:
 - sperm
 - spermatozoa
 - reproductive
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -64,6 +71,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2019
 ---
 

@@ -8,7 +8,7 @@ titre: Self-reported mobile phone use and semen parameters among men from a fert
 url: https://pubmed.ncbi.nlm.nih.gov/27838386/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -62,11 +62,18 @@ theme_indices:
 - fertility
 - reproductive
 - semen quality
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2017
 ---
 

@@ -8,7 +8,7 @@ titre: 'Specific Absorption Rate in Human Eye Model Exposed to Mobile Phone Radi
 url: https://doi.org/10.21203/rs.3.rs-4355993/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -34,10 +34,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Exposure to extremely low-frequency (50 Hz) electromagnetic fields enhanc
 url: https://pubmed.ncbi.nlm.nih.gov/20816824/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antimetabolites
@@ -62,12 +62,19 @@ theme_indices:
 - synaptic plasticity
 - long-term potentiation
 - long term potentiation
+bande: bf
+bande_score: 1002.5
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/plasticite_synaptique
 - theme/neurodeveloppement
+- bande/bf
 - annee/2010
 ---
 

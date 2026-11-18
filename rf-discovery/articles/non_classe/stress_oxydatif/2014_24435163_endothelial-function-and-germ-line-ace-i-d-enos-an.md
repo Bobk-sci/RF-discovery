@@ -9,7 +9,7 @@ titre: 'Endothelial function and germ-line ACE I/D, eNOS and PAI-1 gene profiles
 url: https://pubmed.ncbi.nlm.nih.gov/24435163/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -52,10 +52,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
+- bande/rf
 - annee/2014
 ---
 

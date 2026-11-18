@@ -8,7 +8,7 @@ titre: Oxidative Stress Response of Honey Bee Colonies (<i>Apis mellifera</i> L.
 url: https://pubmed.ncbi.nlm.nih.gov/38786928/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -45,10 +45,17 @@ theme_indices:
 - catalase
 - lipid peroxidation
 - antioxidant
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
+- bande/rf
 - annee/2024
 ---
 

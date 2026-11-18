@@ -8,7 +8,7 @@ titre: Optimized Inductive Heating of a Superparamagnetic ZnxMn1-xFe2O4 Hydrophi
 url: https://pubmed.ncbi.nlm.nih.gov/41319327/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Materials Testing
 - Biocompatible Materials
@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -63,6 +69,7 @@ tags:
 - theme/thermique
 - theme/dosimetrie_exposition
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

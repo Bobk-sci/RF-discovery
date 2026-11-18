@@ -8,7 +8,7 @@ titre: 'Total Hip Arthroplasty on Tumor Treating Fields Delivery for Ovarian Car
 url: https://doi.org/10.20944/preprints202609.0196.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -36,11 +36,17 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

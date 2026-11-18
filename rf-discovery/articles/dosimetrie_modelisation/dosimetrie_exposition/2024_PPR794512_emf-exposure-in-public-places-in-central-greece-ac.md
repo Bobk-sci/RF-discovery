@@ -8,7 +8,7 @@ titre: EMF Exposure in Public Places in Central Greece. Active versus Non Active
 url: https://doi.org/10.20944/preprints202401.2045.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -35,10 +35,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

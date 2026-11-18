@@ -8,7 +8,7 @@ titre: Evaluation of non-thermal effect of microwave radiation and its mode of a
 url: https://pubmed.ncbi.nlm.nih.gov/34234197/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Bacteria
 - Escherichia coli
@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - glutathione
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -58,6 +64,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/thermique
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

@@ -8,7 +8,7 @@ titre: Advanced In Situ Nitrate Sensing and Wireless Data Transmission Prototype
 url: ''
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -36,10 +36,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - fertility
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

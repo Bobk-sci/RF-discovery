@@ -9,7 +9,7 @@ titre: Can Low-Level Exposure to Radiofrequency Fields Effect Cognitive Behaviou
 url: https://pubmed.ncbi.nlm.nih.gov/31071933/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Laboratory
@@ -55,12 +55,19 @@ theme_indices:
 - spatial learning
 - behaviour
 - spatial memory
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2019
 ---
 

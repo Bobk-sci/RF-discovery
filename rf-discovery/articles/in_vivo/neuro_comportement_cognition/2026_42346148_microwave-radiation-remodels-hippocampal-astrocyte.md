@@ -8,7 +8,7 @@ titre: Microwave Radiation Remodels Hippocampal Astrocytes Subpopulations and In
 url: https://pubmed.ncbi.nlm.nih.gov/42346148/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Astrocytes
@@ -60,12 +60,18 @@ theme_indices:
 - cognitive
 - memory
 - attention
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neuroinflammation
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

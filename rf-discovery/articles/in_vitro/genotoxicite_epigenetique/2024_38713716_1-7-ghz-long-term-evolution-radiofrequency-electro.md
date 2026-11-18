@@ -9,7 +9,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with sta
 url: https://pubmed.ncbi.nlm.nih.gov/38713716/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hela Cells
 - Animals
@@ -51,6 +51,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -58,6 +65,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

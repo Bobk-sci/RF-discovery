@@ -8,7 +8,7 @@ titre: Wireless technology is an environmental stressor requiring new understand
 url: https://pubmed.ncbi.nlm.nih.gov/36605238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Oxidative Stress
@@ -49,12 +49,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/stress_oxydatif
+- bande/rf
 - annee/2022
 ---
 

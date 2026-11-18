@@ -7,7 +7,7 @@ titre: Research progress on the application of dual energy CT in gastric disease
 url: https://pubmed.ncbi.nlm.nih.gov/42318412/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -38,10 +38,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

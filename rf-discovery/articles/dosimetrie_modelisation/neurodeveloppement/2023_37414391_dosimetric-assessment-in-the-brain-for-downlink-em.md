@@ -8,7 +8,7 @@ titre: Dosimetric assessment in the brain for downlink EMF exposure in Korean mo
 url: https://pubmed.ncbi.nlm.nih.gov/37414391/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Child
@@ -51,12 +51,22 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- MHz
+- specific absorption rate
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

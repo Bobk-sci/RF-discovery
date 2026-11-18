@@ -8,7 +8,7 @@ titre: 'Diagnostic Performance of a Combined Reflective Photoplethysmography and
 url: https://pubmed.ncbi.nlm.nih.gov/42578022/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,10 +42,15 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

@@ -7,7 +7,7 @@ titre: Effect of radiofrequency radiation on reproductive health.
 url: https://pubmed.ncbi.nlm.nih.gov/30964085/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -52,6 +52,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -61,6 +67,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

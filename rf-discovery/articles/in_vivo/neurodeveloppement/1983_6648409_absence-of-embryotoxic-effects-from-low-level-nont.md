@@ -8,7 +8,7 @@ titre: Absence of embryotoxic effects from low-level (nonthermal) exposure of ra
 url: https://pubmed.ncbi.nlm.nih.gov/6648409/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -45,12 +45,22 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1983
 ---
 

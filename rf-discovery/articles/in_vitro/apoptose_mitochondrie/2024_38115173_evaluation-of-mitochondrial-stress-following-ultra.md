@@ -8,7 +8,7 @@ titre: Evaluation of mitochondrial stress following ultraviolet radiation and 5G
 url: https://pubmed.ncbi.nlm.nih.gov/38115173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Reactive Oxygen Species
@@ -60,6 +60,14 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - membrane potential
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -67,6 +75,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

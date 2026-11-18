@@ -8,7 +8,7 @@ titre: 1.7 GHz long-term evolution radiofrequency electromagnetic field with eff
 url: https://doi.org/10.1101/2023.09.25.559414
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -37,11 +37,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vitro
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

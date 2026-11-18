@@ -8,7 +8,7 @@ titre: Biological Effects of Exposure to a Radiofrequency Electromagnetic Field 
 url: https://pubmed.ncbi.nlm.nih.gov/33527465/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - 11-beta-Hydroxysteroid Dehydrogenase Type 2
 - Animals
@@ -52,12 +52,19 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

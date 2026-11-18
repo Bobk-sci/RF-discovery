@@ -8,7 +8,7 @@ titre: Differential metabolic responses of mouse Leydig and spermatogonia cells 
 url: https://pubmed.ncbi.nlm.nih.gov/41048265/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Leydig Cells
 - Spermatogonia
@@ -55,11 +55,17 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/stress_oxydatif
+- bande/rf
 - annee/2025
 ---
 

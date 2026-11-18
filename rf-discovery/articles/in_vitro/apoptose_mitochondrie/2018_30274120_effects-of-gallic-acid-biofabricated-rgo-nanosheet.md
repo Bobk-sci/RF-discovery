@@ -8,7 +8,7 @@ titre: Effects of gallic acid biofabricated rGO nanosheets combined with radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/30274120/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Carcinoma, Renal Cell
 - Cell Line, Tumor
@@ -52,11 +52,17 @@ theme_secondaires:
 - cancer
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2018
 ---
 

@@ -8,7 +8,7 @@ titre: Effect of low-level 1800 MHz radiofrequency radiation on the rat sciati
 url: https://pubmed.ncbi.nlm.nih.gov/30328127/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electrophysiological Phenomena
@@ -57,10 +57,17 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - catalase
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2018
 ---
 

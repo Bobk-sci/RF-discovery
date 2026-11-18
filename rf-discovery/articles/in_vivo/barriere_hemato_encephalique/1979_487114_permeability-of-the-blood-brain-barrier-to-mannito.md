@@ -8,7 +8,7 @@ titre: Permeability of the blood-brain barrier to mannitol in the rat following 
 url: https://pubmed.ncbi.nlm.nih.gov/487114/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biological Transport
@@ -47,10 +47,17 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/1979
 ---
 

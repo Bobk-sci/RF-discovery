@@ -7,7 +7,7 @@ titre: The effects of electromagnetic field emitted by GSM phones on working mem
 url: https://pubmed.ncbi.nlm.nih.gov/10852216/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -44,11 +44,17 @@ theme_indices:
 - cognitive
 - memory
 - reaction time
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2000
 ---
 

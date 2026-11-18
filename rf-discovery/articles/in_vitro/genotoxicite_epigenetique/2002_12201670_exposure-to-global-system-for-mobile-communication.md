@@ -8,7 +8,7 @@ titre: Exposure to global system for mobile communication (GSM) cellular phone r
 url: https://pubmed.ncbi.nlm.nih.gov/12201670/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Cycle
 - Cell Division
@@ -48,11 +48,17 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2002
 ---
 

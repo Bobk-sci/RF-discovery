@@ -8,7 +8,7 @@ titre: The acute effects of exposure to the electromagnetic field emitted by mob
 url: https://pubmed.ncbi.nlm.nih.gov/11924872/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Attention
@@ -45,10 +45,17 @@ theme_indices:
 - cognition
 - cognitive
 - attention
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2002
 ---
 

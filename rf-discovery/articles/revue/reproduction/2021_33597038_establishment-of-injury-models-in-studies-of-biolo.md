@@ -8,7 +8,7 @@ titre: Establishment of injury models in studies of biological effects induced b
 url: https://pubmed.ncbi.nlm.nih.gov/33597038/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rabbits
@@ -52,11 +52,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2021
 ---
 

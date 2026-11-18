@@ -8,7 +8,7 @@ titre: 3D-printed GelMA-Fe-GQD magneto-hydrogel as a smart platform for triple-n
 url: https://pubmed.ncbi.nlm.nih.gov/41650811/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Triple Negative Breast Neoplasms
 - Humans
@@ -53,6 +53,11 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +65,7 @@ tags:
 - theme/thermique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

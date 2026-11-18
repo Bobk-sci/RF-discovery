@@ -8,7 +8,7 @@ titre: 'A Swiss army knife for the treatment of bone cancers: a new multifunctio
 url: https://pubmed.ncbi.nlm.nih.gov/42003487/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Copper
 - Bone Neoplasms
@@ -54,6 +54,11 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -61,6 +66,7 @@ tags:
 - theme/cancer
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

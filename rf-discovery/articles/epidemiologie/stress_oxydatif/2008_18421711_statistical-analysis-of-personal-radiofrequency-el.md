@@ -8,7 +8,7 @@ titre: Statistical analysis of personal radiofrequency electromagnetic field mea
 url: https://pubmed.ncbi.nlm.nih.gov/18421711/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Algorithms
@@ -54,11 +54,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ROS
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
+- bande/rf
 - annee/2008
 ---
 

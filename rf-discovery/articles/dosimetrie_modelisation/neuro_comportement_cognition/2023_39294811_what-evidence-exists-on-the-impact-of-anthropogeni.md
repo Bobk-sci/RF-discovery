@@ -8,7 +8,7 @@ titre: 'What evidence exists on the impact of anthropogenic radiofrequency elect
 url: https://pubmed.ncbi.nlm.nih.gov/39294811/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,6 +39,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behaviour
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -46,6 +55,7 @@ tags:
 - modele/revue
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

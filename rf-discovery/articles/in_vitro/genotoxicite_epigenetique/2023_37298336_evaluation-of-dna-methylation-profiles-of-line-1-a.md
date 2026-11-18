@@ -8,7 +8,7 @@ titre: Evaluation of DNA Methylation Profiles of LINE-1, Alu and Ribosomal DNA R
 url: https://pubmed.ncbi.nlm.nih.gov/37298336/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Humans
@@ -54,11 +54,18 @@ theme_secondaires:
 - cancer
 theme_indices:
 - DNA methylation
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2023
 ---
 

@@ -8,7 +8,7 @@ titre: Dual-Energy CT Assessment of Distal Femur Bone quality for Preventing Ear
 url: https://pubmed.ncbi.nlm.nih.gov/42092685/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,10 +39,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

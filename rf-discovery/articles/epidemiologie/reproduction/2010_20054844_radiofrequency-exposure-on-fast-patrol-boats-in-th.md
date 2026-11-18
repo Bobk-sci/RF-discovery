@@ -8,7 +8,7 @@ titre: Radiofrequency exposure on fast patrol boats in the Royal Norwegian Navy-
 url: https://pubmed.ncbi.nlm.nih.gov/20054844/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Humans
@@ -44,12 +44,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2010
 ---
 

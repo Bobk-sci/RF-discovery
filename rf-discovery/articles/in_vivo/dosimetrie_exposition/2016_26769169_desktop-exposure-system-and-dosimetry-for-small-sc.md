@@ -8,7 +8,7 @@ titre: Desktop exposure system and dosimetry for small scale in vivo radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/26769169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Computer Communication Networks
@@ -56,11 +56,20 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2016
 ---
 

@@ -8,7 +8,7 @@ titre: Compact wideband implantable antenna for wireless capsule endoscopy appli
 url: https://pubmed.ncbi.nlm.nih.gov/40835703/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Swine
@@ -50,12 +50,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

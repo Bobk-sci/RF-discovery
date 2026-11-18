@@ -8,7 +8,7 @@ titre: Evaluation of genotoxic effects in human leukocytes after in vitro exposu
 url: https://pubmed.ncbi.nlm.nih.gov/18027845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cells, Cultured
@@ -53,12 +53,20 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

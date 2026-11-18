@@ -7,7 +7,7 @@ titre: Radiofrequency-electromagnetic field exposures in kindergarten children.
 url: https://pubmed.ncbi.nlm.nih.gov/27759027/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Child, Preschool
 - Electromagnetic Fields
@@ -41,11 +41,20 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

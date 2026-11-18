@@ -8,7 +8,7 @@ titre: An ultra-miniaturized dual-band circularly polarized implantable antenna 
 url: https://pubmed.ncbi.nlm.nih.gov/42740425/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -43,11 +43,18 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

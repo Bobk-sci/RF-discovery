@@ -8,7 +8,7 @@ titre: Anticancer Effects of Plasma-Activated Medium Produced by a Microwave-Exc
 url: https://pubmed.ncbi.nlm.nih.gov/32802265/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Antineoplastic Agents
 - Argon
@@ -46,12 +46,18 @@ theme_indices:
 - apoptosis
 - cell viability
 - cell death
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2020
 ---
 

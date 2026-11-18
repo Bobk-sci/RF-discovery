@@ -8,7 +8,7 @@ titre: Tumor promotion by exposure to radiofrequency electromagnetic fields belo
 url: https://pubmed.ncbi.nlm.nih.gov/25749340/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -51,12 +51,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - modele/in_vitro
 - theme/cancer
+- bande/rf
 - annee/2015
 ---
 

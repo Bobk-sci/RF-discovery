@@ -8,7 +8,7 @@ titre: Effects of industrial, scientific, and medical (ISM) band frequency 2.45â
 url: https://pubmed.ncbi.nlm.nih.gov/41747184/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Membrane
 - Skin
@@ -52,10 +52,17 @@ theme_indices:
 - ROS
 - malondialdehyde
 - lipid peroxidation
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

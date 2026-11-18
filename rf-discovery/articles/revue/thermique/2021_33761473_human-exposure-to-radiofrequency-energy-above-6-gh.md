@@ -8,7 +8,7 @@ titre: 'Human exposure to radiofrequency energy above 6 GHz: review of computati
 url: https://pubmed.ncbi.nlm.nih.gov/33761473/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Body Temperature
 - Electromagnetic Fields
@@ -50,12 +50,19 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - body temperature
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

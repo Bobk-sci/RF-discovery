@@ -8,7 +8,7 @@ titre: Effects of Low-Intensity Microwave Radiation on Oxidant-Antioxidant Param
 url: https://pubmed.ncbi.nlm.nih.gov/33368426/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -55,6 +55,12 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - 8-OHdG
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +69,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

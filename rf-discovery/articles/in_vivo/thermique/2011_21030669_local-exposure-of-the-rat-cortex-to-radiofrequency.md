@@ -8,7 +8,7 @@ titre: Local exposure of the rat cortex to radiofrequency electromagnetic fields
 url: https://pubmed.ncbi.nlm.nih.gov/21030669/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -54,10 +54,16 @@ theme_secondaires: []
 theme_indices:
 - temperature rise
 - body temperature
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/thermique
+- bande/rf
 - annee/2011
 ---
 

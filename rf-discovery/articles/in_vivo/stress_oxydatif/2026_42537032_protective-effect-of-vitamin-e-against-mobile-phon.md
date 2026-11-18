@@ -9,7 +9,7 @@ titre: Protective Effect of Vitamin E Against Mobile Phone-Induced Oxidative Str
 url: https://pubmed.ncbi.nlm.nih.gov/42537032/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Oxidative Stress
@@ -53,11 +53,18 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - antioxidant
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neuroinflammation
+- bande/rf
 - annee/2026
 ---
 

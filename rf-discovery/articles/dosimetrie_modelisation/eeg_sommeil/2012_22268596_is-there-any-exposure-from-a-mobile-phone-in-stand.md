@@ -7,7 +7,7 @@ titre: Is there any exposure from a mobile phone in stand-by mode?
 url: https://pubmed.ncbi.nlm.nih.gov/22268596/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Environmental Exposure
@@ -36,11 +36,18 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - sleep
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/reproduction
+- bande/rf
 - annee/2012
 ---
 

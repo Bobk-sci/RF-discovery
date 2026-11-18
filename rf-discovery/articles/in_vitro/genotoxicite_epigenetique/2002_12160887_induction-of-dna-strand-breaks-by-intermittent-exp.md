@@ -8,7 +8,7 @@ titre: Induction of DNA strand breaks by intermittent exposure to extremely-low-
 url: https://pubmed.ncbi.nlm.nih.gov/12160887/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cells, Cultured
@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - DNA strand break
+bande: bf
+bande_score: 1001.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/in_vitro
@@ -64,6 +70,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
 - theme/cancer
+- bande/bf
 - annee/2002
 ---
 

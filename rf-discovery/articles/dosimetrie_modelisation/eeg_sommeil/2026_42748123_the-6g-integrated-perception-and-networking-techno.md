@@ -9,7 +9,7 @@ titre: 'The 6G integrated perception and networking technology enables the low-a
 url: https://pubmed.ncbi.nlm.nih.gov/42748123/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Carbon
@@ -39,11 +39,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - sleep
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

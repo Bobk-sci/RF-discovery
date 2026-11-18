@@ -8,7 +8,7 @@ titre: 'Radio Frequency Exposure in Military Contexts: A Narrative Review of The
 url: https://pubmed.ncbi.nlm.nih.gov/41445170/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Occupational Exposure
@@ -43,6 +43,13 @@ theme_indices:
 - heating
 - thermoregulation
 - non-thermal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -50,6 +57,7 @@ tags:
 - modele/in_vivo
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

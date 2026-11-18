@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic fields on seed germination and 
 url: https://pubmed.ncbi.nlm.nih.gov/19028599/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Germination
@@ -41,11 +41,17 @@ theme_secondaires:
 - thermique
 theme_indices:
 - spindle
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/thermique
+- bande/rf
 - annee/2009
 ---
 

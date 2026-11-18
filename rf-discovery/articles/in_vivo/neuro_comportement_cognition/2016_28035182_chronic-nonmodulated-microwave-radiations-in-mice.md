@@ -9,7 +9,7 @@ titre: Chronic Nonmodulated Microwave Radiations in Mice Produce Anxiety-like an
 url: https://pubmed.ncbi.nlm.nih.gov/28035182/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -43,6 +43,13 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -51,6 +58,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/stress_oxydatif
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2016
 ---
 

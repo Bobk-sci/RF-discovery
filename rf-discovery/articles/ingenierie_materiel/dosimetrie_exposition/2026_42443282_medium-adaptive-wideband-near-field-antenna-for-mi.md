@@ -8,7 +8,7 @@ titre: Medium-adaptive wideband near-field antenna for microwave detection of in
 url: https://pubmed.ncbi.nlm.nih.gov/42443282/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,11 +44,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

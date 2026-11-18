@@ -8,7 +8,7 @@ titre: Short-term effects of extremely low frequency electromagnetic fields expo
 url: https://pubmed.ncbi.nlm.nih.gov/25118893/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alzheimer Disease
 - Amyloid beta-Peptides
@@ -59,11 +59,19 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/genotoxicite_epigenetique
+- bande/bf
 - annee/2015
 ---
 

@@ -9,7 +9,7 @@ titre: '[The effects of prenatal radiation of mobile phones on white matter in c
 url: https://pubmed.ncbi.nlm.nih.gov/32476377/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -54,11 +54,18 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/neuroinflammation
+- bande/rf
 - annee/2020
 ---
 

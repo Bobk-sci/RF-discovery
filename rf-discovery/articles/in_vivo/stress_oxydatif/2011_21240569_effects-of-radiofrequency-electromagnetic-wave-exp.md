@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic wave exposure from cellular pho
 url: https://pubmed.ncbi.nlm.nih.gov/21240569/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Cycle
@@ -54,6 +54,13 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +68,7 @@ tags:
 - theme/stress_oxydatif
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

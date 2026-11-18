@@ -8,7 +8,7 @@ titre: 'Workgroup report: base stations and wireless networks-radiofrequency (RF
 url: https://pubmed.ncbi.nlm.nih.gov/17431492/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -41,12 +41,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - modele/epidemiologie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2007
 ---
 

@@ -9,7 +9,7 @@ titre: Radiofrequency Fields at 2.45 GHz Reprogram Mitochondria-Lysosome Crossta
 url: https://pubmed.ncbi.nlm.nih.gov/42123398/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Lysosomes
 - Mitochondria
@@ -64,12 +64,19 @@ theme_indices:
 - mitochondrial
 - mitochondria
 - cell death
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

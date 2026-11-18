@@ -12,6 +12,9 @@ Puis, pour chaque désaccord, propose les explications que les fiches permettent
 réellement d'examiner :
 
 - modèle d'étude différent (in vivo / in vitro / humain) ;
+- **bande différente** : une étude `bande: bf` (50/60 Hz, induction, champ induit en V/m)
+  et une étude `bande: rf` (absorption, SAR en W/kg) ne se contredisent pas — elles ne
+  mesurent pas la même physique. Vérifie ce champ avant de parler de désaccord ;
 - fréquence, modulation, SAR ou durée d'exposition différents ;
 - moment de l'exposition (prénatal, juvénile, adulte) ;
 - absence ou présence d'un groupe sham ;

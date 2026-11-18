@@ -7,7 +7,7 @@ titre: Decisional style, sleepiness, and online responsiveness.
 url: https://pubmed.ncbi.nlm.nih.gov/38006288/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Male
@@ -51,11 +51,17 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Impact of Pretreatments on the Reduction of Allyl Isothiocyanate (AITC) C
 url: ''
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -32,10 +32,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

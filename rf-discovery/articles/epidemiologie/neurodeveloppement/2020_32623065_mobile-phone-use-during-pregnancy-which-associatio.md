@@ -7,7 +7,7 @@ titre: 'Mobile phone use during pregnancy: Which association with fetal growth?'
 url: https://pubmed.ncbi.nlm.nih.gov/32623065/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Apgar Score
@@ -62,11 +62,17 @@ theme_indices:
 - pregnancy
 - fetal
 - children
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/2020
 ---
 

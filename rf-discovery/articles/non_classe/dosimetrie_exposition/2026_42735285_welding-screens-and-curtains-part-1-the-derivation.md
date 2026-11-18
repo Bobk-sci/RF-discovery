@@ -7,7 +7,7 @@ titre: 'Welding screens and curtains: Part 1-the derivation of transmittance req
 url: https://pubmed.ncbi.nlm.nih.gov/42735285/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -35,10 +35,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - exposure limit
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

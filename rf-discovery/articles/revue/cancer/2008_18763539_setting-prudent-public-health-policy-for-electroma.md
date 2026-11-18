@@ -7,7 +7,7 @@ titre: Setting prudent public health policy for electromagnetic field exposures.
 url: https://pubmed.ncbi.nlm.nih.gov/18763539/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain Neoplasms
 - Electromagnetic Fields
@@ -43,11 +43,16 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - leukemia
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2008
 ---
 

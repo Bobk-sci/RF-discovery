@@ -7,7 +7,7 @@ titre: 'Headaches from cellular telephones: are they real and what are the impli
 url: https://pubmed.ncbi.nlm.nih.gov/9441959/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Blood-Brain Barrier
 - Brain Chemistry
@@ -36,10 +36,16 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/1998
 ---
 

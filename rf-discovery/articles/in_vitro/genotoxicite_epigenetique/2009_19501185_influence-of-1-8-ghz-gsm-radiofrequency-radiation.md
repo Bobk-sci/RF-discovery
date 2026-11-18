@@ -8,7 +8,7 @@ titre: Influence of 1.8-GHz (GSM) radiofrequency radiation (RFR) on DNA damage a
 url: https://pubmed.ncbi.nlm.nih.gov/19501185/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Comet Assay
 - DNA Damage
@@ -47,11 +47,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2009
 ---
 

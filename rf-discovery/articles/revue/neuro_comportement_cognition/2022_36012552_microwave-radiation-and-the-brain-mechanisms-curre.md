@@ -8,7 +8,7 @@ titre: 'Microwave Radiation and the Brain: Mechanisms, Current Status, and Futur
 url: https://pubmed.ncbi.nlm.nih.gov/36012552/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Prospective Studies
@@ -52,6 +52,11 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning and memory
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
@@ -59,6 +64,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

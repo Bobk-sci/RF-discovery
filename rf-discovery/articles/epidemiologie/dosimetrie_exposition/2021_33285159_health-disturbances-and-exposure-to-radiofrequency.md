@@ -8,7 +8,7 @@ titre: Health disturbances and exposure to radiofrequency electromagnetic fields
 url: https://pubmed.ncbi.nlm.nih.gov/33285159/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cities
@@ -55,11 +55,19 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - base station
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/dosimetrie_exposition
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

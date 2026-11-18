@@ -8,7 +8,7 @@ titre: The protective effect of melatonin on radiofrequency electromagnetic fiel
 url: https://pubmed.ncbi.nlm.nih.gov/33040351/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -54,12 +54,20 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

@@ -8,7 +8,7 @@ titre: Towards Environmental RF-EMF Assessment of mmWave High-Node Density Compl
 url: https://pubmed.ncbi.nlm.nih.gov/34960513/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Communication
 - Electromagnetic Fields
@@ -50,11 +50,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - compliance
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

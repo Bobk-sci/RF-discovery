@@ -8,7 +8,7 @@ titre: Early-life exposure to 27.5 GHz 5G millimeter-wave radiation induces ski
 url: https://pubmed.ncbi.nlm.nih.gov/42260123/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Mast Cells
 - Skin
@@ -63,11 +63,19 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - glutamate
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/plasticite_synaptique
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2026
 ---
 

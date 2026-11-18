@@ -7,7 +7,7 @@ titre: Electromagnetic field exposures and childhood leukaemia in New Zealand.
 url: https://pubmed.ncbi.nlm.nih.gov/10622301/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Case-Control Studies
 - Child
@@ -51,11 +51,17 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/cancer
+- bande/bf
 - annee/1999
 ---
 

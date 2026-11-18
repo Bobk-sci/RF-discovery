@@ -9,7 +9,7 @@ titre: 'The biological effects of radiofrequency radiation: a critical review an
 url: https://pubmed.ncbi.nlm.nih.gov/3528012/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -52,12 +52,18 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - behavior
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/reproduction
+- bande/rf
 - annee/1986
 ---
 

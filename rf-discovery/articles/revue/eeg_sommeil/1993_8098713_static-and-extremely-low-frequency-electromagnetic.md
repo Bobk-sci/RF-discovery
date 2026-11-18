@@ -8,7 +8,7 @@ titre: 'Static and extremely low frequency electromagnetic field exposure: repor
 url: https://pubmed.ncbi.nlm.nih.gov/8098713/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acetylserotonin O-Methyltransferase
 - Animals
@@ -51,12 +51,21 @@ theme_secondaires:
 theme_indices:
 - melatonin
 - circadian
+bande: bf
+bande_score: 1003.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- 60 Hz
+- static magnetic field
+- geomagnetic field
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/eeg_sommeil
 - theme/plasticite_synaptique
+- bande/bf
 - annee/1993
 ---
 

@@ -8,7 +8,7 @@ titre: Teratogenic effects of exposure to radiofrequency radiation (27.12 MHz) f
 url: https://pubmed.ncbi.nlm.nih.gov/3283078/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Multiple
 - Abnormalities, Radiation-Induced
@@ -46,11 +46,18 @@ theme_secondaires:
 - thermique
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/1988
 ---
 

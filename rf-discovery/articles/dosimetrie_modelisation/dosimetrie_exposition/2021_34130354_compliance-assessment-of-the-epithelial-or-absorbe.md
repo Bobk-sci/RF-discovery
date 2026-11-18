@@ -8,7 +8,7 @@ titre: Compliance Assessment of the Epithelial or Absorbed Power Density Below 1
 url: https://pubmed.ncbi.nlm.nih.gov/34130354/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Algorithms
 - Electromagnetic Fields
@@ -46,10 +46,17 @@ theme_indices:
 - specific absorption rate
 - power density
 - compliance
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

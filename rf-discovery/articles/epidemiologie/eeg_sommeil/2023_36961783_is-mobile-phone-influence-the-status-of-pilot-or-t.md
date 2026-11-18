@@ -7,7 +7,7 @@ titre: Is mobile phone influence the status of pilot or the flight safety?
 url: https://pubmed.ncbi.nlm.nih.gov/36961783/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Mobile Applications
 - Video Games
@@ -34,10 +34,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

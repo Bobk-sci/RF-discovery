@@ -8,7 +8,7 @@ titre: Radiofrequency (microwave) radiation exposure of mammalian cells during U
 url: https://pubmed.ncbi.nlm.nih.gov/3575655/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - DNA
@@ -46,12 +46,22 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1987
 ---
 

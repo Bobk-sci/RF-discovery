@@ -8,7 +8,7 @@ titre: A Distributed 4-Port Hilbert Slot MIMO Antenna with Full-Body Phantom Val
 url: https://pubmed.ncbi.nlm.nih.gov/42740124/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -46,12 +46,20 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

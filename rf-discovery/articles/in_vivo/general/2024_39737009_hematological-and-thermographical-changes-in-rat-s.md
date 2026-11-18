@@ -8,7 +8,7 @@ titre: Hematological and thermographical changes in rat's model exposed to long-
 url: https://pubmed.ncbi.nlm.nih.gov/39737009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -40,10 +40,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2024
 ---
 

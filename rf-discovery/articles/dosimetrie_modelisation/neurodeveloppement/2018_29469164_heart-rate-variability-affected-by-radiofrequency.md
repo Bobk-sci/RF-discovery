@@ -8,7 +8,7 @@ titre: Heart rate variability affected by radiofrequency electromagnetic field i
 url: https://pubmed.ncbi.nlm.nih.gov/29469164/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Electromagnetic Fields
@@ -49,12 +49,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

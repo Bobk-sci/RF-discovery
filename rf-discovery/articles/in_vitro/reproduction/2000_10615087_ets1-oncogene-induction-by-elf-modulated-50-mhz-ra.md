@@ -8,7 +8,7 @@ titre: Ets1 oncogene induction by ELF-modulated 50 MHz radiofrequency electromag
 url: https://pubmed.ncbi.nlm.nih.gov/10615087/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -64,6 +64,13 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+bande: mixte
+bande_score: 5.0
+bande_secondaires:
+- rf
+bande_indices:
+- ELF-modulated
+- ELF modulated
 tags:
 - rf
 - modele/in_vitro
@@ -72,6 +79,8 @@ tags:
 - theme/reproduction
 - theme/cancer
 - theme/genotoxicite_epigenetique
+- bande/mixte
+- bande/rf
 - annee/2000
 ---
 

@@ -8,7 +8,7 @@ titre: Characterising core body temperature response of free-moving C57BL/6 mice
 url: https://pubmed.ncbi.nlm.nih.gov/39402826/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Mice, Inbred C57BL
@@ -50,10 +50,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - body temperature
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Applying machine learning to smartphone based cognitive and sleep assessm
 url: https://pubmed.ncbi.nlm.nih.gov/34934638/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,11 +39,17 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2022
 ---
 

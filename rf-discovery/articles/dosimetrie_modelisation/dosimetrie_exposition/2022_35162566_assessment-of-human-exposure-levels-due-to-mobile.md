@@ -7,7 +7,7 @@ titre: Assessment of Human Exposure Levels Due to Mobile Phone Antennas in 5G Ne
 url: https://pubmed.ncbi.nlm.nih.gov/35162566/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Computers, Handheld
@@ -48,10 +48,18 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

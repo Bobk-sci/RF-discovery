@@ -8,7 +8,7 @@ titre: Viability and phagocytosis of neutrophils exposed in vitro to 100-MHz rad
 url: https://pubmed.ncbi.nlm.nih.gov/3977968/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Survival
@@ -40,11 +40,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/thermique
+- bande/rf
 - annee/1985
 ---
 

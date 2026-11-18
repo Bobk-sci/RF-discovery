@@ -7,7 +7,7 @@ titre: Health effects of Radiofrequency Electromagnetic Fields (RF EMF).
 url: https://pubmed.ncbi.nlm.nih.gov/31378769/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Carcinogenesis
 - Cell Phone
@@ -34,10 +34,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - carcinogenesis
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2019
 ---
 

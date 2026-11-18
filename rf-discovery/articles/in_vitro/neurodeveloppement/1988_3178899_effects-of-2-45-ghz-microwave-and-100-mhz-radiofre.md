@@ -8,7 +8,7 @@ titre: Effects of 2.45-GHz microwave and 100-MHz radiofrequency radiation on lip
 url: https://pubmed.ncbi.nlm.nih.gov/3178899/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cytarabine
 - Drug Carriers
@@ -42,10 +42,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - fetal
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/neurodeveloppement
+- bande/rf
 - annee/1988
 ---
 

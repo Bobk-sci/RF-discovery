@@ -8,7 +8,7 @@ titre: Effects of continuous low-level exposure to radiofrequency radiation on i
 url: https://pubmed.ncbi.nlm.nih.gov/3759462/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -50,12 +50,20 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1986
 ---
 

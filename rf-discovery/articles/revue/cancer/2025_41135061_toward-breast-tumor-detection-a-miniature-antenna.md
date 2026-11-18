@@ -8,7 +8,7 @@ titre: 'Toward Breast Tumor Detection: A Miniature Antenna for Industrial, Scien
 url: https://pubmed.ncbi.nlm.nih.gov/41135061/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Breast Neoplasms
@@ -43,6 +43,12 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -50,6 +56,7 @@ tags:
 - theme/cancer
 - theme/dosimetrie_exposition
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

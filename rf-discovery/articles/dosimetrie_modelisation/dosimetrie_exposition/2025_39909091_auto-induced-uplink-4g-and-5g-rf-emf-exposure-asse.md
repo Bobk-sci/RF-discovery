@@ -8,7 +8,7 @@ titre: Auto-induced uplink 4G and 5G RF-EMF exposure assessment using a network 
 url: https://pubmed.ncbi.nlm.nih.gov/39909091/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -58,10 +58,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

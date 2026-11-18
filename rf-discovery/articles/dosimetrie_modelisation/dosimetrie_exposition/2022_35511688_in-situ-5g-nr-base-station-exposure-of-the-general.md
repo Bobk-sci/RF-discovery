@@ -8,7 +8,7 @@ titre: 'IN-SITU 5G NR BASE STATION EXPOSURE OF THE GENERAL PUBLIC: COMPARISON OF
 url: https://pubmed.ncbi.nlm.nih.gov/35511688/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electricity
@@ -45,10 +45,16 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

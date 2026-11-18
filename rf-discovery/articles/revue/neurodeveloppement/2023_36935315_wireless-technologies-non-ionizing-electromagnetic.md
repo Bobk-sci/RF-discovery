@@ -8,7 +8,7 @@ titre: 'Wireless technologies, non-ionizing electromagnetic fields and children:
 url: https://pubmed.ncbi.nlm.nih.gov/36935315/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Physical Examination
@@ -53,6 +53,11 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
@@ -60,6 +65,7 @@ tags:
 - modele/humain_experimental
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/2023
 ---
 

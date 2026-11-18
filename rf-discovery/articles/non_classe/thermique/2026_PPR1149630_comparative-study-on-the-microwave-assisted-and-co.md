@@ -8,7 +8,7 @@ titre: Comparative Study on the Microwave-Assisted and Conventional Dyeing of Po
 url: https://doi.org/10.20944/preprints202511.0485.v3
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -30,10 +30,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

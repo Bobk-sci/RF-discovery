@@ -8,7 +8,7 @@ titre: A Facile and Microwave-assisted Rapid Synthesis of 2-Arylamino-4-(3'-indo
 url: https://pubmed.ncbi.nlm.nih.gov/27338299/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Antineoplastic Agents
 - Apoptosis
@@ -60,11 +60,17 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - mitochondrial
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2017
 ---
 

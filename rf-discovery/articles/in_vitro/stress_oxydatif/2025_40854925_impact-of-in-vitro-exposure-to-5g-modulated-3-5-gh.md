@@ -8,7 +8,7 @@ titre: Impact of in vitro exposure to 5G-modulated 3.5 GHz fields on oxidative 
 url: https://pubmed.ncbi.nlm.nih.gov/40854925/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Fibroblasts
@@ -70,6 +70,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -77,6 +84,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

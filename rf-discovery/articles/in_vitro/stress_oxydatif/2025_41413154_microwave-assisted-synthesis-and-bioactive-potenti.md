@@ -8,7 +8,7 @@ titre: Microwave assisted synthesis and bioactive potential of folic acid functi
 url: https://pubmed.ncbi.nlm.nih.gov/41413154/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Tellurium
@@ -55,11 +55,17 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - antioxidant
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

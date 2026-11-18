@@ -8,7 +8,7 @@ titre: 'Prevention of dementia using mobile phone applications (PRODEMOS): proto
 url: https://pubmed.ncbi.nlm.nih.gov/34108173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aged
 - Cell Phone
@@ -74,10 +74,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2021
 ---
 

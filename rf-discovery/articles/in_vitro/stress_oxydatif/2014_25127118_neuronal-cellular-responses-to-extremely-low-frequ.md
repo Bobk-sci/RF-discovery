@@ -8,7 +8,7 @@ titre: 'Neuronal cellular responses to extremely low frequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/25127118/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Catalase
 - Cell Line, Tumor
@@ -58,6 +58,14 @@ theme_indices:
 - catalase
 - antioxidant
 - nitric oxide
+bande: bf
+bande_score: 1003.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
+- 60 Hz
 tags:
 - rf
 - modele/in_vitro
@@ -67,6 +75,7 @@ tags:
 - theme/cancer
 - theme/neuro_comportement_cognition
 - theme/neuroinflammation
+- bande/bf
 - annee/2014
 ---
 

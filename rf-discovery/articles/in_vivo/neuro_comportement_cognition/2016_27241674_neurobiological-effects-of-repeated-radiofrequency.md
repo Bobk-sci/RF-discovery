@@ -8,7 +8,7 @@ titre: Neurobiological effects of repeated radiofrequency exposures in male sene
 url: https://pubmed.ncbi.nlm.nih.gov/27241674/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Aging
@@ -62,6 +62,14 @@ theme_indices:
 - behavior
 - locomotor activity
 - spatial memory
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -69,6 +77,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2016
 ---
 

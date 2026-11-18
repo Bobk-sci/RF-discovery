@@ -8,7 +8,7 @@ titre: Melatonin attenuates radiofrequency radiation (900 MHz)-induced oxidative
 url: https://pubmed.ncbi.nlm.nih.gov/29562845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -60,6 +60,12 @@ theme_indices:
 - oxidative stress
 - superoxide dismutase
 - glutathione
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +74,7 @@ tags:
 - theme/reproduction
 - theme/eeg_sommeil
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2018
 ---
 

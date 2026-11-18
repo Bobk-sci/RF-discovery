@@ -8,7 +8,7 @@ titre: Long term and excessive use of 900 MHz radiofrequency radiation alter mic
 url: https://pubmed.ncbi.nlm.nih.gov/25529971/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alzheimer Disease
 - Animals
@@ -56,6 +56,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - microRNA
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +70,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

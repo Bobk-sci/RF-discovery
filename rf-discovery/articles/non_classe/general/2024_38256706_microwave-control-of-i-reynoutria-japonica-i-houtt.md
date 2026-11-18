@@ -8,7 +8,7 @@ titre: Microwave Control of <i>Reynoutria japonica</i> Houtt., Including Ecotoxi
 url: https://pubmed.ncbi.nlm.nih.gov/38256706/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -39,10 +39,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2024
 ---
 

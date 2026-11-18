@@ -8,7 +8,7 @@ titre: 'Extended Validity of Hematocrit for Dual-energy CT Extracellular Volume 
 url: https://pubmed.ncbi.nlm.nih.gov/41615383/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Liver Cirrhosis
@@ -53,10 +53,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - child
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2026
 ---
 

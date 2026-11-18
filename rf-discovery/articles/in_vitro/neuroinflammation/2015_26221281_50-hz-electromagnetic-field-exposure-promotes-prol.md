@@ -8,7 +8,7 @@ titre: 50 Hz electromagnetic field exposure promotes proliferation and cytokine 
 url: https://pubmed.ncbi.nlm.nih.gov/26221281/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,12 +45,19 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - cytokine
+bande: bf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
+- bande/bf
 - annee/2015
 ---
 

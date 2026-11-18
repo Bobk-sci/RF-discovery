@@ -9,7 +9,7 @@ titre: Rapid start-up of carbon-free H<sub>2</sub> production by ammonia oxidati
 url: https://pubmed.ncbi.nlm.nih.gov/39108704/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -37,10 +37,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2024
 ---
 

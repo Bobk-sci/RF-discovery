@@ -8,7 +8,7 @@ titre: Radiofrequency electromagnetic radiation-induced behavioral changes and t
 url: https://pubmed.ncbi.nlm.nih.gov/31463749/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Anxiety
@@ -62,6 +62,12 @@ theme_indices:
 - learning and memory
 - anxiety
 - behavior
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -69,6 +75,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/barriere_hemato_encephalique
 - theme/thermique
+- bande/rf
 - annee/2019
 ---
 

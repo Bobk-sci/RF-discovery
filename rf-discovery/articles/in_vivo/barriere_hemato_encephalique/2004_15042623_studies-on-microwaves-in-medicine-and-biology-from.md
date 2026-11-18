@@ -7,7 +7,7 @@ titre: 'Studies on microwaves in medicine and biology: from snails to humans.'
 url: https://pubmed.ncbi.nlm.nih.gov/15042623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Action Potentials
 - Animals
@@ -42,11 +42,17 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
 - theme/thermique
+- bande/rf
 - annee/2004
 ---
 

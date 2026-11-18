@@ -9,7 +9,7 @@ titre: Changes in the histopathology and in the proteins related to the MAPK pat
 url: https://pubmed.ncbi.nlm.nih.gov/36374647/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Pregnancy
 - Rats
@@ -62,12 +62,19 @@ theme_indices:
 - brain development
 - pregnancy
 - fetal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2022
 ---
 

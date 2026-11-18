@@ -8,7 +8,7 @@ titre: The effects of radiofrequency radiation on male reproductive health and p
 url: https://pubmed.ncbi.nlm.nih.gov/40108785/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Spermatozoa
@@ -56,6 +56,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -65,6 +72,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

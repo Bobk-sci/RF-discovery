@@ -8,7 +8,7 @@ titre: 1800 MHz mobile phone irradiation induced oxidative and nitrosative str
 url: https://pubmed.ncbi.nlm.nih.gov/29637556/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Seminiferous Tubules
@@ -70,6 +70,12 @@ theme_indices:
 - antioxidant
 - nitric oxide
 - redox
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -77,6 +83,7 @@ tags:
 - theme/reproduction
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2018
 ---
 

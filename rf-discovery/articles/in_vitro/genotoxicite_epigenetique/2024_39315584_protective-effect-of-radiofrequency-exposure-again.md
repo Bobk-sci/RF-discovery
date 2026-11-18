@@ -9,7 +9,7 @@ titre: 'Protective effect of radiofrequency exposure against menadione-induced o
 url: https://pubmed.ncbi.nlm.nih.gov/39315584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Vitamin K 3
@@ -61,6 +61,13 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - heat shock protein
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -69,6 +76,7 @@ tags:
 - theme/stress_oxydatif
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

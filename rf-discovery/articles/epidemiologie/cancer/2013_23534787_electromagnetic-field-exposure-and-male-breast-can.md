@@ -8,7 +8,7 @@ titre: 'Electromagnetic field exposure and male breast cancer risk: a meta-analy
 url: https://pubmed.ncbi.nlm.nih.gov/23534787/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Breast Neoplasms, Male
 - Case-Control Studies
@@ -52,12 +52,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cancer risk
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/cancer
+- bande/rf
 - annee/2013
 ---
 

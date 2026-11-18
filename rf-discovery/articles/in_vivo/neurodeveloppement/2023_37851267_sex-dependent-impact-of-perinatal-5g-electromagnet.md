@@ -8,7 +8,7 @@ titre: Sex-dependent impact of perinatal 5G electromagnetic field exposure in th
 url: https://pubmed.ncbi.nlm.nih.gov/37851267/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -59,6 +59,14 @@ theme_indices:
 - perinatal
 - pregnancy
 - adolescent
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +74,7 @@ tags:
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

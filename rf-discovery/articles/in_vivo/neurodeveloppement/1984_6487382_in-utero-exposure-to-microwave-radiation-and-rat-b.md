@@ -7,7 +7,7 @@ titre: In utero exposure to microwave radiation and rat brain development.
 url: https://pubmed.ncbi.nlm.nih.gov/6487382/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -48,12 +48,20 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1984
 ---
 

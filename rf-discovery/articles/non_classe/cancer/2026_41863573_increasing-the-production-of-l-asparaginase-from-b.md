@@ -8,7 +8,7 @@ titre: Increasing the Production of L-Asparaginase From Bacillus Licheniformis b
 url: https://pubmed.ncbi.nlm.nih.gov/41863573/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Ethyl Methanesulfonate
 - Asparaginase
@@ -41,10 +41,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - carcinogenic
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

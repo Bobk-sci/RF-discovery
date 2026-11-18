@@ -8,7 +8,7 @@ titre: Low-profile conformal triple-band textile antenna using conductive fabric
 url: https://pubmed.ncbi.nlm.nih.gov/42303738/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -39,11 +39,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

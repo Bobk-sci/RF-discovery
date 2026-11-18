@@ -7,7 +7,7 @@ titre: Molecular responses of Jurkat T-cells to 1763 MHz radiofrequency radiatio
 url: https://pubmed.ncbi.nlm.nih.gov/18821387/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cattle
@@ -50,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - gene expression
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -58,6 +66,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

@@ -9,7 +9,7 @@ titre: 'Conflicting views in experimental carcinogenesis: a commentary on design
 url: https://pubmed.ncbi.nlm.nih.gov/42527916/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Neoplasms, Radiation-Induced
@@ -52,12 +52,19 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - schwannoma
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

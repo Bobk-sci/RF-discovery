@@ -8,7 +8,7 @@ titre: Exposure to 1800 MHz radiofrequency electromagnetic radiation induces oxi
 url: https://pubmed.ncbi.nlm.nih.gov/23333639/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -65,6 +65,12 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - antioxidant
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -72,6 +78,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2013
 ---
 

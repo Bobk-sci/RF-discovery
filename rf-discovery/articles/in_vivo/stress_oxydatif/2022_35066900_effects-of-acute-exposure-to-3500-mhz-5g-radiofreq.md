@@ -8,7 +8,7 @@ titre: Effects of Acute Exposure to 3500 MHz (5G) Radiofrequency Electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/35066900/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -60,6 +60,14 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 8.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +76,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

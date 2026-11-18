@@ -7,7 +7,7 @@ titre: On radar and radio exposure and cancer in the military setting.
 url: https://pubmed.ncbi.nlm.nih.gov/36279918/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Young Adult
@@ -49,12 +49,19 @@ theme_secondaires:
 theme_indices:
 - cancer risk
 - IARC
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

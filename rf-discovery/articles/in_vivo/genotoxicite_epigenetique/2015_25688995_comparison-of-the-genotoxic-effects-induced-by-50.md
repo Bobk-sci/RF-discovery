@@ -9,7 +9,7 @@ titre: Comparison of the genotoxic effects induced by 50 Hz extremely low-freque
 url: https://pubmed.ncbi.nlm.nih.gov/25688995/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Survival
@@ -59,6 +59,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: bf
+bande_score: 1003.5
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +76,8 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/bf
+- bande/rf
 - annee/2015
 ---
 

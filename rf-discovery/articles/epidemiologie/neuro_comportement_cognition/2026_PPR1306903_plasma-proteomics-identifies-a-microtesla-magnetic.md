@@ -8,7 +8,7 @@ titre: Plasma Proteomics Identifies a Microtesla Magnetic Therapy Response Signa
 url: https://doi.org/10.64898/2026.08.25.26361319
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -37,11 +37,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

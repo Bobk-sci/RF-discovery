@@ -7,7 +7,7 @@ titre: Effect of short duration electromagnetic field exposures on rat mass.
 url: https://pubmed.ncbi.nlm.nih.gov/11793400/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Achilles Tendon
 - Animals
@@ -46,10 +46,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 60 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/bf
 - annee/2002
 ---
 

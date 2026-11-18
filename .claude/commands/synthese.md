@@ -13,6 +13,12 @@ Méthode :
 2. Lis les fiches retenues — le résumé y est recopié mot pour mot depuis la source.
 3. Organise la synthèse **par modèle d'étude** : in vivo, in vitro, épidémiologie, humain
    expérimental. Les niveaux de preuve ne se mélangent pas.
+3 bis. **Vérifie le champ `bande` de chaque fiche.** Sous ~100 kHz (`bande: bf`) le champ
+   agit par induction et peut dépolariser une membrane ; au-dessus (`bande: rf`) la
+   membrane est court-circuitée et le mécanisme dominant est l'absorption, donc
+   l'échauffement. Les dosimétries — champ induit en V/m contre SAR en W/kg — ne se
+   convertissent pas. N'agrège jamais les deux dans un même constat : traite les fiches
+   `bf`, `intermediaire` et `mixte` à part, ou dis que tu les as écartées et pourquoi.
 4. Pour chaque affirmation, cite le PMID entre parenthèses. Une affirmation sans PMID est
    interdite.
 5. Termine par : le nombre de fiches lues, les désaccords entre études, et ce que le

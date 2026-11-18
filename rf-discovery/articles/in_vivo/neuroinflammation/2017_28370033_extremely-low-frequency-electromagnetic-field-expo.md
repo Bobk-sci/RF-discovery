@@ -8,7 +8,7 @@ titre: Extremely low-frequency electromagnetic field exposure enhances inflammat
 url: https://pubmed.ncbi.nlm.nih.gov/28370033/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -64,12 +64,20 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - inflammatory response
+bande: bf
+bande_score: 1003.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 60 Hz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/neuroinflammation
 - theme/stress_oxydatif
+- bande/bf
 - annee/2017
 ---
 

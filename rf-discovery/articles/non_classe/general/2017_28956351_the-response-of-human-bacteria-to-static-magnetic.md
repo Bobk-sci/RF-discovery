@@ -8,7 +8,7 @@ titre: The response of human bacteria to static magnetic field and radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/28956351/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Bacteria
 - Cell Phone
@@ -50,10 +50,20 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- bf
+- rf
+bande_indices:
+- magnetic field and radiofrequency (descripteur décisif)
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/mixte
+- bande/bf
+- bande/rf
 - annee/2017
 ---
 

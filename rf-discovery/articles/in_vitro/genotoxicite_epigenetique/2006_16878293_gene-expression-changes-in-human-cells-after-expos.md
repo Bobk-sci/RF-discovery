@@ -7,7 +7,7 @@ titre: Gene expression changes in human cells after exposure to mobile phone mic
 url: https://pubmed.ncbi.nlm.nih.gov/16878293/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Cell Phone
@@ -58,11 +58,19 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2006
 ---
 

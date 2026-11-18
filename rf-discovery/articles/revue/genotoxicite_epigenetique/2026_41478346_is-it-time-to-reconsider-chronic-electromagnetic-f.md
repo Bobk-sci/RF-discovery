@@ -8,7 +8,7 @@ titre: Is it time to reconsider chronic electromagnetic field exposure as a poss
 url: https://pubmed.ncbi.nlm.nih.gov/41478346/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -51,6 +51,11 @@ theme_indices:
 - DNA damage
 - micronucleus
 - epigenetic
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -60,6 +65,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

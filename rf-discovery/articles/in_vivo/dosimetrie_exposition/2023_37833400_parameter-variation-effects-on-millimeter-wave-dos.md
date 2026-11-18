@@ -8,7 +8,7 @@ titre: Parameter variation effects on millimeter wave dosimetry based on precise
 url: https://pubmed.ncbi.nlm.nih.gov/37833400/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Male
 - Animals
@@ -48,11 +48,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

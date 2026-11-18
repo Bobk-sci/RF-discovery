@@ -8,7 +8,7 @@ titre: Exposure to Radiofrequency Induces Synaptic Dysfunction in Cortical Neuro
 url: https://pubmed.ncbi.nlm.nih.gov/39201275/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Mice
@@ -65,6 +65,14 @@ theme_indices:
 - memory
 - learning and memory
 - spatial learning
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -73,6 +81,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

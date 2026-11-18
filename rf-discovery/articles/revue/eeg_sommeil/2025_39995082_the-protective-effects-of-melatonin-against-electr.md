@@ -8,7 +8,7 @@ titre: 'The protective effects of melatonin against electromagnetic waves of cel
 url: https://pubmed.ncbi.nlm.nih.gov/39995082/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -51,6 +51,10 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - melatonin
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
@@ -59,6 +63,7 @@ tags:
 - theme/stress_oxydatif
 - theme/reproduction
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

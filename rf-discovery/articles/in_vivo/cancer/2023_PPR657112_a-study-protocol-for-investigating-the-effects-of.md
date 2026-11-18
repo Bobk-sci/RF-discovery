@@ -8,7 +8,7 @@ titre: A study protocol for investigating the effects of mobile phone-originated
 url: https://doi.org/10.12688/f1000research.129735.2
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -38,6 +38,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - carcinogenic
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -45,6 +51,7 @@ tags:
 - theme/cancer
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

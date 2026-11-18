@@ -8,7 +8,7 @@ titre: Comparison of personal radio frequency electromagnetic field exposure in 
 url: https://pubmed.ncbi.nlm.nih.gov/20638656/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -49,10 +49,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ROS
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
+- bande/rf
 - annee/2010
 ---
 

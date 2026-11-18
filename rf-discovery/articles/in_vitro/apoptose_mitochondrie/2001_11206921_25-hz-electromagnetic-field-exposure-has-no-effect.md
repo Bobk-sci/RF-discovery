@@ -8,7 +8,7 @@ titre: 25 Hz electromagnetic field exposure has no effect on cell cycle distribu
 url: https://pubmed.ncbi.nlm.nih.gov/11206921/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Cell Cycle
@@ -46,11 +46,18 @@ theme_secondaires:
 - cancer
 theme_indices:
 - apoptosis
+bande: bf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/bf
 - annee/2001
 ---
 

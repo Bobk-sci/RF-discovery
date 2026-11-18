@@ -8,7 +8,7 @@ titre: 'Radiofrequency electromagnetic field exposure and risk perception: A pil
 url: https://pubmed.ncbi.nlm.nih.gov/30690250/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Australia
@@ -54,11 +54,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2019
 ---
 

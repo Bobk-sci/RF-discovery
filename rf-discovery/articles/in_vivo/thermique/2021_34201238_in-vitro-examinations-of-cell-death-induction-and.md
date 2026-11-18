@@ -8,7 +8,7 @@ titre: In Vitro Examinations of Cell Death Induction and the Immune Phenotype of
 url: https://pubmed.ncbi.nlm.nih.gov/34201238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -62,6 +62,13 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -69,6 +76,7 @@ tags:
 - theme/thermique
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2021
 ---
 

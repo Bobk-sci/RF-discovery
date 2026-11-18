@@ -9,7 +9,7 @@ titre: Microwaves as a novel seed priming method to augment salinity tolerance v
 url: https://pubmed.ncbi.nlm.nih.gov/41339792/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Caryophyllaceae
 - Seeds
@@ -51,11 +51,17 @@ theme_indices:
 - malondialdehyde
 - catalase
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

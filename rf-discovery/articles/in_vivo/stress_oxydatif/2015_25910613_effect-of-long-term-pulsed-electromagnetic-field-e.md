@@ -8,7 +8,7 @@ titre: Effect of long-term pulsed electromagnetic field exposure on hepatic and 
 url: https://pubmed.ncbi.nlm.nih.gov/25910613/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Animals
@@ -65,10 +65,16 @@ theme_indices:
 - superoxide dismutase
 - glutathione
 - lipid peroxidation
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/bf
 - annee/2015
 ---
 

@@ -10,7 +10,7 @@ titre: Interactive effect of chemical substances and occupational electromagneti
 url: https://pubmed.ncbi.nlm.nih.gov/12496061/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Age Distribution
@@ -65,10 +65,15 @@ theme_indices:
 - carcinogenic
 - glioma
 - meningioma
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2002
 ---
 

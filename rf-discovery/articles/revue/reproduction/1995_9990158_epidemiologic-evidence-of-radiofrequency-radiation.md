@@ -8,7 +8,7 @@ titre: Epidemiologic Evidence of Radiofrequency Radiation (Microwave) Effects on
 url: https://pubmed.ncbi.nlm.nih.gov/9990158/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -30,11 +30,18 @@ theme_secondaires:
 - thermique
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/revue
 - theme/reproduction
 - theme/thermique
+- bande/rf
 - annee/1995
 ---
 

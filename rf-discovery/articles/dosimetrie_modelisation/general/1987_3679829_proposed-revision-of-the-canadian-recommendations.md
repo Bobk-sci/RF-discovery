@@ -8,7 +8,7 @@ titre: Proposed revision of the Canadian recommendations on radiofrequency-expos
 url: https://pubmed.ncbi.nlm.nih.gov/3679829/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Accidents, Occupational
 - Burns
@@ -39,10 +39,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/1987
 ---
 

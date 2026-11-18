@@ -8,7 +8,7 @@ titre: Measurement of urban environmental exposure to extremely low frequency ma
 url: https://pubmed.ncbi.nlm.nih.gov/41484724/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Spain
 - Environmental Exposure
@@ -51,11 +51,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1003.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-MF
+- 50 Hz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/general
+- bande/bf
 - annee/2026
 ---
 

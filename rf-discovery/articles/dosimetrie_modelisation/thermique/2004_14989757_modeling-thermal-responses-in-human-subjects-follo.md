@@ -8,7 +8,7 @@ titre: Modeling thermal responses in human subjects following extended exposure 
 url: https://pubmed.ncbi.nlm.nih.gov/14989757/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -51,10 +51,18 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/2004
 ---
 

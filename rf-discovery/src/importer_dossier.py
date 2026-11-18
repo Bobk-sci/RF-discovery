@@ -22,7 +22,14 @@ from typing import Any
 
 from collect.europepmc import Paper
 from collect.europepmc import search as epmc_search
-from library.classify import Taxonomy, classify_paper, is_off_topic, load_taxonomy
+from library.classify import (
+    Taxonomy,
+    axes_du_chemin,
+    classify_paper,
+    is_off_topic,
+    load_taxonomy,
+    noms_axes,
+)
 from library.organize import write_article
 from normalize.dedupe import normalize_title
 
@@ -71,7 +78,7 @@ def chercher(titre: str, *, search=None, seuil: float = 0.7) -> Paper | None:
 def importer_dossier(dossier: Path, out: Path, tax: Taxonomy, *, deja: set[str] | None = None,
                      search=None, limit: int | None = None) -> dict[str, Any]:
     """Crée une fiche par PDF résolu ; rend le compte et la liste des non résolus."""
-    axes = tuple(ax.name for ax in tax.axes)
+    axes, chemin = noms_axes(tax), axes_du_chemin(tax)
     connus = deja or set()
     compte: dict[str, int] = {"pdf": 0, "deja_presents": 0, "importes": 0, "ecartes": 0}
     non_resolus: list[str] = []
@@ -91,7 +98,7 @@ def importer_dossier(dossier: Path, out: Path, tax: Taxonomy, *, deja: set[str] 
             log.info("écarté (%s) : %s", motif, paper.title[:70])
             compte["ecartes"] += 1
             continue
-        write_article(out, paper, classify_paper(paper, tax), axes)
+        write_article(out, paper, classify_paper(paper, tax), axes, chemin)
         compte["importes"] += 1
     return {**compte, "non_resolus": non_resolus}
 

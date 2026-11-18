@@ -7,7 +7,7 @@ titre: A Frequency Reconfigurable Folded Antenna for Cognitive Radio Communicati
 url: https://pubmed.ncbi.nlm.nih.gov/36984934/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -35,10 +35,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

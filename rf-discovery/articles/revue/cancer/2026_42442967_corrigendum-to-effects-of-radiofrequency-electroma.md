@@ -9,7 +9,7 @@ titre: Corrigendum to "Effects of radiofrequency electromagnetic field exposure 
 url: https://pubmed.ncbi.nlm.nih.gov/42442967/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Published Erratum
@@ -56,6 +56,12 @@ theme_indices:
 - tumor
 - glioma
 - IARC
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/revue
@@ -64,6 +70,7 @@ tags:
 - theme/cancer
 - theme/neuroinflammation
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

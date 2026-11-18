@@ -8,7 +8,7 @@ titre: Neuroprotective efficacy of luteolin on a 900-MHz electromagnetic field-i
 url: https://pubmed.ncbi.nlm.nih.gov/32485174/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cerebellum
@@ -51,10 +51,16 @@ theme_indices:
 - oxidative stress
 - superoxide dismutase
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2020
 ---
 

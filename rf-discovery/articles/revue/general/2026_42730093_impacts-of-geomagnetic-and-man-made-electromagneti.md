@@ -8,7 +8,7 @@ titre: 'Impacts of Geomagnetic and Man-Made Electromagnetic Fields on Heart Rate
 url: https://pubmed.ncbi.nlm.nih.gov/42730093/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -47,11 +47,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- geomagnetic field
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/general
+- bande/bf
 - annee/2026
 ---
 

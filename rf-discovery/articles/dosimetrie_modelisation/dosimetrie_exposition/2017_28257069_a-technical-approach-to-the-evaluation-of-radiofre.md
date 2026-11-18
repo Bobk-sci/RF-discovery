@@ -8,7 +8,7 @@ titre: A Technical Approach to the Evaluation of Radiofrequency Radiation Emissi
 url: https://pubmed.ncbi.nlm.nih.gov/28257069/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -57,11 +57,18 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - base station
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2017
 ---
 

@@ -8,7 +8,7 @@ titre: Association of dual-energy CT-derived quantitative parameters with hydrox
 url: https://pubmed.ncbi.nlm.nih.gov/42769376/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Lung
 - Humans
@@ -55,10 +55,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

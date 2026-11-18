@@ -46,6 +46,10 @@ class Axis:
     name: str
     default: str
     categories: tuple[Category, ...]
+    # Un axe peut classer sans créer de dossier. `bande` (BF / RF) décrit une physique
+    # différente, pas un rangement : l'ajouter au chemin déplacerait 2 500 fiches pour
+    # une information qui a sa place dans l'en-tête et les étiquettes Obsidian.
+    dans_le_chemin: bool = True
 
 
 @dataclass(frozen=True)
@@ -82,6 +86,16 @@ def _exclusion(entry: object) -> Exclusion:
     return Exclusion(str(entry))
 
 
+def noms_axes(tax: Taxonomy) -> tuple[str, ...]:
+    """Tous les axes : ils alimentent l'en-tête YAML et les étiquettes."""
+    return tuple(ax.name for ax in tax.axes)
+
+
+def axes_du_chemin(tax: Taxonomy) -> tuple[str, ...]:
+    """Seuls les axes qui forment l'arborescence `articles/<...>/<...>/`."""
+    return tuple(ax.name for ax in tax.axes if ax.dans_le_chemin)
+
+
 def load_taxonomy(path: str | Path) -> Taxonomy:
     """Lit la taxonomie YAML (axes, mots-clés, réglages de scoring)."""
     cfg = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
@@ -97,6 +111,7 @@ def load_taxonomy(path: str | Path) -> Taxonomy:
                          tuple(str(k) for k in c.get("decisifs", [])))
                 for c in ax.get("categories", [])
             ),
+            dans_le_chemin=bool(ax.get("chemin", True)),
         )
         for ax in cfg.get("axes", [])
     )

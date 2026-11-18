@@ -8,7 +8,7 @@ titre: 'Assessment of Electrical Brain Activity of Healthy Volunteers Exposed to
 url: https://pubmed.ncbi.nlm.nih.gov/37754652/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Humans
@@ -53,11 +53,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - EEG
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- 5G
 tags:
 - rf
 - modele/humain_experimental
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

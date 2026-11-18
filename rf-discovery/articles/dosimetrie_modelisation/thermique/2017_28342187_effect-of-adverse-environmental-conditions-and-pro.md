@@ -8,7 +8,7 @@ titre: Effect of adverse environmental conditions and protective clothing on tem
 url: https://pubmed.ncbi.nlm.nih.gov/28342187/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Humans
@@ -44,10 +44,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - temperature rise
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/2017
 ---
 

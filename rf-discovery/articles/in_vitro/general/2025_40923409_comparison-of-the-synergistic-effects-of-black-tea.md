@@ -8,7 +8,7 @@ titre: Comparison of the Synergistic Effects of Black Tea and Microwave with Gen
 url: https://pubmed.ncbi.nlm.nih.gov/40923409/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acanthamoeba
 - Gentamicins
@@ -44,10 +44,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

@@ -9,7 +9,7 @@ titre: Radiofrequency radiation reshapes tumor immune microenvironment into anti
 url: https://pubmed.ncbi.nlm.nih.gov/38538718/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Killer Cells, Natural
 - CD8-Positive T-Lymphocytes
@@ -74,6 +74,12 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -83,6 +89,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

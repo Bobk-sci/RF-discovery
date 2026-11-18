@@ -8,7 +8,7 @@ titre: A Decision Support System for Managing Health Symptoms of Living Near Mob
 url: https://pubmed.ncbi.nlm.nih.gov/41668986/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -38,11 +38,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

@@ -8,7 +8,7 @@ titre: Evidence of bystander effect induced by radiofrequency radiation in a hum
 url: https://pubmed.ncbi.nlm.nih.gov/33647301/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Bystander Effect
 - Cell Line
@@ -50,10 +50,17 @@ theme_secondaires: []
 theme_indices:
 - DNA damage
 - heat shock protein
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2021
 ---
 

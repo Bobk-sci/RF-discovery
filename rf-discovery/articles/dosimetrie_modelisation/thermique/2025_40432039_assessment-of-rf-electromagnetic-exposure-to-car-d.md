@@ -8,7 +8,7 @@ titre: Assessment of RF Electromagnetic Exposure to Car Driver from Monopole Arr
 url: https://pubmed.ncbi.nlm.nih.gov/40432039/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -39,11 +39,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

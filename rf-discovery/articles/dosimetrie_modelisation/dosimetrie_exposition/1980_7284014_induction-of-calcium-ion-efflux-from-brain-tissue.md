@@ -8,7 +8,7 @@ titre: 'Induction of calcium-ion efflux from brain tissue by radiofrequency radi
 url: https://pubmed.ncbi.nlm.nih.gov/7284014/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Newborn
@@ -43,12 +43,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - modele/in_vitro
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1980
 ---
 

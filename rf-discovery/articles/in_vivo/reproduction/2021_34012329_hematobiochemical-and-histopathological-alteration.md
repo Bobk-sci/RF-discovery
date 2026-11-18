@@ -8,7 +8,7 @@ titre: Hematobiochemical and histopathological alterations of kidney and testis 
 url: https://pubmed.ncbi.nlm.nih.gov/34012329/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -41,12 +41,20 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

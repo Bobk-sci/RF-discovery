@@ -8,7 +8,7 @@ titre: Cytogenetic effects of exposure to 2.3 GHz radiofrequency radiation on hu
 url: https://pubmed.ncbi.nlm.nih.gov/20032374/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -53,10 +53,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2009
 ---
 

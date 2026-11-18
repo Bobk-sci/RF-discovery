@@ -8,7 +8,7 @@ titre: Client Experiences in a Mobile-Phone Counseling Intervention for Enhancin
 url: https://pubmed.ncbi.nlm.nih.gov/35720809/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -41,10 +41,16 @@ theme_indices:
 - in utero
 - neonatal
 - child
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

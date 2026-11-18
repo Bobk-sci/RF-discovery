@@ -8,7 +8,7 @@ titre: The Effect of Different Microwave Radiations on Spinach, spinacia olerace
 url: https://doi.org/10.14293/pr2199.001754.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -30,10 +30,16 @@ theme_secondaires: []
 theme_indices:
 - cell viability
 - cell death
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

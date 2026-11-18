@@ -8,7 +8,7 @@ titre: A Review of Electromagnetic Fields in Cellular Interactions and Cacao Bea
 url: https://pubmed.ncbi.nlm.nih.gov/39410093/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -40,11 +40,16 @@ theme_secondaires:
 theme_indices:
 - epigenetic
 - gene expression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
+- bande/rf
 - annee/2024
 ---
 

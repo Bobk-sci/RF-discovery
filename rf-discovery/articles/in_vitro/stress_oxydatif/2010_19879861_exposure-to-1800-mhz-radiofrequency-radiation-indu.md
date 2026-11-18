@@ -8,7 +8,7 @@ titre: Exposure to 1800 MHz radiofrequency radiation induces oxidative damage to
 url: https://pubmed.ncbi.nlm.nih.gov/19879861/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -68,6 +68,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - antioxidant
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -77,6 +83,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/eeg_sommeil
+- bande/rf
 - annee/2010
 ---
 

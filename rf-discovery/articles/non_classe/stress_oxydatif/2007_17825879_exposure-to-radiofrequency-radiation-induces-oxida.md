@@ -8,7 +8,7 @@ titre: Exposure to radiofrequency radiation induces oxidative stress in duckweed
 url: https://pubmed.ncbi.nlm.nih.gov/17825879/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Araceae
 - Ascorbate Peroxidases
@@ -45,12 +45,20 @@ theme_indices:
 - oxidative stress
 - catalase
 - lipid peroxidation
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
 - theme/thermique
+- bande/rf
 - annee/2007
 ---
 

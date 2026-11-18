@@ -8,7 +8,7 @@ titre: Protective effect of Danhong Injection combined with Naoxintong Capsule o
 url: https://pubmed.ncbi.nlm.nih.gov/28986333/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -59,10 +59,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2018
 ---
 

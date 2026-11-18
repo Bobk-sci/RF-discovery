@@ -8,7 +8,7 @@ titre: Health benefits and potential risks related to consumption of fish or fis
 url: https://pubmed.ncbi.nlm.nih.gov/14623484/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - American Heart Association
 - Animals
@@ -44,11 +44,17 @@ theme_secondaires:
 - cancer
 theme_indices:
 - behavior
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/cancer
+- bande/rf
 - annee/2003
 ---
 

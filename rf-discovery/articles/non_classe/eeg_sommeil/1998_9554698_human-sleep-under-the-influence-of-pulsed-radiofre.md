@@ -8,7 +8,7 @@ titre: 'Human sleep under the influence of pulsed radiofrequency electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/9554698/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -47,11 +47,18 @@ theme_indices:
 - EEG
 - sleep
 - polysomnography
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
 - theme/neurodeveloppement
+- bande/rf
 - annee/1998
 ---
 

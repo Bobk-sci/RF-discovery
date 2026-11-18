@@ -9,7 +9,7 @@ titre: Expression Pattern Alterations of the Brain KCC2 Chloride Transporter in 
 url: https://pubmed.ncbi.nlm.nih.gov/41216642/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Symporters
@@ -61,12 +61,20 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - behavior
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-MF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/stress_oxydatif
+- bande/bf
 - annee/2025
 ---
 

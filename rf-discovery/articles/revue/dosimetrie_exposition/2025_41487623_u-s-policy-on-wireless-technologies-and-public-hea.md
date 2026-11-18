@@ -8,7 +8,7 @@ titre: 'U.S. policy on wireless technologies and public health protection: regul
 url: https://pubmed.ncbi.nlm.nih.gov/41487623/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Public Health
@@ -51,12 +51,19 @@ theme_secondaires:
 theme_indices:
 - ICNIRP
 - compliance
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2025
 ---
 

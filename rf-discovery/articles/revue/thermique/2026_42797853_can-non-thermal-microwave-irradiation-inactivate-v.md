@@ -8,7 +8,7 @@ titre: Can Non-Thermal Microwave Irradiation Inactivate Viruses? A Review with S
 url: https://pubmed.ncbi.nlm.nih.gov/42797853/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Viruses
@@ -45,10 +45,18 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- GHz
 tags:
 - rf
 - modele/revue
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

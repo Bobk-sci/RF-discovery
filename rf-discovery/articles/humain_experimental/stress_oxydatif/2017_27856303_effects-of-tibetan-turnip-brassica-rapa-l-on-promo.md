@@ -8,7 +8,7 @@ titre: Effects of Tibetan turnip (Brassica rapa L.) on promoting hypoxia-toleran
 url: https://pubmed.ncbi.nlm.nih.gov/27856303/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acclimatization
 - Adult
@@ -71,10 +71,16 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/humain_experimental
 - theme/stress_oxydatif
+- bande/rf
 - annee/2017
 ---
 

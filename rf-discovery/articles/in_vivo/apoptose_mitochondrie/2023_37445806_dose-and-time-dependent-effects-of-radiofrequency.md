@@ -8,7 +8,7 @@ titre: 'Dose- and Time-Dependent Effects of Radiofrequency Electromagnetic Field
 url: https://pubmed.ncbi.nlm.nih.gov/37445806/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Mice
 - Male
@@ -55,6 +55,12 @@ theme_secondaires:
 theme_indices:
 - mitochondrial
 - mitochondria
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +69,7 @@ tags:
 - theme/thermique
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2023
 ---
 

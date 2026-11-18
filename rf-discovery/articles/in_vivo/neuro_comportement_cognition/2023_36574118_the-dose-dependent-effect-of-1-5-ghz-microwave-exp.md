@@ -8,7 +8,7 @@ titre: The dose-dependent effect of 1.5-GHz microwave exposure on spatial memory
 url: https://pubmed.ncbi.nlm.nih.gov/36574118/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Animals
@@ -67,6 +67,11 @@ theme_indices:
 - spatial learning
 - spatial memory
 - attention
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
@@ -74,6 +79,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

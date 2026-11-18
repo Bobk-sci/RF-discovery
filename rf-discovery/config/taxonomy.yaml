@@ -697,3 +697,78 @@ axes:
           - "base station"
           - "measurement campaign"
           - "incident field"
+
+  # --------------------------------------------------------------------------
+  # Bande de fréquence. Axe de CONTRÔLE, pas de rangement : `chemin: false`, donc
+  # aucune fiche ne bouge — l'information part dans l'en-tête et les étiquettes.
+  #
+  # Pourquoi il existe. Sous ~100 kHz, le champ agit par INDUCTION : il crée des
+  # courants dans les tissus et peut dépolariser une membrane (c'est la base de
+  # l'électrostimulation, et la grandeur limitée est le champ induit en V/m).
+  # Au-dessus, la membrane est court-circuitée capacitivement et le mécanisme
+  # dominant devient l'ABSORPTION, donc l'échauffement (grandeur limitée : le SAR
+  # en W/kg). Les deux dosimétries ne se convertissent pas l'une dans l'autre, et
+  # une synthèse qui agrégerait 50 Hz et 900 MHz mélangerait deux physiques sans
+  # que cela se voie à la lecture.
+  - name: bande
+    default: rf
+    chemin: false
+    categories:
+      # `mixte` d'abord : une notice qui parle des deux doit tomber ici, pas dans
+      # l'une des deux bandes au hasard du comptage.
+      - name: mixte
+        decisifs:
+          - "ELF-modulated radiofrequency"
+          - "ELF modulated radiofrequency"
+          - "ELF and radiofrequency"
+          - "ELF and RF"
+          - "extremely low frequency and radiofrequency"
+          # « static magnetic field AND radiofrequency » : une étude qui compare les
+          # deux bandes tombait dans `bf` au comptage. Elle relève des deux.
+          - "magnetic field and radiofrequency"
+          - "radiofrequency and extremely low frequency"
+          - "radiofrequency and static magnetic"
+        keywords:
+          - "ELF-modulated"
+          - "ELF modulated"
+
+      - name: bf
+        decisifs:
+          - "extremely low frequency"
+          - "power frequency"
+          - "power-frequency"
+          - "power line"
+          - "powerline"
+        keywords:
+          - "ELF-EMF"
+          - "ELF-MF"
+          - "50 Hz"
+          - "60 Hz"
+          - "static magnetic field"
+          - "geomagnetic field"
+          - "magnetophosphene"
+          - "induced current density"
+
+      # 1 kHz – 100 kHz : ni l'un ni l'autre. Antivol de magasin, plaque à
+      # induction, charge sans fil. Mécanisme encore inductif, mais hors du
+      # domaine couvert par les limites BF classiques.
+      - name: intermediaire
+        decisifs:
+          - "intermediate frequency"
+        keywords:
+          - "electronic article surveillance"
+          - "induction heating"
+          - "wireless power transfer"
+          - "7.5 kHz"
+
+      - name: rf
+        keywords:
+          - "radiofrequency"
+          - "radio frequency"
+          - "microwave"
+          - "MHz"
+          - "GHz"
+          - "specific absorption rate"
+          - "mobile phone"
+          - "Wi-Fi"
+          - "5G"

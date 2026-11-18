@@ -7,7 +7,7 @@ titre: Recent advances in the effects of microwave radiation on brains.
 url: https://pubmed.ncbi.nlm.nih.gov/29502514/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Animals
@@ -51,6 +51,11 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning and memory
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
@@ -60,6 +65,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

@@ -8,7 +8,7 @@ titre: The Effect of Mobile Radiation on the Oxidative Stress Biomarkers in Preg
 url: https://pubmed.ncbi.nlm.nih.gov/34721608/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,6 +44,12 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - antioxidant
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -52,6 +58,7 @@ tags:
 - theme/neurodeveloppement
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

@@ -8,7 +8,7 @@ titre: Extremely low frequency electromagnetic field exposure affects fertilizat
 url: https://pubmed.ncbi.nlm.nih.gov/20176397/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acrosome
 - Animals
@@ -56,12 +56,20 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/bf
 - annee/2010
 ---
 

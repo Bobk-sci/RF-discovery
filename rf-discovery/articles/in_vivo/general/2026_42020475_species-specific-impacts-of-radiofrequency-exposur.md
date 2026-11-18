@@ -8,7 +8,7 @@ titre: Species-specific impacts of radiofrequency exposure on the structural and
 url: https://pubmed.ncbi.nlm.nih.gov/42020475/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Ovum
 - Animals
@@ -48,10 +48,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

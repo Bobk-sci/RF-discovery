@@ -8,7 +8,7 @@ titre: Personal Exposure to Radio Frequency Electromagnetic Fields among Austral
 url: https://pubmed.ncbi.nlm.nih.gov/30321997/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -55,11 +55,20 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

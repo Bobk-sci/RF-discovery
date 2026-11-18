@@ -8,7 +8,7 @@ titre: 'Biological effects on human health due to radiofrequency/microwave expos
 url: https://pubmed.ncbi.nlm.nih.gov/14508584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cohort Studies
 - Electromagnetic Fields
@@ -47,12 +47,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/epidemiologie
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2003
 ---
 

@@ -9,7 +9,7 @@ titre: 'Health Council of The Netherlands: no need to change from SAR to time-te
 url: https://pubmed.ncbi.nlm.nih.gov/21591902/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -54,11 +54,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

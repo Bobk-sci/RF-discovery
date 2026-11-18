@@ -8,7 +8,7 @@ titre: Electromagnetic Performance Characterization and Circuit-Level Modeling o
 url: https://pubmed.ncbi.nlm.nih.gov/41901916/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Telemetry
@@ -54,12 +54,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

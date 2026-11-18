@@ -8,7 +8,7 @@ titre: Electromagnetic hypersensitivity close to mobile phone base stations - a
 url: https://pubmed.ncbi.nlm.nih.gov/35238501/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Hypersensitivity
@@ -44,11 +44,20 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - memory
+bande: rf
+bande_score: 4.5
+bande_secondaires:
+- bf
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/humain_experimental
 - theme/neuro_comportement_cognition
+- bande/rf
+- bande/bf
 - annee/2023
 ---
 

@@ -8,7 +8,7 @@ titre: 'Cancer incidence in telecommunication and broadcasting workers in the Un
 url: https://pubmed.ncbi.nlm.nih.gov/41861567/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Neoplasms, Radiation-Induced
@@ -45,10 +45,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

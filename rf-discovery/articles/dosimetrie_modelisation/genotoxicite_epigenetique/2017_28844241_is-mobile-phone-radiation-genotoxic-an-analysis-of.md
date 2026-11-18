@@ -8,7 +8,7 @@ titre: Is mobile phone radiation genotoxic? An analysis of micronucleus frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/28844241/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -55,12 +55,18 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
 - theme/cancer
+- bande/rf
 - annee/2017
 ---
 

@@ -8,7 +8,7 @@ titre: Lymphoma development in mice chronically exposed to UMTS-modulated radiof
 url: https://pubmed.ncbi.nlm.nih.gov/17723000/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Weight
@@ -53,11 +53,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - carcinogenic
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/cancer
+- bande/rf
 - annee/2007
 ---
 

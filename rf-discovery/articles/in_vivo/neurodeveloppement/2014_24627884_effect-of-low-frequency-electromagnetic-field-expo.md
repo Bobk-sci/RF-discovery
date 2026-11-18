@@ -8,7 +8,7 @@ titre: Effect of low-frequency electromagnetic field exposure on oocyte differen
 url: https://pubmed.ncbi.nlm.nih.gov/24627884/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,11 +40,17 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - neonatal
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/reproduction
+- bande/bf
 - annee/2014
 ---
 

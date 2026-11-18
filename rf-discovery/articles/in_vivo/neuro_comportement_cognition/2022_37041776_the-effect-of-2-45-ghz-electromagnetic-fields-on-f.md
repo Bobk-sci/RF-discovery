@@ -8,7 +8,7 @@ titre: The Effect of 2.45 GHz Electromagnetic Fields on Fear Memory Extinction i
 url: https://pubmed.ncbi.nlm.nih.gov/37041776/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,12 +44,20 @@ theme_secondaires:
 theme_indices:
 - memory
 - learning and memory
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

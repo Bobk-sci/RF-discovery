@@ -9,7 +9,7 @@ titre: Correction of an error in calculation in the article "Frequency of micron
 url: https://pubmed.ncbi.nlm.nih.gov/9496895/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Cells
@@ -42,10 +42,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/1998
 ---
 

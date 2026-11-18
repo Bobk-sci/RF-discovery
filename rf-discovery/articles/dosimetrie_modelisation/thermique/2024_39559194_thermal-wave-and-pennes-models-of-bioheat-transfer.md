@@ -8,7 +8,7 @@ titre: 'Thermal wave and Pennes'' models of bioheat transfer in human skin: A tr
 url: https://pubmed.ncbi.nlm.nih.gov/39559194/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -41,12 +41,20 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

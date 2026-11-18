@@ -8,7 +8,7 @@ titre: Exposure to cell phone radiofrequency changes corticotrophin hormone leve
 url: https://pubmed.ncbi.nlm.nih.gov/30627371/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -44,10 +44,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2018
 ---
 

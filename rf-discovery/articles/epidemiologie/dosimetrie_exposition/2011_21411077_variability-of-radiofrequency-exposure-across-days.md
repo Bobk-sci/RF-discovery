@@ -8,7 +8,7 @@ titre: 'Variability of radiofrequency exposure across days of the week: a popula
 url: https://pubmed.ncbi.nlm.nih.gov/21411077/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Environmental Exposure
@@ -43,11 +43,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

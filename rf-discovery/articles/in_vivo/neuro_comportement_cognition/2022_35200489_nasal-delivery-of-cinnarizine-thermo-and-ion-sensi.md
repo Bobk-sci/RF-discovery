@@ -8,7 +8,7 @@ titre: Nasal Delivery of Cinnarizine Thermo- and Ion-Sensitive In Situ Hydrogels
 url: https://pubmed.ncbi.nlm.nih.gov/35200489/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -47,11 +47,17 @@ theme_indices:
 - memory
 - behavior
 - spatial memory
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2022
 ---
 

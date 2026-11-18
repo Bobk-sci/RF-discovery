@@ -8,7 +8,7 @@ titre: Mechanism insights for impedance matching in split-ring resonator topolog
 url: https://pubmed.ncbi.nlm.nih.gov/39573685/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -38,11 +38,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

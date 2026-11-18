@@ -8,7 +8,7 @@ titre: 'The Influence of 2.45 GHz Wi-Fi Exposure Duration on Sperm Quality and T
 url: https://pubmed.ncbi.nlm.nih.gov/40002366/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,11 +42,18 @@ theme_indices:
 - sperm
 - testicular
 - fertility
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/stress_oxydatif
+- bande/rf
 - annee/2025
 ---
 

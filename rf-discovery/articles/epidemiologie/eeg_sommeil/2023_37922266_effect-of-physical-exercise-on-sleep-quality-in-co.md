@@ -8,7 +8,7 @@ titre: 'Effect of physical exercise on sleep quality in college students: Mediat
 url: https://pubmed.ncbi.nlm.nih.gov/37922266/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Smartphone
@@ -44,11 +44,17 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

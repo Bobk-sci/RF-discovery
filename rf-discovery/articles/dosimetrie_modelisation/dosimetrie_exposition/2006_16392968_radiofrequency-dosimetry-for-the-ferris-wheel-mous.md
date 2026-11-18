@@ -7,7 +7,7 @@ titre: Radiofrequency dosimetry for the Ferris-wheel mouse exposure system.
 url: https://pubmed.ncbi.nlm.nih.gov/16392968/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Burden
@@ -55,11 +55,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2006
 ---
 

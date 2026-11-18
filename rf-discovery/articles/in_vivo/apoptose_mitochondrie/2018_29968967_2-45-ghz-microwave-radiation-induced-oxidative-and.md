@@ -8,7 +8,7 @@ titre: '2.45 GHz microwave radiation induced oxidative and nitrosative stress me
 url: https://pubmed.ncbi.nlm.nih.gov/29968967/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -58,6 +58,12 @@ theme_indices:
 - apoptosis
 - caspase
 - Bcl-2
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +72,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/cancer
+- bande/rf
 - annee/2018
 ---
 

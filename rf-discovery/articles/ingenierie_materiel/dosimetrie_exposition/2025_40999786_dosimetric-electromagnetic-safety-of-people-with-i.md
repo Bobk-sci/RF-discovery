@@ -7,7 +7,7 @@ titre: 'Dosimetric Electromagnetic Safety of People With Implants: A Neglected P
 url: https://pubmed.ncbi.nlm.nih.gov/40999786/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiometry
@@ -42,11 +42,21 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 3.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

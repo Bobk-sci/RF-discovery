@@ -8,7 +8,7 @@ titre: World Health Organization, radiofrequency radiation and health - a hard n
 url: https://pubmed.ncbi.nlm.nih.gov/28656257/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Glioma
 - Humans
@@ -44,6 +44,11 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - IARC
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -52,6 +57,7 @@ tags:
 - theme/cancer
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

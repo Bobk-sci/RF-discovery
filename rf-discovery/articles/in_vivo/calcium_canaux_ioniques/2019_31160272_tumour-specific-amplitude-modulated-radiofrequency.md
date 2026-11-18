@@ -9,7 +9,7 @@ titre: Tumour-specific amplitude-modulated radiofrequency electromagnetic fields
 url: https://pubmed.ncbi.nlm.nih.gov/31160272/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Calcium
@@ -96,6 +96,12 @@ theme_secondaires:
 theme_indices:
 - calcium influx
 - intracellular calcium
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -104,6 +110,7 @@ tags:
 - theme/eeg_sommeil
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2019
 ---
 

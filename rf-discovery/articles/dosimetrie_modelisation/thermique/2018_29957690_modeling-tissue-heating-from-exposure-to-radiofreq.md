@@ -8,7 +8,7 @@ titre: 'Modeling Tissue Heating From Exposure to Radiofrequency Energy and Relev
 url: https://pubmed.ncbi.nlm.nih.gov/29957690/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Computer Simulation
 - Heating
@@ -48,12 +48,21 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/revue
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

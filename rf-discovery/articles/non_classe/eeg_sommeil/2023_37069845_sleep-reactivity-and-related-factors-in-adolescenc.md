@@ -8,7 +8,7 @@ titre: 'Sleep Reactivity and Related Factors in Adolescence: An Increased Risk f
 url: https://pubmed.ncbi.nlm.nih.gov/37069845/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,10 +37,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

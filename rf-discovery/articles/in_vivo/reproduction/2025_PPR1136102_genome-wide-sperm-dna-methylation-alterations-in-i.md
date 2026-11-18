@@ -8,7 +8,7 @@ titre: Genome-wide sperm DNA methylation alterations in individuals exposed to r
 url: https://doi.org/10.21203/rs.3.rs-8312864/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -32,11 +32,17 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

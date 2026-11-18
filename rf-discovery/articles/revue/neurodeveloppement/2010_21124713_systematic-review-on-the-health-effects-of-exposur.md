@@ -8,7 +8,7 @@ titre: Systematic review on the health effects of exposure to radiofrequency ele
 url: https://pubmed.ncbi.nlm.nih.gov/21124713/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -53,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -60,6 +66,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2010
 ---
 

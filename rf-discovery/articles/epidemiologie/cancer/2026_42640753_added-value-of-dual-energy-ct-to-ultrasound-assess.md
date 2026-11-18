@@ -8,7 +8,7 @@ titre: Added value of dual-energy CT to ultrasound assessment for AJCC 8th stagi
 url: https://pubmed.ncbi.nlm.nih.gov/42640753/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Thyroid Gland
 - Humans
@@ -57,10 +57,15 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

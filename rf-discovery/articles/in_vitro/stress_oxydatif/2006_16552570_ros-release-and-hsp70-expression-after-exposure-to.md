@@ -8,7 +8,7 @@ titre: ROS release and Hsp70 expression after exposure to 1,800 MHz radiofrequen
 url: https://pubmed.ncbi.nlm.nih.gov/16552570/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Antigens, CD
 - Antigens, Differentiation, T-Lymphocyte
@@ -55,11 +55,18 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2006
 ---
 

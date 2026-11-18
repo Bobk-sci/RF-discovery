@@ -8,7 +8,7 @@ titre: 'Genetic damage in mammalian somatic cells exposed to radiofrequency radi
 url: https://pubmed.ncbi.nlm.nih.gov/18494173/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biomarkers
@@ -53,6 +53,12 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -61,6 +67,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

@@ -8,7 +8,7 @@ titre: 'Flora and fauna: how nonhuman species interact with natural and man-made
 url: https://pubmed.ncbi.nlm.nih.gov/41358243/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -50,11 +50,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

@@ -9,7 +9,7 @@ titre: Anthropogenic electromagnetic radiation alters the transcription levels o
 url: https://pubmed.ncbi.nlm.nih.gov/39167261/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Ixodes
@@ -53,10 +53,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2024
 ---
 

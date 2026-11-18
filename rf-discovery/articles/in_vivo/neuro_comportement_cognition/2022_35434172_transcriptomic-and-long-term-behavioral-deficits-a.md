@@ -8,7 +8,7 @@ titre: Transcriptomic and Long-Term Behavioral Deficits Associated with Developm
 url: https://pubmed.ncbi.nlm.nih.gov/35434172/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -34,10 +34,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2022
 ---
 

@@ -7,7 +7,7 @@ titre: Effects of mobile phone electromagnetic fields on brain waves in healthy 
 url: https://pubmed.ncbi.nlm.nih.gov/38066035/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -44,6 +44,11 @@ theme_secondaires:
 theme_indices:
 - EEG
 - alpha band
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
@@ -51,6 +56,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

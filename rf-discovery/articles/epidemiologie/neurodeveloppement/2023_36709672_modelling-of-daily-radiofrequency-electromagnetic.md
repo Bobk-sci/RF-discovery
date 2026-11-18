@@ -8,7 +8,7 @@ titre: Modelling of daily radiofrequency electromagnetic field dose for a prospe
 url: https://pubmed.ncbi.nlm.nih.gov/36709672/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Child
 - Humans
@@ -63,6 +63,13 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
@@ -70,6 +77,7 @@ tags:
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

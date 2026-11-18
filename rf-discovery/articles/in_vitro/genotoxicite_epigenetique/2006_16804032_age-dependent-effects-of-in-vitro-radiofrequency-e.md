@@ -8,7 +8,7 @@ titre: Age-dependent effects of in vitro radiofrequency exposure (mobile phone) 
 url: https://pubmed.ncbi.nlm.nih.gov/16804032/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged, 80 and over
@@ -57,12 +57,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2006
 ---
 

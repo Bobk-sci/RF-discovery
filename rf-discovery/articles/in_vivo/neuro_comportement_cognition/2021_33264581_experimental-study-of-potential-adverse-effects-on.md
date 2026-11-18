@@ -8,7 +8,7 @@ titre: Experimental study of potential adverse effects on the auditory system of
 url: https://pubmed.ncbi.nlm.nih.gov/33264581/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -46,10 +46,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - reaction time
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

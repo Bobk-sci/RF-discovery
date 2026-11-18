@@ -8,7 +8,7 @@ titre: Cognitive impairment and neurogenotoxic effects in rats exposed to low-in
 url: https://pubmed.ncbi.nlm.nih.gov/25749756/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Behavior, Animal
@@ -77,6 +77,14 @@ theme_indices:
 - memory
 - behavior
 - spatial memory
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -86,6 +94,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

@@ -7,7 +7,7 @@ titre: Health implications of exposure to radiofrequency/microwave energies.
 url: https://pubmed.ncbi.nlm.nih.gov/7039662/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -53,12 +53,21 @@ theme_secondaires:
 - thermique
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/1982
 ---
 

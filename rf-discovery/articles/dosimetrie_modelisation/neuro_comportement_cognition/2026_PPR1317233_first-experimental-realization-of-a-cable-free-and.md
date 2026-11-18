@@ -8,7 +8,7 @@ titre: First Experimental Realization of a Cable-Free and Battery-Free Spatial P
 url: https://doi.org/10.21203/rs.3.rs-10998828/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -33,12 +33,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - memory
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- microwave
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/revue
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2026
 ---
 

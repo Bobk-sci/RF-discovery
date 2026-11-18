@@ -8,7 +8,7 @@ titre: Effect of microwave radiation on adult neurogenesis and behavior of prena
 url: https://pubmed.ncbi.nlm.nih.gov/39286040/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -48,12 +48,19 @@ theme_indices:
 - neurogenesis
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2024
 ---
 

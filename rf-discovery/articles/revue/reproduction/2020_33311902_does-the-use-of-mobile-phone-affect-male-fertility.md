@@ -7,7 +7,7 @@ titre: Does the Use of Mobile Phone Affect Male Fertility? A Mini-Review.
 url: https://pubmed.ncbi.nlm.nih.gov/33311902/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -39,12 +39,20 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2020
 ---
 

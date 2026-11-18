@@ -8,7 +8,7 @@ titre: Electromagnetic field exposure monitoring of commercial 28-GHz band 5G ba
 url: https://pubmed.ncbi.nlm.nih.gov/38778514/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Tokyo
@@ -47,10 +47,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

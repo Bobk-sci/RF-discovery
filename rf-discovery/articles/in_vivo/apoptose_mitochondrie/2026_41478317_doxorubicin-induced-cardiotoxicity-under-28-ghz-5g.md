@@ -8,7 +8,7 @@ titre: 'Doxorubicin-induced cardiotoxicity under 28 GHz 5G-band electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/41478317/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Ascorbic Acid
@@ -64,12 +64,19 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - mitochondrial
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2026
 ---
 

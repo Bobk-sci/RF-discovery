@@ -8,7 +8,7 @@ titre: 'Comprehensive Analysis of Magnetic Flux Density and RF-EMF Exposure in E
 url: https://pubmed.ncbi.nlm.nih.gov/39275545/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -40,10 +40,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

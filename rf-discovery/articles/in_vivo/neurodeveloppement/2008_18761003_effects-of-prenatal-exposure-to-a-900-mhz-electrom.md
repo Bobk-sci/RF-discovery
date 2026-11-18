@@ -8,7 +8,7 @@ titre: 'Effects of prenatal exposure to a 900 MHz electromagnetic field on the d
 url: https://pubmed.ncbi.nlm.nih.gov/18761003/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Dentate Gyrus
@@ -50,10 +50,16 @@ theme_indices:
 - neurogenesis
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/2008
 ---
 

@@ -8,7 +8,7 @@ titre: Characteristic mode analysis of electromagnetic interference susceptibili
 url: https://pubmed.ncbi.nlm.nih.gov/40595917/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -34,10 +34,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

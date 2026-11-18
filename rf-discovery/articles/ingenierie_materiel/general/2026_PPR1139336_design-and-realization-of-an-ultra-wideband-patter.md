@@ -8,7 +8,7 @@ titre: Design and Realization of an Ultra-Wideband, Pattern-Stable Antenna for G
 url: https://doi.org/10.20944/preprints202601.0019.v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -33,11 +33,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

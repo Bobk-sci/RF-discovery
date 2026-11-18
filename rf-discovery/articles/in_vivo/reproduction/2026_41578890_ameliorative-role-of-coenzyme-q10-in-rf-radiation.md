@@ -8,7 +8,7 @@ titre: Ameliorative Role of Coenzyme Q10 in RF Radiation-Associated Testicular a
 url: https://pubmed.ncbi.nlm.nih.gov/41578890/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -54,6 +54,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +69,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

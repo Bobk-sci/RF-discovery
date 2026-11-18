@@ -8,7 +8,7 @@ titre: Exposure to electromagnetic fields and risk of central nervous system dis
 url: https://pubmed.ncbi.nlm.nih.gov/10955406/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Central Nervous System Diseases
@@ -46,10 +46,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/epidemiologie
 - theme/general
+- bande/bf
 - annee/2000
 ---
 

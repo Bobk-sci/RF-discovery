@@ -9,7 +9,7 @@ titre: Temperature regulation in the unrestrained rabbit during exposure to 600 
 url: https://pubmed.ncbi.nlm.nih.gov/3486854/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -46,12 +46,20 @@ theme_secondaires:
 theme_indices:
 - thermoregulation
 - body temperature
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1986
 ---
 

@@ -8,7 +8,7 @@ titre: Radiofrequency radiation (900 MHz)-induced DNA damage and cell cycle arre
 url: https://pubmed.ncbi.nlm.nih.gov/27738269/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -65,6 +65,13 @@ theme_indices:
 - spermatozoa
 - testis
 - testicular
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -73,6 +80,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2017
 ---
 

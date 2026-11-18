@@ -8,7 +8,7 @@ titre: Metabolic, Apoptotic and Fibro-Inflammatory Profiles of the Heart Exposed
 url: https://pubmed.ncbi.nlm.nih.gov/37511465/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Myocardium
 - Heart
@@ -57,11 +57,17 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2023
 ---
 

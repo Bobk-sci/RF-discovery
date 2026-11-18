@@ -8,7 +8,7 @@ titre: An Approach to Reduce the Number of Intermediate Nodes in a Free Space Wi
 url: https://doi.org/10.21203/rs.3.rs-7575931/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -28,11 +28,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - sleep
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

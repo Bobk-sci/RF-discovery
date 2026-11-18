@@ -8,7 +8,7 @@ titre: Chronic exposure of cancer-prone mice to low-level 2450 MHz radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/9453703/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Disease Susceptibility
@@ -55,6 +55,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -62,6 +69,7 @@ tags:
 - modele/ingenierie_materiel
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1998
 ---
 

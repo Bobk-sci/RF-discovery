@@ -9,7 +9,7 @@ titre: 'Effect of cell phone radiofrequency radiation on body temperature in rod
 url: https://pubmed.ncbi.nlm.nih.gov/29537695/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aging
 - Animals
@@ -65,12 +65,19 @@ theme_secondaires:
 theme_indices:
 - heating
 - body temperature
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/neurodeveloppement
+- bande/rf
 - annee/2018
 ---
 

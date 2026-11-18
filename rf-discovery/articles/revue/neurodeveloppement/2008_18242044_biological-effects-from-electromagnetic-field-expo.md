@@ -8,7 +8,7 @@ titre: Biological effects from electromagnetic field exposure and public exposur
 url: https://pubmed.ncbi.nlm.nih.gov/18242044/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Child
@@ -50,6 +50,12 @@ theme_indices:
 - pregnancy
 - child
 - children
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/revue
@@ -57,6 +63,7 @@ tags:
 - theme/neurodeveloppement
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2008
 ---
 

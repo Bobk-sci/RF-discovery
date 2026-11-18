@@ -8,7 +8,7 @@ titre: Deleterious impacts of a 900-MHz electromagnetic field on hippocampal pyr
 url: https://pubmed.ncbi.nlm.nih.gov/26239913/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Count
@@ -57,11 +57,17 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2015
 ---
 

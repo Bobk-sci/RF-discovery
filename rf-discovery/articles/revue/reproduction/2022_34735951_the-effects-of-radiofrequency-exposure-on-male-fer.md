@@ -9,7 +9,7 @@ titre: 'The effects of radiofrequency exposure on male fertility and adverse rep
 url: https://pubmed.ncbi.nlm.nih.gov/34735951/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Female
@@ -68,6 +68,11 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -75,6 +80,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

@@ -8,7 +8,7 @@ titre: Mobile phone base stations-Effects on wellbeing and health.
 url: https://pubmed.ncbi.nlm.nih.gov/19261451/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -35,6 +35,11 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -43,6 +48,7 @@ tags:
 - modele/epidemiologie
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2009
 ---
 

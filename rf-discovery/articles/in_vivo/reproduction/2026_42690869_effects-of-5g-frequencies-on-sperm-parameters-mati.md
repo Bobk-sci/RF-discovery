@@ -8,7 +8,7 @@ titre: Effects of 5G frequencies on sperm parameters, mating success, and offspr
 url: https://pubmed.ncbi.nlm.nih.gov/42690869/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Spermatozoa
 - Animals
@@ -64,11 +64,18 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2026
 ---
 

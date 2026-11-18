@@ -9,7 +9,7 @@ titre: Can Prenatal and Postnatal Cell Phone Exposure Increase Adverse Maternal,
 url: https://pubmed.ncbi.nlm.nih.gov/34872146/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cell Phone Use
@@ -50,10 +50,16 @@ theme_indices:
 - fetal
 - child
 - children
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/2021
 ---
 

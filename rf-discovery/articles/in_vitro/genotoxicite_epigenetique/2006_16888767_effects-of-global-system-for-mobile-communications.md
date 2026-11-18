@@ -8,7 +8,7 @@ titre: Effects of global system for mobile communications 1800 MHz radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/16888767/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Breast Neoplasms
 - Cell Line, Tumor
@@ -47,12 +47,19 @@ theme_secondaires:
 - cancer
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2006
 ---
 

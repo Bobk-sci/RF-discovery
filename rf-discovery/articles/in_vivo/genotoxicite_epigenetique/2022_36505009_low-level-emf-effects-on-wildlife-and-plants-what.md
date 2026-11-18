@@ -8,7 +8,7 @@ titre: 'Low-level EMF effects on wildlife and plants: What research tells us abo
 url: https://pubmed.ncbi.nlm.nih.gov/36505009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Wild
@@ -44,10 +44,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: bf
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/bf
+- bande/rf
 - annee/2022
 ---
 

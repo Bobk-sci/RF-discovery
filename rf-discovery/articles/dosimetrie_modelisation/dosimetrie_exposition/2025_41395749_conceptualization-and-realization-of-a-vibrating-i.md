@@ -8,7 +8,7 @@ titre: Conceptualization and Realization of a Vibrating Intrinsic Reverberation 
 url: https://pubmed.ncbi.nlm.nih.gov/41395749/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Plants
 - Equipment Design
@@ -45,10 +45,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

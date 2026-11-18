@@ -9,7 +9,7 @@ titre: A study on the health effects of pantograph-catenary arc from high-speed 
 url: https://pubmed.ncbi.nlm.nih.gov/41875488/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Pacemaker, Artificial
 - Humans
@@ -46,10 +46,16 @@ theme_indices:
 - specific absorption rate
 - electric field strength
 - ICNIRP
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

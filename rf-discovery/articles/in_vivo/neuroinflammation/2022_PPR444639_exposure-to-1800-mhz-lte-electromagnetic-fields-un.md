@@ -9,7 +9,7 @@ titre: Exposure to 1800 MHz LTE electromagnetic fields under proinflammatory con
 url: https://doi.org/10.1101/2022.01.13.476168
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -39,12 +39,20 @@ theme_secondaires:
 theme_indices:
 - neuroinflammation
 - microglia
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

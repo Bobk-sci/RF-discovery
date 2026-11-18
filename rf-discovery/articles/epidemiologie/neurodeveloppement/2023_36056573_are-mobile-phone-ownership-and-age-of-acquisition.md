@@ -8,7 +8,7 @@ titre: Are mobile phone ownership and age of acquisition associated with child a
 url: https://pubmed.ncbi.nlm.nih.gov/36056573/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Child
@@ -46,11 +46,17 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

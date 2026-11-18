@@ -8,7 +8,7 @@ titre: Disruption of Magnetic Compass Orientation in Migratory Birds by Radiofre
 url: https://pubmed.ncbi.nlm.nih.gov/28978441/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animal Migration
 - Animals
@@ -40,10 +40,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires:
+- bf
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
+- bande/bf
 - annee/2017
 ---
 

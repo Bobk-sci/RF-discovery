@@ -8,7 +8,7 @@ titre: Synergistical Induction of Apoptosis via Cold Atmospheric Plasma and Nano
 url: https://pubmed.ncbi.nlm.nih.gov/40298279/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Plasma Gases
 - Apoptosis
@@ -66,6 +66,11 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
@@ -74,6 +79,7 @@ tags:
 - theme/cancer
 - theme/apoptose_mitochondrie
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2025
 ---
 

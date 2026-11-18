@@ -8,7 +8,7 @@ titre: 120 kVp Single-Energy CT calibration for radiation treatment planning by 
 url: https://pubmed.ncbi.nlm.nih.gov/41707050/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Calibration
 - Tomography, X-Ray Computed
@@ -45,11 +45,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

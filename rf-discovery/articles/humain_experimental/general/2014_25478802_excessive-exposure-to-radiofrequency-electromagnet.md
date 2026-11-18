@@ -8,7 +8,7 @@ titre: Excessive exposure to radiofrequency electromagnetic fields may cause the
 url: https://pubmed.ncbi.nlm.nih.gov/25478802/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electric Power Supplies
 - Electromagnetic Fields
@@ -36,10 +36,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/humain_experimental
 - theme/general
+- bande/rf
 - annee/2014
 ---
 

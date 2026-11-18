@@ -8,7 +8,7 @@ titre: Adult glioma in relation to residential power frequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/10468425/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -58,11 +58,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - glioma
+bande: bf
+bande_score: 1000.0
+bande_secondaires: []
+bande_indices:
+- power frequency (descripteur décisif)
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/cancer
+- bande/bf
 - annee/1999
 ---
 

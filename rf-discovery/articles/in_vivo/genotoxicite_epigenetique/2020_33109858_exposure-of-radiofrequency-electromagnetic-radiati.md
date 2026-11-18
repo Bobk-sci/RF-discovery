@@ -8,7 +8,7 @@ titre: Exposure of Radiofrequency Electromagnetic Radiation on Biochemical and P
 url: https://pubmed.ncbi.nlm.nih.gov/33109858/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -52,6 +52,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -59,6 +67,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

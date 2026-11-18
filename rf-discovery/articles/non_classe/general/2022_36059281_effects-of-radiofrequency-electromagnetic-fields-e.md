@@ -9,7 +9,7 @@ titre: Effects of Radiofrequency Electromagnetic Fields Emitted from Mobile Phon
 url: https://pubmed.ncbi.nlm.nih.gov/36059281/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -36,10 +36,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2022
 ---
 

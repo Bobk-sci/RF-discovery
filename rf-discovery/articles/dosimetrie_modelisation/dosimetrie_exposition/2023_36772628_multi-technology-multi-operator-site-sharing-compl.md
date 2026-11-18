@@ -8,7 +8,7 @@ titre: 'Multi-Technology Multi-Operator Site Sharing: Compliance Distance Analys
 url: https://pubmed.ncbi.nlm.nih.gov/36772628/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -42,11 +42,17 @@ theme_secondaires: []
 theme_indices:
 - power density
 - compliance
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

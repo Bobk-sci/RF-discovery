@@ -8,7 +8,7 @@ titre: Absence of mutagenic effects of 2.45 GHz radiofrequency exposure in splee
 url: https://pubmed.ncbi.nlm.nih.gov/14998303/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -65,6 +65,13 @@ theme_secondaires:
 theme_indices:
 - in utero
 - pregnancy
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -73,6 +80,7 @@ tags:
 - theme/reproduction
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2004
 ---
 

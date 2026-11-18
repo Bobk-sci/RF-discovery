@@ -8,7 +8,7 @@ titre: Unveiling the biological effects of radio-frequency and extremely-low fre
 url: https://pubmed.ncbi.nlm.nih.gov/39104617/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -42,6 +42,13 @@ theme_indices:
 - memory
 - anxiety
 - attention
+bande: bf
+bande_score: 1001.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/revue
@@ -49,6 +56,8 @@ tags:
 - theme/stress_oxydatif
 - theme/barriere_hemato_encephalique
 - theme/plasticite_synaptique
+- bande/bf
+- bande/rf
 - annee/2024
 ---
 

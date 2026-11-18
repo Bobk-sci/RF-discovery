@@ -8,7 +8,7 @@ titre: 'Electromagnetic Exposure Assessment of 5G Mobile Phones: SAR and Thermal
 url: https://pubmed.ncbi.nlm.nih.gov/41829429/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Head
 - Brain
@@ -51,10 +51,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

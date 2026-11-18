@@ -8,7 +8,7 @@ titre: Pilot Study of the Long-Term Effects of Radiofrequency Electromagnetic Ra
 url: https://pubmed.ncbi.nlm.nih.gov/36833719/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Animals
@@ -61,11 +61,19 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - DNA methylation
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

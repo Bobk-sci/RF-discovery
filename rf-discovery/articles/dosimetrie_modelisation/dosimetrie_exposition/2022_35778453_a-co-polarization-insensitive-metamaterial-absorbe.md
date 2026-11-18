@@ -8,7 +8,7 @@ titre: A co-polarization-insensitive metamaterial absorber for 5G n78 mobile dev
 url: https://pubmed.ncbi.nlm.nih.gov/35778453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Computers, Handheld
@@ -39,10 +39,19 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 8.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

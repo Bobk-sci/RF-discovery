@@ -8,7 +8,7 @@ titre: Genotoxicity of radiofrequency signals. I. Investigation of DNA damage an
 url: https://pubmed.ncbi.nlm.nih.gov/11835258/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cells, Cultured
 - Comet Assay
@@ -50,11 +50,18 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2002
 ---
 

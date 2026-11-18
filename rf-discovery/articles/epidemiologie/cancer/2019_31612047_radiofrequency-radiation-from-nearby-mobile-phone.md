@@ -8,7 +8,7 @@ titre: Radiofrequency radiation from nearby mobile phone base stations-a case co
 url: https://pubmed.ncbi.nlm.nih.gov/31612047/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,12 +45,20 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - IARC
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2019
 ---
 

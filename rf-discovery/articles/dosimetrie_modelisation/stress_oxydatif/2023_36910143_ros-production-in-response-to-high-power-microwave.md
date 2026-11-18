@@ -8,7 +8,7 @@ titre: 'ROS production in response to high-power microwave pulses induces p53 ac
 url: https://pubmed.ncbi.nlm.nih.gov/36910143/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,6 +44,12 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -51,6 +57,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2023
 ---
 

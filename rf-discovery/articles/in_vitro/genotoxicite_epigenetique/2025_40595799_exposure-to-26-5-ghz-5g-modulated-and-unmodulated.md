@@ -8,7 +8,7 @@ titre: Exposure to 26.5 GHz, 5G modulated and unmodulated signal, does not affe
 url: https://pubmed.ncbi.nlm.nih.gov/40595799/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -58,6 +58,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -65,6 +73,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

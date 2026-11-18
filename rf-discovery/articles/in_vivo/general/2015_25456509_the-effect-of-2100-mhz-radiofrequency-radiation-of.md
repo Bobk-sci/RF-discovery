@@ -8,7 +8,7 @@ titre: The effect of 2100 MHz radiofrequency radiation of a 3G mobile phone on t
 url: https://pubmed.ncbi.nlm.nih.gov/25456509/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -48,11 +48,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/general
+- bande/rf
 - annee/2015
 ---
 

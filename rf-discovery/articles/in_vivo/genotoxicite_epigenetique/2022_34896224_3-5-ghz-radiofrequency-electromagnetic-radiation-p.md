@@ -8,7 +8,7 @@ titre: 3.5-GHz radiofrequency electromagnetic radiation promotes the development
 url: https://pubmed.ncbi.nlm.nih.gov/34896224/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -51,11 +51,19 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - heat shock protein
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
+- bande/rf
 - annee/2022
 ---
 

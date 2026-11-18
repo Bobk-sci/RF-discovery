@@ -8,7 +8,7 @@ titre: Analysis of Gene Expression in Mice Testes Exposed to 1.765 GHz Microwave
 url: https://pubmed.ncbi.nlm.nih.gov/30028096/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Autoantigens
@@ -54,6 +54,13 @@ theme_indices:
 - in utero
 - pregnancy
 - fetal
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -62,6 +69,7 @@ tags:
 - theme/reproduction
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/2017
 ---
 

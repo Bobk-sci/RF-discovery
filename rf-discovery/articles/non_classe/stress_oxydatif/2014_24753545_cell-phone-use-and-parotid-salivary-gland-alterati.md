@@ -9,7 +9,7 @@ titre: 'Cell phone use and parotid salivary gland alterations: no molecular evid
 url: https://pubmed.ncbi.nlm.nih.gov/24753545/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -48,11 +48,16 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - glutathione
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
 - theme/cancer
+- bande/rf
 - annee/2014
 ---
 

@@ -8,7 +8,7 @@ titre: Changes in cognitive function, synaptic structure and protein expression 
 url: https://pubmed.ncbi.nlm.nih.gov/36782203/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Animals
@@ -57,11 +57,18 @@ theme_indices:
 - learning and memory
 - spatial learning
 - attention
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

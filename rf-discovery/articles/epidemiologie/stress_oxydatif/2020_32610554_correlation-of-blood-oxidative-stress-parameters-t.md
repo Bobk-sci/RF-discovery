@@ -8,7 +8,7 @@ titre: 'Correlation of Blood Oxidative Stress Parameters to Indoor Radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/32610554/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Biomarkers
 - Cell Phone
@@ -54,12 +54,19 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

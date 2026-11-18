@@ -8,7 +8,7 @@ titre: SAR-Constrained Wireless Power Transfer Modeling for an Implantable Optic
 url: https://pubmed.ncbi.nlm.nih.gov/41374543/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Wireless Technology
 - Implantable Neurostimulators
@@ -43,11 +43,20 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 3.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Exposure to hexavalent chromium and 1800 MHz electromagnetic radiation 
 url: https://pubmed.ncbi.nlm.nih.gov/41619510/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - DNA Damage
@@ -58,6 +58,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -66,6 +73,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

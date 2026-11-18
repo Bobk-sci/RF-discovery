@@ -7,7 +7,7 @@ titre: Functional and network analyses of human exposure to long-term evolution 
 url: https://pubmed.ncbi.nlm.nih.gov/32974829/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Magnetic Resonance Imaging
@@ -44,11 +44,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/humain_experimental
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

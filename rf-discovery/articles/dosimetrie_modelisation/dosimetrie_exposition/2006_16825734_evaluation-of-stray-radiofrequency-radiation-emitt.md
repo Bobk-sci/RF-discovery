@@ -7,7 +7,7 @@ titre: Evaluation of stray radiofrequency radiation emitted by electrosurgical d
 url: https://pubmed.ncbi.nlm.nih.gov/16825734/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electrocardiography
 - Electromagnetic Fields
@@ -43,10 +43,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2006
 ---
 

@@ -8,7 +8,7 @@ titre: Advancements in Superparamagnetic Iron Oxide Nanoparticles for Magnetic H
 url: https://pubmed.ncbi.nlm.nih.gov/42733872/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hyperthermia, Induced
 - Magnetic Iron Oxide Nanoparticles
@@ -52,6 +52,11 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -60,6 +65,7 @@ tags:
 - theme/thermique
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

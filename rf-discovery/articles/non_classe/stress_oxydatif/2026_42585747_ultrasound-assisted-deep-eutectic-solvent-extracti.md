@@ -8,7 +8,7 @@ titre: Ultrasound-assisted deep eutectic solvent extraction of green, high-effic
 url: https://pubmed.ncbi.nlm.nih.gov/42585747/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Glycyrrhiza uralensis
 - Polysaccharides
@@ -49,10 +49,16 @@ theme_secondaires: []
 theme_indices:
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

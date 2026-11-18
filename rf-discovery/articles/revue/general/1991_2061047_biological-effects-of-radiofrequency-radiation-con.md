@@ -7,7 +7,7 @@ titre: 'Biological effects of radiofrequency radiation: concepts and criteria.'
 url: https://pubmed.ncbi.nlm.nih.gov/2061047/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Environmental Exposure
@@ -37,12 +37,20 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/1991
 ---
 

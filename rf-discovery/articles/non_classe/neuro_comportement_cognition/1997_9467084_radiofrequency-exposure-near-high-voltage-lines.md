@@ -7,7 +7,7 @@ titre: Radiofrequency exposure near high-voltage lines.
 url: https://pubmed.ncbi.nlm.nih.gov/9467084/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electrophysiology
 - Environmental Exposure
@@ -37,11 +37,19 @@ theme_secondaires:
 - cancer
 theme_indices:
 - attention
+bande: rf
+bande_score: 2.5
+bande_secondaires:
+- bf
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/cancer
+- bande/rf
+- bande/bf
 - annee/1997
 ---
 

@@ -8,7 +8,7 @@ titre: Assessment of biological changes of continuous whole body exposure to sta
 url: https://pubmed.ncbi.nlm.nih.gov/17996303/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biomarkers
@@ -52,11 +52,20 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - redox
+bande: bf
+bande_score: 1004.5
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
+- static magnetic field
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/stress_oxydatif
+- bande/bf
 - annee/2008
 ---
 

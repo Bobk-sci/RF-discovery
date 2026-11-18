@@ -7,7 +7,7 @@ titre: ECG changes in factory workers exposed to 27.2  MHz radiofrequency radi
 url: https://pubmed.ncbi.nlm.nih.gov/23280584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -50,11 +50,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

@@ -8,7 +8,7 @@ titre: Histological and cytological examination of rat reproductive tissue after
 url: https://pubmed.ncbi.nlm.nih.gov/24384757/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Male
@@ -46,12 +46,21 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

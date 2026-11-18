@@ -8,7 +8,7 @@ titre: Assessment of the electromagnetic field exposure due to wireless communic
 url: https://pubmed.ncbi.nlm.nih.gov/37809888/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -39,10 +39,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

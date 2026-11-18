@@ -8,7 +8,7 @@ titre: 'Redox cell signalling triggered by black carbon and/or radiofrequency el
 url: https://pubmed.ncbi.nlm.nih.gov/39244061/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Soot
@@ -53,6 +53,11 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - redox
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -60,6 +65,7 @@ tags:
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

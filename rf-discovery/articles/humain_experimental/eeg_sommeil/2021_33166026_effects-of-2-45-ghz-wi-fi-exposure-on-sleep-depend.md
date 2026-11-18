@@ -7,7 +7,7 @@ titre: Effects of 2.45 GHz Wi-Fi exposure on sleep-dependent memory consolidatio
 url: https://pubmed.ncbi.nlm.nih.gov/33166026/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Cross-Over Studies
@@ -56,12 +56,20 @@ theme_indices:
 - EEG
 - sleep
 - spindle
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

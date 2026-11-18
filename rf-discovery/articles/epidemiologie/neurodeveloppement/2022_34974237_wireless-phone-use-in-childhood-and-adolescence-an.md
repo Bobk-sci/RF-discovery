@@ -8,7 +8,7 @@ titre: 'Wireless phone use in childhood and adolescence and neuroepithelial brai
 url: https://pubmed.ncbi.nlm.nih.gov/34974237/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -108,11 +108,20 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+bande: bf
+bande_score: 1001.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- induced current density
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/cancer
+- bande/bf
+- bande/rf
 - annee/2022
 ---
 

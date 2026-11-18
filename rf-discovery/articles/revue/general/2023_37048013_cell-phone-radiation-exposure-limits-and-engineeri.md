@@ -7,7 +7,7 @@ titre: Cell Phone Radiation Exposure Limits and Engineering Solutions.
 url: https://pubmed.ncbi.nlm.nih.gov/37048013/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Communication
@@ -57,12 +57,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - modele/humain_experimental
 - theme/general
+- bande/rf
 - annee/2023
 ---
 

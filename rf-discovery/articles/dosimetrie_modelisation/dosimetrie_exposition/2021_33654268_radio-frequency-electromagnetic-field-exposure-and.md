@@ -8,7 +8,7 @@ titre: 'Radio-frequency electromagnetic field exposure and contribution of sourc
 url: https://pubmed.ncbi.nlm.nih.gov/33654268/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Cell Phone
@@ -53,11 +53,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

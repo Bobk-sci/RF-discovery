@@ -8,7 +8,7 @@ titre: Comparative study of cell cycle kinetics and induction of apoptosis or ne
 url: https://pubmed.ncbi.nlm.nih.gov/16953672/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Cell Cycle
@@ -53,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +67,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2006
 ---
 

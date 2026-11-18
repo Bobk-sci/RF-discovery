@@ -8,7 +8,7 @@ titre: 'Shark preferences: Only subtle effects of electromagnetic field exposure
 url: https://pubmed.ncbi.nlm.nih.gov/42517296/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,10 +40,15 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - behaviour
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

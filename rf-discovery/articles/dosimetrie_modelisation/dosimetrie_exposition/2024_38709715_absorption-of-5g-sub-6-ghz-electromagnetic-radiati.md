@@ -8,7 +8,7 @@ titre: Absorption of 5G sub-6 GHz electromagnetic radiation from base station 
 url: https://pubmed.ncbi.nlm.nih.gov/38709715/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Male
 - Humans
@@ -47,11 +47,20 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - base station
+bande: rf
+bande_score: 9.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/reproduction
+- bande/rf
 - annee/2024
 ---
 

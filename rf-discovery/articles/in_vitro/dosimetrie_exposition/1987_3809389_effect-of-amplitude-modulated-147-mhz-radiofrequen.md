@@ -8,7 +8,7 @@ titre: Effect of amplitude-modulated 147 MHz radiofrequency radiation on calcium
 url: https://pubmed.ncbi.nlm.nih.gov/3809389/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -43,12 +43,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1987
 ---
 

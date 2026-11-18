@@ -8,7 +8,7 @@ titre: Radiofrequency radiation (900 MHz) induces Egr-1 gene expression and affe
 url: https://pubmed.ncbi.nlm.nih.gov/17559061/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Blotting, Western
@@ -65,6 +65,12 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - cell viability
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -72,6 +78,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2007
 ---
 

@@ -8,7 +8,7 @@ titre: Design and analysis of modified octagonal ring-shaped MIMO antenna with c
 url: https://pubmed.ncbi.nlm.nih.gov/42365020/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -53,11 +53,20 @@ theme_indices:
 - specific absorption rate
 - ICNIRP
 - compliance
+bande: rf
+bande_score: 9.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

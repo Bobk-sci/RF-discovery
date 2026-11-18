@@ -8,7 +8,7 @@ titre: Effect of 2400 MHz mobile phone radiation exposure on the behavior and 
 url: https://pubmed.ncbi.nlm.nih.gov/35002399/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -41,10 +41,18 @@ theme_secondaires: []
 theme_indices:
 - anxiety
 - behavior
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2022
 ---
 

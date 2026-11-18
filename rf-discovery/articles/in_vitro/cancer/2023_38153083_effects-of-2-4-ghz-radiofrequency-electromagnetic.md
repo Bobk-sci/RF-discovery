@@ -8,7 +8,7 @@ titre: Effects of 2.4 GHz radiofrequency electromagnetic field (RF-EMF) on gliob
 url: https://pubmed.ncbi.nlm.nih.gov/38153083/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -55,12 +55,22 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumour
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/cancer
+- bande/rf
 - annee/2023
 ---
 

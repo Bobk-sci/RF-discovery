@@ -7,7 +7,7 @@ titre: Influence of Super-Low-Intensity Microwave Radiation on Mesenchymal Stem 
 url: https://pubmed.ncbi.nlm.nih.gov/40004170/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Mesenchymal Stem Cells
 - Animals
@@ -50,6 +50,11 @@ theme_secondaires:
 theme_indices:
 - ion channel
 - calcium signaling
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
@@ -58,6 +63,7 @@ tags:
 - theme/calcium_canaux_ioniques
 - theme/apoptose_mitochondrie
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

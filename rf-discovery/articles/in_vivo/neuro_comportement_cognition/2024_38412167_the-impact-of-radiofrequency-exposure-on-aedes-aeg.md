@@ -8,7 +8,7 @@ titre: 'The impact of radiofrequency exposure on Aedes aegypti (Diptera: Culicid
 url: https://pubmed.ncbi.nlm.nih.gov/38412167/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -43,11 +43,20 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behaviour
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

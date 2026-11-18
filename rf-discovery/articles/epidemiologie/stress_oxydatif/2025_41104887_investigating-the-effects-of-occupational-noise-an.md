@@ -8,7 +8,7 @@ titre: Investigating the Effects of Occupational Noise and Extremely Low-Frequen
 url: https://pubmed.ncbi.nlm.nih.gov/41104887/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Malondialdehyde
@@ -58,10 +58,17 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+bande: bf
+bande_score: 1001.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/epidemiologie
 - theme/stress_oxydatif
+- bande/bf
 - annee/2025
 ---
 

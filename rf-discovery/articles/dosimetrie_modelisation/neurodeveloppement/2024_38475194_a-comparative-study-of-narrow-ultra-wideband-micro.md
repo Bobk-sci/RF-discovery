@@ -8,7 +8,7 @@ titre: A Comparative Study of Narrow/Ultra-Wideband Microwave Sensors for the Co
 url: https://pubmed.ncbi.nlm.nih.gov/38475194/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Lung
 - Humans
@@ -52,12 +52,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Effect of exposure to 900 MHz radiofrequency radiation on intrachromosoma
 url: https://pubmed.ncbi.nlm.nih.gov/11604062/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Chromosome Inversion
@@ -45,10 +45,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2001
 ---
 

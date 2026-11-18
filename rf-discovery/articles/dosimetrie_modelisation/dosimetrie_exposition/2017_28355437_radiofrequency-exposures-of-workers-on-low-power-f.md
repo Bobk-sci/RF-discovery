@@ -7,7 +7,7 @@ titre: Radiofrequency Exposures of Workers on Low-Power FM Radio Transmitters.
 url: https://pubmed.ncbi.nlm.nih.gov/28355437/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -50,10 +50,18 @@ theme_indices:
 - specific absorption rate
 - electric field strength
 - exposure limit
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

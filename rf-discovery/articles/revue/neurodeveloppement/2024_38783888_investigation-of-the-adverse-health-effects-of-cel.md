@@ -8,7 +8,7 @@ titre: 'Investigation of the Adverse Health Effects of Cell Phone Radiation and 
 url: https://pubmed.ncbi.nlm.nih.gov/38783888/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -42,12 +42,18 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - children
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

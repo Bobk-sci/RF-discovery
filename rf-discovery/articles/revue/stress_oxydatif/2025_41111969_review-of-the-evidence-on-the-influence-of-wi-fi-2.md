@@ -8,7 +8,7 @@ titre: Review of the evidence on the influence of Wi-Fi 2.4 GHz radiation on o
 url: https://pubmed.ncbi.nlm.nih.gov/41111969/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Systematic Review
@@ -51,10 +51,17 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - antioxidant
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/revue
 - theme/stress_oxydatif
+- bande/rf
 - annee/2025
 ---
 

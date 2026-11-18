@@ -8,7 +8,7 @@ titre: The role of autophagy in microwave radiation induced toxicity in iPSC-der
 url: https://pubmed.ncbi.nlm.nih.gov/41847319/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -43,10 +43,16 @@ theme_indices:
 - mitochondria
 - membrane potential
 - autophagy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

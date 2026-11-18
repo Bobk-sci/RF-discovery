@@ -8,7 +8,7 @@ titre: Radiofrequency electromagnetic fields (UMTS, 1,950 MHz) induce genotoxic 
 url: https://pubmed.ncbi.nlm.nih.gov/18278508/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -62,6 +62,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -69,6 +76,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

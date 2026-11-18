@@ -8,7 +8,7 @@ titre: 'The effects of radiofrequency electromagnetic fields exposure on human s
 url: https://pubmed.ncbi.nlm.nih.gov/34735955/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -62,6 +62,12 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -69,6 +75,7 @@ tags:
 - modele/humain_experimental
 - modele/in_vivo
 - theme/eeg_sommeil
+- bande/rf
 - annee/2022
 ---
 

@@ -8,7 +8,7 @@ titre: Health and safety implications of exposure to electromagnetic fields in t
 url: https://pubmed.ncbi.nlm.nih.gov/11793407/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Biophysics
 - Electromagnetic Fields
@@ -50,11 +50,17 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2002
 ---
 

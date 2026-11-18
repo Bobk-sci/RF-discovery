@@ -8,7 +8,7 @@ titre: 'Sleep in everyday life - relationship to mood and performance in young a
 url: https://pubmed.ncbi.nlm.nih.gov/38078262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -42,12 +42,18 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - sleep
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

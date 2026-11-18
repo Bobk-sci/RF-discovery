@@ -8,7 +8,7 @@ titre: Does prolonged radiofrequency radiation emitted from Wi-Fi devices induce
 url: https://pubmed.ncbi.nlm.nih.gov/26775760/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -57,6 +57,12 @@ theme_secondaires:
 theme_indices:
 - testis
 - testicular
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -64,6 +70,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2016
 ---
 

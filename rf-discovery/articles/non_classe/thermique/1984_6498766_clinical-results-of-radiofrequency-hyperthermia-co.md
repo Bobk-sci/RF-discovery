@@ -8,7 +8,7 @@ titre: Clinical results of radiofrequency hyperthermia combined with radiation i
 url: https://pubmed.ncbi.nlm.nih.gov/6498766/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Body Temperature
 - Combined Modality Therapy
@@ -43,11 +43,17 @@ theme_indices:
 - hyperthermia
 - heating
 - body temperature
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
 - theme/cancer
+- bande/rf
 - annee/1984
 ---
 

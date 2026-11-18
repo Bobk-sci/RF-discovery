@@ -8,7 +8,7 @@ titre: Direct measurement of non-thermal microwave effects on bacterial growth a
 url: https://pubmed.ncbi.nlm.nih.gov/40400323/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Staphylococcus aureus
 - Equipment Design
@@ -44,11 +44,18 @@ theme_secondaires:
 - thermique
 theme_indices:
 - redox
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

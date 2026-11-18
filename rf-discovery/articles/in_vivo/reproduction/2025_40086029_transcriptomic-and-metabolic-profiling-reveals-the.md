@@ -8,7 +8,7 @@ titre: Transcriptomic and metabolic profiling reveals the effects of long-term m
 url: https://pubmed.ncbi.nlm.nih.gov/40086029/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -63,12 +63,19 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
+- bande/rf
 - annee/2025
 ---
 

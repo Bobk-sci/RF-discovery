@@ -8,7 +8,7 @@ titre: Protocol for a systematic review of the in vivo studies on radiofrequency
 url: https://pubmed.ncbi.nlm.nih.gov/35172887/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Neoplasms
@@ -57,11 +57,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - carcinogenic
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/cancer
+- bande/rf
 - annee/2022
 ---
 

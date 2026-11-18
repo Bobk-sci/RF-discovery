@@ -7,7 +7,7 @@ titre: 5G RF EMF Spectral Exposure Assessment in Four European Countries.
 url: https://pubmed.ncbi.nlm.nih.gov/40831424/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -54,10 +54,18 @@ theme_indices:
 - power density
 - ICNIRP
 - measurement campaign
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

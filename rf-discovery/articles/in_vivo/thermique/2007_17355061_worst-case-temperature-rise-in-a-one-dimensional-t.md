@@ -8,7 +8,7 @@ titre: Worst case temperature rise in a one-dimensional tissue model exposed to 
 url: https://pubmed.ncbi.nlm.nih.gov/17355061/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -47,12 +47,19 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - body temperature
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2007
 ---
 

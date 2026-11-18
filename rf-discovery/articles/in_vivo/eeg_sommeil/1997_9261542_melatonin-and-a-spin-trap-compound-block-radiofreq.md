@@ -8,7 +8,7 @@ titre: Melatonin and a spin-trap compound block radiofrequency electromagnetic r
 url: https://pubmed.ncbi.nlm.nih.gov/9261542/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -54,6 +54,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - melatonin
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +68,7 @@ tags:
 - theme/eeg_sommeil
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1997
 ---
 

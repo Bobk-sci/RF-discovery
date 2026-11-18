@@ -8,7 +8,7 @@ titre: A meta-analysis of in vitro exposures to weak radiofrequency radiation ex
 url: https://pubmed.ncbi.nlm.nih.gov/32199316/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Animals
@@ -71,6 +71,13 @@ theme_indices:
 - in utero
 - child
 - adolescent
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -81,6 +88,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2020
 ---
 

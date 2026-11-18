@@ -7,7 +7,7 @@ titre: Gold Nanocluster-Mediated Cellular Death under Electromagnetic Radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/29116739/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Survival
@@ -54,12 +54,19 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/thermique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2017
 ---
 

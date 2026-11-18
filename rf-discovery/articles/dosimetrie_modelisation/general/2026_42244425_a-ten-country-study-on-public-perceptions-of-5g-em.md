@@ -8,7 +8,7 @@ titre: 'A Ten-Country Study on Public Perceptions of 5G EMF Emissions: Who Feels
 url: https://pubmed.ncbi.nlm.nih.gov/42244425/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Perception
@@ -55,10 +55,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

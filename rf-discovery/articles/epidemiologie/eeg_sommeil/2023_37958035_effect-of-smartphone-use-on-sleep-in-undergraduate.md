@@ -8,7 +8,7 @@ titre: 'Effect of Smartphone Use on Sleep in Undergraduate Medical Students: A C
 url: https://pubmed.ncbi.nlm.nih.gov/37958035/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -52,12 +52,18 @@ theme_secondaires:
 theme_indices:
 - sleep
 - circadian
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

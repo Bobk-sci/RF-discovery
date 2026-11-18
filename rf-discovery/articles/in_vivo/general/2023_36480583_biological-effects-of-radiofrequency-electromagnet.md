@@ -8,7 +8,7 @@ titre: 'Biological Effects of Radiofrequency Electromagnetic Fields above 100 MH
 url: https://pubmed.ncbi.nlm.nih.gov/36480583/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Ecosystem
 - Germany
@@ -36,10 +36,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2023
 ---
 

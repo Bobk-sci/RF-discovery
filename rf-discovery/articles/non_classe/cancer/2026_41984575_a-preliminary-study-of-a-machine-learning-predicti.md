@@ -9,7 +9,7 @@ titre: A Preliminary Study of a Machine Learning Prediction of Poorly Differenti
 url: https://pubmed.ncbi.nlm.nih.gov/41984575/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Carcinoma, Hepatocellular
@@ -59,10 +59,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

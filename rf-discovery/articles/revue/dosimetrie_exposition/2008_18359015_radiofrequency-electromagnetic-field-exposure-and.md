@@ -8,7 +8,7 @@ titre: 'Radiofrequency electromagnetic field exposure and non-specific symptoms 
 url: https://pubmed.ncbi.nlm.nih.gov/18359015/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Humans
@@ -45,12 +45,19 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - base station
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/humain_experimental
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

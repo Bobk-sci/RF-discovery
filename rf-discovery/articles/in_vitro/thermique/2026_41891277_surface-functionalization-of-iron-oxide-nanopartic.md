@@ -9,7 +9,7 @@ titre: 'Surface Functionalization of Iron Oxide Nanoparticles With Polymers and 
 url: https://pubmed.ncbi.nlm.nih.gov/41891277/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Magnetic Iron Oxide Nanoparticles
 - Polymers
@@ -58,6 +58,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: intermediaire
+bande_score: 1.0
+bande_secondaires:
+- rf
+bande_indices:
+- induction heating
 tags:
 - rf
 - modele/in_vitro
@@ -66,6 +72,8 @@ tags:
 - theme/thermique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/intermediaire
+- bande/rf
 - annee/2026
 ---
 

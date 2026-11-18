@@ -8,7 +8,7 @@ titre: Design analysis and performance enhancement of a 2-element MIMO skin-impl
 url: https://pubmed.ncbi.nlm.nih.gov/39636822/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Skin
 - Animals
@@ -51,12 +51,20 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

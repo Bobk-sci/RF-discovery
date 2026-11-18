@@ -8,7 +8,7 @@ titre: 5G RF-EMFs Mitigate UV-Induced Genotoxic Stress Through Redox Balance and
 url: https://pubmed.ncbi.nlm.nih.gov/41596185/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -52,12 +52,20 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - redox
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

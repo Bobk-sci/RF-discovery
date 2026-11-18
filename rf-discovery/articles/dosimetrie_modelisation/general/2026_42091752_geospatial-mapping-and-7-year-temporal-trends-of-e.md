@@ -8,7 +8,7 @@ titre: Geospatial mapping and 7-year temporal trends of electromagnetic field ba
 url: https://pubmed.ncbi.nlm.nih.gov/42091752/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Radiation Monitoring
 - Environmental Exposure
@@ -48,10 +48,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

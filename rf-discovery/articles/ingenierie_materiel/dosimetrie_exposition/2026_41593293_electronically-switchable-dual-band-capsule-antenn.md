@@ -8,7 +8,7 @@ titre: Electronically switchable dual-band capsule antenna for wireless endoscop
 url: https://pubmed.ncbi.nlm.nih.gov/41593293/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,12 +42,20 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - modele/in_vitro
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

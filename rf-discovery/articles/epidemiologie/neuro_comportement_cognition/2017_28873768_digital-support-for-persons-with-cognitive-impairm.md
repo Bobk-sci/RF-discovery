@@ -7,7 +7,7 @@ titre: Digital Support for Persons with Cognitive Impairment.
 url: https://pubmed.ncbi.nlm.nih.gov/28873768/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Activities of Daily Living
 - Cell Phone
@@ -45,10 +45,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2017
 ---
 

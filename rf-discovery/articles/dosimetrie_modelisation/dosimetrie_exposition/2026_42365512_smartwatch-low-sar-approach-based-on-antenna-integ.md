@@ -8,7 +8,7 @@ titre: Smartwatch low-SAR approach based on antenna integrated with metamaterial
 url: https://pubmed.ncbi.nlm.nih.gov/42365512/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -42,12 +42,19 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - ICNIRP
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2026
 ---
 

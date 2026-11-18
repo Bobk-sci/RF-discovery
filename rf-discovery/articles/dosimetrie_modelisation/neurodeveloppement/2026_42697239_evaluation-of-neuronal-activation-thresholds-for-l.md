@@ -8,7 +8,7 @@ titre: Evaluation of neuronal activation thresholds for low-frequency electromag
 url: https://pubmed.ncbi.nlm.nih.gov/42697239/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Neurons
 - Humans
@@ -51,10 +51,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - child
+bande: intermediaire
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- electronic article surveillance
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
+- bande/intermediaire
 - annee/2026
 ---
 

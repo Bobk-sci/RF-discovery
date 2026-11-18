@@ -8,7 +8,7 @@ titre: Studying gene expression profile of rat neuron exposed to 1800MHz radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/17449163/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cells, Cultured
@@ -47,12 +47,20 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2007
 ---
 

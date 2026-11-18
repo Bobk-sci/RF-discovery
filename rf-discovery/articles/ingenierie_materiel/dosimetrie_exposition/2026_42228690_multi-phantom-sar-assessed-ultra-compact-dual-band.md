@@ -8,7 +8,7 @@ titre: Multi-phantom SAR-assessed ultra-compact dual-band millimeter-wave (mmWav
 url: https://pubmed.ncbi.nlm.nih.gov/42228690/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Phantoms, Imaging
 - Smartphone
@@ -35,11 +35,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

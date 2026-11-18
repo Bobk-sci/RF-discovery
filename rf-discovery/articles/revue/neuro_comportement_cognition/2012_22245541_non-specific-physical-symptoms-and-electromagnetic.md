@@ -8,7 +8,7 @@ titre: 'Non-specific physical symptoms and electromagnetic field exposure in the
 url: https://pubmed.ncbi.nlm.nih.gov/22245541/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Attention
 - Confidence Intervals
@@ -54,12 +54,17 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - attention
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2012
 ---
 

@@ -8,7 +8,7 @@ titre: Electromagnetic fields and EEG spiking rate in patients with focal epilep
 url: https://pubmed.ncbi.nlm.nih.gov/25163416/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Action Potentials
 - Adult
@@ -55,11 +55,17 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/humain_experimental
 - theme/eeg_sommeil
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2015
 ---
 

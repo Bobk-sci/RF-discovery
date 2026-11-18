@@ -8,7 +8,7 @@ titre: The WHO-commissioned systematic reviews on health effects of radiofrequen
 url: https://pubmed.ncbi.nlm.nih.gov/41034851/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -69,6 +69,11 @@ theme_secondaires:
 theme_indices:
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -79,6 +84,7 @@ tags:
 - theme/stress_oxydatif
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2025
 ---
 

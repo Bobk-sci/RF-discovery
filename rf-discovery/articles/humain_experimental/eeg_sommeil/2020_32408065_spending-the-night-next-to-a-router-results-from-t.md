@@ -8,7 +8,7 @@ titre: Spending the night next to a router - Results from the first human experi
 url: https://pubmed.ncbi.nlm.nih.gov/32408065/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Cross-Over Studies
@@ -55,11 +55,19 @@ theme_indices:
 - EEG
 - sleep
 - polysomnography
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

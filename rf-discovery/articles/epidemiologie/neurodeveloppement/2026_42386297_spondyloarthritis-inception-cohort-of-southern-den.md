@@ -9,7 +9,7 @@ titre: 'Spondyloarthritis Inception Cohort of Southern Denmark (SPINCODE): a pro
 url: https://pubmed.ncbi.nlm.nih.gov/42386297/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Sacroiliac Joint
 - Humans
@@ -61,10 +61,15 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2026
 ---
 

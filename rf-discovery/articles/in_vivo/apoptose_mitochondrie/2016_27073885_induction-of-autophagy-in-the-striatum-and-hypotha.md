@@ -8,7 +8,7 @@ titre: Induction of Autophagy in the Striatum and Hypothalamus of Mice after 835
 url: https://pubmed.ncbi.nlm.nih.gov/27073885/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Autophagy
@@ -47,6 +47,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - autophagy
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -55,6 +63,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2016
 ---
 

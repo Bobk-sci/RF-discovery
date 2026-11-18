@@ -7,7 +7,7 @@ titre: Effects of mobile phone radiofrequency radiation on sperm quality.
 url: https://pubmed.ncbi.nlm.nih.gov/34384508/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Humans
@@ -51,12 +51,19 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/reproduction
 - theme/stress_oxydatif
+- bande/rf
 - annee/2022
 ---
 

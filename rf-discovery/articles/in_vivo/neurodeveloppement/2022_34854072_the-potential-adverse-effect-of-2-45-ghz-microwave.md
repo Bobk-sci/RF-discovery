@@ -8,7 +8,7 @@ titre: The potential adverse effect of 2.45 GHz microwave radiation on the teste
 url: https://pubmed.ncbi.nlm.nih.gov/34854072/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Seminiferous Tubules
@@ -54,6 +54,13 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +68,7 @@ tags:
 - theme/neurodeveloppement
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

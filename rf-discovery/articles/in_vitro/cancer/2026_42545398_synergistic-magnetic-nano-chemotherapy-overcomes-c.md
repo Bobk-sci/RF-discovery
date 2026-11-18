@@ -8,7 +8,7 @@ titre: Synergistic magnetic nano-chemotherapy overcomes chemoresistance in 3D br
 url: https://pubmed.ncbi.nlm.nih.gov/42545398/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Doxorubicin
 - Humans
@@ -64,6 +64,11 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -73,6 +78,7 @@ tags:
 - theme/thermique
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

@@ -8,7 +8,7 @@ titre: Distortion of millimeter-wave absorption in biological media due to prese
 url: https://pubmed.ncbi.nlm.nih.gov/11534836/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption
 - Electric Impedance
@@ -46,10 +46,17 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

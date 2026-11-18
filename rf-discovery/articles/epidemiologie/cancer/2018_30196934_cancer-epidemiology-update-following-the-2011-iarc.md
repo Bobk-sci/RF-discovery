@@ -8,7 +8,7 @@ titre: Cancer epidemiology update, following the 2011 IARC evaluation of radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/30196934/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain Neoplasms
@@ -68,6 +68,13 @@ theme_indices:
 - schwannoma
 - meningioma
 - IARC
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
@@ -75,6 +82,7 @@ tags:
 - modele/in_vivo
 - theme/cancer
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2018
 ---
 

@@ -8,7 +8,7 @@ titre: 'Human Fibroblasts In Vitro Exposed to 2.45 GHz Continuous and Pulsed Wav
 url: https://pubmed.ncbi.nlm.nih.gov/32992895/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aged
 - Cell Cycle
@@ -63,6 +63,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/in_vitro
@@ -70,6 +78,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

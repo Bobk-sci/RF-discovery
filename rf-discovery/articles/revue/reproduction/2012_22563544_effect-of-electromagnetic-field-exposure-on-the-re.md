@@ -7,7 +7,7 @@ titre: Effect of electromagnetic field exposure on the reproductive system.
 url: https://pubmed.ncbi.nlm.nih.gov/22563544/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -36,6 +36,10 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
@@ -44,6 +48,7 @@ tags:
 - theme/reproduction
 - theme/neurodeveloppement
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2012
 ---
 

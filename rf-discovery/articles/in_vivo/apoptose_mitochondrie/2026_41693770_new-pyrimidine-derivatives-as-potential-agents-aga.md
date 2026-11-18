@@ -8,7 +8,7 @@ titre: 'New pyrimidine derivatives as potential agents against hepatocellular ca
 url: https://pubmed.ncbi.nlm.nih.gov/41693770/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -54,6 +54,11 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - cell death
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +66,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

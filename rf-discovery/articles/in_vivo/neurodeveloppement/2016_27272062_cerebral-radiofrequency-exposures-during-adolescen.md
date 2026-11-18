@@ -8,7 +8,7 @@ titre: 'Cerebral radiofrequency exposures during adolescence: Impact on astrocyt
 url: https://pubmed.ncbi.nlm.nih.gov/27272062/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Animals
@@ -64,12 +64,20 @@ theme_indices:
 - prenatal
 - pregnancy
 - adolescent
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/neuroinflammation
+- bande/rf
 - annee/2016
 ---
 

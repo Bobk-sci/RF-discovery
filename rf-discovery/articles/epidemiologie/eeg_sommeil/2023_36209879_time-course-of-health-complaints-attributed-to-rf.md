@@ -9,7 +9,7 @@ titre: Time course of health complaints attributed to RF-EMF exposure and predic
 url: https://pubmed.ncbi.nlm.nih.gov/36209879/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Hypersensitivity
@@ -54,11 +54,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/eeg_sommeil
+- bande/rf
 - annee/2023
 ---
 

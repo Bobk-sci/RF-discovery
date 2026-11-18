@@ -8,7 +8,7 @@ titre: 'Exposure to ELF magnetic and ELF-modulated radiofrequency fields: the ti
 url: https://pubmed.ncbi.nlm.nih.gov/16724317/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electroencephalography
@@ -45,11 +45,22 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - memory
+bande: mixte
+bande_score: 1005.0
+bande_secondaires:
+- rf
+bande_indices:
+- ELF-modulated radiofrequency (descripteur décisif)
+- ELF modulated radiofrequency (descripteur décisif)
+- ELF-modulated
+- ELF modulated
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/mixte
+- bande/rf
 - annee/2006
 ---
 

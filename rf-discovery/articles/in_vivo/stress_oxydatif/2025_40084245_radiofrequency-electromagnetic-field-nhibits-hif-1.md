@@ -9,7 +9,7 @@ titre: Radiofrequency electromagnetic field ınhibits HIF-1 alpha and activates 
 url: https://pubmed.ncbi.nlm.nih.gov/40084245/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Mesenteric Arteries
 - Animals
@@ -63,11 +63,17 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - nitric oxide
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

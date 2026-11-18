@@ -8,7 +8,7 @@ titre: 'In situ measurements of radiofrequency exposure levels in Greece from 20
 url: https://pubmed.ncbi.nlm.nih.gov/25726724/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Environmental Exposure
 - Greece
@@ -44,10 +44,16 @@ theme_secondaires: []
 theme_indices:
 - exposure limit
 - compliance
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

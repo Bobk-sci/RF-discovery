@@ -7,7 +7,7 @@ titre: About the Accuracy and Problems of Consumer Devices in the Assessment of 
 url: https://pubmed.ncbi.nlm.nih.gov/31557952/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -47,10 +47,16 @@ theme_secondaires: []
 theme_indices:
 - sleep
 - polysomnography
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
+- bande/rf
 - annee/2019
 ---
 

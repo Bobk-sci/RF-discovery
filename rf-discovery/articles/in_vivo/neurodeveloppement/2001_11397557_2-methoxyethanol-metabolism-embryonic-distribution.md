@@ -8,7 +8,7 @@ titre: '2-Methoxyethanol metabolism, embryonic distribution, and macromolecular 
 url: https://pubmed.ncbi.nlm.nih.gov/11397557/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acetates
 - Animals
@@ -61,11 +61,18 @@ theme_indices:
 - pregnancy
 - fetal
 - embryo
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/2001
 ---
 

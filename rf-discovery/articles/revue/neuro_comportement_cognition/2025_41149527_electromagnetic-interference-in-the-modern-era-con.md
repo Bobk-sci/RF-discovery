@@ -8,7 +8,7 @@ titre: 'Electromagnetic Interference in the Modern Era: Concerns, Trends, and Na
 url: https://pubmed.ncbi.nlm.nih.gov/41149527/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -45,10 +45,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

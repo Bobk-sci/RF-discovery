@@ -9,7 +9,7 @@ titre: 'Understanding the Needs of a Mobile Phone-Based Telemonitoring Program f
 url: https://pubmed.ncbi.nlm.nih.gov/35200152/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -46,10 +46,16 @@ theme_indices:
 - pregnancy
 - neonatal
 - child
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

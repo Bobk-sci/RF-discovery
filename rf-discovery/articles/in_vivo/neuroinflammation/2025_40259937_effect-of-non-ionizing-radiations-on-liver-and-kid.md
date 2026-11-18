@@ -8,7 +8,7 @@ titre: Effect of Non-Ionizing Radiations on Liver and Kidney Function Tests in a
 url: https://pubmed.ncbi.nlm.nih.gov/40259937/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,10 +42,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - inflammatory response
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/neuroinflammation
+- bande/rf
 - annee/2025
 ---
 

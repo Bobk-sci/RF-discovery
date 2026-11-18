@@ -9,7 +9,7 @@ titre: '[Effect of 1.8 GHz radiofrequency electromagnetic fields on gene express
 url: https://pubmed.ncbi.nlm.nih.gov/19358751/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cells, Cultured
@@ -46,12 +46,19 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2008
 ---
 

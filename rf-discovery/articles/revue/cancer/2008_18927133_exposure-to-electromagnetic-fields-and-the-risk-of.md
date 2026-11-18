@@ -8,7 +8,7 @@ titre: 'Exposure to electromagnetic fields and the risk of childhood leukaemia: 
 url: https://pubmed.ncbi.nlm.nih.gov/18927133/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Body Burden
 - Child
@@ -46,12 +46,19 @@ theme_secondaires:
 theme_indices:
 - carcinogenic
 - leukemia
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2008
 ---
 

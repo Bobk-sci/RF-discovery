@@ -7,7 +7,7 @@ titre: Effects of 5.8 GHz Microwaves on Testicular Structure and Function in R
 url: https://pubmed.ncbi.nlm.nih.gov/35707372/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -54,12 +54,19 @@ theme_indices:
 - sperm
 - testis
 - testicular
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2022
 ---
 

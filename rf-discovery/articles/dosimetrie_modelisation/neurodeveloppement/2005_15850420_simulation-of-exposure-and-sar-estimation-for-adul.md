@@ -8,7 +8,7 @@ titre: Simulation of exposure and SAR estimation for adult and child heads expos
 url: https://pubmed.ncbi.nlm.nih.gov/15850420/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -49,11 +49,19 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2005
 ---
 

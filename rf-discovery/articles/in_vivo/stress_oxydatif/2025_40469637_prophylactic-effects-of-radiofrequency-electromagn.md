@@ -8,7 +8,7 @@ titre: Prophylactic Effects of Radiofrequency Electromagnetic Field on Pulmonary
 url: https://pubmed.ncbi.nlm.nih.gov/40469637/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -49,12 +49,18 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2025
 ---
 

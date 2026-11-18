@@ -7,7 +7,7 @@ titre: Ocular effects of radiofrequency energy.
 url: https://pubmed.ncbi.nlm.nih.gov/14628311/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -47,6 +47,13 @@ theme_secondaires:
 theme_indices:
 - heating
 - body temperature
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -55,6 +62,7 @@ tags:
 - theme/thermique
 - theme/dosimetrie_exposition
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2003
 ---
 

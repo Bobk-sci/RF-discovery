@@ -7,7 +7,7 @@ titre: Skin biothermomechanics for medical treatments.
 url: https://pubmed.ncbi.nlm.nih.gov/19627782/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Burns
@@ -45,12 +45,19 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2008
 ---
 

@@ -8,7 +8,7 @@ titre: Single exposure to near-threshold 5G millimeter wave modifies restraint s
 url: https://pubmed.ncbi.nlm.nih.gov/40335291/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -57,11 +57,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

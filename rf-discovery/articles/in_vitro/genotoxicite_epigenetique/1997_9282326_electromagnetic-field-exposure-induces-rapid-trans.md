@@ -8,7 +8,7 @@ titre: Electromagnetic field exposure induces rapid, transitory heat shock facto
 url: https://pubmed.ncbi.nlm.nih.gov/9282326/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Binding Sites
 - DNA-Binding Proteins
@@ -51,12 +51,17 @@ theme_secondaires:
 - thermique
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/1997
 ---
 

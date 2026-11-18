@@ -8,7 +8,7 @@ titre: 'The carcinogenic potential of non-ionizing radiations: The cases of S-50
 url: https://pubmed.ncbi.nlm.nih.gov/30801980/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Carcinogenesis
@@ -59,6 +59,12 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - schwannoma
+bande: bf
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/revue
@@ -67,6 +73,8 @@ tags:
 - theme/cancer
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/bf
+- bande/rf
 - annee/2019
 ---
 

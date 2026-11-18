@@ -8,7 +8,7 @@ titre: Bacterial Adaptation to Radiofrequency Electromagnetic Fields Based on Ex
 url: https://pubmed.ncbi.nlm.nih.gov/42292682/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -44,10 +44,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/revue
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

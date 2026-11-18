@@ -7,7 +7,7 @@ titre: Protect children from EMF.
 url: https://pubmed.ncbi.nlm.nih.gov/26444201/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Adolescent
@@ -42,12 +42,19 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

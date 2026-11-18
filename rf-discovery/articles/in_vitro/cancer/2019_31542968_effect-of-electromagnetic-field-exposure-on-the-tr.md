@@ -8,7 +8,7 @@ titre: Effect of electromagnetic field exposure on the transcription of repetiti
 url: https://pubmed.ncbi.nlm.nih.gov/31542968/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -48,12 +48,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2019
 ---
 

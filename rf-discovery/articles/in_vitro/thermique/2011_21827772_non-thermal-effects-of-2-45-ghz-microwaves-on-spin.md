@@ -8,7 +8,7 @@ titre: Non-thermal effects of 2.45 GHz microwaves on spindle assembly, mitotic c
 url: https://pubmed.ncbi.nlm.nih.gov/21827772/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - non-thermal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vitro
@@ -62,6 +68,7 @@ tags:
 - theme/thermique
 - theme/eeg_sommeil
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2011
 ---
 

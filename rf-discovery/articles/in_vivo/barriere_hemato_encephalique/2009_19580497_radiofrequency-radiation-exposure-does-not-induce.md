@@ -8,7 +8,7 @@ titre: Radiofrequency-radiation exposure does not induce detectable leakage of a
 url: https://pubmed.ncbi.nlm.nih.gov/19580497/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Albumins
 - Animals
@@ -50,10 +50,16 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - albumin extravasation
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2009
 ---
 

@@ -8,7 +8,7 @@ titre: Effects of 4G mobile phone radiation exposure on reproductive, hepatic, r
 url: https://pubmed.ncbi.nlm.nih.gov/38102429/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Rats
@@ -63,12 +63,20 @@ theme_indices:
 - spermatozoa
 - testis
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

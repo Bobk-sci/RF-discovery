@@ -8,7 +8,7 @@ titre: Role of 2.4 GHz radiofrequency radiation emitted from Wi-Fi on some miRNA
 url: https://pubmed.ncbi.nlm.nih.gov/35435088/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -51,10 +51,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - microRNA
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2022
 ---
 

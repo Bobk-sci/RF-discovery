@@ -8,7 +8,7 @@ titre: Subjective symptoms among mobile phone users--a consequence of absorption
 url: https://pubmed.ncbi.nlm.nih.gov/12669297/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Body Temperature
 - Cell Phone
@@ -55,12 +55,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - body temperature
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2003
 ---
 

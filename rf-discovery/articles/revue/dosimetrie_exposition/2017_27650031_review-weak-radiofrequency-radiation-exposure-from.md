@@ -8,7 +8,7 @@ titre: 'Review: Weak radiofrequency radiation exposure from mobile phone radiati
 url: https://pubmed.ncbi.nlm.nih.gov/27650031/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -47,6 +47,13 @@ theme_secondaires:
 - thermique
 theme_indices:
 - base station
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -54,6 +61,7 @@ tags:
 - modele/epidemiologie
 - theme/dosimetrie_exposition
 - theme/thermique
+- bande/rf
 - annee/2017
 ---
 

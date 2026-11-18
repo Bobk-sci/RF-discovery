@@ -8,7 +8,7 @@ titre: Evidences of the radiofrequency exposure on the antioxidant status, poten
 url: https://pubmed.ncbi.nlm.nih.gov/35700956/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -56,6 +56,14 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +71,7 @@ tags:
 - theme/stress_oxydatif
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

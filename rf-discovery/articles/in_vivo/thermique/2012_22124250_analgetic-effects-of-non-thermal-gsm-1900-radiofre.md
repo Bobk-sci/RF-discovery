@@ -8,7 +8,7 @@ titre: Analgetic effects of non-thermal GSM-1900 radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/22124250/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -43,11 +43,19 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/thermique
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2012
 ---
 

@@ -8,7 +8,7 @@ titre: 'The effects of wireless devices on male reproductive health: A literatur
 url: https://pubmed.ncbi.nlm.nih.gov/34969603/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Female
 - Humans
@@ -58,11 +58,17 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

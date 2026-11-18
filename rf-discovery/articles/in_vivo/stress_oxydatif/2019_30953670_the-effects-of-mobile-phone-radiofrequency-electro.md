@@ -8,7 +8,7 @@ titre: The Effects of Mobile Phone Radiofrequency Electromagnetic Fields on β-A
 url: https://pubmed.ncbi.nlm.nih.gov/30953670/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Amyloid beta-Peptides
 - Animals
@@ -65,12 +65,20 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2019
 ---
 

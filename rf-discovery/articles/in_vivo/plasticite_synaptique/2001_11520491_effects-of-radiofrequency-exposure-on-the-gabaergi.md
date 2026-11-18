@@ -8,7 +8,7 @@ titre: 'Effects of radiofrequency exposure on the GABAergic system in the rat ce
 url: https://pubmed.ncbi.nlm.nih.gov/11520491/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - 4-Aminobutyrate Transaminase
 - Animals
@@ -56,6 +56,13 @@ theme_secondaires:
 theme_indices:
 - neurotransmitter
 - GABA
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +70,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

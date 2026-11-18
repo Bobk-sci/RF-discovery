@@ -8,7 +8,7 @@ titre: Extremely low frequency electromagnetic field exposure and restraint stre
 url: https://pubmed.ncbi.nlm.nih.gov/29783956/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -52,10 +52,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - lipid peroxidation
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/bf
 - annee/2018
 ---
 

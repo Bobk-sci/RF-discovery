@@ -7,7 +7,7 @@ titre: Outdoor radiofrequency radiation levels in the West Bank-Palestine.
 url: https://pubmed.ncbi.nlm.nih.gov/21835841/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cities
@@ -44,10 +44,20 @@ theme_indices:
 - power density
 - compliance
 - base station
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
+- GHz
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

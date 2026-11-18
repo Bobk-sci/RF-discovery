@@ -8,7 +8,7 @@ titre: Experimental analysis of metamaterial integrated applicator for hyperther
 url: https://pubmed.ncbi.nlm.nih.gov/40437036/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Neoplasms
@@ -50,12 +50,19 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

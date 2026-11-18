@@ -7,7 +7,7 @@ titre: Health effects of electromagnetic fields on children.
 url: https://pubmed.ncbi.nlm.nih.gov/32683815/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -34,11 +34,19 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: bf
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
 - theme/cancer
+- bande/bf
+- bande/rf
 - annee/2020
 ---
 

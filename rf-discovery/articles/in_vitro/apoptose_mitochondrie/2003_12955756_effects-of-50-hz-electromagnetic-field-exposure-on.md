@@ -8,7 +8,7 @@ titre: Effects of 50 Hz electromagnetic field exposure on apoptosis and differen
 url: https://pubmed.ncbi.nlm.nih.gov/12955756/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Camptothecin
@@ -51,11 +51,17 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+bande: bf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/bf
 - annee/2003
 ---
 

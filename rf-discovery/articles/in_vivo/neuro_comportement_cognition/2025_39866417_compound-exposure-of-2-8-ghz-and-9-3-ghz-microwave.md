@@ -8,7 +8,7 @@ titre: Compound exposure of 2.8 GHz and 9.3 GHz microwave causes learning and 
 url: https://pubmed.ncbi.nlm.nih.gov/39866417/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -57,6 +57,12 @@ theme_indices:
 - cognitive
 - memory
 - learning and memory
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +71,7 @@ tags:
 - theme/eeg_sommeil
 - theme/plasticite_synaptique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

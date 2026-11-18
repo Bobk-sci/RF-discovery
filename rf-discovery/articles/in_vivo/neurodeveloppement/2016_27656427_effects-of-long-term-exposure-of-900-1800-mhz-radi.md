@@ -8,7 +8,7 @@ titre: Effects of Long Term Exposure of 900-1800 MHz Radiation Emitted from 2G M
 url: https://pubmed.ncbi.nlm.nih.gov/27656427/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - other
@@ -40,10 +40,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/2016
 ---
 

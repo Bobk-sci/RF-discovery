@@ -9,7 +9,7 @@ titre: Evaluation of <i>bax</i>, <i>bcl-2</i>, <i>p21</i> and <i>p53</i> genes e
 url: https://pubmed.ncbi.nlm.nih.gov/29085599/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -46,12 +46,19 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - Bcl-2
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
+- bande/rf
 - annee/2017
 ---
 

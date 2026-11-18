@@ -8,7 +8,7 @@ titre: Computational dosimetry of electromagnetic and thermal exposure for pacem
 url: https://pubmed.ncbi.nlm.nih.gov/42402072/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,11 +39,18 @@ theme_indices:
 - specific absorption rate
 - exposure limit
 - ICNIRP
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

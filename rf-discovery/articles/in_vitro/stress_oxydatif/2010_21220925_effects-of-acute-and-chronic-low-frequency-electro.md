@@ -9,7 +9,7 @@ titre: Effects of acute and chronic low frequency electromagnetic field exposure
 url: https://pubmed.ncbi.nlm.nih.gov/21220925/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Calcium
@@ -50,12 +50,18 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - catalase
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/bf
 - annee/2010
 ---
 

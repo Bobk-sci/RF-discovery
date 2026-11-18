@@ -8,7 +8,7 @@ titre: Mechanisms of 915 MHz Microwave Thermal Treatment on Physicochemical Prop
 url: https://pubmed.ncbi.nlm.nih.gov/42655174/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,10 +42,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - fertility
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

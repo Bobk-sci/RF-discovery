@@ -7,7 +7,7 @@ titre: Design, Synthesis, and Biological Evaluation of Some Novel o-aminophenol 
 url: https://pubmed.ncbi.nlm.nih.gov/39950292/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aminophenols
 - Humans
@@ -60,11 +60,17 @@ theme_secondaires:
 - cancer
 theme_indices:
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/cancer
+- bande/rf
 - annee/2025
 ---
 

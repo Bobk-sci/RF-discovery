@@ -8,7 +8,7 @@ titre: Effect of pulsed electromagnetic field exposure on adenosine receptors in
 url: https://pubmed.ncbi.nlm.nih.gov/22012856/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -55,10 +55,15 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2012
 ---
 

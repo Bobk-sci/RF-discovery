@@ -8,7 +8,7 @@ titre: Summary of seven Swedish case reports on the microwave syndrome associate
 url: https://pubmed.ncbi.nlm.nih.gov/38889394/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -56,12 +56,20 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

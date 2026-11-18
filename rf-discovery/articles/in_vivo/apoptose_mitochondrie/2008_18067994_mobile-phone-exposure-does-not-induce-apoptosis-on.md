@@ -7,7 +7,7 @@ titre: Mobile phone exposure does not induce apoptosis on spermatogenesis in rat
 url: https://pubmed.ncbi.nlm.nih.gov/18067994/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -44,11 +44,19 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/rf
 - annee/2008
 ---
 

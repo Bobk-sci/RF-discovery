@@ -7,7 +7,7 @@ titre: Microtubular structure impairment after GSM-modulated RF radiation exposu
 url: https://pubmed.ncbi.nlm.nih.gov/33074167/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Microtubules
 - Cell Proliferation
@@ -46,12 +46,21 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - electric field strength
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

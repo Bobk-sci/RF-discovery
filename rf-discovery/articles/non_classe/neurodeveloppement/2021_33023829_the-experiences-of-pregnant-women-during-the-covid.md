@@ -8,7 +8,7 @@ titre: 'The experiences of pregnant women during the COVID-19 pandemic in Turkey
 url: https://pubmed.ncbi.nlm.nih.gov/33023829/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Anxiety
@@ -55,11 +55,17 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

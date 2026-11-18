@@ -8,7 +8,7 @@ titre: 'Mitigating Heat-Induced Sperm Damage and Testicular Tissue Abnormalities
 url: https://pubmed.ncbi.nlm.nih.gov/41377131/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -50,11 +50,19 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: 'Magnetic fields as biophysical activators of autophagy: A preclinical sy
 url: https://pubmed.ncbi.nlm.nih.gov/42100721/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -48,11 +48,17 @@ theme_secondaires: []
 theme_indices:
 - autophagy
 - cell death
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/in_vitro
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

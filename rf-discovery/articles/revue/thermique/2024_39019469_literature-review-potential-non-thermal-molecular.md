@@ -9,7 +9,7 @@ titre: 'Literature review: potential non-thermal molecular effects of external r
 url: https://pubmed.ncbi.nlm.nih.gov/39019469/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Neoplasms
@@ -59,6 +59,12 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - non-thermal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -67,6 +73,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2024
 ---
 

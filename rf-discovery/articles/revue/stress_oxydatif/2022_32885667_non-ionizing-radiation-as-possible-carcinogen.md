@@ -7,7 +7,7 @@ titre: Non-ionizing radiation as possible carcinogen.
 url: https://pubmed.ncbi.nlm.nih.gov/32885667/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Carcinogens
@@ -50,6 +50,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -59,6 +67,7 @@ tags:
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
 - theme/cancer
+- bande/rf
 - annee/2022
 ---
 

@@ -8,7 +8,7 @@ titre: A Compact Implantable Multiple-Input-Multiple-Output Antenna for Biotelem
 url: https://pubmed.ncbi.nlm.nih.gov/40968852/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Telemetry
@@ -44,10 +44,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/cancer
+- bande/rf
 - annee/2025
 ---
 

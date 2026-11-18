@@ -8,7 +8,7 @@ titre: Microwave radiation as an alternative for controlling Colletotrichum in b
 url: https://doi.org/10.21203/rs.3.rs-8695153/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -30,10 +30,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

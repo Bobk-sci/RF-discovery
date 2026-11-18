@@ -7,7 +7,7 @@ titre: Xiaochaihutang attenuates liver fibrosis by activation of Nrf2 pathway in
 url: https://pubmed.ncbi.nlm.nih.gov/29078262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Carbon Tetrachloride
@@ -57,10 +57,16 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - Nrf2
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2017
 ---
 

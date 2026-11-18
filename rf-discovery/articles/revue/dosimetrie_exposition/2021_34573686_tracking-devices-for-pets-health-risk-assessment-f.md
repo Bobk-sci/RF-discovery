@@ -8,7 +8,7 @@ titre: 'Tracking Devices for Pets: Health Risk Assessment for Exposure to Radiof
 url: https://pubmed.ncbi.nlm.nih.gov/34573686/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -45,12 +45,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

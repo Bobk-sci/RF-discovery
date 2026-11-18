@@ -8,7 +8,7 @@ titre: Alteration of diurnal rhythms of blood pressure and heart rate to workers
 url: https://pubmed.ncbi.nlm.nih.gov/10212373/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Blood Pressure
@@ -43,10 +43,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - circadian
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/eeg_sommeil
+- bande/rf
 - annee/1998
 ---
 

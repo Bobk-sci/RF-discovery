@@ -7,7 +7,7 @@ titre: 'Microwave exposure of neuronal cells in vitro: Study of apoptosis.'
 url: https://pubmed.ncbi.nlm.nih.gov/16690594/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Cell Line
@@ -49,11 +49,19 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2006
 ---
 

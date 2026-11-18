@@ -8,7 +8,7 @@ titre: 'Maternal linalool treatment protects against radiofrequency wave-induced
 url: https://pubmed.ncbi.nlm.nih.gov/39060318/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Animals
@@ -63,12 +63,20 @@ theme_indices:
 - learning and memory
 - anxiety
 - behavior
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Assessment of outdoor radiofrequency electromagnetic field exposure throu
 url: https://pubmed.ncbi.nlm.nih.gov/23759207/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cities
 - Electromagnetic Fields
@@ -47,10 +47,17 @@ theme_secondaires: []
 theme_indices:
 - electric field strength
 - base station
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

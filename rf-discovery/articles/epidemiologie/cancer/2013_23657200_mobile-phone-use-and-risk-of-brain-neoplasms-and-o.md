@@ -8,7 +8,7 @@ titre: 'Mobile phone use and risk of brain neoplasms and other cancers: prospect
 url: https://pubmed.ncbi.nlm.nih.gov/23657200/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -64,10 +64,16 @@ theme_indices:
 - glioma
 - acoustic neuroma
 - meningioma
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2013
 ---
 

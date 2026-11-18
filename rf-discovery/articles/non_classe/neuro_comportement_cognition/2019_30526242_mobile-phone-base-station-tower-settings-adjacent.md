@@ -8,7 +8,7 @@ titre: 'Mobile Phone Base Station Tower Settings Adjacent to School Buildings: I
 url: https://pubmed.ncbi.nlm.nih.gov/30526242/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Cell Phone
@@ -59,12 +59,20 @@ theme_indices:
 - cognitive
 - memory
 - attention
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2019
 ---
 

@@ -7,7 +7,7 @@ titre: 'Wireless Phone Use and Risk of Adult Glioma: Evidence from a Meta-Analys
 url: https://pubmed.ncbi.nlm.nih.gov/29709736/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Brain Neoplasms
@@ -54,11 +54,17 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/revue
 - theme/cancer
+- bande/rf
 - annee/2018
 ---
 

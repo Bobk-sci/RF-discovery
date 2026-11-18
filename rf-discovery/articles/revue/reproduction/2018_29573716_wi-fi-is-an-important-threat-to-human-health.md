@@ -7,7 +7,7 @@ titre: Wi-Fi is an important threat to human health.
 url: https://pubmed.ncbi.nlm.nih.gov/29573716/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -47,6 +47,12 @@ theme_indices:
 - sperm
 - testis
 - testicular
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -54,6 +60,7 @@ tags:
 - theme/neurodeveloppement
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2018
 ---
 

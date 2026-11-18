@@ -8,7 +8,7 @@ titre: Micronuclei in the peripheral blood and bone marrow cells of rats exposed
 url: https://pubmed.ncbi.nlm.nih.gov/11683981/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Cells
@@ -53,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -60,6 +67,7 @@ tags:
 - modele/ingenierie_materiel
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

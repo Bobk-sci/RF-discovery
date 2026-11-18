@@ -7,7 +7,7 @@ titre: Parasitically coupled 16-port massive MIMO antenna for mmWave application
 url: https://pubmed.ncbi.nlm.nih.gov/42289495/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -44,11 +44,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

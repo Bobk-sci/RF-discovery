@@ -8,7 +8,7 @@ titre: Repeated head-exposures to a 5G-3.5 GHz signal do not alter behavior but 
 url: https://doi.org/10.1101/2024.12.13.628345
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -45,6 +45,13 @@ theme_indices:
 - anxiety
 - behavior
 - locomotor activity
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -53,6 +60,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

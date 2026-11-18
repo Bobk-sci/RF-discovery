@@ -8,7 +8,7 @@ titre: Neurodevelopment for the first three years following prenatal mobile phon
 url: https://pubmed.ncbi.nlm.nih.gov/28511138/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -72,11 +72,19 @@ theme_indices:
 - pregnancy
 - child
 - children
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2017
 ---
 

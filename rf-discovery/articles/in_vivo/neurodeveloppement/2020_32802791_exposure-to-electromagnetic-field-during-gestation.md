@@ -8,7 +8,7 @@ titre: Exposure to Electromagnetic Field during Gestation Adversely Affects the 
 url: https://pubmed.ncbi.nlm.nih.gov/32802791/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -43,11 +43,18 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2020
 ---
 

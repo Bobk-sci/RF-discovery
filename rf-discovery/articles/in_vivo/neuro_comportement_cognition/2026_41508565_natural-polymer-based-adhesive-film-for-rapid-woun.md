@@ -8,7 +8,7 @@ titre: 'Natural Polymer-Based Adhesive Film for Rapid Wound Healing: In Vitro an
 url: https://pubmed.ncbi.nlm.nih.gov/41508565/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Wound Healing
 - Anti-Bacterial Agents
@@ -64,12 +64,18 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - behavior
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

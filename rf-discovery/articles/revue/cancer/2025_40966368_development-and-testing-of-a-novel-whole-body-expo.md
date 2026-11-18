@@ -8,7 +8,7 @@ titre: Development and Testing of a Novel Whole-body Exposure System for Investi
 url: https://pubmed.ncbi.nlm.nih.gov/40966368/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Review
@@ -47,6 +47,11 @@ theme_secondaires:
 theme_indices:
 - carcinogenesis
 - tumor
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -56,6 +61,7 @@ tags:
 - theme/cancer
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

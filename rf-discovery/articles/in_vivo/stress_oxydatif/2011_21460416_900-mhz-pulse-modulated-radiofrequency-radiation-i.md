@@ -8,7 +8,7 @@ titre: 900 MHz pulse-modulated radiofrequency radiation induces oxidative stress
 url: https://pubmed.ncbi.nlm.nih.gov/21460416/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Glutathione
@@ -58,6 +58,13 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +73,7 @@ tags:
 - theme/reproduction
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2011
 ---
 

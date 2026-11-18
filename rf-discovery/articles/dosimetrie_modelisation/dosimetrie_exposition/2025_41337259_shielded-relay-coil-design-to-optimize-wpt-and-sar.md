@@ -8,7 +8,7 @@ titre: Shielded Relay Coil design to Optimize WPT and SAR for Distributed Wirele
 url: https://pubmed.ncbi.nlm.nih.gov/41337259/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Humans
@@ -44,10 +44,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

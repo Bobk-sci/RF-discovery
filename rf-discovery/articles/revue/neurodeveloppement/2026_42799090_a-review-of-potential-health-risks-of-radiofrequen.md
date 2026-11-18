@@ -8,7 +8,7 @@ titre: A review of potential health risks of radiofrequency electromagnetic fiel
 url: https://pubmed.ncbi.nlm.nih.gov/42799090/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Environmental Exposure
@@ -62,6 +62,13 @@ theme_indices:
 - pregnancy
 - child
 - children
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/revue
@@ -71,6 +78,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

@@ -8,7 +8,7 @@ titre: Proliferation, oxidative stress and cell death in cells exposed to 872 MH
 url: https://pubmed.ncbi.nlm.nih.gov/18666817/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -57,6 +57,13 @@ theme_indices:
 - reactive oxygen species
 - glutathione
 - lipid peroxidation
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -65,6 +72,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

@@ -8,7 +8,7 @@ titre: 'Radiofrequency Electromagnetic Field Emissions and Neurodevelopmental Ou
 url: https://pubmed.ncbi.nlm.nih.gov/40786381/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -48,12 +48,18 @@ theme_indices:
 - neurodevelopment
 - neurodevelopmental
 - children
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

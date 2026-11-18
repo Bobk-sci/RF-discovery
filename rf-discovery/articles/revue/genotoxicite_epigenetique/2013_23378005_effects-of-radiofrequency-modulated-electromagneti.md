@@ -7,7 +7,7 @@ titre: Effects of radiofrequency-modulated electromagnetic fields on proteome.
 url: https://pubmed.ncbi.nlm.nih.gov/23378005/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -47,12 +47,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - modele/in_vitro
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2013
 ---
 

@@ -8,7 +8,7 @@ titre: Radiofrequency exposure of people living near mobile-phone base stations 
 url: https://pubmed.ncbi.nlm.nih.gov/33221309/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -50,11 +50,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

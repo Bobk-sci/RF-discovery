@@ -8,7 +8,7 @@ titre: Analysis of gene expression in a human-derived glial cell line exposed to
 url: https://pubmed.ncbi.nlm.nih.gov/21343680/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption
 - Astrocytes
@@ -54,6 +54,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - glial
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -61,6 +68,7 @@ tags:
 - theme/neuroinflammation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

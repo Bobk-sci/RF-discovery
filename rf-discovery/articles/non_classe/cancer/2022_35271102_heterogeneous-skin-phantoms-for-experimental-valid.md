@@ -8,7 +8,7 @@ titre: Heterogeneous Skin Phantoms for Experimental Validation of Microwave-Base
 url: https://pubmed.ncbi.nlm.nih.gov/35271102/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Basal Cell Carcinoma
 - Humans
@@ -43,10 +43,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2022
 ---
 

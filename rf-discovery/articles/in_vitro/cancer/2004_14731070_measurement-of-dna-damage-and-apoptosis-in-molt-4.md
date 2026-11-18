@@ -8,7 +8,7 @@ titre: Measurement of DNA damage and apoptosis in Molt-4 cells after in vitro ex
 url: https://pubmed.ncbi.nlm.nih.gov/14731070/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Cell Line, Tumor
@@ -61,6 +61,12 @@ theme_secondaires:
 theme_indices:
 - tumor
 - leukemia
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -68,6 +74,7 @@ tags:
 - theme/cancer
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2004
 ---
 

@@ -8,7 +8,7 @@ titre: 'Adaptive response in human blood lymphocytes exposed to non-ionizing rad
 url: https://pubmed.ncbi.nlm.nih.gov/23979077/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adaptation, Physiological
 - Cells, Cultured
@@ -55,12 +55,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2014
 ---
 

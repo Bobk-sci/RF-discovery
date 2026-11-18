@@ -8,7 +8,7 @@ titre: Effects of radiofrequency electromagnetic radiation emitted from a mobile
 url: https://pubmed.ncbi.nlm.nih.gov/33687298/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -60,11 +60,18 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - redox
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

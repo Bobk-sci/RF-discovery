@@ -8,7 +8,7 @@ titre: The effect of electromagnetic field exposure on the formation of DNA sing
 url: https://pubmed.ncbi.nlm.nih.gov/8061573/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - DNA Damage
 - DNA, Single-Stranded
@@ -42,6 +42,10 @@ theme_secondaires:
 - cancer
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
@@ -49,6 +53,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/1994
 ---
 

@@ -8,7 +8,7 @@ titre: Design and Dosimetric Analysis of an Exposure Facility for Investigating 
 url: https://pubmed.ncbi.nlm.nih.gov/32104921/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Head
 - Brain
@@ -56,12 +56,20 @@ theme_secondaires:
 theme_indices:
 - EEG
 - sleep
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/humain_experimental
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

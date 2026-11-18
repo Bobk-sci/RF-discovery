@@ -7,7 +7,7 @@ titre: CNN-Based LCD Transcription of Blood Pressure From a Mobile Phone Camera.
 url: https://pubmed.ncbi.nlm.nih.gov/34095816/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,11 +39,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2021
 ---
 

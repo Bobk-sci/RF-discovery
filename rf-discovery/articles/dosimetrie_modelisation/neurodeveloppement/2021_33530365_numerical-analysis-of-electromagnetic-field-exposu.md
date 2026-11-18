@@ -8,7 +8,7 @@ titre: Numerical Analysis of Electromagnetic Field Exposure from 5G Mobile Commu
 url: https://pubmed.ncbi.nlm.nih.gov/33530365/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Child
@@ -51,11 +51,20 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

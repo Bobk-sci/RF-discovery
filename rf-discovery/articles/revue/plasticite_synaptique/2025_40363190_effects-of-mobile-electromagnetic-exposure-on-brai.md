@@ -8,7 +8,7 @@ titre: 'Effects of Mobile Electromagnetic Exposure on Brain Oscillations and Cor
 url: https://pubmed.ncbi.nlm.nih.gov/40363190/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Cerebral Cortex
@@ -51,10 +51,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - excitability
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2025
 ---
 

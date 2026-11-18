@@ -8,7 +8,7 @@ titre: Testicular Heat-Shock Protein Expression in Rats Following 3.5 GHz and 24
 url: https://pubmed.ncbi.nlm.nih.gov/42074096/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -64,6 +64,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -71,6 +79,7 @@ tags:
 - theme/reproduction
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

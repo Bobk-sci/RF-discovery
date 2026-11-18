@@ -8,7 +8,7 @@ titre: 'Problematic mobile phone use and time management disposition in Chinese 
 url: https://pubmed.ncbi.nlm.nih.gov/38093382/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Humans
@@ -50,12 +50,18 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
 - theme/neurodeveloppement
+- bande/rf
 - annee/2023
 ---
 

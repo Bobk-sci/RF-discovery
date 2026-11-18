@@ -7,7 +7,7 @@ titre: Associations of Cell Phone Use and Screen Viewing with Overweight in Chil
 url: https://pubmed.ncbi.nlm.nih.gov/31298567/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone Use
 - Child
@@ -70,12 +70,18 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2019
 ---
 

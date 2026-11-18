@@ -8,7 +8,7 @@ titre: Micronucleus frequency in erythrocytes of mice after long-term exposure t
 url: https://pubmed.ncbi.nlm.nih.gov/17575948/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Burden
@@ -54,12 +54,21 @@ theme_secondaires:
 theme_indices:
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2007
 ---
 

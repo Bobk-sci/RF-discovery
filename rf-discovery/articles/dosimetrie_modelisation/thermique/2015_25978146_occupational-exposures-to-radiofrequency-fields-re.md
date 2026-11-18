@@ -9,7 +9,7 @@ titre: 'Occupational exposures to radiofrequency fields: results of an Israeli n
 url: https://pubmed.ncbi.nlm.nih.gov/25978146/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Industry
@@ -45,10 +45,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 3.5
+bande_secondaires:
+- intermediaire
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
+- bande/intermediaire
 - annee/2015
 ---
 

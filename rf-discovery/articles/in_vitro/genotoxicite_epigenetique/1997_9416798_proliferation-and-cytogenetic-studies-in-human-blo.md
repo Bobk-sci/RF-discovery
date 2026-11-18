@@ -8,7 +8,7 @@ titre: Proliferation and cytogenetic studies in human blood lymphocytes exposed 
 url: https://pubmed.ncbi.nlm.nih.gov/9416798/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Chromosome Aberrations
@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -56,6 +63,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1997
 ---
 

@@ -8,7 +8,7 @@ titre: Cognitive impairment in rats after long-term exposure to GSM-900 mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/18044737/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -55,11 +55,20 @@ theme_indices:
 - memory
 - behaviour
 - attention
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2008
 ---
 

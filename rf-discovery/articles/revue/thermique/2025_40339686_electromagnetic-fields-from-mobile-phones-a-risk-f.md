@@ -7,7 +7,7 @@ titre: 'Electromagnetic fields from mobile phones: A risk for maintaining energy
 url: https://pubmed.ncbi.nlm.nih.gov/40339686/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -54,11 +54,17 @@ theme_indices:
 - heating
 - thermoregulation
 - body temperature
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: 'Exploring the Impact of a Sleep App on Sleep Quality in a General Popula
 url: https://pubmed.ncbi.nlm.nih.gov/39137016/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,11 +45,17 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - behavior
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2024
 ---
 

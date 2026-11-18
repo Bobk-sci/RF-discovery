@@ -8,7 +8,7 @@ titre: 'Assessment of Electromagnetic Field Exposure on European Roads: A Compre
 url: https://pubmed.ncbi.nlm.nih.gov/37447899/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,10 +37,16 @@ theme_secondaires: []
 theme_indices:
 - base station
 - measurement campaign
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

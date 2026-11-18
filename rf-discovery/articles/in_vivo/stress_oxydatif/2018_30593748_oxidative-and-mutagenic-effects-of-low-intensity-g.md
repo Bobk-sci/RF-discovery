@@ -7,7 +7,7 @@ titre: Oxidative and mutagenic effects of low intensity GSM 1800 MHz microwave 
 url: https://pubmed.ncbi.nlm.nih.gov/30593748/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Carcinogenesis
@@ -50,6 +50,12 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -58,6 +64,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2018
 ---
 

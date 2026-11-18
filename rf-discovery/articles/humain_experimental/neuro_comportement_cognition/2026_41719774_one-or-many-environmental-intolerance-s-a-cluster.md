@@ -8,7 +8,7 @@ titre: One or many environmental intolerance(s)? A cluster analysis over two rep
 url: https://pubmed.ncbi.nlm.nih.gov/41719774/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cluster Analysis
 - Humans
@@ -56,12 +56,17 @@ theme_secondaires:
 theme_indices:
 - anxiety
 - depression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

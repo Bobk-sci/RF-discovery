@@ -8,7 +8,7 @@ titre: Thermal responses of rats exposed to continuous or intermittent 915 MHz
 url: https://pubmed.ncbi.nlm.nih.gov/42068847/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Male
@@ -56,11 +56,19 @@ theme_secondaires: []
 theme_indices:
 - thermoregulation
 - body temperature
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

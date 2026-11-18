@@ -8,7 +8,7 @@ titre: Efficient in vitro and in vivo pulmonary delivery of nucleic acid by carb
 url: https://pubmed.ncbi.nlm.nih.gov/25771019/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Carbon
@@ -68,12 +68,18 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/cancer
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2015
 ---
 

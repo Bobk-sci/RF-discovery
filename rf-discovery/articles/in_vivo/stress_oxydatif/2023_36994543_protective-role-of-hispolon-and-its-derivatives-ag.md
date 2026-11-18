@@ -8,7 +8,7 @@ titre: Protective role of hispolon and its derivatives against apoptosis in cort
 url: https://pubmed.ncbi.nlm.nih.gov/36994543/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Rats
 - Animals
@@ -54,6 +54,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -62,6 +69,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

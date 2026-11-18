@@ -8,7 +8,7 @@ titre: Mechanism of Microwave Radiation-Induced Learning and Memory Impairment B
 url: https://pubmed.ncbi.nlm.nih.gov/38790420/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -48,11 +48,17 @@ theme_indices:
 - memory
 - learning and memory
 - spatial learning
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Anthropogenic electromagnetic noise disrupts magnetic compass orientation
 url: https://pubmed.ncbi.nlm.nih.gov/24805233/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aluminum
 - Animal Migration
@@ -58,11 +58,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behaviour
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/humain_experimental
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2014
 ---
 

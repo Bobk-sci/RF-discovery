@@ -8,7 +8,7 @@ titre: 'Self-Assembly Interactions in Magnetite-Coated Cellulose Nanocrystals: I
 url: https://pubmed.ncbi.nlm.nih.gov/42094104/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -50,6 +50,11 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -57,6 +62,7 @@ tags:
 - theme/thermique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

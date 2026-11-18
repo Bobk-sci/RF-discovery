@@ -7,7 +7,7 @@ titre: The effect of electromagnetic fields emitted by mobile phones on human sl
 url: https://pubmed.ncbi.nlm.nih.gov/16272890/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -48,11 +48,18 @@ theme_secondaires:
 theme_indices:
 - electroencephalogram
 - sleep
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neurodeveloppement
+- bande/rf
 - annee/2005
 ---
 

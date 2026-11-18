@@ -8,7 +8,7 @@ titre: Effects of radiofrequency field from 5G communication on fecal microbiome
 url: https://pubmed.ncbi.nlm.nih.gov/38347014/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Feces
 - Animals
@@ -60,12 +60,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - attention
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

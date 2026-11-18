@@ -8,7 +8,7 @@ titre: The effect of 4.3 GHz high-power microwave exposure on human corneal epit
 url: https://pubmed.ncbi.nlm.nih.gov/41660276/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -52,12 +52,19 @@ theme_indices:
 - mitochondrial
 - membrane potential
 - autophagy
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

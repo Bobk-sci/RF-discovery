@@ -8,7 +8,7 @@ titre: Implantable small ultra-wideband circularly polarized antenna design for 
 url: https://pubmed.ncbi.nlm.nih.gov/39448728/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Blood Pressure Determination
@@ -46,11 +46,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - SAR value
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

@@ -16,6 +16,12 @@ arborescence lisible : `articles/<modèle d'étude>/<thème>/<année>_<pmid>_<ti
   défini par `config/taxonomy.yaml`. Il est déterministe : mêmes entrées, même rangement.
 - **Traçabilité.** Les mots-clés qui ont décidé du rangement sont écrits dans l'en-tête de
   chaque fiche (`modele_indices`, `theme_indices`).
+- **Une bande n'est pas l'autre.** L'axe `bande` (`bf` / `intermediaire` / `rf` / `mixte`)
+  ne range rien — `chemin: false` — mais il sépare deux physiques : sous ~100 kHz le champ
+  agit par induction et peut dépolariser une membrane ; au-dessus, la membrane est
+  court-circuitée et le mécanisme dominant est l'absorption. Champ induit en V/m contre
+  SAR en W/kg : les deux dosimétries ne se convertissent pas. Aucune synthèse ne doit
+  agréger les deux.
 - **Écarter plutôt que forcer.** Une notice hors sujet est écartée avec son motif ; une
   notice dont le plan d'étude n'est pas explicite va en catégorie par défaut.
 

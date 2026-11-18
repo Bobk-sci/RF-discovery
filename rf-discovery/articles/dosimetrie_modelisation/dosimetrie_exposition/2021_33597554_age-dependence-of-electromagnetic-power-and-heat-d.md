@@ -8,7 +8,7 @@ titre: Age-dependence of electromagnetic power and heat deposition in near-surfa
 url: https://pubmed.ncbi.nlm.nih.gov/33597554/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,11 +37,20 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/thermique
+- bande/rf
 - annee/2021
 ---
 

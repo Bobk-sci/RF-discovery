@@ -8,7 +8,7 @@ titre: 'Potential Benefits of Ultra-High Field MRI for Embryonic and Fetal Brain
 url: https://pubmed.ncbi.nlm.nih.gov/41975739/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -51,12 +51,18 @@ theme_indices:
 - prenatal
 - in utero
 - fetal
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

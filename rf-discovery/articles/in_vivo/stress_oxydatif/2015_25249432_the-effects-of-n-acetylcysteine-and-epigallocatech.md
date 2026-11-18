@@ -9,7 +9,7 @@ titre: The effects of N-acetylcysteine and epigallocatechin-3-gallate on liver t
 url: https://pubmed.ncbi.nlm.nih.gov/25249432/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acetylcysteine
 - Animals
@@ -59,6 +59,14 @@ theme_secondaires:
 theme_indices:
 - superoxide dismutase
 - antioxidant
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +74,7 @@ tags:
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

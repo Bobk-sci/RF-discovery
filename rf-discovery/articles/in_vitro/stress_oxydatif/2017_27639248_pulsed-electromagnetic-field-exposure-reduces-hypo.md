@@ -8,7 +8,7 @@ titre: Pulsed Electromagnetic Field Exposure Reduces Hypoxia and Inflammation Da
 url: https://pubmed.ncbi.nlm.nih.gov/27639248/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Death
@@ -63,6 +63,10 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
@@ -71,6 +75,7 @@ tags:
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2017
 ---
 

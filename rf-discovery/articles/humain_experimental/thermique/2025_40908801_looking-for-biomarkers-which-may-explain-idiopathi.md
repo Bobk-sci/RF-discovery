@@ -9,7 +9,7 @@ titre: 'Looking for Biomarkers Which May Explain Idiopathic Environmental Intole
 url: https://pubmed.ncbi.nlm.nih.gov/40908801/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Hydrocortisone
@@ -55,12 +55,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - modele/in_vitro
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

@@ -9,7 +9,7 @@ titre: 'Effects of long-term low-dose 2.45 GHz microwave electromagnetic radia
 url: https://pubmed.ncbi.nlm.nih.gov/40009800/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Diathermy
@@ -53,10 +53,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/epidemiologie
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

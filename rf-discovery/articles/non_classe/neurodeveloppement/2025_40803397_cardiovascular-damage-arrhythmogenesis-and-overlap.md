@@ -10,7 +10,7 @@ titre: 'Cardiovascular damage, arrhythmogenesis and overlapping Alzheimer and Pa
 url: https://pubmed.ncbi.nlm.nih.gov/40803397/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Particulate Matter
 - Humans
@@ -63,6 +63,11 @@ theme_indices:
 - fetal
 - child
 - children
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/non_classe
@@ -70,6 +75,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

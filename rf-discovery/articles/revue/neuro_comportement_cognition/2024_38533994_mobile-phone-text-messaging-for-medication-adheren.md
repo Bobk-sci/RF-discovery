@@ -8,7 +8,7 @@ titre: Mobile phone text messaging for medication adherence in secondary prevent
 url: https://pubmed.ncbi.nlm.nih.gov/38533994/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Text Messaging
 - Humans
@@ -58,11 +58,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behaviour
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2024
 ---
 

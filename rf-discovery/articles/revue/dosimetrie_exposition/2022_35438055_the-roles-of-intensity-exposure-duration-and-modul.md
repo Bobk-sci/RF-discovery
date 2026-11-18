@@ -8,7 +8,7 @@ titre: The roles of intensity, exposure duration, and modulation on the biologic
 url: https://pubmed.ncbi.nlm.nih.gov/35438055/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiation Exposure
@@ -42,11 +42,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

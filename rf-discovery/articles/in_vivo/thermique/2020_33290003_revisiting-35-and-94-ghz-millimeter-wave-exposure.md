@@ -8,7 +8,7 @@ titre: Revisiting 35 and 94 GHZ Millimeter Wave Exposure to the Non-Human Primat
 url: https://pubmed.ncbi.nlm.nih.gov/33290003/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Algorithms
 - Animals
@@ -58,6 +58,11 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - body temperature
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +70,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

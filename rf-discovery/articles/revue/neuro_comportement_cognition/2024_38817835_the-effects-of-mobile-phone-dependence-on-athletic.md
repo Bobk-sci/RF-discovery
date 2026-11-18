@@ -7,7 +7,7 @@ titre: The effects of mobile phone dependence on athletic performance and its me
 url: https://pubmed.ncbi.nlm.nih.gov/38817835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,10 +40,17 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: 'Proteomic analysis of continuous 900-MHz radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/28397118/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -54,11 +54,18 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/cancer
+- bande/rf
 - annee/2017
 ---
 

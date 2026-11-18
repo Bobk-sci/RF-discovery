@@ -8,7 +8,7 @@ titre: Behaviour of Children and Adolescents and the Use of Mobile Phones in Pri
 url: https://pubmed.ncbi.nlm.nih.gov/34444102/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Behavior, Addictive
@@ -48,11 +48,17 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

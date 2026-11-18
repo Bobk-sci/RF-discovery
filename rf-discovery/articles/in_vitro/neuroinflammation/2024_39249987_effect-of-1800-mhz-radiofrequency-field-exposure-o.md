@@ -8,7 +8,7 @@ titre: Effect of 1800 MHz radiofrequency field exposure on cytokine and signal
 url: https://pubmed.ncbi.nlm.nih.gov/39249987/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Monocytes
 - Humans
@@ -51,6 +51,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - cytokine
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -58,6 +65,7 @@ tags:
 - theme/neuroinflammation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

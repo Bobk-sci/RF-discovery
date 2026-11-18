@@ -8,7 +8,7 @@ titre: Oxidative changes and apoptosis induced by 1800-MHz electromagnetic radia
 url: https://pubmed.ncbi.nlm.nih.gov/24665905/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -62,6 +62,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -71,6 +77,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

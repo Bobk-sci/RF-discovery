@@ -7,7 +7,7 @@ titre: Electromagnetic hypersensitivity (EHS, microwave syndrome) - Review of me
 url: https://pubmed.ncbi.nlm.nih.gov/32289567/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Humans
@@ -63,6 +63,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/revue
@@ -72,6 +79,7 @@ tags:
 - theme/barriere_hemato_encephalique
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2020
 ---
 

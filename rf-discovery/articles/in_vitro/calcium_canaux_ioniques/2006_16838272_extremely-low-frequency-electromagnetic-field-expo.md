@@ -8,7 +8,7 @@ titre: Extremely low frequency electromagnetic field exposure promotes different
 url: https://pubmed.ncbi.nlm.nih.gov/16838272/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Actin Cytoskeleton
 - Animals
@@ -56,11 +56,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - intracellular calcium
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/calcium_canaux_ioniques
+- bande/bf
 - annee/2006
 ---
 

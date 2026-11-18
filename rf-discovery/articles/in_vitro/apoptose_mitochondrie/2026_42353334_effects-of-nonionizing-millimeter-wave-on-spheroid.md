@@ -8,7 +8,7 @@ titre: Effects of Nonionizing Millimeter-Wave on Spheroid-like Irradiated Non-Sm
 url: https://pubmed.ncbi.nlm.nih.gov/42353334/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Carcinoma, Non-Small-Cell Lung
@@ -64,6 +64,10 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - mitochondrial
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
@@ -72,6 +76,7 @@ tags:
 - theme/cancer
 - theme/thermique
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2026
 ---
 

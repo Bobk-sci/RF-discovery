@@ -8,7 +8,7 @@ titre: Differential Effects of 3.5 GHz and 24 GHz 5G Radiofrequency Exposure on 
 url: https://pubmed.ncbi.nlm.nih.gov/42653107/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Hypothalamus
@@ -65,11 +65,20 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+bande: rf
+bande_score: 9.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

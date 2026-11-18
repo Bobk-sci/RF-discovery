@@ -9,7 +9,7 @@ titre: Thermoelectric Decoupling for Electric Field Therapy in Glioblastoma.
 url: https://pubmed.ncbi.nlm.nih.gov/41335801/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Glioblastoma
 - Humans
@@ -44,11 +44,16 @@ theme_secondaires:
 - thermique
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

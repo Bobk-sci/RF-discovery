@@ -8,7 +8,7 @@ titre: 'Low-Level Radiofrequency Exposure Does Not Induce Changes in MSC Biology
 url: https://pubmed.ncbi.nlm.nih.gov/31908499/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -41,10 +41,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2019
 ---
 

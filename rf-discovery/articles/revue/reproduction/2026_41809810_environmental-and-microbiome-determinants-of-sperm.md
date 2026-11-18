@@ -8,7 +8,7 @@ titre: 'Environmental and microbiome determinants of sperm quality: a narrative 
 url: https://pubmed.ncbi.nlm.nih.gov/41809810/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -46,12 +46,19 @@ theme_indices:
 - sperm
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2026
 ---
 

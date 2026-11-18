@@ -8,7 +8,7 @@ titre: 'Exploring RF-EMF levels in Swiss microenvironments: An evaluation of env
 url: https://pubmed.ncbi.nlm.nih.gov/39643257/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Environmental Exposure
@@ -50,11 +50,20 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

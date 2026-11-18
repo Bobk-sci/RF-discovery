@@ -7,7 +7,7 @@ titre: 'Thiazolotriazoles: Their Biological Activity and Structure-Activity Rela
 url: https://pubmed.ncbi.nlm.nih.gov/41311192/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Structure-Activity Relationship
 - Humans
@@ -51,6 +51,11 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - attention
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/revue
@@ -59,6 +64,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

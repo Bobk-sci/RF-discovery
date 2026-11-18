@@ -8,7 +8,7 @@ titre: Dual temperature- and magnetic-responsive PNIPAAm-based nanogels for tuna
 url: https://pubmed.ncbi.nlm.nih.gov/42501850/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -44,12 +44,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - behavior
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

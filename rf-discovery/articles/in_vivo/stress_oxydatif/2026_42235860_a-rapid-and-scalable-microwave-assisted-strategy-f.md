@@ -8,7 +8,7 @@ titre: 'A rapid and scalable microwave-assisted strategy for the synthesis of ne
 url: https://pubmed.ncbi.nlm.nih.gov/42235860/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Gram-Negative Bacteria
@@ -55,12 +55,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - antioxidant
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - modele/in_vitro
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

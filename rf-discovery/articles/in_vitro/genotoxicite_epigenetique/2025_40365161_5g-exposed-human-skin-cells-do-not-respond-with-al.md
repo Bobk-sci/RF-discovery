@@ -8,7 +8,7 @@ titre: 5G-exposed human skin cells do not respond with altered gene expression a
 url: https://pubmed.ncbi.nlm.nih.gov/40365161/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -40,10 +40,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- 5G
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

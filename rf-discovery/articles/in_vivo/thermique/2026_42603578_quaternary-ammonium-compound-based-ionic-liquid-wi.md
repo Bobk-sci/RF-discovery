@@ -8,7 +8,7 @@ titre: Quaternary ammonium compound-based ionic liquid with microwave responsive
 url: https://pubmed.ncbi.nlm.nih.gov/42603578/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Ionic Liquids
 - Animals
@@ -59,11 +59,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - hyperthermia
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

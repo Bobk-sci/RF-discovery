@@ -8,7 +8,7 @@ titre: Effects of 100-μT extremely low frequency electromagnetic fields exposur
 url: https://pubmed.ncbi.nlm.nih.gov/26404558/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Glucose
@@ -52,10 +52,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1001.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/bf
 - annee/2016
 ---
 

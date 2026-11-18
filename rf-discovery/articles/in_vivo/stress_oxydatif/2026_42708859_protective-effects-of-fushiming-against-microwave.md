@@ -8,7 +8,7 @@ titre: 'Protective Effects of Fushiming Against Microwave Radiation-Induced Reti
 url: https://pubmed.ncbi.nlm.nih.gov/42708859/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -49,11 +49,17 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/stress_oxydatif
+- bande/rf
 - annee/2026
 ---
 

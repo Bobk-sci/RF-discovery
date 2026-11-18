@@ -8,7 +8,7 @@ titre: Short-term exposure to radiofrequency radiation and metabolic enzymes' ac
 url: https://pubmed.ncbi.nlm.nih.gov/35904122/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rabbits
@@ -58,6 +58,14 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +74,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

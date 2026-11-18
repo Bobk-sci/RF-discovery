@@ -8,7 +8,7 @@ titre: 'The effect of radiofrequency electromagnetic fields (RF-EMF) on biomarke
 url: https://pubmed.ncbi.nlm.nih.gov/34662800/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biomarkers
@@ -71,6 +71,11 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - ROS
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -78,6 +83,7 @@ tags:
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
+- bande/rf
 - annee/2022
 ---
 

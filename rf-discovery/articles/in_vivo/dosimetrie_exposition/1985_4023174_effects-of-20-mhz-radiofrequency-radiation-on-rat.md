@@ -8,7 +8,7 @@ titre: Effects of 20-MHz radiofrequency radiation on rat hematology, splenic fun
 url: https://pubmed.ncbi.nlm.nih.gov/4023174/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alanine Transaminase
 - Alkaline Phosphatase
@@ -53,11 +53,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1985
 ---
 

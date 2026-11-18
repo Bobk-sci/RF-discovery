@@ -9,7 +9,7 @@ titre: Outdoor and indoor sources of residential radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/27348251/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Child
@@ -59,11 +59,19 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2016
 ---
 

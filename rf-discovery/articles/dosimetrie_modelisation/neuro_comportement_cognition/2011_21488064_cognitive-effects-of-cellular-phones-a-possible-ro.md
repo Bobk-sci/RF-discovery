@@ -8,7 +8,7 @@ titre: 'Cognitive effects of cellular phones: a possible role of non-radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/21488064/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -49,10 +49,16 @@ theme_indices:
 - cognitive
 - memory
 - reaction time
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2011
 ---
 

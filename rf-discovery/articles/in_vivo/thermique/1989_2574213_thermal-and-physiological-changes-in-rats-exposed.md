@@ -8,7 +8,7 @@ titre: Thermal and physiological changes in rats exposed to CW and pulsed 2.8 GH
 url: https://pubmed.ncbi.nlm.nih.gov/2574213/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -47,11 +47,18 @@ theme_secondaires: []
 theme_indices:
 - heating
 - body temperature
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/1989
 ---
 

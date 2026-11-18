@@ -9,7 +9,7 @@ titre: 'Relationship between parental exposure to radiofrequency electromagnetic
 url: https://pubmed.ncbi.nlm.nih.gov/36944196/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,12 +45,18 @@ theme_indices:
 - carcinogenic
 - leukemia
 - IARC
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: 'Radio frequency electromagnetic field exposure in humans: Estimation of 
 url: https://pubmed.ncbi.nlm.nih.gov/12696086/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Brain
@@ -60,11 +60,20 @@ theme_indices:
 - EEG
 - electroencephalogram
 - sleep
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2003
 ---
 

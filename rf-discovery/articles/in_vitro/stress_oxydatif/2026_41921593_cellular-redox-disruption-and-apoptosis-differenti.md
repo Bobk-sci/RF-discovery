@@ -8,7 +8,7 @@ titre: 'Cellular redox disruption and apoptosis: Differential effects of RFR fre
 url: https://pubmed.ncbi.nlm.nih.gov/41921593/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Leydig Cells
 - Cell Line
@@ -57,6 +57,13 @@ theme_indices:
 - oxidative stress
 - nitric oxide
 - redox
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -64,6 +71,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

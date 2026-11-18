@@ -8,7 +8,7 @@ titre: Microwave radiation induces neuronal autophagy through miR-30a-5p/AMPKα2
 url: https://pubmed.ncbi.nlm.nih.gov/35322852/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -58,6 +58,12 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - autophagy
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +71,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2022
 ---
 

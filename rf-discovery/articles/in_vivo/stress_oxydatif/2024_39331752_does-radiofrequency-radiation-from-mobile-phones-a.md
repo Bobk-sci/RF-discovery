@@ -8,7 +8,7 @@ titre: Does Radiofrequency Radiation From Mobile Phones Affect the Formation of 
 url: https://pubmed.ncbi.nlm.nih.gov/39331752/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Parotid Gland
 - Animals
@@ -54,11 +54,19 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - antioxidant
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

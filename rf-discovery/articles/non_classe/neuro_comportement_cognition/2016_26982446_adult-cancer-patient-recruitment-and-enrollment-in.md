@@ -9,7 +9,7 @@ titre: Adult Cancer Patient Recruitment and Enrollment into Cell Phone Text Mess
 url: https://pubmed.ncbi.nlm.nih.gov/26982446/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -67,10 +67,15 @@ theme_secondaires: []
 theme_indices:
 - cognition
 - depression
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2016
 ---
 

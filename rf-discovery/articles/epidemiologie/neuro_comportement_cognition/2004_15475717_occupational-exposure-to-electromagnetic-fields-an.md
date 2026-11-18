@@ -7,7 +7,7 @@ titre: Occupational exposure to electromagnetic fields and risk of Alzheimer's d
 url: https://pubmed.ncbi.nlm.nih.gov/15475717/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aged
 - Aged, 80 and over
@@ -49,10 +49,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- ELF-MF
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
+- bande/bf
 - annee/2004
 ---
 

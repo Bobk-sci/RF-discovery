@@ -8,7 +8,7 @@ titre: 'Evidence for a health risk by RF on humans living around mobile phone ba
 url: https://pubmed.ncbi.nlm.nih.gov/35843283/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -46,11 +46,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

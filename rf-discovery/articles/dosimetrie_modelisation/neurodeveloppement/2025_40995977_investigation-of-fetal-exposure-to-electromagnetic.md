@@ -8,7 +8,7 @@ titre: Investigation of fetal exposure to electromagnetic waves between 2.45 and
 url: https://pubmed.ncbi.nlm.nih.gov/40995977/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Lung
 - Brain
@@ -49,11 +49,19 @@ theme_secondaires:
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

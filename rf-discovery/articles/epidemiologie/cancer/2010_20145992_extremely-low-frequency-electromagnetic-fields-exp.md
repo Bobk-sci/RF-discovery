@@ -8,7 +8,7 @@ titre: 'Extremely low-frequency electromagnetic fields exposure and female breas
 url: https://pubmed.ncbi.nlm.nih.gov/20145992/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Breast Neoplasms
 - Case-Control Studies
@@ -48,11 +48,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - cancer risk
+bande: bf
+bande_score: 1001.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/epidemiologie
 - modele/revue
 - theme/cancer
+- bande/bf
 - annee/2010
 ---
 

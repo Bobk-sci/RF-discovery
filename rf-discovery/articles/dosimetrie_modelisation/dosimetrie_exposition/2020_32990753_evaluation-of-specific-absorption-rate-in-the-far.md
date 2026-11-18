@@ -8,7 +8,7 @@ titre: EVALUATION OF SPECIFIC ABSORPTION RATE IN THE FAR-FIELD, NEAR-TO-FAR FIEL
 url: https://pubmed.ncbi.nlm.nih.gov/32990753/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Radio Waves
@@ -41,10 +41,19 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

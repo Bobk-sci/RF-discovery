@@ -8,7 +8,7 @@ titre: 'Evaluating radiofrequency electromagnetic field exposure in confined spa
 url: https://pubmed.ncbi.nlm.nih.gov/38491820/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiation Monitoring
@@ -43,12 +43,19 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - temperature rise
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

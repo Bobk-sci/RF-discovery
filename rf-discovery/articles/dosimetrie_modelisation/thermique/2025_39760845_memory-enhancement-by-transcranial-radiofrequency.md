@@ -8,7 +8,7 @@ titre: Memory enhancement by transcranial radiofrequency wave treatment occurs w
 url: https://pubmed.ncbi.nlm.nih.gov/39760845/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Humans
@@ -51,12 +51,20 @@ theme_indices:
 - heating
 - non-thermal
 - body temperature
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

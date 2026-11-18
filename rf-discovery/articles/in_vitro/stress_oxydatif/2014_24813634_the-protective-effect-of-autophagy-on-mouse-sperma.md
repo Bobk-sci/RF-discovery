@@ -8,7 +8,7 @@ titre: The protective effect of autophagy on mouse spermatocyte derived cells ex
 url: https://pubmed.ncbi.nlm.nih.gov/24813634/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -69,6 +69,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -78,6 +85,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
 - theme/reproduction
+- bande/rf
 - annee/2014
 ---
 

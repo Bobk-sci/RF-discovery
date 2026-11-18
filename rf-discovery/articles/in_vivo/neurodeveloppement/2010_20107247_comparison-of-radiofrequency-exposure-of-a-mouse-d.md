@@ -7,7 +7,7 @@ titre: Comparison of radiofrequency exposure of a mouse dam and foetuses at 900 
 url: https://pubmed.ncbi.nlm.nih.gov/20107247/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption
 - Animals
@@ -54,11 +54,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
+- bande/rf
 - annee/2010
 ---
 

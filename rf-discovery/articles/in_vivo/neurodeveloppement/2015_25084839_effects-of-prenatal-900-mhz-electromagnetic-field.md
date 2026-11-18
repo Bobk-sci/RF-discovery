@@ -8,7 +8,7 @@ titre: Effects of prenatal 900 MHz electromagnetic field exposures on the histol
 url: https://pubmed.ncbi.nlm.nih.gov/25084839/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -57,11 +57,17 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2015
 ---
 

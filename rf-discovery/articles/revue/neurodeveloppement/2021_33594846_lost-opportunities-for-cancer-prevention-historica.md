@@ -8,7 +8,7 @@ titre: 'Lost opportunities for cancer prevention: historical evidence on early w
 url: https://pubmed.ncbi.nlm.nih.gov/33594846/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -60,6 +60,13 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/revue
@@ -69,6 +76,7 @@ tags:
 - theme/thermique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

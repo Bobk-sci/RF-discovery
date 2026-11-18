@@ -8,7 +8,7 @@ titre: Short-term radiofrequency exposure from new generation mobile phones redu
 url: https://pubmed.ncbi.nlm.nih.gov/30573783/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -54,12 +54,19 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
 - theme/neurodeveloppement
+- bande/rf
 - annee/2018
 ---
 

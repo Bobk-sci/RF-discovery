@@ -8,7 +8,7 @@ titre: Exposure and health risks perception of extremely low frequency and radio
 url: https://pubmed.ncbi.nlm.nih.gov/30530090/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Child
 - Electromagnetic Fields
@@ -52,11 +52,21 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - child
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- bf
+- rf
+bande_indices:
+- extremely low frequency and radiofrequency (descripteur décisif)
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
+- bande/mixte
+- bande/bf
+- bande/rf
 - annee/2019
 ---
 

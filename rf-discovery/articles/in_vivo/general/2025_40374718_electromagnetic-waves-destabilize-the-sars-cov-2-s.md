@@ -8,7 +8,7 @@ titre: Electromagnetic waves destabilize the SARS-CoV-2 Spike protein and reduce
 url: https://pubmed.ncbi.nlm.nih.gov/40374718/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Vero Cells
 - Animals
@@ -52,11 +52,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

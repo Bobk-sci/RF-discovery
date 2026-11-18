@@ -8,7 +8,7 @@ titre: Microwave exposure induced ferroptosis by inhibiting the Nrf2 pathway and
 url: https://pubmed.ncbi.nlm.nih.gov/40527021/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -76,6 +76,12 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - Nrf2
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -83,6 +89,7 @@ tags:
 - theme/stress_oxydatif
 - theme/reproduction
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Primary DNA damage in human blood lymphocytes exposed in vitro to 2450 MH
 url: https://pubmed.ncbi.nlm.nih.gov/10761010/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Comet Assay
 - DNA Damage
@@ -48,6 +48,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -55,6 +62,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2000
 ---
 

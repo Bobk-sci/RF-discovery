@@ -8,7 +8,7 @@ titre: Effects of microwaves (950 MHZ mobile phone) on morphometric and apoptot
 url: https://pubmed.ncbi.nlm.nih.gov/25060044/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -49,11 +49,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2015
 ---
 

@@ -8,7 +8,7 @@ titre: Low-amplitude, high-frequency electromagnetic field exposure causes delay
 url: https://pubmed.ncbi.nlm.nih.gov/26643955/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Plant Stems
@@ -48,12 +48,18 @@ theme_secondaires:
 - thermique
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/revue
 - theme/dosimetrie_exposition
 - theme/thermique
+- bande/rf
 - annee/2016
 ---
 

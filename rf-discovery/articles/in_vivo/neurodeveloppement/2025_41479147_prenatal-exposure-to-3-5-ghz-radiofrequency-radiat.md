@@ -8,7 +8,7 @@ titre: 'Prenatal Exposure to 3.5 GHz Radiofrequency Radiation and Long-Term Skin
 url: https://pubmed.ncbi.nlm.nih.gov/41479147/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -46,12 +46,20 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - in utero
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

@@ -7,7 +7,7 @@ titre: Subchronic exposure of hsp70.1-deficient mice to radiofrequency radiation
 url: https://pubmed.ncbi.nlm.nih.gov/16449085/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -52,6 +52,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -60,6 +67,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2005
 ---
 

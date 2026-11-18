@@ -7,7 +7,7 @@ titre: Genotoxic Risks to Male Reproductive Health from Radiofrequency Radiation
 url: https://pubmed.ncbi.nlm.nih.gov/36831261/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Semen
 - Animals
@@ -54,6 +54,11 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -63,6 +68,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

@@ -9,7 +9,7 @@ titre: Chromosome damage and micronucleus formation in human blood lymphocytes e
 url: https://pubmed.ncbi.nlm.nih.gov/11554855/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Chromosome Aberrations
@@ -52,6 +52,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -59,6 +66,7 @@ tags:
 - modele/humain_experimental
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

@@ -7,7 +7,7 @@ titre: Ginkgo biloba prevents mobile phone-induced oxidative stress in rat brain
 url: https://pubmed.ncbi.nlm.nih.gov/14734207/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -56,10 +56,17 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2004
 ---
 

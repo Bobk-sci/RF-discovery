@@ -8,7 +8,7 @@ titre: The Study of Manufacturing Thermal Insulation Materials Based on Inorgani
 url: https://pubmed.ncbi.nlm.nih.gov/35956716/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -43,10 +43,16 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2022
 ---
 

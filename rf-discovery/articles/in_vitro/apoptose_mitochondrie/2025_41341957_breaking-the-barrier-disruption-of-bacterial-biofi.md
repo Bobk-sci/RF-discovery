@@ -7,7 +7,7 @@ titre: 'Breaking the barrier: disruption of bacterial biofilms using microwave r
 url: https://pubmed.ncbi.nlm.nih.gov/41341957/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Biofilms
@@ -46,10 +46,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cell viability
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

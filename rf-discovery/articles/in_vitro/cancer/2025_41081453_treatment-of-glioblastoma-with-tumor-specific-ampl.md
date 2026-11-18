@@ -8,7 +8,7 @@ titre: Treatment of glioblastoma with tumor-specific amplitude-modulated radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/41081453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Humans
@@ -75,11 +75,18 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - tumor
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/cancer
 - theme/eeg_sommeil
+- bande/rf
 - annee/2025
 ---
 

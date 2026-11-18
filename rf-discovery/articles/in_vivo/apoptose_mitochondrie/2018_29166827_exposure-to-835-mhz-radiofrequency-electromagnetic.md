@@ -8,7 +8,7 @@ titre: Exposure to 835 MHz radiofrequency electromagnetic field induces autophag
 url: https://pubmed.ncbi.nlm.nih.gov/29166827/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Autophagy
@@ -56,12 +56,19 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - autophagy
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2018
 ---
 

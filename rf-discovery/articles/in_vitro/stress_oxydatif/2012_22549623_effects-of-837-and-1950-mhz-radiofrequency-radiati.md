@@ -8,7 +8,7 @@ titre: Effects of 837 and 1950 MHz radiofrequency radiation exposure alone or 
 url: https://pubmed.ncbi.nlm.nih.gov/22549623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Glutathione Disulfide
@@ -56,6 +56,14 @@ theme_indices:
 - superoxide dismutase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -63,6 +71,7 @@ tags:
 - theme/stress_oxydatif
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

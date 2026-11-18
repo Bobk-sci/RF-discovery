@@ -7,7 +7,7 @@ titre: The influence of direct mobile phone radiation on sperm quality.
 url: https://pubmed.ncbi.nlm.nih.gov/24982785/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,10 +37,17 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/in_vitro
 - theme/reproduction
+- bande/rf
 - annee/2014
 ---
 

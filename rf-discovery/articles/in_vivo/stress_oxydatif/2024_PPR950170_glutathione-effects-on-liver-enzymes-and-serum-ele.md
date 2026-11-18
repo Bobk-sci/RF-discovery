@@ -8,7 +8,7 @@ titre: Glutathione Effects on Liver Enzymes and Serum Electrolyte in Mice Expose
 url: https://doi.org/10.21203/rs.3.rs-5552237/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -30,10 +30,17 @@ theme_secondaires: []
 theme_indices:
 - oxidative stress
 - glutathione
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2024
 ---
 

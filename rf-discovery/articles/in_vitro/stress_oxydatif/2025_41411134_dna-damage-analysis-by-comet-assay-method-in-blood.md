@@ -9,7 +9,7 @@ titre: DNA Damage Analysis by Comet Assay Method in Blood Tissue and Physiopatho
 url: https://pubmed.ncbi.nlm.nih.gov/41411134/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,12 +40,19 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - antioxidant
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

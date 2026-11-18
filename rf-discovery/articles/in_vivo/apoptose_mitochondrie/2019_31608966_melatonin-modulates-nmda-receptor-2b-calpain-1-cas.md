@@ -8,7 +8,7 @@ titre: Melatonin Modulates NMDA-Receptor 2B/Calpain-1/ Caspase-12 Pathways in Ra
 url: https://pubmed.ncbi.nlm.nih.gov/31608966/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -55,11 +55,18 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2019
 ---
 

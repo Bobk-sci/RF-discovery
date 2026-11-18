@@ -9,7 +9,7 @@ titre: The effect of exposure to RF-EMF from the laboratory simulator of 5G NR b
 url: https://pubmed.ncbi.nlm.nih.gov/38704416/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -55,12 +55,21 @@ theme_secondaires:
 theme_indices:
 - cognition
 - cognitive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

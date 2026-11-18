@@ -8,7 +8,7 @@ titre: GSM-like radiofrequency exposure induces apoptosis via caspase-dependent 
 url: https://pubmed.ncbi.nlm.nih.gov/28125894/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -56,11 +56,19 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2016
 ---
 

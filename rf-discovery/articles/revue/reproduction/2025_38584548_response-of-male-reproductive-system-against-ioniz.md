@@ -8,7 +8,7 @@ titre: 'Response of Male Reproductive System against Ionizing Radiation and Avai
 url: https://pubmed.ncbi.nlm.nih.gov/38584548/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Genitalia, Male
 - Testis
@@ -56,6 +56,14 @@ theme_indices:
 - testis
 - fertility
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
@@ -63,6 +71,7 @@ tags:
 - theme/reproduction
 - theme/eeg_sommeil
 - theme/cancer
+- bande/rf
 - annee/2025
 ---
 

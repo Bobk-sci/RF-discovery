@@ -8,7 +8,7 @@ titre: Controversies on electromagnetic field exposure and the nervous systems o
 url: https://pubmed.ncbi.nlm.nih.gov/26661935/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Cell Phone
@@ -48,11 +48,16 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2016
 ---
 

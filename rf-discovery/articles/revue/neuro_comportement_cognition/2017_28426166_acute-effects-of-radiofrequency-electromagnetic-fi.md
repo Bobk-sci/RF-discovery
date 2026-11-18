@@ -8,7 +8,7 @@ titre: Acute effects of radiofrequency electromagnetic field emitted by mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/28426166/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Cell Phone
@@ -48,12 +48,19 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - reaction time
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2017
 ---
 

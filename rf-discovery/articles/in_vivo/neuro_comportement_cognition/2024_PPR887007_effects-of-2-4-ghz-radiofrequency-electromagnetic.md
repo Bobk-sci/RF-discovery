@@ -8,7 +8,7 @@ titre: Effects of 2.4 GHz radiofrequency electromagnetic field exposure on hippo
 url: https://doi.org/10.21203/rs.3.rs-4637718/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -40,10 +40,17 @@ theme_secondaires: []
 theme_indices:
 - memory
 - learning and memory
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2024
 ---
 

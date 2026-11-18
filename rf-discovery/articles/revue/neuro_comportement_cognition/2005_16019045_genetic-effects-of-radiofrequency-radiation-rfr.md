@@ -7,7 +7,7 @@ titre: Genetic effects of radiofrequency radiation (RFR).
 url: https://pubmed.ncbi.nlm.nih.gov/16019045/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Chromosome Aberrations
@@ -40,6 +40,11 @@ theme_secondaires:
 - thermique
 theme_indices:
 - attention
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -48,6 +53,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/thermique
+- bande/rf
 - annee/2005
 ---
 

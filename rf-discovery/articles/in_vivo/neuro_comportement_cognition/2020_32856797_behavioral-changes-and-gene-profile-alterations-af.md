@@ -8,7 +8,7 @@ titre: 'Behavioral changes and gene profile alterations after chronic 1,950-MHz 
 url: https://pubmed.ncbi.nlm.nih.gov/32856797/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -63,6 +69,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

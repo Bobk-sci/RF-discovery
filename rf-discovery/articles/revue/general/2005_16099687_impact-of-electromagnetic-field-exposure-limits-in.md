@@ -8,7 +8,7 @@ titre: 'Impact of electromagnetic field exposure limits in Europe: is the future
 url: https://pubmed.ncbi.nlm.nih.gov/16099687/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Equipment Safety
@@ -40,11 +40,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2005
 ---
 

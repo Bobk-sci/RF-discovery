@@ -8,7 +8,7 @@ titre: Decreased DNA repair rates and protection from heat induced apoptosis med
 url: https://pubmed.ncbi.nlm.nih.gov/11835257/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Apoptosis
 - Cell Count
@@ -50,12 +50,18 @@ theme_secondaires:
 - cancer
 theme_indices:
 - apoptosis
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 60 Hz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/bf
 - annee/2002
 ---
 

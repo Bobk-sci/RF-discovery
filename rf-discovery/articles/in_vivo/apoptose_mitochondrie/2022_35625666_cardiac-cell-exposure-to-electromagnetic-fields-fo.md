@@ -8,7 +8,7 @@ titre: 'Cardiac Cell Exposure to Electromagnetic Fields: Focus on Oxdative Stres
 url: https://pubmed.ncbi.nlm.nih.gov/35625666/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -45,12 +45,18 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2022
 ---
 

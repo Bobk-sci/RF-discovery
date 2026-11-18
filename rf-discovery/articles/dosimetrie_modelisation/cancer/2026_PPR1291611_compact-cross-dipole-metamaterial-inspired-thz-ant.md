@@ -8,7 +8,7 @@ titre: Compact Cross Dipole Metamaterial-Inspired THz Antenna for Non-invasive e
 url: https://doi.org/10.21203/rs.3.rs-10593309/v1
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -31,11 +31,17 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

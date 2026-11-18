@@ -7,7 +7,7 @@ titre: 'Wi-Fi technology and human health impact: a brief review of current know
 url: https://pubmed.ncbi.nlm.nih.gov/35792772/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -61,6 +61,12 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -69,6 +75,7 @@ tags:
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/2022
 ---
 

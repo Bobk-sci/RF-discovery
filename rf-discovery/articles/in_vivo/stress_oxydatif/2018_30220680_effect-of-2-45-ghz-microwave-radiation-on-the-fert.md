@@ -7,7 +7,7 @@ titre: Effect of 2.45 GHz microwave radiation on the fertility pattern in male m
 url: https://pubmed.ncbi.nlm.nih.gov/30220680/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Dose-Response Relationship, Radiation
@@ -51,6 +51,12 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -59,6 +65,7 @@ tags:
 - theme/reproduction
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

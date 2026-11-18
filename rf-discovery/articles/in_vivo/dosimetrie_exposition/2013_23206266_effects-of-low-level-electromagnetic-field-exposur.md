@@ -7,7 +7,7 @@ titre: Effects of low level electromagnetic field exposure at 2.45 GHz on rat co
 url: https://pubmed.ncbi.nlm.nih.gov/23206266/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption
 - Animals
@@ -45,11 +45,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

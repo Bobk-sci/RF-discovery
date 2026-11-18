@@ -7,7 +7,7 @@ titre: Review on the impact of cell phone radiation effects on green plants.
 url: https://pubmed.ncbi.nlm.nih.gov/38773047/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Plants
 - Radio Waves
@@ -47,6 +47,11 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - lipid peroxidation
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -55,6 +60,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/eeg_sommeil
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

@@ -7,7 +7,7 @@ titre: Radiations and male fertility.
 url: https://pubmed.ncbi.nlm.nih.gov/30445985/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Spermatozoa
 - Humans
@@ -49,6 +49,13 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -57,6 +64,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2018
 ---
 

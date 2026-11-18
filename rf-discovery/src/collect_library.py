@@ -33,10 +33,12 @@ from collect.europepmc import Paper
 from collect.europepmc import search as epmc_search
 from library.classify import (
     Taxonomy,
+    axes_du_chemin,
     build_query,
     classify_paper,
     is_off_topic,
     load_taxonomy,
+    noms_axes,
 )
 from library.digest import write_digest
 from library.importer import papers_from_json
@@ -103,7 +105,7 @@ def collect(tax: Taxonomy, sources: list[str], max_results: int, *,
 def file_papers(out: Path, papers: list[Paper],
                 tax: Taxonomy) -> tuple[dict[str, int], list[Path]]:
     """Classe et écrit chaque article ; rend les compteurs et les fiches écrites."""
-    axes = tuple(ax.name for ax in tax.axes)
+    axes, chemin = noms_axes(tax), axes_du_chemin(tax)
     counts: dict[str, int] = {}
     ecrits: list[Path] = []
     for paper in papers:
@@ -113,7 +115,7 @@ def file_papers(out: Path, papers: list[Paper],
             counts["_ecartes"] = counts.get("_ecartes", 0) + 1
             continue
         assignments = classify_paper(paper, tax)
-        ecrits.append(write_article(out, paper, assignments, axes))
+        ecrits.append(write_article(out, paper, assignments, axes, chemin))
         key = assignments[axes[0]].category if axes else "?"
         counts[key] = counts.get(key, 0) + 1
     return counts, ecrits
@@ -125,7 +127,7 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
     Resserrer `exclusions`/`pertinence` doit aussi **sortir** du corpus les fiches
     devenues hors sujet : sinon la bibliothèque garderait une trace de réglages révolus.
     """
-    axes = tuple(ax.name for ax in tax.axes)
+    axes, chemin = noms_axes(tax), axes_du_chemin(tax)
     moved = removed = 0
     for path in iter_fiches(out):
         paper = read_article(path)
@@ -136,8 +138,8 @@ def reclasser(out: Path, tax: Taxonomy) -> dict[str, int]:
             removed += 1
             continue
         assignments = classify_paper(paper, tax)
-        target = article_path(out, paper, assignments, axes)
-        write_article(out, paper, assignments, axes)
+        target = article_path(out, paper, assignments, chemin)
+        write_article(out, paper, assignments, axes, chemin)
         if target.resolve() != path.resolve():
             path.unlink()
             moved += 1
@@ -164,7 +166,7 @@ def completer(out: Path, tax: Taxonomy, *, email: str = "", api_key: str = "",
     identifiants coûte quelques appels, là où une nouvelle recherche ne retrouverait que
     les articles répondant à la requête courante.
     """
-    axes = tuple(ax.name for ax in tax.axes)
+    axes, chemin = noms_axes(tax), axes_du_chemin(tax)
     manquants = _fiches_incompletes(out)
     if not manquants:
         return {"a_completer": 0, "completees": 0}
@@ -175,7 +177,7 @@ def completer(out: Path, tax: Taxonomy, *, email: str = "", api_key: str = "",
         ancien = manquants.get(paper.pmid)
         if ancien is None or not paper.extra.get("authors"):
             continue
-        nouveau = write_article(out, paper, classify_paper(paper, tax), axes)
+        nouveau = write_article(out, paper, classify_paper(paper, tax), axes, chemin)
         if nouveau.resolve() != ancien.resolve():
             ancien.unlink()
         completees += 1
@@ -195,7 +197,7 @@ def memoire_depuis_bibliotheque(out: Path) -> set[str]:
 
 def _finalise(out: Path, tax: Taxonomy, query: str) -> int:
     records = scan_library(out)
-    axes = tuple(ax.name for ax in tax.axes)
+    axes = noms_axes(tax)      # l'index reprend tous les axes, chemin ou non
     write_index(out, records, axes)
     write_readme(out, records, tax, query)
     write_maps(out, records, axes)      # points d'entrée pour Obsidian

@@ -8,7 +8,7 @@ titre: Acute exposure to 27.12 MHz radiofrequency electromagnetic field disrupts
 url: https://pubmed.ncbi.nlm.nih.gov/41586187/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -50,12 +50,19 @@ theme_indices:
 - BBB permeability
 - tight junction
 - occludin
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

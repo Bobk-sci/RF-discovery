@@ -8,7 +8,7 @@ titre: Electromagnetic field exposure to human head model with various metal obj
 url: https://pubmed.ncbi.nlm.nih.gov/37270798/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Head
 - Humans
@@ -48,10 +48,18 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - electric field strength
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

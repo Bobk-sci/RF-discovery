@@ -8,7 +8,7 @@ titre: 'Axial gout diagnosed by dual-energy CT in a young normouricaemic man wit
 url: https://pubmed.ncbi.nlm.nih.gov/42406136/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Gout
@@ -54,10 +54,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

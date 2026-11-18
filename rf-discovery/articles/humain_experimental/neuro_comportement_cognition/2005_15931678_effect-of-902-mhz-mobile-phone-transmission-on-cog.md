@@ -7,7 +7,7 @@ titre: Effect of 902 MHz mobile phone transmission on cognitive function in chil
 url: https://pubmed.ncbi.nlm.nih.gov/15931678/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Body Burden
 - Cell Phone
@@ -49,11 +49,19 @@ theme_indices:
 - cognition
 - cognitive
 - reaction time
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2005
 ---
 

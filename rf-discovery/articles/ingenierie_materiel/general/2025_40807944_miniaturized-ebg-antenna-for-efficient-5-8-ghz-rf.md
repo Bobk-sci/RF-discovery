@@ -8,7 +8,7 @@ titre: Miniaturized EBG Antenna for Efficient 5.8 GHz RF Energy Harvesting in Se
 url: https://pubmed.ncbi.nlm.nih.gov/40807944/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,10 +47,20 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires:
+- intermediaire
+bande_indices:
+- radio frequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/general
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

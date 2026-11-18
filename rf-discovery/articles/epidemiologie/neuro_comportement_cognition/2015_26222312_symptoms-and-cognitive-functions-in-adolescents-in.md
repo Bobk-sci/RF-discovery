@@ -8,7 +8,7 @@ titre: Symptoms and Cognitive Functions in Adolescents in Relation to Mobile Pho
 url: https://pubmed.ncbi.nlm.nih.gov/26222312/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Cell Phone
@@ -55,12 +55,18 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2015
 ---
 

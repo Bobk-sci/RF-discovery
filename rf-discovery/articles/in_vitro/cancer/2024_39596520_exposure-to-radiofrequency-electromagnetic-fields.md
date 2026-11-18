@@ -8,7 +8,7 @@ titre: Exposure to Radiofrequency Electromagnetic Fields Enhances Melanin Synthe
 url: https://pubmed.ncbi.nlm.nih.gov/39596520/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Melanocytes
@@ -65,6 +65,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -73,6 +80,7 @@ tags:
 - theme/cancer
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

@@ -9,7 +9,7 @@ titre: 'Effects of a Single Head Exposure to GSM-1800 MHz Signals on the Transcr
 url: https://pubmed.ncbi.nlm.nih.gov/32200527/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cerebral Cortex
 - Animals
@@ -61,6 +61,13 @@ theme_secondaires:
 theme_indices:
 - gene expression
 - transcriptome
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +75,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

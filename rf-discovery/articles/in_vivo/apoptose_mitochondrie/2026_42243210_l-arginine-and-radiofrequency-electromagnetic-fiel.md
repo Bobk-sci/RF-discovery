@@ -8,7 +8,7 @@ titre: L arginine and radiofrequency electromagnetic field attenuate inflammator
 url: https://pubmed.ncbi.nlm.nih.gov/42243210/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -66,12 +66,19 @@ theme_indices:
 - apoptosis
 - Bcl-2
 - mitochondrial
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
 - theme/neuroinflammation
+- bande/rf
 - annee/2026
 ---
 

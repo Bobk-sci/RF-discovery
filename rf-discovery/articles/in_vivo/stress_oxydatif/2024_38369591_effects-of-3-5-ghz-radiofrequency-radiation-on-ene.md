@@ -8,7 +8,7 @@ titre: Effects of 3.5-GHz radiofrequency radiation on energy-regulatory hormone 
 url: https://pubmed.ncbi.nlm.nih.gov/38369591/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adipose Tissue
 - Animals
@@ -60,12 +60,20 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - antioxidant
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

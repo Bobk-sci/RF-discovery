@@ -8,7 +8,7 @@ titre: Assessment of the Variability of Human Exposure to Radiofrequency Electro
 url: https://pubmed.ncbi.nlm.nih.gov/37571584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Child
 - Adult
@@ -51,12 +51,20 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

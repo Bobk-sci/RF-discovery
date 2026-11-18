@@ -8,7 +8,7 @@ titre: Lessons learnt on biases and uncertainties in personal exposure measureme
 url: https://pubmed.ncbi.nlm.nih.gov/27356850/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Bias
 - Cell Phone
@@ -51,12 +51,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2016
 ---
 

@@ -8,7 +8,7 @@ titre: Do blue light filter applications improve sleep outcomes? A study of smar
 url: https://pubmed.ncbi.nlm.nih.gov/38461462/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Female
@@ -53,11 +53,17 @@ theme_indices:
 - sleep
 - melatonin
 - circadian
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
+- bande/rf
 - annee/2024
 ---
 

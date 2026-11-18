@@ -8,7 +8,7 @@ titre: Assessment of genotoxicity and genomic instability in rat primary astrocy
 url: https://pubmed.ncbi.nlm.nih.gov/29528766/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Astrocytes
@@ -52,11 +52,19 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2018
 ---
 

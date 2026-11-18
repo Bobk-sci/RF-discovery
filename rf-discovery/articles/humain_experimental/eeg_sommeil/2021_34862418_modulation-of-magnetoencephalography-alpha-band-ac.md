@@ -8,7 +8,7 @@ titre: Modulation of magnetoencephalography alpha band activity by radiofrequenc
 url: https://pubmed.ncbi.nlm.nih.gov/34862418/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Biomarkers
@@ -56,11 +56,19 @@ theme_secondaires:
 theme_indices:
 - electroencephalogram
 - alpha band
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2021
 ---
 

@@ -8,7 +8,7 @@ titre: 'Understanding Electromagnetic Hypersensitivity (EHS) From Mobile Phone R
 url: https://pubmed.ncbi.nlm.nih.gov/40293416/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Hypersensitivity
@@ -47,11 +47,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2025
 ---
 

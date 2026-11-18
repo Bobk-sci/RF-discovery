@@ -9,7 +9,7 @@ titre: 'The effect of exposure to radiofrequency fields on cancer risk in the ge
 url: https://pubmed.ncbi.nlm.nih.gov/34433115/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Brain Neoplasms
@@ -81,12 +81,18 @@ theme_indices:
 - acoustic neuroma
 - meningioma
 - cancer risk
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2021
 ---
 

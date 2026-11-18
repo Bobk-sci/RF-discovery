@@ -8,7 +8,7 @@ titre: Effect of cell phone-like electromagnetic radiation on primary human thyr
 url: https://pubmed.ncbi.nlm.nih.gov/26689947/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Adult
@@ -64,12 +64,18 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vitro
 - theme/cancer
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2016
 ---
 

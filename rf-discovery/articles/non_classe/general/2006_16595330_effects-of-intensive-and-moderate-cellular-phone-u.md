@@ -7,7 +7,7 @@ titre: Effects of intensive and moderate cellular phone use on hearing function.
 url: https://pubmed.ncbi.nlm.nih.gov/16595330/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -37,10 +37,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2006
 ---
 

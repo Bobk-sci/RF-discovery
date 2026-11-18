@@ -9,7 +9,7 @@ titre: 'Accuracy of dual-energy computed tomography (CT), ultrasound, cone-beam 
 url: https://pubmed.ncbi.nlm.nih.gov/41823217/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aged
 - Female
@@ -69,11 +69,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

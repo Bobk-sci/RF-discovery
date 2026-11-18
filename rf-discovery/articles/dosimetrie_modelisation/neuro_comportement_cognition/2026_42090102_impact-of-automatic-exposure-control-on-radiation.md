@@ -8,7 +8,7 @@ titre: Impact of automatic exposure control on radiation dose and detectability 
 url: https://pubmed.ncbi.nlm.nih.gov/42090102/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,10 +39,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

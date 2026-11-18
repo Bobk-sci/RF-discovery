@@ -7,7 +7,7 @@ titre: 'Electromagnetic field occupational exposure: non-thermal vs. thermal eff
 url: https://pubmed.ncbi.nlm.nih.gov/23675617/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electric Power Supplies
 - Electromagnetic Fields
@@ -40,10 +40,17 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/2013
 ---
 

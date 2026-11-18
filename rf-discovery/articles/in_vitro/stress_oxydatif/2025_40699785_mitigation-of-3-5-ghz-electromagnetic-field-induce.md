@@ -8,7 +8,7 @@ titre: Mitigation of 3.5 GHz Electromagnetic Field-Induced BV2 Microglial Cytoto
 url: https://pubmed.ncbi.nlm.nih.gov/40699785/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,6 +47,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -54,6 +61,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

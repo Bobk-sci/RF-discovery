@@ -9,7 +9,7 @@ titre: Radiofrequency Electromagnetic and Pulsed Magnetic Fields Protected the K
 url: https://pubmed.ncbi.nlm.nih.gov/40005355/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Kidney
 - Animals
@@ -70,6 +70,11 @@ theme_indices:
 - oxidative stress
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
@@ -77,6 +82,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/neuroinflammation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

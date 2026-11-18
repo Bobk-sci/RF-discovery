@@ -8,7 +8,7 @@ titre: Meta-atom loaded circularly polarized triple band patch antenna for Wi-Fi
 url: https://pubmed.ncbi.nlm.nih.gov/38586375/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,10 +42,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/general
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Manmade Electromagnetic Fields and Oxidative Stress-Biological Effects an
 url: https://pubmed.ncbi.nlm.nih.gov/33917298/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -57,6 +57,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: bf
+bande_score: 1001.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-MF
 tags:
 - rf
 - modele/revue
@@ -65,6 +72,8 @@ tags:
 - modele/epidemiologie
 - theme/stress_oxydatif
 - theme/cancer
+- bande/bf
+- bande/rf
 - annee/2021
 ---
 

@@ -7,7 +7,7 @@ titre: Non-thermal biomarkers of exposure to radiofrequency/microwave radiation.
 url: https://pubmed.ncbi.nlm.nih.gov/22548854/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Proliferation
@@ -50,6 +50,12 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/in_vitro
@@ -58,6 +64,7 @@ tags:
 - modele/epidemiologie
 - theme/thermique
 - theme/eeg_sommeil
+- bande/rf
 - annee/2012
 ---
 

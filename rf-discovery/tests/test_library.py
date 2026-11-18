@@ -12,12 +12,14 @@ from collect import emfportal, openalex, pubmed
 from collect.europepmc import Paper
 from collect_library import collect, file_papers, reclasser
 from library.classify import (
+    axes_du_chemin,
     build_query,
     classify,
     classify_paper,
     is_off_topic,
     load_taxonomy,
     meta_text,
+    noms_axes,
 )
 from library.importer import papers_from_json
 from library.organize import (
@@ -412,3 +414,49 @@ def test_collect_agrege_les_sources(monkeypatch, tmp_path):
     assert {p.pmid for p in papers} == {"30000002", "31234567"}
     counts, ecrits = file_papers(tmp_path, papers, TAX)
     assert counts == {"in_vivo": 1, "in_vitro": 1}
+
+
+# --- axe `bande` : classer sans ranger -------------------------------------------
+
+def test_bande_ne_fait_pas_de_dossier(tmp_path):
+    """L'axe `bande` classe sans déplacer : le chemin reste <modele>/<theme>/.
+
+    Le mettre dans le chemin aurait déplacé 2 500 fiches pour une information qui
+    a sa place dans l'en-tête. Ce test échoue si quelqu'un passe `chemin: true`.
+    """
+    assert "bande" in noms_axes(TAX)
+    assert "bande" not in axes_du_chemin(TAX)
+    chemin = write_article(tmp_path, INVIVO, classify_paper(INVIVO, TAX),
+                           noms_axes(TAX), axes_du_chemin(TAX))
+    # deux niveaux de dossier sous la racine, pas trois
+    assert len(chemin.relative_to(tmp_path).parts) == 3
+
+
+def _bande(titre: str, resume: str = "") -> str:
+    paper = Paper(pmid="1", doi="", title=titre, abstract=resume,
+                  year=2020, journal="J")
+    return classify_paper(paper, TAX)["bande"].category
+
+
+def test_bande_distingue_induction_et_absorption():
+    """50 Hz agit par induction, 900 MHz par absorption : deux physiques, deux bandes."""
+    assert _bande("Effects of 50 Hz extremely low frequency magnetic field on neurons",
+                  "power frequency exposure") == "bf"
+    assert _bande("900 MHz radiofrequency exposure and hippocampal neurogenesis",
+                  "specific absorption rate 0.4 W/kg") == "rf"
+
+
+def test_bande_mixte_l_emporte_sur_les_deux_bandes():
+    """Une RF modulée en ELF relève des deux : elle ne doit pas tomber dans l'une au hasard."""
+    assert _bande("Ets1 oncogene induction by ELF-modulated radiofrequency fields") == "mixte"
+
+
+def test_bande_par_defaut_est_rf():
+    """Sans marqueur, une notice reste dans la bande du corpus : aucune invention."""
+    assert _bande("Effects of exposure on rat behaviour") == "rf"
+
+
+def test_bande_attrape_la_frequence_intermediaire():
+    """7,5 kHz n'est ni BF ni RF — c'est la fiche que j'avais écartée à la main."""
+    assert _bande("Behavioural phenotypes after prenatal exposure to "
+                  "intermediate frequency magnetic fields") == "intermediaire"

@@ -8,7 +8,7 @@ titre: Biological effects of 5G-modulated 700 MHz RF-EMF exposure on neuronal an
 url: https://pubmed.ncbi.nlm.nih.gov/41904248/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Neuroglia
 - Astrocytes
@@ -70,6 +70,13 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -79,6 +86,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/neuroinflammation
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

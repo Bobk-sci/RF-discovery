@@ -7,7 +7,7 @@ titre: A wireless power transfer system for leadless endovascular electrocortico
 url: https://pubmed.ncbi.nlm.nih.gov/41792254/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -34,11 +34,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: intermediaire
+bande_score: 2.5
+bande_secondaires:
+- rf
+bande_indices:
+- wireless power transfer
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/intermediaire
+- bande/rf
 - annee/2026
 ---
 

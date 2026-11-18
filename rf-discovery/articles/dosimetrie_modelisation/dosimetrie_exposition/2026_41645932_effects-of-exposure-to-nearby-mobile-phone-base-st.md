@@ -8,7 +8,7 @@ titre: Effects of exposure to nearby mobile phone base stations and mobile phone
 url: https://pubmed.ncbi.nlm.nih.gov/41645932/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Female
@@ -56,10 +56,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

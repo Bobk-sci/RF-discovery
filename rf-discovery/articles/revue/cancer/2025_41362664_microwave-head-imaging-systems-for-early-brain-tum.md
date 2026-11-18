@@ -8,7 +8,7 @@ titre: 'Microwave head imaging systems for early brain tumor detection: antenna 
 url: https://pubmed.ncbi.nlm.nih.gov/41362664/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -48,12 +48,19 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- specific absorption rate
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

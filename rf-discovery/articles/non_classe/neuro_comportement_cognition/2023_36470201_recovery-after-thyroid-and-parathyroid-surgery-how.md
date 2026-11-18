@@ -8,7 +8,7 @@ titre: 'Recovery After Thyroid and Parathyroid Surgery: How Do Our Patients Real
 url: https://pubmed.ncbi.nlm.nih.gov/36470201/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Female
 - Humans
@@ -47,10 +47,16 @@ theme_secondaires: []
 theme_indices:
 - anxiety
 - depression
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

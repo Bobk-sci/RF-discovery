@@ -7,7 +7,7 @@ titre: 'When theory and observation collide: Can non-ionizing radiation cause ca
 url: https://pubmed.ncbi.nlm.nih.gov/27903411/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -45,11 +45,18 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2017
 ---
 

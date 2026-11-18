@@ -9,7 +9,7 @@ titre: 'COMAR technical information statement: expert reviews on potential healt
 url: https://pubmed.ncbi.nlm.nih.gov/19741364/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electricity
@@ -44,10 +44,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2009
 ---
 

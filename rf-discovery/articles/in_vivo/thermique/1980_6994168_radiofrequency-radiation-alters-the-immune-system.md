@@ -8,7 +8,7 @@ titre: Radiofrequency radiation alters the immune system. II. Modulation in vivo
 url: https://pubmed.ncbi.nlm.nih.gov/6994168/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature Regulation
@@ -47,11 +47,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - body temperature
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/thermique
+- bande/rf
 - annee/1980
 ---
 

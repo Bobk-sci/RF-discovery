@@ -9,7 +9,7 @@ titre: 'Effects of prenatal mobile phone radiation exposure on MMP9 expression: 
 url: https://pubmed.ncbi.nlm.nih.gov/37927954/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -45,12 +45,20 @@ theme_indices:
 - prenatal
 - pregnancy
 - neonatal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

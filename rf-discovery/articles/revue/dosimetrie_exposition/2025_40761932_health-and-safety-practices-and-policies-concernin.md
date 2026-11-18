@@ -8,7 +8,7 @@ titre: Health and safety practices and policies concerning human exposure to RF/
 url: https://pubmed.ncbi.nlm.nih.gov/40761932/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Public Health
@@ -48,11 +48,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- 5G
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

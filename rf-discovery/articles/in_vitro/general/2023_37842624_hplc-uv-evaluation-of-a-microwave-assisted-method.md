@@ -8,7 +8,7 @@ titre: HPLC-UV evaluation of a microwave assisted method as an active drug loadi
 url: https://pubmed.ncbi.nlm.nih.gov/37842624/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -36,10 +36,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/general
+- bande/rf
 - annee/2023
 ---
 

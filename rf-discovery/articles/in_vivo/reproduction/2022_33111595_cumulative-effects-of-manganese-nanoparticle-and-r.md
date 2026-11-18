@@ -8,7 +8,7 @@ titre: Cumulative effects of manganese nanoparticle and radiofrequency radiation
 url: https://pubmed.ncbi.nlm.nih.gov/33111595/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -53,12 +53,22 @@ theme_secondaires:
 theme_indices:
 - sperm
 - reproductive
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

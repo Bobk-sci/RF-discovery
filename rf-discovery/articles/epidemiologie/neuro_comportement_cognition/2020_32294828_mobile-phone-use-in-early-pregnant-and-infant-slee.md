@@ -8,7 +8,7 @@ titre: '[Mobile phone use in early pregnant and infant sleep-wake behaviour in 6
 url: https://pubmed.ncbi.nlm.nih.gov/32294828/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone Use
@@ -56,12 +56,18 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

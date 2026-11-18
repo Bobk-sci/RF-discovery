@@ -8,7 +8,7 @@ titre: Breaking the Trade-off in MPI-Guided Magnetic Hyperthermia by Tailoring t
 url: https://pubmed.ncbi.nlm.nih.gov/42025591/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hyperthermia, Induced
 - Animals
@@ -58,6 +58,11 @@ theme_secondaires:
 theme_indices:
 - hyperthermia
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +70,7 @@ tags:
 - theme/thermique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

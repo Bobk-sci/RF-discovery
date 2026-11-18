@@ -8,7 +8,7 @@ titre: Incidence of leukemia in occupations with potential electromagnetic field
 url: https://pubmed.ncbi.nlm.nih.gov/2372008/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -56,11 +56,16 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - leukemia
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/1990
 ---
 

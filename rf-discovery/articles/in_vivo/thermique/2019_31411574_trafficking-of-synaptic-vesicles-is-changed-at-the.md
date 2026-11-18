@@ -8,7 +8,7 @@ titre: Trafficking of synaptic vesicles is changed at the hypothalamus by exposu
 url: https://pubmed.ncbi.nlm.nih.gov/31411574/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biological Transport
@@ -43,12 +43,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - body temperature
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2019
 ---
 

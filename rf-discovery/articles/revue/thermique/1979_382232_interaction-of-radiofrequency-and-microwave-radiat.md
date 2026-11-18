@@ -8,7 +8,7 @@ titre: Interaction of radiofrequency and microwave radiation with living systems
 url: https://pubmed.ncbi.nlm.nih.gov/382232/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biophysical Phenomena
@@ -45,11 +45,21 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - body temperature
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- microwave
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/thermique
+- bande/rf
 - annee/1979
 ---
 

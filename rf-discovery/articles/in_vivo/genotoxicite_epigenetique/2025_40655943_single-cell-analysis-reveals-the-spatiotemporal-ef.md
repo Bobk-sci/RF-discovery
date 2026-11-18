@@ -8,7 +8,7 @@ titre: Single-cell analysis reveals the spatiotemporal effects of long-term elec
 url: https://pubmed.ncbi.nlm.nih.gov/40655943/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -45,10 +45,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - transcriptome
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

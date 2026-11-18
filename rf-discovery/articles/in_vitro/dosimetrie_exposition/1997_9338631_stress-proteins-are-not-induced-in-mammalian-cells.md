@@ -8,7 +8,7 @@ titre: Stress proteins are not induced in mammalian cells exposed to radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/9338631/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - CHO Cells
@@ -49,12 +49,21 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1997
 ---
 

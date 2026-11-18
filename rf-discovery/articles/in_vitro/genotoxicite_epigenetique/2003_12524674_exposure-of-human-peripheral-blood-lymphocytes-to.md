@@ -8,7 +8,7 @@ titre: Exposure of human peripheral blood lymphocytes to electromagnetic fields 
 url: https://pubmed.ncbi.nlm.nih.gov/12524674/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aneuploidy
 - Cell Phone
@@ -64,6 +64,11 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - epigenetic
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -72,6 +77,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2003
 ---
 

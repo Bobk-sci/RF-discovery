@@ -9,7 +9,7 @@ titre: The Protective Effect of Autophagy on DNA Damage in Mouse Spermatocyte-De
 url: https://pubmed.ncbi.nlm.nih.gov/29996120/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - AMP-Activated Protein Kinases
 - Animals
@@ -71,6 +71,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -79,6 +85,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2018
 ---
 

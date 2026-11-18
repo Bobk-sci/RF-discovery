@@ -8,7 +8,7 @@ titre: 'CORRIGENDUM: Fetal Radiofrequency Radiation Exposure From 800-1900 Mhz-R
 url: ''
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - correction
@@ -31,11 +31,17 @@ theme_secondaires:
 theme_indices:
 - neurodevelopment
 - fetal
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2013
 ---
 

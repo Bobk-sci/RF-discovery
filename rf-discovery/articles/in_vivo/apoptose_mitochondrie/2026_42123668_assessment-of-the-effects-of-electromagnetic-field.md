@@ -8,7 +8,7 @@ titre: Assessment of the Effects of Electromagnetic Fields on Apoptosis and Stre
 url: https://pubmed.ncbi.nlm.nih.gov/42123668/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Spiders
@@ -47,11 +47,17 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - cell death
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

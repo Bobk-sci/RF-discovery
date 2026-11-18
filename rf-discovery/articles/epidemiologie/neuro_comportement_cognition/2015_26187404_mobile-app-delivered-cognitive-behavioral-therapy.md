@@ -8,7 +8,7 @@ titre: 'Mobile App-Delivered Cognitive Behavioral Therapy for Insomnia: Feasibil
 url: https://pubmed.ncbi.nlm.nih.gov/26187404/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -39,11 +39,17 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
+- bande/rf
 - annee/2015
 ---
 

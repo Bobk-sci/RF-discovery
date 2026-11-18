@@ -8,7 +8,7 @@ titre: Pulsed and continuous radiofrequency current adjacent to the cervical dor
 url: https://pubmed.ncbi.nlm.nih.gov/15618796/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Ganglia, Spinal
@@ -54,11 +54,17 @@ theme_secondaires:
 - thermique
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/2005
 ---
 

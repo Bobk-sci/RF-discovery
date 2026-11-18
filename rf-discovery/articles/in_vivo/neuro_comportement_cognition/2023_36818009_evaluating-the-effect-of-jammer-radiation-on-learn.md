@@ -7,7 +7,7 @@ titre: Evaluating the Effect of Jammer Radiation on Learning and Memory in Male 
 url: https://pubmed.ncbi.nlm.nih.gov/36818009/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,10 +42,17 @@ theme_indices:
 - memory
 - learning and memory
 - spatial learning
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2023
 ---
 

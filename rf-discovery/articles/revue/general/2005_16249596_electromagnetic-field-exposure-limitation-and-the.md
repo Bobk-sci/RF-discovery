@@ -7,7 +7,7 @@ titre: Electromagnetic field exposure limitation and the future of MRI.
 url: https://pubmed.ncbi.nlm.nih.gov/16249596/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - European Union
@@ -45,10 +45,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/general
+- bande/rf
 - annee/2005
 ---
 

@@ -8,7 +8,7 @@ titre: 'Trends in Malignant and Benign Brain Tumor Incidence and Mobile Phone Us
 url: https://pubmed.ncbi.nlm.nih.gov/40566359/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Neuroma, Acoustic
@@ -56,11 +56,17 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/cancer
+- bande/rf
 - annee/2025
 ---
 

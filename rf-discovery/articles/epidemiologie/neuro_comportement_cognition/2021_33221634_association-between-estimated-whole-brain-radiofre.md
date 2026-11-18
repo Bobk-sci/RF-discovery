@@ -8,7 +8,7 @@ titre: Association between estimated whole-brain radiofrequency electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/33221634/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Brain
@@ -72,11 +72,18 @@ theme_indices:
 - cognition
 - cognitive
 - memory
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2021
 ---
 

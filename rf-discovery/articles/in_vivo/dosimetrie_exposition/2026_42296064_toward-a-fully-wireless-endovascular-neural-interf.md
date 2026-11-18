@@ -8,7 +8,7 @@ titre: 'Toward a fully wireless endovascular neural interface: Evaluating power 
 url: https://pubmed.ncbi.nlm.nih.gov/42296064/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Wireless Technology
@@ -43,11 +43,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: intermediaire
+bande_score: 1.0
+bande_secondaires:
+- rf
+bande_indices:
+- wireless power transfer
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/intermediaire
+- bande/rf
 - annee/2026
 ---
 

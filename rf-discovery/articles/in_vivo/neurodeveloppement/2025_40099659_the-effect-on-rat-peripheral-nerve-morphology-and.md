@@ -8,7 +8,7 @@ titre: The effect on rat peripheral nerve morphology and function of a 900-MHz e
 url: https://pubmed.ncbi.nlm.nih.gov/40099659/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Peripheral Nerves
 - Sciatic Nerve
@@ -55,11 +55,17 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

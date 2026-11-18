@@ -8,7 +8,7 @@ titre: Machine learning-optimized compact wearable frequency reconfigurable ante
 url: https://pubmed.ncbi.nlm.nih.gov/41461760/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -49,12 +49,20 @@ theme_indices:
 - specific absorption rate
 - SAR value
 - ICNIRP
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - modele/revue
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

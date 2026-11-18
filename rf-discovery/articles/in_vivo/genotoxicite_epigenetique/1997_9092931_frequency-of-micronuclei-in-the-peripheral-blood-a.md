@@ -8,7 +8,7 @@ titre: Frequency of micronuclei in the peripheral blood and bone marrow of cance
 url: https://pubmed.ncbi.nlm.nih.gov/9092931/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Bone Marrow Cells
@@ -54,6 +54,13 @@ theme_secondaires:
 theme_indices:
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +68,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1997
 ---
 

@@ -8,7 +8,7 @@ titre: Effect of acute millimeter wave exposure on dopamine metabolism of NGF-tr
 url: https://pubmed.ncbi.nlm.nih.gov/28339776/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - 3,4-Dihydroxyphenylacetic Acid
 - Animals
@@ -53,6 +53,11 @@ theme_secondaires:
 theme_indices:
 - thermal effect
 - non-thermal
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +65,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

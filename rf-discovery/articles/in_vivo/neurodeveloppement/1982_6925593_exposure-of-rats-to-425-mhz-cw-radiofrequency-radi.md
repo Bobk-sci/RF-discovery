@@ -7,7 +7,7 @@ titre: 'Exposure of rats to 425-MHz (cW) radiofrequency radiation: effects on ly
 url: https://pubmed.ncbi.nlm.nih.gov/6925593/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Cell Count
@@ -45,11 +45,19 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/neurodeveloppement
+- bande/rf
 - annee/1982
 ---
 

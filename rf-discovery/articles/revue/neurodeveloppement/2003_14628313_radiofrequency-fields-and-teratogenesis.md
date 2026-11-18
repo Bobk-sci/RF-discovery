@@ -7,7 +7,7 @@ titre: Radiofrequency fields and teratogenesis.
 url: https://pubmed.ncbi.nlm.nih.gov/14628313/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -51,6 +51,12 @@ theme_indices:
 - perinatal
 - pregnancy
 - fetal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -58,6 +64,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/2003
 ---
 

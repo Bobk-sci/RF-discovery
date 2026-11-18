@@ -8,7 +8,7 @@ titre: Evaluation of RF electromagnetic field exposure levels from cellular base
 url: https://pubmed.ncbi.nlm.nih.gov/20564176/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -41,10 +41,15 @@ theme_indices:
 - ICNIRP
 - compliance
 - base station
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2010
 ---
 

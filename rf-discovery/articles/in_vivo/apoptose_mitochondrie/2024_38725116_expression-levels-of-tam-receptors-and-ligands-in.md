@@ -8,7 +8,7 @@ titre: Expression levels of tam receptors and ligands in the testes of rats expo
 url: https://pubmed.ncbi.nlm.nih.gov/38725116/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Male
@@ -61,12 +61,19 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/rf
 - annee/2024
 ---
 

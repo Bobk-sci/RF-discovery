@@ -7,7 +7,7 @@ titre: 'Radiofrequency radiation and gene/protein expression: a review.'
 url: https://pubmed.ncbi.nlm.nih.gov/19708776/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Gene Expression Regulation
@@ -47,6 +47,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -56,6 +62,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neuro_comportement_cognition
 - theme/cancer
+- bande/rf
 - annee/2009
 ---
 

@@ -7,7 +7,7 @@ titre: Increasing Numbers of Persons with Sleeping Problems in Sweden.
 url: https://pubmed.ncbi.nlm.nih.gov/41590240/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -33,11 +33,18 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - children
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

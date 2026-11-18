@@ -9,7 +9,7 @@ titre: Modeled and Perceived Exposure to Radiofrequency Electromagnetic Fields F
 url: https://pubmed.ncbi.nlm.nih.gov/28398549/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -64,10 +64,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2017
 ---
 

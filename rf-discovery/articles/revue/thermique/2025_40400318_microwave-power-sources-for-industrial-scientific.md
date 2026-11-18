@@ -7,7 +7,7 @@ titre: Microwave power sources for industrial, scientific and medical applicatio
 url: https://pubmed.ncbi.nlm.nih.gov/40400318/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -35,10 +35,17 @@ theme_secondaires: []
 theme_indices:
 - heating
 - non-thermal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/revue
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

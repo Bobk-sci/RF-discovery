@@ -7,7 +7,7 @@ titre: The effects of radiofrequency fields on cell proliferation are non-therma
 url: https://pubmed.ncbi.nlm.nih.gov/10228585/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Algorithms
 - Amnion
@@ -43,12 +43,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1999
 ---
 

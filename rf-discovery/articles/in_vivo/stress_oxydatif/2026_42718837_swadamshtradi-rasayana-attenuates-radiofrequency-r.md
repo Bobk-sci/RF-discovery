@@ -8,7 +8,7 @@ titre: Swadamshtradi rasayana attenuates radiofrequency radiation-induced oxidat
 url: https://pubmed.ncbi.nlm.nih.gov/42718837/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -48,12 +48,18 @@ theme_indices:
 - ROS
 - lipid peroxidation
 - antioxidant
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/reproduction
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2026
 ---
 

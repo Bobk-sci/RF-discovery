@@ -8,7 +8,7 @@ titre: Pregnancy outcomes after paternal radiofrequency field exposure aboard fa
 url: https://pubmed.ncbi.nlm.nih.gov/22354128/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Female
@@ -52,12 +52,18 @@ theme_secondaires:
 theme_indices:
 - perinatal
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/reproduction
+- bande/rf
 - annee/2012
 ---
 

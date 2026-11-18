@@ -8,7 +8,7 @@ titre: Enhancement of chemically induced reactive oxygen species production and 
 url: https://pubmed.ncbi.nlm.nih.gov/19135463/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Cell Survival
@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -59,6 +65,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2009
 ---
 

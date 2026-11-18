@@ -8,7 +8,7 @@ titre: Cell type-dependent induction of DNA damage by 1800 MHz radiofrequency el
 url: https://pubmed.ncbi.nlm.nih.gov/23355902/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -60,6 +60,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -69,6 +76,7 @@ tags:
 - theme/stress_oxydatif
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

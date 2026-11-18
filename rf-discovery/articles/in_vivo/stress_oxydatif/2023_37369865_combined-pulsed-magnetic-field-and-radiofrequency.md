@@ -8,7 +8,7 @@ titre: Combined Pulsed Magnetic Field and Radiofrequency Electromagnetic Field E
 url: https://pubmed.ncbi.nlm.nih.gov/37369865/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Rats
 - Animals
@@ -55,12 +55,20 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - nitric oxide
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- magnetic field and radiofrequency (descripteur décisif)
 tags:
 - rf
 - modele/in_vivo
 - modele/revue
 - modele/in_vitro
 - theme/stress_oxydatif
+- bande/mixte
+- bande/rf
 - annee/2023
 ---
 

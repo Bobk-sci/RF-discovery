@@ -8,7 +8,7 @@ titre: The Exposure to 2.45 GHz Electromagnetic Radiation Induced Different Cell
 url: https://pubmed.ncbi.nlm.nih.gov/38137349/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,12 +47,18 @@ theme_indices:
 - superoxide dismutase
 - antioxidant
 - redox
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2023
 ---
 

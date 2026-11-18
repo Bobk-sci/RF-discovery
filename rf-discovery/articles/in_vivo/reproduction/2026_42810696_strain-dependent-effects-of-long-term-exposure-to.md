@@ -8,7 +8,7 @@ titre: Strain-Dependent Effects of Long-Term Exposure to 27.5GHz 5G Millimeter W
 url: https://pubmed.ncbi.nlm.nih.gov/42810696/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -58,6 +58,13 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +73,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

@@ -9,7 +9,7 @@ titre: Comments on the US National Toxicology Program technical reports on toxic
 url: https://pubmed.ncbi.nlm.nih.gov/30365129/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain Neoplasms
@@ -61,12 +61,20 @@ theme_indices:
 - acoustic neuroma
 - schwannoma
 - IARC
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2019
 ---
 

@@ -8,7 +8,7 @@ titre: 'The International Collaborative Animal Study of mobile phone radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/41527296/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -65,6 +65,14 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -73,6 +81,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

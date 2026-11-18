@@ -8,7 +8,7 @@ titre: Effects and mechanisms of lipidomic and development alterations in ire-1 
 url: https://pubmed.ncbi.nlm.nih.gov/42309018/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Caenorhabditis elegans
@@ -53,10 +53,18 @@ theme_indices:
 - malondialdehyde
 - superoxide dismutase
 - antioxidant
+bande: bf
+bande_score: 1003.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/bf
 - annee/2026
 ---
 

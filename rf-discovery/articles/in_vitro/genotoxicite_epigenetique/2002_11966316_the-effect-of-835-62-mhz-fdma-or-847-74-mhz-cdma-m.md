@@ -8,7 +8,7 @@ titre: The effect of 835.62 MHz FDMA or 847.74 MHz CDMA modulated radiofrequency
 url: https://pubmed.ncbi.nlm.nih.gov/11966316/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -49,11 +49,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2002
 ---
 

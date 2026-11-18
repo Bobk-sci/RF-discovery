@@ -8,7 +8,7 @@ titre: The 2100MHz radiofrequency radiation of a 3G-mobile phone and the DNA oxi
 url: https://pubmed.ncbi.nlm.nih.gov/26775761/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -55,11 +55,18 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - lipid peroxidation
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2016
 ---
 

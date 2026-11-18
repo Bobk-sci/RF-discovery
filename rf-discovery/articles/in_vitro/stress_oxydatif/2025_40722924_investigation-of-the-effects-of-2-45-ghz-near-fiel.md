@@ -7,7 +7,7 @@ titre: Investigation of the Effects of 2.45 GHz Near-Field EMF on Yeast.
 url: https://pubmed.ncbi.nlm.nih.gov/40722924/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,12 +47,19 @@ theme_indices:
 - oxidative stress
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/thermique
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Histological and inflammatory effects of 26.5 GHz quasi-millimeter wave e
 url: https://pubmed.ncbi.nlm.nih.gov/40589806/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Skin
 - Animals
@@ -55,6 +55,12 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - tumor
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -62,6 +68,7 @@ tags:
 - theme/cancer
 - theme/stress_oxydatif
 - theme/neuroinflammation
+- bande/rf
 - annee/2025
 ---
 

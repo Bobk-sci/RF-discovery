@@ -8,7 +8,7 @@ titre: Repeated Head Exposures to a 5G-3.5 GHz Signal Do Not Alter Behavior but 
 url: https://pubmed.ncbi.nlm.nih.gov/40141104/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cerebral Cortex
 - Animals
@@ -62,6 +62,13 @@ theme_indices:
 - memory
 - anxiety
 - behavior
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -70,6 +77,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2025
 ---
 

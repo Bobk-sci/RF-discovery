@@ -8,7 +8,7 @@ titre: Biophysical evaluation of radiofrequency electromagnetic field effects on
 url: https://pubmed.ncbi.nlm.nih.gov/22926544/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -51,6 +51,14 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- microwave
+- mobile phone
 tags:
 - rf
 - modele/revue
@@ -58,6 +66,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2013
 ---
 

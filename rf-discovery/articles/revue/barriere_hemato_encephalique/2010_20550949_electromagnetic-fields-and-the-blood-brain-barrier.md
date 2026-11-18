@@ -7,7 +7,7 @@ titre: Electromagnetic fields and the blood-brain barrier.
 url: https://pubmed.ncbi.nlm.nih.gov/20550949/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood-Brain Barrier
@@ -42,12 +42,20 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - BBB permeability
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
 - theme/thermique
+- bande/rf
 - annee/2010
 ---
 

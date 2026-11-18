@@ -8,7 +8,7 @@ titre: Effects of radiofrequency exposure on in vitro blood-brain barrier perme
 url: https://pubmed.ncbi.nlm.nih.gov/35134610/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,10 +40,17 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - BBB permeability
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2022
 ---
 

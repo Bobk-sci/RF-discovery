@@ -8,7 +8,7 @@ titre: Electromagnetic field induced activation of amyloid-β degrading enzyme, 
 url: https://pubmed.ncbi.nlm.nih.gov/42012352/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Neprilysin
 - Alzheimer Disease
@@ -47,11 +47,17 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - neuroinflammation
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

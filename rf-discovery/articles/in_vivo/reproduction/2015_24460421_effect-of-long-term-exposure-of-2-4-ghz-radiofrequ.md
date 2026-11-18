@@ -8,7 +8,7 @@ titre: Effect of long-term exposure of 2.4 GHz radiofrequency radiation emitte
 url: https://pubmed.ncbi.nlm.nih.gov/24460421/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Animals
@@ -54,11 +54,19 @@ theme_indices:
 - spermatozoa
 - testis
 - reproductive
+bande: rf
+bande_score: 7.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/reproduction
+- bande/rf
 - annee/2015
 ---
 

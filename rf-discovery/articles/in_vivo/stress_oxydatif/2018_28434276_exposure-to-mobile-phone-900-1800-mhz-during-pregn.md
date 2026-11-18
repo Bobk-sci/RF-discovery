@@ -10,7 +10,7 @@ titre: 'Exposure to mobile phone (900-1800 MHz) during pregnancy: tissue oxida
 url: https://pubmed.ncbi.nlm.nih.gov/28434276/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Catalase
@@ -69,11 +69,18 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - redox
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neurodeveloppement
+- bande/rf
 - annee/2018
 ---
 

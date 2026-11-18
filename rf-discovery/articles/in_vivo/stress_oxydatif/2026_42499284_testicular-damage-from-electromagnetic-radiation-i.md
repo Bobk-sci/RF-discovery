@@ -8,7 +8,7 @@ titre: Testicular damage from electromagnetic radiation in rats and evaluation o
 url: https://pubmed.ncbi.nlm.nih.gov/42499284/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -49,6 +49,13 @@ theme_indices:
 - superoxide dismutase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -56,6 +63,7 @@ tags:
 - theme/stress_oxydatif
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

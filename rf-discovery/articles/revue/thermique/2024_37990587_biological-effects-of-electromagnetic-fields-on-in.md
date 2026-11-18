@@ -8,7 +8,7 @@ titre: 'Biological effects of electromagnetic fields on insects: a systematic re
 url: https://pubmed.ncbi.nlm.nih.gov/37990587/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Animals
@@ -50,11 +50,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

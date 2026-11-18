@@ -8,7 +8,7 @@ titre: A temporal study on NF-κB-mediated autonomous inflammatory response in i
 url: https://pubmed.ncbi.nlm.nih.gov/40967018/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Myocytes, Cardiac
 - Humans
@@ -50,11 +50,17 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - inflammatory response
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Wireless interfaces for brain neurotechnologies.
 url: https://pubmed.ncbi.nlm.nih.gov/35658679/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Prostheses and Implants
@@ -39,11 +39,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: intermediaire
+bande_score: 2.0
+bande_secondaires:
+- rf
+bande_indices:
+- wireless power transfer
 tags:
 - rf
 - modele/revue
 - modele/ingenierie_materiel
 - theme/general
+- bande/intermediaire
+- bande/rf
 - annee/2022
 ---
 

@@ -8,7 +8,7 @@ titre: Residential characteristics and radiofrequency electromagnetic field expo
 url: https://pubmed.ncbi.nlm.nih.gov/21964673/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Electronics
@@ -45,11 +45,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

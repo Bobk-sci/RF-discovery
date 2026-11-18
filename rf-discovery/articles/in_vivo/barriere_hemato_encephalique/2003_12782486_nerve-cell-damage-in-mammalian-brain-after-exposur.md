@@ -8,7 +8,7 @@ titre: Nerve cell damage in mammalian brain after exposure to microwaves from GS
 url: https://pubmed.ncbi.nlm.nih.gov/12782486/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Albumins
 - Animals
@@ -51,10 +51,17 @@ theme_secondaires: []
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2003
 ---
 

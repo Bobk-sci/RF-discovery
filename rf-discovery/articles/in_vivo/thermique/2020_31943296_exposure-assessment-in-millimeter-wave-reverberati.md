@@ -7,7 +7,7 @@ titre: Exposure Assessment in Millimeter-Wave Reverberation Chamber Using Murine
 url: https://pubmed.ncbi.nlm.nih.gov/31943296/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Calibration
@@ -54,12 +54,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

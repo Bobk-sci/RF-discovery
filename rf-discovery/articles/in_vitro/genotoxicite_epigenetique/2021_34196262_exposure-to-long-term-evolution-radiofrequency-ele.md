@@ -8,7 +8,7 @@ titre: Exposure to long-term evolution radiofrequency electromagnetic fields dec
 url: https://pubmed.ncbi.nlm.nih.gov/34196262/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Proliferation
 - Cellular Senescence
@@ -57,6 +57,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -64,6 +71,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

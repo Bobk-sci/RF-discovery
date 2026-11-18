@@ -8,7 +8,7 @@ titre: 'Exposure of nerve growth factor-treated PC12 rat pheochromocytoma cells 
 url: https://pubmed.ncbi.nlm.nih.gov/9096840/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adrenal Gland Neoplasms
 - Animals
@@ -53,12 +53,19 @@ theme_secondaires:
 - thermique
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/1997
 ---
 

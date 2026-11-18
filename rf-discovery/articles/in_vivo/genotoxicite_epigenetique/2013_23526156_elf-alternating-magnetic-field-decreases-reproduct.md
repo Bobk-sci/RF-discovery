@@ -7,7 +7,7 @@ titre: ELF alternating magnetic field decreases reproduction by DNA damage induc
 url: https://pubmed.ncbi.nlm.nih.gov/23526156/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - DNA Damage
@@ -41,12 +41,20 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - DNA damage
+bande: bf
+bande_score: 1.0
+bande_secondaires:
+- rf
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/bf
+- bande/rf
 - annee/2013
 ---
 

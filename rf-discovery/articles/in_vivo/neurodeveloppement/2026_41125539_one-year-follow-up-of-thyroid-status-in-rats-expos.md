@@ -8,7 +8,7 @@ titre: One-year follow-up of thyroid status in rats exposed to 2.45 Ghz radiof
 url: https://pubmed.ncbi.nlm.nih.gov/41125539/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Thyroid Gland
 - Animals
@@ -58,6 +58,14 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +73,7 @@ tags:
 - theme/neurodeveloppement
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

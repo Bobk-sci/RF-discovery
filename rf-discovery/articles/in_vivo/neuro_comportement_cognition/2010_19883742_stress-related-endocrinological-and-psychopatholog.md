@@ -8,7 +8,7 @@ titre: Stress-related endocrinological and psychopathological effects of short- 
 url: https://pubmed.ncbi.nlm.nih.gov/19883742/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adrenocorticotropic Hormone
 - Animals
@@ -55,10 +55,17 @@ theme_indices:
 - anxiety
 - depression
 - behavior
+bande: bf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/bf
 - annee/2010
 ---
 

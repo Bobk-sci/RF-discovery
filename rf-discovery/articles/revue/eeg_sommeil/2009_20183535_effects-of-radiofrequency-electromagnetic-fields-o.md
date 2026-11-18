@@ -7,7 +7,7 @@ titre: Effects of radiofrequency electromagnetic fields on the human nervous sys
 url: https://pubmed.ncbi.nlm.nih.gov/20183535/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Age Distribution
 - Brain
@@ -54,12 +54,19 @@ theme_indices:
 - EEG
 - electroencephalogram
 - sleep
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/eeg_sommeil
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2009
 ---
 

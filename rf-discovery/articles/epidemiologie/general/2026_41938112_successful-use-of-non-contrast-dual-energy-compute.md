@@ -8,7 +8,7 @@ titre: Successful use of non-contrast dual energy computed tomography in patient
 url: https://pubmed.ncbi.nlm.nih.gov/41938112/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Thyroid Neoplasms
@@ -49,10 +49,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

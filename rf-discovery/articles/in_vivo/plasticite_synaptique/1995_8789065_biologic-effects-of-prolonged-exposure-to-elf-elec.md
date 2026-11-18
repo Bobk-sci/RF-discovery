@@ -8,7 +8,7 @@ titre: 'Biologic effects of prolonged exposure to ELF electromagnetic fields in 
 url: https://pubmed.ncbi.nlm.nih.gov/8789065/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Cell Count
@@ -52,11 +52,17 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - neurotransmitter
+bande: bf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/plasticite_synaptique
 - theme/reproduction
+- bande/bf
 - annee/1995
 ---
 

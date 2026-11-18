@@ -8,7 +8,7 @@ titre: 'Mobile Phones in the Bedroom: Trajectories of Sleep Habits and Subsequen
 url: https://pubmed.ncbi.nlm.nih.gov/28556891/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adaptation, Psychological
 - Adolescent
@@ -48,12 +48,18 @@ theme_secondaires:
 theme_indices:
 - depression
 - behavior
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2018
 ---
 

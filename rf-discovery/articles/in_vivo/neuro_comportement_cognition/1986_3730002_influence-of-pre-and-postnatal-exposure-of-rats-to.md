@@ -8,7 +8,7 @@ titre: Influence of pre- and postnatal exposure of rats to 2.45-GHz microwave ra
 url: https://pubmed.ncbi.nlm.nih.gov/3730002/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Newborn
@@ -52,11 +52,18 @@ theme_indices:
 - behavior
 - locomotor activity
 - neurobehavioral
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/1986
 ---
 

@@ -9,7 +9,7 @@ titre: 'Occurrence of micronuclei in exfoliated buccal mucosal cells in mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/33433511/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Case-Control Studies
@@ -50,11 +50,20 @@ theme_secondaires:
 - cancer
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/cancer
+- bande/rf
 - annee/2020
 ---
 

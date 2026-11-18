@@ -8,7 +8,7 @@ titre: A programmable electroculture platform for direction-dependent alternatin
 url: https://pubmed.ncbi.nlm.nih.gov/42594945/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Cell Line, Tumor
@@ -57,6 +57,11 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -65,6 +70,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

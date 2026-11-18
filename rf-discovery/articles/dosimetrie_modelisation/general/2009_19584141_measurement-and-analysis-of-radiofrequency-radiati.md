@@ -8,7 +8,7 @@ titre: Measurement and analysis of radiofrequency radiations from some mobile ph
 url: https://pubmed.ncbi.nlm.nih.gov/19584141/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Environmental Exposure
@@ -37,10 +37,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2009
 ---
 

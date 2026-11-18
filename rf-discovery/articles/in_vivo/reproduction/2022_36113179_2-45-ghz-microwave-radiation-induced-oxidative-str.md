@@ -9,7 +9,7 @@ titre: '2.45 GHz microwave radiation induced oxidative stress: Role of inflamma
 url: https://pubmed.ncbi.nlm.nih.gov/36113179/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -53,6 +53,12 @@ theme_indices:
 - testis
 - testicular
 - fertility
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +67,7 @@ tags:
 - theme/stress_oxydatif
 - theme/neuroinflammation
 - theme/thermique
+- bande/rf
 - annee/2022
 ---
 

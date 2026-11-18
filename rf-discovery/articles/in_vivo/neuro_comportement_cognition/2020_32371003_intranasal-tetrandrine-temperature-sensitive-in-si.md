@@ -8,7 +8,7 @@ titre: Intranasal tetrandrine temperature-sensitive in situ hydrogels for the tr
 url: https://pubmed.ncbi.nlm.nih.gov/32371003/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Administration, Intranasal
 - Administration, Oral
@@ -79,12 +79,18 @@ theme_indices:
 - memory
 - behavior
 - spatial memory
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/neuro_comportement_cognition
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2020
 ---
 

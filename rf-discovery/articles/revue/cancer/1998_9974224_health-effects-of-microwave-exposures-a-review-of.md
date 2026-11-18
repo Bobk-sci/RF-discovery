@@ -9,7 +9,7 @@ titre: 'Health effects of microwave exposures: a review of the recent (1995-1998
 url: https://pubmed.ncbi.nlm.nih.gov/9974224/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Phenomena
 - Humans
@@ -39,12 +39,19 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - leukemia
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
 - theme/reproduction
+- bande/rf
 - annee/1998
 ---
 

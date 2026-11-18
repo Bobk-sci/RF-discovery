@@ -7,7 +7,7 @@ titre: Are thyroid dysfunctions related to stress or microwave exposure (900 MHz
 url: https://pubmed.ncbi.nlm.nih.gov/15345189/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -43,10 +43,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - melatonin
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2004
 ---
 

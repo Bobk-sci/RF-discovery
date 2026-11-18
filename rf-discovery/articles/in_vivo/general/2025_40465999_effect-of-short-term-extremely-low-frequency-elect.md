@@ -8,7 +8,7 @@ titre: Effect of short-term extremely low-frequency electromagnetic field on res
 url: https://pubmed.ncbi.nlm.nih.gov/40465999/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -50,10 +50,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1001.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/bf
 - annee/2025
 ---
 

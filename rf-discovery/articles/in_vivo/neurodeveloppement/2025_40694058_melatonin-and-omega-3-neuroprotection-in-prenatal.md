@@ -8,7 +8,7 @@ titre: Melatonin and omega-3 neuroprotection in prenatal rat spinal cord exposed
 url: https://pubmed.ncbi.nlm.nih.gov/40694058/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Spinal Cord
 - Animals
@@ -52,11 +52,17 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2025
 ---
 

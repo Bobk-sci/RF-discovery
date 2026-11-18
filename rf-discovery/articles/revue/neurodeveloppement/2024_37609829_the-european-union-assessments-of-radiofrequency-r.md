@@ -8,7 +8,7 @@ titre: The European Union assessments of radiofrequency radiation health risks 
 url: https://pubmed.ncbi.nlm.nih.gov/37609829/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - European Union
 - Humans
@@ -44,10 +44,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - children
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
+- bande/rf
 - annee/2024
 ---
 

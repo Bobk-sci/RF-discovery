@@ -8,7 +8,7 @@ titre: 'Novel 4-((Benzimidazol-2-yl)methyl)-resorcinol Derivatives as Potential 
 url: https://pubmed.ncbi.nlm.nih.gov/41952371/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - HSP90 Heat-Shock Proteins
 - Resorcinols
@@ -49,11 +49,17 @@ theme_secondaires:
 - thermique
 theme_indices:
 - reaction time
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

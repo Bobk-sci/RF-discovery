@@ -9,7 +9,7 @@ titre: Pre and postnatal exposure to 900 MHz electromagnetic fields induce infl
 url: https://pubmed.ncbi.nlm.nih.gov/36997060/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Pregnancy
 - Rats
@@ -59,11 +59,18 @@ theme_indices:
 - oxidative stress
 - ROS
 - antioxidant
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neurodeveloppement
+- bande/rf
 - annee/2023
 ---
 

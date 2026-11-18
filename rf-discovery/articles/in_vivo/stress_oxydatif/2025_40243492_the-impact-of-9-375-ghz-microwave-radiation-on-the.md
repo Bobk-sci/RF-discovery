@@ -8,7 +8,7 @@ titre: The Impact of 9.375 GHz Microwave Radiation on the Emotional and Cognitiv
 url: https://pubmed.ncbi.nlm.nih.gov/40243492/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Animals
@@ -72,12 +72,19 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

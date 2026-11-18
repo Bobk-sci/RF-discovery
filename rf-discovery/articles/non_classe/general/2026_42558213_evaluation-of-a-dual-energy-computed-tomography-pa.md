@@ -8,7 +8,7 @@ titre: Evaluation of a dual-energy computed tomography parameter -radiomics comb
 url: https://pubmed.ncbi.nlm.nih.gov/42558213/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -39,10 +39,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

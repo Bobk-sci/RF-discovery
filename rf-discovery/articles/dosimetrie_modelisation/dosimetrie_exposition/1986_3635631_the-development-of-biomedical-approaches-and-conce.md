@@ -9,7 +9,7 @@ titre: The development of biomedical approaches and concepts in radiofrequency r
 url: https://pubmed.ncbi.nlm.nih.gov/3635631/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Child
@@ -52,6 +52,13 @@ theme_indices:
 - specific absorption rate
 - power density
 - compliance
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -59,6 +66,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/neurodeveloppement
 - theme/thermique
+- bande/rf
 - annee/1986
 ---
 

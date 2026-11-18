@@ -8,7 +8,7 @@ titre: Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 30
 url: https://pubmed.ncbi.nlm.nih.gov/32167495/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Guidelines as Topic
@@ -36,10 +36,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

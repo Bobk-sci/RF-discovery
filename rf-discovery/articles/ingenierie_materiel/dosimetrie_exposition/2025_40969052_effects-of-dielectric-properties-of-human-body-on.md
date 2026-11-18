@@ -8,7 +8,7 @@ titre: Effects of Dielectric Properties of Human Body on Communication Link Marg
 url: https://pubmed.ncbi.nlm.nih.gov/40969052/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Prostheses and Implants
@@ -50,11 +50,19 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - SAR value
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

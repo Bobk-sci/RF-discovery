@@ -8,7 +8,7 @@ titre: Comparison of Microwave Hyperthermia Applicator Designs with Fora Dipole 
 url: https://pubmed.ncbi.nlm.nih.gov/37514884/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -46,12 +46,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - hyperthermia
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

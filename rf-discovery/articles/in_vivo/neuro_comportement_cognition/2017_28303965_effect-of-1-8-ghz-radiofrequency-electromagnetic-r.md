@@ -8,7 +8,7 @@ titre: Effect of 1.8 GHz radiofrequency electromagnetic radiation on novel obj
 url: https://pubmed.ncbi.nlm.nih.gov/28303965/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Action Potentials
 - Animals
@@ -57,6 +57,13 @@ theme_indices:
 - memory
 - learning and memory
 - locomotor activity
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -65,6 +72,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/dosimetrie_exposition
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2017
 ---
 

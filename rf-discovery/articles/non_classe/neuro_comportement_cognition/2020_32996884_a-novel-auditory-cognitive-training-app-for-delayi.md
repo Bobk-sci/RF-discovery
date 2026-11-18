@@ -8,7 +8,7 @@ titre: 'A Novel Auditory-Cognitive Training App for Delaying or Preventing the O
 url: https://pubmed.ncbi.nlm.nih.gov/32996884/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -34,10 +34,16 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2020
 ---
 

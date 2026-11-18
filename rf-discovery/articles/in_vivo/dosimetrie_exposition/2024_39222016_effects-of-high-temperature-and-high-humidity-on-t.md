@@ -8,7 +8,7 @@ titre: Effects of High Temperature and High Humidity on the Degree of Ocular Dam
 url: https://pubmed.ncbi.nlm.nih.gov/39222016/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Eye
 - Cornea
@@ -51,11 +51,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

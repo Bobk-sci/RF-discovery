@@ -8,7 +8,7 @@ titre: 'Prediction of efficacy and prognosis of PD‑1/PD‑L1 inhibitor combina
 url: https://pubmed.ncbi.nlm.nih.gov/42372561/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Adenocarcinoma
@@ -60,10 +60,15 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - cell death
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

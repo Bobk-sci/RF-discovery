@@ -8,7 +8,7 @@ titre: Microwave-induced modulation of intracellular distribution of peptides ba
 url: https://pubmed.ncbi.nlm.nih.gov/42277135/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hela Cells
 - Mitochondria
@@ -56,11 +56,18 @@ theme_indices:
 - cell viability
 - mitochondrial
 - mitochondria
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

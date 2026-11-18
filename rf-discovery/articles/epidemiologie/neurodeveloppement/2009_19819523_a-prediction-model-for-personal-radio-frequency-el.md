@@ -7,7 +7,7 @@ titre: A prediction model for personal radio frequency electromagnetic field exp
 url: https://pubmed.ncbi.nlm.nih.gov/19819523/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -61,11 +61,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - adolescent
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/neurodeveloppement
+- bande/rf
 - annee/2009
 ---
 

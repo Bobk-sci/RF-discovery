@@ -8,7 +8,7 @@ titre: Spatial variability of outdoor exposure to radiofrequency radiation from 
 url: https://pubmed.ncbi.nlm.nih.gov/34622411/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Communication
@@ -47,10 +47,17 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

@@ -9,7 +9,7 @@ titre: 'Bisphenol A exposure modulates ovarian cancer gene expression and oxidat
 url: https://pubmed.ncbi.nlm.nih.gov/41109595/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Female
@@ -67,6 +67,11 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - superoxide dismutase
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/epidemiologie
@@ -74,6 +79,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

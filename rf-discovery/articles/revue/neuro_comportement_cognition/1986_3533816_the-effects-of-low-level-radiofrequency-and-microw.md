@@ -9,7 +9,7 @@ titre: The effects of low-level radiofrequency and microwave radiation on brain 
 url: https://pubmed.ncbi.nlm.nih.gov/3533816/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Behavior, Animal
@@ -46,6 +46,12 @@ theme_secondaires:
 theme_indices:
 - behavior
 - behaviour
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/revue
@@ -53,6 +59,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/barriere_hemato_encephalique
 - theme/thermique
+- bande/rf
 - annee/1986
 ---
 

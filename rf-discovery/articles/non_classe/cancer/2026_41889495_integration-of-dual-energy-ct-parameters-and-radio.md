@@ -8,7 +8,7 @@ titre: Integration of dual-energy CT parameters and radiomics features for non-i
 url: https://pubmed.ncbi.nlm.nih.gov/41889495/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,10 +44,15 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

@@ -50,7 +50,16 @@ réorganise le corpus existant sans rien re-télécharger.
   marque d'étude d'exposition — sinon on perdrait les études de provocation qui mesurent
   par IRM.
 
-Les deux axes actuels : **modèle d'étude** (in vivo, in vitro, épidémiologie, humain
+L'axe **bande** (`bf` / `intermediaire` / `rf` / `mixte`) ne crée pas de dossier
+(`chemin: false`) : il marque l'en-tête et les étiquettes Obsidian. Il existe parce que sous
+~100 kHz le champ agit par **induction** — il peut dépolariser une membrane, et la grandeur
+limitée est le champ induit en V/m — alors qu'au-dessus la membrane est court-circuitée et
+le mécanisme dominant devient l'**absorption**, donc le SAR en W/kg. Les deux dosimétries ne
+se convertissent pas : sur 2 470 fiches, 67 sont en basses fréquences, 7 en fréquence
+intermédiaire et 8 couvrent les deux bandes. Les agréger dans une même synthèse mélangerait
+deux physiques sans que cela se voie à la lecture.
+
+Les deux axes de rangement : **modèle d'étude** (in vivo, in vitro, épidémiologie, humain
 expérimental, dosimétrie, ingénierie matériel, revue) × **thème** (neurodéveloppement,
 cognition, EEG/sommeil, stress oxydatif, neuroinflammation, barrière hémato-encéphalique,
 génotoxicité, apoptose, calcium, cancer, reproduction, thermique, dosimétrie).

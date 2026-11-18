@@ -9,7 +9,7 @@ titre: The HL-60 human promyelocytic cell line constitutes an effective in vitro
 url: https://pubmed.ncbi.nlm.nih.gov/36632900/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - HL-60 Cells
 - Humans
@@ -59,6 +59,13 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - cell death
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -67,6 +74,7 @@ tags:
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2023
 ---
 

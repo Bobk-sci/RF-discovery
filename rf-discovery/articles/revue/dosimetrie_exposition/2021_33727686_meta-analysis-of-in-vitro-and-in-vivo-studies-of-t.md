@@ -8,7 +8,7 @@ titre: Meta-analysis of in vitro and in vivo studies of the biological effects o
 url: https://pubmed.ncbi.nlm.nih.gov/33727686/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radio Waves
@@ -44,6 +44,13 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/revue
@@ -51,6 +58,7 @@ tags:
 - modele/dosimetrie_modelisation
 - modele/in_vitro
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

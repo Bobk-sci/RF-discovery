@@ -8,7 +8,7 @@ titre: 'Mobile phone usage duration and male fertility: A two-sample Mendelian r
 url: https://pubmed.ncbi.nlm.nih.gov/40988160/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Infertility, Male
@@ -48,10 +48,16 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

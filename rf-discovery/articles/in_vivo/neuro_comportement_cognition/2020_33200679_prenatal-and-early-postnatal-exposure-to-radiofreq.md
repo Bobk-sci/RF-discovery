@@ -8,7 +8,7 @@ titre: Prenatal and early postnatal exposure to radiofrequency waves (900 MHz) a
 url: https://pubmed.ncbi.nlm.nih.gov/33200679/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Newborn
@@ -55,11 +55,18 @@ theme_indices:
 - memory
 - learning and memory
 - avoidance learning
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2020
 ---
 

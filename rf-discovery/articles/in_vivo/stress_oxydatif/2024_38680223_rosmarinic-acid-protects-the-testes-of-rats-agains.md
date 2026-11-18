@@ -8,7 +8,7 @@ titre: Rosmarinic Acid Protects the Testes of Rats against Cell Phone and Ultra-
 url: https://pubmed.ncbi.nlm.nih.gov/38680223/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -57,11 +57,17 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/reproduction
+- bande/rf
 - annee/2024
 ---
 

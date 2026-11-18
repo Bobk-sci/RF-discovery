@@ -8,7 +8,7 @@ titre: Chronic exposure to 2.45 GHz microwave radiation improves cognition and
 url: https://pubmed.ncbi.nlm.nih.gov/33635159/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Animals
@@ -61,6 +61,14 @@ theme_indices:
 - LTP
 - neurotransmitter
 - GABA
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +76,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

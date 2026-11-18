@@ -8,7 +8,7 @@ titre: Magnetic field-induced ER stress reprograms the tumor microenvironment to
 url: https://doi.org/10.64898/2026.03.22.713285
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -35,12 +35,17 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/cancer
 - theme/neuroinflammation
+- bande/rf
 - annee/2026
 ---
 

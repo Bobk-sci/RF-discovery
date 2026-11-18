@@ -8,7 +8,7 @@ titre: 'My Baby''s Movements: An assessment of the effectiveness of the My Baby'
 url: https://pubmed.ncbi.nlm.nih.gov/36717966/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Infant
 - Pregnancy
@@ -62,10 +62,16 @@ theme_indices:
 - pregnancy
 - fetal
 - neonatal
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2023
 ---
 

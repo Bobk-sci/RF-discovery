@@ -9,7 +9,7 @@ titre: 'Biological Effects of High-Frequency Electromagnetic Fields on CNS Funct
 url: https://pubmed.ncbi.nlm.nih.gov/42418111/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Animals
@@ -58,6 +58,15 @@ theme_indices:
 - neuroinflammation
 - microglia
 - cytokine
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/revue
@@ -68,6 +77,7 @@ tags:
 - theme/calcium_canaux_ioniques
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

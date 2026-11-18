@@ -8,7 +8,7 @@ titre: 'In Vivo Studies on Radiofrequency (100 kHz-300 GHz) Electromagnetic Fiel
 url: https://pubmed.ncbi.nlm.nih.gov/36767440/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Animals
@@ -57,11 +57,18 @@ theme_secondaires: []
 theme_indices:
 - carcinogenesis
 - tumor
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/cancer
+- bande/rf
 - annee/2023
 ---
 

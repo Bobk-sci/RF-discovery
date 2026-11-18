@@ -8,7 +8,7 @@ titre: 'Enhancement of Apoptosis by Titanium Alloy Internal Fixations during Mic
 url: https://pubmed.ncbi.nlm.nih.gov/26132082/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alloys
 - Animals
@@ -65,6 +65,12 @@ theme_indices:
 - Bcl-2
 - mitochondrial
 - mitochondria
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -72,6 +78,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/2015
 ---
 

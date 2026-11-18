@@ -8,7 +8,7 @@ titre: Effect of electromagnetic radiofrequency radiation on the rats' brain, li
 url: https://pubmed.ncbi.nlm.nih.gov/22397269/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Temperature
@@ -54,6 +54,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -62,6 +70,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

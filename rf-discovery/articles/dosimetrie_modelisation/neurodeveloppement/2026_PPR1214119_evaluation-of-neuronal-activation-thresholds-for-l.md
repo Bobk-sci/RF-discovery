@@ -8,7 +8,7 @@ titre: Evaluation of Neuronal Activation Thresholds for Low-Frequency Electromag
 url: https://doi.org/10.64898/2026.04.17.719188
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Preprint
@@ -43,11 +43,16 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - child
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

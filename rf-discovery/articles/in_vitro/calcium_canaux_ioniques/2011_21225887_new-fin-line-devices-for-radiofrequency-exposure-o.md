@@ -8,7 +8,7 @@ titre: New fin-line devices for radiofrequency exposure of small biological samp
 url: https://pubmed.ncbi.nlm.nih.gov/21225887/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption
 - Environmental Exposure
@@ -43,12 +43,21 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - patch clamp
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/calcium_canaux_ioniques
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

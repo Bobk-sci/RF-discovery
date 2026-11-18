@@ -8,7 +8,7 @@ titre: 'Radiofrequency Electromagnetic Field Exposure and Apoptosis: A Scoping R
 url: https://pubmed.ncbi.nlm.nih.gov/35216437/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Mammals
@@ -54,6 +54,12 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -61,6 +67,7 @@ tags:
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2022
 ---
 

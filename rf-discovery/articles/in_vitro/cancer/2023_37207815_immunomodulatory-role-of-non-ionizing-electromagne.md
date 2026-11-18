@@ -8,7 +8,7 @@ titre: Immunomodulatory role of non-ionizing electromagnetic radiation in human 
 url: https://pubmed.ncbi.nlm.nih.gov/37207815/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Monocytes
@@ -52,6 +52,13 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - leukemia
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +67,7 @@ tags:
 - theme/stress_oxydatif
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2023
 ---
 

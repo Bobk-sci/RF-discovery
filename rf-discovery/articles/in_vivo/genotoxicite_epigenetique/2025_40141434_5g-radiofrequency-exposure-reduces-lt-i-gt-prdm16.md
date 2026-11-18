@@ -8,7 +8,7 @@ titre: 5G Radiofrequency Exposure Reduces &lt;i&gt;PRDM16&lt;/i&gt; and &lt;i&gt
 url: https://pubmed.ncbi.nlm.nih.gov/40141434/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -63,6 +63,15 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 8.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/in_vivo
@@ -70,6 +79,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

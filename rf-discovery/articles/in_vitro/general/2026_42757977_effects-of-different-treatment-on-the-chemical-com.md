@@ -8,7 +8,7 @@ titre: Effects of Different Treatment on the Chemical Composition, Ruminal Degra
 url: https://pubmed.ncbi.nlm.nih.gov/42757977/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rumen
@@ -53,11 +53,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

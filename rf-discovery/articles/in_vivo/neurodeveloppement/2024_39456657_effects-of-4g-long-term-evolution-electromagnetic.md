@@ -8,7 +8,7 @@ titre: Effects of 4G Long-Term Evolution Electromagnetic Fields on Thyroid Hormo
 url: https://pubmed.ncbi.nlm.nih.gov/39456657/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Pituitary Gland
 - Thyroid Gland
@@ -63,6 +63,13 @@ theme_indices:
 - brain development
 - children
 - adolescent
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -71,6 +78,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

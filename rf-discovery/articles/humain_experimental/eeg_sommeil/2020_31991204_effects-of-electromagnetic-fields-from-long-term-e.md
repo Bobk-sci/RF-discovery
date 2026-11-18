@@ -8,7 +8,7 @@ titre: Effects of electromagnetic fields from long-term evolution on awake elect
 url: https://pubmed.ncbi.nlm.nih.gov/31991204/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -51,6 +51,12 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
@@ -58,6 +64,7 @@ tags:
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

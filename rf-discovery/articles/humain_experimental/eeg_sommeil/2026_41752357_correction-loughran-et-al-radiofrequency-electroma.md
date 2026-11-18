@@ -9,7 +9,7 @@ titre: 'Correction: Loughran et al. Radiofrequency Electromagnetic Field Exposur
 url: https://pubmed.ncbi.nlm.nih.gov/41752357/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Published Erratum
@@ -38,10 +38,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - EEG
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/humain_experimental
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

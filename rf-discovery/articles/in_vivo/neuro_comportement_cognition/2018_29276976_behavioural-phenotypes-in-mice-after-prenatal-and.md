@@ -8,7 +8,7 @@ titre: Behavioural phenotypes in mice after prenatal and early postnatal exposur
 url: https://pubmed.ncbi.nlm.nih.gov/29276976/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Behavior, Animal
@@ -68,12 +68,21 @@ theme_indices:
 - spatial learning
 - anxiety
 - behavior
+bande: intermediaire
+bande_score: 1004.0
+bande_secondaires: []
+bande_indices:
+- intermediate frequency (descripteur décisif)
+- electronic article surveillance
+- induction heating
+- wireless power transfer
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/thermique
+- bande/intermediaire
 - annee/2018
 ---
 

@@ -7,7 +7,7 @@ titre: Electromagnetic field and brain development.
 url: https://pubmed.ncbi.nlm.nih.gov/26686296/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -52,12 +52,19 @@ theme_indices:
 - brain development
 - neurogenesis
 - prenatal
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/reproduction
+- bande/rf
 - annee/2016
 ---
 

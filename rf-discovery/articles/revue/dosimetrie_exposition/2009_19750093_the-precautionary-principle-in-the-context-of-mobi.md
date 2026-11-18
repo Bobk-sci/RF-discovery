@@ -8,7 +8,7 @@ titre: The precautionary principle in the context of mobile phone and base stati
 url: https://pubmed.ncbi.nlm.nih.gov/19750093/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Australia
 - Cell Phone
@@ -41,10 +41,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2009
 ---
 

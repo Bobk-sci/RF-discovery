@@ -8,7 +8,7 @@ titre: Effects of radiofrequency radiation emitted by cellular telephones on the
 url: https://pubmed.ncbi.nlm.nih.gov/16304688/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Brain
@@ -48,11 +48,18 @@ theme_indices:
 - cognition
 - cognitive
 - reaction time
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2006
 ---
 

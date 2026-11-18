@@ -7,7 +7,7 @@ titre: Urban radio-frequency electromagnetic field exposure in New York City.
 url: https://pubmed.ncbi.nlm.nih.gov/42309420/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Environmental Exposure
@@ -41,10 +41,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - electric field strength
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

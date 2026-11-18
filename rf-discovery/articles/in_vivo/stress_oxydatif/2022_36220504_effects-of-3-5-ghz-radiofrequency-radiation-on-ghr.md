@@ -8,7 +8,7 @@ titre: Effects of 3.5 GHz radiofrequency radiation on ghrelin, nesfatin-1, and 
 url: https://pubmed.ncbi.nlm.nih.gov/36220504/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Rats
@@ -57,12 +57,21 @@ theme_secondaires:
 theme_indices:
 - antioxidant
 - redox
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

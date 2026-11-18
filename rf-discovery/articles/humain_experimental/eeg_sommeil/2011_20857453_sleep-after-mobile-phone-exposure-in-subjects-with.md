@@ -7,7 +7,7 @@ titre: Sleep after mobile phone exposure in subjects with mobile phone-related s
 url: https://pubmed.ncbi.nlm.nih.gov/20857453/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -54,6 +54,13 @@ theme_indices:
 - EEG
 - sleep
 - slow wave
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
@@ -61,6 +68,7 @@ tags:
 - theme/eeg_sommeil
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2011
 ---
 

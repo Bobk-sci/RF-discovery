@@ -8,7 +8,7 @@ titre: Wideband Circularly Polarized Conformal Antenna with Physics-Informed Neu
 url: https://pubmed.ncbi.nlm.nih.gov/42351865/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,12 +45,19 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

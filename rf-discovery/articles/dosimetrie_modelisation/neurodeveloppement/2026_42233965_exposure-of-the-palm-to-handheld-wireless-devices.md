@@ -8,7 +8,7 @@ titre: Exposure of the palm to handheld wireless devices operating at frequencie
 url: https://pubmed.ncbi.nlm.nih.gov/42233965/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hand
 - Humans
@@ -44,11 +44,18 @@ theme_secondaires:
 theme_indices:
 - child
 - children
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

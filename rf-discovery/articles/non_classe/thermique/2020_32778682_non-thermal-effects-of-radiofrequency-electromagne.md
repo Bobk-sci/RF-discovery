@@ -7,7 +7,7 @@ titre: Non-thermal effects of radiofrequency electromagnetic fields.
 url: https://pubmed.ncbi.nlm.nih.gov/32778682/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,10 +37,17 @@ theme_indices:
 - hyperthermia
 - heating
 - non-thermal
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2020
 ---
 

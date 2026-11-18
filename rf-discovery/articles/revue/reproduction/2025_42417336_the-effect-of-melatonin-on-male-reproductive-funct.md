@@ -7,7 +7,7 @@ titre: '[The effect of melatonin on male reproductive function (indicators of ej
 url: https://pubmed.ncbi.nlm.nih.gov/42417336/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Melatonin
 - Humans
@@ -50,6 +50,11 @@ theme_indices:
 - sperm
 - spermatozoa
 - reproductive
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
@@ -57,6 +62,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/eeg_sommeil
+- bande/rf
 - annee/2025
 ---
 

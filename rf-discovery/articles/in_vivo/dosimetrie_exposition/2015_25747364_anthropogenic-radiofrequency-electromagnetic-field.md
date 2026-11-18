@@ -8,7 +8,7 @@ titre: Anthropogenic radiofrequency electromagnetic fields as an emerging threat
 url: https://pubmed.ncbi.nlm.nih.gov/25747364/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -40,10 +40,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

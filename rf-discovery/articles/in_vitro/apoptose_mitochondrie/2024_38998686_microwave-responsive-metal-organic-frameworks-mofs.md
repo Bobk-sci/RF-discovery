@@ -8,7 +8,7 @@ titre: Microwave-Responsive Metal-Organic Frameworks (MOFs) for Enhanced In Vitr
 url: https://pubmed.ncbi.nlm.nih.gov/38998686/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,11 +47,17 @@ theme_secondaires:
 - cancer
 theme_indices:
 - cell viability
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/rf
 - annee/2024
 ---
 

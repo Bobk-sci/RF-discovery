@@ -7,7 +7,7 @@ titre: Cytogenetic and Carcinogenic Effects of Exposure to Radiofrequency Radiat
 url: ''
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - chapter-article
@@ -41,6 +41,14 @@ theme_indices:
 - carcinogenic
 - carcinogenesis
 - cancer risk
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -49,6 +57,7 @@ tags:
 - modele/epidemiologie
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2007
 ---
 

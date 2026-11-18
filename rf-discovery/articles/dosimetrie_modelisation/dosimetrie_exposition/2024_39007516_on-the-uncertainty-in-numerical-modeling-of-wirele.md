@@ -8,7 +8,7 @@ titre: On the uncertainty in numerical modeling of wireless communication device
 url: https://pubmed.ncbi.nlm.nih.gov/39007516/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Uncertainty
@@ -41,10 +41,18 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

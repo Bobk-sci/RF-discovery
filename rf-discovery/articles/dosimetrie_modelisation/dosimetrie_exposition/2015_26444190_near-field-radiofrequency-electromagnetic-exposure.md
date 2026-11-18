@@ -7,7 +7,7 @@ titre: Near-field radiofrequency electromagnetic exposure assessment.
 url: https://pubmed.ncbi.nlm.nih.gov/26444190/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Absorption, Radiation
 - Electromagnetic Fields
@@ -44,10 +44,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

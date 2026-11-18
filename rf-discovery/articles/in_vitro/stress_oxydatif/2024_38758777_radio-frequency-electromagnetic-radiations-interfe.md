@@ -8,7 +8,7 @@ titre: Radio frequency electromagnetic radiations interfere with the Leydig cell
 url: https://pubmed.ncbi.nlm.nih.gov/38758777/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Leydig Cells
 - Cell Line
@@ -53,6 +53,14 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +68,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2024
 ---
 

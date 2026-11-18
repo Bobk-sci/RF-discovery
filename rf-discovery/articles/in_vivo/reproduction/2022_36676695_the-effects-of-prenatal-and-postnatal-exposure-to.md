@@ -8,7 +8,7 @@ titre: The Effects of Prenatal and Postnatal Exposure to 50-Hz and 3 mT Electrom
 url: https://pubmed.ncbi.nlm.nih.gov/36676695/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Animals
@@ -63,6 +63,11 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: bf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vivo
@@ -70,6 +75,7 @@ tags:
 - theme/neurodeveloppement
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/bf
 - annee/2022
 ---
 

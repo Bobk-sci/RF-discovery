@@ -8,7 +8,7 @@ titre: Comparison of chromosome aberrations in peripheral blood lymphocytes from
 url: https://pubmed.ncbi.nlm.nih.gov/11332198/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -49,10 +49,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - chromosomal aberration
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2001
 ---
 

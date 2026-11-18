@@ -8,7 +8,7 @@ titre: Occupational exposures to radiofrequency radiation (18-31 MHz) from F die
 url: https://pubmed.ncbi.nlm.nih.gov/7064810/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Environmental Exposure
 - Government Agencies
@@ -36,10 +36,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/reproduction
+- bande/rf
 - annee/1982
 ---
 

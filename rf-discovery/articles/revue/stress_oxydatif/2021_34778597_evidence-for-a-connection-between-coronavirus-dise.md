@@ -8,7 +8,7 @@ titre: Evidence for a connection between coronavirus disease-19 and exposure to 
 url: https://pubmed.ncbi.nlm.nih.gov/34778597/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -49,11 +49,20 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 9.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- microwave
+- 5G
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2021
 ---
 

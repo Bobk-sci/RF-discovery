@@ -9,7 +9,7 @@ titre: 'Exposure to radiofrequency radiation (900 MHz, GSM signal) does not affe
 url: https://pubmed.ncbi.nlm.nih.gov/16802865/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -58,11 +58,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - micronucleus
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2006
 ---
 

@@ -8,7 +8,7 @@ titre: 'An International Collaborative Animal Study of the Carcinogenicity of Mo
 url: https://pubmed.ncbi.nlm.nih.gov/35476263/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -56,10 +56,17 @@ theme_secondaires: []
 theme_indices:
 - carcinogenic
 - carcinogenesis
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/cancer
+- bande/rf
 - annee/2022
 ---
 

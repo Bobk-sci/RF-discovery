@@ -8,7 +8,7 @@ titre: Alterations of visual reaction time and short term memory in military rad
 url: https://pubmed.ncbi.nlm.nih.gov/23785684/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -36,10 +36,17 @@ theme_secondaires: []
 theme_indices:
 - memory
 - reaction time
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2013
 ---
 

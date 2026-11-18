@@ -8,7 +8,7 @@ titre: 'Prenatal exposure to radiofrequencies: effects of WiFi signals on thymoc
 url: https://pubmed.ncbi.nlm.nih.gov/22556007/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Differentiation
@@ -63,6 +63,12 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -71,6 +77,7 @@ tags:
 - theme/neurodeveloppement
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

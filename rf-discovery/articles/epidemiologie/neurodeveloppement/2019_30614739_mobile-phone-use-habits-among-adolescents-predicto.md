@@ -7,7 +7,7 @@ titre: 'Mobile Phone-Use Habits Among Adolescents: Predictors of Intensive Use.'
 url: https://pubmed.ncbi.nlm.nih.gov/30614739/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adolescent Behavior
@@ -52,12 +52,19 @@ theme_secondaires:
 theme_indices:
 - children
 - adolescent
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2019
 ---
 

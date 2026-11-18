@@ -8,7 +8,7 @@ titre: Comment on Wardzinski et al. Mobile Phone Radiation Deflects Brain Energy
 url: https://pubmed.ncbi.nlm.nih.gov/35889905/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Humans
@@ -37,10 +37,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - theme/general
+- bande/rf
 - annee/2022
 ---
 

@@ -8,7 +8,7 @@ titre: 'Synergistic mitigation of endotoxin-induced liver injury by low-frequenc
 url: https://pubmed.ncbi.nlm.nih.gov/41729317/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Liver
 - Animals
@@ -62,11 +62,18 @@ theme_secondaires:
 theme_indices:
 - oxidative stress
 - Nrf2
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

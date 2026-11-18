@@ -8,7 +8,7 @@ titre: 'Reducing RF-Induced Heating of DBS in 3 T MRI Using Dual-Role Receive Ar
 url: https://pubmed.ncbi.nlm.nih.gov/42582817/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -42,12 +42,19 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heating
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

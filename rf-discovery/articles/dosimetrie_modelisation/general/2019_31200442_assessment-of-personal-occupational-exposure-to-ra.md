@@ -8,7 +8,7 @@ titre: Assessment of Personal Occupational Exposure to Radiofrequency Electromag
 url: https://pubmed.ncbi.nlm.nih.gov/31200442/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Biological Monitoring
 - Calibration
@@ -52,10 +52,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2019
 ---
 

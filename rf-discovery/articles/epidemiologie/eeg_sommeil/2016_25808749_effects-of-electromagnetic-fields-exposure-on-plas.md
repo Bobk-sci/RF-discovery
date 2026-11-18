@@ -8,7 +8,7 @@ titre: Effects of electromagnetic fields exposure on plasma hormonal and inflamm
 url: https://pubmed.ncbi.nlm.nih.gov/25808749/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Biomarkers
@@ -78,12 +78,18 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - melatonin
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/genotoxicite_epigenetique
 - theme/reproduction
+- bande/rf
 - annee/2016
 ---
 

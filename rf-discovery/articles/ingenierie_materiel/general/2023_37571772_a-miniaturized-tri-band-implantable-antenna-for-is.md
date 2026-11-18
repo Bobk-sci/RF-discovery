@@ -7,7 +7,7 @@ titre: A Miniaturized Tri-Band Implantable Antenna for ISM/WMTS/Lower UWB/Wi-Fi 
 url: https://pubmed.ncbi.nlm.nih.gov/37571772/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,11 +42,19 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2023
 ---
 

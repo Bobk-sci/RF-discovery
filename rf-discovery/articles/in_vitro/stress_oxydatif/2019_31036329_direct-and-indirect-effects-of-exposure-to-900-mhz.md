@@ -8,7 +8,7 @@ titre: 'Direct and indirect effects of exposure to 900 MHz GSM radiofrequency 
 url: https://pubmed.ncbi.nlm.nih.gov/31036329/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Bystander Effect
@@ -57,6 +57,12 @@ theme_indices:
 - reactive oxygen species
 - ROS
 - redox
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -65,6 +71,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/reproduction
+- bande/rf
 - annee/2019
 ---
 

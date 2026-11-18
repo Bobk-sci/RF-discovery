@@ -7,7 +7,7 @@ titre: Analysis of the metabolic profile of humans naturally exposed to RF-EM ra
 url: https://pubmed.ncbi.nlm.nih.gov/38762651/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Electromagnetic Fields
@@ -46,10 +46,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/stress_oxydatif
+- bande/rf
 - annee/2024
 ---
 

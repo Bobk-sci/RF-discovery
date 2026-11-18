@@ -8,7 +8,7 @@ titre: 'Exposure to extremely-low-frequency electromagnetic fields and radiofreq
 url: https://pubmed.ncbi.nlm.nih.gov/9258703/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood Pressure
@@ -43,12 +43,20 @@ theme_secondaires:
 - thermique
 theme_indices:
 - anxiety
+bande: bf
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/thermique
+- bande/bf
+- bande/rf
 - annee/1997
 ---
 

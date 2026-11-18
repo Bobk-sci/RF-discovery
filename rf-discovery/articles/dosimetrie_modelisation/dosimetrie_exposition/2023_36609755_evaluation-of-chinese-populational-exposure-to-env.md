@@ -8,7 +8,7 @@ titre: Evaluation of Chinese populational exposure to environmental electromagne
 url: https://pubmed.ncbi.nlm.nih.gov/36609755/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Radiometry
@@ -52,11 +52,18 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

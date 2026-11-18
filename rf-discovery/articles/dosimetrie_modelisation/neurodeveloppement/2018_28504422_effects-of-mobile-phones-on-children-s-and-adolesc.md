@@ -7,7 +7,7 @@ titre: 'Effects of Mobile Phones on Children''s and Adolescents'' Health: A Comm
 url: https://pubmed.ncbi.nlm.nih.gov/28504422/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Cell Phone
@@ -43,6 +43,12 @@ theme_indices:
 - child
 - children
 - adolescent
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
@@ -50,6 +56,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/eeg_sommeil
 - theme/cancer
+- bande/rf
 - annee/2018
 ---
 

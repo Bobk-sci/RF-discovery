@@ -8,7 +8,7 @@ titre: Characterizing and Mapping of Exposure to Radiofrequency Electromagnetic 
 url: https://pubmed.ncbi.nlm.nih.gov/28121727/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - China
 - Electromagnetic Fields
@@ -39,10 +39,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

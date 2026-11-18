@@ -8,7 +8,7 @@ titre: Effects of 60 Hz electromagnetic field exposure on testicular germ cell a
 url: https://pubmed.ncbi.nlm.nih.gov/15064831/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -50,12 +50,18 @@ theme_indices:
 - spermatozoa
 - testis
 - testicular
+bande: bf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- 60 Hz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/reproduction
 - theme/apoptose_mitochondrie
+- bande/bf
 - annee/2004
 ---
 

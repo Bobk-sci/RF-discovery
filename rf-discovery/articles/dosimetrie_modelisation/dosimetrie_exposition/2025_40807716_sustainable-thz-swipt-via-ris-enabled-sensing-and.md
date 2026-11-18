@@ -8,7 +8,7 @@ titre: 'Sustainable THz SWIPT via RIS-Enabled Sensing and Adaptive Power Focusin
 url: https://pubmed.ncbi.nlm.nih.gov/40807716/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -46,11 +46,20 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

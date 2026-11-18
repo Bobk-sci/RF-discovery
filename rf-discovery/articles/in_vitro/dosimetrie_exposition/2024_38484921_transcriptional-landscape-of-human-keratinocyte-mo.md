@@ -8,7 +8,7 @@ titre: Transcriptional landscape of human keratinocyte models exposed to 60-GHz 
 url: https://pubmed.ncbi.nlm.nih.gov/38484921/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Keratinocytes
@@ -52,6 +52,11 @@ theme_indices:
 - power density
 - exposure limit
 - ICNIRP
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vitro
@@ -59,6 +64,7 @@ tags:
 - theme/dosimetrie_exposition
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

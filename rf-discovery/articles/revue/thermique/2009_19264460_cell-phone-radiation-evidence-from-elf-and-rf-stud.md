@@ -9,7 +9,7 @@ titre: 'Cell phone radiation: Evidence from ELF and RF studies supporting more i
 url: https://pubmed.ncbi.nlm.nih.gov/19264460/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -33,12 +33,20 @@ theme_secondaires:
 theme_indices:
 - heating
 - non-thermal
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- ELF and RF (descripteur décisif)
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/thermique
 - theme/neuro_comportement_cognition
+- bande/mixte
+- bande/rf
 - annee/2009
 ---
 

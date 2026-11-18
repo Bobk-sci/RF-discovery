@@ -8,7 +8,7 @@ titre: 'Field-Frustrated Cooperative Distortions: Suppressing Jahn-Teller Orderi
 url: https://pubmed.ncbi.nlm.nih.gov/42237760/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -35,10 +35,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

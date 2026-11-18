@@ -7,7 +7,7 @@ titre: 900-MHz microwave radiation promotes oxidation in rat brain.
 url: https://pubmed.ncbi.nlm.nih.gov/22047460/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -59,6 +59,14 @@ theme_indices:
 - superoxide dismutase
 - catalase
 - glutathione
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- microwave
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -67,6 +75,7 @@ tags:
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2011
 ---
 

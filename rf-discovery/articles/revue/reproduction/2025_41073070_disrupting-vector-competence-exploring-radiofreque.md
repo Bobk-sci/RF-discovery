@@ -8,7 +8,7 @@ titre: 'Disrupting vector competence: exploring radiofrequency exposure as a nov
 url: https://pubmed.ncbi.nlm.nih.gov/41073070/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -54,11 +54,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

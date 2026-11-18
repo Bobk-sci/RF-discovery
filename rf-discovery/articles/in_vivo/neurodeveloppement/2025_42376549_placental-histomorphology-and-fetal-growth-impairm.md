@@ -8,7 +8,7 @@ titre: Placental histomorphology and fetal growth impairment in mice prenatally 
 url: https://pubmed.ncbi.nlm.nih.gov/42376549/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Placenta
 - Animals
@@ -58,12 +58,19 @@ theme_indices:
 - prenatal
 - pregnancy
 - fetal
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

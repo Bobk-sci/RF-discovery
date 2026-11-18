@@ -8,7 +8,7 @@ titre: Impact of high frequency electromagnetic radiation on bacterial survival 
 url: https://pubmed.ncbi.nlm.nih.gov/40050313/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Escherichia coli
 - Staphylococcus aureus
@@ -41,10 +41,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

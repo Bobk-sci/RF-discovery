@@ -8,7 +8,7 @@ titre: Nutritional, chemical and antioxidant/pro-oxidant profiles of silverskin,
 url: https://pubmed.ncbi.nlm.nih.gov/29934169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Antioxidants
@@ -60,10 +60,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - antioxidant
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 5G
 tags:
 - rf
 - modele/in_vitro
 - theme/stress_oxydatif
+- bande/rf
 - annee/2018
 ---
 

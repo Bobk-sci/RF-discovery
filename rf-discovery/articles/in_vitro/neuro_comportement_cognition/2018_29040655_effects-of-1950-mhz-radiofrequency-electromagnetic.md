@@ -8,7 +8,7 @@ titre: Effects of 1950 MHz radiofrequency electromagnetic fields on Aβ processi
 url: https://pubmed.ncbi.nlm.nih.gov/29040655/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Amyloid beta-Peptides
 - Animals
@@ -56,6 +56,12 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - memory
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -63,6 +69,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2018
 ---
 

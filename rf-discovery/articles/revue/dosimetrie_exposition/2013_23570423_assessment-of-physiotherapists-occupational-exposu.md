@@ -8,7 +8,7 @@ titre: 'Assessment of physiotherapists'' occupational exposure to radiofrequency
 url: https://pubmed.ncbi.nlm.nih.gov/23570423/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Diathermy
 - Electromagnetic Fields
@@ -43,11 +43,20 @@ theme_secondaires: []
 theme_indices:
 - power density
 - ICNIRP
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

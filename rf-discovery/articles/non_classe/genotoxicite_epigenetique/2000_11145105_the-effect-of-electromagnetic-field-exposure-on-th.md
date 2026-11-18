@@ -7,7 +7,7 @@ titre: The effect of electromagnetic field exposure on the formation of DNA lesi
 url: https://pubmed.ncbi.nlm.nih.gov/11145105/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - DNA Damage
 - Electromagnetic Fields
@@ -41,11 +41,16 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
+- bande/rf
 - annee/2000
 ---
 

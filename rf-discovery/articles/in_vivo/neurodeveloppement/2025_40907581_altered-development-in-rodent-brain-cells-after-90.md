@@ -7,7 +7,7 @@ titre: Altered development in rodent brain cells after 900 MHz radiofrequency 
 url: https://pubmed.ncbi.nlm.nih.gov/40907581/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Animals
@@ -77,6 +77,14 @@ theme_indices:
 - neurodevelopment
 - neurogenesis
 - synaptogenesis
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -86,6 +94,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

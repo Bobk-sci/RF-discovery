@@ -8,7 +8,7 @@ titre: Effect of Gd-DTPA and/or magnetic field and radiofrequency exposure on si
 url: https://pubmed.ncbi.nlm.nih.gov/8240897/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Gadolinium DTPA
 - Humans
@@ -40,11 +40,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- magnetic field and radiofrequency (descripteur décisif)
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/mixte
+- bande/rf
 - annee/1993
 ---
 

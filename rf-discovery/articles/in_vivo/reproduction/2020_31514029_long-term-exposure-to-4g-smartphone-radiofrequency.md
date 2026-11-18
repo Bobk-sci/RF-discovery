@@ -9,7 +9,7 @@ titre: Long-term exposure to 4G smartphone radiofrequency electromagnetic radiat
 url: https://pubmed.ncbi.nlm.nih.gov/31514029/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Radiation
@@ -66,11 +66,17 @@ theme_indices:
 - testicular
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2020
 ---
 

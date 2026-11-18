@@ -8,7 +8,7 @@ titre: A miniature bio-inspired antenna for sub-6 GHz consumer wireless and bio
 url: https://pubmed.ncbi.nlm.nih.gov/42144411/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Equipment Design
@@ -43,11 +43,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

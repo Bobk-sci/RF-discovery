@@ -8,7 +8,7 @@ titre: The effect of combined exposure of 900 MHz radiofrequency fields and doxo
 url: https://pubmed.ncbi.nlm.nih.gov/23029402/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adenosine Triphosphatases
 - Antibiotics, Antineoplastic
@@ -54,6 +54,12 @@ theme_indices:
 - apoptosis
 - mitochondrial
 - membrane potential
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -62,6 +68,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

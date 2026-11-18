@@ -8,7 +8,7 @@ titre: Parental occupational exposures to electromagnetic fields and radiation a
 url: https://pubmed.ncbi.nlm.nih.gov/11505168/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Case-Control Studies
 - Electromagnetic Fields
@@ -56,11 +56,17 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - children
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/epidemiologie
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/2001
 ---
 

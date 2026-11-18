@@ -7,7 +7,7 @@ titre: Effects of electromagnetic field exposure on gene transcription.
 url: https://pubmed.ncbi.nlm.nih.gov/8496241/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cells, Cultured
@@ -41,12 +41,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - gene expression
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 60 Hz
 tags:
 - rf
 - modele/revue
 - modele/in_vitro
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/bf
 - annee/1993
 ---
 

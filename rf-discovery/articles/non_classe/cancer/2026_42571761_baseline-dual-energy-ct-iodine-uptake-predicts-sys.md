@@ -8,7 +8,7 @@ titre: Baseline dual-energy CT iodine uptake predicts systemic but not lesion-le
 url: https://pubmed.ncbi.nlm.nih.gov/42571761/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Melanoma
@@ -60,10 +60,15 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - tumor
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

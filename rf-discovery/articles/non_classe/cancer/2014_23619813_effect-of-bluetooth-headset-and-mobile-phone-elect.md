@@ -8,7 +8,7 @@ titre: Effect of Bluetooth headset and mobile phone electromagnetic fields on th
 url: https://pubmed.ncbi.nlm.nih.gov/23619813/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cochlear Nerve
@@ -49,10 +49,16 @@ theme_secondaires: []
 theme_indices:
 - glioma
 - acoustic neuroma
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/cancer
+- bande/rf
 - annee/2014
 ---
 

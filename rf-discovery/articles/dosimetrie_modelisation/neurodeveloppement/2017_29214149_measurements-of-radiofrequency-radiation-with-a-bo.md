@@ -8,7 +8,7 @@ titre: Measurements of Radiofrequency Radiation with a Body-Borne Exposimeter in
 url: https://pubmed.ncbi.nlm.nih.gov/29214149/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -41,10 +41,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - children
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
+- bande/rf
 - annee/2017
 ---
 

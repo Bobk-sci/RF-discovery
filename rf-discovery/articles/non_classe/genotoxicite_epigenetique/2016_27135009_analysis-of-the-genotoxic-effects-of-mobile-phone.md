@@ -8,7 +8,7 @@ titre: 'Analysis of the Genotoxic Effects of Mobile Phone Radiation using Buccal
 url: https://pubmed.ncbi.nlm.nih.gov/27135009/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -41,11 +41,18 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - micronucleus
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2016
 ---
 

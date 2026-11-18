@@ -24,7 +24,7 @@ from typing import Any
 import yaml
 
 from collect.europepmc import Paper
-from library.classify import Assignment, Taxonomy
+from library.classify import Assignment, Taxonomy, axes_du_chemin, noms_axes
 
 INDEX_NAME = "index.csv"
 README_NAME = "README.md"
@@ -115,8 +115,14 @@ def render_article(paper: Paper, assignments: dict[str, Assignment],
 
 
 def write_article(root: str | Path, paper: Paper, assignments: dict[str, Assignment],
-                  axes: tuple[str, ...]) -> Path:
-    path = article_path(root, paper, assignments, axes)
+                  axes: tuple[str, ...],
+                  axes_chemin: tuple[str, ...] | None = None) -> Path:
+    """Écrit la fiche. `axes` alimente l'en-tête ; `axes_chemin` décide du dossier.
+
+    Les deux diffèrent dès qu'un axe classe sans ranger — `bande`, par exemple, qui
+    distingue basses fréquences et radiofréquences sans déplacer les fiches.
+    """
+    path = article_path(root, paper, assignments, axes_chemin or axes)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(render_article(paper, assignments, axes), encoding="utf-8")
     return path
@@ -242,7 +248,8 @@ def _counts_table(records: list[dict[str, Any]], axes: tuple[str, ...]) -> list[
 def write_readme(root: str | Path, records: list[dict[str, Any]],
                  tax: Taxonomy, query: str = "") -> Path:
     """Sommaire lisible : volume par catégorie, rappel de la méthode et des limites."""
-    axes = tuple(ax.name for ax in tax.axes)
+    axes = noms_axes(tax)
+    chemin = axes_du_chemin(tax)
     years = [int(m.get("annee") or 0) for m in records if m.get("annee")]
     span = f"{min(years)}–{max(years)}" if years else "—"
     lines = [
@@ -262,7 +269,7 @@ def write_readme(root: str | Path, records: list[dict[str, Any]],
         "",
         "## Comment c'est rangé",
         "",
-        f"`{'/'.join(f'<{a}>' for a in axes)}/<année>_<pmid>_<titre>.md`",
+        f"`{'/'.join(f'<{a}>' for a in chemin)}/<année>_<pmid>_<titre>.md`",
         "",
         "Le classement compte les mots-clés de `config/taxonomy.yaml` dans le titre "
         f"(×{tax.title_boost}) et le résumé ; la catégorie la mieux notée l'emporte, "

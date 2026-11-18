@@ -8,7 +8,7 @@ titre: Parametric analysis of electromagnetic wave interactions with layered bio
 url: https://pubmed.ncbi.nlm.nih.gov/41454125/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adipose Tissue
 - Skin
@@ -47,11 +47,19 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

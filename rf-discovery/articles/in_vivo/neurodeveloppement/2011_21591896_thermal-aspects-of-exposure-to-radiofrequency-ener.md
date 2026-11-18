@@ -8,7 +8,7 @@ titre: 'Thermal aspects of exposure to radiofrequency energy: report of a worksh
 url: https://pubmed.ncbi.nlm.nih.gov/21591896/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -54,6 +54,12 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/in_vivo
@@ -61,6 +67,7 @@ tags:
 - theme/neurodeveloppement
 - theme/reproduction
 - theme/thermique
+- bande/rf
 - annee/2011
 ---
 

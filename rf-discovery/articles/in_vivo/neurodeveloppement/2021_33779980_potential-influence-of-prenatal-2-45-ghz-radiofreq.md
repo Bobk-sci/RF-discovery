@@ -8,7 +8,7 @@ titre: Potential influence of prenatal 2.45 GHz radiofrequency electromagnetic f
 url: https://pubmed.ncbi.nlm.nih.gov/33779980/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Testis
 - Leydig Cells
@@ -60,6 +60,14 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -68,6 +76,7 @@ tags:
 - theme/reproduction
 - theme/dosimetrie_exposition
 - theme/stress_oxydatif
+- bande/rf
 - annee/2021
 ---
 

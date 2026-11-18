@@ -8,7 +8,7 @@ titre: 'Gold Nanoparticle Complexes with PAMAM Dendrimers for In Vitro Cancer Cy
 url: https://pubmed.ncbi.nlm.nih.gov/42280148/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Humans
@@ -52,12 +52,18 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - tumor
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - theme/cancer
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

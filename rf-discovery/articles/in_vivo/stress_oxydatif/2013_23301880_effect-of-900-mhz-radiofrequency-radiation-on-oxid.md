@@ -8,7 +8,7 @@ titre: Effect of 900 MHz radiofrequency radiation on oxidative stress in rat br
 url: https://pubmed.ncbi.nlm.nih.gov/23301880/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Advanced Oxidation Protein Products
 - Animals
@@ -58,12 +58,20 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

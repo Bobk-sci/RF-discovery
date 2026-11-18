@@ -8,7 +8,7 @@ titre: 'The Biological Effects of Compound Microwave Exposure with 2.8 GHz and 9
 url: https://pubmed.ncbi.nlm.nih.gov/36497106/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Spleen
 - Lymphocytes
@@ -59,6 +59,12 @@ theme_secondaires:
 theme_indices:
 - cytokine
 - interleukin
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +72,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

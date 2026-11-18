@@ -9,7 +9,7 @@ titre: 'Effects of acute electromagnetic field exposure and movement restraint o
 url: https://pubmed.ncbi.nlm.nih.gov/20701462/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Antioxidants
@@ -60,10 +60,17 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+bande: bf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
+- 60 Hz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/bf
 - annee/2010
 ---
 

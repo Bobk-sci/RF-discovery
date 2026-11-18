@@ -8,7 +8,7 @@ titre: 'Indirect effects of interference of two emerging environmental contamina
 url: https://pubmed.ncbi.nlm.nih.gov/38092171/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - CHO Cells
 - Animals
@@ -52,6 +52,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
@@ -59,6 +65,7 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/reproduction
+- bande/rf
 - annee/2024
 ---
 

@@ -8,7 +8,7 @@ titre: Effect of extremely low frequency electromagnetic field exposure on sleep
 url: https://pubmed.ncbi.nlm.nih.gov/23369281/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -33,10 +33,16 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: bf
+bande_score: 1000.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/bf
 - annee/2012
 ---
 

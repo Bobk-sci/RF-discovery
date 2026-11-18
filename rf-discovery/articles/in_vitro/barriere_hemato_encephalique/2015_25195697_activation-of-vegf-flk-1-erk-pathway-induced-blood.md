@@ -8,7 +8,7 @@ titre: Activation of VEGF/Flk-1-ERK Pathway Induced Blood-Brain Barrier Injury A
 url: https://pubmed.ncbi.nlm.nih.gov/25195697/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood-Brain Barrier
@@ -59,11 +59,17 @@ theme_indices:
 - blood-brain barrier
 - blood brain barrier
 - occludin
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
+- bande/rf
 - annee/2015
 ---
 

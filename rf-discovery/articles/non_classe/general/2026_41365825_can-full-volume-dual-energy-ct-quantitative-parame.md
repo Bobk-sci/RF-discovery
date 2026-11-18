@@ -8,7 +8,7 @@ titre: Can full-volume dual-energy CT quantitative parameter nomogram predict th
 url: https://pubmed.ncbi.nlm.nih.gov/41365825/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Nomograms
@@ -52,10 +52,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

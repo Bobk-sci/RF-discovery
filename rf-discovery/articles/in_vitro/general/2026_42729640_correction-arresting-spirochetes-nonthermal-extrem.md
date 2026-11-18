@@ -9,7 +9,7 @@ titre: 'Correction: Arresting spirochetes: nonthermal extremely low-frequency el
 url: https://pubmed.ncbi.nlm.nih.gov/42729640/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Published Erratum
@@ -41,10 +41,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1000.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/in_vitro
 - theme/general
+- bande/bf
 - annee/2026
 ---
 

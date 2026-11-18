@@ -9,7 +9,7 @@ titre: Preliminary study on the induction of sperm head abnormalities in mice, M
 url: https://pubmed.ncbi.nlm.nih.gov/19816647/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -44,10 +44,17 @@ theme_secondaires: []
 theme_indices:
 - sperm
 - reproductive
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2010
 ---
 

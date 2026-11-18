@@ -8,7 +8,7 @@ titre: Ultra-Wideband Millimeter-Wave Dielectric Characteristics of Freshly Exci
 url: https://pubmed.ncbi.nlm.nih.gov/28885148/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -46,10 +46,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - attention
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2018
 ---
 

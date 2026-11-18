@@ -9,7 +9,7 @@ titre: Primary human osteoblasts with reduced alkaline phosphatase and matrix mi
 url: https://pubmed.ncbi.nlm.nih.gov/28377966/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -44,10 +44,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - mitochondrial
+bande: bf
+bande_score: 1000.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/non_classe
 - theme/apoptose_mitochondrie
+- bande/bf
 - annee/2015
 ---
 

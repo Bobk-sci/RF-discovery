@@ -9,7 +9,7 @@ titre: 'Mechanistic insights into microwave radiation induced cognitive impairme
 url: https://pubmed.ncbi.nlm.nih.gov/39999628/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Neurons
@@ -70,12 +70,18 @@ theme_indices:
 - cognitive
 - memory
 - learning and memory
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2025
 ---
 

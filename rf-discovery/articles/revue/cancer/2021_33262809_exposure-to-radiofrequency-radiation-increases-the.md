@@ -8,7 +8,7 @@ titre: 'Exposure to radiofrequency radiation increases the risk of breast cancer
 url: https://pubmed.ncbi.nlm.nih.gov/33262809/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -46,11 +46,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - cancer risk
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2021
 ---
 

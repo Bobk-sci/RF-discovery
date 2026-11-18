@@ -8,7 +8,7 @@ titre: 'Effect of 2.45 GHz Microwave Radiation on the Inner Ear: A Histopatholog
 url: https://pubmed.ncbi.nlm.nih.gov/38454287/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cochlea
 - Animals
@@ -50,11 +50,19 @@ theme_secondaires:
 theme_indices:
 - apoptosis
 - caspase
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2024
 ---
 

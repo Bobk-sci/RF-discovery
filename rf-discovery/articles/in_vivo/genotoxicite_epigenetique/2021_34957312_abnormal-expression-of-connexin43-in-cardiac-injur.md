@@ -8,7 +8,7 @@ titre: Abnormal Expression of Connexin43 in Cardiac Injury Induced by S-Band and
 url: https://pubmed.ncbi.nlm.nih.gov/34957312/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Myocardium
 - Animals
@@ -56,12 +56,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

@@ -8,7 +8,7 @@ titre: 'Occupational electromagnetic field exposure and sleep disturbances: The 
 url: https://pubmed.ncbi.nlm.nih.gov/42580044/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Sleep Initiation and Maintenance Disorders
@@ -50,10 +50,15 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
+- bande/rf
 - annee/2026
 ---
 

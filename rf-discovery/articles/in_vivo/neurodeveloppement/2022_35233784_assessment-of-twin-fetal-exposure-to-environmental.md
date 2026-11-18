@@ -8,7 +8,7 @@ titre: Assessment of Twin Fetal Exposure to Environmental Magnetic and Electroma
 url: https://pubmed.ncbi.nlm.nih.gov/35233784/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -50,11 +50,20 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- bf
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/ingenierie_materiel
 - theme/neurodeveloppement
+- bande/rf
+- bande/bf
 - annee/2022
 ---
 

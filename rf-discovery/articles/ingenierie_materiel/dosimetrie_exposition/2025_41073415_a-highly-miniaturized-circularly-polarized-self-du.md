@@ -8,7 +8,7 @@ titre: A highly miniaturized circularly polarized self-duplexing implantable ant
 url: https://pubmed.ncbi.nlm.nih.gov/41073415/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Swine
@@ -51,12 +51,21 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- intermediaire
+bande_indices:
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/intermediaire
 - annee/2025
 ---
 

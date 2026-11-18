@@ -7,7 +7,7 @@ titre: A Systematic Review of the Impact of Electromagnetic Waves on Living Bein
 url: https://pubmed.ncbi.nlm.nih.gov/40970078/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -51,6 +51,10 @@ theme_secondaires:
 - neuro_comportement_cognition
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
@@ -61,6 +65,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/reproduction
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

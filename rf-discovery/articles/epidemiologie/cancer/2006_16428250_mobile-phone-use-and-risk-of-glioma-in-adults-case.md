@@ -7,7 +7,7 @@ titre: 'Mobile phone use and risk of glioma in adults: case-control study.'
 url: https://pubmed.ncbi.nlm.nih.gov/16428250/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Adult
@@ -52,11 +52,17 @@ theme_secondaires:
 theme_indices:
 - tumour
 - glioma
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/cancer
 - theme/neurodeveloppement
+- bande/rf
 - annee/2006
 ---
 

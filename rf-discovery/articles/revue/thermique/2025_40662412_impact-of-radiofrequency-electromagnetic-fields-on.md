@@ -8,7 +8,7 @@ titre: 'Impact of Radiofrequency Electromagnetic Fields on Cardiac Activity at R
 url: https://pubmed.ncbi.nlm.nih.gov/40662412/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Heart
 - Humans
@@ -53,6 +53,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - non-thermal
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/revue
@@ -61,6 +68,7 @@ tags:
 - modele/epidemiologie
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Effects of co-exposure to 900 MHz radiofrequency electromagnetic fields
 url: https://pubmed.ncbi.nlm.nih.gov/31706765/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Body Weight
@@ -54,11 +54,18 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - sleep
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

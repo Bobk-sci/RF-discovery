@@ -9,7 +9,7 @@ titre: Combined effects of 872 MHz radiofrequency radiation and ferrous chloride
 url: https://pubmed.ncbi.nlm.nih.gov/20564172/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Cell Survival
@@ -53,6 +53,13 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -61,6 +68,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2010
 ---
 

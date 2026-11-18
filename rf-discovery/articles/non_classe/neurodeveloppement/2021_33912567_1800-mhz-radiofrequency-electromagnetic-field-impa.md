@@ -8,7 +8,7 @@ titre: 1800 MHz Radiofrequency Electromagnetic Field Impairs Neurite Outgrowth T
 url: https://pubmed.ncbi.nlm.nih.gov/33912567/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,10 +45,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - brain development
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/neurodeveloppement
+- bande/rf
 - annee/2021
 ---
 

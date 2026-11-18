@@ -9,7 +9,7 @@ titre: Exposure to a 900 MHz electromagnetic field induces a response of the hon
 url: https://pubmed.ncbi.nlm.nih.gov/37172069/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Bees
@@ -49,11 +49,19 @@ theme_secondaires:
 - genotoxicite_epigenetique
 theme_indices:
 - behavior
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2023
 ---
 

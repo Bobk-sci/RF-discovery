@@ -8,7 +8,7 @@ titre: The neuroprotective role of coenzyme Q10 against endoplasmic reticulum st
 url: https://pubmed.ncbi.nlm.nih.gov/41934922/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Ubiquinone
@@ -56,11 +56,16 @@ theme_indices:
 - oxidative stress
 - malondialdehyde
 - glutathione
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neuroinflammation
+- bande/rf
 - annee/2026
 ---
 

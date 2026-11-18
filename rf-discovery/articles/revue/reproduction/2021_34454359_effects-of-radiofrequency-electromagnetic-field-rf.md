@@ -9,7 +9,7 @@ titre: 'Effects of Radiofrequency Electromagnetic Field (RF-EMF) exposure on mal
 url: https://pubmed.ncbi.nlm.nih.gov/34454359/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -71,6 +71,12 @@ theme_indices:
 - spermatozoa
 - fertility
 - reproductive
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -79,6 +85,7 @@ tags:
 - theme/reproduction
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

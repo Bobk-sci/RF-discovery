@@ -8,7 +8,7 @@ titre: A dual-transformable MgGa-MOF nanoplatform for HCC therapy via lactate me
 url: https://pubmed.ncbi.nlm.nih.gov/41937209/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line, Tumor
 - Animals
@@ -58,6 +58,11 @@ theme_secondaires:
 - apoptose_mitochondrie
 theme_indices:
 - tumor
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
@@ -65,6 +70,7 @@ tags:
 - theme/cancer
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2026
 ---
 

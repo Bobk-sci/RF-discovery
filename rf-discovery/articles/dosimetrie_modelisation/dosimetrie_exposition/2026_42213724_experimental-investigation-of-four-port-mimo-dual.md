@@ -8,7 +8,7 @@ titre: Experimental investigation of four-port MIMO-Dual-Band (MDB) antenna for 
 url: https://pubmed.ncbi.nlm.nih.gov/42213724/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Equipment Design
 - Wireless Technology
@@ -37,11 +37,19 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

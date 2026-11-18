@@ -8,7 +8,7 @@ titre: Prenatal 3.5 GHz radiofrequency exposure induces renal histological chan
 url: https://pubmed.ncbi.nlm.nih.gov/42423814/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Kidney
 - Animals
@@ -66,6 +66,13 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -75,6 +82,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

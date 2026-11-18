@@ -8,7 +8,7 @@ titre: Effects of Radiofrequency Electromagnetic Radiation on Neurotransmitters 
 url: https://pubmed.ncbi.nlm.nih.gov/34485223/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Brain
 - Humans
@@ -50,11 +50,17 @@ theme_indices:
 - cognitive
 - behavior
 - attention
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2021
 ---
 

@@ -8,7 +8,7 @@ titre: Survey of electromagnetic field exposure in bedrooms of residences in low
 url: https://pubmed.ncbi.nlm.nih.gov/19780092/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Architecture
 - Austria
@@ -45,10 +45,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - ICNIRP
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- bf
+bande_indices:
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
+- bande/bf
 - annee/2010
 ---
 

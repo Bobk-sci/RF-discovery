@@ -8,7 +8,7 @@ titre: 'Impact of 900 MHz electromagnetic field exposure on main male reproducti
 url: https://pubmed.ncbi.nlm.nih.gov/24357488/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -43,10 +43,16 @@ theme_secondaires: []
 theme_indices:
 - fertility
 - reproductive
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2014
 ---
 

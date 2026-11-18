@@ -8,7 +8,7 @@ titre: Value of dual energy computed tomography with material decomposition algo
 url: https://pubmed.ncbi.nlm.nih.gov/42395102/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -38,11 +38,16 @@ theme_secondaires:
 - cancer
 theme_indices:
 - occludin
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/barriere_hemato_encephalique
 - theme/cancer
+- bande/rf
 - annee/2026
 ---
 

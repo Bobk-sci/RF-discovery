@@ -8,7 +8,7 @@ titre: Investigation of oxidative damage, antioxidant balance, DNA repair genes,
 url: https://pubmed.ncbi.nlm.nih.gov/36062506/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Mice
@@ -65,6 +65,13 @@ theme_indices:
 - catalase
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -73,6 +80,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2022
 ---
 

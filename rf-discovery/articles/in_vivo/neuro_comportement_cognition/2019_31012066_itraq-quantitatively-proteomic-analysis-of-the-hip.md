@@ -8,7 +8,7 @@ titre: iTRAQ quantitatively proteomic analysis of the hippocampus in a rat model
 url: https://pubmed.ncbi.nlm.nih.gov/31012066/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cognition
@@ -69,6 +69,12 @@ theme_indices:
 - memory
 - learning and memory
 - depression
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -77,6 +83,7 @@ tags:
 - theme/plasticite_synaptique
 - theme/neurodeveloppement
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2019
 ---
 

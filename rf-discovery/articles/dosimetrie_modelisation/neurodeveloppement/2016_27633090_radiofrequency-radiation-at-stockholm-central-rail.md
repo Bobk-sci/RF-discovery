@@ -8,7 +8,7 @@ titre: Radiofrequency radiation at Stockholm Central Railway Station in Sweden a
 url: https://pubmed.ncbi.nlm.nih.gov/27633090/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -35,11 +35,18 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - children
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2016
 ---
 

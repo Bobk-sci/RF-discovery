@@ -8,7 +8,7 @@ titre: Long-Term Wi-Fi Exposure From Pre-Pubertal to Adult Age on the Spermatogo
 url: https://pubmed.ncbi.nlm.nih.gov/35360230/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,11 +42,19 @@ theme_indices:
 - sperm
 - testis
 - reproductive
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/non_classe
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

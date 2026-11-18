@@ -8,7 +8,7 @@ titre: Cow Behavior Recognition Method Based on Multi-Source Perceptual Informat
 url: https://pubmed.ncbi.nlm.nih.gov/42797892/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -40,10 +40,15 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - behavior
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2026
 ---
 

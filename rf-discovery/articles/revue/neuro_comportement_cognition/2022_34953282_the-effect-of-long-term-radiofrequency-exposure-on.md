@@ -8,7 +8,7 @@ titre: 'The effect of long-term radiofrequency exposure on cognition in human ob
 url: https://pubmed.ncbi.nlm.nih.gov/34953282/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Child
@@ -70,6 +70,12 @@ theme_indices:
 - memory
 - learning and memory
 - attention
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -77,6 +83,7 @@ tags:
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

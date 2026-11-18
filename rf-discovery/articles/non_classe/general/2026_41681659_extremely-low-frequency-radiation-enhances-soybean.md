@@ -8,7 +8,7 @@ titre: Extremely Low Frequency Radiation Enhances Soybean Chlorophyll Index and 
 url: https://pubmed.ncbi.nlm.nih.gov/41681659/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -37,10 +37,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: bf
+bande_score: 1000.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/non_classe
 - theme/general
+- bande/bf
 - annee/2026
 ---
 

@@ -8,7 +8,7 @@ titre: Does radiofrequency radiation impact sleep? A double-blind, randomised, p
 url: https://pubmed.ncbi.nlm.nih.gov/39534742/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Electroencephalography
@@ -61,6 +61,13 @@ theme_secondaires:
 theme_indices:
 - EEG
 - sleep
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/humain_experimental
@@ -68,6 +75,7 @@ tags:
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2024
 ---
 

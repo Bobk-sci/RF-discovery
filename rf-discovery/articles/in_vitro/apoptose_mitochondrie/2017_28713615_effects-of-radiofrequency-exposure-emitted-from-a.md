@@ -8,7 +8,7 @@ titre: Effects of radiofrequency exposure emitted from a GSM mobile phone on pro
 url: https://pubmed.ncbi.nlm.nih.gov/28713615/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -45,11 +45,18 @@ theme_indices:
 - apoptosis
 - caspase
 - cell viability
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - theme/apoptose_mitochondrie
 - theme/neurodeveloppement
+- bande/rf
 - annee/2017
 ---
 

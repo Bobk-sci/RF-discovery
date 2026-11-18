@@ -9,7 +9,7 @@ titre: 'The role of the location of personal exposimeters on the human body in t
 url: https://pubmed.ncbi.nlm.nih.gov/25879021/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Computer Simulation
@@ -54,10 +54,17 @@ theme_secondaires: []
 theme_indices:
 - exposure limit
 - compliance
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2015
 ---
 

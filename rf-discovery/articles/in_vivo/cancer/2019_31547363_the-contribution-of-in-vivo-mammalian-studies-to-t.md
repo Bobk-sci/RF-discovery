@@ -8,7 +8,7 @@ titre: The Contribution of In Vivo Mammalian Studies to the Knowledge of Adverse
 url: https://pubmed.ncbi.nlm.nih.gov/31547363/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -52,6 +52,11 @@ theme_secondaires:
 theme_indices:
 - cancer risk
 - IARC
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
@@ -59,6 +64,7 @@ tags:
 - theme/cancer
 - theme/reproduction
 - theme/neuroinflammation
+- bande/rf
 - annee/2019
 ---
 

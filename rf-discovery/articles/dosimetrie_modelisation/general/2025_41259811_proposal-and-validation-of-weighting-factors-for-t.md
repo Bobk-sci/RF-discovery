@@ -9,7 +9,7 @@ titre: Proposal and validation of weighting factors for the weighted computed to
 url: https://pubmed.ncbi.nlm.nih.gov/41259811/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Tomography, X-Ray Computed
 - Radiation Dosage
@@ -46,11 +46,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

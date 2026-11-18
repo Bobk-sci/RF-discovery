@@ -9,7 +9,7 @@ titre: 'Effect of 900 MHz Electromagnetic Field Exposure During Different Trime
 url: https://pubmed.ncbi.nlm.nih.gov/41146578/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Trigeminal Ganglion
 - Animals
@@ -67,11 +67,17 @@ theme_indices:
 - glutathione
 - lipid peroxidation
 - antioxidant
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/neurodeveloppement
+- bande/rf
 - annee/2025
 ---
 

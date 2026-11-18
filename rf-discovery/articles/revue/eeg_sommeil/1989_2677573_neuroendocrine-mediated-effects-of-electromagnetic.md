@@ -8,7 +8,7 @@ titre: 'Neuroendocrine mediated effects of electromagnetic-field exposure: possi
 url: https://pubmed.ncbi.nlm.nih.gov/2677573/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -45,6 +45,11 @@ theme_secondaires:
 theme_indices:
 - melatonin
 - circadian
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 60 Hz
 tags:
 - rf
 - modele/revue
@@ -52,6 +57,7 @@ tags:
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neuro_comportement_cognition
+- bande/bf
 - annee/1989
 ---
 

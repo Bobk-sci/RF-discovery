@@ -7,7 +7,7 @@ titre: 'Mobile phone use and possible cancer risk: Current perspectives in India
 url: https://pubmed.ncbi.nlm.nih.gov/27390472/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -44,11 +44,19 @@ theme_indices:
 - carcinogenesis
 - cancer risk
 - IARC
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/cancer
+- bande/rf
 - annee/2016
 ---
 

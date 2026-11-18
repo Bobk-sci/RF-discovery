@@ -8,7 +8,7 @@ titre: Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and o
 url: https://pubmed.ncbi.nlm.nih.gov/30669883/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - 8-Hydroxy-2'-Deoxyguanosine
 - Animals
@@ -65,12 +65,20 @@ theme_indices:
 - lipid peroxidation
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2019
 ---
 

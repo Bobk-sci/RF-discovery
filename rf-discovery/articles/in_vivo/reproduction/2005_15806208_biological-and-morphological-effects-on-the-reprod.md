@@ -8,7 +8,7 @@ titre: Biological and morphological effects on the reproductive organ of rats af
 url: https://pubmed.ncbi.nlm.nih.gov/15806208/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -47,10 +47,18 @@ theme_secondaires: []
 theme_indices:
 - testicular
 - reproductive
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2005
 ---
 

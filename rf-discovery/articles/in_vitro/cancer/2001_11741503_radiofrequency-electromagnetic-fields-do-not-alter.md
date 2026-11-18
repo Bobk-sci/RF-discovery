@@ -8,7 +8,7 @@ titre: Radiofrequency electromagnetic fields do not alter the cell cycle progres
 url: https://pubmed.ncbi.nlm.nih.gov/11741503/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Cycle
@@ -48,6 +48,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - glioma
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -55,6 +62,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

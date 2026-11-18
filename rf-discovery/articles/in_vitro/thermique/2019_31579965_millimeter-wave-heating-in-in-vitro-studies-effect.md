@@ -8,7 +8,7 @@ titre: 'Millimeter-Wave Heating in In Vitro Studies: Effect of Convection in Con
 url: https://pubmed.ncbi.nlm.nih.gov/31579965/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Convection
 - Electromagnetic Radiation
@@ -53,12 +53,18 @@ theme_secondaires:
 theme_indices:
 - temperature rise
 - heating
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2019
 ---
 

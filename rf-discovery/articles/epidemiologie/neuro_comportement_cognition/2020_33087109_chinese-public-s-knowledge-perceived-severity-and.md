@@ -9,7 +9,7 @@ titre: 'Chinese public''s knowledge, perceived severity, and perceived controlla
 url: https://pubmed.ncbi.nlm.nih.gov/33087109/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adaptation, Psychological
 - Adolescent
@@ -66,12 +66,18 @@ theme_secondaires:
 theme_indices:
 - cognitive
 - behaviour
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/eeg_sommeil
+- bande/rf
 - annee/2020
 ---
 

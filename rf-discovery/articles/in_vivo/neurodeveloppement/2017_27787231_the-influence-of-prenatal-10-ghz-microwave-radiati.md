@@ -8,7 +8,7 @@ titre: The influence of prenatal 10 GHz microwave radiation exposure on a develo
 url: https://pubmed.ncbi.nlm.nih.gov/27787231/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Brain
@@ -50,11 +50,18 @@ theme_indices:
 - prenatal
 - pregnancy
 - neonatal
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
 - theme/stress_oxydatif
+- bande/rf
 - annee/2017
 ---
 

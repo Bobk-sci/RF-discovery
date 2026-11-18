@@ -8,7 +8,7 @@ titre: Evaluation of the cytogenotoxic damage in immature and mature rats expose
 url: https://pubmed.ncbi.nlm.nih.gov/23718180/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Bone Marrow Cells
@@ -50,6 +50,13 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - micronucleus
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
@@ -58,6 +65,7 @@ tags:
 - theme/neurodeveloppement
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2013
 ---
 

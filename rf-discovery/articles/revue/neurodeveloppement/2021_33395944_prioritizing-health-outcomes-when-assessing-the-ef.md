@@ -8,7 +8,7 @@ titre: 'Prioritizing health outcomes when assessing the effects of exposure to r
 url: https://pubmed.ncbi.nlm.nih.gov/33395944/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -61,6 +61,12 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/revue
@@ -69,6 +75,7 @@ tags:
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
+- bande/rf
 - annee/2021
 ---
 

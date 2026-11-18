@@ -7,7 +7,7 @@ titre: Teratogenic effects of 27.12 MHz radiofrequency radiation in rats.
 url: https://pubmed.ncbi.nlm.nih.gov/7163979/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Animals
@@ -48,6 +48,12 @@ theme_indices:
 - pregnancy
 - fetal
 - embryo
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
@@ -55,6 +61,7 @@ tags:
 - theme/neurodeveloppement
 - theme/thermique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1982
 ---
 

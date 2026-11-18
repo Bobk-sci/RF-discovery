@@ -8,7 +8,7 @@ titre: Impact of Long-Term RF-EMF on Oxidative Stress and Neuroinflammation in A
 url: https://pubmed.ncbi.nlm.nih.gov/30029554/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Aging
 - Animals
@@ -69,6 +69,14 @@ theme_indices:
 - astrocyte
 - glial
 - GFAP
+bande: rf
+bande_score: 4.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -77,6 +85,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2018
 ---
 

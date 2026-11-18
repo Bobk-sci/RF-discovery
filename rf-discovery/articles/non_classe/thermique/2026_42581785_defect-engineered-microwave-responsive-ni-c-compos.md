@@ -8,7 +8,7 @@ titre: Defect-Engineered Microwave-Responsive Ni@C Composites From Waste PET for
 url: https://pubmed.ncbi.nlm.nih.gov/42581785/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -40,10 +40,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

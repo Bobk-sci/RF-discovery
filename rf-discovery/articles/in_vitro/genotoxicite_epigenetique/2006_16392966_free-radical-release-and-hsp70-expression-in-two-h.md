@@ -8,7 +8,7 @@ titre: Free radical release and HSP70 expression in two human immune-relevant ce
 url: https://pubmed.ncbi.nlm.nih.gov/16392966/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Dose-Response Relationship, Radiation
@@ -49,11 +49,18 @@ theme_secondaires:
 - stress_oxydatif
 theme_indices:
 - gene expression
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - theme/genotoxicite_epigenetique
 - theme/stress_oxydatif
+- bande/rf
 - annee/2006
 ---
 

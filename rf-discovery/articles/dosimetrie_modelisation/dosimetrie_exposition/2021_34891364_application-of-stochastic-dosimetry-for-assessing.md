@@ -10,7 +10,7 @@ titre: Application of Stochastic Dosimetry for assessing the Human RFEMF Exposur
 url: https://pubmed.ncbi.nlm.nih.gov/34891364/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Algorithms
 - Electromagnetic Fields
@@ -49,10 +49,18 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

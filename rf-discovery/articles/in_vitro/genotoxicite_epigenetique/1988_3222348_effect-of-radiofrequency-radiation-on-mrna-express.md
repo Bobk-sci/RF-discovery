@@ -7,7 +7,7 @@ titre: Effect of radiofrequency radiation on mRNA expression in cultured rodent 
 url: https://pubmed.ncbi.nlm.nih.gov/3222348/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blotting, Northern
@@ -45,6 +45,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - heat shock protein
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -52,6 +60,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1988
 ---
 

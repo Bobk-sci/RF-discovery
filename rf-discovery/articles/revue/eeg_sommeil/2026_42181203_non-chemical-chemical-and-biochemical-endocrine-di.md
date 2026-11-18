@@ -8,7 +8,7 @@ titre: 'Non-chemical, chemical, and biochemical, endocrine disruptors: biphasic 
 url: https://pubmed.ncbi.nlm.nih.gov/42181203/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -49,6 +49,10 @@ theme_secondaires:
 - reproduction
 theme_indices:
 - circadian
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
@@ -57,6 +61,7 @@ tags:
 - theme/stress_oxydatif
 - theme/neurodeveloppement
 - theme/reproduction
+- bande/rf
 - annee/2026
 ---
 

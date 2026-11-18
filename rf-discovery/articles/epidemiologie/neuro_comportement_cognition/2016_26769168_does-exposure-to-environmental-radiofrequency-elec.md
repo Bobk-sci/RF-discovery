@@ -8,7 +8,7 @@ titre: Does exposure to environmental radiofrequency electromagnetic fields caus
 url: https://pubmed.ncbi.nlm.nih.gov/26769168/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Behavior
 - Child
@@ -59,6 +59,12 @@ theme_indices:
 - cognitive
 - behavior
 - neurobehavioral
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/epidemiologie
@@ -66,6 +72,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/neurodeveloppement
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2016
 ---
 

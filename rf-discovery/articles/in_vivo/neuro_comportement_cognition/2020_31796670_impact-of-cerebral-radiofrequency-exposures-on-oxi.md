@@ -8,7 +8,7 @@ titre: Impact of Cerebral Radiofrequency Exposures on Oxidative Stress and Corti
 url: https://pubmed.ncbi.nlm.nih.gov/31796670/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alzheimer Disease
 - Animals
@@ -57,11 +57,18 @@ theme_secondaires:
 theme_indices:
 - memory
 - spatial memory
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
+- bande/rf
 - annee/2020
 ---
 

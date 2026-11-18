@@ -8,7 +8,7 @@ titre: 'Diseases of modern living: neurological changes associated with mobile p
 url: https://pubmed.ncbi.nlm.nih.gov/15135881/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Female
@@ -49,11 +49,20 @@ theme_secondaires: []
 theme_indices:
 - hyperthermia
 - non-thermal
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- GHz
+- mobile phone
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - theme/thermique
+- bande/rf
 - annee/2004
 ---
 

@@ -8,7 +8,7 @@ titre: Radiofrequency Induced Time-Dependent Alterations in Gene Expression and 
 url: https://pubmed.ncbi.nlm.nih.gov/39810728/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Glioblastoma
@@ -62,6 +62,13 @@ theme_indices:
 - Bcl-2
 - cell viability
 - cell death
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -70,6 +77,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

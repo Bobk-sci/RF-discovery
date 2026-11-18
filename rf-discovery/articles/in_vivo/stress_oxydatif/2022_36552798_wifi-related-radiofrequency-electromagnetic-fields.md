@@ -8,7 +8,7 @@ titre: WiFi Related Radiofrequency Electromagnetic Fields Promote Transposable E
 url: https://pubmed.ncbi.nlm.nih.gov/36552798/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Electromagnetic Fields
@@ -49,6 +49,13 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
@@ -56,6 +63,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/cancer
 - theme/thermique
+- bande/rf
 - annee/2022
 ---
 

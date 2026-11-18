@@ -7,7 +7,7 @@ titre: Chronic electromagnetic field exposure decreases HSP70 levels and lowers 
 url: https://pubmed.ncbi.nlm.nih.gov/11813250/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Hypoxia
@@ -44,11 +44,21 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - embryo
+bande: rf
+bande_score: 3.0
+bande_secondaires:
+- bf
+bande_indices:
+- radio frequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
+- bande/bf
 - annee/2002
 ---
 

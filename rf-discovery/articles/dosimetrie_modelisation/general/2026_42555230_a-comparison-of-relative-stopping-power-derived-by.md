@@ -8,7 +8,7 @@ titre: A comparison of relative stopping power derived by fast kV-switching dual
 url: https://pubmed.ncbi.nlm.nih.gov/42555230/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Protons
 - Tomography, X-Ray Computed
@@ -44,10 +44,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

@@ -9,7 +9,7 @@ titre: Effects of radiofrequency electromagnetic fields on cognitive function in
 url: https://pubmed.ncbi.nlm.nih.gov/40744201/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Cross-Over Studies
@@ -58,11 +58,19 @@ theme_indices:
 - cognitive
 - memory
 - attention
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2025
 ---
 

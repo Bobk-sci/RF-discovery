@@ -8,7 +8,7 @@ titre: Microwave assisted disinfestation of green gram (&lt;i&gt;Vigna radiata&l
 url: https://pubmed.ncbi.nlm.nih.gov/38910919/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -38,10 +38,17 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- MHz
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

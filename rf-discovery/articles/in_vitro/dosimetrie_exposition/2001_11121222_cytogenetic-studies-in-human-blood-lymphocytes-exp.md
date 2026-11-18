@@ -8,7 +8,7 @@ titre: Cytogenetic studies in human blood lymphocytes exposed in vitro to radiof
 url: https://pubmed.ncbi.nlm.nih.gov/11121222/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Division
@@ -56,12 +56,20 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - power density
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/humain_experimental
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2001
 ---
 

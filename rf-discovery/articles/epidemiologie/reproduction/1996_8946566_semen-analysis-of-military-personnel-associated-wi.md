@@ -7,7 +7,7 @@ titre: Semen analysis of military personnel associated with military duty assign
 url: https://pubmed.ncbi.nlm.nih.gov/8946566/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cross-Sectional Studies
@@ -50,11 +50,17 @@ theme_indices:
 - sperm
 - spermatozoa
 - fertility
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/reproduction
+- bande/rf
 - annee/1996
 ---
 

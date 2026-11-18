@@ -8,7 +8,7 @@ titre: Mobile phone signal exposure triggers a hormesis-like effect in Atm+/+ an
 url: https://pubmed.ncbi.nlm.nih.gov/27857169/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Ataxia Telangiectasia Mutated Proteins
@@ -53,12 +53,20 @@ theme_secondaires: []
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - modele/epidemiologie
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2016
 ---
 

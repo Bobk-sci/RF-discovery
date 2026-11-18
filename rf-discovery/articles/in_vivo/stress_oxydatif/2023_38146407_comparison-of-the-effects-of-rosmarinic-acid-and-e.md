@@ -8,7 +8,7 @@ titre: Comparison of the Effects of Rosmarinic Acid and Electromagnetic Radiatio
 url: https://pubmed.ncbi.nlm.nih.gov/38146407/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -47,10 +47,16 @@ theme_indices:
 - glutathione
 - antioxidant
 - nitric oxide
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
+- bande/rf
 - annee/2023
 ---
 

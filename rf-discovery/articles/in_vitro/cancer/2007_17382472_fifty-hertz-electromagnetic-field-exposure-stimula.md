@@ -8,7 +8,7 @@ titre: Fifty Hertz electromagnetic field exposure stimulates secretion of beta-a
 url: https://pubmed.ncbi.nlm.nih.gov/17382472/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Alzheimer Disease
 - Amyloid beta-Peptides
@@ -52,11 +52,17 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - glioma
+bande: bf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- 50 Hz
 tags:
 - rf
 - modele/in_vitro
 - modele/epidemiologie
 - theme/cancer
+- bande/bf
 - annee/2007
 ---
 

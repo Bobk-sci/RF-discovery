@@ -8,7 +8,7 @@ titre: Comparison of personal exposure to Radiofrequency Electromagnetic Fields 
 url: https://pubmed.ncbi.nlm.nih.gov/36368387/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Universities
@@ -42,10 +42,18 @@ theme_secondaires: []
 theme_indices:
 - ICNIRP
 - compliance
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2023
 ---
 

@@ -8,7 +8,7 @@ titre: Characterization of biological effect of 1763 MHz radiofrequency exposure
 url: https://pubmed.ncbi.nlm.nih.gov/19016139/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Biomarkers
@@ -53,6 +53,14 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - gene expression
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
@@ -60,6 +68,7 @@ tags:
 - modele/dosimetrie_modelisation
 - theme/genotoxicite_epigenetique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

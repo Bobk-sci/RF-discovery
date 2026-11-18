@@ -8,7 +8,7 @@ titre: Epidemiological studies of human exposures to radiofrequency radiation. A
 url: https://pubmed.ncbi.nlm.nih.gov/3905624/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Abnormalities, Radiation-Induced
 - Cardiovascular System
@@ -47,11 +47,17 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/epidemiologie
 - theme/neurodeveloppement
+- bande/rf
 - annee/1985
 ---
 

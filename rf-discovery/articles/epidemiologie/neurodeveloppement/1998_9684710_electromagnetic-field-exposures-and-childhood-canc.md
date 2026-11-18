@@ -7,7 +7,7 @@ titre: Electromagnetic field exposures and childhood cancers in New Zealand.
 url: https://pubmed.ncbi.nlm.nih.gov/9684710/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Brain Neoplasms
@@ -56,11 +56,16 @@ theme_secondaires:
 theme_indices:
 - child
 - adolescent
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - theme/neurodeveloppement
 - theme/cancer
+- bande/rf
 - annee/1998
 ---
 

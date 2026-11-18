@@ -9,7 +9,7 @@ titre: The effect of Wi-Fi electromagnetic waves in unimodal and multimodal obje
 url: https://pubmed.ncbi.nlm.nih.gov/28332042/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Discrimination, Psychological
@@ -61,11 +61,18 @@ theme_secondaires:
 - plasticite_synaptique
 theme_indices:
 - memory
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2017
 ---
 

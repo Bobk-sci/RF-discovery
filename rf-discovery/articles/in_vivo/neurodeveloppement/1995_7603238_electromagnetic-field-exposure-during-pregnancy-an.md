@@ -7,7 +7,7 @@ titre: Electromagnetic field exposure during pregnancy and childhood leukaemia.
 url: https://pubmed.ncbi.nlm.nih.gov/7603238/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Child
@@ -44,10 +44,15 @@ theme_indices:
 - pregnancy
 - child
 - adolescent
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vivo
 - theme/neurodeveloppement
+- bande/rf
 - annee/1995
 ---
 

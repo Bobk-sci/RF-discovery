@@ -8,7 +8,7 @@ titre: 1950 MHz radiofrequency electromagnetic fields do not aggravate memory 
 url: https://pubmed.ncbi.nlm.nih.gov/27434853/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Amyloid beta-Protein Precursor
 - Animals
@@ -59,11 +59,18 @@ theme_secondaires: []
 theme_indices:
 - memory
 - locomotor activity
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2016
 ---
 

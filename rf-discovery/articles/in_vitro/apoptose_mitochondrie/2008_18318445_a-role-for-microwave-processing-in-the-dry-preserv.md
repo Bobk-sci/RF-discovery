@@ -7,7 +7,7 @@ titre: A role for microwave processing in the dry preservation of mammalian cell
 url: https://pubmed.ncbi.nlm.nih.gov/18318445/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -47,12 +47,18 @@ theme_secondaires:
 - thermique
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/apoptose_mitochondrie
 - theme/thermique
+- bande/rf
 - annee/2008
 ---
 

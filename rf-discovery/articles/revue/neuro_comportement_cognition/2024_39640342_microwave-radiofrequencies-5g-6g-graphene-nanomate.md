@@ -8,7 +8,7 @@ titre: 'Microwave radiofrequencies, 5G, 6G, graphene nanomaterials: Technologies
 url: https://pubmed.ncbi.nlm.nih.gov/39640342/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -40,12 +40,19 @@ theme_secondaires:
 - thermique
 theme_indices:
 - cognitive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- microwave
+- 5G
 tags:
 - rf
 - modele/revue
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2024
 ---
 

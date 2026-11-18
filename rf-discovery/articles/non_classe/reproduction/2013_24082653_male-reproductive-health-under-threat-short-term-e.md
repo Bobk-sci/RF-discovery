@@ -8,7 +8,7 @@ titre: 'Male reproductive health under threat: Short term exposure to radiofrequ
 url: https://pubmed.ncbi.nlm.nih.gov/24082653/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -42,11 +42,18 @@ theme_indices:
 - sperm
 - reproductive
 - semen quality
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
 tags:
 - rf
 - modele/non_classe
 - theme/reproduction
 - theme/neurodeveloppement
+- bande/rf
 - annee/2013
 ---
 

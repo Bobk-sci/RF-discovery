@@ -8,7 +8,7 @@ titre: Specific absorption rate and electric field measurements in the near fiel
 url: https://pubmed.ncbi.nlm.nih.gov/19194889/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -48,11 +48,19 @@ theme_indices:
 - ICNIRP
 - compliance
 - base station
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/in_vivo
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2009
 ---
 

@@ -7,7 +7,7 @@ titre: Effects of electromagnetic fields exposure on the antioxidant defense sys
 url: https://pubmed.ncbi.nlm.nih.gov/30023251/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -48,12 +48,18 @@ theme_indices:
 - glutathione
 - antioxidant
 - redox
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - theme/stress_oxydatif
 - theme/eeg_sommeil
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2017
 ---
 

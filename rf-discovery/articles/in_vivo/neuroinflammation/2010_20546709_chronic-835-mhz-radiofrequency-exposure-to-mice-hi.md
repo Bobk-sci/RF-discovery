@@ -8,7 +8,7 @@ titre: Chronic 835-MHz radiofrequency exposure to mice hippocampus alters the di
 url: https://pubmed.ncbi.nlm.nih.gov/20546709/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -65,6 +65,14 @@ theme_secondaires:
 theme_indices:
 - glial
 - GFAP
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -74,6 +82,7 @@ tags:
 - theme/apoptose_mitochondrie
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2010
 ---
 

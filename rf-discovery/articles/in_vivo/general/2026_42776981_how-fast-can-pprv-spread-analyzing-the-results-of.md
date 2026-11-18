@@ -8,7 +8,7 @@ titre: How fast can PPRV spread? Analyzing the results of an experimental PPRV i
 url: https://pubmed.ncbi.nlm.nih.gov/42776981/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Goats
@@ -50,10 +50,15 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2026
 ---
 

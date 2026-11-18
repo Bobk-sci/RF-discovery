@@ -8,7 +8,7 @@ titre: 'Non-ionizing radiation and cancer: A review on current evidence, mechani
 url: https://pubmed.ncbi.nlm.nih.gov/42437082/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -48,6 +48,13 @@ theme_indices:
 - carcinogenesis
 - tumor
 - leukemia
+bande: rf
+bande_score: 3.0
+bande_secondaires:
+- bf
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/revue
@@ -56,6 +63,8 @@ tags:
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
 - theme/thermique
+- bande/rf
+- bande/bf
 - annee/2026
 ---
 

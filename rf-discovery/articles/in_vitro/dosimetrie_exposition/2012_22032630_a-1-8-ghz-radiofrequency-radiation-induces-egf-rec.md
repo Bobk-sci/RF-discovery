@@ -8,7 +8,7 @@ titre: A 1.8-GHz radiofrequency radiation induces EGF receptor clustering and ph
 url: https://pubmed.ncbi.nlm.nih.gov/22032630/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Amniotic Fluid
 - Cell Membrane
@@ -46,11 +46,18 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

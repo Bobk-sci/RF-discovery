@@ -8,7 +8,7 @@ titre: Effects of GSM-modulated 900 MHz radiofrequency electromagnetic fields on
 url: https://pubmed.ncbi.nlm.nih.gov/25256206/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Bone Marrow Cells
@@ -57,11 +57,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/general
+- bande/rf
 - annee/2014
 ---
 

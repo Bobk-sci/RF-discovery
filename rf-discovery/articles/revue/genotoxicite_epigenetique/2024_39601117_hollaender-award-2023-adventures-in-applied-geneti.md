@@ -7,7 +7,7 @@ titre: 'Hollaender award 2023: Adventures in applied genetic toxicology.'
 url: https://pubmed.ncbi.nlm.nih.gov/39601117/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Awards and Prizes
 - Humans
@@ -47,11 +47,16 @@ theme_secondaires:
 theme_indices:
 - DNA damage
 - genotoxicity
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/revue
 - theme/genotoxicite_epigenetique
 - theme/cancer
+- bande/rf
 - annee/2024
 ---
 

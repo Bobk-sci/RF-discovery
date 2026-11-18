@@ -8,7 +8,7 @@ titre: 'Mobile phone use, exposure to radiofrequency electromagnetic field, and 
 url: https://pubmed.ncbi.nlm.nih.gov/18256587/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Aged
@@ -59,12 +59,20 @@ theme_indices:
 - tumour
 - glioma
 - meningioma
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/cancer
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2008
 ---
 

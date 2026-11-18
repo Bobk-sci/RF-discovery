@@ -8,7 +8,7 @@ titre: Long-Term Evolution Electromagnetic Fields Exposure Modulates the Resting
 url: https://pubmed.ncbi.nlm.nih.gov/27118764/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Alpha Rhythm
@@ -53,11 +53,18 @@ theme_secondaires:
 theme_indices:
 - EEG
 - electroencephalogram
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/eeg_sommeil
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2017
 ---
 

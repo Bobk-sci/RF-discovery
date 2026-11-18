@@ -8,7 +8,7 @@ titre: Compact dual band crossover for 5G low and mid band applications using a 
 url: https://pubmed.ncbi.nlm.nih.gov/40419691/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -35,10 +35,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

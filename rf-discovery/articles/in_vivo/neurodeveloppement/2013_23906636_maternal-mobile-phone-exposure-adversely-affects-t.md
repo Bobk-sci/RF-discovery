@@ -8,7 +8,7 @@ titre: Maternal mobile phone exposure adversely affects the electrophysiological
 url: https://pubmed.ncbi.nlm.nih.gov/23906636/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Behavior, Animal
@@ -72,6 +72,11 @@ theme_secondaires:
 theme_indices:
 - prenatal
 - pregnancy
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -79,6 +84,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
 - theme/calcium_canaux_ioniques
+- bande/rf
 - annee/2013
 ---
 

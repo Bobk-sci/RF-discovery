@@ -8,7 +8,7 @@ titre: Behavior and memory evaluation of Wistar rats exposed to 1·8 GHz radiofr
 url: https://pubmed.ncbi.nlm.nih.gov/24620965/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Anxiety
@@ -56,10 +56,18 @@ theme_indices:
 - memory
 - anxiety
 - behavior
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2014
 ---
 

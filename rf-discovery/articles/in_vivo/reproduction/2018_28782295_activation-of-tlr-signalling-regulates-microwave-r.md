@@ -8,7 +8,7 @@ titre: Activation of TLR signalling regulates microwave radiation-mediated impai
 url: https://pubmed.ncbi.nlm.nih.gov/28782295/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cytokines
@@ -61,12 +61,18 @@ theme_secondaires:
 - neuroinflammation
 theme_indices:
 - testis
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - modele/in_vitro
 - theme/reproduction
 - theme/neuroinflammation
+- bande/rf
 - annee/2018
 ---
 

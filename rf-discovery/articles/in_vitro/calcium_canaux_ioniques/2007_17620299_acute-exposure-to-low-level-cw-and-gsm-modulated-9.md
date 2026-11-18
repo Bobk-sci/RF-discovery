@@ -9,7 +9,7 @@ titre: Acute exposure to low-level CW and GSM-modulated 900 MHz radiofrequency d
 url: https://pubmed.ncbi.nlm.nih.gov/17620299/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Barium
@@ -57,12 +57,19 @@ theme_indices:
 - VGCC
 - ion channel
 - patch clamp
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/in_vivo
 - theme/calcium_canaux_ioniques
 - theme/thermique
+- bande/rf
 - annee/2007
 ---
 

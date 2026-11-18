@@ -8,7 +8,7 @@ titre: 'Effect of Radiation Emitted by Wireless Devices on Male Reproductive Hor
 url: https://pubmed.ncbi.nlm.nih.gov/34630149/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Systematic Review
@@ -48,6 +48,13 @@ theme_indices:
 - sperm
 - testicular
 - reproductive
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -56,6 +63,7 @@ tags:
 - theme/reproduction
 - theme/apoptose_mitochondrie
 - theme/stress_oxydatif
+- bande/rf
 - annee/2021
 ---
 

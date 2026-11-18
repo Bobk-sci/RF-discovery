@@ -7,7 +7,7 @@ titre: A Multi-Frequency 3D Printed Hand Phantom for Electromagnetic Measurement
 url: https://pubmed.ncbi.nlm.nih.gov/36699954/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -41,10 +41,17 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - compliance
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

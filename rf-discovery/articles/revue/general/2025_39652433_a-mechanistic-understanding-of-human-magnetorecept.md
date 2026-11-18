@@ -8,7 +8,7 @@ titre: A mechanistic understanding of human magnetoreception validates the pheno
 url: https://pubmed.ncbi.nlm.nih.gov/39652433/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -45,6 +45,13 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.0
+bande_secondaires:
+- bf
+bande_indices:
+- radio frequency
+- microwave
 tags:
 - rf
 - modele/revue
@@ -52,6 +59,8 @@ tags:
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
+- bande/bf
 - annee/2025
 ---
 

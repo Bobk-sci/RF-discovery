@@ -9,7 +9,7 @@ titre: Theaflavin-3,3'-digallate prevents radiofrequency radiation-induced learn
 url: https://pubmed.ncbi.nlm.nih.gov/40827634/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Hippocampus
 - Animals
@@ -51,12 +51,19 @@ theme_indices:
 - memory
 - learning and memory
 - neurobehavioral
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/stress_oxydatif
 - theme/plasticite_synaptique
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Electromagnetic Field Stimulation Effects on Intrinsically Disordered Pro
 url: https://pubmed.ncbi.nlm.nih.gov/41221473/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -42,11 +42,17 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - autophagy
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

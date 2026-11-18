@@ -7,7 +7,7 @@ titre: A Dual-Polarized and Broadband Multiple-Antenna System for 5G Cellular Co
 url: https://pubmed.ncbi.nlm.nih.gov/40006261/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -40,11 +40,20 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - specific absorption rate
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- specific absorption rate
+- 5G
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

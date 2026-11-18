@@ -8,7 +8,7 @@ titre: Influence of Carbon Nanotube Addition on Microstructure and Microwave Hea
 url: https://pubmed.ncbi.nlm.nih.gov/40271596/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -36,10 +36,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - heating
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- GHz
 tags:
 - rf
 - modele/non_classe
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

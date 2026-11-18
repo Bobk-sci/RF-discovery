@@ -8,7 +8,7 @@ titre: A pocket-integrated miniature, dual-band, and high gain textile MIMO ante
 url: https://pubmed.ncbi.nlm.nih.gov/39934238/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -38,11 +38,21 @@ theme_secondaires: []
 theme_indices:
 - specific absorption rate
 - ICNIRP
+bande: rf
+bande_score: 6.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- GHz
+- specific absorption rate
+- Wi-Fi
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

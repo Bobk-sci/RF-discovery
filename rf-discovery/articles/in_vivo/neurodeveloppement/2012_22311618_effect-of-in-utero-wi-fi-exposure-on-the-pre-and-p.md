@@ -8,7 +8,7 @@ titre: Effect of in utero wi-fi exposure on the pre- and postnatal development o
 url: https://pubmed.ncbi.nlm.nih.gov/22311618/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Animals, Newborn
@@ -64,6 +64,14 @@ theme_indices:
 - prenatal
 - in utero
 - pregnancy
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -71,6 +79,7 @@ tags:
 - theme/neurodeveloppement
 - theme/neuro_comportement_cognition
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2012
 ---
 

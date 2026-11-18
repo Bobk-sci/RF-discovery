@@ -9,7 +9,7 @@ titre: An Exploration of the Effects of Radiofrequency Radiation Emitted by Mobi
 url: https://pubmed.ncbi.nlm.nih.gov/34567874/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - review-article
@@ -52,11 +52,19 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: bf
+bande_score: 1000.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/genotoxicite_epigenetique
+- bande/bf
+- bande/rf
 - annee/2021
 ---
 

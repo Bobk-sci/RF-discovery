@@ -8,7 +8,7 @@ titre: A cross-sectional study on sleep length, quality, and mobile phone use am
 url: https://pubmed.ncbi.nlm.nih.gov/35734328/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adolescent
 - Cell Phone
@@ -48,11 +48,17 @@ theme_secondaires:
 - neurodeveloppement
 theme_indices:
 - sleep
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/eeg_sommeil
 - theme/neurodeveloppement
+- bande/rf
 - annee/2022
 ---
 

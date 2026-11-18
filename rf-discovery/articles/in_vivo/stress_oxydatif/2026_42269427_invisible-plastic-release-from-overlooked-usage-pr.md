@@ -8,7 +8,7 @@ titre: Invisible plastic release from overlooked usage practices in microwaved f
 url: https://pubmed.ncbi.nlm.nih.gov/42269427/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Food Packaging
 - Animals
@@ -51,11 +51,17 @@ theme_secondaires:
 - thermique
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

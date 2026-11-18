@@ -8,7 +8,7 @@ titre: Gender Differentiation Based Mobile Terminal Electromagnetic Exposure Saf
 url: https://pubmed.ncbi.nlm.nih.gov/42183756/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Safety
@@ -51,12 +51,19 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - reproductive
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- specific absorption rate
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - modele/ingenierie_materiel
 - theme/reproduction
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2026
 ---
 

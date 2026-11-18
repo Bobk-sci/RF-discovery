@@ -9,7 +9,7 @@ titre: A Novel Method for Achieving Precision and Reproducibility in a 1.8 GHz R
 url: https://pubmed.ncbi.nlm.nih.gov/40150722/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - brief-report
@@ -58,6 +58,12 @@ theme_indices:
 - oxidative stress
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
 tags:
 - rf
 - modele/in_vitro
@@ -67,6 +73,7 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/reproduction
 - theme/thermique
+- bande/rf
 - annee/2025
 ---
 

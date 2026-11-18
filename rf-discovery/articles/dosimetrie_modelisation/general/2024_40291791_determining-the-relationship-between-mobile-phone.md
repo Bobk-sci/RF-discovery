@@ -9,7 +9,7 @@ titre: 'Determining the relationship between mobile phone network signal strengt
 url: https://pubmed.ncbi.nlm.nih.gov/40291791/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - other
@@ -46,10 +46,17 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- mobile phone
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/general
+- bande/rf
 - annee/2024
 ---
 

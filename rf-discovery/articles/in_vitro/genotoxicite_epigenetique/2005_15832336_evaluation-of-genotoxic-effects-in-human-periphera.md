@@ -8,7 +8,7 @@ titre: Evaluation of genotoxic effects in human peripheral blood leukocytes foll
 url: https://pubmed.ncbi.nlm.nih.gov/15832336/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Cells, Cultured
@@ -57,12 +57,19 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - modele/humain_experimental
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2005
 ---
 

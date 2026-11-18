@@ -8,7 +8,7 @@ titre: 'Searching for the perfect wave: the effect of radiofrequency electromagn
 url: https://pubmed.ncbi.nlm.nih.gov/24681584/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood-Brain Barrier
@@ -55,6 +55,12 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/revue
@@ -64,6 +70,7 @@ tags:
 - theme/barriere_hemato_encephalique
 - theme/stress_oxydatif
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2014
 ---
 

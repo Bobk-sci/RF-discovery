@@ -7,7 +7,7 @@ titre: Genetic effects of non-ionizing electromagnetic fields.
 url: https://pubmed.ncbi.nlm.nih.gov/33539186/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Apoptosis
@@ -46,6 +46,13 @@ theme_indices:
 - DNA damage
 - genotoxicity
 - gene expression
+bande: bf
+bande_score: 1001.0
+bande_secondaires:
+- rf
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/revue
@@ -53,6 +60,8 @@ tags:
 - theme/genotoxicite_epigenetique
 - theme/apoptose_mitochondrie
 - theme/eeg_sommeil
+- bande/bf
+- bande/rf
 - annee/2021
 ---
 

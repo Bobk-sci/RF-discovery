@@ -9,7 +9,7 @@ titre: Immunohistochemical localization of brain-derived neurotrophic factor and
 url: https://pubmed.ncbi.nlm.nih.gov/24548626/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Acoustic Stimulation
 - Animals
@@ -50,6 +50,13 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - glial
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
@@ -57,6 +64,7 @@ tags:
 - theme/neuroinflammation
 - theme/plasticite_synaptique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2014
 ---
 

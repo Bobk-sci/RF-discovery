@@ -8,7 +8,7 @@ titre: MEASUREMENT AND EVALUATION OF ELECTRIC FIELD STRENGTH LEVELS IN PRIMARY A
 url: https://pubmed.ncbi.nlm.nih.gov/29237074/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -42,10 +42,16 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - compliance
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2018
 ---
 

@@ -7,7 +7,7 @@ titre: Consumer Ratings of the Most Desirable Hearing Aid Attributes.
 url: https://pubmed.ncbi.nlm.nih.gov/34965600/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cross-Sectional Studies
 - Hearing Aids
@@ -37,10 +37,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 1.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/epidemiologie
 - theme/general
+- bande/rf
 - annee/2021
 ---
 

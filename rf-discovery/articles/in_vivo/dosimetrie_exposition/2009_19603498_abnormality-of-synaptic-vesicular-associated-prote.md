@@ -8,7 +8,7 @@ titre: Abnormality of synaptic vesicular associated proteins in cerebral cortex 
 url: https://pubmed.ncbi.nlm.nih.gov/19603498/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blotting, Western
@@ -59,12 +59,19 @@ theme_secondaires:
 theme_indices:
 - specific absorption rate
 - power density
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- microwave
+- specific absorption rate
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2009
 ---
 

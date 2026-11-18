@@ -8,7 +8,7 @@ titre: A mechanistically approached review upon assorted cell lines stimulated b
 url: https://pubmed.ncbi.nlm.nih.gov/37144743/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Line
 - Signal Transduction
@@ -50,6 +50,10 @@ theme_secondaires:
 theme_indices:
 - non-thermal
 - athermal
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/in_vitro
@@ -59,6 +63,7 @@ tags:
 - theme/neuro_comportement_cognition
 - theme/plasticite_synaptique
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2023
 ---
 

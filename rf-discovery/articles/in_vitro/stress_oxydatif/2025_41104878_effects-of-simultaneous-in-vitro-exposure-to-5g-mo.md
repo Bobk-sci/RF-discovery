@@ -9,7 +9,7 @@ titre: Effects of Simultaneous In-Vitro Exposure to 5G-Modulated 3.5 GHz and G
 url: https://pubmed.ncbi.nlm.nih.gov/41104878/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Nerve Net
 - Neurons
@@ -62,12 +62,21 @@ theme_secondaires:
 theme_indices:
 - reactive oxygen species
 - ROS
+bande: rf
+bande_score: 9.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
+- GHz
+- 5G
 tags:
 - rf
 - modele/in_vitro
 - modele/dosimetrie_modelisation
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2025
 ---
 

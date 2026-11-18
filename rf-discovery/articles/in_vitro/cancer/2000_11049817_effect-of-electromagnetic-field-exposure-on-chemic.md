@@ -8,7 +8,7 @@ titre: Effect of electromagnetic field exposure on chemically induced differenti
 url: https://pubmed.ncbi.nlm.nih.gov/11049817/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Differentiation
 - Cell Division
@@ -50,10 +50,17 @@ theme_secondaires: []
 theme_indices:
 - tumor
 - leukemia
+bande: bf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- ELF-EMF
+- 60 Hz
 tags:
 - rf
 - modele/in_vitro
 - theme/cancer
+- bande/bf
 - annee/2000
 ---
 

@@ -8,7 +8,7 @@ titre: Microwave radiation injuries microvasculature through inducing endoplasmi
 url: https://pubmed.ncbi.nlm.nih.gov/24635541/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -43,10 +43,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - apoptosis
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/in_vivo
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2014
 ---
 

@@ -8,7 +8,7 @@ titre: Mobile phone radiofrequency exposure has no effect on DNA double strand b
 url: https://pubmed.ncbi.nlm.nih.gov/28758098/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Journal Article
@@ -47,12 +47,20 @@ theme_score: 2.0
 theme_secondaires: []
 theme_indices:
 - DNA damage
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- mobile phone
 tags:
 - rf
 - modele/in_vitro
 - modele/humain_experimental
 - modele/epidemiologie
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2017
 ---
 

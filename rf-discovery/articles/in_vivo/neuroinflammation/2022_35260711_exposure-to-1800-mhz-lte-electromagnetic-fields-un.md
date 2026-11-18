@@ -9,7 +9,7 @@ titre: Exposure to 1800 MHz LTE electromagnetic fields under proinflammatory co
 url: https://pubmed.ncbi.nlm.nih.gov/35260711/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Auditory Cortex
 - Neurons
@@ -49,12 +49,20 @@ theme_secondaires:
 theme_indices:
 - neuroinflammation
 - microglia
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- MHz
+- specific absorption rate
+- mobile phone
 tags:
 - rf
 - modele/in_vivo
 - modele/dosimetrie_modelisation
 - theme/neuroinflammation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2022
 ---
 

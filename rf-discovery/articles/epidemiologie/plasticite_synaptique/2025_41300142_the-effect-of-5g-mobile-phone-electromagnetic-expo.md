@@ -8,7 +8,7 @@ titre: 'The Effect of 5G Mobile Phone Electromagnetic Exposure on Corticospinal 
 url: https://pubmed.ncbi.nlm.nih.gov/41300142/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -41,12 +41,20 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - excitability
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- GHz
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/epidemiologie
 - modele/dosimetrie_modelisation
 - theme/plasticite_synaptique
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

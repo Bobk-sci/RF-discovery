@@ -8,7 +8,7 @@ titre: 'Determining the Impact of Nonionizing Electromagnetic Waves on Human Pre
 url: https://pubmed.ncbi.nlm.nih.gov/41911438/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Pregnancy
@@ -58,10 +58,16 @@ theme_secondaires: []
 theme_indices:
 - pregnancy
 - fetal
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/revue
 - theme/neurodeveloppement
+- bande/rf
 - annee/2026
 ---
 

@@ -7,7 +7,7 @@ titre: Electric fields for warming cryopreserved tissue.
 url: https://pubmed.ncbi.nlm.nih.gov/41932003/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Humans
@@ -44,12 +44,21 @@ theme_secondaires:
 - thermique
 theme_indices:
 - behavior
+bande: rf
+bande_score: 5.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- microwave
+- MHz
+- GHz
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/neuro_comportement_cognition
 - theme/thermique
+- bande/rf
 - annee/2026
 ---
 

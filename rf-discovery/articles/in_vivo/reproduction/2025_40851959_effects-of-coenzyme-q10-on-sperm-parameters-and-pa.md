@@ -8,7 +8,7 @@ titre: Effects of coenzyme Q10 on sperm parameters and pathological changes indu
 url: https://pubmed.ncbi.nlm.nih.gov/40851959/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - research-article
@@ -44,10 +44,17 @@ theme_indices:
 - sperm
 - testis
 - testicular
+bande: rf
+bande_score: 3.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
 - theme/reproduction
+- bande/rf
 - annee/2025
 ---
 

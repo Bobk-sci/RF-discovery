@@ -8,7 +8,7 @@ titre: In vitro non-thermal oxidative stress response after 1800 MHz radiofreque
 url: https://pubmed.ncbi.nlm.nih.gov/28836500/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Line
@@ -59,6 +59,13 @@ theme_indices:
 - malondialdehyde
 - glutathione
 - antioxidant
+bande: rf
+bande_score: 6.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
+- specific absorption rate
 tags:
 - rf
 - modele/in_vitro
@@ -68,6 +75,7 @@ tags:
 - theme/thermique
 - theme/dosimetrie_exposition
 - theme/apoptose_mitochondrie
+- bande/rf
 - annee/2017
 ---
 

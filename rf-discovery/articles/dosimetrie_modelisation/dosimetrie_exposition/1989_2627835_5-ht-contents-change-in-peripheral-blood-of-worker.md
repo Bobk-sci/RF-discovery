@@ -8,7 +8,7 @@ titre: '[5-HT contents change in peripheral blood of workers exposed to microwav
 url: https://pubmed.ncbi.nlm.nih.gov/2627835/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Bradycardia
@@ -40,10 +40,16 @@ theme_score: 1.0
 theme_secondaires: []
 theme_indices:
 - power density
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- microwave
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/1989
 ---
 

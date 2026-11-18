@@ -8,7 +8,7 @@ titre: Prospective long-term follow-up of patients with idiopathic environmental
 url: https://pubmed.ncbi.nlm.nih.gov/40897052/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Multiple Chemical Sensitivity
@@ -49,11 +49,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 0.0
+bande_secondaires: []
+bande_indices: []
 tags:
 - rf
 - modele/epidemiologie
 - modele/humain_experimental
 - theme/general
+- bande/rf
 - annee/2025
 ---
 

@@ -8,7 +8,7 @@ titre: Alleviation of Inflammatory Conditions Caused by Extremely Low-Frequency 
 url: https://pubmed.ncbi.nlm.nih.gov/41321590/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Panax
@@ -59,6 +59,12 @@ theme_secondaires:
 - cancer
 theme_indices:
 - nitric oxide
+bande: bf
+bande_score: 1002.0
+bande_secondaires: []
+bande_indices:
+- extremely low frequency (descripteur décisif)
+- ELF-EMF
 tags:
 - rf
 - modele/in_vivo
@@ -66,6 +72,7 @@ tags:
 - theme/neuroinflammation
 - theme/apoptose_mitochondrie
 - theme/cancer
+- bande/bf
 - annee/2025
 ---
 

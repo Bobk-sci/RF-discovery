@@ -8,7 +8,7 @@ titre: Hepatic injury induced by radio frequency waves emitted from conventional
 url: https://pubmed.ncbi.nlm.nih.gov/32762465/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Liver
 - Animals
@@ -52,6 +52,14 @@ theme_secondaires:
 - dosimetrie_exposition
 theme_indices:
 - oxidative stress
+bande: rf
+bande_score: 7.0
+bande_secondaires: []
+bande_indices:
+- radio frequency
+- GHz
+- specific absorption rate
+- Wi-Fi
 tags:
 - rf
 - modele/in_vivo
@@ -59,6 +67,7 @@ tags:
 - theme/stress_oxydatif
 - theme/apoptose_mitochondrie
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2021
 ---
 

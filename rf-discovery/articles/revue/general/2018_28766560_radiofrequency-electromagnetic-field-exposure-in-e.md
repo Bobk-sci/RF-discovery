@@ -8,7 +8,7 @@ titre: 'Radiofrequency electromagnetic field exposure in everyday microenvironme
 url: https://pubmed.ncbi.nlm.nih.gov/28766560/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Cell Phone
 - Electromagnetic Fields
@@ -55,12 +55,18 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/revue
 - modele/dosimetrie_modelisation
 - modele/humain_experimental
 - theme/general
+- bande/rf
 - annee/2018
 ---
 

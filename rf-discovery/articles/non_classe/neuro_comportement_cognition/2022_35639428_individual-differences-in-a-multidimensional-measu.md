@@ -8,7 +8,7 @@ titre: Individual Differences in a Multidimensional Measure of Compulsive Mobile
 url: https://pubmed.ncbi.nlm.nih.gov/35639428/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Adult
 - Cell Phone
@@ -43,10 +43,16 @@ theme_secondaires: []
 theme_indices:
 - cognitive
 - behavior
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- mobile phone
 tags:
 - rf
 - modele/non_classe
 - theme/neuro_comportement_cognition
+- bande/rf
 - annee/2022
 ---
 

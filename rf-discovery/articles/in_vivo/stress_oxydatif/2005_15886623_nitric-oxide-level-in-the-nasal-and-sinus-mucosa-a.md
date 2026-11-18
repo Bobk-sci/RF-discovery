@@ -9,7 +9,7 @@ titre: Nitric oxide level in the nasal and sinus mucosa after exposure to electr
 url: https://pubmed.ncbi.nlm.nih.gov/15886623/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Cell Phone
@@ -47,11 +47,18 @@ theme_secondaires:
 - eeg_sommeil
 theme_indices:
 - nitric oxide
+bande: rf
+bande_score: 2.0
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- MHz
 tags:
 - rf
 - modele/in_vivo
 - theme/stress_oxydatif
 - theme/eeg_sommeil
+- bande/rf
 - annee/2005
 ---
 

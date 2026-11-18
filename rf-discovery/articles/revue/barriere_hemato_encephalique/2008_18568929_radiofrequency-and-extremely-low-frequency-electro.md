@@ -8,7 +8,7 @@ titre: Radiofrequency and extremely low-frequency electromagnetic field effects 
 url: https://pubmed.ncbi.nlm.nih.gov/18568929/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Animals
 - Blood-Brain Barrier
@@ -48,12 +48,22 @@ theme_secondaires:
 theme_indices:
 - blood-brain barrier
 - blood brain barrier
+bande: mixte
+bande_score: 1000.0
+bande_secondaires:
+- bf
+- rf
+bande_indices:
+- radiofrequency and extremely low frequency (descripteur décisif)
 tags:
 - rf
 - modele/revue
 - modele/in_vivo
 - theme/barriere_hemato_encephalique
 - theme/neuro_comportement_cognition
+- bande/mixte
+- bande/bf
+- bande/rf
 - annee/2008
 ---
 

@@ -8,7 +8,7 @@ titre: 'Comprehensive radiofrequency electromagnetic field measurements and asse
 url: https://pubmed.ncbi.nlm.nih.gov/32382839/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Electromagnetic Fields
 - Environmental Exposure
@@ -43,10 +43,17 @@ theme_indices:
 - electric field strength
 - ICNIRP
 - base station
+bande: rf
+bande_score: 4.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- radio frequency
 tags:
 - rf
 - modele/dosimetrie_modelisation
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2020
 ---
 

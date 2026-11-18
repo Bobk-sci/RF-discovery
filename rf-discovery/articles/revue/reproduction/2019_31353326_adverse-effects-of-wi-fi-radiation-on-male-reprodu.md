@@ -8,7 +8,7 @@ titre: 'Adverse Effects of Wi-Fi Radiation on Male Reproductive System: A System
 url: https://pubmed.ncbi.nlm.nih.gov/31353326/
 source: europepmc
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Genitalia, Male
 - Animals
@@ -54,6 +54,13 @@ theme_indices:
 - testis
 - testicular
 - reproductive
+bande: rf
+bande_score: 5.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
+- GHz
+- Wi-Fi
 tags:
 - rf
 - modele/revue
@@ -61,6 +68,7 @@ tags:
 - theme/reproduction
 - theme/stress_oxydatif
 - theme/genotoxicite_epigenetique
+- bande/rf
 - annee/2019
 ---
 

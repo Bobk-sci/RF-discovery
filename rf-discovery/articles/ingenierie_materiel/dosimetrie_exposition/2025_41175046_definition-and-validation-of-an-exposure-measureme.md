@@ -8,7 +8,7 @@ titre: Definition and Validation of an Exposure Measurement Method for a Typical
 url: https://pubmed.ncbi.nlm.nih.gov/41175046/
 source: europepmc
 acces_ouvert: open
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh:
 - Humans
 - Reproducibility of Results
@@ -44,10 +44,17 @@ theme_score: 2.5
 theme_secondaires: []
 theme_indices:
 - base station
+bande: rf
+bande_score: 3.0
+bande_secondaires: []
+bande_indices:
+- mobile phone
+- 5G
 tags:
 - rf
 - modele/ingenierie_materiel
 - theme/dosimetrie_exposition
+- bande/rf
 - annee/2025
 ---
 

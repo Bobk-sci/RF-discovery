@@ -8,7 +8,7 @@ titre: Effects of exposure to 2100MHz GSM-like radiofrequency electromagnetic fi
 url: https://pubmed.ncbi.nlm.nih.gov/28228326/
 source: pubmed
 acces_ouvert: ''
-collecte: '2026-10-01'
+collecte: '2026-11-18'
 mesh: []
 types:
 - Letter
@@ -30,10 +30,16 @@ theme: general
 theme_score: 0.0
 theme_secondaires: []
 theme_indices: []
+bande: rf
+bande_score: 2.5
+bande_secondaires: []
+bande_indices:
+- radiofrequency
 tags:
 - rf
 - modele/in_vivo
 - theme/general
+- bande/rf
 - annee/2017
 ---
 
