@@ -3,9 +3,18 @@ type: synthese
 question: "Exposition périnatale et postnatale précoce aux radiofréquences : effets comportementaux et structurels apparaissant à l'adolescence, différences selon le sexe, comparaison entre fréquences et entre décennies"
 date: 2026-09-21
 fiches_lues: 31
+bandes_verifiees: 2026-11-18
 ---
 
 # Exposition périnatale aux RF et effets apparaissant à l'adolescence
+
+> **Contrôle de bande, 18 novembre 2026.** Les PMID cités ont été repassés contre l'axe
+> `bande`. Deux ne sont pas des radiofréquences, et les deux étaient déjà traités comme
+> tels dans le texte : **29276976** (champs magnétiques à 7,5 kHz, `intermediaire`), que
+> j'avais écarté à la main comme hors sujet, et **34974237** (MOBI-Kids, `bf` avec `rf` en
+> bande secondaire), qui estime à la fois l'énergie RF et la densité de courant induite
+> ELF au siège de la tumeur — son classement en `bf` est discutable, son contenu reste
+> celui que la note rapporte. Aucun constat de cette synthèse n'agrège deux bandes.
 
 Question posée : quand l'exposition a lieu avant la naissance ou dans les premières
 semaines de vie, que voit-on plus tard, à l'adolescence ? Les effets diffèrent-ils selon

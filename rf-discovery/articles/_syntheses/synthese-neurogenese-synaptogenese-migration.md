@@ -5,6 +5,7 @@ date: 2026-10-01
 fiches_lues: 42
 revision: 2
 corpus: 2470
+bandes_verifiees: 2026-11-18
 ---
 
 # Radiofréquences et mécanismes du neurodéveloppement
@@ -14,6 +15,12 @@ corpus: 2470
 > les requêtes PubMed et Europe PMC ne ramenaient pas. Douze fiches mécanistiques nouvelles
 > ont été lues. **Trois conclusions de la première version changent** et sont signalées
 > comme telles.
+
+> **Contrôle de bande, 18 novembre 2026.** Les 38 PMID cités dans cette note ont été
+> repassés un par un contre l'axe `bande` : **tous sont `rf`**. Aucune étude en basses
+> fréquences, en fréquence intermédiaire ni à cheval sur deux bandes n'est entrée dans
+> les constats ci-dessous. Les mécanismes décrits relèvent donc bien d'une physique
+> d'absorption, pas d'induction — la distinction est expliquée au §11.
 
 Question posée : sur quels processus cellulaires les radiofréquences agiraient-elles ?
 Prolifération des progéniteurs, survie, différenciation, migration, croissance des
@@ -355,3 +362,30 @@ exposition prénatale. D'autres équipes, avec d'autres protocoles, ne retrouven
 à des SAR de l'ordre de 4 W/kg. Il n'est pas établi qu'elles modifient la construction du
 cerveau au niveau structurel, qu'elles surviennent aux niveaux d'exposition environnementaux,
 ni qu'elles concernent l'humain.
+
+
+---
+
+## 11. Pourquoi la bande de fréquence conditionne tout ce qui précède
+
+Rien de ce qui est écrit ci-dessus ne vaudrait pour un champ à 50 Hz, et c'est une
+différence de mécanisme, pas de degré.
+
+**Sous ~100 kHz**, le champ agit par **induction** : il crée des courants dans les tissus,
+et la membrane — qui se comporte alors en isolant — reçoit la tension à ses bornes. Elle
+peut donc être dépolarisée. C'est de l'électrostimulation réelle, la grandeur limitée est
+le champ induit en V/m, et les seuils admis vont de 50–100 mV/m (magnétophosphènes dans la
+rétine) à quelques V/m (nerf périphérique).
+
+**Au-dessus**, la membrane est **court-circuitée capacitivement** : le champ la traverse au
+lieu de s'appliquer dessus. À 900 MHz, la tension transmembranaire induite est négligeable
+et aucune excitation membranaire n'est physiquement possible. Le mécanisme dominant devient
+l'**absorption** — relaxation diélectrique de l'eau et des chaînes latérales — donc la
+chaleur, et la grandeur limitée devient le SAR en W/kg.
+
+Les deux dosimétries ne se convertissent pas l'une dans l'autre. Une synthèse qui
+agrégerait du 50 Hz et du 900 MHz mélangerait deux physiques sans que cela se voie à la
+lecture : c'est précisément ce que le contrôle en tête de note écarte.
+
+Sur les 2 557 fiches du corpus, 68 sont en basses fréquences, 11 en fréquence intermédiaire
+et 8 couvrent les deux bandes. Aucune n'est citée ici.
