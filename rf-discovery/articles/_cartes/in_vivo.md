@@ -1,6 +1,6 @@
 # in_vivo
 
-432 articles.
+434 articles.
 
 ## apoptose_mitochondrie (27)
 
@@ -77,7 +77,7 @@
 - `2012` [[2012_21996712_effects-of-electromagnetic-radiation-from-3g-mobil]] — Colak C et al.
 - `2004` [[2004_15941010_prevention-of-mobile-phone-induced-skin-tissue-cha]] — Ozguner F et al.
 
-## general (56)
+## general (57)
 
 - `2026` [[2026_41553929_effect-of-fat-thickness-on-subcutaneous-temperatur]] — Ye P et al.
 - `2026` [[2026_41786740_design-green-synthesis-and-bioevaluation-of-1-3-th]] — Alrayes AA et al.
@@ -87,6 +87,7 @@
 - `2026` [[2026_42197226_sustainable-valorization-of-grape-leaf-based-flavo]] — Habib N et al.
 - `2026` [[2026_42683518_an-energy-difference-indicator-for-improved-quanti]] — Li Y et al.
 - `2026` [[2026_42776981_how-fast-can-pprv-spread-analyzing-the-results-of]] — Nhili M et al.
+- `2026` [[2026_42834590_characterization-of-animal-tissues-for-monte-carlo]] — Xiaoli L, Moyers MF
 - `2026` [[2026_42938235_dynamic-xenon-enhanced-spectral-ct-imaging-to-eval]] — Verelst E et al.
 - `2026` [[2026_42980940_modulatory-effects-of-alpha-lipoic-acid-on-cardiac]] — Colcimen N et al.
 - `2026` [[2026_43033406_a-novel-image-domain-denoising-method-for-triple-m]] — Wu J et al.
@@ -449,10 +450,11 @@
 - `2004` [[2004_14734207_ginkgo-biloba-prevents-mobile-phone-induced-oxidat]] — Ilhan A et al.
 - `2004` [[2004_15729859_oxidative-stress-mediated-skin-damage-in-an-experi]] — Ayata A et al.
 
-## thermique (24)
+## thermique (25)
 
 - `2026` [[2026_41595249_two-stage-microwave-hyperthermia-using-magnetic-na]] — Schreiner OD et al.
 - `2026` [[2026_41689083_nonthermal-radiofrequency-radiation-promotes-hemat]] — Lv Z et al.
+- `2026` [[2026_41713735_an-antibacterial-microneedle-with-chemodynamic-the]] — Wang J et al.
 - `2026` [[2026_42406607_combined-radiofrequency-electromagnetic-and-pulsed]] — Elmas A et al.
 - `2026` [[2026_42477268_effect-of-microwave-power-cycle-on-temperature-uni]] — Karataş O et al.
 - `2026` [[2026_42567188_design-and-base-validation-of-a-small-animal-hyper]] — Kahlert B et al.

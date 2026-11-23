@@ -1,6 +1,6 @@
 # revue
 
-178 articles.
+180 articles.
 
 ## apoptose_mitochondrie (3)
 
@@ -163,10 +163,11 @@
 
 - `2025` [[2025_40363190_effects-of-mobile-electromagnetic-exposure-on-brai]] — Torkan A et al.
 
-## reproduction (26)
+## reproduction (27)
 
 - `2026` [[2026_41809810_environmental-and-microbiome-determinants-of-sperm]] — Qi Y et al.
 - `2026` [[2026_42898233_global-research-trends-on-rf-emr-and-reproductive]] — Gautam R et al.
+- `2026` [[2026_43037649_the-effects-of-electromagnetic-field-exposure-from]] — Meyer F et al.
 - `2025` [[2025_38584548_response-of-male-reproductive-system-against-ioniz]] — Parashar R et al.
 - `2025` [[2025_40108785_the-effects-of-radiofrequency-radiation-on-male-re]] — Bektas H, Dasdag S
 - `2025` [[2025_41034851_the-who-commissioned-systematic-reviews-on-health]] — Melnick RL et al.
@@ -209,12 +210,13 @@
 - `2016` [[2016_26151230_oxidative-mechanisms-of-biological-activity-of-low]] — Yakymenko I et al.
 - `2016` [[2016_26371078_the-link-between-radiofrequencies-emitted-from-wir]] — Dasdag S, Akdag MZ
 
-## thermique (10)
+## thermique (11)
 
 - `2026` [[2026_41445170_radio-frequency-exposure-in-military-contexts-a-na]] — Risling M, Günther M
 - `2026` [[2026_42122726_use-of-microwave-technology-for-agro-based-polymer]] — Cheng HN et al.
 - `2026` [[2026_42530729_metamaterial-assisted-miniaturized-antennas-for-ta]] — Zuo J et al.
 - `2026` [[2026_42797853_can-non-thermal-microwave-irradiation-inactivate-v]] — Galati G, Pavan G
+- `2026` [[2026_43040920_a-biophysical-perspective-on-microwave-induced-neu]] — Chen E et al.
 - `2025` [[2025_40339686_electromagnetic-fields-from-mobile-phones-a-risk-f]] — Seewooruttun C et al.
 - `2025` [[2025_40400318_microwave-power-sources-for-industrial-scientific]] — Cripps S
 - `2025` [[2025_40662412_impact-of-radiofrequency-electromagnetic-fields-on]] — Michelant L, Selmaoui B

@@ -3606,6 +3606,33 @@ KW  - U-net Neural Network
 ER  - 
 
 TY  - JOUR
+AU  - Stroobandt B
+AU  - Liu J
+AU  - Fernandes Veludo A
+AU  - Vecsei Z
+AU  - Necz PP
+AU  - Röösli M
+AU  - Wang S
+AU  - Wiart J
+AU  - Joseph W
+TI  - Application-dependent transmit power for auto-induced uplink exposure assessment from in-situ mobile phone usage in four European countries.
+PY  - 2026
+SP  - 126147
+AB  - Radiofrequency electromagnetic field (RF-EMF) exposure from smartphones depends strongly on user behavior and network conditions, particularly in modern 4G and 5G networks due to increased spatio-temporal variability in uplink transmissions. Understanding exposure differences between realistic usage scenarios is essential for accurate personal exposure assessment. Previous studies mainly focused on legacy technologies or were limited to one country. This study quantifies and compares in-situ average transmit (Tx) powers for voice calls, WhatsApp voice calls, WhatsApp video calls, and uplink file transfers across four European countries, and analyzes how differences between applications, signal strength across locations, and exposure duration relate to uplink Tx power variability. Measurements were performed in 148 outdoor microenvironments in Belgium, France, Hungary, and Switzerland. Trained researchers executed four standardized usage scenarios while network monitoring tools (QualiPoc, Nemo) recorded network parameters from the phone. Uplink file transfers showed the highest Tx powers (median 19.50 dBm), followed by WhatsApp video calls (8.67 dBm) and WhatsApp voice calls (4.20 dBm). Voice calls resulted in the lowest Tx powers (0.27 dBm). 4G dominated usage in Belgium and Hungary, while Switzerland and France showed predominantly simultaneous 4G and 5G operation. The average Tx power exhibited increasing trends with duty cycle and throughput, and an inverse relationship with Reference Signal Received Power (RSRP). Uplink file transfer duration also depended strongly on RSRP. Uplink exposure was shown to be highly application- and location-dependent. These findings support improved personal RF-EMF exposure and dose assessment and provide the first multi-country comparison between applications including non-standalone 5G.
+DO  - 10.1016/j.envres.2026.126147
+UR  - https://pubmed.ncbi.nlm.nih.gov/43044742/
+AN  - 43044742
+KW  - modele:dosimetrie_modelisation
+KW  - theme:neuro_comportement_cognition
+KW  - Duty Cycle
+KW  - Throughput
+KW  - Rf-emf Exposure
+KW  - 5G
+KW  - Transmit Power
+KW  - Rsrp
+ER  - 
+
+TY  - JOUR
 AU  - Jung MH
 TI  - First Experimental Realization of a Cable-Free and Battery-Free Spatial Power Grid Infrastructure
 PY  - 2026
@@ -5399,6 +5426,39 @@ KW  - Ki-67
 KW  - Pancreatic Ductal Adenocarcinoma
 KW  - Grade Of Malignancy
 KW  - Rapid-kvp-switching Dual-energy Ct
+ER  - 
+
+TY  - JOUR
+AU  - Zhu Y
+AU  - Yan Y
+AU  - Zhuang J
+AU  - Liu L
+AU  - Zi Y
+AU  - Leng H
+AU  - Luo W
+AU  - Cao X
+AU  - Huang W
+AU  - Chen L
+AU  - Xu F
+AU  - Zhang Y
+AU  - Wu H
+TI  - Diagnostic Performance of Dual-energy CT Normalized Iodine Concentration in the Assessment of Soft-tissue Tumor Recurrence.
+PY  - 2026
+SP  - e250706
+AB  - Purpose To assess the diagnostic performance of dual-energy CT (DECT) in differentiating postoperative recurrence from scar tissue in participants with soft-tissue tumors. Materials and Methods This prospective observational study included participants with pathologically confirmed soft-tissue tumors who underwent postoperative DECT between December 2021 and September 2024. Thirty-four participants underwent concurrent apparent diffusion coefficient (ADC) mapping. DECT parameters were derived from arterial and venous phase lesion images. Histopathology examination served as the reference standard. Univariable and multivariable logistic regression analyses were used to identify DECT parameters associated with postoperative recurrence. Receiver operating characteristic analysis was used to evaluate diagnostic performance and calculate the area under the receiver operating characteristic curve (AUC), sensitivity, specificity, positive predictive value, and negative predictive value. The DeLong test was used to compare areas under the receiver operating characteristic curve for the selected DECT parameter and ADC among participants with both DECT and ADC data. Results Forty-eight participants were included (mean age ± SD, 42.5 years ± 18.5; 26 male). Venous phase normalized iodine concentration (NIC; odds ratio, 4.60; 95% CI: 1.37, 15.41; <i>P</i> = .01) was associated with postoperative recurrence, with an area under the receiver operating characteristic curve of 0.83 (95% CI: 0.71, 0.95; <i>P</i> < .001); its sensitivity, specificity, positive predictive value, and negative predictive value were 70% (14 of 20), 85.7% (24 of 28), 77.8% (14 of 18), and 80% (24 of 30), respectively. ADC demonstrated an area under the receiver operating characteristic curve of 0.75 (95% CI: 0.55, 0.95; <i>P</i> = .01), with a sensitivity, specificity, positive predictive value, and negative predictive value of 61.5% (8 of 13), 95.2% (20 of 21), 88.9% (8 of 9), and 80% (20 of 25), respectively. Venous phase NIC and ADC showed comparable diagnostic performance. Conclusion Venous phase NIC demonstrated good diagnostic performance in differentiating postoperative recurrence from scar tissue in participants with soft-tissue tumors, with performance comparable to ADC. <b>Keywords:</b> CT, MRI, MR-Diffusion Weighted Imaging, Soft Tissues/Skin, Dual-Energy CT, Soft Tissue Tumor, Recurrence, Apparent Diffusion Coefficient <i>Supplemental material is available for this article.</i> © RSNA, 2026.
+DO  - 10.1148/rycan.250706
+UR  - https://pubmed.ncbi.nlm.nih.gov/43062335/
+AN  - 43062335
+KW  - modele:epidemiologie
+KW  - theme:cancer
+KW  - MRI
+KW  - CT
+KW  - Recurrence
+KW  - Apparent diffusion coefficient
+KW  - Soft Tissue Tumor
+KW  - Dual-energy Ct
+KW  - Soft Tissues/skin
+KW  - Mr-diffusion Weighted Imaging
 ER  - 
 
 TY  - JOUR
@@ -7911,6 +7971,50 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/43036029/
 AN  - 43036029
 KW  - modele:epidemiologie
 KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Yu C
+AU  - Gu Q
+AU  - Liu P
+AU  - He Y
+TI  - Nomogram model based on dual-energy CT quantitative parameters and radiomics for preoperative prediction of microvascular invasion in hepatocellular carcinoma.
+PY  - 2026
+SP  - 1429
+AB  - <h4>Purpose</h4>To explore the potential value of a nomogram model based on dual-energy CT (DECT) quantitative parameters and radiomics for preoperative prediction of microvascular invasion (MVI) in hepatocellular carcinoma.<h4>Methods</h4>A retrospective analysis was conducted on 145 patients with hepatocellular carcinoma who underwent surgical resection. The cohort was randomly divided into a training cohort (n = 101) and a validation cohort (n = 44). Clinical and imaging (semantic imaging features and DECT quantitative parameters) data were analyzed. Intraclass correlation coefficient, Pearson correlation analysis, and least absolute shrinkage and selection operator regression were employed to select radiomic features from portal venous phase and virtual monoenergetic image (40 keV), which were then used to calculate the radiomics score. Logistic regression was adopted to develop clinical and radiomic models; an integrated combined model was further established and plotted as a nomogram. The performance of three models was evaluated by discrimination, calibration, and decision curves. Internal validation was further implemented using repeated cross-validation and bootstrap resampling.<h4>Results</h4>The AUC of the clinical model, radiomics model, and combined model for predicting MVI in the training cohort were 0.683 (95% CI: 0.576, 0.789), 0.886 (95% CI: 0.823, 0.948), and 0.898 (95% CI: 0.838, 0.958), and in the validation cohort were 0.702 (95% CI: 0.541, 0.863), 0.829 (95% CI: 0.702, 0.956), and 0.844 (95% CI: 0.725, 0.963). The calibration and decision curves confirmed that the fusion model was well calibrated and had clinicalutility. The mean AUC of repeated 10 × 10-fold cross-validation was 0.862 (95% CI: 0.616, 1.000), and the bias-corrected AUC from 1000-time bootstrap internal validation was 0.863 (95% CI: 0.849, 0.870).<h4>Conclusion</h4>The nomogram model based on DECT quantitative parameters and radiomics possesses certain value for the preoperative prediction of MVI.
+DO  - 10.1186/s12885-026-16812-7
+UR  - https://pubmed.ncbi.nlm.nih.gov/43040275/
+AN  - 43040275
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - HCC
+KW  - Dect
+KW  - Mvi
+KW  - Radiomics
+ER  - 
+
+TY  - JOUR
+AU  - Wang Z
+AU  - Luo Y
+AU  - You L
+AU  - Cao K
+AU  - Long R
+AU  - Li XT
+AU  - Sun YS
+TI  - Evaluation of lesion and neoadjuvant treatment response using low-keV dual-energy CT in breast cancer.
+PY  - 2026
+SP  - 161
+AB  - <h4>Background</h4>Exploring the capacity of detecting breast cancer lesion on different monoenergetic images (MEIs) and predicting NAT response using quantitative parameters derived from DECT.<h4>Methods</h4>This retrospective study enrolled patients with invasive breast cancer who received NAT followed by surgery. Meanwhile, all participants underwent chest DECT and breast MRI before and after NAT. The first end was to assess different MEIs for detecting breast lesion using objective and subjective measurements. The second end was to establish model for predicting pCR using quantitative parameters, and compare the model with visual MRI-rCR. The Kaplan-Meier method was used to analyze prognosis.<h4>Results</h4>199 women with breast cancer were included (median age, 50 years). 52 (26.13%) achieved pCR and 147 (73.87%) were non-pCR after NAT. Low keV MEI had optimal performance to characterize lesion, especially on 40 keV MEI at venous phase (CNR: 6.55, SNR: 7.23, Likert score: 5; all p < 0.001). The multivariable regression showed HER2 positivity (OR, 0.155; 95% CI: 0.061-0.393; p < 0.001) and CT value on 40 keV MEI at venous phase (OR, 1.067; 95% CI: 1.020-1.117; p = 0.005) were independently associated with pCR. The established combined model yielded an AUC of 0.900 (95% CI: 0.856-0.944) when assessed on the full study cohort, beyond the MRI-rCR (AUC, 0.900 vs. 0.782; p = 0.003). The model also showed a nominally significant association with disease-free survival (DFS) on the whole dataset (log-rank, p = 0.046).<h4>Conclusions</h4>MEI with low keV significantly improved visualization of breast cancer. Quantitative parameters derived from 40 keV MEI demonstrated superior value for assessing NAT response and prognosis compared to MRI-rCR.<h4>Question</h4>Dual-energy CT has been used for diagnosis of breast lesion. However, the predictive performance to evaluate neoadjuvant treatment response remains unexplored in breast cancer.<h4>Findings</h4>Monoenergetic images (MEIs) with low keV has optimal performance for visualization of breast cancer and its quantitative parameters can identify NAT response and prognosis.<h4>Clinical relevance</h4>Low keV MEI effectively visualizes breast cancer as a complementary examination. Its quantitative parameters at 40 keV MEI demonstrated superior value for assessing NAT response and prognosis compared to MRI-rCR so as to assist clinical strategies.<h4>Clinical trial registration</h4>Not applicable.
+DO  - 10.1186/s40644-026-01116-7
+UR  - https://pubmed.ncbi.nlm.nih.gov/43053240/
+AN  - 43053240
+KW  - modele:epidemiologie
+KW  - theme:general
+KW  - Breast cancer
+KW  - Prognosis
+KW  - Magnetic Resonance Imaging
+KW  - Dual-energy Computed Tomography
+KW  - Neoadjuvant Treatment Response
 ER  - 
 
 TY  - JOUR
@@ -14267,6 +14371,29 @@ KW  - Nonthermal Electromagnetic Fields
 ER  - 
 
 TY  - JOUR
+AU  - Zhou X
+AU  - Wu S
+AU  - Qi L
+AU  - Guo R
+AU  - Tian J
+AU  - Fan Z
+TI  - Structure, stability and in vitro digestion performance of whey protein-inulin glycosylation conjugates and anthocyanins complexes by microwave-assisted wet-heating based on Maillard reaction.
+PY  - 2026
+SP  - 155297
+AB  - To address the instability and low bioavailability of anthocyanins (ANC), this study developed a protein-polysaccharide delivery system based on whey protein (WP)-inulin (INU) conjugates. Microwave-assisted glycosylation, rather than traditional wet-heating, was employed to construct a porous network architecture within the conjugates to optimize ligand encapsulation and controlled release. Structural characterization revealed that microwave irradiation induced protein unfolding and exposed reactive sites. This process significantly increased grafting efficiency and minimized browning compared to conventional methods. Multi-spectroscopic analysis, combined with molecular docking and molecular dynamics (MD) simulations, elucidated the interaction mechanism. ANC was effectively encapsulated within the hydrophobic pockets of the conjugates primarily through hydrogen bonding, π-π stacking, and hydrophobic interactions, exhibiting high binding affinity via a static quenching mechanism. The steric hindrance provided by the covalently grafted inulin chains effectively shielded ANC from thermal degradation, alkaline pH, and metal ions. In vitro simulated digestion demonstrated that the glycosylated carrier significantly enhanced ANC resistance to gastric proteolysis and facilitated targeted release in the intestinal phase. This study provides insights into designing porous functional food carriers for the efficient delivery of labile bioactive compounds.
+DO  - 10.1016/j.ijbiomac.2026.155297
+UR  - https://pubmed.ncbi.nlm.nih.gov/43064085/
+AN  - 43064085
+KW  - modele:in_vitro
+KW  - theme:general
+KW  - Anthocyanins
+KW  - Molecular dynamics simulation
+KW  - Delivery system
+KW  - In vitro digestion
+KW  - Microwave-assisted Glycosylation
+ER  - 
+
+TY  - JOUR
 AU  - Sivadasan G
 AU  - Urala AS
 AU  - Venugopal A
@@ -19089,6 +19216,27 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42776981/
 AN  - 42776981
 KW  - modele:in_vivo
 KW  - theme:general
+ER  - 
+
+TY  - JOUR
+AU  - Xiaoli L
+AU  - Moyers MF
+TI  - Characterization of animal tissues for Monte Carlo simulations in ion beam therapy.
+PY  - 2026
+SP  - e70836
+AB  - <h4>Purpose</h4>To obtain better elemental compositions (ECs), physical densities (PDs), and relative linear stopping powers (RLSPs) of tissues scanned by single or dual energy computed tomography for use by Monte Carlo (MC) simulations of light ion beam therapy.<h4>Methods and materials</h4>The RLSPs of 12 animal tissue samples were measured using several different energy proton and carbon ion beams. The EC of each sample was analyzed using the following modern laboratory techniques: Inductively coupled plasma optical emission spectrometry (ICP-OES), inductively coupled plasma mass spectrometry (ICP-MS), organic elemental analysis (OEA), and ion chromatography (IC). RLSPs were calculated from both measured ECs and literature ECs and then compared with measured RLSPs. All samples underwent single-energy CT (SECT) and dual-energy CT (DECT) scanning after which a dual-energy index (DEI) was derived. A mapping from computed tomography number (CTN) and DEI to PD was performed.<h4>Results</h4>For each tissue sample, the measured RLSPs showed no significant dependence on beam energy or ion species, with all values agreeing to within ± 1% except for lung (within ± 2%). RLSPs directly measured and those calculated using measured PDs and ECs agreed within ± 2% except for lung. Measured RLSPs were slightly closer to values from laboratory-determined ECs than to literature ECs.<h4>Conclusions</h4>RLSP measurements were independent of beam energy and ion species. The main determinants of accurate CTN to RLSP conversion are the PDs and fractional hydrogen content of the tissues. The accuracy of PD and EC for input into Monte Carlo transport calculations can be improved by combining DEI and scaled CTN.
+DO  - 10.1002/acm2.70836
+UR  - https://pubmed.ncbi.nlm.nih.gov/42834590/
+AN  - 42834590
+KW  - modele:in_vivo
+KW  - theme:general
+KW  - modele:dosimetrie_modelisation
+KW  - Elemental composition
+KW  - Protons
+KW  - Carbon Ions
+KW  - Ct Number
+KW  - Dual Energy Ct Index
+KW  - Relative Linear Stopping Power
 ER  - 
 
 TY  - JOUR
@@ -27216,6 +27364,33 @@ KW  - Membrane fluidity
 KW  - Radiofrequency Radiation
 KW  - Hematopoietic Stem And Progenitor Cells
 KW  - Calcium Efflux
+ER  - 
+
+TY  - JOUR
+AU  - Wang J
+AU  - Cheng H
+AU  - An M
+AU  - Yang Y
+AU  - Han P
+AU  - Qin J
+AU  - Yao X
+AU  - Zhang X
+TI  - An antibacterial microneedle with chemodynamic therapy triggered by microwave thermal effect for diabetic infected wound healing.
+PY  - 2026
+SP  - 445-458
+AB  - <h4>Introduction</h4>Microwave-assisted therapy possesses a good prospect of clinical application in bacterial infections treatment owing to the excellent tissue penetration. However, the weak energy of microwave limits the catalytic performance of sensitizers to generate enough reactive oxygen species to kill bacteria. The Fe<sub>3</sub>O<sub>4</sub>@AIPH microneedle patch offers the potential to achieve effectively antibacterial and anti-inflammatory effects solely through microwave thermal effects, thereby accelerating wound healing in diabetic patients.<h4>Objectives</h4>The objective of the study is to develop a microneedle patch utilizing microwave-responsive therapy to effectively eliminate bacterial infections and suppress inflammation, thereby accelerating the healing of diabetic infectious wounds.<h4>Methods</h4>Fe<sub>3</sub>O<sub>4</sub>@AIPH nanoparticles were constructed using a layer-by-layer self-assembly method and then loaded onto hyaluronic acid microneedle patches. The antibacterial capability of the microneedle patch was evaluated using S.aureus/E.coli, and the antibacterial mechanism was analyzed using RNA sequencing technology and molecular dynamics simulation. The biocompatibility and anti-inflammatory capability of the microneedle patch were evaluated using fibroblasts/macrophages. Finally, an animal model was constructed to evaluate the ability of the microneedle patch to promote the healing of diabetic infected wounds.<h4>Results</h4>The microneedle inhibited the amino acid biosynthesis process and GSH transferase homolog activity in bacteria, achieving antibacterial rates of 98.72 % (S. aureus) and 99.99 % (E. coli) at mild temperature within 10 min irradiation, respectively. Additionally, microneedle patches can suppress inflammatory responses near diabetic infection wounds.<h4>Conclusions</h4>Fe<sub>3</sub>O<sub>4</sub>@AIPH microneedle patch exhibit excellent antibacterial and anti-inflammatory properties under microwave irradiation, effectively accelerating the healing process of diabetic infected wounds. Additionally, both ferrite and microwave therapy devices have received FDA approval for medical purposes, offering potential for the clinical application of microwave-responsive Fe<sub>3</sub>O<sub>4</sub>@AIPH microneedle patches. Long-term microwave-assisted therapy may carry the potential risk of excessive skin temperatures, capable of alleviation through improvement in material microwave absorption efficiency or adoption of a segmented treatment strategy.
+DO  - 10.1016/j.jare.2026.02.033
+UR  - https://pubmed.ncbi.nlm.nih.gov/41713735/
+AN  - 41713735
+KW  - modele:in_vivo
+KW  - theme:thermique
+KW  - modele:in_vitro
+KW  - theme:stress_oxydatif
+KW  - Wound healing
+KW  - Anti-inflammatory
+KW  - Nanomedicine
+KW  - Microneedle Patch
+KW  - Microwave Response Therapy
 ER  - 
 
 TY  - JOUR
@@ -38455,6 +38630,38 @@ KW  - Rf-emr
 ER  - 
 
 TY  - JOUR
+AU  - Meyer F
+AU  - Baaken D
+AU  - Belenki D
+AU  - Kuhne J
+AU  - Lerchl A
+AU  - Ludwig T
+AU  - Pophof B
+AU  - Schmid G
+AU  - Schmidt JA
+AU  - Weiser E
+AU  - Zang M
+TI  - The Effects of Electromagnetic Field Exposure From Static to Intermediate Frequencies (0 to 100 kHz) on Fertility: A Protocol For A Systematic Review On Experimental Studies.
+PY  - 2026
+AB  - Exposure to manmade static, extremely low frequency, and intermediate frequency electric and magnetic fields is widespread and is expected to change due to expanding power infrastructures and wireless power applications. Although conclusive evidence of adverse health effects of these exposures is lacking, experimental studies suggest potential effects on male and female fertility, as well as pregnancy and birth outcomes. To support risk assessment and policy decisions, this protocol describes proposed methods for the systematic review that will evaluate the published data on effects of exposure to electric, magnetic, and electromagnetic fields with frequencies from 0 to 100 kilohertz. The review will focus on three key areas: integrity and function of the male reproductive system, integrity and function of the female reproductive system, and in utero exposure effects on pregnancy outcomes, congenital disorders, and delayed effects. Both in vivo and in vitro studies involving humans, rodents, and Lagomorpha will be included. Studies must include comparisons between exposed groups and groups with no or sham exposure, without restrictions on language or publication date. Databases to be searched include PubMed, Embase, Web of Science, Scopus, and the EMF-Portal. Where studies are sufficiently similar, data will be combined in meta-analyses; otherwise, findings will be reported narratively. The risk of bias in studies will be evaluated using a specialized rating tool designed for human and animal research. Certainty of conclusions regarding associations between exposure and fertility outcomes will be assessed using an established grading system, rating evidence as high, moderate, low, or very low. This review aims to provide a transparent synthesis to clarify potential reproductive risks linked to low-frequency electromagnetic field exposure.
+DO  - 10.1097/hp.0000000000002196
+UR  - https://pubmed.ncbi.nlm.nih.gov/43037649/
+AN  - 43037649
+KW  - modele:revue
+KW  - theme:reproduction
+KW  - modele:in_vivo
+KW  - modele:in_vitro
+KW  - theme:neurodeveloppement
+KW  - Fertility
+KW  - Experimental studies
+KW  - Systematic review
+KW  - Birth Outcomes
+KW  - Intermediate Frequency Fields
+KW  - Low Frequency Fields
+KW  - Static Fields
+ER  - 
+
+TY  - JOUR
 AU  - Yakymenko I
 AU  - Tsybulin O
 AU  - Sidorik E
@@ -39059,4 +39266,29 @@ KW  - microwave irradiation
 KW  - Radiofrequency Exposure
 KW  - Sars-cov-2
 KW  - Non-thermal Microwave
+ER  - 
+
+TY  - JOUR
+AU  - Chen E
+AU  - Chen W
+AU  - Zhang J
+AU  - Hagness S
+AU  - Hai A
+AU  - Franck C
+TI  - A Biophysical Perspective on Microwave-Induced Neurobiological Effects.
+PY  - 2026
+SP  - S0006-3495(26)00784-8
+AB  - Microwave radiation interacts with the nervous system through a cascade of electromagnetic, thermal, and mechanical perturbations that drive a broad range of neurobiological responses. Although exposure guidelines are based on specific absorption rate (SAR), substantive evidence indicates that neurobiological effects arise across frequencies, waveforms, and SAR levels that SAR alone cannot characterize. We distinguish net-thermal, transient-thermal, and non-thermal mechanisms according to whether a response is mediated by the net temperature rise, by the heating rate and temperature gradients, or largerly independent of temperature change. This review traces the physical perturbation cascade from electromagnetic field distribution through thermal dynamics to thermoelastic stress, and reviews five biological endpoints: genotoxicity, molecular dysregulation and signaling, blood-brain barrier (BBB) permeability, electrophysiology, and behavioral changes. A consistent finding is that many studies report associations with only SAR and frequency, omitting the intermediate physical quantities that drive the responses, and thus obscuring a mechanistic understanding of the causal chain. Mapping of reported studies into the SAR-frequency space reveals a clustering within the 0.9-3 GHz band and near SAR = 2 W/kg, with biological alterations reported below these limits under both continuous and pulsed exposures. These findings motivate future work that directly quantifies spatiotemporal physical perturbations to close the gap between exposure conditions and neurobiological outcomes.
+DO  - 10.1016/j.bpj.2026.11.015
+UR  - https://pubmed.ncbi.nlm.nih.gov/43040920/
+AN  - 43040920
+KW  - modele:revue
+KW  - theme:thermique
+KW  - modele:dosimetrie_modelisation
+KW  - theme:barriere_hemato_encephalique
+KW  - theme:genotoxicite_epigenetique
+KW  - theme:dosimetrie_exposition
+KW  - Microwave radiation
+KW  - Neurobiological Effects
+KW  - Brain Injury Mechanisms
 ER  - 

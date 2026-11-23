@@ -1,8 +1,8 @@
 # epidemiologie
 
-252 articles.
+255 articles.
 
-## cancer (28)
+## cancer (29)
 
 - `2026` [[2026_41753103_ct-guided-lung-biopsy-using-dual-energy-iodine-map]] — Naamany E et al.
 - `2026` [[2026_42147883_dual-phase-dual-energy-computed-tomography-dect-in]] — Hou R et al.
@@ -10,6 +10,7 @@
 - `2026` [[2026_42640753_added-value-of-dual-energy-ct-to-ultrasound-assess]] — Hu Y et al.
 - `2026` [[2026_42944910_preoperative-risk-stratification-for-anastomotic-l]] — Ren T et al.
 - `2026` [[2026_42988510_noninvasive-prediction-of-tumor-malignancy-grade-i]] — Li M et al.
+- `2026` [[2026_43062335_diagnostic-performance-of-dual-energy-ct-normalize]] — Zhu Y et al.
 - `2024` [[2024_38458118_mobile-phone-use-and-brain-tumour-risk-cosmos-a-pr]] — Feychting M et al.
 - `2024` [[2024_38677087_letter-to-the-editor]] — Kundi M
 - `2023` [[2023_36279918_on-radar-and-radio-exposure-and-cancer-in-the-mili]] — Peleg M et al.
@@ -78,7 +79,7 @@
 - `2005` [[2005_16272890_the-effect-of-electromagnetic-fields-emitted-by-mo]] — Loughran SP et al.
 - `2004` [[2004_15345189_are-thyroid-dysfunctions-related-to-stress-or-micr]] — Bergamaschi A et al.
 
-## general (64)
+## general (66)
 
 - `2026` [[2026_40767779_first-generation-photon-counting-computed-tomograp]] — Ghibes P et al.
 - `2026` [[2026_41408085_multi-parametric-dual-energy-ct-radiomics-for-diff]] — Zhan Y et al.
@@ -102,6 +103,8 @@
 - `2026` [[2026_42725567_heart-rate-variability-responses-to-26-ghz-millime]] — Michelant L et al.
 - `2026` [[2026_42882415_dual-energy-computed-tomography-versus-conventiona]] — Loo JH et al.
 - `2026` [[2026_43036029_virtual-non-calcium-dual-energy-computed-tomograph]] — Öztepe MF et al.
+- `2026` [[2026_43040275_nomogram-model-based-on-dual-energy-ct-quantitativ]] — Yu C et al.
+- `2026` [[2026_43053240_evaluation-of-lesion-and-neoadjuvant-treatment-res]] — Wang Z et al.
 - `2026` [[2026_PPR1263729_model-construction-and-validation-of-dual-energy-c]] — Zhu H et al.
 - `2026` [[2026_PPR1280055_dual-energy-computed-tomography-versus-magnetic-re]] — Loo JH et al.
 - `2026` [[2026_PPR1296103_outdoor-radiofrequency-electromagnetic-field-monit]] — Rebernig A, Belyaev I

@@ -1,6 +1,6 @@
 # in_vitro
 
-164 articles.
+165 articles.
 
 ## apoptose_mitochondrie (40)
 
@@ -81,12 +81,13 @@
 - `2020` [[2020_33074167_microtubular-structure-impairment-after-gsm-modula]] — Čermak AMM et al.
 - `2015` [[2015_25194051_effect-of-a-2-45-ghz-radiofrequency-electromagneti]] — Koyama S et al.
 
-## general (18)
+## general (19)
 
 - `2026` [[2026_42188378_atmospheric-cold-microwave-argon-plasma-for-decont]] — Bogdanov T et al.
 - `2026` [[2026_42451482_a-duty-cycled-pll-and-fractal-antenna-co-design-ar]] — Zou W et al.
 - `2026` [[2026_42656385_arresting-spirochetes-nonthermal-extremely-low-fre]] — Nilsen EA et al.
 - `2026` [[2026_42729640_correction-arresting-spirochetes-nonthermal-extrem]] — Nilsen EA et al.
+- `2026` [[2026_43064085_structure-stability-and-in-vitro-digestion-perform]] — Zhou X et al.
 - `2026` [[2026_PPR1184219_effect-of-cellular-radiation-on-nickel-release-fro]] — Sivadasan G et al.
 - `2025` [[2025_40363678_inhibiting-lt-i-gt-escherichia-coli-lt-i-gt-growth]] — Yokota Y et al.
 - `2025` [[2025_40463489_prophylactic-effect-of-microwave-radiation-on-lt-i]] — Shamsaei A et al.
